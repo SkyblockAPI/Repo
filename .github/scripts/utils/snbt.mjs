@@ -101,7 +101,7 @@ export const decode = (input) => {
         reader.expect('"');
         return result;
     } else {
-        const digits = reader.readUntil(c => !isNaN(c) && c !== '.' && c !== '-');
+        const digits = reader.readUntil(c => !isNaN(c) || c === '.' || c === '-');
         reader.readIf('b');
         reader.readIf('s');
         reader.readIf('l');
