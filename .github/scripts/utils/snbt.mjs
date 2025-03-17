@@ -103,9 +103,13 @@ export const decode = (input) => {
     } else {
         const digits = reader.readUntil(c => !isNaN(c) || c === '.' || c === '-');
         reader.readIf('b');
+        reader.readIf('B');
         reader.readIf('s');
+        reader.readIf('S');
         reader.readIf('l');
+        reader.readIf('L');
         reader.readIf('f');
+        reader.readIf('F');
         return parseFloat(digits);
     }
 }
