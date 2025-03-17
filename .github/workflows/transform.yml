@@ -18,7 +18,9 @@ jobs:
           node-version: '20'
 
       - name: Run Script
-        run: ./.github/scripts/start.sh
+        run: |
+          chmod +x ./.github/scripts/start.sh
+          ./.github/scripts/start.sh
 
       - name: Commit and push changes
         run: |
