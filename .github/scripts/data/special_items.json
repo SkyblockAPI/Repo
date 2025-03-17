@@ -1,0 +1,6 @@
+{
+    "__comment__": "NEU Puts fake items in the repo so we need to remove those",
+    "items": [
+        "MAXED_ENCHANT_BOOK"
+    ]
+}

@@ -1,0 +1,29 @@
+name: Transform
+
+on:
+  workflow_dispatch:
+
+jobs:
+  parse-basic-items:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Run Script
+        run: ./.github/scripts/start.sh
+
+      - name: Commit and push changes
+        run: |
+            git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git config --global user.name "github-actions[bot]"
+            git add .
+            git commit -m "Update Repository"
+            git push
