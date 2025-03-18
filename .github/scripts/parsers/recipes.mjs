@@ -46,7 +46,7 @@ const parseCraftingRecipe = (item, recipe) => {
                 if (index === -1) throw new Error(`Unknown key: ${key}`);
                 return index;
             }),
-        result: getResult(item, recipe.count ?? 1),
+        result: getResult(item, recipe.count || 1),
     };
 }
 
@@ -65,7 +65,7 @@ const parseForgeRecipe = (item, recipe) => {
         inputs: inputs.filter(it => it.id !== COINS_ID),
         coins: coins,
         time: recipe.duration ?? 0,
-        result: getResult(item, recipe.count ?? 1),
+        result: getResult(item, recipe.count || 1),
     }
 }
 
