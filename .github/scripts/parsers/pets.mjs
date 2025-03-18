@@ -3,7 +3,28 @@ import fs from "fs";
 const RIGHT_CLICK_LORE_1 = "§7§eRight-click to add this pet to your";
 const RIGHT_CLICK_LORE_2 = "§7§eRight-click to add this pet to";
 
+const stats = JSON.parse(fs.readFileSync("neu/constants/petnums.json", "utf-8"));
+
 const petsFile = {}
+
+const getPetVariables = (pet, tier) => {
+    if (!stats[pet]) return {}
+    if (!stats[pet][tier]) {}
+
+    const variables = {};
+    const min = stats[pet][tier]["1"];
+    const max = stats[pet][tier]["100"];
+
+    for (let [index, num] of min.otherNums.entries()) {
+        variables[`${index}`] = [num, max.otherNums[index]];
+    }
+
+    for (let [key, num] of Object.entries(min.statNums)) {
+        variables[key] = [num, max.statNums[key]];
+    }
+
+    return variables
+}
 
 export const Pets = {
     /** @param item {Item} */
@@ -33,6 +54,7 @@ export const Pets = {
         data.tiers[item.pet.tier] = {
             texture: item.nbt.SkullOwner.Properties.textures[0].Value,
             lore: lore,
+            variables: getPetVariables(item.pet.type, item.pet.tier)
         }
 
         petsFile[petId] = data
