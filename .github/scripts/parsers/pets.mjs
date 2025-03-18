@@ -15,7 +15,7 @@ export const Pets = {
 
         const data = petsFile[petId] || {
             id: petId,
-            name: item.displayname,
+            name: item.displayname.replace("^(§.)+[Lvl {LVL}] (§.)+", ""),
             tiers: {}
         };
 
