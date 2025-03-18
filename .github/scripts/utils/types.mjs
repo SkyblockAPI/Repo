@@ -20,6 +20,8 @@
  * @property {string} nbttag
  * @property {number} damage
  * @property {string[]} lore
+ * @property {{[key: string]: string}} recipe
+ * @property {[Object]} recipes
  *
  * @property {ItemNbt?} nbt
  * @property {PetInfo?} pet
