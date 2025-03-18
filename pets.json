@@ -1,7 +1,7 @@
 {
     "AMMONITE": {
         "id": "AMMONITE",
-        "name": "§7[Lvl {LVL}] §6Ammonite",
+        "name": "Ammonite",
         "tiers": {
             "LEGENDARY": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYyMDExNTI5NDE1NiwKICAicHJvZmlsZUlkIiA6ICI0NWY3YTJlNjE3ODE0YjJjODAwODM5MmRmN2IzNWY0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfSnVzdERvSXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTA3NGE3YmQ5NzZmZTZhYmExNjI0MTYxNzkzYmU1NDdkNTRjODM1Y2Y0MjIyNDNhODUxYmEwOWQxZTY1MDU1MyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
@@ -33,7 +33,7 @@
     },
     "ANKYLOSAURUS": {
         "id": "ANKYLOSAURUS",
-        "name": "§7[Lvl {LVL}] §6Ankylosaurus",
+        "name": "Ankylosaurus",
         "tiers": {
             "LEGENDARY": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcwNzg1NDEzMjkzNSwKICAicHJvZmlsZUlkIiA6ICIzMjQ4M2M4YmNiNDk0N2Y0OTA2ZGM1NjgxMmVmZDA0NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJZYXJPMTcwMzAzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MxYWE4MzZiOTA5NmM0MTc5MDMyOTlhNmM1YWI0MTczOGMxOTY0OGFjNDM5ZmVkNGJjYmU2YzMyNjA1MzM4ZGMiCiAgICB9CiAgfQp9",
@@ -65,7 +65,7 @@
     },
     "ARMADILLO": {
         "id": "ARMADILLO",
-        "name": "§7[Lvl {LVL}] §fArmadillo",
+        "name": "Armadillo",
         "tiers": {
             "COMMON": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYyMDEyMDM3NzYxMSwKICAicHJvZmlsZUlkIiA6ICI4OGU0YWNiYTQwOTc0YWZkYmE0ZDM1YjdlYzdmNmJmYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJKb2FvMDkxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMWViNmRmNDczNmFlMjRkZDEyYTNkMDBmOTFlNmUzYWE3YWRlNmJiZWZiMDk3OGFmZWYyZjBmOTI0NjEwMThmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
@@ -191,7 +191,7 @@
     },
     "BABY_YETI": {
         "id": "BABY_YETI",
-        "name": "§7[Lvl {LVL}] §5Baby Yeti",
+        "name": "Baby Yeti",
         "tiers": {
             "EPIC": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWIxMjY4MTRmYzNmYTg0NmRhZDkzNGMzNDk2MjhhN2ExZGU1YjQxNTAyMWEwM2VmNDIxMWQ2MjUxNGQ1In19fQ==",
@@ -239,7 +239,7 @@
     },
     "BAL": {
         "id": "BAL",
-        "name": "§7[Lvl {LVL}] §5Bal",
+        "name": "Bal",
         "tiers": {
             "EPIC": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYyMDM3NTcwNjg0MywKICAicHJvZmlsZUlkIiA6ICIwNWQ0NTNiZWE0N2Y0MThiOWI2ZDUzODg0MWQxMDY2MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFY2hvcnJhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M0NjliYTIwNDcxMjJlMGEyZGUzYzc0MzdhZDNkZDVkMzFmMWFjMmQyN2FiZGU5Zjg4NDFlMWQ5MmE4YzViNzUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
@@ -287,7 +287,7 @@
     },
     "BAT": {
         "id": "BAT",
-        "name": "§f§f§7[Lvl {LVL}] §fBat",
+        "name": "Bat",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzgyZmMzZjcxYjQxNzY5Mzc2YTllOTJmZTNhZGJhYWMzNzcyYjk5OWIyMTljOWQ2YjQ2ODBiYTk5ODNlNTI3In19fQ==",
@@ -418,7 +418,7 @@
     },
     "BEE": {
         "id": "BEE",
-        "name": "§f§f§7[Lvl {LVL}] §fBee",
+        "name": "Bee",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2U5NDE5ODdlODI1YTI0ZWE3YmFhZmFiOTgxOTM0NGI2YzI0N2M3NWM1NGE2OTE5ODdjZDI5NmJjMTYzYzI2MyJ9fX0=",
@@ -550,7 +550,7 @@
     },
     "BINGO": {
         "id": "BINGO",
-        "name": "§7[Lvl {LVL}] §fBingo",
+        "name": "Bingo",
         "tiers": {
             "COMMON": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYzNzI2OTYwMTEyNiwKICAicHJvZmlsZUlkIiA6ICJjNmE2N2QwMmY4MGM0MjhmODYyNmQ5MjhlOTNjN2FjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJHaW92YW5uaVdpamF5YSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNGNkOWM3MDdjNzA5MmQ0NzU5ZmUyYjJiNmE3MTMyMTViNmUzOTkxOWVjNGU3YWZiMWFlMmI2Zjg1NzY2NzRjIgogICAgfQogIH0KfQ==",
@@ -741,7 +741,7 @@
     },
     "BLACK_CAT": {
         "id": "BLACK_CAT",
-        "name": "§f§f§7[Lvl {LVL}] §6Black Cat",
+        "name": "Black Cat",
         "tiers": {
             "LEGENDARY": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTRiNDVjYmFhMTlmZTNkNjhjODU2Y2QzODQ2YzAzYjVmNTlkZTgxYTQ4MGVlYzkyMWFiNGZhM2NkODEzMTcifX19",
@@ -797,7 +797,7 @@
     },
     "BLAZE": {
         "id": "BLAZE",
-        "name": "§f§f§7[Lvl {LVL}] §5Blaze",
+        "name": "Blaze",
         "tiers": {
             "EPIC": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjc4ZWYyZTRjZjJjNDFhMmQxNGJmZGU5Y2FmZjEwMjE5ZjViMWJmNWIzNWE0OWViNTFjNjQ2Nzg4MmNiNWYwIn19fQ==",
@@ -845,7 +845,7 @@
     },
     "BLUE_WHALE": {
         "id": "BLUE_WHALE",
-        "name": "§f§f§7[Lvl {LVL}] §fBlue Whale",
+        "name": "Blue Whale",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFiNzc5YmJjY2M4NDlmODgyNzNkODQ0ZThjYTJmM2E2N2ExNjk5Y2IyMTZjMGExMWI0NDMyNmNlMmNjMjAifX19",
@@ -931,7 +931,7 @@
     },
     "CHICKEN": {
         "id": "CHICKEN",
-        "name": "§f§f§7[Lvl {LVL}] §fChicken",
+        "name": "Chicken",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2YzN2Q1MjRjM2VlZDE3MWNlMTQ5ODg3ZWExZGVlNGVkMzk5OTA0NzI3ZDUyMTg2NTY4OGVjZTNiYWM3NWUifX19",
@@ -1023,7 +1023,7 @@
     },
     "DOLPHIN": {
         "id": "DOLPHIN",
-        "name": "§7[Lvl {LVL}] §fDolphin",
+        "name": "Dolphin",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmZTdkODAzYTQ1YWEyYWYxOTkzZGYyNTQ0YTI4ZGY4NDlhNzYyNjYzNzE5YmZlZmM1OGJmMzg5YWI3ZjUifX19",
@@ -1125,7 +1125,7 @@
     },
     "DROPLET_WISP": {
         "id": "DROPLET_WISP",
-        "name": "§7[Lvl {LVL}] §aDroplet Wisp",
+        "name": "Droplet Wisp",
         "tiers": {
             "UNCOMMON": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY0NjYxOTA3MTM2NSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjQxMmU3MDM3NWVjOTllZTM4YWU5NGIzMGU5YjEwNzUyZDQ1OTY2MmI1NDc5NGRmZTY2ZmU2YTE4M2M2NzJkMyIKICAgIH0KICB9Cn0=",
@@ -1157,7 +1157,7 @@
     },
     "EERIE": {
         "id": "EERIE",
-        "name": "§7[Lvl {LVL}] §fEerie",
+        "name": "Eerie",
         "tiers": {
             "COMMON": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY5NTY2NTQ5MTMwMiwKICAicHJvZmlsZUlkIiA6ICJkYmQ4MDQ2M2EwMzY0Y2FjYjI3OGNhODBhMDBkZGIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4bG9nMjEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzNhZjcwYzZmZjc2YmE0OGYyNGVlOGEyMDYzYTViNTBiYmZhYmY0MDlmNDc5NTI0OGEyOTJmODI4OWY0N2M5OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
@@ -1242,7 +1242,7 @@
     },
     "ELEPHANT": {
         "id": "ELEPHANT",
-        "name": "§f§f§7[Lvl {LVL}] §fElephant",
+        "name": "Elephant",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzA3MWE3NmY2NjlkYjVlZDZkMzJiNDhiYjJkYmE1NWQ1MzE3ZDdmNDUyMjVjYjMyNjdlYzQzNWNmYTUxNCJ9fX0=",
@@ -1340,7 +1340,7 @@
     },
     "ENDERMAN": {
         "id": "ENDERMAN",
-        "name": "§f§f§7[Lvl {LVL}] §fEnderman",
+        "name": "Enderman",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmVhYjc1ZWFhNWM5ZjJjNDNhMGQyM2NmZGNlMzVmNGRmNjMyZTk4MTUwMDE4NTAzNzczODVmN2IyZjAzOWNlMSJ9fX0=",
@@ -1461,7 +1461,7 @@
     },
     "ENDERMITE": {
         "id": "ENDERMITE",
-        "name": "§f§f§7[Lvl {LVL}] §fEndermite",
+        "name": "Endermite",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWExYTA4MzFhYTAzYWZiNDIxMmFkY2JiMjRlNWRmYWE3ZjQ3NmExMTczZmNlMjU5ZWY3NWE4NTg1NSJ9fX0=",
@@ -1602,7 +1602,7 @@
     },
     "ENDER_DRAGON": {
         "id": "ENDER_DRAGON",
-        "name": "§7[Lvl {LVL}] §5Ender Dragon",
+        "name": "Ender Dragon",
         "tiers": {
             "EPIC": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWVjM2ZmNTYzMjkwYjEzZmYzYmNjMzY4OThhZjdlYWE5ODhiNmNjMThkYzI1NDE0N2Y1ODM3NGFmZTliMjFiOSJ9fX0=",
@@ -1656,7 +1656,7 @@
     },
     "FLYING_FISH": {
         "id": "FLYING_FISH",
-        "name": "§7[Lvl {LVL}] §9Flying Fish",
+        "name": "Flying Fish",
         "tiers": {
             "RARE": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDBjZDcxZmJiYmJiNjZjN2JhZjc4ODFmNDE1YzY0ZmE4NGY2NTA0OTU4YTU3Y2NkYjg1ODkyNTI2NDdlYSJ9fX0=",
@@ -1791,7 +1791,7 @@
     },
     "FROST_WISP": {
         "id": "FROST_WISP",
-        "name": "§7[Lvl {LVL}] §9Frost Wisp",
+        "name": "Frost Wisp",
         "tiers": {
             "RARE": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY0NjYxOTA5NDQ5MywKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWQ4YWQ5OTM2ZDc1OGM1ZWEzMGIwYjdjYzdjNjdjMmJmY2VhODI5ZWNmMjQyNWMwYjUwZmM5MmEyNmFlMjNkMCIKICAgIH0KICB9Cn0=",
@@ -1831,7 +1831,7 @@
     },
     "GHOUL": {
         "id": "GHOUL",
-        "name": "§f§f§7[Lvl {LVL}] §5Ghoul",
+        "name": "Ghoul",
         "tiers": {
             "EPIC": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODc5MzQ1NjViZjUyMmY2ZjQ3MjZjZGZlMTI3MTM3YmUxMWQzN2MzMTBkYjM0ZDhjNzAyNTMzOTJiNWZmNWIifX19",
@@ -1889,7 +1889,7 @@
     },
     "GIRAFFE": {
         "id": "GIRAFFE",
-        "name": "§7[Lvl {LVL}] §fGiraffe",
+        "name": "Giraffe",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTc2YjRlMzkwZjJlY2RiOGE3OGRjNjExNzg5Y2EwYWYxZTdlMDkyMjkzMTljM2E3YWE4MjA5YjYzYjkifX19",
@@ -1993,7 +1993,7 @@
     },
     "GLACIAL_WISP": {
         "id": "GLACIAL_WISP",
-        "name": "§7[Lvl {LVL}] §5Glacial Wisp",
+        "name": "Glacial Wisp",
         "tiers": {
             "EPIC": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY0NjYxOTExMzA4NSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2UyMDE4ZmVlYmUxYTk5MTc3YjNjYjE5NmQ0ZTQ0NTIxMjY4YjRiM2ViNTZlNjQxOWNiMDI1M2NkYmYwNDU2YyIKICAgIH0KICB9Cn0=",
@@ -2033,7 +2033,7 @@
     },
     "GLACITE_GOLEM": {
         "id": "GLACITE_GOLEM",
-        "name": "§7[Lvl {LVL}] §5Glacite Golem",
+        "name": "Glacite Golem",
         "tiers": {
             "EPIC": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcxMjg5ODYzMjcxMSwKICAicHJvZmlsZUlkIiA6ICJmNmYxY2IxMmYzNDU0MDRlYjZlNjU2NGE2ZDlmMjU2NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdXJlbGl1c0dlbWluaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZjEzMmE2NTkzODc2ZDNjMzc3ZDUwM2ZkNjZlY2EzZmI5Mzg3NDMyNTFmN2IxNmE5ODcwYzYwYjczODhjOGEzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
@@ -2082,7 +2082,7 @@
     },
     "GOBLIN": {
         "id": "GOBLIN",
-        "name": "§7[Lvl {LVL}] §6Goblin",
+        "name": "Goblin",
         "tiers": {
             "LEGENDARY": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcwNzg1NDE1MTM1NSwKICAicHJvZmlsZUlkIiA6ICI2OGQyMTg3MDBlYmU0YTliYWU0OTcyNTg3ZDIzNzA4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzbGVlcG5vdGZvcm1lIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzczMDlkOGRjMzVhNjM4YTA0YjkxNWEzYjE1YTE0NTJjZWVhZTBkN2VhNDJiY2RhZGIyMWIwMzA0Njk4NzUxNWMiCiAgICB9CiAgfQp9",
@@ -2111,7 +2111,7 @@
     },
     "GOLDEN_DRAGON": {
         "id": "GOLDEN_DRAGON",
-        "name": "§7[Lvl {LVL}] §6Golden Dragon",
+        "name": "Golden Dragon",
         "tiers": {
             "LEGENDARY": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYyMDM1MDA5ODgyNiwKICAicHJvZmlsZUlkIiA6ICJiNWRkZTVmODJlYjM0OTkzYmMwN2Q0MGFiNWY2ODYyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJsdXhlbWFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJlOWY5YjFmYzAxNDE2NmNiNDZhMDkzZTUzNDliMmJmNmVkZDIwMWI2ODBkNjJlNDhkYmYzYWY5YjA0NTkxMTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
@@ -2148,7 +2148,7 @@
     },
     "GOLEM": {
         "id": "GOLEM",
-        "name": "§7[Lvl {LVL}] §5Golem",
+        "name": "Golem",
         "tiers": {
             "EPIC": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODkwOTFkNzllYTBmNTllZjdlZjk0ZDdiYmE2ZTVmMTdmMmY3ZDQ1NzJjNDRmOTBmNzZjNDgxOWE3MTQifX19",
@@ -2209,7 +2209,7 @@
     },
     "GRANDMA_WOLF": {
         "id": "GRANDMA_WOLF",
-        "name": "§7[Lvl {LVL}] §fGrandma Wolf",
+        "name": "Grandma Wolf",
         "tiers": {
             "COMMON": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYxMzQ5MDk3ODc1MiwKICAicHJvZmlsZUlkIiA6ICJjODE0MzE4MmQ1MDc0NjQ5YWZlODRmZDNmODY1NDQ2NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBWll4ViIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZTc5NDI3NGMxYmIxOTdhZDMwNjU0MDI4NmE3YWE5NTI5NzRmNTY2MWJjY2YyYjcyNTQyNGY2ZWQ3OWM3ODg0IgogICAgfQogIH0KfQ==",
@@ -2385,7 +2385,7 @@
     },
     "GRIFFIN": {
         "id": "GRIFFIN",
-        "name": "§7[Lvl {LVL}] §fGriffin",
+        "name": "Griffin",
         "tiers": {
             "COMMON": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTU5ODQ0Njc0MjE0MSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGMyN2UzY2I1MmE2NDk2OGU2MGM4NjFlZjFhYjg0ZTBhMGNiNWYwN2JlMTAzYWM3OGRhNjc3NjE3MzFmMDBjOCIKICAgIH0KICB9Cn0=",
@@ -2528,7 +2528,7 @@
     },
     "GUARDIAN": {
         "id": "GUARDIAN",
-        "name": "§f§f§7[Lvl {LVL}] §fGuardian",
+        "name": "Guardian",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjIxMDI1NDM0MDQ1YmRhNzAyNWIzZTUxNGIzMTZhNGI3NzBjNmZhYTRiYTlhZGI0YmUzODA5NTI2ZGI3N2Y5ZCJ9fX0=",
@@ -2648,7 +2648,7 @@
     },
     "HEDGEHOG": {
         "id": "HEDGEHOG",
-        "name": "§7[Lvl {LVL}] §6Hedgehog",
+        "name": "Hedgehog",
         "tiers": {
             "LEGENDARY": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyNzM2MzkwNDM2MiwKICAicHJvZmlsZUlkIiA6ICJmODI3NGFhYWU5MzU0Zjk4YTBlNDZmMTgxZDU3Y2IxYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaG9ydXZhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVmNWU4MzVjMTE2ZThlMjAwZTJlMDZhYTU5M2NhYjhmMWE5ZjhjNDBlN2YwMDVhOWM3NmYxMmUyNGY0YzYzNzAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
@@ -2675,7 +2675,7 @@
     },
     "HORSE": {
         "id": "HORSE",
-        "name": "§f§f§7[Lvl {LVL}] §fHorse",
+        "name": "Horse",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzZmY2QzZWMzYmM4NGJhZmI0MTIzZWE0Nzk0NzFmOWQyZjQyZDhmYjljNWYxMWNmNWY0ZTBkOTMyMjYifX19",
@@ -2772,7 +2772,7 @@
     },
     "HOUND": {
         "id": "HOUND",
-        "name": "§f§f§7[Lvl {LVL}] §5Hound",
+        "name": "Hound",
         "tiers": {
             "EPIC": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjdjOGJlZjZiZWI3N2UyOWFmODYyN2VjZGMzOGQ4NmFhMmZlYTdjY2QxNjNkYzczYzAwZjlmMjU4ZjlhMTQ1NyJ9fX0=",
@@ -2821,7 +2821,7 @@
     },
     "JELLYFISH": {
         "id": "JELLYFISH",
-        "name": "§7[Lvl {LVL}] §5Jellyfish",
+        "name": "Jellyfish",
         "tiers": {
             "EPIC": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTEzZjA4NmNjYjU2MzIzZjIzOGJhMzQ4OWZmMmExYTM0YzBmZGNlZWFmYzQ4M2FjZmYwZTU0ODhjZmQ2YzJmMSJ9fX0=",
@@ -2878,7 +2878,7 @@
     },
     "JERRY": {
         "id": "JERRY",
-        "name": "§f§f§7[Lvl {LVL}] §fJerry",
+        "name": "Jerry",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODIyZDhlNzUxYzhmMmZkNGM4OTQyYzQ0YmRiMmY1Y2E0ZDhhZThlNTc1ZWQzZWIzNGMxOGE4NmU5M2IifX19",
@@ -3010,7 +3010,7 @@
     },
     "KUUDRA": {
         "id": "KUUDRA",
-        "name": "§7[Lvl {LVL}] §fKuudra",
+        "name": "Kuudra",
         "tiers": {
             "COMMON": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY0NzA0MDE4NjI1NywKICAicHJvZmlsZUlkIiA6ICI0ZDEzZWUyZjViOWI0N2I2OGU2NzhhMjAxN2VmZTc1MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcmF5ZGVyZWsiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWYwMjM5ZmI0OThlNTkwN2VkZTEyYWIzMjYyOWVlOTVmMDA2NDU3NGE5ZmZkZmY5ZmMzYTFjOGUyZWMxNzU4NyIKICAgIH0KICB9Cn0=",
@@ -3173,7 +3173,7 @@
     },
     "LION": {
         "id": "LION",
-        "name": "§7[Lvl {LVL}] §fLion",
+        "name": "Lion",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzhmZjQ3M2JkNTJiNGRiMmMwNmYxYWM4N2ZlMTM2N2JjZTc1NzRmYWMzMzBmZmFjNzk1NjIyOWY4MmVmYmExIn19fQ==",
@@ -3275,7 +3275,7 @@
     },
     "MAGMA_CUBE": {
         "id": "MAGMA_CUBE",
-        "name": "§f§f§7[Lvl {LVL}] §fMagma Cube",
+        "name": "Magma Cube",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzg5NTdkNTAyM2M5MzdjNGM0MWFhMjQxMmQ0MzQxMGJkYTIzY2Y3OWE5ZjZhYjM2Yjc2ZmVmMmQ3YzQyOSJ9fX0=",
@@ -3377,7 +3377,7 @@
     },
     "MAMMOTH": {
         "id": "MAMMOTH",
-        "name": "§7[Lvl {LVL}] §6Mammoth",
+        "name": "Mammoth",
         "tiers": {
             "LEGENDARY": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcwNzg1NDE2NzQ4OCwKICAicHJvZmlsZUlkIiA6ICJkMDQ3ZGY3ZjMzMzk0MmM1OTA3ODY5ZjIwYmI0YzlkMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJleHBsaXloIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZiMTA3MTU3MzJjZDFmZDQ5ZmExYjYxODc5NDdjMzA3ZGQ0Njg3MTA1Y2YwMzM4NDA2MDdmOWQ2MjM0NzQzYWQiCiAgICB9CiAgfQp9",
@@ -3410,7 +3410,7 @@
     },
     "MEGALODON": {
         "id": "MEGALODON",
-        "name": "§f§f§7[Lvl {LVL}] §5Megalodon",
+        "name": "Megalodon",
         "tiers": {
             "EPIC": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTk0YWU0MzNiMzAxYzdmYjdjNjhjYmE2MjViMGJkMzZiMGIxNDE5MGYyMGUzNGE3YzhlZTBkOWRlMDZkNTNiOSJ9fX0=",
@@ -3465,7 +3465,7 @@
     },
     "MITHRIL_GOLEM": {
         "id": "MITHRIL_GOLEM",
-        "name": "§7[Lvl {LVL}] §fMithril Golem",
+        "name": "Mithril Golem",
         "tiers": {
             "COMMON": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDY0OTEwODI4NCwKICAicHJvZmlsZUlkIiA6ICI2ZmU4OTUxZDVhY2M0NDc3OWI2ZmYxMmU3YzFlOTQ2MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJlcGhlbXJhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MxYjJkZmU4ZWQ1ZGZmYzViMTY4N2JjMWMyNDljMzlkZTJkOGE2YzNkOTAzMDVjOTVmNmQxYTFhMzMwYTBiMSIKICAgIH0KICB9Cn0=",
@@ -3589,7 +3589,7 @@
     },
     "MOLE": {
         "id": "MOLE",
-        "name": "§7[Lvl {LVL}] §6Mole",
+        "name": "Mole",
         "tiers": {
             "LEGENDARY": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcwNzg1NDE4MzUyNiwKICAicHJvZmlsZUlkIiA6ICIxMTM1Njg1ZTk3ZGE0ZjYyYTliNDQ3MzA0NGFiZjQ0MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXJpb1dsZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzI3YmFhYWZjMDk5NzhkNGJkYTczZTE2YWZkZGU4NWVjMTNiMGY5NWFkOTg5NTI0YzVmY2FhNzE3Y2YwNmI0YSIKICAgIH0KICB9Cn0",
@@ -3619,7 +3619,7 @@
     },
     "MONKEY": {
         "id": "MONKEY",
-        "name": "§f§f§7[Lvl {LVL}] §fMonkey",
+        "name": "Monkey",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTNjZjhkYjg0ODA3YzQ3MWQ3YzY5MjIzMDIyNjFhYzFiNWExNzlmOTZkMTE5MTE1NmVjZjNlMWIxZDNjYSJ9fX0=",
@@ -3718,7 +3718,7 @@
     },
     "MOOSHROOM_COW": {
         "id": "MOOSHROOM_COW",
-        "name": "§f§f§7[Lvl {LVL}] §fMooshroom Cow",
+        "name": "Mooshroom Cow",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmI1Mjg0MWYyZmQ1ODllMGJjODRjYmFiZjllMWMyN2NiNzBjYWM5OGY4ZDZiM2RkMDY1ZTU1YTRkY2I3MGQ3NyJ9fX0=",
@@ -3823,7 +3823,7 @@
     },
     "OCELOT": {
         "id": "OCELOT",
-        "name": "§f§f§7[Lvl {LVL}] §fOcelot",
+        "name": "Ocelot",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTY1N2NkNWMyOTg5ZmY5NzU3MGZlYzRkZGNkYzY5MjZhNjhhMzM5MzI1MGMxYmUxZjBiMTE0YTFkYjEifX19",
@@ -3915,7 +3915,7 @@
     },
     "OWL": {
         "id": "OWL",
-        "name": "§7[Lvl {LVL}] §6Owl",
+        "name": "Owl",
         "tiers": {
             "LEGENDARY": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGEzMjE2ZGE1NGU3MzY4ZmI0MGI3MjEyMzlhZDk1ZTA3ZWY0Zjk3ZDkzZjFjNDJmZjMxOWJhYjlhNTM4ODJhZiJ9fX0=",
@@ -3952,7 +3952,7 @@
     },
     "PARROT": {
         "id": "PARROT",
-        "name": "§7[Lvl {LVL}] §5Parrot",
+        "name": "Parrot",
         "tiers": {
             "EPIC": {
                 "texture": "eyJ0aW1lc3RhbXAiOjE1ODIwODk4NjgyMDksInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVkZjRiMzQwMWE0ZDA2YWQ2NmFjOGI1YzRkMTg5NjE4YWU2MTdmOWMxNDMwNzFjOGFjMzlhNTYzY2Y0ZTQyMDgifX19",
@@ -4007,7 +4007,7 @@
     },
     "PENGUIN": {
         "id": "PENGUIN",
-        "name": "§7[Lvl {LVL}] §6Penguin",
+        "name": "Penguin",
         "tiers": {
             "LEGENDARY": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcwNzg1NDIwMTk4MywKICAicHJvZmlsZUlkIiA6ICI1NzgzZWMxNDgxMDI0ZDJmOTk4N2JhNGZhNWNlMmFmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbHVlUGhlbml4NDMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzc1MzRlOTdmMzZlNWE4MzM1OTI4ZTE3MWVjOTk2MDhiZWU3ZmIxNmUyNjBhZmIzMDEwMjViM2IxN2VlZWZjNCIKICAgIH0KICB9Cn0=",
@@ -4035,7 +4035,7 @@
     },
     "PHOENIX": {
         "id": "PHOENIX",
-        "name": "§f§f§7[Lvl {LVL}] §5Phoenix",
+        "name": "Phoenix",
         "tiers": {
             "EPIC": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjNhYWY3YjFhNzc4OTQ5Njk2Y2I5OWQ0ZjA0YWQxYWE1MThjZWVlMjU2YzcyZTVlZDY1YmZhNWMyZDg4ZDllIn19fQ==",
@@ -4094,7 +4094,7 @@
     },
     "PIG": {
         "id": "PIG",
-        "name": "§f§f§7[Lvl {LVL}] §fPig",
+        "name": "Pig",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjIxNjY4ZWY3Y2I3OWRkOWMyMmNlM2QxZjNmNGNiNmUyNTU5ODkzYjZkZjRhNDY5NTE0ZTY2N2MxNmFhNCJ9fX0=",
@@ -4212,7 +4212,7 @@
     },
     "PIGMAN": {
         "id": "PIGMAN",
-        "name": "§f§f§7[Lvl {LVL}] §5Pigman",
+        "name": "Pigman",
         "tiers": {
             "EPIC": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjNkOWNiNjUxM2YyMDcyZTVkNGU0MjZkNzBhNTU1N2JjMzk4NTU0Yzg4MGQ0ZTdiN2VjOGVmNDk0NWViMDJmMiJ9fX0=",
@@ -4263,7 +4263,7 @@
     },
     "RABBIT": {
         "id": "RABBIT",
-        "name": "§f§f§7[Lvl {LVL}] §fRabbit",
+        "name": "Rabbit",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTE3YmZmYzE5NzJhY2Q3ZjNiNGE4ZjQzYjViNmM3NTM0Njk1YjhmZDYyNjc3ZTAzMDZiMjgzMTU3NGIifX19",
@@ -4379,7 +4379,7 @@
     },
     "RAT": {
         "id": "RAT",
-        "name": "§f§f§7[Lvl {LVL}] §6Rat",
+        "name": "Rat",
         "tiers": {
             "LEGENDARY": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYxODQxOTcwMTc1MywKICAicHJvZmlsZUlkIiA6ICI3MzgyZGRmYmU0ODU0NTVjODI1ZjkwMGY4OGZkMzJmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdUlJZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYThhYmI0NzFkYjBhYjc4NzAzMDExOTc5ZGM4YjQwNzk4YTk0MWYzYTRkZWMzZWM2MWNiZWVjMmFmOGNmZmU4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
@@ -4445,7 +4445,7 @@
     },
     "REINDEER": {
         "id": "REINDEER",
-        "name": "§f§f§7[Lvl {LVL}] §6Reindeer",
+        "name": "Reindeer",
         "tiers": {
             "LEGENDARY": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTM5MDAxMDk5MywKICAicHJvZmlsZUlkIiA6ICIzZmFhZDFiMWYxMzU0MDM2OGY3YjlmMThlM2Y5YzRiZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJKb3NlUGxheTE5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EyZGY2NWM2ZmQxOWE1OGJlZTM4MjUyMTkyYWM3Y2UyY2YxZGM4NjMyYzM1NDdhOTIyOGI2YjY5NzI0MGQwOTgiCiAgICB9CiAgfQp9",
@@ -4480,7 +4480,7 @@
     },
     "RIFT_FERRET": {
         "id": "RIFT_FERRET",
-        "name": "§7[Lvl {LVL}] §5Rift Ferret",
+        "name": "Rift Ferret",
         "tiers": {
             "EPIC": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY1MTYzOTI2MTI5NywKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNmIxMTM5OTQ0ODI2MDE4NWRhMWQxN2U1NGM5ODQ1MTVmYWFiNmQ4NTg1ZjAwOTcyNDUxZWMyYjQzZDQ2Zjk0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
@@ -4503,7 +4503,7 @@
     },
     "ROCK": {
         "id": "ROCK",
-        "name": "§f§f§7[Lvl {LVL}] §fRock",
+        "name": "Rock",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2IyYjVkNDhlNTc1Nzc1NjNhY2EzMTczNTUxOWNiNjIyMjE5YmMwNThiMWYzNDY0OGI2N2I4ZTcxYmMwZmEifX19",
@@ -4620,7 +4620,7 @@
     },
     "SCATHA": {
         "id": "SCATHA",
-        "name": "§7[Lvl {LVL}] §9Scatha",
+        "name": "Scatha",
         "tiers": {
             "RARE": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYyMDQ0NTc2NDQ1MSwKICAicHJvZmlsZUlkIiA6ICJmNDY0NTcxNDNkMTU0ZmEwOTkxNjBlNGJmNzI3ZGNiOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWxhcGFnbzA1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RmMDNhZDk2MDkyZjNmNzg5OTAyNDM2NzA5Y2RmNjlkZTZiNzI3YzEyMWIzYzJkYWVmOWZmYTFjY2FlZDE4NmMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
@@ -4683,7 +4683,7 @@
     },
     "SHEEP": {
         "id": "SHEEP",
-        "name": "§f§f§7[Lvl {LVL}] §fSheep",
+        "name": "Sheep",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjRlMjJhNDYwNDdkMjcyZTg5YTFjZmExM2U5NzM0YjdlMTI4MjdlMjM1YzIwMTJjMWE5NTk2Mjg3NGRhMCJ9fX0=",
@@ -4780,7 +4780,7 @@
     },
     "SILVERFISH": {
         "id": "SILVERFISH",
-        "name": "§7[Lvl {LVL}] §fSilverfish",
+        "name": "Silverfish",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGE5MWRhYjgzOTFhZjVmZGE1NGFjZDJjMGIxOGZiZDgxOWI4NjVlMWE4ZjFkNjIzODEzZmE3NjFlOTI0NTQwIn19fQ==",
@@ -4869,7 +4869,7 @@
     },
     "SKELETON": {
         "id": "SKELETON",
-        "name": "§f§f§7[Lvl {LVL}] §fSkeleton",
+        "name": "Skeleton",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmNhNDQ1NzQ5MjUxYmRkODk4ZmI4M2Y2Njc4NDRlMzhhMWRmZjc5YTE1MjlmNzlhNDI0NDdhMDU5OTMxMGVhNCJ9fX0=",
@@ -4974,7 +4974,7 @@
     },
     "SKELETON_HORSE": {
         "id": "SKELETON_HORSE",
-        "name": "§f§f§7[Lvl {LVL}] §6Skeleton Horse",
+        "name": "Skeleton Horse",
         "tiers": {
             "LEGENDARY": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDdlZmZjZTM1MTMyYzg2ZmY3MmJjYWU3N2RmYmIxZDIyNTg3ZTk0ZGYzY2JjMjU3MGVkMTdjZjg5NzNhIn19fQ==",
@@ -5006,7 +5006,7 @@
     },
     "SLUG": {
         "id": "SLUG",
-        "name": "§f§f§7[Lvl {LVL}] §5Slug",
+        "name": "Slug",
         "tiers": {
             "EPIC": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY5NzQ3MDQ0MzA4MiwKICAicHJvZmlsZUlkIiA6ICJkOGNkMTNjZGRmNGU0Y2IzODJmYWZiYWIwOGIyNzQ4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJaYWNoeVphY2giLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2E3OWQwZmQ2NzdiNTQ1MzA5NjExMTdlZjg0YWRjMjA2ZTJjYzUwNDVjMTM0NGQ2MWQ3NzZiZjhhYzJmZTFiYSIKICAgIH0KICB9Cn0",
@@ -5057,7 +5057,7 @@
     },
     "SNAIL": {
         "id": "SNAIL",
-        "name": "§7[Lvl {LVL}] §fSnail",
+        "name": "Snail",
         "tiers": {
             "COMMON": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY0NjQxMzY3ODczMiwKICAicHJvZmlsZUlkIiA6ICJjMTNkYzkxZjg1YjA0ZWM4OGU2NDk5YzdjZDc4Zjk3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjcnlwdGljX2Zyb2dfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUwYTk5MzNhM2IxMDQ4OWQzOGY2OTUwYzRlNjI4YmZjZjlmN2EyN2Y4ZDg0NjY2ZjA0ZjE0ZDUzNzQyNTI5NzIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
@@ -5157,7 +5157,7 @@
     },
     "SNOWMAN": {
         "id": "SNOWMAN",
-        "name": "§7[Lvl {LVL}] §6Snowman",
+        "name": "Snowman",
         "tiers": {
             "LEGENDARY": {
                 "texture": "eyJ0aW1lc3RhbXAiOjE1NzcwMzk3ODA5OTAsInByb2ZpbGVJZCI6Ijc1MTQ0NDgxOTFlNjQ1NDY4Yzk3MzlhNmUzOTU3YmViIiwicHJvZmlsZU5hbWUiOiJUaGFua3NNb2phbmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYwOWUxNjFiZGMzMjVjNzE1NzJhNTQ4YTc5YmIxNTQ4MWM5MjRkNjNlNGZiODIxMzc5ZDVkZDZjODkyOWYzOWYifX19",
@@ -5225,7 +5225,7 @@
     },
     "SPIDER": {
         "id": "SPIDER",
-        "name": "§f§f§7[Lvl {LVL}] §fSpider",
+        "name": "Spider",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q1NDE1NDFkYWFmZjUwODk2Y2QyNThiZGJkZDRjZjgwYzNiYTgxNjczNTcyNjA3OGJmZTM5MzkyN2U1N2YxIn19fQ==",
@@ -5358,7 +5358,7 @@
     },
     "SPINOSAURUS": {
         "id": "SPINOSAURUS",
-        "name": "§7[Lvl {LVL}] §6Spinosaurus",
+        "name": "Spinosaurus",
         "tiers": {
             "LEGENDARY": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcwODYzMTQ0NTkwMywKICAicHJvZmlsZUlkIiA6ICJkNWQ5NzUxOTNjMTM0MzAyYTU5MjRmODQ0NWQ4YzAwNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzYWludGVkbGl0dGxlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QzYzlkNDc5NDcxYTJmMTNmMjI1NDgzMTUxNTk1OTE3MjA5OTJlNzBjOTIwZmVmODNhOTAxYjcxODY3MjBlM2MiCiAgICB9CiAgfQp9",
@@ -5388,7 +5388,7 @@
     },
     "SPIRIT": {
         "id": "SPIRIT",
-        "name": "§f§f§7[Lvl {LVL}] §5Spirit",
+        "name": "Spirit",
         "tiers": {
             "EPIC": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTU5NTg2MjAyNjE5OSwKICAicHJvZmlsZUlkIiA6ICI0ZWQ4MjMzNzFhMmU0YmI3YTVlYWJmY2ZmZGE4NDk1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaXJlYnlyZDg4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhkOWNjYzY3MDY3N2QwY2ViYWFkNDA1OGQ2YWFmOWFjZmFiMDlhYmVhNWQ4NjM3OWEwNTk5MDJmMmZlMjI2NTUiCiAgICB9CiAgfQp9",
@@ -5448,7 +5448,7 @@
     },
     "SQUID": {
         "id": "SQUID",
-        "name": "§f§f§7[Lvl {LVL}] §fSquid",
+        "name": "Squid",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMDE0MzNiZTI0MjM2NmFmMTI2ZGE0MzRiODczNWRmMWViNWIzY2IyY2VkZTM5MTQ1OTc0ZTljNDgzNjA3YmFjIn19fQ==",
@@ -5548,7 +5548,7 @@
     },
     "SUBZERO_WISP": {
         "id": "SUBZERO_WISP",
-        "name": "§7[Lvl {LVL}] §6Subzero Wisp",
+        "name": "Subzero Wisp",
         "tiers": {
             "LEGENDARY": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY0NjYxOTEyNTcwOCwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2EwZWIzN2U1OGM5NDJlY2E0ZDMzYWI0NGUyNmViMTkxMGM3ODM3ODg1MTBiMGE1M2I2ZjRkMTg4ODFlMjM3ZSIKICAgIH0KICB9Cn0=",
@@ -5592,7 +5592,7 @@
     },
     "TARANTULA": {
         "id": "TARANTULA",
-        "name": "§7[Lvl {LVL}] §5Tarantula",
+        "name": "Tarantula",
         "tiers": {
             "EPIC": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODMwMDk4NmVkMGEwNGVhNzk5MDRmNmFlNTNmNDllZDNhMGZmNWIxZGY2MmJiYTYyMmVjYmQzNzc3ZjE1NmRmOCJ9fX0=",
@@ -5677,7 +5677,7 @@
     },
     "TIGER": {
         "id": "TIGER",
-        "name": "§7[Lvl {LVL}] §fTiger",
+        "name": "Tiger",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmM0MjYzODc0NDkyMmI1ZmNmNjJjZDliZjI3ZWVhYjkxYjJlNzJkNmM3MGU4NmNjNWFhMzg4Mzk5M2U5ZDg0In19fQ==",
@@ -5780,7 +5780,7 @@
     },
     "TURTLE": {
         "id": "TURTLE",
-        "name": "§f§f§7[Lvl {LVL}] §5Turtle",
+        "name": "Turtle",
         "tiers": {
             "EPIC": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjEyYjU4Yzg0MWIzOTQ4NjNkYmNjNTRkZTFjMmFkMjY0OGFmOGYwM2U2NDg5ODhjMWY5Y2VmMGJjMjBlZTIzYyJ9fX0=",
@@ -5837,7 +5837,7 @@
     },
     "TYRANNOSAURUS": {
         "id": "TYRANNOSAURUS",
-        "name": "§7[Lvl {LVL}] §6T-Rex",
+        "name": "T-Rex",
         "tiers": {
             "LEGENDARY": {
                 "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcwNzg1NDIxODY0OCwKICAicHJvZmlsZUlkIiA6ICI2NGY0MGFiNzFmM2E0NGZiYjg0N2I5ZWFhOWZjNDRlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJvZGF2aWRjZXNhciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85M2YyOGVjOTZkZjU5YzY3ZTlkMmZjMmU3ZTNkMDU1ZmEzMTY0NmU0MTExYWRkOWZlMjZhNjkyODAxOTY0MTI2IgogICAgfQogIH0KfQ",
@@ -5867,7 +5867,7 @@
     },
     "WITHER_SKELETON": {
         "id": "WITHER_SKELETON",
-        "name": "§f§f§7[Lvl {LVL}] §5Wither Skeleton",
+        "name": "Wither Skeleton",
         "tiers": {
             "EPIC": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjVlYzk2NDY0NWE4ZWZhYzc2YmUyZjE2MGQ3Yzk5NTYzNjJmMzJiNjUxNzM5MGM1OWMzMDg1MDM0ZjA1MGNmZiJ9fX0=",
@@ -5921,7 +5921,7 @@
     },
     "WOLF": {
         "id": "WOLF",
-        "name": "§f§f§7[Lvl {LVL}] §fWolf",
+        "name": "Wolf",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGMzZGQ5ODRiYjY1OTg0OWJkNTI5OTQwNDY5NjRjMjI3MjVmNzE3ZTk4NmIxMmQ1NDhmZDE2OTM2N2Q0OTQifX19",
@@ -6025,7 +6025,7 @@
     },
     "ZOMBIE": {
         "id": "ZOMBIE",
-        "name": "§7[Lvl {LVL}] §fZombie",
+        "name": "Zombie",
         "tiers": {
             "COMMON": {
                 "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTZmYzg1NGJiODRjZjRiNzY5NzI5Nzk3M2UwMmI3OWJjMTA2OTg0NjBiNTFhNjM5YzYwZTVlNDE3NzM0ZTExIn19fQ==",
