@@ -1,5 +1,5 @@
 {
-    "PetStats": {
+    "PetItems": {
         "PET_ITEM_BIG_TEETH_COMMON": {
             "pet_stats": {
                 "CRIT_CHANCE": ["+", 5]
