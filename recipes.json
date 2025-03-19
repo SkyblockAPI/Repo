@@ -1085,102 +1085,6 @@
         }
     },
     {
-        "type": "crafting",
-        "keys": [
-            {
-                "id": "RAW_FISH",
-                "count": 1
-            }
-        ],
-        "pattern": [
-            -1,
-            -1,
-            -1,
-            0,
-            -1,
-            0,
-            0,
-            -1,
-            0
-        ],
-        "result": {
-            "id": "ANGLER_BOOTS",
-            "count": 1
-        }
-    },
-    {
-        "type": "crafting",
-        "keys": [
-            {
-                "id": "RAW_FISH",
-                "count": 1
-            }
-        ],
-        "pattern": [
-            0,
-            -1,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
-        "result": {
-            "id": "ANGLER_CHESTPLATE",
-            "count": 1
-        }
-    },
-    {
-        "type": "crafting",
-        "keys": [
-            {
-                "id": "RAW_FISH",
-                "count": 1
-            }
-        ],
-        "pattern": [
-            0,
-            0,
-            0,
-            0,
-            -1,
-            0,
-            -1,
-            -1,
-            -1
-        ],
-        "result": {
-            "id": "ANGLER_HELMET",
-            "count": 1
-        }
-    },
-    {
-        "type": "crafting",
-        "keys": [
-            {
-                "id": "RAW_FISH",
-                "count": 1
-            }
-        ],
-        "pattern": [
-            0,
-            0,
-            0,
-            0,
-            -1,
-            0,
-            0,
-            -1,
-            0
-        ],
-        "result": {
-            "id": "ANGLER_LEGGINGS",
-            "count": 1
-        }
-    },
-    {
         "type": "forge",
         "inputs": [
             {
@@ -2767,6 +2671,62 @@
         ],
         "result": {
             "id": "BAT_WAND",
+            "count": 1
+        }
+    },
+    {
+        "type": "crafting",
+        "keys": [
+            {
+                "id": "BUSTED_BELT_BUCKLE",
+                "count": 8
+            },
+            {
+                "id": "OLD_LEATHER_BOOT",
+                "count": 1
+            },
+            {
+                "id": "ALLIGATOR_SKIN",
+                "count": 8
+            },
+            {
+                "id": "BRONZE_BOWL",
+                "count": 16
+            },
+            {
+                "id": "WATER_ORB",
+                "count": 1
+            },
+            {
+                "id": "TORN_CLOTH",
+                "count": 16
+            },
+            {
+                "id": "ENCHANTED_CLAY_BLOCK",
+                "count": 1
+            },
+            {
+                "id": "RUSTY_COIN",
+                "count": 64
+            },
+            {
+                "id": "POISON_SAMPLE",
+                "count": 1
+            }
+        ],
+        "pattern": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "result": {
+            "id": "BAYOU_WATER_ORB",
             "count": 1
         }
     },
@@ -4592,6 +4552,42 @@
         "type": "crafting",
         "keys": [
             {
+                "id": "BLUE_RING",
+                "count": 32
+            },
+            {
+                "id": "GOBLIN_EGG_BLUE",
+                "count": 1
+            },
+            {
+                "id": "BLUE_SHARK_TOOTH",
+                "count": 8
+            },
+            {
+                "id": "BLUETOOTH_RING",
+                "count": 1
+            }
+        ],
+        "pattern": [
+            0,
+            1,
+            0,
+            2,
+            3,
+            2,
+            0,
+            1,
+            0
+        ],
+        "result": {
+            "id": "BLUERTOOTH_RING",
+            "count": 1
+        }
+    },
+    {
+        "type": "crafting",
+        "keys": [
+            {
                 "id": "METAL_HEART",
                 "count": 4
             }
@@ -5105,6 +5101,62 @@
         ],
         "result": {
             "id": "BRIDGE_EGG",
+            "count": 1
+        }
+    },
+    {
+        "type": "crafting",
+        "keys": [
+            {
+                "id": "BRONZE_BOWL",
+                "count": 1
+            },
+            {
+                "id": "LOG_2-1",
+                "count": 64
+            }
+        ],
+        "pattern": [
+            -1,
+            0,
+            -1,
+            0,
+            1,
+            0,
+            -1,
+            0,
+            -1
+        ],
+        "result": {
+            "id": "BRONZE_SHIP_HELM",
+            "count": 1
+        }
+    },
+    {
+        "type": "crafting",
+        "keys": [
+            {
+                "id": "TORN_CLOTH",
+                "count": 1
+            },
+            {
+                "id": "BRONZE_BOWL",
+                "count": 1
+            }
+        ],
+        "pattern": [
+            -1,
+            -1,
+            -1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1
+        ],
+        "result": {
+            "id": "BRONZE_SHIP_HULL",
             "count": 1
         }
     },
@@ -9271,6 +9323,34 @@
         ],
         "result": {
             "id": "COLOSSAL_EXP_BOTTLE",
+            "count": 1
+        }
+    },
+    {
+        "type": "crafting",
+        "keys": [
+            {
+                "id": "ENCHANTED_WATER_LILY",
+                "count": 1
+            },
+            {
+                "id": "ENCHANTED_RAW_FISH",
+                "count": 1
+            }
+        ],
+        "pattern": [
+            -1,
+            -1,
+            0,
+            -1,
+            -1,
+            0,
+            -1,
+            1,
+            -1
+        ],
+        "result": {
+            "id": "COMMON_HOOK",
             "count": 1
         }
     },
@@ -18590,38 +18670,6 @@
         "type": "crafting",
         "keys": [
             {
-                "id": "ENCHANTED_CLAY_BALL",
-                "count": 1
-            },
-            {
-                "id": "ENCHANTED_WHEAT",
-                "count": 1
-            },
-            {
-                "id": "STRING",
-                "count": 1
-            }
-        ],
-        "pattern": [
-            -1,
-            -1,
-            0,
-            -1,
-            1,
-            2,
-            1,
-            -1,
-            2
-        ],
-        "result": {
-            "id": "FARMER_ROD",
-            "count": 1
-        }
-    },
-    {
-        "type": "crafting",
-        "keys": [
-            {
                 "id": "CARROT_ITEM",
                 "count": 16
             },
@@ -20758,6 +20806,46 @@
         "type": "crafting",
         "keys": [
             {
+                "id": "BRAIDED_GRIFFIN_FEATHER",
+                "count": 1
+            },
+            {
+                "id": "SOUL_WHIP",
+                "count": 1
+            },
+            {
+                "id": "HOTSPOT_WATER_ORB",
+                "count": 1
+            },
+            {
+                "id": "BRIMSTONE_HANDLE",
+                "count": 1
+            },
+            {
+                "id": "LAVA_WATER_ORB",
+                "count": 1
+            }
+        ],
+        "pattern": [
+            -1,
+            -1,
+            0,
+            -1,
+            1,
+            2,
+            3,
+            -1,
+            4
+        ],
+        "result": {
+            "id": "FLAMING_FLAY",
+            "count": 1
+        }
+    },
+    {
+        "type": "crafting",
+        "keys": [
+            {
                 "id": "ROUGH_AMBER_GEM",
                 "count": 16
             }
@@ -22050,6 +22138,42 @@
         ],
         "result": {
             "id": "FOUR_EYED_FISH",
+            "count": 1
+        }
+    },
+    {
+        "type": "crafting",
+        "keys": [
+            {
+                "id": "ENCHANTED_GLACITE",
+                "count": 64
+            },
+            {
+                "id": "FRIED_FEATHER",
+                "count": 64
+            },
+            {
+                "id": "ENCHANTED_BLAZE_POWDER",
+                "count": 64
+            },
+            {
+                "id": "FROZEN_CHICKEN",
+                "count": 1
+            }
+        ],
+        "pattern": [
+            0,
+            1,
+            2,
+            1,
+            3,
+            1,
+            2,
+            1,
+            0
+        ],
+        "result": {
+            "id": "FRIED_FROZEN_CHICKEN",
             "count": 1
         }
     },
@@ -27267,6 +27391,190 @@
             "type": "pet",
             "pet": "HORSE",
             "tier": "LEGENDARY",
+            "count": 1
+        }
+    },
+    {
+        "type": "crafting",
+        "keys": [
+            {
+                "id": "ENCHANTED_PUFFERFISH",
+                "count": 1
+            },
+            {
+                "id": "SCORCHED_CRAB_STICK",
+                "count": 1
+            }
+        ],
+        "pattern": [
+            -1,
+            -1,
+            -1,
+            0,
+            1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "result": {
+            "id": "HOTSPOT_BAIT",
+            "count": 1
+        }
+    },
+    {
+        "type": "crafting",
+        "keys": [
+            {
+                "id": "ENCHANTED_WATER_LILY",
+                "count": 32
+            },
+            {
+                "id": "SINGED_POWDER",
+                "count": 8
+            },
+            {
+                "id": "BROKEN_RADAR",
+                "count": 8
+            }
+        ],
+        "pattern": [
+            -1,
+            -1,
+            0,
+            -1,
+            -1,
+            1,
+            -1,
+            2,
+            -1
+        ],
+        "result": {
+            "id": "HOTSPOT_HOOK",
+            "count": 1
+        }
+    },
+    {
+        "type": "crafting",
+        "keys": [
+            {
+                "id": "BRONZE_BOWL",
+                "count": 1
+            },
+            {
+                "id": "REDSTONE",
+                "count": 1
+            },
+            {
+                "id": "BROKEN_RADAR",
+                "count": 1
+            },
+            {
+                "id": "IRON_INGOT",
+                "count": 1
+            }
+        ],
+        "pattern": [
+            0,
+            -1,
+            0,
+            1,
+            2,
+            1,
+            3,
+            3,
+            3
+        ],
+        "result": {
+            "id": "HOTSPOT_RADAR",
+            "count": 1
+        }
+    },
+    {
+        "type": "crafting",
+        "keys": [
+            {
+                "id": "BROKEN_RADAR",
+                "count": 8
+            },
+            {
+                "id": "SINGED_POWDER",
+                "count": 8
+            },
+            {
+                "id": "ENCHANTED_CLAY_BALL",
+                "count": 64
+            }
+        ],
+        "pattern": [
+            -1,
+            0,
+            -1,
+            -1,
+            1,
+            -1,
+            -1,
+            2,
+            -1
+        ],
+        "result": {
+            "id": "HOTSPOT_SINKER",
+            "count": 1
+        }
+    },
+    {
+        "type": "crafting",
+        "keys": [
+            {
+                "id": "HALF_EATEN_MUSHROOM",
+                "count": 64
+            },
+            {
+                "id": "BLUE_RING",
+                "count": 8
+            },
+            {
+                "id": "FRIED_FEATHER",
+                "count": 64
+            },
+            {
+                "id": "SINGED_POWDER",
+                "count": 8
+            },
+            {
+                "id": "WATER_ORB",
+                "count": 1
+            },
+            {
+                "id": "SCORCHED_CRAB_STICK",
+                "count": 8
+            },
+            {
+                "id": "ENCHANTED_JUNGLE_LOG",
+                "count": 64
+            },
+            {
+                "id": "BROKEN_RADAR",
+                "count": 8
+            },
+            {
+                "id": "ENCHANTED_COAL",
+                "count": 64
+            }
+        ],
+        "pattern": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "result": {
+            "id": "HOTSPOT_WATER_ORB",
             "count": 1
         }
     },
@@ -43495,31 +43803,31 @@
         "type": "crafting",
         "keys": [
             {
+                "id": "WATER_LILY",
+                "count": 16
+            },
+            {
                 "id": "PRISMARINE_CRYSTALS",
-                "count": 1
+                "count": 8
             },
             {
                 "id": "PRISMARINE_SHARD",
-                "count": 1
-            },
-            {
-                "id": "STRING",
-                "count": 1
+                "count": 8
             }
         ],
         "pattern": [
             -1,
-            -1,
             0,
             -1,
-            1,
-            2,
+            -1,
             1,
             -1,
-            2
+            -1,
+            2,
+            -1
         ],
         "result": {
-            "id": "PRISMARINE_ROD",
+            "id": "PRISMARINE_SINKER",
             "count": 1
         }
     },
@@ -48037,6 +48345,30 @@
         ],
         "result": {
             "id": "SALMON_CHESTPLATE_NEW",
+            "count": 1
+        }
+    },
+    {
+        "type": "crafting",
+        "keys": [
+            {
+                "id": "RAW_FISH-1",
+                "count": 1
+            }
+        ],
+        "pattern": [
+            0,
+            0,
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "result": {
+            "id": "SALMON_HAT",
             "count": 1
         }
     },
@@ -53148,34 +53480,6 @@
         "type": "crafting",
         "keys": [
             {
-                "id": "RAW_FISH-1",
-                "count": 32
-            },
-            {
-                "id": "STRING",
-                "count": 1
-            }
-        ],
-        "pattern": [
-            -1,
-            -1,
-            0,
-            -1,
-            0,
-            1,
-            0,
-            -1,
-            1
-        ],
-        "result": {
-            "id": "SPEEDSTER_ROD",
-            "count": 1
-        }
-    },
-    {
-        "type": "crafting",
-        "keys": [
-            {
                 "id": "ENCHANTED_SUGAR_CANE",
                 "count": 6
             },
@@ -54199,27 +54503,27 @@
         "type": "crafting",
         "keys": [
             {
-                "id": "SPONGE",
-                "count": 1
+                "id": "WATER_LILY",
+                "count": 16
             },
             {
-                "id": "STRING",
-                "count": 1
+                "id": "SPONGE",
+                "count": 4
             }
         ],
         "pattern": [
             -1,
-            -1,
             0,
             -1,
-            0,
+            -1,
             1,
-            0,
             -1,
-            1
+            -1,
+            1,
+            -1
         ],
         "result": {
-            "id": "SPONGE_ROD",
+            "id": "SPONGE_SINKER",
             "count": 1
         }
     },
@@ -60563,6 +60867,38 @@
         "type": "crafting",
         "keys": [
             {
+                "id": "RUSTY_COIN",
+                "count": 64
+            },
+            {
+                "id": "BAYOU_WATER_ORB",
+                "count": 1
+            },
+            {
+                "id": "TITANOBOA_SHED",
+                "count": 1
+            }
+        ],
+        "pattern": [
+            -1,
+            -1,
+            0,
+            -1,
+            1,
+            -1,
+            2,
+            -1,
+            -1
+        ],
+        "result": {
+            "id": "TITAN_LINE",
+            "count": 1
+        }
+    },
+    {
+        "type": "crafting",
+        "keys": [
+            {
                 "id": "SULPHUR",
                 "count": 1
             },
@@ -60999,6 +61335,34 @@
         "result": {
             "id": "ULTIMATE_CARROT_CANDY",
             "count": 10
+        }
+    },
+    {
+        "type": "crafting",
+        "keys": [
+            {
+                "id": "REFINED_UMBER",
+                "count": 2
+            },
+            {
+                "id": "STICK",
+                "count": 1
+            }
+        ],
+        "pattern": [
+            0,
+            0,
+            0,
+            -1,
+            1,
+            -1,
+            -1,
+            1,
+            -1
+        ],
+        "result": {
+            "id": "UMBERELLA",
+            "count": 1
         }
     },
     {
@@ -63077,19 +63441,15 @@
             {
                 "id": "DARK_BAIT",
                 "count": 1
-            },
-            {
-                "id": "BLESSED_BAIT",
-                "count": 1
             }
         ],
         "pattern": [
+            -1,
+            -1,
+            -1,
             0,
             1,
-            -1,
             2,
-            3,
-            -1,
             -1,
             -1,
             -1
@@ -63104,15 +63464,11 @@
         "keys": [
             {
                 "id": "RAW_FISH",
-                "count": 5
+                "count": 4
             },
             {
                 "id": "INK_SACK",
                 "count": 1
-            },
-            {
-                "id": "GOLD_INGOT",
-                "count": 9
             },
             {
                 "id": "RAW_FISH-1",
@@ -63125,13 +63481,13 @@
         ],
         "pattern": [
             -1,
-            0,
             -1,
+            0,
             1,
             2,
-            3,
             -1,
-            4,
+            -1,
+            3,
             -1
         ],
         "result": {

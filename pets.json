@@ -5019,6 +5019,274 @@
             }
         }
     },
+    "HERMIT_CRAB": {
+        "id": "HERMIT_CRAB",
+        "name": "Hermit Crab",
+        "tiers": {
+            "COMMON": {
+                "texture": "ewogICJ0aW1lc3RhbXAiIDogMTczOTY2MTI0ODUwNSwKICAicHJvZmlsZUlkIiA6ICI2OGVmMmM5NTc5NjM0MjE4YjYwNTM5YWVlOTU3NWJiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVNdWx0aUFjb3VudCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNjYyOWRmYTNmZGZlZjA0MDU0MDI0ZTAxNTZkNWUxOWRhNTQwMWIxOTExZjU5YjRiZDM5ODI2ODVmZTU0YzJjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+                "lore": [
+                    "§8Fishing Pet",
+                    "",
+                    "§7Defense: §a{DEFENSE}",
+                    "§7Fishing Speed: §a{FISHING_SPEED}",
+                    "§7Sea Creature Chance: §c{SEA_CREATURE_CHANCE}%",
+                    "",
+                    "§6Comfort Zone",
+                    "§7§7Grants §b+{0}☂ Fishing Speed §7for §a30s",
+                    "§a§7upon catching §6Treasure§7.",
+                    "",
+                    "§f§lCOMMON"
+                ],
+                "variables": {
+                    "0": [
+                        0.2,
+                        20
+                    ],
+                    "DEFENSE": [
+                        0.2,
+                        20
+                    ],
+                    "SEA_CREATURE_CHANCE": [
+                        0.02,
+                        2
+                    ],
+                    "FISHING_SPEED": [
+                        0.2,
+                        20
+                    ]
+                }
+            },
+            "UNCOMMON": {
+                "texture": "ewogICJ0aW1lc3RhbXAiIDogMTczOTY2MTI0ODUwNSwKICAicHJvZmlsZUlkIiA6ICI2OGVmMmM5NTc5NjM0MjE4YjYwNTM5YWVlOTU3NWJiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVNdWx0aUFjb3VudCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNjYyOWRmYTNmZGZlZjA0MDU0MDI0ZTAxNTZkNWUxOWRhNTQwMWIxOTExZjU5YjRiZDM5ODI2ODVmZTU0YzJjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+                "lore": [
+                    "§8Fishing Pet",
+                    "",
+                    "§7Defense: §a{DEFENSE}",
+                    "§7Fishing Speed: §a{FISHING_SPEED}",
+                    "§7Sea Creature Chance: §c{SEA_CREATURE_CHANCE}%",
+                    "",
+                    "§6Comfort Zone",
+                    "§7§7Grants §b+{0}☂ Fishing Speed §7for §a30s",
+                    "§a§7upon catching §6Treasure§7.",
+                    "",
+                    "§a§lUNCOMMON"
+                ],
+                "variables": {
+                    "0": [
+                        0.3,
+                        30
+                    ],
+                    "DEFENSE": [
+                        0.2,
+                        20
+                    ],
+                    "SEA_CREATURE_CHANCE": [
+                        0.02,
+                        2
+                    ],
+                    "FISHING_SPEED": [
+                        0.2,
+                        20
+                    ]
+                }
+            },
+            "RARE": {
+                "texture": "ewogICJ0aW1lc3RhbXAiIDogMTczOTY2MTI0ODUwNSwKICAicHJvZmlsZUlkIiA6ICI2OGVmMmM5NTc5NjM0MjE4YjYwNTM5YWVlOTU3NWJiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVNdWx0aUFjb3VudCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNjYyOWRmYTNmZGZlZjA0MDU0MDI0ZTAxNTZkNWUxOWRhNTQwMWIxOTExZjU5YjRiZDM5ODI2ODVmZTU0YzJjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+                "lore": [
+                    "§8Fishing Pet",
+                    "",
+                    "§7Defense: §a{DEFENSE}",
+                    "§7Fishing Speed: §a{FISHING_SPEED}",
+                    "§7Sea Creature Chance: §c{SEA_CREATURE_CHANCE}%",
+                    "",
+                    "§6Comfort Zone",
+                    "§7§7Grants §b+{0}☂ Fishing Speed §7for §a30s",
+                    "§a§7upon catching §6Treasure§7.",
+                    "",
+                    "§6Seafloor Scalper",
+                    "§7§7§6Treasure §7catches are §a{1}% §7more",
+                    "§7likely to be §6§lGREAT §7or §d§lOUTSTANDING§7.",
+                    "",
+                    "§9§lRARE"
+                ],
+                "variables": {
+                    "0": [
+                        0.3,
+                        30
+                    ],
+                    "1": [
+                        0.07,
+                        7.5
+                    ],
+                    "DEFENSE": [
+                        0.2,
+                        20
+                    ],
+                    "SEA_CREATURE_CHANCE": [
+                        0.02,
+                        2
+                    ],
+                    "FISHING_SPEED": [
+                        0.2,
+                        20
+                    ]
+                }
+            },
+            "EPIC": {
+                "texture": "ewogICJ0aW1lc3RhbXAiIDogMTczOTY2MTI0ODUwNSwKICAicHJvZmlsZUlkIiA6ICI2OGVmMmM5NTc5NjM0MjE4YjYwNTM5YWVlOTU3NWJiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVNdWx0aUFjb3VudCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNjYyOWRmYTNmZGZlZjA0MDU0MDI0ZTAxNTZkNWUxOWRhNTQwMWIxOTExZjU5YjRiZDM5ODI2ODVmZTU0YzJjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+                "lore": [
+                    "§8Fishing Pet",
+                    "",
+                    "§7Defense: §a{DEFENSE}",
+                    "§7Fishing Speed: §a{FISHING_SPEED}",
+                    "§7Sea Creature Chance: §c{SEA_CREATURE_CHANCE}%",
+                    "",
+                    "§6Comfort Zone",
+                    "§7§7Grants §b+{0}☂ Fishing Speed §7for §a30s",
+                    "§a§7upon catching §6Treasure§7.",
+                    "",
+                    "§6Seafloor Scalper",
+                    "§7§7§6Treasure §7catches are §a{1}% §7more",
+                    "§7likely to be §6§lGREAT §7or §d§lOUTSTANDING§7.",
+                    "",
+                    "§5§lEPIC"
+                ],
+                "variables": {
+                    "0": [
+                        0.4,
+                        40
+                    ],
+                    "1": [
+                        0.1,
+                        10
+                    ],
+                    "DEFENSE": [
+                        0.2,
+                        20
+                    ],
+                    "SEA_CREATURE_CHANCE": [
+                        0.02,
+                        2
+                    ],
+                    "FISHING_SPEED": [
+                        0.2,
+                        20
+                    ]
+                }
+            },
+            "LEGENDARY": {
+                "texture": "ewogICJ0aW1lc3RhbXAiIDogMTczOTY2MTI0ODUwNSwKICAicHJvZmlsZUlkIiA6ICI2OGVmMmM5NTc5NjM0MjE4YjYwNTM5YWVlOTU3NWJiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVNdWx0aUFjb3VudCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNjYyOWRmYTNmZGZlZjA0MDU0MDI0ZTAxNTZkNWUxOWRhNTQwMWIxOTExZjU5YjRiZDM5ODI2ODVmZTU0YzJjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+                "lore": [
+                    "§8Fishing Pet",
+                    "",
+                    "§7Defense: §a{DEFENSE}",
+                    "§7Fishing Speed: §a{FISHING_SPEED}",
+                    "§7Sea Creature Chance: §c{SEA_CREATURE_CHANCE}%",
+                    "",
+                    "§6Comfort Zone",
+                    "§7§7Grants §b+{0}☂ Fishing Speed §7for §a30s",
+                    "§a§7upon catching §6Treasure§7.",
+                    "",
+                    "§6Seafloor Scalper",
+                    "§7§7§6Treasure §7catches are §a{1}% §7more",
+                    "§7likely to be §6§lGREAT §7or §d§lOUTSTANDING§7.",
+                    "",
+                    "§6Crab Rave",
+                    "§7§7Grants §6+{2}⛃ Treasure Chance",
+                    "§6§7for each player with a §aHermit Crab",
+                    "§aPet §7within §a30 §7blocks, up to §a5 §7players.",
+                    "",
+                    "§6§lLEGENDARY"
+                ],
+                "variables": {
+                    "0": [
+                        0.4,
+                        40
+                    ],
+                    "1": [
+                        0.1,
+                        10
+                    ],
+                    "2": [
+                        0.002,
+                        0.2
+                    ],
+                    "DEFENSE": [
+                        0.2,
+                        20
+                    ],
+                    "SEA_CREATURE_CHANCE": [
+                        0.02,
+                        2
+                    ],
+                    "FISHING_SPEED": [
+                        0.2,
+                        20
+                    ]
+                }
+            },
+            "MYTHIC": {
+                "texture": "ewogICJ0aW1lc3RhbXAiIDogMTczOTY2MTI0ODUwNSwKICAicHJvZmlsZUlkIiA6ICI2OGVmMmM5NTc5NjM0MjE4YjYwNTM5YWVlOTU3NWJiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVNdWx0aUFjb3VudCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNjYyOWRmYTNmZGZlZjA0MDU0MDI0ZTAxNTZkNWUxOWRhNTQwMWIxOTExZjU5YjRiZDM5ODI2ODVmZTU0YzJjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+                "lore": [
+                    "§8Fishing Pet",
+                    "",
+                    "§7Defense: §a{DEFENSE}",
+                    "§7Fishing Speed: §a{FISHING_SPEED}",
+                    "§7Sea Creature Chance: §c{SEA_CREATURE_CHANCE}%",
+                    "",
+                    "§6Comfort Zone",
+                    "§7§7Grants §b+{0}☂ Fishing Speed §7for §a30s",
+                    "§a§7upon catching §6Treasure§7.",
+                    "",
+                    "§6Seafloor Scalper",
+                    "§7§7§6Treasure §7catches are §a{1}% §7more",
+                    "§7likely to be §6§lGREAT §7or §d§lOUTSTANDING§7.",
+                    "",
+                    "§6Crab Rave",
+                    "§7§7Grants §6+{2}⛃ Treasure Chance",
+                    "§6§7for each player with a §aHermit Crab",
+                    "§aPet §7within §a30 §7blocks, up to §a5 §7players.",
+                    "",
+                    "§6Hotspot Hazard",
+                    "§7§7Increases the chance of catching",
+                    "§7§dHotspot Sea Creatures §7by §a{3}%§7.",
+                    "",
+                    "§d§lMYTHIC"
+                ],
+                "variables": {
+                    "0": [
+                        0.4,
+                        40
+                    ],
+                    "1": [
+                        0.1,
+                        10
+                    ],
+                    "2": [
+                        0.002,
+                        0.2
+                    ],
+                    "3": [
+                        0.2,
+                        2
+                    ],
+                    "DEFENSE": [
+                        0.2,
+                        20
+                    ],
+                    "SEA_CREATURE_CHANCE": [
+                        0.02,
+                        2
+                    ],
+                    "FISHING_SPEED": [
+                        0.2,
+                        20
+                    ]
+                }
+            }
+        }
+    },
     "HORSE": {
         "id": "HORSE",
         "name": "Horse",

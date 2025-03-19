@@ -14,6 +14,12 @@ const isBadFile = (file) => {
     return !file.endsWith(".json");
 }
 
+const minify = (id) => {
+    const data = JSON.stringify(JSON.parse(fs.readFileSync(`${id}.json`, "utf-8")));
+    fs.writeFileSync(`cloudflare/${id}.min.json`, data);
+    return data;
+}
+
 for (let file of fs.readdirSync("neu/items")) {
     if (isBadFile(file)) continue;
 
@@ -38,9 +44,11 @@ for (let file of fs.readdirSync("neu/items")) {
 const itemsSha = crypto.createHash("sha1").update(Items.writeItems()).digest("hex");
 const petsSha = crypto.createHash("sha1").update(Pets.writePets()).digest("hex");
 const recipesSha = crypto.createHash("sha1").update(Recipes.write()).digest("hex");
+const constantsSha = crypto.createHash("sha1").update(minify("constants")).digest("hex");
 
 fs.writeFileSync("cloudflare/shas.json", JSON.stringify({
     items: itemsSha,
     pets: petsSha,
     recipes: recipesSha,
+    constants: constantsSha,
 }, null, 4));
