@@ -91,8 +91,8 @@ export const Recipes1214 = {
             }
         }
     },
-    write: () => {
-        fs.writeFileSync("cloudflare/1_21_4/recipes.min.json", JSON.stringify(recipesFile));
+    write: (path) => {
+        fs.writeFileSync(`cloudflare/${path}/recipes.min.json`, JSON.stringify(recipesFile));
 
         return JSON.stringify(recipesFile);
     }

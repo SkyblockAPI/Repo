@@ -59,8 +59,8 @@ export const Pets1214 = {
 
         petsFile[petId] = data
     },
-    writePets: () => {
-        fs.writeFileSync("cloudflare/1_21_4/pets.min.json", JSON.stringify(petsFile));
+    writePets: (path) => {
+        fs.writeFileSync(`cloudflare/${path}/pets.min.json`, JSON.stringify(petsFile));
 
         return JSON.stringify(petsFile);
     }

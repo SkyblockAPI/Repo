@@ -43,8 +43,8 @@ export const Items1214 = {
             }
         });
     },
-    writeItems: () => {
-        fs.writeFileSync("cloudflare/1_21_4/items.min.json", JSON.stringify(itemsFile));
+    writeItems: (path) => {
+        fs.writeFileSync(`cloudflare/${path}/items.min.json`, JSON.stringify(itemsFile));
 
         return JSON.stringify(itemsFile);
     }

@@ -2,6 +2,11 @@ import fs from "fs";
 import crypto from "crypto";
 import {decode} from "../utils/snbt.mjs";
 import {Mc1214} from "./1_21_4/1214.mjs";
+import {Mc1215} from "./1_21_5/1215.mjs";
+import {Items1214} from "./1_21_4/items1214.mjs";
+import {Items1215} from "./1_21_5/items1215.mjs";
+import {Pets1214} from "./1_21_4/pets1214.mjs";
+import {Recipes1214} from "./1_21_4/recipes1214.mjs";
 
 const isBadFile = (file) => {
     if (file.endsWith("_NPC.json")) return true;
@@ -28,20 +33,22 @@ for (let file of fs.readdirSync("neu/items")) {
 
     if (attributes.hasOwnProperty("petInfo")) {
         data.pet = JSON.parse(attributes.petInfo.replaceAll("\\\"", "\""));
-        Mc1214.pets.parsePet(data);
+        Pets1214.parsePet(data);
     } else if (data.internalname.includes(";")) {
         // console.log(file + " is a variant");
         continue;
     } else {
-        Mc1214.items.parseItem(data);
+        Items1214.parseItem(data);
+        Items1215.parseItem(data);
     }
 
-    Mc1214.recipes.parse(data);
+    Recipes1214.parse(data);
 }
 
 const constantsSha = crypto.createHash("sha1").update(minify("constants")).digest("hex");
 
 fs.writeFileSync("cloudflare/shas.json", JSON.stringify({
     "1_21_4": Mc1214.shas(),
+    "1_21_5": Mc1215.shas(),
     constants: constantsSha,
 }, null, 4));
