@@ -30,8 +30,8 @@ export const Items1214 = {
                 'minecraft:custom_data': item.nbt.ExtraAttributes ?? {},
                 'minecraft:unbreakable': isUnbreakable ? { show_in_tooltip: false } : undefined,
                 'minecraft:enchantment_glint_override': isGlowing ? true : undefined,
-                'minecraft:custom_name': `\"${item.displayname}\"`,
-                'minecraft:lore': item.lore.map(l => `\"${l}\"`),
+                'minecraft:custom_name': JSON.stringify(item.displayname),
+                'minecraft:lore': item.lore.map(line => JSON.stringify(line)),
                 'minecraft:profile': item.nbt.SkullOwner ? {
                     properties: [
                         {
