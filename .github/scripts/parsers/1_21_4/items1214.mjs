@@ -39,7 +39,8 @@ export const Items1214 = {
                             value: item.nbt.SkullOwner.Properties.textures[0].Value
                         }
                     ]
-                } : undefined
+                } : undefined,
+                'minecraft:dyed_color': item.nbt.display.color,
             }
         });
     },
