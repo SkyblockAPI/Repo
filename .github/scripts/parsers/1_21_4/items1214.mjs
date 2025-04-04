@@ -40,7 +40,10 @@ export const Items1214 = {
                         }
                     ]
                 } : undefined,
-                'minecraft:dyed_color': item.nbt.display.color,
+                'minecraft:dyed_color': item.nbt.display.color ? {
+                    rgb: item.nbt.display.color,
+                    show_in_tooltip: false
+                } : undefined,
             }
         });
     },
