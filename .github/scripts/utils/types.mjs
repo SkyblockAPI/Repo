@@ -23,6 +23,11 @@
  * @property {{[key: string]: string}} recipe
  * @property {[Object]} recipes
  *
+ * @property {string} island
+ * @property {number} x
+ * @property {number} y
+ * @property {number} z
+ *
  * @property {ItemNbt?} nbt
  * @property {PetInfo?} pet
  */
