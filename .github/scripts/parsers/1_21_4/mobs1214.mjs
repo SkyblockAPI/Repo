@@ -5,11 +5,14 @@ const mobsFile = {}
 export const Mobs1214 = {
     /** @param item {Item} */
     parseMob: (item) => {
-        const realName = item.internalname.replace("MAYOR_MONSTER", "MAYOR")
-        mobsFile[realName] = {
+        const realId = item.internalname.replace("MAYOR_MONSTER", "MAYOR")
+        const realName = item.displayname.replace(/^§.(.*) \(.*\)$/, "$1")
+
+        mobsFile[realId] = {
             island: item.island,
             position: item.x && item.y && item.z ? { x: item.x, y: item.y, z: item.z } : undefined,
-            texture: item.nbt.SkullOwner?.Properties?.textures[0]?.Value
+            texture: item.nbt.SkullOwner?.Properties?.textures[0]?.Value,
+            name: realName
         }
     },
     writeMobs: (path) => {
