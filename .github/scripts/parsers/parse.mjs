@@ -1,5 +1,4 @@
 import fs from "fs";
-import crypto from "crypto";
 import {decode} from "../utils/snbt.mjs";
 import {Mc1214} from "./1_21_4/1214.mjs";
 import {Mc1215} from "./1_21_5/1215.mjs";
@@ -8,6 +7,7 @@ import {Items1215} from "./1_21_5/items1215.mjs";
 import {Pets1214} from "./1_21_4/pets1214.mjs";
 import {Recipes1214} from "./1_21_4/recipes1214.mjs";
 import {Mobs1214} from "./1_21_4/mobs1214.mjs";
+import {clone} from "./copier.mjs";
 
 const isEntity = (file) => {
     if (file.endsWith("_NPC.json")) return true;
@@ -16,12 +16,6 @@ const isEntity = (file) => {
     if (file.endsWith("_BOSS.json")) return true;
     if (file.endsWith("_SC.json")) return true;
     return false;
-}
-
-const minify = (id) => {
-    const data = JSON.stringify(JSON.parse(fs.readFileSync(`${id}.json`, "utf-8")));
-    fs.writeFileSync(`cloudflare/${id}.min.json`, data);
-    return data;
 }
 
 for (let file of fs.readdirSync("neu/items")) {
@@ -48,10 +42,8 @@ for (let file of fs.readdirSync("neu/items")) {
     }
 }
 
-const constantsSha = crypto.createHash("sha1").update(minify("constants")).digest("hex");
-
 fs.writeFileSync("cloudflare/shas.json", JSON.stringify({
     "1_21_4": Mc1214.shas(),
     "1_21_5": Mc1215.shas(),
-    constants: constantsSha,
+    ... clone(),
 }, null, 4));
