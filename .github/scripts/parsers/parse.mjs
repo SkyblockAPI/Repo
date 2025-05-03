@@ -8,6 +8,7 @@ import {Pets1214} from "./1_21_4/pets1214.mjs";
 import {Recipes1214} from "./1_21_4/recipes1214.mjs";
 import {Mobs1214} from "./1_21_4/mobs1214.mjs";
 import {clone} from "./copier.mjs";
+import {Runes1214} from "./1_21_4/runes1214.mjs";
 
 const isEntity = (file) => {
     if (file.endsWith("_NPC.json")) return true;
@@ -27,7 +28,9 @@ for (let file of fs.readdirSync("neu/items")) {
     if (isEntity(file)) {
         Mobs1214.parseMob(data);
     } else {
-        if (attributes.hasOwnProperty("petInfo")) {
+        if (attributes.hasOwnProperty("runes")) {
+            Runes1214.parseRune(data);
+        } else if (attributes.hasOwnProperty("petInfo")) {
             data.pet = JSON.parse(attributes.petInfo.replaceAll("\\\"", "\""));
             Pets1214.parsePet(data);
         } else if (data.internalname.includes(";")) {
