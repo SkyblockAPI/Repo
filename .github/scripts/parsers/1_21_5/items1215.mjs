@@ -17,6 +17,15 @@ const getItemId = (id, damage) => {
 export const Items1215 = {
     /** @param item {Item} */
     parseItem: (item) => {
+        if (item.displayname == "§fEnchanted Book") {
+            item = structuredClone(item)
+            const id = item.nbt.ExtraAttributes.id;
+            const parts = item.internalname.split(";");
+            item.nbt.ExtraAttributes.id = `ENCHANTMENT_${parts[0].toUpperCase()}_${parts[1]}`;
+            item.displayname = item.lore[0]
+            item.lore.shift()
+        } 
+
         if (specialItems.items.includes(item.internalname)) return;
 
         const isUnbreakable = item.nbt?.Unbreakable === 1;
