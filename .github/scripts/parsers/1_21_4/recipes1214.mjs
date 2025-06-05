@@ -14,7 +14,7 @@ const getResult = (item, count) => {
             tier: item.pet.tier,
             count: count,
         };
-    } else if (item.displayname == "§fEnchanted Book") {
+    } else if (item.displayname.match(/§.Enchanted Book/)) {
         const parts = item.internalname.split(";")
         return {
             id: `ENCHANTMENT_${parts[0]}_${parts[1]}`,

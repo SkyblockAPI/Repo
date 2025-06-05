@@ -33,7 +33,7 @@ for (let file of fs.readdirSync("neu/items")) {
         } else if (attributes.hasOwnProperty("petInfo")) {
             data.pet = JSON.parse(attributes.petInfo.replaceAll("\\\"", "\""));
             Pets1214.parsePet(data);
-        } else if (data.displayname == "§fEnchanted Book") {
+        } else if (data.displayname.match(/§.Enchanted Book/)) {
             Items1214.parseItem(data);
             Items1215.parseItem(data);
         } else if (data.internalname.includes(";")) {
