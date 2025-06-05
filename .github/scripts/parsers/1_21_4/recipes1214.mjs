@@ -14,7 +14,14 @@ const getResult = (item, count) => {
             tier: item.pet.tier,
             count: count,
         };
+    } else if (item.displayname.match(/§.Enchanted Book/)) {
+        const parts = item.internalname.split(";")
+        return {
+            id: `ENCHANTMENT_${parts[0]}_${parts[1]}`,
+            count: count
+        }
     } else if (item.internalname.includes(";")) {
+        console.log(item)
         throw new Error("Unsupported variant recipe " + item.internalname);
     }
     return {
