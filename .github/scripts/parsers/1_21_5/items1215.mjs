@@ -17,7 +17,7 @@ const getItemId = (id, damage) => {
 export const Items1215 = {
     /** @param item {Item} */
     parseItem: (item) => {
-        if (item.displayname == "§fEnchanted Book") {
+        if (data.displayname.match(/§.Enchanted Book/)) {
             item = structuredClone(item)
             const id = item.nbt.ExtraAttributes.id;
             const parts = item.internalname.split(";");
