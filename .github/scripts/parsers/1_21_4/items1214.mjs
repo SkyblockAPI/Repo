@@ -30,6 +30,7 @@ export const Items1214 = {
 
         const isUnbreakable = item.nbt?.Unbreakable === 1;
         const isGlowing = item.nbt?.ench !== undefined;
+        const itemModel = !item.nbt.ItemModel || item.nbt.ItemModel === getItemId(item.itemid, item.damage) ? undefined : item.nbt.ItemModel;
 
         itemsFile.push({
             id: getItemId(item.itemid, item.damage),
@@ -53,6 +54,7 @@ export const Items1214 = {
                     rgb: item.nbt.display.color,
                     show_in_tooltip: false
                 } : undefined,
+                'minecraft:item_model': itemModel,
             }
         });
     },

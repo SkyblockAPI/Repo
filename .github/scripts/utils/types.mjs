@@ -10,6 +10,7 @@
  * @property {number?} Unbreakable
  * @property {Object[]?} ench
  * @property {{Properties: {textures: [{ Value }]}}} SkullOwner
+ * @property {String?} ItemModel
  */
 
 /**
