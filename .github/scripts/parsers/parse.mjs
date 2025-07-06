@@ -2,14 +2,13 @@ import fs from "fs";
 import {decode} from "../utils/snbt.mjs";
 import {Mc1214} from "./1_21_4/1214.mjs";
 import {Mc1215} from "./1_21_5/1215.mjs";
-import {Items} from "./1_21_4/items.mjs";
-import {Items} from "./1_21_5/items.mjs";
 import {Pets} from "./1_21_4/pets.mjs";
 import {Recipes} from "./1_21_4/recipes.mjs";
 import {Mobs} from "./1_21_4/mobs.mjs";
 import {clone} from "./copier.mjs";
 import {Runes} from "./1_21_4/runes.mjs";
 import {Enchantments } from "./1_21_4/enchantments.mjs";
+import { Attributes } from "./1_21_4/attributes.mjs";
 
 const isEntity = (file) => {
     if (file.endsWith("_NPC.json")) return true;
@@ -29,7 +28,9 @@ for (let file of fs.readdirSync("neu/items")) {
     if (isEntity(file)) {
         Mobs.parseMob(data);
     } else {
-        if (attributes.hasOwnProperty("runes")) {
+        if (attributes.hasOwnProperty("attributes") && data.internalname.startsWith("ATTRIBUTE_SHARD_")) {
+            Attributes.parseAttribute(data)
+        } else if (attributes.hasOwnProperty("runes")) {
             Runes.parseRune(data);
         } else if (attributes.hasOwnProperty("petInfo")) {
             data.pet = JSON.parse(attributes.petInfo.replaceAll("\\\"", "\""));

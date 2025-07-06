@@ -8,7 +8,7 @@ const specialItems = JSON.parse(fs.readFileSync(".github/scripts/data/special_it
 const lookup = converter.lookup
 const ignoreDamage = converter.ignore_damage
 
-const getItemId = (id, damage) => {
+export const getItemId = (id, damage) => {
     const newId = lookup[`${id}${ignoreDamage.includes(id) || damage === 0 ? "" : `:${damage}`}`];
     if (newId === undefined) throw new Error(`Unknown item: ${id}:${damage}`)
     return newId

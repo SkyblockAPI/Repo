@@ -5,24 +5,28 @@ import {Pets} from "./pets.mjs";
 import {Mobs} from "./mobs.mjs";
 import {Runes} from "./runes.mjs";
 import {Enchantments} from "./enchantments.mjs";
+import {Attributes} from "./attributes.mjs";
 
 export const Mc1214 = {
 
     items: Items,
-    enchantments: Enchantments,
     pets: Pets,
     recipes: Recipes,
     mobs: Mobs,
     runes: Runes,
+    enchantments: Enchantments,
+    attributes: Attributes,
 
     shas: () => {
         const path = "1_21_4";
+
         const itemsSha = crypto.createHash("sha1").update(Mc1214.items.writeItems(path)).digest("hex");
         const petsSha = crypto.createHash("sha1").update(Mc1214.pets.writePets(path)).digest("hex");
         const recipesSha = crypto.createHash("sha1").update(Mc1214.recipes.write(path)).digest("hex");
         const mobsSha = crypto.createHash("sha1").update(Mc1214.mobs.writeMobs(path)).digest("hex");
         const runesSha = crypto.createHash("sha1").update(Mc1214.runes.writeRunes(path)).digest("hex");
         const enchantmentsSha = crypto.createHash("sha1").update(Mc1214.enchantments.writeEnchantments(path)).digest("hex");
+        const attributesSha = crypto.createHash("sha1").update(Mc1214.attributes.writeAttributes(path)).digest("hex");
 
         return {
             items: itemsSha,
@@ -30,7 +34,8 @@ export const Mc1214 = {
             recipes: recipesSha,
             mobs: mobsSha,
             runes: runesSha,
-            enchantments: enchantmentsSha
+            enchantments: enchantmentsSha,
+            attributesSha: attributesSha,
         }
     }
 }

@@ -5,13 +5,16 @@ const enchantmentFile = {};
 export const Enchantments = {
     /** @param item {Item} */
     parseEnchantments: (item) => {
+        item.isEnchantment = true
+        const originalItem = item
         item = structuredClone(item)
-        const id = item.nbt.ExtraAttributes.id;
+
         const parts = item.internalname.split(";");
-        console.log(parts);
         const enchantId = parts[0];
         const enchantLevel = parts[1];
-        item.nbt.ExtraAttributes.id = `ENCHANTMENT_${parts[0].toUpperCase()}_${parts[1]}`;
+        originalItem.enchantId = enchantId
+        originalItem.enchantLevel = enchantLevel
+
         item.displayname = item.lore[0]
         item.lore.shift()
 
@@ -27,7 +30,6 @@ export const Enchantments = {
             literal_level: item.displayname.substring(item.displayname.lastIndexOf(" ")).trim(),
             lore: item.lore,
         })
-        console.log(enchant)
 
         enchantmentFile[enchantId] = enchant
     },

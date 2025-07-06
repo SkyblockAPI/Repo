@@ -1,19 +1,15 @@
 import crypto from "crypto";
-import {Recipes} from "../1_21_4/recipes.mjs";
-import {Pets} from "../1_21_4/pets.mjs";
 import {Items} from "./items.mjs";
-import {Mobs} from "../1_21_4/mobs.mjs";
-import {Runes} from "../1_21_4/runes.mjs";
-import { Enchantments } from "../1_21_4/enchantments.mjs";
-import { Mc1214 } from "../1_21_4/1214.mjs";
+import {Mc1214} from "../1_21_4/1214.mjs";
 
 export const Mc1215 = {
     items: Items,
-    enchantments: Mc1214.enchantments,
     pets: Mc1214.pets,
     recipes: Mc1214.recipes,
     mobs: Mc1214.mobs,
     runes: Mc1214.runes,
+    enchantments: Mc1214.enchantments,
+    attributes: Mc1214.attributes,
 
     shas: () => {
         const path = "1_21_5";
