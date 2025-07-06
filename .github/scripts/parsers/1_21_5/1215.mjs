@@ -19,6 +19,7 @@ export const Mc1215 = {
         const mobsSha = crypto.createHash("sha1").update(Mc1215.mobs.writeMobs(path)).digest("hex");
         const runesSha = crypto.createHash("sha1").update(Mc1215.runes.writeRunes(path)).digest("hex");
         const enchantmentsSha = crypto.createHash("sha1").update(Mc1215.enchantments.writeEnchantments(path)).digest("hex");
+        const attributeSha = crypto.createHash("sha1").update(Mc1215.attributes.writeAttributes(path)).digest("hex");
 
         return {
             items: itemsSha,
@@ -26,7 +27,8 @@ export const Mc1215 = {
             recipes: recipesSha,
             mobs: mobsSha,
             runes: runesSha,
-            enchantments: enchantmentsSha
+            enchantments: enchantmentsSha,
+            attributes: attributeSha,
         }
     }
 }
