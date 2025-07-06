@@ -43,7 +43,6 @@ export const Attributes = {
             item: getItemId(item.itemid, item.damage),
             texture: item.nbt.SkullOwner ? item.nbt.SkullOwner.Properties.textures[0].Value : undefined
         }
-        console.log(attribute)
 
         attributesFile.push(attribute)
     },

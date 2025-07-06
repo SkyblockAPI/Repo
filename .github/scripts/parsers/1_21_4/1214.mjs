@@ -35,7 +35,7 @@ export const Mc1214 = {
             mobs: mobsSha,
             runes: runesSha,
             enchantments: enchantmentsSha,
-            attributesSha: attributesSha,
+            attributes: attributesSha,
         }
     }
 }
