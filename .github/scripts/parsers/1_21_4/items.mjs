@@ -8,24 +8,15 @@ const specialItems = JSON.parse(fs.readFileSync(".github/scripts/data/special_it
 const lookup = converter.lookup
 const ignoreDamage = converter.ignore_damage
 
-const getItemId = (id, damage) => {
+export const getItemId = (id, damage) => {
     const newId = lookup[`${id}${ignoreDamage.includes(id) || damage === 0 ? "" : `:${damage}`}`];
     if (newId === undefined) throw new Error(`Unknown item: ${id}:${damage}`)
     return newId
 }
 
-export const Items1214 = {
+export const Items = {
     /** @param item {Item} */
     parseItem: (item) => {
-        if (item.displayname.match(/§.Enchanted Book/)) {
-            item = structuredClone(item)
-            const id = item.nbt.ExtraAttributes.id;
-            const parts = item.internalname.split(";");
-            item.nbt.ExtraAttributes.id = `ENCHANTMENT_${parts[0].toUpperCase()}_${parts[1]}`;
-            item.displayname = item.lore[0]
-            item.lore.shift()
-        } 
-
         if (specialItems.items.includes(item.internalname)) return;
 
         const isUnbreakable = item.nbt?.Unbreakable === 1;

@@ -2,13 +2,13 @@ import fs from "fs";
 import {decode} from "../utils/snbt.mjs";
 import {Mc1214} from "./1_21_4/1214.mjs";
 import {Mc1215} from "./1_21_5/1215.mjs";
-import {Items1214} from "./1_21_4/items1214.mjs";
-import {Items1215} from "./1_21_5/items1215.mjs";
-import {Pets1214} from "./1_21_4/pets1214.mjs";
-import {Recipes1214} from "./1_21_4/recipes1214.mjs";
-import {Mobs1214} from "./1_21_4/mobs1214.mjs";
+import {Pets} from "./1_21_4/pets.mjs";
+import {Recipes} from "./1_21_4/recipes.mjs";
+import {Mobs} from "./1_21_4/mobs.mjs";
 import {clone} from "./copier.mjs";
-import {Runes1214} from "./1_21_4/runes1214.mjs";
+import {Runes} from "./1_21_4/runes.mjs";
+import {Enchantments } from "./1_21_4/enchantments.mjs";
+import { Attributes } from "./1_21_4/attributes.mjs";
 
 const isEntity = (file) => {
     if (file.endsWith("_NPC.json")) return true;
@@ -26,25 +26,26 @@ for (let file of fs.readdirSync("neu/items")) {
     const attributes = data.nbt.ExtraAttributes;
 
     if (isEntity(file)) {
-        Mobs1214.parseMob(data);
+        Mobs.parseMob(data);
     } else {
-        if (attributes.hasOwnProperty("runes")) {
-            Runes1214.parseRune(data);
+        if (attributes.hasOwnProperty("attributes") && data.internalname.startsWith("ATTRIBUTE_SHARD_")) {
+            Attributes.parseAttribute(data)
+        } else if (attributes.hasOwnProperty("runes")) {
+            Runes.parseRune(data);
         } else if (attributes.hasOwnProperty("petInfo")) {
             data.pet = JSON.parse(attributes.petInfo.replaceAll("\\\"", "\""));
-            Pets1214.parsePet(data);
+            Pets.parsePet(data);
         } else if (data.displayname.match(/§.Enchanted Book/)) {
-            Items1214.parseItem(data);
-            Items1215.parseItem(data);
+            Enchantments.parseEnchantments(data);
         } else if (data.internalname.includes(";")) {
             // console.log(file + " is a variant");
             continue;
         } else {
-            Items1214.parseItem(data);
-            Items1215.parseItem(data);
+            Mc1214.items.parseItem(data);
+            Mc1215.items.parseItem(data);
         }
 
-        Recipes1214.parse(data);
+        Recipes.parse(data);
     }
 }
 

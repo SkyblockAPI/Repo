@@ -2,7 +2,7 @@ import fs from "fs";
 
 const mobsFile = {}
 
-export const Mobs1214 = {
+export const Mobs = {
     /** @param item {Item} */
     parseMob: (item) => {
         const realId = item.internalname.replace("MAYOR_MONSTER", "MAYOR")
