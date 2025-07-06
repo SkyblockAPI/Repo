@@ -35,7 +35,7 @@ for (let file of fs.readdirSync("neu/items")) {
         } else if (attributes.hasOwnProperty("petInfo")) {
             data.pet = JSON.parse(attributes.petInfo.replaceAll("\\\"", "\""));
             Pets.parsePet(data);
-        } else if (data.displayname.match(/§.Enchanted Book/)) {
+        } else if (data.displayname.match(/§.Enchanted Book/) && data.itemid === "minecraft:enchanted_book") {
             Enchantments.parseEnchantments(data);
         } else if (data.internalname.includes(";")) {
             // console.log(file + " is a variant");
