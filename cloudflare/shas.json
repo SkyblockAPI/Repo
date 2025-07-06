@@ -1,17 +1,21 @@
 {
     "1_21_4": {
-        "items": "09addec2272a429e7512867c66ee139a3c68ae85",
-        "pets": "62c00fc5b0b6a3d689716f9dcc85d5b6e1ed7f9f",
-        "recipes": "bcf0e75fa5e79c2ae83cad32cbe5df123a8e3798",
+        "items": "0767fae0aca81649813ae83cd40242029100c271",
+        "pets": "e2910413f6837ee8fc6b90a3f7e139f3280d41cb",
+        "recipes": "b0d1778083dbd57ea9f29627155c0be880890229",
         "mobs": "4d2643d617c6d1f06af29bb4b82e2926b7217b21",
-        "runes": "c3501402102236665b1e08ce271ad2ac123da4fa"
+        "runes": "b3bf573fd83178f7537e020bd66a464883f24d06",
+        "enchantments": "883a51e37483a0e1f6b22b4bb8a4d6719d73058d",
+        "attributes": "4ef9b930b7cb19707362db9cd3a9fd0b1b82abbe"
     },
     "1_21_5": {
-        "items": "92dd2baf24d76785026056c2989ace86587aa24f",
-        "pets": "62c00fc5b0b6a3d689716f9dcc85d5b6e1ed7f9f",
-        "recipes": "bcf0e75fa5e79c2ae83cad32cbe5df123a8e3798",
+        "items": "16b6d5c0c3cf5e7599161be12bee588d5804a02e",
+        "pets": "e2910413f6837ee8fc6b90a3f7e139f3280d41cb",
+        "recipes": "b0d1778083dbd57ea9f29627155c0be880890229",
         "mobs": "4d2643d617c6d1f06af29bb4b82e2926b7217b21",
-        "runes": "c3501402102236665b1e08ce271ad2ac123da4fa"
+        "runes": "b3bf573fd83178f7537e020bd66a464883f24d06",
+        "enchantments": "883a51e37483a0e1f6b22b4bb8a4d6719d73058d",
+        "attributes": "4ef9b930b7cb19707362db9cd3a9fd0b1b82abbe"
     },
     "constants": "7f5c665a621c2b7b01ee3d0e45167f1e3c625594",
     "reforge_stones": "f9591aa85dfeaf53519fc98e72e52375294bd8d3"
