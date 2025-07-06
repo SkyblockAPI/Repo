@@ -76,7 +76,7 @@ const parseForgeRecipe = (item, recipe) => {
     }
 }
 
-export const Recipes1214 = {
+export const Recipes = {
     /** @param item {Item} */
     parse: (item) => {
         if (specialItems.items.includes(item.internalname)) return;

@@ -14,18 +14,9 @@ const getItemId = (id, damage) => {
     return newId
 }
 
-export const Items1214 = {
+export const Items = {
     /** @param item {Item} */
     parseItem: (item) => {
-        if (item.displayname.match(/§.Enchanted Book/)) {
-            item = structuredClone(item)
-            const id = item.nbt.ExtraAttributes.id;
-            const parts = item.internalname.split(";");
-            item.nbt.ExtraAttributes.id = `ENCHANTMENT_${parts[0].toUpperCase()}_${parts[1]}`;
-            item.displayname = item.lore[0]
-            item.lore.shift()
-        } 
-
         if (specialItems.items.includes(item.internalname)) return;
 
         const isUnbreakable = item.nbt?.Unbreakable === 1;
@@ -35,13 +26,27 @@ export const Items1214 = {
         itemsFile.push({
             id: getItemId(item.itemid, item.damage),
             components: {
-                'minecraft:attribute_modifiers': { modifiers: [], show_in_tooltip: false },
-                'minecraft:hide_additional_tooltip': {},
+                'minecraft:tooltip_display': {
+                    "hidden_components": [
+                        "minecraft:jukebox_playable",
+                        "minecraft:painting/variant",
+                        "minecraft:map_id",
+                        "minecraft:fireworks",
+                        "minecraft:attribute_modifiers",
+                        "minecraft:unbreakable",
+                        "minecraft:written_book_content",
+                        "minecraft:banner_patterns",
+                        "minecraft:trim",
+                        "minecraft:potion_contents",
+                        "minecraft:block_entity_data",
+                        "minecraft:dyed_color"
+                    ]
+                },
                 'minecraft:custom_data': item.nbt.ExtraAttributes ?? {},
-                'minecraft:unbreakable': isUnbreakable ? { show_in_tooltip: false } : undefined,
+                'minecraft:unbreakable': isUnbreakable ? {} : undefined,
                 'minecraft:enchantment_glint_override': isGlowing ? true : undefined,
-                'minecraft:custom_name': JSON.stringify(item.displayname),
-                'minecraft:lore': item.lore.map(line => JSON.stringify(line)),
+                'minecraft:custom_name': { text: item.displayname },
+                'minecraft:lore': item.lore.map(line => ({ text: line })),
                 'minecraft:profile': item.nbt.SkullOwner ? {
                     properties: [
                         {
@@ -50,10 +55,7 @@ export const Items1214 = {
                         }
                     ]
                 } : undefined,
-                'minecraft:dyed_color': item.nbt?.display?.color ? {
-                    rgb: item.nbt.display.color,
-                    show_in_tooltip: false
-                } : undefined,
+                'minecraft:dyed_color': item.nbt?.display?.color || undefined,
                 'minecraft:item_model': itemModel,
             }
         });

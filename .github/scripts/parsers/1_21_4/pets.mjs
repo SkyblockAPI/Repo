@@ -26,7 +26,7 @@ const getPetVariables = (pet, tier) => {
     return variables
 }
 
-export const Pets1214 = {
+export const Pets = {
     /** @param item {Item} */
     parsePet: (item) => {
         if (item.itemid !== "minecraft:skull") throw new Error(`Unknown pet: ${item.itemid}:${item.damage}`)

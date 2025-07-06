@@ -2,7 +2,7 @@ import fs from "fs";
 
 const runesFile = {}
 
-export const Runes1214 = {
+export const Runes = {
     /** @param item {Item} */
     parseRune: (item) => {
         if (item.itemid !== "minecraft:skull") throw new Error(`Unknown rune: ${item.itemid}:${item.damage}`)
