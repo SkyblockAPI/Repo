@@ -1,20 +1,20 @@
 {
     "1_21_4": {
-        "items": "b41ef1828d94cc116a8bfce063de0964f18d3fa3",
+        "items": "e2681c5b5e805b3172484a25e1f42ec7f20f2f49",
         "pets": "e2910413f6837ee8fc6b90a3f7e139f3280d41cb",
         "recipes": "3c171dad9298594896c39871e144e1ab959a4b36",
         "mobs": "4d2643d617c6d1f06af29bb4b82e2926b7217b21",
         "runes": "b3bf573fd83178f7537e020bd66a464883f24d06",
-        "enchantments": "64738fb4cb02a7d8a06950f820463d0f0b9a0ed7",
+        "enchantments": "df23564d4b508c22985336177f8a6a41f100d6ba",
         "attributes": "4ef9b930b7cb19707362db9cd3a9fd0b1b82abbe"
     },
     "1_21_5": {
-        "items": "8f4257d200ba341368c77201d8502b1c06edc5de",
+        "items": "461f3eeb525fe06d1001bea7bdc2f2f80ed86819",
         "pets": "e2910413f6837ee8fc6b90a3f7e139f3280d41cb",
         "recipes": "3c171dad9298594896c39871e144e1ab959a4b36",
         "mobs": "4d2643d617c6d1f06af29bb4b82e2926b7217b21",
         "runes": "b3bf573fd83178f7537e020bd66a464883f24d06",
-        "enchantments": "64738fb4cb02a7d8a06950f820463d0f0b9a0ed7",
+        "enchantments": "df23564d4b508c22985336177f8a6a41f100d6ba",
         "attributes": "4ef9b930b7cb19707362db9cd3a9fd0b1b82abbe"
     },
     "constants": "7f5c665a621c2b7b01ee3d0e45167f1e3c625594",
