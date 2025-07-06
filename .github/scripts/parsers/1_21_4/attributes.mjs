@@ -1,5 +1,6 @@
 import fs from "fs";
-import { getItemId, Items } from "./items.mjs";
+import { getItemId } from "./items.mjs";
+import {NeuData} from "../../utils/common_neu_data.mjs";
 
 const attributesFile = [];
 
@@ -33,6 +34,9 @@ export const Attributes = {
         const rarity = newLore.pop();
         newLore.push(rarity.substring(0, rarity.lastIndexOf("§")).trim())
 
+        const neuAttribute = NeuData.attributes.lookup[attributeId];
+
+        if (!neuAttribute) throw new Error(`Attribute shard ${attributeId} not found in neu/constants/attribute_shards.json`);
 
         const attribute = {
             id: attributeId,
@@ -41,7 +45,9 @@ export const Attributes = {
             shard_name: name.replace(/(§.)+/, ""),
             name: item.displayname.substring(0, item.displayname.lastIndexOf(" ")).trim().replace(/§./g, ""),
             item: getItemId(item.itemid, item.damage),
-            texture: item.nbt.SkullOwner ? item.nbt.SkullOwner.Properties.textures[0].Value : undefined
+            texture: item.nbt.SkullOwner ? item.nbt.SkullOwner.Properties.textures[0].Value : undefined,
+            rarity: neuAttribute.rarity,
+            max: NeuData.attributes.levels[neuAttribute.rarity]
         }
 
         attributesFile.push(attribute)
