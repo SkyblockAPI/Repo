@@ -8,7 +8,7 @@ const notRecipes = ["katgrade", "trade", "drops"];
 
 const BITS_ID = "SKYBLOCK_BIT";
 const COINS_ID = "SKYBLOCK_COIN";
-const COPPER_ID = "SKYBLOCK_COIN";
+const COPPER_ID = "SKYBLOCK_COPPER";
 const FOSSIL_DUST_ID = "SKYBLOCK_FOSSIL_DUST";
 
 const BRONZE_MEDAL_ID = "SKYBLOCK_BRONZE_MEDAL";
