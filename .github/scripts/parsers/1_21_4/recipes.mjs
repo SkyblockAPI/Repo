@@ -1,8 +1,27 @@
 import fs from "fs";
+import { petIds, Pets } from "./pets.mjs";
+import { enchantmentIds } from "./enchantments.mjs";
+import { attributeIds } from "./attributes.mjs";
+import { count } from "console";
 
 const specialItems = JSON.parse(fs.readFileSync(".github/scripts/data/special_items.json", "utf-8"))
-const notRecipes = ["npc_shop", "katgrade", "trade", "drops"];
+const notRecipes = ["katgrade", "trade", "drops"];
+
+const BITS_ID = "SKYBLOCK_BIT";
 const COINS_ID = "SKYBLOCK_COIN";
+const COPPER_ID = "SKYBLOCK_COIN";
+const FOSSIL_DUST_ID = "SKYBLOCK_FOSSIL_DUST";
+
+const BRONZE_MEDAL_ID = "SKYBLOCK_BRONZE_MEDAL";
+const SILVER_MEDAL_ID = "SKYBLOCK_SILVER_MEDAL";
+const GOLD_MEDAL_ID = "SKYBLOCK_GOLD_MEDAL";
+
+const MOTES_ID = "SKYBLOCK_MOTE";
+const NORTH_STARS_ID = "SKYBLOCK_NORTH_STAR";
+const PELTS_ID = "SKYBLOCK_PELT";
+const GEMS_ID = "SKYBLOCK_GEM";
+
+const currencies = [BITS_ID, COINS_ID, COPPER_ID, FOSSIL_DUST_ID, BRONZE_MEDAL_ID, SILVER_MEDAL_ID, GOLD_MEDAL_ID, MOTES_ID, NORTH_STARS_ID, PELTS_ID, GEMS_ID]
 
 const recipesFile = [];
 
@@ -34,6 +53,46 @@ const getResult = (item, count) => {
         id: item.internalname,
         count: count
     };
+}
+
+const getInputs = (item, amount) => {
+    amount = parseInt(amount) || 1
+    if (currencies.includes(item)) {
+        return {
+            type: "currency",
+            currency: item.substring(9),
+            count: amount,
+        }
+    } else if (item.includes(";")) {
+        let [itemId, second] = item.split(";")
+        second = parseInt(second)
+        if (petIds.includes(itemId)) {
+            return {
+                type: "pet",
+                pet: itemId,
+                tier: second,
+                count: amount,
+            }
+        } else if (enchantmentIds.includes(itemId)) {
+            return {
+                type: "enchantment",
+                id: itemId,
+                level: second,
+                count: amount,
+            }
+        } else if (attributeIds.includes(itemId)) {
+            return {
+                type: "attribute",
+                id: itemId,
+                count: amount,
+            }
+        }
+    }
+
+    return {
+        id: item,
+        count: amount,
+    }
 }
 
 const parseCraftingRecipe = (item, recipe) => {
@@ -82,6 +141,16 @@ const parseForgeRecipe = (item, recipe) => {
     }
 }
 
+const parseNpcRecipe = (recipe) => {
+    const [outputId, outputAmount] = recipe.result.split(":")
+
+    return {
+        type: "shop",
+        inputs: recipe.cost.map(key => key.split(":")).map(([id, amount]) => getInputs(id, parseInt(amount))),
+        result: getInputs(outputId, parseInt(outputAmount))
+    }
+}
+
 export const Recipes = {
     /** @param item {Item} */
     parse: (item) => {
@@ -98,6 +167,8 @@ export const Recipes = {
                     recipesFile.push(parseCraftingRecipe(item, recipe));
                 } else if (recipe.type === "forge") {
                     recipesFile.push(parseForgeRecipe(item, recipe));
+                } else if (recipe.type === "npc_shop") {
+                    recipesFile.push(parseNpcRecipe(recipe));
                 } else {
                     console.log(item.internalname, recipe.type);
                 }
@@ -106,6 +177,7 @@ export const Recipes = {
     },
     write: (path) => {
         fs.writeFileSync(`cloudflare/${path}/recipes.min.json`, JSON.stringify(recipesFile));
+        fs.writeFileSync(`cloudflare/${path}/recipes.json`, JSON.stringify(recipesFile, null, 2));
 
         return JSON.stringify(recipesFile);
     }

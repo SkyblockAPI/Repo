@@ -6,6 +6,7 @@ const RIGHT_CLICK_LORE_2 = "§7§eRight-click to add this pet to";
 const stats = JSON.parse(fs.readFileSync("neu/constants/petnums.json", "utf-8"));
 
 const petsFile = {}
+export const petIds = []
 
 const getPetVariables = (pet, tier) => {
     if (!stats[pet]) return {}
@@ -32,6 +33,7 @@ export const Pets = {
         if (item.itemid !== "minecraft:skull") throw new Error(`Unknown pet: ${item.itemid}:${item.damage}`)
 
         const petId = item.pet.type
+        petIds.push(petId)
         if (!petId || petId.includes(";")) throw new Error(`Unknown pet: ${petId} for ${item.internalname}`)
 
         const data = petsFile[petId] || {

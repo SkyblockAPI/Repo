@@ -2,6 +2,7 @@ import fs from "fs";
 import { getItemId, Items } from "./items.mjs";
 
 const attributesFile = [];
+export const attributeIds = []
 
 export const Attributes = {
     /** @param item {Item} */
@@ -33,7 +34,7 @@ export const Attributes = {
         const rarity = newLore.pop();
         newLore.push(rarity.substring(0, rarity.lastIndexOf("§")).trim())
 
-
+        attributeIds.push(attributeId)
         const attribute = {
             id: attributeId,
             lore: newLore,
@@ -43,7 +44,6 @@ export const Attributes = {
             item: getItemId(item.itemid, item.damage),
             texture: item.nbt.SkullOwner ? item.nbt.SkullOwner.Properties.textures[0].Value : undefined
         }
-        console.log(attribute)
 
         attributesFile.push(attribute)
     },
