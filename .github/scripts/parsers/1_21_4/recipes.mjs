@@ -2,7 +2,6 @@ import fs from "fs";
 import { petIds, Pets } from "./pets.mjs";
 import { enchantmentIds } from "./enchantments.mjs";
 import { attributeIds } from "./attributes.mjs";
-import { count } from "console";
 
 const specialItems = JSON.parse(fs.readFileSync(".github/scripts/data/special_items.json", "utf-8"))
 const notRecipes = ["katgrade", "trade", "drops"];
@@ -177,7 +176,6 @@ export const Recipes = {
     },
     write: (path) => {
         fs.writeFileSync(`cloudflare/${path}/recipes.min.json`, JSON.stringify(recipesFile));
-        fs.writeFileSync(`cloudflare/${path}/recipes.json`, JSON.stringify(recipesFile, null, 2));
 
         return JSON.stringify(recipesFile);
     }
