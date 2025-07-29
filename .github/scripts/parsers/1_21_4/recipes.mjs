@@ -1,9 +1,11 @@
 import fs from "fs";
-import {getResult} from "./recipes/ingredients.mjs";
+import { petIds, Pets } from "./pets.mjs";
+import { enchantmentIds } from "./enchantments.mjs";
+import { attributeIds } from "./attributes.mjs";
+import {getResult,getInputs} from "./recipes/ingredients.mjs";
 
 const specialItems = JSON.parse(fs.readFileSync(".github/scripts/data/special_items.json", "utf-8"))
-const notRecipes = ["npc_shop", "katgrade", "trade", "drops"];
-const COINS_ID = "SKYBLOCK_COIN";
+const notRecipes = ["katgrade", "trade", "drops"];
 
 const recipesFile = [];
 
@@ -53,6 +55,16 @@ const parseForgeRecipe = (item, recipe) => {
     }
 }
 
+const parseNpcRecipe = (recipe) => {
+    const [outputId, outputAmount] = recipe.result.split(":")
+
+    return {
+        type: "shop",
+        inputs: recipe.cost.map(key => key.split(":")).map(([id, amount]) => getInputs(id, parseInt(amount))),
+        result: getInputs(outputId, parseInt(outputAmount))
+    }
+}
+
 export const Recipes = {
     /** @param item {Item} */
     parse: (item) => {
@@ -69,6 +81,8 @@ export const Recipes = {
                     recipesFile.push(parseCraftingRecipe(item, recipe));
                 } else if (recipe.type === "forge") {
                     recipesFile.push(parseForgeRecipe(item, recipe));
+                } else if (recipe.type === "npc_shop") {
+                    recipesFile.push(parseNpcRecipe(recipe));
                 } else {
                     console.log(item.internalname, recipe.type);
                 }

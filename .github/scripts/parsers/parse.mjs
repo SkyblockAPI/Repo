@@ -19,11 +19,16 @@ const isEntity = (file) => {
     return false;
 }
 
+const post = []
 for (let file of fs.readdirSync("neu/items")) {
     const data = JSON.parse(fs.readFileSync(`./neu/items/${file}`, "utf-8"));
     data.nbt = decode(data.nbttag);
 
     const attributes = data.nbt.ExtraAttributes;
+
+    post.push(() => {
+        Recipes.parse(data)
+    })
 
     if (isEntity(file)) {
         Mobs.parseMob(data);
@@ -44,10 +49,10 @@ for (let file of fs.readdirSync("neu/items")) {
             Mc1214.items.parseItem(data);
             Mc1215.items.parseItem(data);
         }
-
-        Recipes.parse(data);
     }
 }
+
+post.forEach((recipe) => recipe())
 
 fs.writeFileSync("cloudflare/shas.json", JSON.stringify({
     "1_21_4": Mc1214.shas(),

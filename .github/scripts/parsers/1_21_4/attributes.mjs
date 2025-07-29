@@ -3,6 +3,7 @@ import { getItemId } from "./items.mjs";
 import {NeuData} from "../../utils/common_neu_data.mjs";
 
 const attributesFile = [];
+export const attributeIds = []
 
 export const Attributes = {
     /** @param item {Item} */
@@ -37,6 +38,7 @@ export const Attributes = {
         const neuAttribute = NeuData.attributes.lookup[attributeId];
 
         if (!neuAttribute) throw new Error(`Attribute shard ${attributeId} not found in neu/constants/attribute_shards.json`);
+        attributeIds.push(attributeId)
 
         const attribute = {
             id: attributeId,

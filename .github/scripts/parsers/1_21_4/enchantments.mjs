@@ -1,6 +1,7 @@
 import fs from "fs";
 
 const enchantmentFile = {};
+export const enchantmentIds = []
 
 export const Enchantments = {
     /** @param item {Item} */
@@ -18,6 +19,7 @@ export const Enchantments = {
         item.displayname = item.lore[0]
         item.lore.shift()
 
+        enchantmentIds.push(enchantId)
         const enchant = enchantmentFile[enchantId] || {
             id: enchantId,
             levels: [],
