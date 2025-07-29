@@ -5,7 +5,6 @@ const specialItems = JSON.parse(fs.readFileSync(".github/scripts/data/special_it
 const notRecipes = ["trade", "drops"];
 
 const recipesFile = [];
-const petFile = [];
 
 const parseCraftingRecipe = (item, recipe) => {
     const pattern = [
