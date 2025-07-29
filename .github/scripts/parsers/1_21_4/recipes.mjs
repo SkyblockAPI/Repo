@@ -2,9 +2,10 @@ import fs from "fs";
 import {getResult,getInputs,COINS_ID} from "./recipes/ingredients.mjs";
 
 const specialItems = JSON.parse(fs.readFileSync(".github/scripts/data/special_items.json", "utf-8"))
-const notRecipes = ["katgrade", "trade", "drops"];
+const notRecipes = ["trade", "drops"];
 
 const recipesFile = [];
+const petFile = [];
 
 const parseCraftingRecipe = (item, recipe) => {
     const pattern = [
@@ -62,6 +63,17 @@ const parseNpcRecipe = (recipe) => {
     }
 }
 
+const parseKatRecipe = (recipe) => {
+    return {
+        type: "kat",
+        input: getInputs(recipe.input, 1),
+        output: getInputs(recipe.output, 1),
+        inputs: recipe.items.map(key => key.split(":")).map(([id, amount]) => getInputs(id, parseInt(amount))),
+        time: recipe.time,
+        coins: recipe.coins,
+    }
+}
+
 export const Recipes = {
     /** @param item {Item} */
     parse: (item) => {
@@ -80,6 +92,8 @@ export const Recipes = {
                     recipesFile.push(parseForgeRecipe(item, recipe));
                 } else if (recipe.type === "npc_shop") {
                     recipesFile.push(parseNpcRecipe(recipe));
+                } else if (recipe.type === "katgrade") {
+                    recipesFile.push(parseKatRecipe(recipe))
                 } else {
                     console.log(item.internalname, recipe.type);
                 }
@@ -88,6 +102,7 @@ export const Recipes = {
     },
     write: (path) => {
         fs.writeFileSync(`cloudflare/${path}/recipes.min.json`, JSON.stringify(recipesFile));
+        fs.writeFileSync(`data/${path}/recipes.json`, JSON.stringify(recipesFile, null, 2));
 
         return JSON.stringify(recipesFile);
     }

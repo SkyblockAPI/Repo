@@ -24,6 +24,7 @@ export const Runes = {
     },
     writeRunes: (path) => {
         fs.writeFileSync(`cloudflare/${path}/runes.min.json`, JSON.stringify(runesFile));
+        fs.writeFileSync(`data/${path}/runes.json`, JSON.stringify(runesFile, null, 2));
 
         return JSON.stringify(runesFile);
     }

@@ -62,6 +62,7 @@ export const Items = {
     },
     writeItems: (path) => {
         fs.writeFileSync(`cloudflare/${path}/items.min.json`, JSON.stringify(itemsFile));
+        fs.writeFileSync(`data/${path}/items.json`, JSON.stringify(itemsFile, null, 2));
 
         return JSON.stringify(itemsFile);
     }

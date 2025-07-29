@@ -63,6 +63,7 @@ export const Pets = {
     },
     writePets: (path) => {
         fs.writeFileSync(`cloudflare/${path}/pets.min.json`, JSON.stringify(petsFile));
+        fs.writeFileSync(`data/${path}/pets.json`, JSON.stringify(petsFile, null, 2));
 
         return JSON.stringify(petsFile);
     }

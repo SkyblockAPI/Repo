@@ -1,0 +1,4186 @@
+[
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ARMADILLO",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ARMADILLO",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 10800,
+    "coins": 10000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ARMADILLO",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ARMADILLO",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 36000,
+    "coins": 30000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ARMADILLO",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ARMADILLO",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 172800,
+    "coins": 250000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ARMADILLO",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ARMADILLO",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 432000,
+    "coins": 1000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BABY_YETI",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BABY_YETI",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_RAW_SALMON",
+        "count": 16
+      }
+    ],
+    "time": 1036800,
+    "coins": 20000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BAL",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BAL",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "YOGGIE",
+        "count": 100
+      }
+    ],
+    "time": 864000,
+    "coins": 2000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BAT",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BAT",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "RED_MUSHROOM",
+        "count": 128
+      },
+      {
+        "id": "BROWN_MUSHROOM",
+        "count": 128
+      }
+    ],
+    "time": 300,
+    "coins": 5000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BAT",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BAT",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_RED_MUSHROOM",
+        "count": 4
+      },
+      {
+        "id": "ENCHANTED_BROWN_MUSHROOM",
+        "count": 4
+      }
+    ],
+    "time": 600,
+    "coins": 10000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BAT",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BAT",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_RED_MUSHROOM",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_BROWN_MUSHROOM",
+        "count": 8
+      }
+    ],
+    "time": 900,
+    "coins": 25000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BAT",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BAT",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_RED_MUSHROOM",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_BROWN_MUSHROOM",
+        "count": 16
+      }
+    ],
+    "time": 1800,
+    "coins": 50000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BAT",
+      "tier": 4,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BAT",
+      "tier": 5,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_RED_MUSHROOM",
+        "count": 32
+      },
+      {
+        "id": "ENCHANTED_BROWN_MUSHROOM",
+        "count": 32
+      },
+      {
+        "id": "PET_ITEM_VAMPIRE_FANG",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 100000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BEE",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BEE",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "COAL_BLOCK",
+        "count": 128
+      }
+    ],
+    "time": 3600,
+    "coins": 5000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BEE",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BEE",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "GOLD_BLOCK",
+        "count": 128
+      }
+    ],
+    "time": 21600,
+    "coins": 40000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BEE",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BEE",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_COAL_BLOCK",
+        "count": 9
+      }
+    ],
+    "time": 86400,
+    "coins": 150000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BEE",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BEE",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_GOLD_BLOCK",
+        "count": 9
+      }
+    ],
+    "time": 259200,
+    "coins": 450000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BLACK_CAT",
+      "tier": 4,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BLACK_CAT",
+      "tier": 5,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "BLACK_WOOLEN_YARN",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 1000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BLAZE",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BLAZE",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_BLAZE_POWDER",
+        "count": 128
+      }
+    ],
+    "time": 86400,
+    "coins": 250000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BLAZE",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BLAZE",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_BLAZE_POWDER",
+        "count": 256
+      }
+    ],
+    "time": 172800,
+    "coins": 500000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BLAZE",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BLAZE",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_BLAZE_POWDER",
+        "count": 512
+      }
+    ],
+    "time": 259200,
+    "coins": 1000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BLAZE",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BLAZE",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_BLAZE_ROD",
+        "count": 8
+      }
+    ],
+    "time": 432000,
+    "coins": 2500000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BLUE_WHALE",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BLUE_WHALE",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 86400,
+    "coins": 15000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BLUE_WHALE",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BLUE_WHALE",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 172800,
+    "coins": 75000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BLUE_WHALE",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BLUE_WHALE",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_COOKED_FISH",
+        "count": 1
+      }
+    ],
+    "time": 604800,
+    "coins": 900000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BLUE_WHALE",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BLUE_WHALE",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_COOKED_FISH",
+        "count": 8
+      }
+    ],
+    "time": 1036800,
+    "coins": 9000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "CHICKEN",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "CHICKEN",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "RAW_CHICKEN",
+        "count": 128
+      },
+      {
+        "id": "FEATHER",
+        "count": 128
+      }
+    ],
+    "time": 10,
+    "coins": 500
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "CHICKEN",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "CHICKEN",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "RAW_CHICKEN",
+        "count": 256
+      },
+      {
+        "id": "FEATHER",
+        "count": 256
+      }
+    ],
+    "time": 20,
+    "coins": 2500
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "CHICKEN",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "CHICKEN",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "RAW_CHICKEN",
+        "count": 512
+      },
+      {
+        "id": "FEATHER",
+        "count": 512
+      }
+    ],
+    "time": 30,
+    "coins": 5000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "CHICKEN",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "CHICKEN",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_RAW_CHICKEN",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_FEATHER",
+        "count": 64
+      }
+    ],
+    "time": 45,
+    "coins": 10000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "DOLPHIN",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "DOLPHIN",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 86400,
+    "coins": 100000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "DOLPHIN",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "DOLPHIN",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 172800,
+    "coins": 1000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "DOLPHIN",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "DOLPHIN",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 604800,
+    "coins": 10000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "DOLPHIN",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "DOLPHIN",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_RAW_FISH",
+        "count": 16
+      }
+    ],
+    "time": 1209600,
+    "coins": 50000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ELEPHANT",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ELEPHANT",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 21600,
+    "coins": 15000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ELEPHANT",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ELEPHANT",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 72000,
+    "coins": 75000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ELEPHANT",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ELEPHANT",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 432000,
+    "coins": 900000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ELEPHANT",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ELEPHANT",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 864000,
+    "coins": 14000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ENDERMAN",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ENDERMAN",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 86400,
+    "coins": 1000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ENDERMAN",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ENDERMAN",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 172800,
+    "coins": 5000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ENDERMAN",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ENDERMAN",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 518400,
+    "coins": 10000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ENDERMAN",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ENDERMAN",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_EYE_OF_ENDER",
+        "count": 8
+      }
+    ],
+    "time": 1036800,
+    "coins": 40000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ENDERMAN",
+      "tier": 4,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ENDERMAN",
+      "tier": 5,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENDERMAN_CORTEX_REWRITER",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 1000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ENDERMITE",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ENDERMITE",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENDER_STONE",
+        "count": 512
+      }
+    ],
+    "time": 300,
+    "coins": 5000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ENDERMITE",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ENDERMITE",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_ENDSTONE",
+        "count": 8
+      }
+    ],
+    "time": 600,
+    "coins": 10000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ENDERMITE",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ENDERMITE",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_ENDSTONE",
+        "count": 16
+      },
+      {
+        "id": "MITE_GEL",
+        "count": 32
+      }
+    ],
+    "time": 900,
+    "coins": 25000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ENDERMITE",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ENDERMITE",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_ENDSTONE",
+        "count": 32
+      },
+      {
+        "id": "MITE_GEL",
+        "count": 64
+      }
+    ],
+    "time": 1800,
+    "coins": 50000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ENDERMITE",
+      "tier": 4,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ENDERMITE",
+      "tier": 5,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "MIXED_MITE_GEL",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_ENDSTONE",
+        "count": 64
+      }
+    ],
+    "time": 3600,
+    "coins": 100000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ENDER_DRAGON",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ENDER_DRAGON",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "SUMMONING_EYE",
+        "count": 8
+      }
+    ],
+    "time": 1728000,
+    "coins": 400000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "FLYING_FISH",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "FLYING_FISH",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 432000,
+    "coins": 250000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "FLYING_FISH",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "FLYING_FISH",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_RAW_FISH",
+        "count": 64
+      }
+    ],
+    "time": 864000,
+    "coins": 1000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "FLYING_FISH",
+      "tier": 4,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "FLYING_FISH",
+      "tier": 5,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "RADIOACTIVE_VIAL",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 1000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "FROG",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "FROG",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "SMALL_FROG_TREAT",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 10000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "FROG",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "FROG",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "MEDIUM_FROG_TREAT",
+        "count": 1
+      }
+    ],
+    "time": 7200,
+    "coins": 50000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "FROG",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "FROG",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "LARGE_FROG_TREAT",
+        "count": 1
+      }
+    ],
+    "time": 10800,
+    "coins": 100000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "FROG",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "FROG",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "GIANT_FROG_TREAT",
+        "count": 1
+      }
+    ],
+    "time": 14400,
+    "coins": 200000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "GHOUL",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "GHOUL",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "REVENANT_FLESH",
+        "count": 512
+      }
+    ],
+    "time": 864000,
+    "coins": 5000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "GIRAFFE",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "GIRAFFE",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_ACACIA_LOG",
+        "count": 1
+      }
+    ],
+    "time": 86400,
+    "coins": 15000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "GIRAFFE",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "GIRAFFE",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_ACACIA_LOG",
+        "count": 16
+      }
+    ],
+    "time": 172800,
+    "coins": 75000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "GIRAFFE",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "GIRAFFE",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_ACACIA_LOG",
+        "count": 128
+      }
+    ],
+    "time": 604800,
+    "coins": 900000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "GIRAFFE",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "GIRAFFE",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_ACACIA_LOG",
+        "count": 512
+      }
+    ],
+    "time": 1036800,
+    "coins": 9000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "GLACITE_GOLEM",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "GLACITE_GOLEM",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_GLACITE",
+        "count": 128
+      }
+    ],
+    "time": 86400,
+    "coins": 250000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "GLACITE_GOLEM",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "GLACITE_GOLEM",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_GLACITE",
+        "count": 256
+      }
+    ],
+    "time": 172800,
+    "coins": 500000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "GLACITE_GOLEM",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "GLACITE_GOLEM",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_GLACITE",
+        "count": 512
+      }
+    ],
+    "time": 259200,
+    "coins": 1000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "GLACITE_GOLEM",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "GLACITE_GOLEM",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "GLACITE_AMALGAMATION",
+        "count": 8
+      }
+    ],
+    "time": 432000,
+    "coins": 2500000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "GOLEM",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "GOLEM",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_IRON_BLOCK",
+        "count": 8
+      }
+    ],
+    "time": 1728000,
+    "coins": 10000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "GUARDIAN",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "GUARDIAN",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 3600,
+    "coins": 20000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "GUARDIAN",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "GUARDIAN",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 21600,
+    "coins": 100000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "GUARDIAN",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "GUARDIAN",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 172800,
+    "coins": 500000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "GUARDIAN",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "GUARDIAN",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_PRISMARINE_SHARD",
+        "count": 64
+      }
+    ],
+    "time": 432000,
+    "coins": 3000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "GUARDIAN",
+      "tier": 4,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "GUARDIAN",
+      "tier": 5,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "GUARDIAN_LUCKY_BLOCK",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 1000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "HERMIT_CRAB",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "HERMIT_CRAB",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "RUSTY_COIN",
+        "count": 4
+      }
+    ],
+    "time": 3600,
+    "coins": 10000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "HERMIT_CRAB",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "HERMIT_CRAB",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "RUSTY_COIN",
+        "count": 16
+      }
+    ],
+    "time": 7200,
+    "coins": 50000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "HERMIT_CRAB",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "HERMIT_CRAB",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "BUSTED_BELT_BUCKLE",
+        "count": 8
+      }
+    ],
+    "time": 21600,
+    "coins": 200000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "HERMIT_CRAB",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "HERMIT_CRAB",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "OLD_LEATHER_BOOT",
+        "count": 1
+      }
+    ],
+    "time": 172800,
+    "coins": 1000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "HERMIT_CRAB",
+      "tier": 4,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "HERMIT_CRAB",
+      "tier": 5,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "SCUTTLER_SHELL",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 1000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "HORSE",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "HORSE",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "LEATHER",
+        "count": 128
+      }
+    ],
+    "time": 10,
+    "coins": 500
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "HORSE",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "HORSE",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "LEATHER",
+        "count": 256
+      }
+    ],
+    "time": 20,
+    "coins": 2500
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "HORSE",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "HORSE",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "LEATHER",
+        "count": 512
+      }
+    ],
+    "time": 30,
+    "coins": 5000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "HORSE",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "HORSE",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_LEATHER",
+        "count": 8
+      }
+    ],
+    "time": 45,
+    "coins": 10000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "HOUND",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "HOUND",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "WOLF_TOOTH",
+        "count": 512
+      }
+    ],
+    "time": 864000,
+    "coins": 5000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "JELLYFISH",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "JELLYFISH",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_SLIME_BALL",
+        "count": 16
+      }
+    ],
+    "time": 864000,
+    "coins": 15000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "JERRY",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "JERRY",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ASSISTANT",
+        "count": 1
+      }
+    ],
+    "time": 10,
+    "coins": 500
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "JERRY",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "JERRY",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ASSISTANT",
+        "count": 1
+      }
+    ],
+    "time": 20,
+    "coins": 2500
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "JERRY",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "JERRY",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ASSISTANT",
+        "count": 1
+      }
+    ],
+    "time": 30,
+    "coins": 5000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "JERRY",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "JERRY",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ASSISTANT",
+        "count": 1
+      }
+    ],
+    "time": 45,
+    "coins": 10000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "JERRY",
+      "tier": 4,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "JERRY",
+      "tier": 5,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "PET_ITEM_TOY_JERRY",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 25000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "LION",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "LION",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 86400,
+    "coins": 15000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "LION",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "LION",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 172800,
+    "coins": 75000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "LION",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "LION",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 604800,
+    "coins": 900000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "LION",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "LION",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_RAW_BEEF",
+        "count": 1024
+      }
+    ],
+    "time": 1036800,
+    "coins": 14000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "MAGMA_CUBE",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "MAGMA_CUBE",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 7200,
+    "coins": 2500
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "MAGMA_CUBE",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "MAGMA_CUBE",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 72000,
+    "coins": 5000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "MAGMA_CUBE",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "MAGMA_CUBE",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 432000,
+    "coins": 100000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "MAGMA_CUBE",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "MAGMA_CUBE",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_MAGMA_CREAM",
+        "count": 16
+      }
+    ],
+    "time": 864000,
+    "coins": 500000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "MEGALODON",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "MEGALODON",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 1728000,
+    "coins": 10000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "MITHRIL_GOLEM",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "MITHRIL_GOLEM",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "MITHRIL_ORE",
+        "count": 512
+      }
+    ],
+    "time": 300,
+    "coins": 5000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "MITHRIL_GOLEM",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "MITHRIL_GOLEM",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_MITHRIL",
+        "count": 8
+      }
+    ],
+    "time": 600,
+    "coins": 10000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "MITHRIL_GOLEM",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "MITHRIL_GOLEM",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_MITHRIL",
+        "count": 16
+      }
+    ],
+    "time": 900,
+    "coins": 25000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "MITHRIL_GOLEM",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "MITHRIL_GOLEM",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_MITHRIL",
+        "count": 32
+      }
+    ],
+    "time": 1800,
+    "coins": 50000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "MITHRIL_GOLEM",
+      "tier": 4,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "MITHRIL_GOLEM",
+      "tier": 5,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "PET_ITEM_PURE_MITHRIL_GEM",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_MITHRIL",
+        "count": 64
+      }
+    ],
+    "time": 3600,
+    "coins": 100000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "MONKEY",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "MONKEY",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 86400,
+    "coins": 15000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "MONKEY",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "MONKEY",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 172800,
+    "coins": 75000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "MONKEY",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "MONKEY",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 604800,
+    "coins": 900000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "MONKEY",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "MONKEY",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 1036800,
+    "coins": 17000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "MOOSHROOM_COW",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "MOOSHROOM_COW",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_MYCELIUM",
+        "count": 16
+      }
+    ],
+    "time": 3600,
+    "coins": 25000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "MOOSHROOM_COW",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "MOOSHROOM_COW",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_MYCELIUM",
+        "count": 32
+      }
+    ],
+    "time": 10800,
+    "coins": 50000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "MOOSHROOM_COW",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "MOOSHROOM_COW",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "DIGESTED_MUSHROOMS",
+        "count": 32
+      },
+      {
+        "id": "ENCHANTED_MYCELIUM",
+        "count": 64
+      }
+    ],
+    "time": 21600,
+    "coins": 100000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "MOOSHROOM_COW",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "MOOSHROOM_COW",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_MYCELIUM",
+        "count": 128
+      },
+      {
+        "id": "DIGESTED_MUSHROOMS",
+        "count": 64
+      }
+    ],
+    "time": 43200,
+    "coins": 250000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "MOSQUITO",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "MOSQUITO",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "TARANTULA_SILK",
+        "count": 8
+      }
+    ],
+    "time": 86400,
+    "coins": 250000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "MOSQUITO",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "MOSQUITO",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "TARANTULA_SILK",
+        "count": 16
+      }
+    ],
+    "time": 172800,
+    "coins": 500000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "MOSQUITO",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "MOSQUITO",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "TARANTULA_SILK",
+        "count": 32
+      }
+    ],
+    "time": 259200,
+    "coins": 1000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "MOSQUITO",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "MOSQUITO",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "TARANTULA_SILK",
+        "count": 64
+      }
+    ],
+    "time": 432000,
+    "coins": 2500000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "OCELOT",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "OCELOT",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "LOG-3",
+        "count": 512
+      }
+    ],
+    "time": 300,
+    "coins": 5000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "OCELOT",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "OCELOT",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_JUNGLE_LOG",
+        "count": 8
+      }
+    ],
+    "time": 600,
+    "coins": 10000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "OCELOT",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "OCELOT",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_JUNGLE_LOG",
+        "count": 16
+      }
+    ],
+    "time": 900,
+    "coins": 25000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "OCELOT",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "OCELOT",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_JUNGLE_LOG",
+        "count": 32
+      }
+    ],
+    "time": 1800,
+    "coins": 50000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "PARROT",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "PARROT",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_FEATHER",
+        "count": 16
+      }
+    ],
+    "time": 864000,
+    "coins": 15000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "PHOENIX",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "PHOENIX",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_BLAZE_POWDER",
+        "count": 1024
+      }
+    ],
+    "time": 1728000,
+    "coins": 100000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "PIG",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "PIG",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "PORK",
+        "count": 128
+      }
+    ],
+    "time": 10,
+    "coins": 500
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "PIG",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "PIG",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "PORK",
+        "count": 256
+      }
+    ],
+    "time": 20,
+    "coins": 2500
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "PIG",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "PIG",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "PORK",
+        "count": 512
+      }
+    ],
+    "time": 30,
+    "coins": 5000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "PIG",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "PIG",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_PORK",
+        "count": 8
+      }
+    ],
+    "time": 45,
+    "coins": 10000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "PIGMAN",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "PIGMAN",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_PORK",
+        "count": 16
+      }
+    ],
+    "time": 3600,
+    "coins": 25000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "PIGMAN",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "PIGMAN",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_PORK",
+        "count": 32
+      }
+    ],
+    "time": 10800,
+    "coins": 50000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "PIGMAN",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "PIGMAN",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_PORK",
+        "count": 64
+      }
+    ],
+    "time": 21600,
+    "coins": 100000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "PIGMAN",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "PIGMAN",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_PORK",
+        "count": 128
+      }
+    ],
+    "time": 43200,
+    "coins": 250000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "RABBIT",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "RABBIT",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "RABBIT",
+        "count": 512
+      },
+      {
+        "id": "RABBIT_HIDE",
+        "count": 256
+      },
+      {
+        "id": "RABBIT_FOOT",
+        "count": 256
+      }
+    ],
+    "time": 300,
+    "coins": 5000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "RABBIT",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "RABBIT",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_RABBIT",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_RABBIT_HIDE",
+        "count": 4
+      },
+      {
+        "id": "ENCHANTED_RABBIT_FOOT",
+        "count": 4
+      }
+    ],
+    "time": 600,
+    "coins": 10000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "RABBIT",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "RABBIT",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_RABBIT",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_RABBIT_HIDE",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_RABBIT_FOOT",
+        "count": 8
+      }
+    ],
+    "time": 900,
+    "coins": 25000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "RABBIT",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "RABBIT",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_RABBIT",
+        "count": 32
+      },
+      {
+        "id": "ENCHANTED_RABBIT_HIDE",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_RABBIT_FOOT",
+        "count": 16
+      }
+    ],
+    "time": 1800,
+    "coins": 50000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "RABBIT",
+      "tier": 4,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "RABBIT",
+      "tier": 5,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_RABBIT",
+        "count": 64
+      },
+      {
+        "id": "ENCHANTED_RABBIT_HIDE",
+        "count": 32
+      },
+      {
+        "id": "ENCHANTED_RABBIT_FOOT",
+        "count": 32
+      },
+      {
+        "id": "PET_ITEM_CHOCOLATE_SYRINGE",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 100000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "RAT",
+      "tier": 4,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "RAT",
+      "tier": 5,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "RAT_JETPACK",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 1000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ROCK",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ROCK",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 86400,
+    "coins": 100000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ROCK",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ROCK",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 172800,
+    "coins": 1000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ROCK",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ROCK",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 604800,
+    "coins": 10000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ROCK",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ROCK",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_COBBLESTONE",
+        "count": 64
+      }
+    ],
+    "time": 1209600,
+    "coins": 50000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SCATHA",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SCATHA",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_HARD_STONE",
+        "count": 64
+      }
+    ],
+    "time": 604800,
+    "coins": 125000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SCATHA",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SCATHA",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_HARD_STONE",
+        "count": 256
+      }
+    ],
+    "time": 1209600,
+    "coins": 250000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SHEEP",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SHEEP",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "MUTTON",
+        "count": 512
+      },
+      {
+        "id": "WOOL",
+        "count": 512
+      }
+    ],
+    "time": 300,
+    "coins": 5000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SHEEP",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SHEEP",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_MUTTON",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_WOOL",
+        "count": 8
+      }
+    ],
+    "time": 600,
+    "coins": 10000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SHEEP",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SHEEP",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_MUTTON",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_WOOL",
+        "count": 16
+      }
+    ],
+    "time": 900,
+    "coins": 25000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SHEEP",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SHEEP",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_MUTTON",
+        "count": 32
+      },
+      {
+        "id": "ENCHANTED_WOOL",
+        "count": 32
+      }
+    ],
+    "time": 1800,
+    "coins": 50000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SILVERFISH",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SILVERFISH",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "COBBLESTONE",
+        "count": 128
+      }
+    ],
+    "time": 10,
+    "coins": 500
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SILVERFISH",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SILVERFISH",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "COBBLESTONE",
+        "count": 256
+      }
+    ],
+    "time": 20,
+    "coins": 1000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SILVERFISH",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SILVERFISH",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "COBBLESTONE",
+        "count": 512
+      }
+    ],
+    "time": 30,
+    "coins": 5000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SILVERFISH",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SILVERFISH",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_COBBLESTONE",
+        "count": 8
+      }
+    ],
+    "time": 45,
+    "coins": 10000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SKELETON",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SKELETON",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "BONE",
+        "count": 512
+      }
+    ],
+    "time": 300,
+    "coins": 5000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SKELETON",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SKELETON",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_BONE",
+        "count": 8
+      }
+    ],
+    "time": 600,
+    "coins": 10000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SKELETON",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SKELETON",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_BONE",
+        "count": 16
+      }
+    ],
+    "time": 900,
+    "coins": 25000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SKELETON",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SKELETON",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_BONE",
+        "count": 32
+      }
+    ],
+    "time": 1800,
+    "coins": 50000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SLUG",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SLUG",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_COMPOST",
+        "count": 1
+      }
+    ],
+    "time": 604800,
+    "coins": 10000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SNAIL",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SNAIL",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_RED_SAND",
+        "count": 16
+      }
+    ],
+    "time": 3600,
+    "coins": 25000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SNAIL",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SNAIL",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_RED_SAND",
+        "count": 32
+      }
+    ],
+    "time": 10800,
+    "coins": 50000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SNAIL",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SNAIL",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_RED_SAND",
+        "count": 64
+      }
+    ],
+    "time": 21600,
+    "coins": 100000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SNAIL",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SNAIL",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "BURNING_EYE",
+        "count": 64
+      },
+      {
+        "id": "ENCHANTED_RED_SAND",
+        "count": 128
+      }
+    ],
+    "time": 43200,
+    "coins": 250000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SNOWMAN",
+      "tier": 4,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SNOWMAN",
+      "tier": 5,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "MAGIC_TOP_HAT",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 1000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SPIDER",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SPIDER",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "STRING",
+        "count": 512
+      },
+      {
+        "id": "SPIDER_EYE",
+        "count": 256
+      }
+    ],
+    "time": 300,
+    "coins": 5000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SPIDER",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SPIDER",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_STRING",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_SPIDER_EYE",
+        "count": 4
+      }
+    ],
+    "time": 600,
+    "coins": 10000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SPIDER",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SPIDER",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_STRING",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_SPIDER_EYE",
+        "count": 8
+      }
+    ],
+    "time": 900,
+    "coins": 25000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SPIDER",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SPIDER",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_STRING",
+        "count": 32
+      },
+      {
+        "id": "ENCHANTED_SPIDER_EYE",
+        "count": 16
+      }
+    ],
+    "time": 1800,
+    "coins": 50000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SPIDER",
+      "tier": 4,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SPIDER",
+      "tier": 5,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_STRING",
+        "count": 64
+      },
+      {
+        "id": "ENCHANTED_SPIDER_EYE",
+        "count": 32
+      },
+      {
+        "id": "FAKE_NEUROSCIENCE_DEGREE",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 100000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SPIRIT",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SPIRIT",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_GHAST_TEAR",
+        "count": 64
+      }
+    ],
+    "time": 864000,
+    "coins": 5000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SQUID",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SQUID",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 3600,
+    "coins": 20000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SQUID",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SQUID",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 21600,
+    "coins": 100000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SQUID",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SQUID",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 172800,
+    "coins": 500000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SQUID",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SQUID",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_INK_SACK",
+        "count": 64
+      }
+    ],
+    "time": 432000,
+    "coins": 3000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "TARANTULA",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "TARANTULA",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "TARANTULA_WEB",
+        "count": 512
+      }
+    ],
+    "time": 864000,
+    "coins": 5000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "TARANTULA",
+      "tier": 4,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "TARANTULA",
+      "tier": 5,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "FAKE_NEUROSCIENCE_DEGREE",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 1000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "TIGER",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "TIGER",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 86400,
+    "coins": 15000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "TIGER",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "TIGER",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 172800,
+    "coins": 75000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "TIGER",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "TIGER",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [],
+    "time": 604800,
+    "coins": 900000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "TIGER",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "TIGER",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_RAW_CHICKEN",
+        "count": 1024
+      }
+    ],
+    "time": 1036800,
+    "coins": 14000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "TURTLE",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "TURTLE",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_RAW_FISH",
+        "count": 16
+      }
+    ],
+    "time": 864000,
+    "coins": 15000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "WITHER_SKELETON",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "WITHER_SKELETON",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_COAL",
+        "count": 16
+      }
+    ],
+    "time": 3600,
+    "coins": 25000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "WITHER_SKELETON",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "WITHER_SKELETON",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_COAL",
+        "count": 32
+      }
+    ],
+    "time": 10800,
+    "coins": 50000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "WITHER_SKELETON",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "WITHER_SKELETON",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_COAL",
+        "count": 64
+      }
+    ],
+    "time": 21600,
+    "coins": 100000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "WITHER_SKELETON",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "WITHER_SKELETON",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_COAL",
+        "count": 128
+      }
+    ],
+    "time": 43200,
+    "coins": 250000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "WOLF",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "WOLF",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "LOG-1",
+        "count": 512
+      }
+    ],
+    "time": 300,
+    "coins": 5000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "WOLF",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "WOLF",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_SPRUCE_LOG",
+        "count": 8
+      }
+    ],
+    "time": 600,
+    "coins": 10000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "WOLF",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "WOLF",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_SPRUCE_LOG",
+        "count": 16
+      }
+    ],
+    "time": 900,
+    "coins": 25000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "WOLF",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "WOLF",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_SPRUCE_LOG",
+        "count": 32
+      }
+    ],
+    "time": 1800,
+    "coins": 50000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ZOMBIE",
+      "tier": 0,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ZOMBIE",
+      "tier": 1,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ROTTEN_FLESH",
+        "count": 128
+      }
+    ],
+    "time": 10,
+    "coins": 500
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ZOMBIE",
+      "tier": 1,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ZOMBIE",
+      "tier": 2,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ROTTEN_FLESH",
+        "count": 256
+      }
+    ],
+    "time": 20,
+    "coins": 1000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ZOMBIE",
+      "tier": 2,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ZOMBIE",
+      "tier": 3,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ROTTEN_FLESH",
+        "count": 512
+      }
+    ],
+    "time": 30,
+    "coins": 2500
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ZOMBIE",
+      "tier": 3,
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ZOMBIE",
+      "tier": 4,
+      "count": 1
+    },
+    "inputs": [
+      {
+        "id": "ENCHANTED_ROTTEN_FLESH",
+        "count": 8
+      }
+    ],
+    "time": 45,
+    "coins": 5000
+  }
+]

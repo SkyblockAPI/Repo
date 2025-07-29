@@ -56,6 +56,7 @@ export const Attributes = {
     },
     writeAttributes: (path) => {
         fs.writeFileSync(`cloudflare/${path}/attributes.min.json`, JSON.stringify(attributesFile));
+        fs.writeFileSync(`data/${path}/attributes.json`, JSON.stringify(attributesFile, null, 2));
 
         return JSON.stringify(attributesFile);
     }
