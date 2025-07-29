@@ -36,7 +36,7 @@ export const BITS_ID = "SKYBLOCK_BIT";
 export const COINS_ID = "SKYBLOCK_COIN";
 export const COPPER_ID = "SKYBLOCK_COPPER";
 export const FOSSIL_DUST_ID = "SKYBLOCK_FOSSIL_DUST";
- 
+
 export const BRONZE_MEDAL_ID = "SKYBLOCK_BRONZE_MEDAL";
 export const SILVER_MEDAL_ID = "SKYBLOCK_SILVER_MEDAL";
 export const GOLD_MEDAL_ID = "SKYBLOCK_GOLD_MEDAL";
@@ -47,6 +47,20 @@ export const PELTS_ID = "SKYBLOCK_PELT";
 export const GEMS_ID = "SKYBLOCK_GEM";
 
 const currencies = [BITS_ID, COINS_ID, COPPER_ID, FOSSIL_DUST_ID, BRONZE_MEDAL_ID, SILVER_MEDAL_ID, GOLD_MEDAL_ID, MOTES_ID, NORTH_STARS_ID, PELTS_ID, GEMS_ID]
+
+const rarityMap = {
+    0: "COMMON",
+    1: "UNCOMMON",
+    2: "RARE",
+    3: "EPIC",
+    4: "LEGENDARY",
+    5: "MYTHIC",
+    6: "DIVINE",
+    7: "ULTIMATE",
+    8: "SPECIAL",
+    9: "VERY_SPECIAL",
+    10: "ADMIN",
+}
 
 export const getInputs = (item, amount) => {
     amount = parseInt(amount) || 1
@@ -63,7 +77,7 @@ export const getInputs = (item, amount) => {
             return {
                 type: "pet",
                 pet: itemId,
-                tier: second,
+                tier: rarityMap[second] || second,
                 count: amount,
             }
         } else if (enchantmentIds.includes(itemId)) {
