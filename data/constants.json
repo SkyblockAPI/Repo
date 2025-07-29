@@ -1,1 +1,56 @@
-{}
+{
+  "PetItems": {
+    "PET_ITEM_BIG_TEETH_COMMON": {
+      "pet_stats": {
+        "CRIT_CHANCE": [
+          "+",
+          5
+        ]
+      }
+    },
+    "PET_ITEM_HARDENED_SCALES_UNCOMMON": {
+      "pet_stats": {
+        "DEFENCE": [
+          "+",
+          25
+        ]
+      }
+    },
+    "PET_ITEM_LUCKY_CLOVER": {
+      "pet_stats": {
+        "MAGIC_FIND": [
+          "+",
+          7
+        ]
+      }
+    },
+    "PET_ITEM_SHARPENED_CLAWS_UNCOMMON": {
+      "pet_stats": {
+        "CRIT_DAMAGE": [
+          "+",
+          15
+        ]
+      }
+    },
+    "PET_ITEM_IRON_CLAWS_COMMON": {
+      "pet_stats": {
+        "CRIT_DAMAGE": [
+          "*",
+          1.4
+        ],
+        "CRIT_CHANCE": [
+          "*",
+          1.4
+        ]
+      }
+    },
+    "PET_ITEM_TEXTBOOK": {
+      "pet_stats": {
+        "INTELLIGENCE": [
+          "*",
+          2
+        ]
+      }
+    }
+  }
+}
