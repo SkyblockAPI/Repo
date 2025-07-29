@@ -1,5 +1,5 @@
 import fs from "fs";
-import {getResult,getInputs} from "./recipes/ingredients.mjs";
+import {getResult,getInputs,COINS_ID} from "./recipes/ingredients.mjs";
 
 const specialItems = JSON.parse(fs.readFileSync(".github/scripts/data/special_items.json", "utf-8"))
 const notRecipes = ["katgrade", "trade", "drops"];
