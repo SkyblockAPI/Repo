@@ -1,3 +1,7 @@
+import { petIds, Pets } from "../pets.mjs";
+import { enchantmentIds } from "../enchantments.mjs";
+import { attributeIds } from "../attributes.mjs";
+
 export const getResult = (item, count) => {
     if (item.pet) {
         return {

@@ -1,7 +1,4 @@
 import fs from "fs";
-import { petIds, Pets } from "./pets.mjs";
-import { enchantmentIds } from "./enchantments.mjs";
-import { attributeIds } from "./attributes.mjs";
 import {getResult,getInputs} from "./recipes/ingredients.mjs";
 
 const specialItems = JSON.parse(fs.readFileSync(".github/scripts/data/special_items.json", "utf-8"))
