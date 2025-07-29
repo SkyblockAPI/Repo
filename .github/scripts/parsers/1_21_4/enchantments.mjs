@@ -12,7 +12,7 @@ export const Enchantments = {
 
         const parts = item.internalname.split(";");
         const enchantId = parts[0];
-        const enchantLevel = parts[1];
+        const enchantLevel = parseInt(parts[1]);
         originalItem.enchantId = enchantId
         originalItem.enchantLevel = enchantLevel
 
@@ -28,7 +28,7 @@ export const Enchantments = {
         }
 
         enchant.levels.push({
-            level: parseInt(enchantLevel),
+            level: enchantLevel,
             literal_level: item.displayname.substring(item.displayname.lastIndexOf(" ")).trim(),
             lore: item.lore,
         })
