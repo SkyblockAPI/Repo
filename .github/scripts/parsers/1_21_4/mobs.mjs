@@ -17,6 +17,7 @@ export const Mobs = {
     },
     writeMobs: (path) => {
         fs.writeFileSync(`cloudflare/${path}/mobs.min.json`, JSON.stringify(mobsFile));
+        fs.writeFileSync(`data/${path}/mobs.json`, JSON.stringify(mobsFile, null, 2));
 
         return JSON.stringify(mobsFile);
     }

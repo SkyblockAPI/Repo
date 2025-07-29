@@ -37,6 +37,7 @@ export const Enchantments = {
     },
     writeEnchantments: (path) => {
         fs.writeFileSync(`cloudflare/${path}/enchantments.min.json`, JSON.stringify(enchantmentFile));
+        fs.writeFileSync(`data/${path}/enchantments.json`, JSON.stringify(enchantmentFile, null, 2));
 
         return JSON.stringify(enchantmentFile);
     }
