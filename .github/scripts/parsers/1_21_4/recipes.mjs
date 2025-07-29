@@ -66,8 +66,8 @@ const parseKatRecipe = (recipe) => {
     return {
         type: "kat",
         input: getInputs(recipe.input, 1),
-        output: getInputs(recipe.output, 1),
-        inputs: recipe.items.map(key => key.split(":")).map(([id, amount]) => getInputs(id, parseInt(amount))),
+        output: getResult(recipe.output, 1),
+        items: recipe.items.map(key => key.split(":")).map(([id, amount]) => getInputs(id, parseInt(amount))),
         time: recipe.time,
         coins: recipe.coins,
     }
