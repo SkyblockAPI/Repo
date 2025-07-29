@@ -1064,7 +1064,7 @@
     "result": {
       "type": "pet",
       "pet": "FROG",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     }
   },
@@ -2934,13 +2934,13 @@
     "input": {
       "type": "pet",
       "pet": "ARMADILLO",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ARMADILLO",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [],
@@ -2952,13 +2952,13 @@
     "input": {
       "type": "pet",
       "pet": "ARMADILLO",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ARMADILLO",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [],
@@ -2970,13 +2970,13 @@
     "input": {
       "type": "pet",
       "pet": "ARMADILLO",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ARMADILLO",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [],
@@ -2988,13 +2988,13 @@
     "input": {
       "type": "pet",
       "pet": "ARMADILLO",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ARMADILLO",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [],
@@ -3608,13 +3608,13 @@
     "input": {
       "type": "pet",
       "pet": "BABY_YETI",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "BABY_YETI",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -3669,13 +3669,13 @@
     "input": {
       "type": "pet",
       "pet": "BAL",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "BAL",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -4559,13 +4559,13 @@
     "input": {
       "type": "pet",
       "pet": "BAT",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "BAT",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -4586,13 +4586,13 @@
     "input": {
       "type": "pet",
       "pet": "BAT",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "BAT",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -4613,13 +4613,13 @@
     "input": {
       "type": "pet",
       "pet": "BAT",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "BAT",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -4640,13 +4640,13 @@
     "input": {
       "type": "pet",
       "pet": "BAT",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "BAT",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -4667,13 +4667,13 @@
     "input": {
       "type": "pet",
       "pet": "BAT",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "BAT",
-      "tier": 5,
+      "tier": "MYTHIC",
       "count": 1
     },
     "items": [
@@ -5249,7 +5249,7 @@
     "result": {
       "type": "pet",
       "pet": "BEE",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     }
   },
@@ -5273,7 +5273,7 @@
     "result": {
       "type": "pet",
       "pet": "BEE",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     }
   },
@@ -5297,7 +5297,7 @@
     "result": {
       "type": "pet",
       "pet": "BEE",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     }
   },
@@ -5321,7 +5321,7 @@
     "result": {
       "type": "pet",
       "pet": "BEE",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     }
   },
@@ -5358,13 +5358,13 @@
     "input": {
       "type": "pet",
       "pet": "BEE",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "BEE",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -5381,13 +5381,13 @@
     "input": {
       "type": "pet",
       "pet": "BEE",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "BEE",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -5404,13 +5404,13 @@
     "input": {
       "type": "pet",
       "pet": "BEE",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "BEE",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -5427,13 +5427,13 @@
     "input": {
       "type": "pet",
       "pet": "BEE",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "BEE",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -6128,13 +6128,13 @@
     "input": {
       "type": "pet",
       "pet": "BLACK_CAT",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "BLACK_CAT",
-      "tier": 5,
+      "tier": "MYTHIC",
       "count": 1
     },
     "items": [
@@ -6181,13 +6181,13 @@
     "input": {
       "type": "pet",
       "pet": "BLAZE",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "BLAZE",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -6204,13 +6204,13 @@
     "input": {
       "type": "pet",
       "pet": "BLAZE",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "BLAZE",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -6227,13 +6227,13 @@
     "input": {
       "type": "pet",
       "pet": "BLAZE",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "BLAZE",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -6250,13 +6250,13 @@
     "input": {
       "type": "pet",
       "pet": "BLAZE",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "BLAZE",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -7109,13 +7109,13 @@
     "input": {
       "type": "pet",
       "pet": "BLUE_WHALE",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "BLUE_WHALE",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [],
@@ -7127,13 +7127,13 @@
     "input": {
       "type": "pet",
       "pet": "BLUE_WHALE",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "BLUE_WHALE",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [],
@@ -7145,13 +7145,13 @@
     "input": {
       "type": "pet",
       "pet": "BLUE_WHALE",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "BLUE_WHALE",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -7168,13 +7168,13 @@
     "input": {
       "type": "pet",
       "pet": "BLUE_WHALE",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "BLUE_WHALE",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -10314,13 +10314,13 @@
     "input": {
       "type": "pet",
       "pet": "CHICKEN",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "CHICKEN",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -10341,13 +10341,13 @@
     "input": {
       "type": "pet",
       "pet": "CHICKEN",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "CHICKEN",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -10368,13 +10368,13 @@
     "input": {
       "type": "pet",
       "pet": "CHICKEN",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "CHICKEN",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -10395,13 +10395,13 @@
     "input": {
       "type": "pet",
       "pet": "CHICKEN",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "CHICKEN",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -16041,13 +16041,13 @@
     "input": {
       "type": "pet",
       "pet": "DOLPHIN",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "DOLPHIN",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [],
@@ -16059,13 +16059,13 @@
     "input": {
       "type": "pet",
       "pet": "DOLPHIN",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "DOLPHIN",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [],
@@ -16077,13 +16077,13 @@
     "input": {
       "type": "pet",
       "pet": "DOLPHIN",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "DOLPHIN",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [],
@@ -16095,13 +16095,13 @@
     "input": {
       "type": "pet",
       "pet": "DOLPHIN",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "DOLPHIN",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -16737,7 +16737,7 @@
     "result": {
       "type": "pet",
       "pet": "REINDEER",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     }
   },
@@ -16960,13 +16960,13 @@
     "input": {
       "type": "pet",
       "pet": "ELEPHANT",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ELEPHANT",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [],
@@ -16978,13 +16978,13 @@
     "input": {
       "type": "pet",
       "pet": "ELEPHANT",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ELEPHANT",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [],
@@ -16996,13 +16996,13 @@
     "input": {
       "type": "pet",
       "pet": "ELEPHANT",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ELEPHANT",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [],
@@ -17014,13 +17014,13 @@
     "input": {
       "type": "pet",
       "pet": "ELEPHANT",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ELEPHANT",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [],
@@ -19248,6 +19248,30 @@
     ],
     "result": {
       "id": "ENCHANTED_COOKED_MUTTON",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_RABBIT",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "ENCHANTED_COOKED_RABBIT",
       "count": 1
     }
   },
@@ -22048,13 +22072,13 @@
     "input": {
       "type": "pet",
       "pet": "ENDERMAN",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ENDERMAN",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [],
@@ -22066,13 +22090,13 @@
     "input": {
       "type": "pet",
       "pet": "ENDERMAN",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ENDERMAN",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [],
@@ -22084,13 +22108,13 @@
     "input": {
       "type": "pet",
       "pet": "ENDERMAN",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ENDERMAN",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [],
@@ -22102,13 +22126,13 @@
     "input": {
       "type": "pet",
       "pet": "ENDERMAN",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ENDERMAN",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -22125,13 +22149,13 @@
     "input": {
       "type": "pet",
       "pet": "ENDERMAN",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ENDERMAN",
-      "tier": 5,
+      "tier": "MYTHIC",
       "count": 1
     },
     "items": [
@@ -22486,13 +22510,13 @@
     "input": {
       "type": "pet",
       "pet": "ENDERMITE",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ENDERMITE",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -22509,13 +22533,13 @@
     "input": {
       "type": "pet",
       "pet": "ENDERMITE",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ENDERMITE",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -22532,13 +22556,13 @@
     "input": {
       "type": "pet",
       "pet": "ENDERMITE",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ENDERMITE",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -22559,13 +22583,13 @@
     "input": {
       "type": "pet",
       "pet": "ENDERMITE",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ENDERMITE",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -22586,13 +22610,13 @@
     "input": {
       "type": "pet",
       "pet": "ENDERMITE",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ENDERMITE",
-      "tier": 5,
+      "tier": "MYTHIC",
       "count": 1
     },
     "items": [
@@ -22669,13 +22693,13 @@
     "input": {
       "type": "pet",
       "pet": "ENDER_DRAGON",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ENDER_DRAGON",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -23649,7 +23673,7 @@
     "result": {
       "type": "pet",
       "pet": "OWL",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     }
   },
@@ -24574,7 +24598,7 @@
     "result": {
       "type": "pet",
       "pet": "BLACK_CAT",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     }
   },
@@ -27927,13 +27951,13 @@
     "input": {
       "type": "pet",
       "pet": "FLYING_FISH",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "FLYING_FISH",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [],
@@ -27945,13 +27969,13 @@
     "input": {
       "type": "pet",
       "pet": "FLYING_FISH",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "FLYING_FISH",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -27968,13 +27992,13 @@
     "input": {
       "type": "pet",
       "pet": "FLYING_FISH",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "FLYING_FISH",
-      "tier": 5,
+      "tier": "MYTHIC",
       "count": 1
     },
     "items": [
@@ -28287,13 +28311,13 @@
     "input": {
       "type": "pet",
       "pet": "FROG",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "FROG",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -28310,13 +28334,13 @@
     "input": {
       "type": "pet",
       "pet": "FROG",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "FROG",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -28333,13 +28357,13 @@
     "input": {
       "type": "pet",
       "pet": "FROG",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "FROG",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -28356,13 +28380,13 @@
     "input": {
       "type": "pet",
       "pet": "FROG",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "FROG",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -29387,13 +29411,13 @@
     "input": {
       "type": "pet",
       "pet": "GHOUL",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "GHOUL",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -29538,13 +29562,13 @@
     "input": {
       "type": "pet",
       "pet": "GIRAFFE",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "GIRAFFE",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -29561,13 +29585,13 @@
     "input": {
       "type": "pet",
       "pet": "GIRAFFE",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "GIRAFFE",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -29584,13 +29608,13 @@
     "input": {
       "type": "pet",
       "pet": "GIRAFFE",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "GIRAFFE",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -29607,13 +29631,13 @@
     "input": {
       "type": "pet",
       "pet": "GIRAFFE",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "GIRAFFE",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -29818,13 +29842,13 @@
     "input": {
       "type": "pet",
       "pet": "GLACITE_GOLEM",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "GLACITE_GOLEM",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -29841,13 +29865,13 @@
     "input": {
       "type": "pet",
       "pet": "GLACITE_GOLEM",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "GLACITE_GOLEM",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -29864,13 +29888,13 @@
     "input": {
       "type": "pet",
       "pet": "GLACITE_GOLEM",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "GLACITE_GOLEM",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -29887,13 +29911,13 @@
     "input": {
       "type": "pet",
       "pet": "GLACITE_GOLEM",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "GLACITE_GOLEM",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -31554,13 +31578,13 @@
     "input": {
       "type": "pet",
       "pet": "GOLEM",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "GOLEM",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -32539,13 +32563,13 @@
     "input": {
       "type": "pet",
       "pet": "GUARDIAN",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "GUARDIAN",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [],
@@ -32557,13 +32581,13 @@
     "input": {
       "type": "pet",
       "pet": "GUARDIAN",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "GUARDIAN",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [],
@@ -32575,13 +32599,13 @@
     "input": {
       "type": "pet",
       "pet": "GUARDIAN",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "GUARDIAN",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [],
@@ -32593,13 +32617,13 @@
     "input": {
       "type": "pet",
       "pet": "GUARDIAN",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "GUARDIAN",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -32616,13 +32640,13 @@
     "input": {
       "type": "pet",
       "pet": "GUARDIAN",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "GUARDIAN",
-      "tier": 5,
+      "tier": "MYTHIC",
       "count": 1
     },
     "items": [
@@ -33687,13 +33711,13 @@
     "input": {
       "type": "pet",
       "pet": "HERMIT_CRAB",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "HERMIT_CRAB",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -33710,13 +33734,13 @@
     "input": {
       "type": "pet",
       "pet": "HERMIT_CRAB",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "HERMIT_CRAB",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -33733,13 +33757,13 @@
     "input": {
       "type": "pet",
       "pet": "HERMIT_CRAB",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "HERMIT_CRAB",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -33756,13 +33780,13 @@
     "input": {
       "type": "pet",
       "pet": "HERMIT_CRAB",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "HERMIT_CRAB",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -33779,13 +33803,13 @@
     "input": {
       "type": "pet",
       "pet": "HERMIT_CRAB",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "HERMIT_CRAB",
-      "tier": 5,
+      "tier": "MYTHIC",
       "count": 1
     },
     "items": [
@@ -34232,13 +34256,13 @@
     "input": {
       "type": "pet",
       "pet": "HORSE",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "HORSE",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -34255,13 +34279,13 @@
     "input": {
       "type": "pet",
       "pet": "HORSE",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "HORSE",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -34278,13 +34302,13 @@
     "input": {
       "type": "pet",
       "pet": "HORSE",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "HORSE",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -34301,13 +34325,13 @@
     "input": {
       "type": "pet",
       "pet": "HORSE",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "HORSE",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -34583,13 +34607,13 @@
     "input": {
       "type": "pet",
       "pet": "HOUND",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "HOUND",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -37903,13 +37927,13 @@
     "input": {
       "type": "pet",
       "pet": "JELLYFISH",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "JELLYFISH",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -37956,13 +37980,13 @@
     "input": {
       "type": "pet",
       "pet": "JERRY",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "JERRY",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -37979,13 +38003,13 @@
     "input": {
       "type": "pet",
       "pet": "JERRY",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "JERRY",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -38002,13 +38026,13 @@
     "input": {
       "type": "pet",
       "pet": "JERRY",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "JERRY",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -38025,13 +38049,13 @@
     "input": {
       "type": "pet",
       "pet": "JERRY",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "JERRY",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -38048,13 +38072,13 @@
     "input": {
       "type": "pet",
       "pet": "JERRY",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "JERRY",
-      "tier": 5,
+      "tier": "MYTHIC",
       "count": 1
     },
     "items": [
@@ -39178,7 +39202,7 @@
     "result": {
       "type": "pet",
       "pet": "RIFT_FERRET",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     }
   },
@@ -41330,13 +41354,13 @@
     "input": {
       "type": "pet",
       "pet": "LION",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "LION",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [],
@@ -41348,13 +41372,13 @@
     "input": {
       "type": "pet",
       "pet": "LION",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "LION",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [],
@@ -41366,13 +41390,13 @@
     "input": {
       "type": "pet",
       "pet": "LION",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "LION",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [],
@@ -41384,13 +41408,13 @@
     "input": {
       "type": "pet",
       "pet": "LION",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "LION",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -42973,13 +42997,13 @@
     "input": {
       "type": "pet",
       "pet": "MAGMA_CUBE",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "MAGMA_CUBE",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [],
@@ -42991,13 +43015,13 @@
     "input": {
       "type": "pet",
       "pet": "MAGMA_CUBE",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "MAGMA_CUBE",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [],
@@ -43009,13 +43033,13 @@
     "input": {
       "type": "pet",
       "pet": "MAGMA_CUBE",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "MAGMA_CUBE",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [],
@@ -43027,13 +43051,13 @@
     "input": {
       "type": "pet",
       "pet": "MAGMA_CUBE",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "MAGMA_CUBE",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -44912,13 +44936,13 @@
     "input": {
       "type": "pet",
       "pet": "MEGALODON",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "MEGALODON",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [],
@@ -46732,13 +46756,13 @@
     "input": {
       "type": "pet",
       "pet": "MITHRIL_GOLEM",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "MITHRIL_GOLEM",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -46755,13 +46779,13 @@
     "input": {
       "type": "pet",
       "pet": "MITHRIL_GOLEM",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "MITHRIL_GOLEM",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -46778,13 +46802,13 @@
     "input": {
       "type": "pet",
       "pet": "MITHRIL_GOLEM",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "MITHRIL_GOLEM",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -46801,13 +46825,13 @@
     "input": {
       "type": "pet",
       "pet": "MITHRIL_GOLEM",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "MITHRIL_GOLEM",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -46824,13 +46848,13 @@
     "input": {
       "type": "pet",
       "pet": "MITHRIL_GOLEM",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "MITHRIL_GOLEM",
-      "tier": 5,
+      "tier": "MYTHIC",
       "count": 1
     },
     "items": [
@@ -47123,13 +47147,13 @@
     "input": {
       "type": "pet",
       "pet": "MONKEY",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "MONKEY",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [],
@@ -47141,13 +47165,13 @@
     "input": {
       "type": "pet",
       "pet": "MONKEY",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "MONKEY",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [],
@@ -47159,13 +47183,13 @@
     "input": {
       "type": "pet",
       "pet": "MONKEY",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "MONKEY",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [],
@@ -47177,13 +47201,13 @@
     "input": {
       "type": "pet",
       "pet": "MONKEY",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "MONKEY",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [],
@@ -47225,13 +47249,13 @@
     "input": {
       "type": "pet",
       "pet": "MOOSHROOM_COW",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "MOOSHROOM_COW",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -47248,13 +47272,13 @@
     "input": {
       "type": "pet",
       "pet": "MOOSHROOM_COW",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "MOOSHROOM_COW",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -47271,13 +47295,13 @@
     "input": {
       "type": "pet",
       "pet": "MOOSHROOM_COW",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "MOOSHROOM_COW",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -47298,13 +47322,13 @@
     "input": {
       "type": "pet",
       "pet": "MOOSHROOM_COW",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "MOOSHROOM_COW",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -47359,13 +47383,13 @@
     "input": {
       "type": "pet",
       "pet": "MOSQUITO",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "MOSQUITO",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -47382,13 +47406,13 @@
     "input": {
       "type": "pet",
       "pet": "MOSQUITO",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "MOSQUITO",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -47405,13 +47429,13 @@
     "input": {
       "type": "pet",
       "pet": "MOSQUITO",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "MOSQUITO",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -47428,13 +47452,13 @@
     "input": {
       "type": "pet",
       "pet": "MOSQUITO",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "MOSQUITO",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -50097,13 +50121,13 @@
     "input": {
       "type": "pet",
       "pet": "OCELOT",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "OCELOT",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -50120,13 +50144,13 @@
     "input": {
       "type": "pet",
       "pet": "OCELOT",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "OCELOT",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -50143,13 +50167,13 @@
     "input": {
       "type": "pet",
       "pet": "OCELOT",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "OCELOT",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -50166,13 +50190,13 @@
     "input": {
       "type": "pet",
       "pet": "OCELOT",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "OCELOT",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -51282,7 +51306,7 @@
     "result": {
       "type": "pet",
       "pet": "GIRAFFE",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     }
   },
@@ -51302,7 +51326,7 @@
     "result": {
       "type": "pet",
       "pet": "GIRAFFE",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     }
   },
@@ -51322,7 +51346,7 @@
     "result": {
       "type": "pet",
       "pet": "GIRAFFE",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     }
   },
@@ -51342,7 +51366,7 @@
     "result": {
       "type": "pet",
       "pet": "GIRAFFE",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     }
   },
@@ -51362,7 +51386,7 @@
     "result": {
       "type": "pet",
       "pet": "GIRAFFE",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     }
   },
@@ -51382,7 +51406,7 @@
     "result": {
       "type": "pet",
       "pet": "BLUE_WHALE",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     }
   },
@@ -51402,7 +51426,7 @@
     "result": {
       "type": "pet",
       "pet": "BLUE_WHALE",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     }
   },
@@ -51422,7 +51446,7 @@
     "result": {
       "type": "pet",
       "pet": "BLUE_WHALE",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     }
   },
@@ -51442,7 +51466,7 @@
     "result": {
       "type": "pet",
       "pet": "BLUE_WHALE",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     }
   },
@@ -51462,7 +51486,7 @@
     "result": {
       "type": "pet",
       "pet": "BLUE_WHALE",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     }
   },
@@ -51482,7 +51506,7 @@
     "result": {
       "type": "pet",
       "pet": "TIGER",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     }
   },
@@ -51502,7 +51526,7 @@
     "result": {
       "type": "pet",
       "pet": "TIGER",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     }
   },
@@ -51522,7 +51546,7 @@
     "result": {
       "type": "pet",
       "pet": "TIGER",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     }
   },
@@ -51542,7 +51566,7 @@
     "result": {
       "type": "pet",
       "pet": "TIGER",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     }
   },
@@ -51562,7 +51586,7 @@
     "result": {
       "type": "pet",
       "pet": "TIGER",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     }
   },
@@ -51582,7 +51606,7 @@
     "result": {
       "type": "pet",
       "pet": "LION",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     }
   },
@@ -51602,7 +51626,7 @@
     "result": {
       "type": "pet",
       "pet": "LION",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     }
   },
@@ -51622,7 +51646,7 @@
     "result": {
       "type": "pet",
       "pet": "LION",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     }
   },
@@ -51642,7 +51666,7 @@
     "result": {
       "type": "pet",
       "pet": "LION",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     }
   },
@@ -51662,7 +51686,7 @@
     "result": {
       "type": "pet",
       "pet": "LION",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     }
   },
@@ -51682,7 +51706,7 @@
     "result": {
       "type": "pet",
       "pet": "MONKEY",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     }
   },
@@ -51702,7 +51726,7 @@
     "result": {
       "type": "pet",
       "pet": "MONKEY",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     }
   },
@@ -51722,7 +51746,7 @@
     "result": {
       "type": "pet",
       "pet": "MONKEY",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     }
   },
@@ -51742,7 +51766,7 @@
     "result": {
       "type": "pet",
       "pet": "MONKEY",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     }
   },
@@ -51762,7 +51786,7 @@
     "result": {
       "type": "pet",
       "pet": "MONKEY",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     }
   },
@@ -51782,7 +51806,7 @@
     "result": {
       "type": "pet",
       "pet": "ELEPHANT",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     }
   },
@@ -51802,7 +51826,7 @@
     "result": {
       "type": "pet",
       "pet": "ELEPHANT",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     }
   },
@@ -51822,7 +51846,7 @@
     "result": {
       "type": "pet",
       "pet": "ELEPHANT",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     }
   },
@@ -51842,7 +51866,7 @@
     "result": {
       "type": "pet",
       "pet": "ELEPHANT",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     }
   },
@@ -51862,7 +51886,7 @@
     "result": {
       "type": "pet",
       "pet": "ELEPHANT",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     }
   },
@@ -52015,13 +52039,13 @@
     "input": {
       "type": "pet",
       "pet": "PARROT",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "PARROT",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -54264,7 +54288,7 @@
     "result": {
       "type": "pet",
       "pet": "HEDGEHOG",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     }
   },
@@ -54428,13 +54452,13 @@
     "input": {
       "type": "pet",
       "pet": "PHOENIX",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "PHOENIX",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -54481,13 +54505,13 @@
     "input": {
       "type": "pet",
       "pet": "PIG",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "PIG",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -54504,13 +54528,13 @@
     "input": {
       "type": "pet",
       "pet": "PIG",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "PIG",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -54527,13 +54551,13 @@
     "input": {
       "type": "pet",
       "pet": "PIG",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "PIG",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -54550,13 +54574,13 @@
     "input": {
       "type": "pet",
       "pet": "PIG",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "PIG",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -54631,13 +54655,13 @@
     "input": {
       "type": "pet",
       "pet": "PIGMAN",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "PIGMAN",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -54654,13 +54678,13 @@
     "input": {
       "type": "pet",
       "pet": "PIGMAN",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "PIGMAN",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -54677,13 +54701,13 @@
     "input": {
       "type": "pet",
       "pet": "PIGMAN",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "PIGMAN",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -54700,13 +54724,13 @@
     "input": {
       "type": "pet",
       "pet": "PIGMAN",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "PIGMAN",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -57981,13 +58005,13 @@
     "input": {
       "type": "pet",
       "pet": "RABBIT",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "RABBIT",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -58012,13 +58036,13 @@
     "input": {
       "type": "pet",
       "pet": "RABBIT",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "RABBIT",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -58043,13 +58067,13 @@
     "input": {
       "type": "pet",
       "pet": "RABBIT",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "RABBIT",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -58074,13 +58098,13 @@
     "input": {
       "type": "pet",
       "pet": "RABBIT",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "RABBIT",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -58105,13 +58129,13 @@
     "input": {
       "type": "pet",
       "pet": "RABBIT",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "RABBIT",
-      "tier": 5,
+      "tier": "MYTHIC",
       "count": 1
     },
     "items": [
@@ -58740,13 +58764,13 @@
     "input": {
       "type": "pet",
       "pet": "RAT",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "RAT",
-      "tier": 5,
+      "tier": "MYTHIC",
       "count": 1
     },
     "items": [
@@ -61339,13 +61363,13 @@
     "input": {
       "type": "pet",
       "pet": "ROCK",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ROCK",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [],
@@ -61357,13 +61381,13 @@
     "input": {
       "type": "pet",
       "pet": "ROCK",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ROCK",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [],
@@ -61375,13 +61399,13 @@
     "input": {
       "type": "pet",
       "pet": "ROCK",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ROCK",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [],
@@ -61393,13 +61417,13 @@
     "input": {
       "type": "pet",
       "pet": "ROCK",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ROCK",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -62862,13 +62886,13 @@
     "input": {
       "type": "pet",
       "pet": "SCATHA",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SCATHA",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -62885,13 +62909,13 @@
     "input": {
       "type": "pet",
       "pet": "SCATHA",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SCATHA",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -63988,13 +64012,13 @@
     "input": {
       "type": "pet",
       "pet": "SHEEP",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SHEEP",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -64015,13 +64039,13 @@
     "input": {
       "type": "pet",
       "pet": "SHEEP",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SHEEP",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -64042,13 +64066,13 @@
     "input": {
       "type": "pet",
       "pet": "SHEEP",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SHEEP",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -64069,13 +64093,13 @@
     "input": {
       "type": "pet",
       "pet": "SHEEP",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SHEEP",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -64988,13 +65012,13 @@
     "input": {
       "type": "pet",
       "pet": "SILVERFISH",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SILVERFISH",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -65011,13 +65035,13 @@
     "input": {
       "type": "pet",
       "pet": "SILVERFISH",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SILVERFISH",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -65034,13 +65058,13 @@
     "input": {
       "type": "pet",
       "pet": "SILVERFISH",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SILVERFISH",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -65057,13 +65081,13 @@
     "input": {
       "type": "pet",
       "pet": "SILVERFISH",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SILVERFISH",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -65278,13 +65302,13 @@
     "input": {
       "type": "pet",
       "pet": "SKELETON",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SKELETON",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -65301,13 +65325,13 @@
     "input": {
       "type": "pet",
       "pet": "SKELETON",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SKELETON",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -65324,13 +65348,13 @@
     "input": {
       "type": "pet",
       "pet": "SKELETON",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SKELETON",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -65347,13 +65371,13 @@
     "input": {
       "type": "pet",
       "pet": "SKELETON",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SKELETON",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -66713,13 +66737,13 @@
     "input": {
       "type": "pet",
       "pet": "SLUG",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SLUG",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -67378,13 +67402,13 @@
     "input": {
       "type": "pet",
       "pet": "SNAIL",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SNAIL",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -67401,13 +67425,13 @@
     "input": {
       "type": "pet",
       "pet": "SNAIL",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SNAIL",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -67424,13 +67448,13 @@
     "input": {
       "type": "pet",
       "pet": "SNAIL",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SNAIL",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -67447,13 +67471,13 @@
     "input": {
       "type": "pet",
       "pet": "SNAIL",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SNAIL",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -67526,13 +67550,13 @@
     "input": {
       "type": "pet",
       "pet": "SNOWMAN",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SNOWMAN",
-      "tier": 5,
+      "tier": "MYTHIC",
       "count": 1
     },
     "items": [
@@ -68631,13 +68655,13 @@
     "input": {
       "type": "pet",
       "pet": "SPIDER",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SPIDER",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -68658,13 +68682,13 @@
     "input": {
       "type": "pet",
       "pet": "SPIDER",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SPIDER",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -68685,13 +68709,13 @@
     "input": {
       "type": "pet",
       "pet": "SPIDER",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SPIDER",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -68712,13 +68736,13 @@
     "input": {
       "type": "pet",
       "pet": "SPIDER",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SPIDER",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -68739,13 +68763,13 @@
     "input": {
       "type": "pet",
       "pet": "SPIDER",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SPIDER",
-      "tier": 5,
+      "tier": "MYTHIC",
       "count": 1
     },
     "items": [
@@ -69340,13 +69364,13 @@
     "input": {
       "type": "pet",
       "pet": "SPIRIT",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SPIRIT",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -70199,13 +70223,13 @@
     "input": {
       "type": "pet",
       "pet": "SQUID",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SQUID",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [],
@@ -70217,13 +70241,13 @@
     "input": {
       "type": "pet",
       "pet": "SQUID",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SQUID",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [],
@@ -70235,13 +70259,13 @@
     "input": {
       "type": "pet",
       "pet": "SQUID",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SQUID",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [],
@@ -70253,13 +70277,13 @@
     "input": {
       "type": "pet",
       "pet": "SQUID",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "SQUID",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -74442,13 +74466,13 @@
     "input": {
       "type": "pet",
       "pet": "TARANTULA",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "TARANTULA",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -74465,13 +74489,13 @@
     "input": {
       "type": "pet",
       "pet": "TARANTULA",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "TARANTULA",
-      "tier": 5,
+      "tier": "MYTHIC",
       "count": 1
     },
     "items": [
@@ -75948,13 +75972,13 @@
     "input": {
       "type": "pet",
       "pet": "TIGER",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "TIGER",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [],
@@ -75966,13 +75990,13 @@
     "input": {
       "type": "pet",
       "pet": "TIGER",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "TIGER",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [],
@@ -75984,13 +76008,13 @@
     "input": {
       "type": "pet",
       "pet": "TIGER",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "TIGER",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [],
@@ -76002,13 +76026,13 @@
     "input": {
       "type": "pet",
       "pet": "TIGER",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "TIGER",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -77392,13 +77416,13 @@
     "input": {
       "type": "pet",
       "pet": "TURTLE",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "TURTLE",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -81172,13 +81196,13 @@
     "input": {
       "type": "pet",
       "pet": "WITHER_SKELETON",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "WITHER_SKELETON",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -81195,13 +81219,13 @@
     "input": {
       "type": "pet",
       "pet": "WITHER_SKELETON",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "WITHER_SKELETON",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -81218,13 +81242,13 @@
     "input": {
       "type": "pet",
       "pet": "WITHER_SKELETON",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "WITHER_SKELETON",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -81241,13 +81265,13 @@
     "input": {
       "type": "pet",
       "pet": "WITHER_SKELETON",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "WITHER_SKELETON",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -81322,13 +81346,13 @@
     "input": {
       "type": "pet",
       "pet": "WOLF",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "WOLF",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -81345,13 +81369,13 @@
     "input": {
       "type": "pet",
       "pet": "WOLF",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "WOLF",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -81368,13 +81392,13 @@
     "input": {
       "type": "pet",
       "pet": "WOLF",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "WOLF",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -81391,13 +81415,13 @@
     "input": {
       "type": "pet",
       "pet": "WOLF",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "WOLF",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
@@ -84014,13 +84038,13 @@
     "input": {
       "type": "pet",
       "pet": "ZOMBIE",
-      "tier": 0,
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ZOMBIE",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -84037,13 +84061,13 @@
     "input": {
       "type": "pet",
       "pet": "ZOMBIE",
-      "tier": 1,
+      "tier": "UNCOMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ZOMBIE",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "items": [
@@ -84060,13 +84084,13 @@
     "input": {
       "type": "pet",
       "pet": "ZOMBIE",
-      "tier": 2,
+      "tier": "RARE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ZOMBIE",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "items": [
@@ -84083,13 +84107,13 @@
     "input": {
       "type": "pet",
       "pet": "ZOMBIE",
-      "tier": 3,
+      "tier": "EPIC",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "ZOMBIE",
-      "tier": 4,
+      "tier": "LEGENDARY",
       "count": 1
     },
     "items": [
