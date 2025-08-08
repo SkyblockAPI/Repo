@@ -2448,6 +2448,16 @@
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVkMGMyNWZkOWQzMmUxMjA0YTFkMzJlNWQ5NWEyZjFjZmEwOTUyNWE4Zjk4ZTFkZWVmNWIyYTNjNzdmOThhOGMifX19",
     "name": "Igrupan"
   },
+  "IKE_NPC": {
+    "island": "combat_1",
+    "position": {
+      "x": -261,
+      "y": 93,
+      "z": -285
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTAxMzAyNzFjODE2ZTM2YWIxN2Y4ZWY1ZWYwNjMwNGM4Y2JkYTk1MjMwNzg4Mjg1NDEyYmY1MzQ2NmIwNzAzNCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJlNDJhNWJiY2Q0NjYyYWJhOWFlMzM1ZTNiZDRhYjM4NCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzU0NDM4MjcxOTMzfQ==",
+    "name": "Ike"
+  },
   "INFERNO_DEMONLORD_1_BOSS": {
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjc4ZWYyZTRjZjJjNDFhMmQxNGJmZGU5Y2FmZjEwMjE5ZjViMWJmNWIzNWE0OWViNTFjNjQ2Nzg4MmNiNWYwIn19fQ",
     "name": "Inferno Demonlord I"
@@ -3294,6 +3304,16 @@
     },
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRkMjM4Y2NjODE4YWIwYzBmZGViZDA3ZDRhNTZjMzUzZmY1ZWI1NDFjODVkMzg2MzYyMTYxNzgxZDFkZDc0Y2MifX19",
     "name": "Melody"
+  },
+  "MICHAEL_NPC": {
+    "island": "combat_1",
+    "position": {
+      "x": -265,
+      "y": 93,
+      "z": -285
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzk0Nzc2ZGM1YzQ2MzA3YjFmMWI3MzBkMzU5NmNjMzM4MzhhZTkwNjM0ZjgxMDBkYTU5OGJjY2ZlMzc0NjZmYSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIyMDRmYmY5NDZmZTMyMjZiOTA4ZWEwMjFjZGRhYmVkYyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzU0NDM4MjcwNjc0fQ==",
+    "name": "Michael"
   },
   "MILLENIA_AGED_BLAZE_MONSTER": {
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjc4ZWYyZTRjZjJjNDFhMmQxNGJmZGU5Y2FmZjEwMjE5ZjViMWJmNWIzNWE0OWViNTFjNjQ2Nzg4MmNiNWYwIn19fQ",
@@ -5220,7 +5240,7 @@
   },
   "WATCHER_MONSTER": {
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFhOGZjOGRlNjQxN2I0OGQ0OGM4MGI0NDNjZjUzMjZlM2Q5ZGE0ZGJlOWIyNWZjZDQ5NTQ5ZDk2MTY4ZmMwIn19fQ",
-    "name": "Watcher"
+    "name": "Seer"
   },
   "WATER_HYDRA_SC": {
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjFmZmJkYTkyNDQyODczZDU0MDUxZTRlMTdlYTQ3Mjc4Y2IzYjc0N2Q3OTgwNzBiYTgzYmM0YTlkZTU4ZGQifX19",

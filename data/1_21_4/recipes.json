@@ -87,12 +87,40 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "VINESAP",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "ABYSMAL_LASSO",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "GILL_MEMBRANE",
         "count": 64
       },
       {
         "id": "ENCHANTED_SEA_LUMIES",
-        "count": 8
+        "count": 16
+      },
+      {
+        "id": "DIVER_FRAGMENT",
+        "count": 1
       },
       {
         "id": "DIVER_BOOTS",
@@ -103,9 +131,9 @@
       0,
       1,
       0,
-      1,
       2,
-      1,
+      3,
+      2,
       0,
       1,
       0
@@ -124,7 +152,11 @@
       },
       {
         "id": "ENCHANTED_SEA_LUMIES",
-        "count": 8
+        "count": 16
+      },
+      {
+        "id": "DIVER_FRAGMENT",
+        "count": 1
       },
       {
         "id": "DIVER_CHESTPLATE",
@@ -135,9 +167,9 @@
       0,
       1,
       0,
-      1,
       2,
-      1,
+      3,
+      2,
       0,
       1,
       0
@@ -188,7 +220,11 @@
       },
       {
         "id": "ENCHANTED_SEA_LUMIES",
-        "count": 8
+        "count": 16
+      },
+      {
+        "id": "DIVER_FRAGMENT",
+        "count": 1
       },
       {
         "id": "DIVER_HELMET",
@@ -199,9 +235,9 @@
       0,
       1,
       0,
-      1,
       2,
-      1,
+      3,
+      2,
       0,
       1,
       0
@@ -220,7 +256,11 @@
       },
       {
         "id": "ENCHANTED_SEA_LUMIES",
-        "count": 8
+        "count": 16
+      },
+      {
+        "id": "DIVER_FRAGMENT",
+        "count": 1
       },
       {
         "id": "DIVER_LEGGINGS",
@@ -231,9 +271,9 @@
       0,
       1,
       0,
-      1,
       2,
-      1,
+      3,
+      2,
       0,
       1,
       0
@@ -2712,7 +2752,7 @@
       },
       {
         "id": "STRETCHING_STICKS",
-        "count": 8
+        "count": 32
       }
     ],
     "pattern": [
@@ -4529,6 +4569,36 @@
     "keys": [
       {
         "id": "BROWN_MUSHROOM",
+        "count": 32
+      },
+      {
+        "id": "ENCHANTED_EGG",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "type": "pet",
+      "pet": "BAT",
+      "tier": "COMMON",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "RED_MUSHROOM",
         "count": 32
       },
       {
@@ -13925,7 +13995,7 @@
       },
       {
         "id": "STRETCHING_STICKS",
-        "count": 4
+        "count": 16
       }
     ],
     "pattern": [
@@ -21943,6 +22013,30 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "VINESAP",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "ENCHANTED_VINESAP",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "WATER_LILY",
         "count": 32
       }
@@ -25204,8 +25298,8 @@
         "count": 10
       },
       {
-        "id": "STICK",
-        "count": 1
+        "id": "STRETCHING_STICKS",
+        "count": 4
       }
     ],
     "pattern": [
@@ -25230,11 +25324,15 @@
       {
         "id": "FIGSTONE",
         "count": 1
+      },
+      {
+        "id": "CANOPY_BOOTS",
+        "count": 1
       }
     ],
     "pattern": [
       0,
-      -1,
+      1,
       0,
       0,
       -1,
@@ -25254,14 +25352,18 @@
       {
         "id": "FIGSTONE",
         "count": 1
+      },
+      {
+        "id": "CANOPY_CHESTPLATE",
+        "count": 1
       }
     ],
     "pattern": [
       0,
-      -1,
       0,
       0,
       0,
+      1,
       0,
       0,
       0,
@@ -25278,6 +25380,10 @@
       {
         "id": "FIGSTONE",
         "count": 1
+      },
+      {
+        "id": "CANOPY_HELMET",
+        "count": 1
       }
     ],
     "pattern": [
@@ -25285,7 +25391,7 @@
       0,
       0,
       0,
-      -1,
+      1,
       0,
       -1,
       -1,
@@ -25302,6 +25408,10 @@
       {
         "id": "FIGSTONE",
         "count": 1
+      },
+      {
+        "id": "CANOPY_LEGGINGS",
+        "count": 1
       }
     ],
     "pattern": [
@@ -25309,7 +25419,7 @@
       0,
       0,
       0,
-      -1,
+      1,
       0,
       0,
       -1,
@@ -38861,7 +38971,7 @@
       },
       {
         "id": "RUSTY_COIN",
-        "count": 12
+        "count": 4
       }
     ],
     "result": {
@@ -38878,7 +38988,7 @@
       },
       {
         "id": "RUSTY_COIN",
-        "count": 12
+        "count": 4
       }
     ],
     "result": {
@@ -38895,7 +39005,7 @@
       },
       {
         "id": "RUSTY_COIN",
-        "count": 12
+        "count": 4
       }
     ],
     "result": {
@@ -38912,7 +39022,7 @@
       },
       {
         "id": "RUSTY_COIN",
-        "count": 12
+        "count": 4
       }
     ],
     "result": {
@@ -38976,7 +39086,7 @@
       },
       {
         "id": "RUSTY_COIN",
-        "count": 8
+        "count": 4
       }
     ],
     "result": {
@@ -38993,7 +39103,7 @@
       },
       {
         "id": "RUSTY_COIN",
-        "count": 8
+        "count": 4
       }
     ],
     "result": {
@@ -39010,7 +39120,7 @@
       },
       {
         "id": "RUSTY_COIN",
-        "count": 8
+        "count": 4
       }
     ],
     "result": {
@@ -39027,7 +39137,7 @@
       },
       {
         "id": "RUSTY_COIN",
-        "count": 8
+        "count": 4
       }
     ],
     "result": {
@@ -43877,8 +43987,12 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "STRETCHING_STICKS",
+        "count": 16
+      },
+      {
         "id": "ENCHANTED_MANGROVE_LOG",
-        "count": 20
+        "count": 16
       },
       {
         "id": "ENCHANTED_SEA_LUMIES",
@@ -43886,12 +44000,12 @@
       }
     ],
     "pattern": [
-      -1,
-      -1,
-      -1,
       0,
-      -1,
+      1,
       0,
+      1,
+      2,
+      1,
       0,
       1,
       0
@@ -44612,7 +44726,7 @@
     "keys": [
       {
         "id": "FLEXBONE",
-        "count": 2
+        "count": 4
       },
       {
         "id": "ENCHANTED_SEA_LUMIES",
@@ -44621,6 +44735,10 @@
       {
         "id": "BASIC_FISHING_NET",
         "count": 1
+      },
+      {
+        "id": "STURDY_BONE",
+        "count": 16
       }
     ],
     "pattern": [
@@ -44630,9 +44748,9 @@
       1,
       2,
       1,
-      0,
+      3,
       1,
-      0
+      3
     ],
     "result": {
       "id": "MEDIUM_FISHING_NET",
@@ -49051,7 +49169,7 @@
       },
       {
         "id": "STRETCHING_STICKS",
-        "count": 16
+        "count": 64
       }
     ],
     "pattern": [
@@ -64958,7 +65076,7 @@
       },
       {
         "id": "STRETCHING_STICKS",
-        "count": 2
+        "count": 8
       }
     ],
     "pattern": [
@@ -76817,7 +76935,7 @@
       },
       {
         "id": "ENCHANTED_LEATHER",
-        "count": 512
+        "count": 1028
       },
       {
         "id": "COW_GENERATOR_11",
@@ -77384,7 +77502,7 @@
     "keys": [
       {
         "id": "FLEXBONE",
-        "count": 8
+        "count": 16
       },
       {
         "id": "ENCHANTED_SEA_LUMIES",
@@ -77393,6 +77511,10 @@
       {
         "id": "MEDIUM_FISHING_NET",
         "count": 1
+      },
+      {
+        "id": "STURDY_BONE",
+        "count": 64
       }
     ],
     "pattern": [
@@ -77402,9 +77524,9 @@
       1,
       2,
       1,
-      0,
+      3,
       1,
-      0
+      3
     ],
     "result": {
       "id": "TURBO_FISHING_NET",
@@ -78847,6 +78969,38 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "ENCHANTED_RED_MUSHROOM",
+        "count": 60
+      },
+      {
+        "id": "SOUL_STRING",
+        "count": 10
+      },
+      {
+        "id": "ENCHANTED_SPIDER_EYE",
+        "count": 10
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      1,
+      2,
+      -1,
+      1,
+      -1,
+      0,
+      1
+    ],
+    "result": {
+      "id": "VENOMS_TOUCH",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_BROWN_MUSHROOM",
         "count": 60
       },
@@ -78904,6 +79058,10 @@
     "keys": [
       {
         "id": "VINESAP",
+        "count": 4
+      },
+      {
+        "id": "ABYSMAL_LASSO",
         "count": 1
       },
       {
@@ -78918,7 +79076,7 @@
       -1,
       1,
       0,
-      1,
+      2,
       -1,
       -1
     ],
@@ -81613,7 +81771,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_BIRCH_LOG",
+        "id": "ENCHANTED_SPRUCE_LOG",
         "count": 12
       },
       {
