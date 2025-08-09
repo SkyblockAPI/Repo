@@ -31572,7 +31572,7 @@
     ],
     "result": {
       "id": "GOLD_NUGGET",
-      "count": 1
+      "count": 9
     }
   },
   {
@@ -39244,6 +39244,21 @@
     ],
     "result": {
       "id": "TREASURE_HOOK",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "RUSTY_COIN",
+        "count": 32
+      }
+    ],
+    "result": {
+      "type": "pet",
+      "pet": "HERMIT_CRAB",
+      "tier": "COMMON",
       "count": 1
     }
   },
