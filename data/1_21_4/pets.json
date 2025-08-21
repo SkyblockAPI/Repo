@@ -1551,10 +1551,13 @@
           "§7Intelligence: §a{INTELLIGENCE}",
           "",
           "§6Nether Embodiment",
-          "§7§7Increases most stats by §a{0}% §7while",
+          "§7Increases most stats by §a{0}% §7while",
           "§7on the Crimson Isle",
           "",
-          "§7§8Can be upgraded at Kat in The Hub!",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
         "variables": {
@@ -1581,10 +1584,13 @@
           "§7Intelligence: §a{INTELLIGENCE}",
           "",
           "§6Nether Embodiment",
-          "§7§7Increases most stats by §a{0}% §7while",
+          "§7Increases most stats by §a{0}% §7while",
           "§7on the Crimson Isle",
           "",
-          "§7§8Can be upgraded at Kat in The Hub!",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
         ],
         "variables": {
@@ -1611,14 +1617,17 @@
           "§7Intelligence: §a{INTELLIGENCE}",
           "",
           "§6Nether Embodiment",
-          "§7§7Increases most stats by §a{0}% §7while",
-          "§7on the Crimson Isle.",
+          "§7Increases most stats by §a{0}% §7while",
+          "§7on the Crimson Isle",
           "",
           "§6Bling Armor",
-          "§7§7Upgrades §cBlaze Armor §7stats and",
+          "§7Upgrades §cBlaze Armor §7stats and",
           "§7ability by §a{1}%§7.",
           "",
-          "§7§8Can be upgraded at Kat in The Hub!",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
         ],
         "variables": {
@@ -1641,21 +1650,25 @@
         }
       },
       "EPIC": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjc4ZWYyZTRjZjJjNDFhMmQxNGJmZGU5Y2FmZjEwMjE5ZjViMWJmNWIzNWE0OWViNTFjNjQ2Nzg4MmNiNWYwIn19fQ==",
+        "texture": "eyJ0aW1lc3RhbXAiOjE0OTk3MTAzNjk1MTEsInByb2ZpbGVJZCI6IjRjMzhlZDExNTk2YTRmZDRhYjFkMjZmMzg2YzFjYmFjIiwicHJvZmlsZU5hbWUiOiJNSEZfQmxhemUiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I3OGVmMmU0Y2YyYzQxYTJkMTRiZmRlOWNhZmYxMDIxOWY1YjFiZjViMzVhNDllYjUxYzY0Njc4ODJjYjVmMCJ9fX0=",
         "lore": [
           "§8Combat Pet",
           "",
-          "§7Intelligence: §a{INTELLIGENCE}",
           "§7Defense: §a{DEFENSE}",
+          "§7Intelligence: §a{INTELLIGENCE}",
           "",
           "§6Nether Embodiment",
-          "§7§7Increases most stats by §a{0}%",
-          "§a§7while on the Crimson Isle.",
+          "§7Increases most stats by §a{0}% §7while",
+          "§7on the Crimson Isle",
           "",
           "§6Bling Armor",
-          "§7§7Upgrades §cBlaze Armor §7stats",
-          "§7and ability by §a{1}%§7.",
+          "§7Upgrades §cBlaze Armor §7stats and",
+          "§7ability by §a{1}%§7.",
           "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
         "variables": {
@@ -1678,24 +1691,26 @@
         }
       },
       "LEGENDARY": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjc4ZWYyZTRjZjJjNDFhMmQxNGJmZGU5Y2FmZjEwMjE5ZjViMWJmNWIzNWE0OWViNTFjNjQ2Nzg4MmNiNWYwIn19fQ==",
+        "texture": "eyJ0aW1lc3RhbXAiOjE0OTk3MTAzNjk1MTEsInByb2ZpbGVJZCI6IjRjMzhlZDExNTk2YTRmZDRhYjFkMjZmMzg2YzFjYmFjIiwicHJvZmlsZU5hbWUiOiJNSEZfQmxhemUiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I3OGVmMmU0Y2YyYzQxYTJkMTRiZmRlOWNhZmYxMDIxOWY1YjFiZjViMzVhNDllYjUxYzY0Njc4ODJjYjVmMCJ9fX0=",
         "lore": [
           "§8Combat Pet",
           "",
-          "§7Intelligence: §a{INTELLIGENCE}",
           "§7Defense: §a{DEFENSE}",
+          "§7Intelligence: §a{INTELLIGENCE}",
           "",
           "§6Nether Embodiment",
-          "§7§7Increases most stats by §a{0}%",
-          "§a§7while on the Crimson Isle.",
+          "§7Increases most stats by §a{0}% §7while",
+          "§7on the Crimson Isle",
           "",
           "§6Bling Armor",
-          "§7§7Upgrades §cBlaze Armor §7stats",
-          "§7and ability by §a{1}%§7.",
+          "§7Upgrades §cBlaze Armor §7stats and",
+          "§7ability by §a{1}%§7.",
           "",
           "§6Fusion-Style Potato",
-          "§7§7Double effects of hot potato",
-          "§7books.",
+          "§7Double effects of hot potato books",
+          "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -1885,154 +1900,200 @@
     "name": "Chicken",
     "tiers": {
       "COMMON": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2YzN2Q1MjRjM2VlZDE3MWNlMTQ5ODg3ZWExZGVlNGVkMzk5OTA0NzI3ZDUyMTg2NTY4OGVjZTNiYWM3NWUifX19",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDEyMjM5MzE0NCwKICAicHJvZmlsZUlkIiA6ICI5ZDEzZjcyMTcxM2E0N2U0OTAwZTMyZGVkNjBjNDY3MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYWxvZGFvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M2ZTU3MzI2MjI5N2RmMmJmYTgxNTYyNDk4YTIyYTkwNDc4ZTVjOTZlODBkMDU4ODVkODcwODRkZTI0ZDJiMTgiCiAgICB9CiAgfQp9",
         "lore": [
           "§8Farming Pet",
           "",
-          "§7Health: §a{HEALTH}",
+          "§7Speed: §a+{SPEED}",
+          "§7Farming Fortune: §a+{FARMING_FORTUNE}",
           "",
-          "§6Light Feet",
-          "§7§7§7Reduces fall damage by",
-          "§7§a{0}%§7.",
+          "§6Free Range",
+          "§7Grants §6+{0}☘ Farming Fortune §7while",
+          "§7on §bPublic Islands§7.",
           "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
-        ],
-        "variables": {
-          "0": [
-            0.3,
-            30
-          ],
-          "HEALTH": [
-            2,
-            200
-          ]
-        }
-      },
-      "UNCOMMON": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2YzN2Q1MjRjM2VlZDE3MWNlMTQ5ODg3ZWExZGVlNGVkMzk5OTA0NzI3ZDUyMTg2NTY4OGVjZTNiYWM3NWUifX19",
-        "lore": [
-          "§8Farming Pet",
-          "",
-          "§7Health: §a{HEALTH}",
-          "",
-          "§6Light Feet",
-          "§7§7§7Reduces fall damage by",
-          "§7§a{0}%§7.",
-          "",
-          "§a§lUNCOMMON"
-        ],
-        "variables": {
-          "0": [
-            0.4,
-            40
-          ],
-          "HEALTH": [
-            2,
-            200
-          ]
-        }
-      },
-      "RARE": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2YzN2Q1MjRjM2VlZDE3MWNlMTQ5ODg3ZWExZGVlNGVkMzk5OTA0NzI3ZDUyMTg2NTY4OGVjZTNiYWM3NWUifX19",
-        "lore": [
-          "§8Farming Pet",
-          "",
-          "§7Health: §a{HEALTH}",
-          "",
-          "§6Light Feet",
-          "§7§7§7Reduces fall damage by",
-          "§7§a{0}%§7.",
-          "",
-          "§6Eggstra",
-          "§7§7Killing chickens has a §a{1}%",
-          "§a§7chance to drop an egg.",
-          "",
-          "§9§lRARE"
-        ],
-        "variables": {
-          "0": [
-            0.4,
-            40
-          ],
-          "1": [
-            0.8,
-            80
-          ],
-          "HEALTH": [
-            2,
-            200
-          ]
-        }
-      },
-      "EPIC": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2YzN2Q1MjRjM2VlZDE3MWNlMTQ5ODg3ZWExZGVlNGVkMzk5OTA0NzI3ZDUyMTg2NTY4OGVjZTNiYWM3NWUifX19",
-        "lore": [
-          "§8Farming Pet",
-          "",
-          "§7Health: §a{HEALTH}",
-          "",
-          "§6Light Feet",
-          "§7§7§7Reduces fall damage by",
-          "§7§a{0}%§7.",
-          "",
-          "§6Eggstra",
-          "§7§7Killing chickens has a §a{1}%",
-          "§a§7chance to drop an egg.",
-          "",
-          "§5§lEPIC"
         ],
         "variables": {
           "0": [
             0.5,
             50
+          ],
+          "SPEED": [
+            0.5,
+            50
+          ],
+          "FARMING_FORTUNE": [
+            0.5,
+            50
+          ]
+        }
+      },
+      "UNCOMMON": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDEyMjM5MzE0NCwKICAicHJvZmlsZUlkIiA6ICI5ZDEzZjcyMTcxM2E0N2U0OTAwZTMyZGVkNjBjNDY3MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYWxvZGFvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M2ZTU3MzI2MjI5N2RmMmJmYTgxNTYyNDk4YTIyYTkwNDc4ZTVjOTZlODBkMDU4ODVkODcwODRkZTI0ZDJiMTgiCiAgICB9CiAgfQp9",
+        "lore": [
+          "§8Farming Pet",
+          "",
+          "§7Speed: §a+{SPEED}",
+          "§7Farming Fortune: §a+{FARMING_FORTUNE}",
+          "",
+          "§6Free Range",
+          "§7Grants §6+{0}☘ Farming Fortune §7while",
+          "§7on §bPublic Islands§7.",
+          "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§a§lUNCOMMON"
+        ],
+        "variables": {
+          "0": [
+            0.75,
+            75
+          ],
+          "SPEED": [
+            0.5,
+            50
+          ],
+          "FARMING_FORTUNE": [
+            0.5,
+            50
+          ]
+        }
+      },
+      "RARE": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDEyMjM5MzE0NCwKICAicHJvZmlsZUlkIiA6ICI5ZDEzZjcyMTcxM2E0N2U0OTAwZTMyZGVkNjBjNDY3MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYWxvZGFvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M2ZTU3MzI2MjI5N2RmMmJmYTgxNTYyNDk4YTIyYTkwNDc4ZTVjOTZlODBkMDU4ODVkODcwODRkZTI0ZDJiMTgiCiAgICB9CiAgfQp9",
+        "lore": [
+          "§8Farming Pet",
+          "",
+          "§7Speed: §a+{SPEED}",
+          "§7Farming Fortune: §a+{FARMING_FORTUNE}",
+          "",
+          "§6Free Range",
+          "§7Grants §6+{0}☘ Farming Fortune §7while",
+          "§7on §bPublic Islands§7.",
+          "",
+          "§6Eggstra Loot",
+          "§7Chickens always drop an §fEgg §7when",
+          "§7killed. Grants a §a{1}% §7chance for",
+          "§7animals to drop an additional item.",
+          "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§9§lRARE"
+        ],
+        "variables": {
+          "0": [
+            1,
+            100
+          ],
+          "1": [
+            0.5,
+            50
+          ],
+          "SPEED": [
+            0.5,
+            50
+          ],
+          "FARMING_FORTUNE": [
+            0.5,
+            50
+          ]
+        }
+      },
+      "EPIC": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDEyMjM5MzE0NCwKICAicHJvZmlsZUlkIiA6ICI5ZDEzZjcyMTcxM2E0N2U0OTAwZTMyZGVkNjBjNDY3MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYWxvZGFvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M2ZTU3MzI2MjI5N2RmMmJmYTgxNTYyNDk4YTIyYTkwNDc4ZTVjOTZlODBkMDU4ODVkODcwODRkZTI0ZDJiMTgiCiAgICB9CiAgfQp9",
+        "lore": [
+          "§8Farming Pet",
+          "",
+          "§7Speed: §a+{SPEED}",
+          "§7Farming Fortune: §a+{FARMING_FORTUNE}",
+          "",
+          "§6Free Range",
+          "§7Grants §6+{0}☘ Farming Fortune §7while",
+          "§7on §bPublic Islands§7.",
+          "",
+          "§6Eggstra Loot",
+          "§7Chickens always drop an §fEgg §7when",
+          "§7killed. Grants a §a{1}% §7chance for",
+          "§7animals to drop an additional item.",
+          "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§5§lEPIC"
+        ],
+        "variables": {
+          "0": [
+            1,
+            100
           ],
           "1": [
             1,
             100
           ],
-          "HEALTH": [
-            2,
-            200
+          "SPEED": [
+            0.5,
+            50
+          ],
+          "FARMING_FORTUNE": [
+            0.5,
+            50
           ]
         }
       },
       "LEGENDARY": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2YzN2Q1MjRjM2VlZDE3MWNlMTQ5ODg3ZWExZGVlNGVkMzk5OTA0NzI3ZDUyMTg2NTY4OGVjZTNiYWM3NWUifX19",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDEyMjM5MzE0NCwKICAicHJvZmlsZUlkIiA6ICI5ZDEzZjcyMTcxM2E0N2U0OTAwZTMyZGVkNjBjNDY3MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYWxvZGFvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M2ZTU3MzI2MjI5N2RmMmJmYTgxNTYyNDk4YTIyYTkwNDc4ZTVjOTZlODBkMDU4ODVkODcwODRkZTI0ZDJiMTgiCiAgICB9CiAgfQp9",
         "lore": [
           "§8Farming Pet",
           "",
-          "§7Health: §a{HEALTH}",
+          "§7Speed: §a+{SPEED}",
+          "§7Farming Fortune: §a+{FARMING_FORTUNE}",
+          "",
+          "§6Free Range",
+          "§7Grants §6+{0}☘ Farming Fortune §7while",
+          "§7on §bPublic Islands§7.",
+          "",
+          "§6Eggstra Loot",
+          "§7Chickens always drop an §fEgg §7when",
+          "§7killed. Grants a §a{1}% §7chance for",
+          "§7animals to drop an additional item.",
           "",
           "§6Light Feet",
-          "§7§7§7Reduces fall damage by",
-          "§7§a{0}%§7.",
+          "§7Reduces fall damage by §a{2}%§7.",
           "",
-          "§6Eggstra",
-          "§7§7Killing chickens has a §a{1}%",
-          "§a§7chance to drop an egg.",
-          "",
-          "§6Mighty Chickens",
-          "§7§7Chicken minions work §a{2}%",
-          "§a§7faster while on your island.",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
         "variables": {
           "0": [
-            0.5,
-            50
+            1,
+            100
           ],
           "1": [
             1,
             100
           ],
           "2": [
-            0.3,
-            30
+            1,
+            100
           ],
-          "HEALTH": [
-            2,
-            200
+          "SPEED": [
+            0.5,
+            50
+          ],
+          "FARMING_FORTUNE": [
+            0.5,
+            50
           ]
         }
       }
@@ -2656,16 +2717,20 @@
     "name": "Enderman",
     "tiers": {
       "COMMON": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmVhYjc1ZWFhNWM5ZjJjNDNhMGQyM2NmZGNlMzVmNGRmNjMyZTk4MTUwMDE4NTAzNzczODVmN2IyZjAzOWNlMSJ9fX0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYxOTkwMjIzODIyNCwKICAicHJvZmlsZUlkIiA6ICJmMjU5MTFiOTZkZDU0MjJhYTcwNzNiOTBmOGI4MTUyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmYXJsb3VjaDEwMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZjMxYzliNWEyYmZlNzQ0MzY0NWI0ZTdlOGVhNDA4YjA0ZDU1NGE5MjAwYjAwYWZkNTc0Y2U5MjRiNTU1ZWNiIgogICAgfQogIH0KfQ==",
         "lore": [
           "§8Combat Pet",
           "",
           "§7Crit Damage: §c{CRIT_DAMAGE}%",
           "",
           "§6Enderian",
-          "§7§7Take §a{0}% §7less damage from end",
-          "§7monsters.",
+          "§7Take §a{0}% §7less damage from §5⊙ Ender",
+          "§7mobs",
           "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
         "variables": {
@@ -2680,16 +2745,20 @@
         }
       },
       "UNCOMMON": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmVhYjc1ZWFhNWM5ZjJjNDNhMGQyM2NmZGNlMzVmNGRmNjMyZTk4MTUwMDE4NTAzNzczODVmN2IyZjAzOWNlMSJ9fX0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYxOTkwMjIzODIyNCwKICAicHJvZmlsZUlkIiA6ICJmMjU5MTFiOTZkZDU0MjJhYTcwNzNiOTBmOGI4MTUyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmYXJsb3VjaDEwMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZjMxYzliNWEyYmZlNzQ0MzY0NWI0ZTdlOGVhNDA4YjA0ZDU1NGE5MjAwYjAwYWZkNTc0Y2U5MjRiNTU1ZWNiIgogICAgfQogIH0KfQ==",
         "lore": [
           "§8Combat Pet",
           "",
           "§7Crit Damage: §c{CRIT_DAMAGE}%",
           "",
           "§6Enderian",
-          "§7§7Take §a{0}% §7less damage from end",
-          "§7monsters.",
+          "§7Take §a{0}% §7less damage from §5⊙ Ender",
+          "§7mobs",
           "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
         ],
         "variables": {
@@ -2704,21 +2773,25 @@
         }
       },
       "RARE": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmVhYjc1ZWFhNWM5ZjJjNDNhMGQyM2NmZGNlMzVmNGRmNjMyZTk4MTUwMDE4NTAzNzczODVmN2IyZjAzOWNlMSJ9fX0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYxOTkwMjIzODIyNCwKICAicHJvZmlsZUlkIiA6ICJmMjU5MTFiOTZkZDU0MjJhYTcwNzNiOTBmOGI4MTUyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmYXJsb3VjaDEwMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZjMxYzliNWEyYmZlNzQ0MzY0NWI0ZTdlOGVhNDA4YjA0ZDU1NGE5MjAwYjAwYWZkNTc0Y2U5MjRiNTU1ZWNiIgogICAgfQogIH0KfQ==",
         "lore": [
           "§8Combat Pet",
           "",
           "§7Crit Damage: §c{CRIT_DAMAGE}%",
           "",
           "§6Enderian",
-          "§7§7Take §a{0}% §7less damage from end",
-          "§7monsters.",
+          "§7Take §a{0}% §7less damage from §5⊙ Ender",
+          "§7mobs",
           "",
           "§6Teleport Savvy",
-          "§7§7Buffs the Transmission abilities",
+          "§7Buffs the Transmission abilities",
           "§7granting §a{1} §7weapon damage for 5s",
-          "§7on use.",
+          "§7on use",
           "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
         ],
         "variables": {
@@ -2741,21 +2814,25 @@
         }
       },
       "EPIC": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmVhYjc1ZWFhNWM5ZjJjNDNhMGQyM2NmZGNlMzVmNGRmNjMyZTk4MTUwMDE4NTAzNzczODVmN2IyZjAzOWNlMSJ9fX0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYxOTkwMjIzODIyNCwKICAicHJvZmlsZUlkIiA6ICJmMjU5MTFiOTZkZDU0MjJhYTcwNzNiOTBmOGI4MTUyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmYXJsb3VjaDEwMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZjMxYzliNWEyYmZlNzQ0MzY0NWI0ZTdlOGVhNDA4YjA0ZDU1NGE5MjAwYjAwYWZkNTc0Y2U5MjRiNTU1ZWNiIgogICAgfQogIH0KfQ==",
         "lore": [
           "§8Combat Pet",
           "",
           "§7Crit Damage: §c{CRIT_DAMAGE}%",
           "",
           "§6Enderian",
-          "§7§7Take §a{0}% §7less damage from end",
-          "§7monsters.",
+          "§7Take §a{0}% §7less damage from §5⊙ Ender",
+          "§7mobs",
           "",
           "§6Teleport Savvy",
-          "§7§7Buffs the Transmission abilities",
+          "§7Buffs the Transmission abilities",
           "§7granting §a{1} §7weapon damage for 5s",
-          "§7on use.",
+          "§7on use",
           "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
         "variables": {
@@ -2778,25 +2855,29 @@
         }
       },
       "LEGENDARY": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmVhYjc1ZWFhNWM5ZjJjNDNhMGQyM2NmZGNlMzVmNGRmNjMyZTk4MTUwMDE4NTAzNzczODVmN2IyZjAzOWNlMSJ9fX0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYxOTkwMjIzODIyNCwKICAicHJvZmlsZUlkIiA6ICJmMjU5MTFiOTZkZDU0MjJhYTcwNzNiOTBmOGI4MTUyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmYXJsb3VjaDEwMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZjMxYzliNWEyYmZlNzQ0MzY0NWI0ZTdlOGVhNDA4YjA0ZDU1NGE5MjAwYjAwYWZkNTc0Y2U5MjRiNTU1ZWNiIgogICAgfQogIH0KfQ==",
         "lore": [
           "§8Combat Pet",
           "",
           "§7Crit Damage: §c{CRIT_DAMAGE}%",
           "",
           "§6Enderian",
-          "§7§7Take §a{0}% §7less damage from end",
-          "§7monsters.",
+          "§7Take §a{0}% §7less damage from §5⊙ Ender",
+          "§7mobs",
           "",
           "§6Teleport Savvy",
-          "§7§7Buffs the Transmission abilities",
+          "§7Buffs the Transmission abilities",
           "§7granting §a{1} §7weapon damage for 5s",
-          "§7on use.",
+          "§7on use",
           "",
           "§6Zealot Madness",
-          "§7§7Increases your odds to find a",
+          "§7Increases your odds to find a",
           "§7special Zealot by §a{2}%§7.",
           "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -2819,27 +2900,31 @@
         }
       },
       "MYTHIC": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmVhYjc1ZWFhNWM5ZjJjNDNhMGQyM2NmZGNlMzVmNGRmNjMyZTk4MTUwMDE4NTAzNzczODVmN2IyZjAzOWNlMSJ9fX0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYxOTkwMjIzODIyNCwKICAicHJvZmlsZUlkIiA6ICJmMjU5MTFiOTZkZDU0MjJhYTcwNzNiOTBmOGI4MTUyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmYXJsb3VjaDEwMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZjMxYzliNWEyYmZlNzQ0MzY0NWI0ZTdlOGVhNDA4YjA0ZDU1NGE5MjAwYjAwYWZkNTc0Y2U5MjRiNTU1ZWNiIgogICAgfQogIH0KfQ==",
         "lore": [
           "§8Combat Pet",
           "",
           "§7Crit Damage: §c{CRIT_DAMAGE}%",
           "",
           "§6Enderian",
-          "§7§7Take §a{0}% §7less damage from end",
-          "§7monsters.",
+          "§7Take §a{0}% §7less damage from §5⊙ Ender",
+          "§7mobs",
           "",
           "§6Teleport Savvy",
-          "§7§7Buffs the Transmission abilities",
+          "§7Buffs the Transmission abilities",
           "§7granting §a{1} §7weapon damage for 5s",
-          "§7on use.",
+          "§7on use",
           "",
           "§6Zealot Madness",
-          "§7§7Increases your odds to find a",
+          "§7Increases your odds to find a",
           "§7special Zealot by §a{2}%§7.",
           "",
           "§6Enderman Slayer",
-          "§7§7Gain §b{3}x §7Combat XP §7against §aEndermen§7.",
+          "§7Gain §b{3}x §7Combat XP against",
+          "§aEndermen§7.",
+          "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
           "",
           "§d§lMYTHIC"
         ],
@@ -3126,7 +3211,7 @@
     "name": "Ender Dragon",
     "tiers": {
       "EPIC": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWVjM2ZmNTYzMjkwYjEzZmYzYmNjMzY4OThhZjdlYWE5ODhiNmNjMThkYzI1NDE0N2Y1ODM3NGFmZTliMjFiOSJ9fX0=",
+        "texture": "eyJ0aW1lc3RhbXAiOjE1MTg5ODE1ODYzNTksInByb2ZpbGVJZCI6ImQxY2VjOWFkMWRhODQxNzliMWU1NjA0ZjcyYmZiMjI2IiwicHJvZmlsZU5hbWUiOiJydXRnZXI0NjUiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FlYzNmZjU2MzI5MGIxM2ZmM2JjYzM2ODk4YWY3ZWFhOTg4YjZjYzE4ZGMyNTQxNDdmNTgzNzRhZmU5YjIxYjkifX19",
         "lore": [
           "§8Combat Pet",
           "",
@@ -3135,15 +3220,18 @@
           "§7Crit Chance: §c{CRIT_CHANCE}%",
           "",
           "§6End Strike",
-          "§7§7Deal §a{0}% §7more damage to",
-          "§7end mobs",
+          "§7Deal §a{0}% §7more damage to §5⊙ Ender",
+          "§7mobs.",
           "",
           "§6One With The Dragon",
-          "§7§7Buffs the §6Aspect of the",
-          "§6Dragons §7sword by §a{1} §c❁",
-          "§cDamage §7and §a{2} §c❁",
+          "§7Buffs the §6Aspect of the Dragons",
+          "§7sword by §a{1} §c❁ Damage §7and §a{2} §c❁",
           "§cStrength§7.",
           "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
         "variables": {
@@ -3178,7 +3266,7 @@
         }
       },
       "LEGENDARY": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWVjM2ZmNTYzMjkwYjEzZmYzYmNjMzY4OThhZjdlYWE5ODhiNmNjMThkYzI1NDE0N2Y1ODM3NGFmZTliMjFiOSJ9fX0=",
+        "texture": "eyJ0aW1lc3RhbXAiOjE1MTg5ODE1ODYzNTksInByb2ZpbGVJZCI6ImQxY2VjOWFkMWRhODQxNzliMWU1NjA0ZjcyYmZiMjI2IiwicHJvZmlsZU5hbWUiOiJydXRnZXI0NjUiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FlYzNmZjU2MzI5MGIxM2ZmM2JjYzM2ODk4YWY3ZWFhOTg4YjZjYzE4ZGMyNTQxNDdmNTgzNzRhZmU5YjIxYjkifX19",
         "lore": [
           "§8Combat Pet",
           "",
@@ -3187,18 +3275,19 @@
           "§7Crit Chance: §c{CRIT_CHANCE}%",
           "",
           "§6End Strike",
-          "§7§7Deal §a{0}% §7more damage to",
-          "§7end mobs",
+          "§7Deal §a{0}% §7more damage to §5⊙ Ender",
+          "§7mobs.",
           "",
           "§6One With The Dragon",
-          "§7§7Buffs the §6Aspect of the",
-          "§6Dragons §7sword by §a{1} §c❁",
-          "§cDamage §7and §a{2} §c❁",
+          "§7Buffs the §6Aspect of the Dragons",
+          "§7sword by §a{1} §c❁ Damage §7and §a{2} §c❁",
           "§cStrength§7.",
           "",
           "§6Superior",
-          "§7§7Increases most stats by",
-          "§7§a{3}%§7.",
+          "§7Increases most stats by §a{3}%§7.",
+          "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -3240,7 +3329,7 @@
     "name": "Flying Fish",
     "tiers": {
       "RARE": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDBjZDcxZmJiYmJiNjZjN2JhZjc4ODFmNDE1YzY0ZmE4NGY2NTA0OTU4YTU3Y2NkYjg1ODkyNTI2NDdlYSJ9fX0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYwMDMyNTk3MTc1MywKICAicHJvZmlsZUlkIiA6ICJhNzFjNTQ5MmQwNTE0ZDg3OGFiOTEwZmRmZmRmYzgyZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcHBsZTU0NDciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjhiMWJjNzAxMzZkNjIwYTgyMmQwOGRmYzJiMDRhYmU5MjdlMWM0MzJiMjU2MTM5NjI0YjAwYzdiZjRkM2MxZSIKICAgIH0KICB9Cn0=",
         "lore": [
           "§8Fishing Pet",
           "",
@@ -3248,12 +3337,16 @@
           "§7Strength: §c{STRENGTH}",
           "",
           "§6Quick Reel",
-          "§7§7Grants §b+{0}☂ Fishing Speed§7.",
+          "§7Grants §b+{0}☂ Fishing Speed§7.",
           "",
           "§6Water Bender",
-          "§7§7Gives §a{1} §c❁ Strength §7and",
-          "§7§a❈ Defense §7when near water.",
+          "§7Gives §a{1} §c❁ Strength §7and §a❈ Defense",
+          "§7when near water",
           "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
         ],
         "variables": {
@@ -3276,7 +3369,7 @@
         }
       },
       "EPIC": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDBjZDcxZmJiYmJiNjZjN2JhZjc4ODFmNDE1YzY0ZmE4NGY2NTA0OTU4YTU3Y2NkYjg1ODkyNTI2NDdlYSJ9fX0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYwMDMyNTk3MTc1MywKICAicHJvZmlsZUlkIiA6ICJhNzFjNTQ5MmQwNTE0ZDg3OGFiOTEwZmRmZmRmYzgyZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcHBsZTU0NDciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjhiMWJjNzAxMzZkNjIwYTgyMmQwOGRmYzJiMDRhYmU5MjdlMWM0MzJiMjU2MTM5NjI0YjAwYzdiZjRkM2MxZSIKICAgIH0KICB9Cn0=",
         "lore": [
           "§8Fishing Pet",
           "",
@@ -3284,12 +3377,16 @@
           "§7Strength: §c{STRENGTH}",
           "",
           "§6Quick Reel",
-          "§7§7Grants §b+{0}☂ Fishing Speed§7.",
+          "§7Grants §b+{0}☂ Fishing Speed§7.",
           "",
           "§6Water Bender",
-          "§7§7Gives §a{1} §c❁ Strength §7and",
-          "§7§a❈ Defense §7when near water.",
+          "§7Gives §a{1} §c❁ Strength §7and §a❈ Defense",
+          "§7when near water",
           "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
         "variables": {
@@ -3333,6 +3430,7 @@
           "§eRight-click to add this pet to your",
           "§epet menu!",
           "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -3367,11 +3465,11 @@
           "§7Strength: §c{STRENGTH}",
           "",
           "§6Quick Reel",
-          "§7§7Grants §b+{0}☂ Fishing Speed§7.",
+          "§7Grants §b+{0}☂ Fishing Speed§7.",
           "",
           "§6Lava Bender",
-          "§7Gives §a{1} §c❁ Strength §7and §a❈",
-          "§aDefense §7when near water or lava",
+          "§7Gives §a{1} §c❁ Strength §7and §a❈ Defense",
+          "§7when near water or lava",
           "",
           "§6Magmatic Diver",
           "§7Increases the stats of §aDiver Armor§7,",
@@ -3481,6 +3579,7 @@
           "§eRight-click to add this pet to your",
           "§epet menu!",
           "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
         "variables": {
@@ -3518,6 +3617,7 @@
           "§eRight-click to add this pet to your",
           "§epet menu!",
           "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
         ],
         "variables": {
@@ -3556,6 +3656,7 @@
           "§eRight-click to add this pet to your",
           "§epet menu!",
           "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
         ],
         "variables": {
@@ -3598,6 +3699,7 @@
           "§eRight-click to add this pet to your",
           "§epet menu!",
           "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
         "variables": {
@@ -4190,10 +4292,13 @@
           "§7Mining Speed: §a{MINING_SPEED}",
           "",
           "§6Powder-powered",
-          "§7§7Gain §a{0}% §7more §bGlacite Powder §7from",
+          "§7Gain §a{0}% §7more §bGlacite Powder §7from",
           "§7most sources.",
           "",
-          "§7§8Can be upgraded at Kat in The Hub!",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
         ],
         "variables": {
@@ -4220,14 +4325,17 @@
           "§7Mining Speed: §a{MINING_SPEED}",
           "",
           "§6Powder-powered",
-          "§7§7Gain §a{0}% §7more §bGlacite Powder §7from",
+          "§7Gain §a{0}% §7more §bGlacite Powder §7from",
           "§7most sources.",
           "",
           "§6Iceborn",
-          "§7§7Gain §a{1} §6☘ Mining Fortune §7while in",
-          "§7the §bGlacite Mineshafts§7.",
+          "§7Gain §a+{1} §6☘ Mining Fortune §7while in the",
+          "§bGlacite Mineshafts§7.",
           "",
-          "§7§8Can be upgraded at Kat in The Hub!",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
         ],
         "variables": {
@@ -4254,17 +4362,21 @@
         "lore": [
           "§8Mining Pet",
           "",
-          "§7Mining Speed: §a{MINING_SPEED}",
           "§7Cold Resistance: §a{COLD_RESISTANCE}",
+          "§7Mining Speed: §a{MINING_SPEED}",
           "",
           "§6Powder-powered",
-          "§7§7Gain §a{0}% §7more §bGlacite Powder §7from",
+          "§7Gain §a{0}% §7more §bGlacite Powder §7from",
           "§7most sources.",
           "",
           "§6Iceborn",
-          "§7§7Gain §a{1} §6☘ Mining Fortune §7while in the",
-          "§7§bGlacite Mineshafts§7.",
+          "§7Gain §a+{1} §6☘ Mining Fortune §7while in the",
+          "§bGlacite Mineshafts§7.",
           "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
         "variables": {
@@ -4295,21 +4407,24 @@
         "lore": [
           "§8Mining Pet",
           "",
-          "§7Mining Speed: §a{MINING_SPEED}",
           "§7Cold Resistance: §a{COLD_RESISTANCE}",
+          "§7Mining Speed: §a{MINING_SPEED}",
           "",
           "§6Powder-powered",
-          "§7§7Gain §a{0}% §7more §bGlacite Powder §7from",
+          "§7Gain §a{0}% §7more §bGlacite Powder §7from",
           "§7most sources.",
           "",
           "§6Iceborn",
-          "§7§7Gain §a{1} §6☘ Mining Fortune §7while in the",
-          "§7§bGlacite Mineshafts§7.",
+          "§7Gain §a+{1} §6☘ Mining Fortune §7while in the",
+          "§bGlacite Mineshafts§7.",
           "",
           "§6Frozen Perfection",
-          "§7§7Gain §a{2} §5✧ Pristine §7for every",
-          "§7§bFrozen Corpse §7you've looted in the",
+          "§7Gain §a+{2} §5✧ Pristine §7for every",
+          "§bFrozen Corpse §7you've looted in the",
           "§7current §bGlacite Mineshaft§7.",
+          "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -4414,11 +4529,11 @@
           "",
           "§6Dragon's Greed",
           "§7Grants §c+{1}%❁ Strength §7per §b5✯",
-          "§bMagic Find§7. §8(Max +5%)",
+          "§bMagic Find§7. §8(Max +{2}%)",
           "",
           "§6Legendary Treasure",
-          "§7Gain §c{2}% §7damage for every million",
-          "§7coins in your bank. §8(Max 250%)",
+          "§7Gain §c{3}% §7damage for every million",
+          "§7coins in your bank. §8(Max {4}%)",
           "",
           "§6Symbiosis",
           "§7If you own a level §a200 Golden",
@@ -4441,8 +4556,16 @@
             0.5
           ],
           "2": [
+            2.5,
+            5
+          ],
+          "3": [
             0.125,
             0.25
+          ],
+          "4": [
+            126.2,
+            250
           ],
           "BONUS_ATTACK_SPEED": [
             25,
@@ -7967,8 +8090,8 @@
             50
           ],
           "BONUS_PEST_CHANCE": [
-            0.4,
-            40
+            0.5,
+            50
           ],
           "SPEED": [
             0.2,
@@ -8010,8 +8133,8 @@
             2
           ],
           "BONUS_PEST_CHANCE": [
-            0.4,
-            40
+            0.5,
+            50
           ],
           "SPEED": [
             0.2,
@@ -8053,8 +8176,8 @@
             2
           ],
           "BONUS_PEST_CHANCE": [
-            0.4,
-            40
+            0.5,
+            50
           ],
           "SPEED": [
             0.2,
@@ -8103,8 +8226,8 @@
             100
           ],
           "BONUS_PEST_CHANCE": [
-            0.4,
-            40
+            0.5,
+            50
           ],
           "SPEED": [
             0.2,
@@ -8811,10 +8934,13 @@
           "§7Ferocity: §a{FEROCITY}",
           "",
           "§6Bacon Farmer",
-          "§7§7Pig minions work §a{0}% §7faster while on",
+          "§7Pig minions work §a{0}% §7faster while on",
           "§7your island",
           "",
-          "§7§8Can be upgraded at Kat in The Hub!",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
         "variables": {
@@ -8846,10 +8972,13 @@
           "§7Ferocity: §a{FEROCITY}",
           "",
           "§6Bacon Farmer",
-          "§7§7Pig minions work §a{0}% §7faster while on",
+          "§7Pig minions work §a{0}% §7faster while on",
           "§7your island",
           "",
-          "§7§8Can be upgraded at Kat in The Hub!",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
         ],
         "variables": {
@@ -8881,14 +9010,17 @@
           "§7Ferocity: §a{FEROCITY}",
           "",
           "§6Bacon Farmer",
-          "§7§7Pig minions work §a{0}% §7faster while on",
+          "§7Pig minions work §a{0}% §7faster while on",
           "§7your island",
           "",
           "§6Pork Master",
-          "§7§7Buffs the §6Pigman Sword §7by §a{1} §c❁",
+          "§7Buffs the §6Pigman Sword §7by §a{1} §c❁",
           "§cDamage §7and §a{2} §c❁ Strength§7.",
           "",
-          "§7§8Can be upgraded at Kat in The Hub!",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
         ],
         "variables": {
@@ -8919,22 +9051,26 @@
         }
       },
       "EPIC": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjNkOWNiNjUxM2YyMDcyZTVkNGU0MjZkNzBhNTU1N2JjMzk4NTU0Yzg4MGQ0ZTdiN2VjOGVmNDk0NWViMDJmMiJ9fX0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYxMTIyNjQyNTg4MCwKICAicHJvZmlsZUlkIiA6ICIzYTNmNzhkZmExZjQ0OTllYjE5NjlmYzlkOTEwZGYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVyb2Ryb2dvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QxNWFmYWQ1M2QxNzI2ZmFlODZiM2ZiMTFiYTAxZTUxMTEyYjEwNTVlOGU1YWY4YjdkZjg2ZWY5NTZmMWQ0YTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
         "lore": [
           "§8Combat Pet",
           "",
-          "§7Ferocity: §a{FEROCITY}",
-          "§7Strength: §c{STRENGTH}",
           "§7Defense: §a{DEFENSE}",
+          "§7Strength: §c{STRENGTH}",
+          "§7Ferocity: §a{FEROCITY}",
           "",
           "§6Bacon Farmer",
-          "§7§7Pig minions work §a{0}% §7faster while on",
-          "§7your island.",
+          "§7Pig minions work §a{0}% §7faster while on",
+          "§7your island",
           "",
           "§6Pork Master",
-          "§7§7Buffs the §6Pigman Sword §7by §a{1} §c❁",
+          "§7Buffs the §6Pigman Sword §7by §a{1} §c❁",
           "§cDamage §7and §a{2} §c❁ Strength§7.",
           "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
         "variables": {
@@ -8965,26 +9101,29 @@
         }
       },
       "LEGENDARY": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjNkOWNiNjUxM2YyMDcyZTVkNGU0MjZkNzBhNTU1N2JjMzk4NTU0Yzg4MGQ0ZTdiN2VjOGVmNDk0NWViMDJmMiJ9fX0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYxMTIyNjQyNTg4MCwKICAicHJvZmlsZUlkIiA6ICIzYTNmNzhkZmExZjQ0OTllYjE5NjlmYzlkOTEwZGYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVyb2Ryb2dvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QxNWFmYWQ1M2QxNzI2ZmFlODZiM2ZiMTFiYTAxZTUxMTEyYjEwNTVlOGU1YWY4YjdkZjg2ZWY5NTZmMWQ0YTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
         "lore": [
           "§8Combat Pet",
           "",
-          "§7Ferocity: §a{FEROCITY}",
-          "§7Strength: §c{STRENGTH}",
           "§7Defense: §a{DEFENSE}",
+          "§7Strength: §c{STRENGTH}",
+          "§7Ferocity: §a{FEROCITY}",
           "",
           "§6Bacon Farmer",
-          "§7§7Pig minions work §a{0}% §7faster while on",
-          "§7your island.",
+          "§7Pig minions work §a{0}% §7faster while on",
+          "§7your island",
           "",
           "§6Pork Master",
-          "§7§7Buffs the §6Pigman Sword §7by §a{1} §c❁",
+          "§7Buffs the §6Pigman Sword §7by §a{1} §c❁",
           "§cDamage §7and §a{2} §c❁ Strength§7.",
           "",
           "§6Giant Slayer",
-          "§7§7Deal §c+50% §7damage to monsters Level",
-          "§7§a50+§7 and §c+75% §7damage to monsters",
+          "§7Deal §c+50% §7damage to monsters Level",
+          "§a50+§7 and §c+75% §7damage to monsters",
           "§7Level §a100+§7.",
+          "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -11353,7 +11492,7 @@
     "name": "Subzero Wisp",
     "tiers": {
       "LEGENDARY": {
-        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY0NjYxOTEyNTcwOCwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2EwZWIzN2U1OGM5NDJlY2E0ZDMzYWI0NGUyNmViMTkxMGM3ODM3ODg1MTBiMGE1M2I2ZjRkMTg4ODFlMjM3ZSIKICAgIH0KICB9Cn0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NTkzMDI1OSwKICAicHJvZmlsZUlkIiA6ICIzYjBmNTM5MmRlNzM0YmZjYmJkOTMxYzMxYmFkODMxMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJjYXRhbmRCIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdhMGViMzdlNThjOTQyZWNhNGQzM2FiNDRlMjZlYjE5MTBjNzgzNzg4NTEwYjBhNTNiNmY0ZDE4ODgxZTIzN2UiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
         "lore": [
           "§8Gabagool Pet, feed to gain XP",
           "",
@@ -11363,29 +11502,30 @@
           "§7Intelligence: §a{INTELLIGENCE}",
           "",
           "§6Icehammer",
-          "§7§7Lets you break fire pillars,",
-          "§7which heals you for §c50% §7of",
-          "§7your max §c❤ §7over §a3s§7.",
+          "§7Lets you break fire pillars, which",
+          "§7heals you for §c50% §7of your max §c❤",
+          "§7over §a3s§7.",
           "",
           "§6Bulwark",
-          "§7Kill Blazes to gain defense",
-          "§7against them and demons.",
+          "§7Kill Blazes to gain defense against",
+          "§7them and demons.",
           "§7Bonus: §a+0❈ §7& §f+0❂",
           "§7Next Upgrade: §a+30❈ §7& §f+3❂ §8(§a0§7/§c100§8)",
           "",
           "§6Blaze Slayer",
-          "§7§7Gain §b{0}x §7Combat XP",
-          "§7§7against §aBlazes§7.",
+          "§7Gain §b{0}x §7Combat XP against §aBlazes§7.",
           "",
           "§6Extinguish",
-          "§7While in combat on the Crimson",
-          "§7Isle, spawn a pool every §a8s.",
-          "§7Bathing in it heals §c25%❤ now",
-          "§7and §c10%❤§7/s for §a8s.",
+          "§7While in combat on the Crimson Isle,",
+          "§7spawn a pool every §a8s§7.",
+          "§7Bathing in it heals §c25%❤ §7now and",
+          "§c10%❤§7/s for §a8s§7.",
           "",
           "§6Ephemeral Stability",
-          "§7Regenerate mana §b{1}%",
-          "§7faster.",
+          "§7Regenerate mana §b40% §7faster",
+          "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -11393,10 +11533,6 @@
           "0": [
             1.005,
             1.5
-          ],
-          "1": [
-            0.4,
-            40
           ],
           "HEALTH": [
             6,
@@ -11995,9 +12131,13 @@
           "§7Crit Damage: §c{CRIT_DAMAGE}",
           "",
           "§6Stronger Bones",
-          "§7§7Take §a{0}% §7less damage from skeletons",
+          "§7Take §a{0}% §7less damage from §f🦴",
+          "§fSkeletal §7mobs.",
           "",
-          "§7§8Can be upgraded at Kat in The Hub!",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
         "variables": {
@@ -12035,13 +12175,17 @@
           "§7Defense: §a{DEFENSE}",
           "§7Strength: §c{STRENGTH}",
           "§7Intelligence: §a{INTELLIGENCE}",
-          "§7Crit Chance: §c{CRIT_CHANCE}%",
-          "§7Crit Damage: §c{CRIT_DAMAGE}%",
+          "§7Crit Chance: §c{CRIT_CHANCE}",
+          "§7Crit Damage: §c{CRIT_DAMAGE}",
           "",
           "§6Stronger Bones",
-          "§7§7Take §a{0}% §7less damage from skeletons",
+          "§7Take §a{0}% §7less damage from §f🦴",
+          "§fSkeletal §7mobs.",
           "",
-          "§7§8Can be upgraded at Kat in The Hub!",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
         ],
         "variables": {
@@ -12079,16 +12223,21 @@
           "§7Defense: §a{DEFENSE}",
           "§7Strength: §c{STRENGTH}",
           "§7Intelligence: §a{INTELLIGENCE}",
-          "§7Crit Chance: §c{CRIT_CHANCE}%",
-          "§7Crit Damage: §c{CRIT_DAMAGE}%",
+          "§7Crit Chance: §c{CRIT_CHANCE}",
+          "§7Crit Damage: §c{CRIT_DAMAGE}",
           "",
           "§6Stronger Bones",
-          "§7§7Take §a{0}% §7less damage from skeletons",
+          "§7Take §a{0}% §7less damage from §f🦴",
+          "§fSkeletal §7mobs.",
           "",
           "§6Wither Blood",
-          "§7§7Deal §a{1}% §7more damage to wither mobs",
+          "§7Deal §a{1}% §7more damage to §8☠ Wither",
+          "§7mobs.",
           "",
-          "§7§8Can be upgraded at Kat in The Hub!",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
         ],
         "variables": {
@@ -12123,23 +12272,28 @@
         }
       },
       "EPIC": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjVlYzk2NDY0NWE4ZWZhYzc2YmUyZjE2MGQ3Yzk5NTYzNjJmMzJiNjUxNzM5MGM1OWMzMDg1MDM0ZjA1MGNmZiJ9fX0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTU5OTkyNzM5NDQ0NCwKICAicHJvZmlsZUlkIiA6ICI5ZDQyNWFiOGFmZjg0MGU1OWM3NzUzZjc5Mjg5YjMyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb21wa2luNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDUwZTk3MmQyNmMzZGJjNGUxNjYzYWFmNTgzMzg4ZmYzMjFlOTU4ZDE5NWY4YTQ2NWI3MWE1OTZhNzM2ZmU5YyIKICAgIH0KICB9Cn0=",
         "lore": [
           "§8Mining Pet",
           "",
           "§7Defense: §a{DEFENSE}",
           "§7Strength: §c{STRENGTH}",
           "§7Intelligence: §a{INTELLIGENCE}",
-          "§7Crit Chance: §c{CRIT_CHANCE}%",
-          "§7Crit Damage: §c{CRIT_DAMAGE}%",
+          "§7Crit Chance: §c{CRIT_CHANCE}",
+          "§7Crit Damage: §c{CRIT_DAMAGE}",
           "",
           "§6Stronger Bones",
-          "§7§7Take §a{0}% §7less damage from skeletons.",
+          "§7Take §a{0}% §7less damage from §f🦴",
+          "§fSkeletal §7mobs.",
           "",
           "§6Wither Blood",
-          "§7§7Deal §a{1}% §7more damage to wither",
+          "§7Deal §a{1}% §7more damage to §8☠ Wither",
           "§7mobs.",
           "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
         "variables": {
@@ -12174,28 +12328,32 @@
         }
       },
       "LEGENDARY": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjVlYzk2NDY0NWE4ZWZhYzc2YmUyZjE2MGQ3Yzk5NTYzNjJmMzJiNjUxNzM5MGM1OWMzMDg1MDM0ZjA1MGNmZiJ9fX0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTU5OTkyNzM5NDQ0NCwKICAicHJvZmlsZUlkIiA6ICI5ZDQyNWFiOGFmZjg0MGU1OWM3NzUzZjc5Mjg5YjMyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb21wa2luNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDUwZTk3MmQyNmMzZGJjNGUxNjYzYWFmNTgzMzg4ZmYzMjFlOTU4ZDE5NWY4YTQ2NWI3MWE1OTZhNzM2ZmU5YyIKICAgIH0KICB9Cn0=",
         "lore": [
           "§8Mining Pet",
           "",
           "§7Defense: §a{DEFENSE}",
           "§7Strength: §c{STRENGTH}",
           "§7Intelligence: §a{INTELLIGENCE}",
-          "§7Crit Chance: §c{CRIT_CHANCE}%",
-          "§7Crit Damage: §c{CRIT_DAMAGE}%",
+          "§7Crit Chance: §c{CRIT_CHANCE}",
+          "§7Crit Damage: §c{CRIT_DAMAGE}",
           "",
           "§6Stronger Bones",
-          "§7§7Take §a{0}% §7less damage from skeletons.",
+          "§7Take §a{0}% §7less damage from §f🦴",
+          "§fSkeletal §7mobs.",
           "",
           "§6Wither Blood",
-          "§7§7Deal §a{1}% §7more damage to wither",
+          "§7Deal §a{1}% §7more damage to §8☠ Wither",
           "§7mobs.",
           "",
           "§6Death's Touch",
-          "§7§7Upon hitting an enemy inflict the",
-          "§7wither effect for §a{2}% §7damage over",
-          "§73 seconds.",
+          "§7Upon hitting an enemy inflict the",
+          "§7wither effect for §a{2}% §7damage over 3",
+          "§7seconds",
           "§8Does not stack",
+          "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -12479,7 +12637,7 @@
     "name": "Zombie",
     "tiers": {
       "COMMON": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTZmYzg1NGJiODRjZjRiNzY5NzI5Nzk3M2UwMmI3OWJjMTA2OTg0NjBiNTFhNjM5YzYwZTVlNDE3NzM0ZTExIn19fQ==",
+        "texture": "eyJ0aW1lc3RhbXAiOjE0NjczMTAxMjg5MzAsInByb2ZpbGVJZCI6ImIwZDRiMjhiYzFkNzQ4ODlhZjBlODY2MWNlZTk2YWFiIiwicHJvZmlsZU5hbWUiOiJJbnZlbnRpdmVHYW1lcyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTZmYzg1NGJiODRjZjRiNzY5NzI5Nzk3M2UwMmI3OWJjMTA2OTg0NjBiNTFhNjM5YzYwZTVlNDE3NzM0ZTExIn19fQ==",
         "lore": [
           "§8Combat Pet",
           "",
@@ -12487,9 +12645,13 @@
           "§7Crit Damage: §c{CRIT_DAMAGE}%",
           "",
           "§6Bite Shield",
-          "§7§7Reduce the damage taken from",
+          "§7Reduce the damage taken from",
           "§7zombies by §a{0}%§7.",
           "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
         "variables": {
@@ -12508,7 +12670,7 @@
         }
       },
       "UNCOMMON": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTZmYzg1NGJiODRjZjRiNzY5NzI5Nzk3M2UwMmI3OWJjMTA2OTg0NjBiNTFhNjM5YzYwZTVlNDE3NzM0ZTExIn19fQ==",
+        "texture": "eyJ0aW1lc3RhbXAiOjE0NjczMTAxMjg5MzAsInByb2ZpbGVJZCI6ImIwZDRiMjhiYzFkNzQ4ODlhZjBlODY2MWNlZTk2YWFiIiwicHJvZmlsZU5hbWUiOiJJbnZlbnRpdmVHYW1lcyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTZmYzg1NGJiODRjZjRiNzY5NzI5Nzk3M2UwMmI3OWJjMTA2OTg0NjBiNTFhNjM5YzYwZTVlNDE3NzM0ZTExIn19fQ==",
         "lore": [
           "§8Combat Pet",
           "",
@@ -12516,9 +12678,13 @@
           "§7Crit Damage: §c{CRIT_DAMAGE}%",
           "",
           "§6Bite Shield",
-          "§7§7Reduce the damage taken from",
+          "§7Reduce the damage taken from",
           "§7zombies by §a{0}%§7.",
           "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
         ],
         "variables": {
@@ -12537,7 +12703,7 @@
         }
       },
       "RARE": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTZmYzg1NGJiODRjZjRiNzY5NzI5Nzk3M2UwMmI3OWJjMTA2OTg0NjBiNTFhNjM5YzYwZTVlNDE3NzM0ZTExIn19fQ==",
+        "texture": "eyJ0aW1lc3RhbXAiOjE0NjczMTAxMjg5MzAsInByb2ZpbGVJZCI6ImIwZDRiMjhiYzFkNzQ4ODlhZjBlODY2MWNlZTk2YWFiIiwicHJvZmlsZU5hbWUiOiJJbnZlbnRpdmVHYW1lcyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTZmYzg1NGJiODRjZjRiNzY5NzI5Nzk3M2UwMmI3OWJjMTA2OTg0NjBiNTFhNjM5YzYwZTVlNDE3NzM0ZTExIn19fQ==",
         "lore": [
           "§8Combat Pet",
           "",
@@ -12545,12 +12711,17 @@
           "§7Crit Damage: §c{CRIT_DAMAGE}%",
           "",
           "§6Bite Shield",
-          "§7§7Reduce the damage taken from",
+          "§7Reduce the damage taken from",
           "§7zombies by §a{0}%§7.",
           "",
           "§6Rotten Blade",
-          "§7§7Deal §a{1}% §7more damage to zombies.",
+          "§7Deal §a{1}% §7more damage to §2༕ Undead",
+          "§7mobs",
           "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
         ],
         "variables": {
@@ -12573,7 +12744,7 @@
         }
       },
       "EPIC": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTZmYzg1NGJiODRjZjRiNzY5NzI5Nzk3M2UwMmI3OWJjMTA2OTg0NjBiNTFhNjM5YzYwZTVlNDE3NzM0ZTExIn19fQ==",
+        "texture": "eyJ0aW1lc3RhbXAiOjE0NjczMTAxMjg5MzAsInByb2ZpbGVJZCI6ImIwZDRiMjhiYzFkNzQ4ODlhZjBlODY2MWNlZTk2YWFiIiwicHJvZmlsZU5hbWUiOiJJbnZlbnRpdmVHYW1lcyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTZmYzg1NGJiODRjZjRiNzY5NzI5Nzk3M2UwMmI3OWJjMTA2OTg0NjBiNTFhNjM5YzYwZTVlNDE3NzM0ZTExIn19fQ==",
         "lore": [
           "§8Combat Pet",
           "",
@@ -12581,12 +12752,17 @@
           "§7Crit Damage: §c{CRIT_DAMAGE}%",
           "",
           "§6Bite Shield",
-          "§7§7Reduce the damage taken from",
+          "§7Reduce the damage taken from",
           "§7zombies by §a{0}%§7.",
           "",
           "§6Rotten Blade",
-          "§7§7Deal §a{1}% §7more damage to zombies.",
+          "§7Deal §a{1}% §7more damage to §2༕ Undead",
+          "§7mobs",
           "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
         "variables": {
@@ -12609,7 +12785,7 @@
         }
       },
       "LEGENDARY": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTZmYzg1NGJiODRjZjRiNzY5NzI5Nzk3M2UwMmI3OWJjMTA2OTg0NjBiNTFhNjM5YzYwZTVlNDE3NzM0ZTExIn19fQ==",
+        "texture": "eyJ0aW1lc3RhbXAiOjE0NjczMTAxMjg5MzAsInByb2ZpbGVJZCI6ImIwZDRiMjhiYzFkNzQ4ODlhZjBlODY2MWNlZTk2YWFiIiwicHJvZmlsZU5hbWUiOiJJbnZlbnRpdmVHYW1lcyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTZmYzg1NGJiODRjZjRiNzY5NzI5Nzk3M2UwMmI3OWJjMTA2OTg0NjBiNTFhNjM5YzYwZTVlNDE3NzM0ZTExIn19fQ==",
         "lore": [
           "§8Combat Pet",
           "",
@@ -12617,16 +12793,19 @@
           "§7Crit Damage: §c{CRIT_DAMAGE}%",
           "",
           "§6Bite Shield",
-          "§7§7Reduce the damage taken from",
+          "§7Reduce the damage taken from",
           "§7zombies by §a{0}%§7.",
           "",
           "§6Rotten Blade",
-          "§7§7Deal §a{1}% §7more damage to",
-          "§7zombies.",
+          "§7Deal §a{1}% §7more damage to §2༕ Undead",
+          "§7mobs",
           "",
           "§6Living Dead",
-          "§7§7Increases all stats on §2Undead ༕",
-          "§2§7armor by §a{2}%§7.",
+          "§7Increases all stats on §2Undead ༕",
+          "§7armor by §a{2}%§7.",
+          "",
+          "§eRight-click to add this pet to your",
+          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
