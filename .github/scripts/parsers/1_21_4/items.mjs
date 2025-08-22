@@ -41,7 +41,7 @@ export const Items = {
                         }
                     ]
                 } : undefined,
-                'minecraft:dyed_color': item.nbt?.display?.color ? {
+                'minecraft:dyed_color': item.nbt?.display?.color !== undefined ? {
                     rgb: item.nbt.display.color,
                     show_in_tooltip: false
                 } : undefined,

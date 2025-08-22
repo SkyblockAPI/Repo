@@ -55,7 +55,7 @@ export const Items = {
                         }
                     ]
                 } : undefined,
-                'minecraft:dyed_color': item.nbt?.display?.color || undefined,
+                'minecraft:dyed_color': item.nbt?.display?.color ?? undefined,
                 'minecraft:item_model': itemModel,
             }
         });
