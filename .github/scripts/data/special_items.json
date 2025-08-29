@@ -1,6 +1,8 @@
 {
     "__comment__": "NEU Puts fake items in the repo so we need to remove those",
     "items": [
-        "MAXED_ENCHANT_BOOK"
+        "MAXED_ENCHANT_BOOK",
+        "SKYBLOCK_FIG_TREE_GIFTS",
+        "SKYBLOCK_MANGROVE_TREE_GIFTS"
     ]
 }

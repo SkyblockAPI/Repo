@@ -16,6 +16,7 @@ const isEntity = (file) => {
     if (file.endsWith("_MINIBOSS.json")) return true;
     if (file.endsWith("_BOSS.json")) return true;
     if (file.endsWith("_SC.json")) return true;
+    if (file.endsWith("_ANIMAL.json")) return true;
     return false;
 }
 
