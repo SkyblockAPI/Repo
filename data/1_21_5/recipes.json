@@ -188,38 +188,6 @@
       },
       {
         "id": "ENCHANTED_SEA_LUMIES",
-        "count": 8
-      },
-      {
-        "id": "DIVER_HELMET",
-        "count": 1
-      }
-    ],
-    "pattern": [
-      0,
-      1,
-      0,
-      1,
-      2,
-      1,
-      0,
-      1,
-      0
-    ],
-    "result": {
-      "id": "ABYSSAL_HELMET",
-      "count": 1
-    }
-  },
-  {
-    "type": "crafting",
-    "keys": [
-      {
-        "id": "GILL_MEMBRANE",
-        "count": 64
-      },
-      {
-        "id": "ENCHANTED_SEA_LUMIES",
         "count": 16
       },
       {
@@ -17866,6 +17834,20 @@
     }
   },
   {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "BIT",
+        "count": 5000
+      }
+    ],
+    "result": {
+      "id": "ATTRIBUTE_SHARD_DWARVEN_SERENDIPITY;1",
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {
@@ -30036,7 +30018,7 @@
     ],
     "result": {
       "id": "GLASS_BOTTLE",
-      "count": 1
+      "count": 3
     }
   },
   {
