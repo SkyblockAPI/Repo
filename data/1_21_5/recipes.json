@@ -1493,6 +1493,20 @@
     }
   },
   {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 5000
+      }
+    ],
+    "result": {
+      "id": "ABIPHONE_BASIC",
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {
@@ -1668,7 +1682,7 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 100000
+        "count": 1000000
       }
     ],
     "result": {
@@ -20127,7 +20141,7 @@
         "count": 1
       },
       {
-        "id": "CHEST",
+        "id": "BUDGET_HOPPER",
         "count": 1
       }
     ],
@@ -47565,16 +47579,16 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_EMERALD",
-        "count": 64
+        "id": "TARANTULA_CATALYST",
+        "count": 1
       },
       {
         "id": "TARANTULA_SILK",
         "count": 64
       },
       {
-        "id": "ENCHANTED_GOLD",
-        "count": 64
+        "id": "DIGESTED_MOSQUITO",
+        "count": 1
       },
       {
         "id": "SCORPION_BOW",
@@ -59130,7 +59144,7 @@
     "keys": [
       {
         "id": "TARANTULA_WEB",
-        "count": 4
+        "count": 16
       },
       {
         "id": "SPIDER_CATALYST",
@@ -59142,15 +59156,15 @@
       }
     ],
     "pattern": [
+      -1,
       0,
-      0,
-      0,
-      0,
+      -1,
+      -1,
       1,
-      0,
-      0,
+      -1,
+      -1,
       2,
-      0
+      -1
     ],
     "result": {
       "id": "RECLUSE_FANG",
@@ -63161,27 +63175,27 @@
     "keys": [
       {
         "id": "TARANTULA_SILK",
-        "count": 4
+        "count": 32
       },
       {
-        "id": "ENCHANTED_ACACIA_LOG",
-        "count": 64
+        "id": "TARANTULA_CATALYST",
+        "count": 8
       },
       {
-        "id": "STICK",
+        "id": "TARANTULA_FANG",
         "count": 1
       }
     ],
     "pattern": [
+      -1,
       0,
+      -1,
+      -1,
       1,
-      0,
-      0,
-      1,
-      0,
-      0,
+      -1,
+      -1,
       2,
-      0
+      -1
     ],
     "result": {
       "id": "SCORPION_FOIL",
@@ -72859,7 +72873,7 @@
         "count": 1
       },
       {
-        "id": "TARANTULA_FANG",
+        "id": "SCORPION_FOIL",
         "count": 1
       }
     ],
@@ -77612,7 +77626,7 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 985000
+        "count": 500000
       }
     ],
     "result": {
@@ -77626,7 +77640,7 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 1970000
+        "count": 500000
       }
     ],
     "result": {
@@ -77640,7 +77654,7 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 4925000
+        "count": 500000
       }
     ],
     "result": {
@@ -77654,7 +77668,7 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 6895000
+        "count": 500000
       }
     ],
     "result": {
@@ -77668,7 +77682,7 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 7880000
+        "count": 1000000
       }
     ],
     "result": {
@@ -77682,7 +77696,7 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 11820000
+        "count": 1000000
       }
     ],
     "result": {
@@ -77696,7 +77710,7 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 19700000
+        "count": 5000000
       }
     ],
     "result": {
@@ -77710,7 +77724,7 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 39400000
+        "count": 5000000
       }
     ],
     "result": {
@@ -77724,7 +77738,7 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 73875000
+        "count": 25000000
       }
     ],
     "result": {
@@ -77738,7 +77752,7 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 73875000
+        "count": 25000000
       }
     ],
     "result": {
@@ -77752,7 +77766,7 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 73875000
+        "count": 25000000
       }
     ],
     "result": {
@@ -77766,7 +77780,7 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 98500000
+        "count": 50000000
       }
     ],
     "result": {
@@ -77780,7 +77794,7 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 98500000
+        "count": 50000000
       }
     ],
     "result": {
@@ -77794,7 +77808,7 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 98500000
+        "count": 50000000
       }
     ],
     "result": {
