@@ -1,4 +1,77 @@
 {
+  "AXE_FADING_GREEN": [
+    {
+      "tier": 1,
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1NTc1NTE0NjM3NywKICAicHJvZmlsZUlkIiA6ICI2MTU1NTMyOTY2OWM0ZDA5YmFiOGJlNDNkYWUwYTRjMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmaTAxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNTZkNDIwYjJiOTA0ZGViZDdiZTNhMTU3ZDMzMGUxNzI2NGYxY2YzMDJhMmQyMDIyYjllNDY1Mzg2NTNiOGIwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "§a◆ Fading Green Rune I",
+      "lore": [
+        "§8Requires level 5",
+        "§8Throwing Axe",
+        "",
+        "§7Your axe fades into groovy green",
+        "§7particles!",
+        "",
+        "§cThis rune effect uses latest",
+        "§cMinecraft version particles, and will",
+        "§cnot display those particles on older",
+        "§cversions.",
+        "",
+        "§7Apply this rune to throwing axe or",
+        "§7fuse two together at the Runic",
+        "§7Pedestal!",
+        "",
+        "§a§lUNCOMMON COSMETIC"
+      ]
+    },
+    {
+      "tier": 3,
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1NTc1NTE0NjM3NywKICAicHJvZmlsZUlkIiA6ICI2MTU1NTMyOTY2OWM0ZDA5YmFiOGJlNDNkYWUwYTRjMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmaTAxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNTZkNDIwYjJiOTA0ZGViZDdiZTNhMTU3ZDMzMGUxNzI2NGYxY2YzMDJhMmQyMDIyYjllNDY1Mzg2NTNiOGIwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "§a◆ Fading Green Rune III",
+      "lore": [
+        "§8Requires level 5",
+        "§8Throwing Axe",
+        "",
+        "§7Your axe fades into groovy green",
+        "§7particles!",
+        "",
+        "§cThis rune effect uses latest",
+        "§cMinecraft version particles, and will",
+        "§cnot display those particles on older",
+        "§cversions.",
+        "",
+        "§7Apply this rune to throwing axe or",
+        "§7fuse two together at the Runic",
+        "§7Pedestal!",
+        "",
+        "§a§lUNCOMMON COSMETIC"
+      ]
+    }
+  ],
+  "AXE_FADING_WHITE": [
+    {
+      "tier": 1,
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1NTc1NTE1Mzc0OSwKICAicHJvZmlsZUlkIiA6ICIwMzBlMDA1OWQwY2M0YTZhODY3N2RkZWU3MjEzMjg1MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbXVnRm9vZGllIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc3MWNhZGVmNzU0NWZjYjg4MWE0ZWViYWFlYzkzZWYyZmE1ZjFlMGU5OWI2MGQyNjgwNWNmOWM2MDExM2Y0OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "§f◆ Fading White Rune I",
+      "lore": [
+        "§8Requires level 3",
+        "§8Throwing Axe",
+        "",
+        "§7Your axe fades into wonderful white",
+        "§7particles!",
+        "",
+        "§cThis rune effect uses latest",
+        "§cMinecraft version particles, and will",
+        "§cnot display those particles on older",
+        "§cversions.",
+        "",
+        "§7Apply this rune to throwing axe or",
+        "§7fuse two together at the Runic",
+        "§7Pedestal!",
+        "",
+        "§f§lCOMMON COSMETIC"
+      ]
+    }
+  ],
   "BARK_TUNES": [
     {
       "tier": 3,

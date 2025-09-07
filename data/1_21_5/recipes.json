@@ -17857,7 +17857,7 @@
       }
     ],
     "result": {
-      "id": "ATTRIBUTE_SHARD_DWARVEN_SERENDIPITY;1",
+      "id": "ATTRIBUTE_SHARD_COOKIE_EATER;1",
       "count": 1
     }
   },
@@ -64966,6 +64966,34 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "SHRIVELED_WASP",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_EYE_OF_ENDER",
+        "count": 64
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      1,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "SHRIVELED_CORNEA",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "WOOD",
         "count": 1
       },
@@ -80018,7 +80046,7 @@
         "count": 16
       },
       {
-        "id": "ENCHANTED_WATER_LILY",
+        "id": "ENCHANTED_SPONGE",
         "count": 8
       },
       {
@@ -80030,16 +80058,16 @@
         "count": 16
       },
       {
-        "id": "DIVER_FRAGMENT",
-        "count": 1
+        "id": "ENCHANTED_WATER_LILY",
+        "count": 16
       },
       {
         "id": "ENCHANTED_PRISMARINE_CRYSTALS",
         "count": 16
       },
       {
-        "id": "ENCHANTED_SPONGE",
-        "count": 4
+        "id": "ENCHANTED_CLAY_BALL",
+        "count": 16
       },
       {
         "id": "ENCHANTED_PUFFERFISH",
@@ -80047,7 +80075,7 @@
       },
       {
         "id": "ENCHANTED_CLOWNFISH",
-        "count": 8
+        "count": 16
       }
     ],
     "pattern": [
