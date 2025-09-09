@@ -943,6 +943,18 @@
           "FORAGING_WISDOM": [
             0.2,
             20
+          ],
+          "MINING_FORTUNE": [
+            0,
+            0
+          ],
+          "FORAGING_FORTUNE": [
+            0,
+            0
+          ],
+          "FARMING_FORTUNE": [
+            0,
+            0
           ]
         }
       },
@@ -1017,6 +1029,18 @@
           "FORAGING_WISDOM": [
             0.3,
             30
+          ],
+          "MINING_FORTUNE": [
+            0,
+            0
+          ],
+          "FORAGING_FORTUNE": [
+            0,
+            0
+          ],
+          "FARMING_FORTUNE": [
+            0,
+            0
           ]
         }
       },
@@ -1098,6 +1122,18 @@
           "FORAGING_WISDOM": [
             0.3,
             30
+          ],
+          "MINING_FORTUNE": [
+            0,
+            0
+          ],
+          "FORAGING_FORTUNE": [
+            0,
+            0
+          ],
+          "FARMING_FORTUNE": [
+            0,
+            0
           ]
         }
       }
@@ -5116,6 +5152,10 @@
             2,
             3
           ],
+          "6": [
+            0,
+            0
+          ],
           "HEALTH": [
             1,
             100
@@ -7463,6 +7503,10 @@
             0.3,
             30
           ],
+          "3": [
+            0,
+            0
+          ],
           "DEFENSE": [
             0.5,
             50
@@ -7627,6 +7671,10 @@
           "MINING_SPEED": [
             0.25,
             25
+          ],
+          "MINING_FORTUNE": [
+            0,
+            0
           ]
         }
       },
@@ -7660,6 +7708,10 @@
           "MINING_SPEED": [
             0.25,
             25
+          ],
+          "MINING_FORTUNE": [
+            0,
+            0
           ]
         }
       },
@@ -7698,6 +7750,10 @@
           "MINING_SPEED": [
             0.25,
             25
+          ],
+          "MINING_FORTUNE": [
+            0,
+            0
           ]
         }
       },
@@ -7739,6 +7795,10 @@
           "MINING_SPEED": [
             0.25,
             25
+          ],
+          "MINING_FORTUNE": [
+            0,
+            0
           ]
         }
       },
@@ -7788,6 +7848,10 @@
           "MINING_SPEED": [
             0.25,
             25
+          ],
+          "MINING_FORTUNE": [
+            0,
+            0
           ]
         }
       },
@@ -7844,6 +7908,10 @@
           "MINING_SPEED": [
             0.25,
             25
+          ],
+          "MINING_FORTUNE": [
+            0,
+            0
           ]
         }
       }

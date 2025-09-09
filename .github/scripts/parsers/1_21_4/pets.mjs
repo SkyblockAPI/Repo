@@ -1,4 +1,5 @@
 import fs from "fs";
+import {checkPetVariables} from "../../tests/pet_variables.test.mjs";
 
 const RIGHT_CLICK_LORE_1 = "§7§eRight-click to add this pet to your";
 const RIGHT_CLICK_LORE_2 = "§7§eRight-click to add this pet to";
@@ -53,11 +54,24 @@ export const Pets = {
             }
         }
 
-        data.tiers[item.pet.tier] = {
+        const tier = {
             texture: item.nbt.SkullOwner.Properties.textures[0].Value,
             lore: lore,
             variables: getPetVariables(item.pet.type, item.pet.tier)
         }
+        const checks = checkPetVariables(tier);
+
+        if (checks.missing.length > 0) {
+            console.error(`[WARN] (Pets) Missing pet variables for ${petId} ${item.pet.tier}: ${checks.missing.join(", ")}`);
+            for (let missingVariable of checks.missing) {
+                tier.variables[missingVariable] = [0, 0];
+            }
+        }
+        if (checks.unused.length > 0) {
+            console.warn(`[WARN] (Pets) Unused pet variables for ${petId} ${item.pet.tier}: ${checks.unused.join(", ")}`);
+        }
+
+        data.tiers[item.pet.tier] = tier;
 
         petsFile[petId] = data
     },
