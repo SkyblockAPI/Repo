@@ -10227,34 +10227,6 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WATER_LILY",
-        "count": 64
-      },
-      {
-        "id": "FISHING_ROD",
-        "count": 1
-      }
-    ],
-    "pattern": [
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    "result": {
-      "id": "CHALLENGE_ROD",
-      "count": 1
-    }
-  },
-  {
-    "type": "crafting",
-    "keys": [
-      {
         "id": "ENCHANTED_WATER_LILY",
         "count": 1
       },
@@ -17089,7 +17061,7 @@
       }
     ],
     "result": {
-      "id": "GOD_POTION",
+      "id": "GOD_POTION_2",
       "count": 1
     }
   },

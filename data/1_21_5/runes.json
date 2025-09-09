@@ -70,6 +70,52 @@
         "",
         "§f§lCOMMON COSMETIC"
       ]
+    },
+    {
+      "tier": 2,
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1NTc1NTE1Mzc0OSwKICAicHJvZmlsZUlkIiA6ICIwMzBlMDA1OWQwY2M0YTZhODY3N2RkZWU3MjEzMjg1MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbXVnRm9vZGllIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc3MWNhZGVmNzU0NWZjYjg4MWE0ZWViYWFlYzkzZWYyZmE1ZjFlMGU5OWI2MGQyNjgwNWNmOWM2MDExM2Y0OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "§f◆ Fading White Rune II",
+      "lore": [
+        "§8Requires level 3",
+        "§8Throwing Axe",
+        "",
+        "§7Your axe fades into wonderful white",
+        "§7particles!",
+        "",
+        "§cThis rune effect uses latest",
+        "§cMinecraft version particles, and will",
+        "§cnot display those particles on older",
+        "§cversions.",
+        "",
+        "§7Apply this rune to throwing axe or",
+        "§7fuse two together at the Runic",
+        "§7Pedestal!",
+        "",
+        "§f§lCOMMON COSMETIC"
+      ]
+    },
+    {
+      "tier": 3,
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1NTc1NTE1Mzc0OSwKICAicHJvZmlsZUlkIiA6ICIwMzBlMDA1OWQwY2M0YTZhODY3N2RkZWU3MjEzMjg1MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbXVnRm9vZGllIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc3MWNhZGVmNzU0NWZjYjg4MWE0ZWViYWFlYzkzZWYyZmE1ZjFlMGU5OWI2MGQyNjgwNWNmOWM2MDExM2Y0OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "§f◆ Fading White Rune III",
+      "lore": [
+        "§8Requires level 3",
+        "§8Throwing Axe",
+        "",
+        "§7Your axe fades into wonderful white",
+        "§7particles!",
+        "",
+        "§cThis rune effect uses latest",
+        "§cMinecraft version particles, and will",
+        "§cnot display those particles on older",
+        "§cversions.",
+        "",
+        "§7Apply this rune to throwing axe or",
+        "§7fuse two together at the Runic",
+        "§7Pedestal!",
+        "",
+        "§f§lCOMMON COSMETIC"
+      ]
     }
   ],
   "BARK_TUNES": [
