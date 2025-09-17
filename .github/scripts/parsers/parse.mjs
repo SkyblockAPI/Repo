@@ -11,6 +11,7 @@ import {Enchantments } from "./1_21_4/enchantments.mjs";
 import { Attributes } from "./1_21_4/attributes.mjs";
 
 const isEntity = (file) => {
+    if (file.startsWith("PET_SKIN_")) return false;
     if (file.endsWith("_NPC.json")) return true;
     if (file.endsWith("_MONSTER.json")) return true;
     if (file.endsWith("_MINIBOSS.json")) return true;

@@ -3,6 +3,7 @@ import {checkPetVariables} from "../../tests/pet_variables.test.mjs";
 
 const RIGHT_CLICK_LORE_1 = "§7§eRight-click to add this pet to your";
 const RIGHT_CLICK_LORE_2 = "§7§eRight-click to add this pet to";
+const RIGHT_CLICK_LORE_3 = "§eRight-click to add this pet to your";
 
 const stats = JSON.parse(fs.readFileSync("neu/constants/petnums.json", "utf-8"));
 
@@ -45,7 +46,11 @@ export const Pets = {
 
         const lore = item.lore;
 
-        const rightClickLore1 = Math.max(lore.indexOf(RIGHT_CLICK_LORE_1), lore.indexOf(RIGHT_CLICK_LORE_2));
+        const rightClickLore1 = Math.max(
+            lore.indexOf(RIGHT_CLICK_LORE_1),
+            lore.indexOf(RIGHT_CLICK_LORE_2),
+            lore.indexOf(RIGHT_CLICK_LORE_3)
+        );
         if (rightClickLore1 !== -1) {
             if (rightClickLore1 > 1 && lore[rightClickLore1 - 1] === "") {
                 lore.splice(rightClickLore1 - 1, 3);

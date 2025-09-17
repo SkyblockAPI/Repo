@@ -25,9 +25,6 @@
           "§b+{2}☂ Fishing Speed§7, §f+{3}✦ Speed",
           "§7and §a+{4}❈ Defense§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -86,9 +83,6 @@
           "§7blocks. Enemies hit deal §a10% §7less",
           "§7damage for 10s.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -141,9 +135,6 @@
           "§7breaks all blocks in its path using",
           "§7your held item.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -170,9 +161,6 @@
           "§7While in the §5Crystal Hollows§7, this Pet",
           "§7breaks all blocks in its path using",
           "§7your held item.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -204,9 +192,6 @@
           "§6Rolling Miner",
           "§7Every §a{0} §7seconds, the next",
           "§dGemstone §7you mine gives §a2x §7drops",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -242,9 +227,6 @@
           "§6Rolling Miner",
           "§7Every §a{0} §7seconds, the next",
           "§dGemstone §7you mine gives §a2x §7drops",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -285,9 +267,6 @@
           "§7Grants §e+{1}▚ Mining Spread §7while",
           "§7mining Hard Stone.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -326,9 +305,6 @@
           "§6Ice Shields",
           "§7Gain §a{1}% §7of your §c❁ Strength §7as §a❈",
           "§aDefense§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -371,9 +347,6 @@
           "§6Yeti Fury",
           "§7Buffs the §6Yeti Sword §7by §a{2} §c❁ Damage",
           "§7and §b✎ Intelligence§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -422,9 +395,6 @@
           "§7While in the §5Crystal Hollows§7, killing",
           "§7mobs reduces your §c♨ Heat §7by §c{1}§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
@@ -466,9 +436,6 @@
           "§6Chimney",
           "§7Reduce Pickaxe Ability cooldowns by",
           "§a{2}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -513,9 +480,6 @@
           "§7Increases drop chance of candies",
           "§7from mobs by §a{0}%§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -545,9 +509,6 @@
           "§6Candy Lover",
           "§7Increases drop chance of candies",
           "§7from mobs by §a{0}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -582,9 +543,6 @@
           "§6Nightmare",
           "§7During night, gain §a{1} §b✎ Intelligence§7,",
           "§a{2} §f✦ Speed§7, and §aNight Vision§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -627,9 +585,6 @@
           "§6Nightmare",
           "§7During night, gain §a{1} §b✎ Intelligence§7,",
           "§a{2} §f✦ Speed§7, and §aNight Vision§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -676,9 +631,6 @@
           "§6Wings of Steel",
           "§7Deals §a+{3}% §7damage to §6Spooky",
           "§7enemies during the §6Spooky Festival§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
@@ -734,9 +686,6 @@
           "§6Sonar",
           "§a+{4}% §7chance to fish up spooky sea",
           "§7creatures",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§d§lMYTHIC"
         ],
@@ -797,9 +746,6 @@
           " §a+{2}❈ Defense",
           "§8Max 15 players",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -845,9 +791,6 @@
           " §c+{1}❁ Strength",
           " §a+{2}❈ Defense",
           "§8Max 15 players",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -903,9 +846,6 @@
           "§6☘ Farming Fortune",
           "§6☘ Foraging Fortune",
           "§6☘ Mining Fortune",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -989,9 +929,6 @@
           "§6☘ Farming Fortune",
           "§6☘ Foraging Fortune",
           "§6☘ Mining Fortune",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -1079,9 +1016,6 @@
           "§6Weaponized Honey",
           "§7Gain §a{4}% §7of received damage as §6❤",
           "§6Absorption§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -1549,9 +1483,6 @@
           "§6Supernatural",
           "§7Grants §b+{2}✯ Magic Find§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
         ],
@@ -1610,9 +1541,6 @@
           "§7Gain §c{3}% §7more collection items from",
           "§7monsters!",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§d§lMYTHIC"
         ],
         "variables": {
@@ -1669,9 +1597,6 @@
           "§7stats by §a{0}% §7while on the §cCrimson",
           "§cIsle§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -1702,9 +1627,6 @@
           "§7Increases §cCombat §7and §dMiscellaneous",
           "§7stats by §a{0}% §7while on the §cCrimson",
           "§cIsle§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -1740,9 +1662,6 @@
           "§6Bling Armor",
           "§7Upgrades §cBlaze Armor §7stats and",
           "§7ability by §a{1}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -1782,9 +1701,6 @@
           "§6Bling Armor",
           "§7Upgrades §cBlaze Armor §7stats and",
           "§7ability by §a{1}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -1828,9 +1744,6 @@
           "§6Fusion-Style Potato",
           "§7Double effects of hot potato books",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -1867,9 +1780,6 @@
           "",
           "§6Ingest",
           "§7All potions heal §c+{0}❤§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
@@ -1922,9 +1832,6 @@
           "§7Gain §a{1}❈ Defense §7per §c30 Max ❤",
           "§cHealth§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
         ],
@@ -1956,9 +1863,6 @@
           "§6Bulk",
           "§7Gain §a{1}❈ Defense §7per §c30 Max ❤",
           "§cHealth§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -1994,9 +1898,6 @@
           "",
           "§6Archimedes",
           "§7Gain §c+{2}% Max ❤ Health§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -2045,9 +1946,6 @@
           "§7Grants §6+{0}☘ Farming Fortune §7while",
           "§7on §bPublic Islands§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -2077,9 +1975,6 @@
           "§6Free Range",
           "§7Grants §6+{0}☘ Farming Fortune §7while",
           "§7on §bPublic Islands§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -2115,9 +2010,6 @@
           "§7Chickens always drop an §fEgg §7when",
           "§7killed. Grants a §a{1}% §7chance for",
           "§7animals to drop an additional item.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -2157,9 +2049,6 @@
           "§7Chickens always drop an §fEgg §7when",
           "§7killed. Grants a §a{1}% §7chance for",
           "§7animals to drop an additional item.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -2202,9 +2091,6 @@
           "",
           "§6Light Feet",
           "§7Reduces fall damage by §a{2}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -2250,9 +2136,6 @@
           "§7each player within §a30 §7blocks, up to §a5",
           "§7players.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -2283,9 +2166,6 @@
           "§7Grants §b+{0}☂ Fishing Speed §7for",
           "§7each player within §a30 §7blocks, up to §a5",
           "§7players.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -2320,9 +2200,6 @@
           "",
           "§6Echolocation",
           "§7Grants §3+{1}α Sea Creature Chance§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -2361,9 +2238,6 @@
           "",
           "§6Echolocation",
           "§7Grants §3+{1}α Sea Creature Chance§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -2406,9 +2280,6 @@
           "§6Splash Surprise",
           "§7Stun §3Sea Creatures §7for §a5s §7after",
           "§7fishing them up.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -2578,9 +2449,6 @@
           "§cFears §7killed, up to §a150 §cPrimal Fears§7.",
           "§cPrimal Fear Kills§7: (§a§k111§7/§a150§7)",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8§l* §8Soulbound §8§l*",
           "§6§lLEGENDARY"
         ],
@@ -2621,9 +2489,6 @@
           "§7Gain §a{0}❈ Defense §7for every 100 §f✦",
           "§fSpeed§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -2653,9 +2518,6 @@
           "§6Stomp",
           "§7Gain §a{0}❈ Defense §7for every 100 §f✦",
           "§fSpeed§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -2690,9 +2552,6 @@
           "§6Walking Fortress",
           "§7Gain §c{1}❤ Health §7for every 10 §a❈",
           "§aDefense§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -2731,9 +2590,6 @@
           "§6Walking Fortress",
           "§7Gain §c{1}❤ Health §7for every 10 §a❈",
           "§aDefense§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -2778,9 +2634,6 @@
           "§7increases your chance for multiple",
           "§7drops.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -2823,9 +2676,6 @@
           "§7Take §a{0}% §7less damage from §5⊙ Ender",
           "§7mobs",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -2850,9 +2700,6 @@
           "§6Enderian",
           "§7Take §a{0}% §7less damage from §5⊙ Ender",
           "§7mobs",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -2883,9 +2730,6 @@
           "§7Buffs the Transmission abilities",
           "§7granting §a{1} §7weapon damage for 5s",
           "§7on use",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -2924,9 +2768,6 @@
           "§7Buffs the Transmission abilities",
           "§7granting §a{1} §7weapon damage for 5s",
           "§7on use",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -2969,9 +2810,6 @@
           "§6Zealot Madness",
           "§7Increases your odds to find a",
           "§7special Zealot by §a{2}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
@@ -3019,9 +2857,6 @@
           "§7Gain §b{3}x §7Combat XP against",
           "§aEndermen§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§d§lMYTHIC"
         ],
         "variables": {
@@ -3065,9 +2900,6 @@
           "§7Gain more exp orbs for breaking end",
           "§7stone and gain a +§a{0}% §7chance to get",
           "§7an extra block dropped",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
@@ -3172,9 +3004,6 @@
           "§9Transmission Abilities §7cost §a{1}% §7less",
           "§7mana",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
@@ -3218,9 +3047,6 @@
           "§7Gain a §a{2}% §7chance to dig up a bonus",
           "§cNest Endermite §7per §d+1♣ Pet Luck",
           "§8(Stacks above 100%)",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
@@ -3275,9 +3101,6 @@
           "§7bonus items in the §cDraconic Altar §7by",
           "§a{3}%§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§d§lMYTHIC"
         ],
         "variables": {
@@ -3330,9 +3153,6 @@
           "§7Buffs the §6Aspect of the Dragons",
           "§7sword by §a{1} §c❁ Damage §7and §a{2} §c❁",
           "§cStrength§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -3390,9 +3210,6 @@
           "§7Increases all §cCombat §7stats and §b✯",
           "§bMagic Find §7by §a{3}%§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -3447,9 +3264,6 @@
           "§7Gives §a{1} §c❁ Strength §7and §a❈ Defense",
           "§7when near water",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
         ],
@@ -3486,9 +3300,6 @@
           "§6Water Bender",
           "§7Gives §a{1} §c❁ Strength §7and §a❈ Defense",
           "§7when near water",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -3530,9 +3341,6 @@
           "§6Deep Sea Diver",
           "§7Increases the stats of §aDiver Armor",
           "§7and §aAbyssal Armor §7by §a{2}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
@@ -3583,9 +3391,6 @@
           "§6Rapid Decay",
           "§7Increases the chance to activate",
           "§7the §d§lFlash Enchantment §7by §a{3}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§d§lMYTHIC"
         ],
@@ -3680,9 +3485,6 @@
           "§7Increases your chance to catch",
           "§2Forest §7Shards by §a{0}%§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -3717,9 +3519,6 @@
           "§6Hunting Enjoyer",
           "§7Increases your chance to catch",
           "§2Forest§7 and §bWater §7Shards by §a{0}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -3756,9 +3555,6 @@
           "§7Increases your chance to catch",
           "§2Forest§7, §bWater§7, and §cCombat §7Shards by",
           "§a{0}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -3799,9 +3595,6 @@
           "§6Hop",
           "§7Grants §6{1}☘ Foraging Fortune §7for",
           "§e20 §7seconds every time you jump.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -3851,9 +3644,6 @@
           "§7Grants §6{2}☘ Foraging Fortune §7for",
           "§7every other §2Frog Pet §7on the island,",
           "§7up to §b10 §7frogs.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -3972,9 +3762,6 @@
           "§7can store by §a2 §7and the chance of",
           "§7getting a mob's soul by §a{1}%§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
@@ -4034,9 +3821,6 @@
           "§7by §a{2}% §7and increases their damage",
           "§7output by §a{3}%§7. Increases the health",
           "§7of all summoned mobs by §a{4}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -4101,9 +3885,6 @@
           "§6Good Heart",
           "§7Grants §c+{0}❣ Health Regen",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -4137,9 +3918,6 @@
           "",
           "§6Good Heart",
           "§7Grants §c+{0}❣ Health Regen",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -4180,9 +3958,6 @@
           "§c❁ Strength §7by §c{1}% §7for every",
           "§e0.1Ⓢ Swing Range §7over §e3Ⓢ §7(up to",
           "§e6Ⓢ§7)",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -4227,9 +4002,6 @@
           "§c❁ Strength §7by §c{1}% §7for every",
           "§e0.1Ⓢ Swing Range §7over §e3Ⓢ §7(up to",
           "§e6Ⓢ§7)",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -4279,9 +4051,6 @@
           "§7Increases your melee damage by",
           "§c{2}% §7if you are more than 3 blocks",
           "§7away from the target",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -4392,9 +4161,6 @@
           "§7Gain §a{0}% §7more §bGlacite Powder §7from",
           "§7most sources.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -4424,9 +4190,6 @@
           "§6Powder-powered",
           "§7Gain §a{0}% §7more §bGlacite Powder §7from",
           "§7most sources.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -4461,9 +4224,6 @@
           "§6Iceborn",
           "§7Gain §a+{1} §6☘ Mining Fortune §7while in the",
           "§bGlacite Mineshafts§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -4502,9 +4262,6 @@
           "§6Iceborn",
           "§7Gain §a+{1} §6☘ Mining Fortune §7while in the",
           "§bGlacite Mineshafts§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -4552,9 +4309,6 @@
           "§7Gain §a+{2} §5✧ Pristine §7for every",
           "§bFrozen Corpse §7you've looted in the",
           "§7current §bGlacite Mineshaft§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -4606,9 +4360,6 @@
           "§6Free-range Eggs",
           "§7Increases the chance of finding",
           "§7rare goblin eggs by §a{2}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -4673,9 +4424,6 @@
           "§aDragon§7, gain §6+5 coins §7per monster",
           "§7kill for every other unique maxed",
           "§7Combat Pet that you own.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -4742,9 +4490,6 @@
           "§7attacks to ricochet and hit the",
           "§7attacker",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
@@ -4793,9 +4538,6 @@
           "§7Every 5 hits, throw the enemy up into",
           "§7the air and deal §a5x §7damage §8(5s",
           "§8cooldown)",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -5124,9 +4866,6 @@
           "§8This pet's perks are active even",
           "§8when the pet is not summoned!",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8§l* §8Soulbound §8§l*",
           "§6§lLEGENDARY"
         ],
@@ -5188,9 +4927,6 @@
           "§7and §6rewards §7based on your",
           "§7equipped Griffin's rarity.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§f§lCOMMON"
         ],
         "variables": {
@@ -5237,9 +4973,6 @@
           "§7Permanent §cRegeneration 5 §7and",
           "§4Strength 7§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§a§lUNCOMMON"
         ],
         "variables": {
@@ -5285,9 +5018,6 @@
           "§6Legendary Constitution",
           "§7Permanent §cRegeneration 6 §7and",
           "§4Strength 7§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§9§lRARE"
         ],
@@ -5339,9 +5069,6 @@
           "§7Heal nearby players for §a{0}% §7of",
           "§7the final damage you receive.",
           "§8Excludes other griffins.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§5§lEPIC"
         ],
@@ -5402,9 +5129,6 @@
           "§7Gain §c+{1}% ❁ Strength §7when above",
           "§c85% §7health.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -5456,9 +5180,6 @@
           "§7Zaps your enemies for §b{0}x §7your §b✎",
           "§bIntelligence §7every §a3s§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -5488,9 +5209,6 @@
           "§6Laserbeam",
           "§7Zaps your enemies for §b{0}x §7your §b✎",
           "§bIntelligence §7every §a3s§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -5529,9 +5247,6 @@
           "§6Enchanting Wisdom Boost",
           "§7Grants §3+{1}☯ Enchanting Wisdom§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
         ],
@@ -5568,9 +5283,6 @@
           "",
           "§6Enchanting Wisdom Boost",
           "§7Grants §3+{1}☯ Enchanting Wisdom§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -5612,9 +5324,6 @@
           "§6Mana Pool",
           "§7Regenerate §b{2}% §7extra mana, doubled",
           "§7when near or in water",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
@@ -5664,9 +5373,6 @@
           "§6Lucky Seven",
           "§7Gain §b+{3}% §7chance to find §5ultra rare",
           "§7books in §dSuperpairs§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§d§lMYTHIC"
         ],
@@ -5721,9 +5427,6 @@
           "§7Grants §6+{2}☘ Farming Fortune§7,",
           "§7tripled at §5night§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -5764,9 +5467,6 @@
           "§7Grants §b+{0}☂ Fishing Speed §7for §a30s",
           "§7upon catching §6Treasure§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -5801,9 +5501,6 @@
           "§6Comfort Zone",
           "§7Grants §b+{0}☂ Fishing Speed §7for §a30s",
           "§7upon catching §6Treasure§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -5843,9 +5540,6 @@
           "§6Seafloor Scalper",
           "§6Treasure §7catches are §a{1}% §7more",
           "§7likely to be §6§lGREAT §7or §d§lOUTSTANDING§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -5937,9 +5631,6 @@
           "§7for each player with a §aHermit Crab",
           "§aPet §7within §a30 §7blocks, up to §a5 §7players.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
         ],
@@ -5996,9 +5687,6 @@
           "§7Increases the chance of catching",
           "§dHotspot Sea Creatures §7by §a{3}%§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§d§lMYTHIC"
         ],
         "variables": {
@@ -6050,9 +5738,6 @@
           "§7Right-click your summoned pet to",
           "§7ride it!",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -6078,9 +5763,6 @@
           "§6Ridable",
           "§7Right-click your summoned pet to",
           "§7ride it!",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -6111,9 +5793,6 @@
           "§6Run",
           "§7Increases the speed of your mount",
           "§7by §a{0}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -6148,9 +5827,6 @@
           "§6Run",
           "§7Increases the speed of your mount",
           "§7by §a{0}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -6189,9 +5865,6 @@
           "§6Ride Into Battle",
           "§7While riding your horse, gain +§a{1}%",
           "§7bow damage.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -6236,9 +5909,6 @@
           "§6Finder",
           "§7Increases the chance for monsters",
           "§7to drop their armor by §a{1}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -6289,9 +5959,6 @@
           "",
           "§6Pack Slayer",
           "§7Gain §b{2}x §7Combat XP against §aWolves§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -6366,9 +6033,6 @@
           "§7every other unique maxed Foraging",
           "§7Pet that you own.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -6418,9 +6082,6 @@
           "§7of §aWish §7is reduced by §a{1}s§7, up to",
           "§a30s§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
@@ -6465,9 +6126,6 @@
           "§7While in dungeons, increase the",
           "§7effectiveness of Dungeon Potions by",
           "§a{2}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -6515,9 +6173,6 @@
           "§7Gain §a100% §7chance to receive a",
           "§7normal amount of drops from mobs",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -6550,9 +6205,6 @@
           "§6Jerry",
           "§7Gain §a100% §7chance to receive a",
           "§7normal amount of drops from mobs",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -6587,9 +6239,6 @@
           "§7Gain §a100% §7chance to receive a",
           "§7normal amount of drops from mobs",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
         ],
@@ -6622,9 +6271,6 @@
           "§6Jerry",
           "§7Gain §a100% §7chance to receive a",
           "§7normal amount of drops from mobs",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -6662,9 +6308,6 @@
           "§6Jerry",
           "§7Actually adds §c{0} damage §7to the",
           "§7Aspect of the Jerry",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
@@ -6711,9 +6354,6 @@
           "§7Tiny chance to find Jerry Candies",
           "§7when killing mobs",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§d§lMYTHIC"
         ],
         "variables": {
@@ -6755,9 +6395,6 @@
           "",
           "§8This pet only gains XP on the",
           "§cCrimson Isle§8!",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8§l* §8Soulbound §8§l*",
           "§f§lCOMMON"
@@ -6803,9 +6440,6 @@
           "",
           "§8This pet only gains XP on the",
           "§cCrimson Isle§8!",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8§l* §8Soulbound §8§l*",
           "§a§lUNCOMMON"
@@ -6855,9 +6489,6 @@
           "",
           "§8This pet only gains XP on the",
           "§cCrimson Isle§8!",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8§l* §8Soulbound §8§l*",
           "§9§lRARE"
@@ -6915,9 +6546,6 @@
           "",
           "§8This pet only gains XP on the",
           "§cCrimson Isle§8!",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8§l* §8Soulbound §8§l*",
           "§5§lEPIC"
@@ -6984,9 +6612,6 @@
           "§8This pet only gains XP on the",
           "§cCrimson Isle§8!",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8§l* §8Soulbound §8§l*",
           "§6§lLEGENDARY"
         ],
@@ -7040,9 +6665,6 @@
           "§7Adds §c+{0} ❁ Damage §7and §c+{1} ❁",
           "§cStrength §7to your weapons.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -7081,9 +6703,6 @@
           "§6Primal Force",
           "§7Adds §c+{0} ❁ Damage §7and §c+{1} ❁",
           "§cStrength §7to your weapons.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -7127,9 +6746,6 @@
           "§6First Pounce",
           "§7First Strike, Triple-Strike, and",
           "§d§lCombo §7are §a{2}% §7more effective.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -7177,9 +6793,6 @@
           "§6First Pounce",
           "§7First Strike, Triple-Strike, and",
           "§d§lCombo §7are §a{2}% §7more effective.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -7231,9 +6844,6 @@
           "§6King of the Jungle",
           "§7Deal §c+{3}% ❁ Damage §7against mobs",
           "§7that have attacked you.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -7321,9 +6931,6 @@
           "§7Slime and Magma Cube minions work",
           "§a{0}% §7faster while on your island",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
         ],
@@ -7361,9 +6968,6 @@
           "",
           "§6Salt Blade",
           "§7Deal §a{1}% §7more damage to slimes",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -7406,9 +7010,6 @@
           "",
           "§6Salt Blade",
           "§7Deal §a{1}% §7more damage to slimes",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -7455,9 +7056,6 @@
           "§6Hot Ember",
           "§7Buffs the stats of §5Rekindled Ember",
           "§5Armor §7by §a{2}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -7518,9 +7116,6 @@
           "§bFrozen Corpse §7looted in your",
           "§7current §bGlacite Mineshaft§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -7570,9 +7165,6 @@
           "§6Enhanced Scales",
           "§7Doubles the pet's base stats during",
           "§7the §bFishing Festival§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -7628,9 +7220,6 @@
           "§7Sharks during the §bFishing Festival §7by",
           "§a{1}%§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -7682,9 +7271,6 @@
           "§7Grants §6+{0}⸕ Mining Speed §7when mining",
           "§2Mithril§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -7718,9 +7304,6 @@
           "§6Mithril Affinity",
           "§7Grants §6+{0}⸕ Mining Speed §7when mining",
           "§2Mithril§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -7802,9 +7385,6 @@
           "§7Increases all §cCombat Stats §7by §a+{1}%",
           "§7on §bMining Islands§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
@@ -7850,9 +7430,6 @@
           "§6The Smell Of Powder",
           "§7Grants §2+{2}% ᠅ Mithril Powder §7from",
           "§7all sources.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
@@ -7907,9 +7484,6 @@
           "§6Refined Senses",
           "§7Grants §b+{3}% ✯ Magic Find §7while on",
           "§bMining Islands§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§d§lMYTHIC"
         ],
@@ -7970,9 +7544,6 @@
           "§6Nucleic Veins",
           "§7The §5Crystal Nucleus §7has a §a{2}%",
           "§7chance to drop an additional item.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -8052,9 +7623,6 @@
           "§7which increases your chance at",
           "§7double logs.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
         ],
@@ -8088,9 +7656,6 @@
           "",
           "§6Vine Swing",
           "§7Grants §f{1}✦ Speed §7while in §aThe Park§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -8129,9 +7694,6 @@
           "",
           "§6Vine Swing",
           "§7Grants §f{1}✦ Speed §7while in §aThe Park§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -8173,9 +7735,6 @@
           "",
           "§6Evolved Axes",
           "§7Grants §2+{2}∮ Sweep §7while in §aThe Park§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -8324,9 +7883,6 @@
           "§7is a §a{1}% §7chance that a mushroom will",
           "§7drop.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
@@ -8370,9 +7926,6 @@
           "§7Gain §6+0.7☘ Farming Fortune §7per",
           "§7every §c{2} ❁ Strength§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -8415,9 +7968,6 @@
           "§6Smooth Jazz",
           "§7Pest Vinyls are §a{0}% §7more effective.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -8446,9 +7996,6 @@
           "",
           "§6Smooth Jazz",
           "§7Pest Vinyls are §a{0}% §7more effective.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -8485,9 +8032,6 @@
           "§7in §aThe Garden§7.",
           "§8Your Bonus: 1.7 Sugar Cane Fortune",
           "§8Capped at 175 Fortune",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -8528,9 +8072,6 @@
           "§7in §aThe Garden§7.",
           "§8Your Bonus: 1.7 Sugar Cane Fortune",
           "§8Capped at 175 Fortune",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -8576,9 +8117,6 @@
           "§6The Primordial§7 is §a{2}%§7 more likely to",
           "§7cocoon mobs.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -8621,9 +8159,6 @@
           "§6Foraging Wisdom Boost",
           "§7Grants §3+{0}☯ Foraging Wisdom§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -8652,9 +8187,6 @@
           "",
           "§6Foraging Wisdom Boost",
           "§7Grants §3+{0}☯ Foraging Wisdom§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -8726,9 +8258,6 @@
           "§7Foraging minions work §a{1}% §7faster",
           "§7while on your island",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
@@ -8769,9 +8298,6 @@
           "§6Tree Essence",
           "§7Gain a §a{2}% §7chance to get exp from",
           "§7breaking a log",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -8831,9 +8357,6 @@
           "§8This pet's perks are active even",
           "§8when the pet is not summoned!",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -8867,9 +8390,6 @@
           "",
           "§6Repeat",
           "§7Boosts potions duration by §a{1}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -8917,9 +8437,6 @@
           "§7When summoned or in your Pets menu,",
           "§7boost the duration of consumed §cGod",
           "§cPotions §7and §cMixins §7by §a{3}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -8977,9 +8494,6 @@
           "§7Grants §b+{2}☂ Fishing Speed §7while in",
           "§7the §bGlacite Tunnels§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -9028,9 +8542,6 @@
           "§7On 4th melee strike, §6ignite §7mobs,",
           "§7dealing §c{2}x §7your §9☠ Crit Damage",
           "§7each second for §a{3} §7seconds",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -9087,9 +8598,6 @@
           "§6Eternal Coins",
           "§7Don't lose coins from death.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -9140,9 +8648,6 @@
           "§7Increases the speed of your mount",
           "§7by §a{0}%§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -9171,9 +8676,6 @@
           "§6Run",
           "§7Increases the speed of your mount",
           "§7by §a{0}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -9208,9 +8710,6 @@
           "§7While holding an §aEnchanted Carrot on",
           "§aa Stick§7, increases the speed of your",
           "§7mount by §a{1}%",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -9249,9 +8748,6 @@
           "§7While holding an §aEnchanted Carrot on",
           "§aa Stick§7, increases the speed of your",
           "§7mount by §a{1}%",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -9298,9 +8794,6 @@
           "§6Farming Fortune §7and §aFarming Exp",
           "§7gain is reduced by §a75%§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -9337,9 +8830,6 @@
           "§7Pig minions work §a{0}% §7faster while on",
           "§7your island",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -9374,9 +8864,6 @@
           "§6Bacon Farmer",
           "§7Pig minions work §a{0}% §7faster while on",
           "§7your island",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -9416,9 +8903,6 @@
           "§6Pork Master",
           "§7Buffs the §6Pigman Sword §7by §a{1} §c❁",
           "§cDamage §7and §a{2} §c❁ Strength§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -9466,9 +8950,6 @@
           "§6Pork Master",
           "§7Buffs the §6Pigman Sword §7by §a{1} §c❁",
           "§cDamage §7and §a{2} §c❁ Strength§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -9522,9 +9003,6 @@
           "§a50+§7 and §c+75% §7damage to monsters",
           "§7Level §a100+§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -9571,9 +9049,6 @@
           "§6Happy Feet",
           "§7Jump potions also give §a+{0} §7speed",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -9602,9 +9077,6 @@
           "",
           "§6Happy Feet",
           "§7Jump potions also give §a+{0} §7speed",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -9637,9 +9109,6 @@
           "",
           "§6Farming Wisdom Boost",
           "§7Grants §3+{1}☯ Farming Wisdom§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -9676,9 +9145,6 @@
           "",
           "§6Farming Wisdom Boost",
           "§7Grants §3+{1}☯ Farming Wisdom§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -9719,9 +9185,6 @@
           "§6Efficient Farming",
           "§7Farming minions work §a{2}% §7faster",
           "§7while on your island",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
@@ -9772,9 +9235,6 @@
           "§7production by §a+{3}x§7. Duplicate",
           "§aChocolate Rabbits §7that you find",
           "§7grant §6+{4}% Chocolate§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§d§lMYTHIC"
         ],
@@ -9840,9 +9300,6 @@
           "§7during this buff, you have a §a20%",
           "§7chance to get it too.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
         ],
@@ -9897,9 +9354,6 @@
           "§6Extreme Speed",
           "§7The Rat is TWO times faster AND can",
           "§7fly!",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§d§lMYTHIC"
         ],
@@ -9957,9 +9411,6 @@
           "§7Grants §a+{2}% §7chance of getting",
           "§7double §bIce Essence§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -10006,9 +9457,6 @@
           "§6Orbs are Fun",
           "§7Gain §a+10% §7experience from §bXP Orbs§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8§l* §8Soulbound §8§l*",
           "§5§kX§5 Rift-Transferable §r§kX",
           "§5§lEPIC"
@@ -10046,9 +9494,6 @@
           "§7Sneak to move your rock to your",
           "§7location (15s cooldown)",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -10078,9 +9523,6 @@
           "§6Sailing Stone",
           "§7Sneak to move your rock to your",
           "§7location (15s cooldown)",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -10115,9 +9557,6 @@
           "§6Fortify",
           "§7While sitting on your rock, gain +§a{0}%",
           "§7defense",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -10156,9 +9595,6 @@
           "§6Fortify",
           "§7While sitting on your rock, gain +§a{0}%",
           "§7defense",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -10202,9 +9638,6 @@
           "§7While sitting on your rock, deal §c+{1}x",
           "§7damage",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -10244,9 +9677,6 @@
           "§7Grants a §a+{0}% §7chance to find",
           "§eTreasure Chests §7while mining.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
         ],
@@ -10280,9 +9710,6 @@
           "§6Drill Infusion",
           "§7Grants §6+{1}☘ Gemstone Fortune §7to",
           "§7Drills.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -10325,9 +9752,6 @@
           "§6Bejeweled Eyes",
           "§7Earn §a+{2}% §dGemstone Powder §7from all",
           "§7sources.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -10372,9 +9796,6 @@
           "§7Reduces the mana cost of abilities by",
           "§a{0}%§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -10404,9 +9825,6 @@
           "§6Mana Saver",
           "§7Reduces the mana cost of abilities by",
           "§a{0}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -10483,9 +9901,6 @@
           "§7Gives a §a{1}% §7shield after not taking",
           "§7damage for 10s",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
@@ -10532,9 +9947,6 @@
           "§7Increases your total mana by §a{2}%",
           "§7while in dungeons",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -10580,9 +9992,6 @@
           "",
           "§6Magnetic",
           "§7Earn §a+{0}% §7more Exp when mining.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
@@ -10644,9 +10053,6 @@
           "§6Experienced Burrower",
           "§7Grants §3+{1}☯ Mining Wisdom§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
         ],
@@ -10682,9 +10088,6 @@
           "",
           "§6Experienced Burrower",
           "§7Grants §3+{1}☯ Mining Wisdom§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -10725,9 +10128,6 @@
           "§6Dexterity",
           "§7Grants §6+{2}⸕ Mining Speed §7and",
           "§7permanent §eHaste I§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -10776,9 +10176,6 @@
           "§7Increase arrow damage by §a{0}%",
           "§7which is doubled while in dungeons",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -10808,9 +10205,6 @@
           "§6Bone Arrows",
           "§7Increase arrow damage by §a{0}%",
           "§7which is doubled while in dungeons",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -10888,9 +10282,6 @@
           "§7stacks, stacks disappear after 8",
           "§7seconds.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
@@ -10936,9 +10327,6 @@
           "§7dealing §a30x §7your §9☠ Crit Damage",
           "§7when a mob gets close to you (5s",
           "§7cooldown).",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -10990,9 +10378,6 @@
           "§7While riding your horse, gain +§a{1}%",
           "§7bow damage.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -11035,9 +10420,6 @@
           "§6Pest Friends",
           "§7Grants §2+{1}ൠ Bonus Pest Chance§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
@@ -11079,9 +10461,6 @@
           "§7When farming in a plot affected by a",
           "§aSprayonator§7, gain §6+{2}☘ Farming",
           "§6Fortune§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -11126,9 +10505,6 @@
           "§9Red Sand Minions §7work §a{0}% §7faster",
           "§7while on your §bPrivate Island§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -11158,9 +10534,6 @@
           "§6Red Sand Enjoyer",
           "§9Red Sand Minions §7work §a{0}% §7faster",
           "§7while on your §bPrivate Island§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -11196,9 +10569,6 @@
           "§7Convert every §f{1}✦ Speed §7you",
           "§7have above §f100 §7into §6+1☘ Block",
           "§6Fortune§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -11238,9 +10608,6 @@
           "§7Convert every §f{1}✦ Speed §7you",
           "§7have above §f100 §7into §6+1☘ Block",
           "§6Fortune§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -11284,9 +10651,6 @@
           "§6Slimy Reach",
           "§7Grants §e+{2}▚ Mining Spread §7while",
           "§7mining §9Blocks§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -11344,9 +10708,6 @@
           "§7when you attack dealing §a{3}% §7of",
           "§7your last dealt melee damage,",
           "§7capped at §f200,000§7. §8(1s cooldown)",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
@@ -11412,9 +10773,6 @@
           "§7Your snowballs have §a50% §7chance of",
           "§7dealing §cdouble §7damage!",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§d§lMYTHIC"
         ],
         "variables": {
@@ -11467,9 +10825,6 @@
           "§4Arachnal Ж §7weapons, armor, and",
           "§7equipment you have equipped.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -11500,9 +10855,6 @@
           "§7Applies §c+{0}❁ Strength §7to all",
           "§4Arachnal Ж §7weapons, armor, and",
           "§7equipment you have equipped.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -11538,9 +10890,6 @@
           "§6Web-weaver",
           "§7Upon hitting a monster, it becomes",
           "§7slowed by §a{1}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -11580,9 +10929,6 @@
           "§6Web-weaver",
           "§7Upon hitting a monster, it becomes",
           "§7slowed by §a{1}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -11627,9 +10973,6 @@
           "§7Spider, Cave Spider and Tarantula",
           "§7minions work §a{2}% §7faster while on",
           "§7your island.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
@@ -11686,9 +11029,6 @@
           "§7where they died. §8Stacks up to 10",
           "§8times.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§d§lMYTHIC"
         ],
         "variables": {
@@ -11741,9 +11081,6 @@
           "§7base stats and stats granted by",
           "§7perks by §a{2}%§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -11794,9 +11131,6 @@
           "§8This pet's perks are active even",
           "§8when the pet is not summoned!",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
@@ -11839,9 +11173,6 @@
           "§8This pet's perks are active even",
           "§8when the pet is not summoned!",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -11877,9 +11208,6 @@
           "§7Gain a §a{0}% §7chance to get double",
           "§7drops from squids",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -11909,9 +11237,6 @@
           "§6More Ink",
           "§7Gain a §a{0}% §7chance to get double",
           "§7drops from squids",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -11946,9 +11271,6 @@
           "§6Ink Specialty",
           "§7Buffs the §5Ink Wand §7by §a{1} §c❁ Damage",
           "§7and §a{2} §c❁ Strength§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -11991,9 +11313,6 @@
           "§6Ink Specialty",
           "§7Buffs the §5Ink Wand §7by §a{1} §c❁ Damage",
           "§7and §a{2} §c❁ Strength§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -12039,9 +11358,6 @@
           "",
           "§6Fishing Wisdom Boost",
           "§7Grants §3+{3}☯ Fishing Wisdom§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -12111,9 +11427,6 @@
           "§6Ephemeral Stability",
           "§7Regenerate mana §b40% §7faster",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -12163,9 +11476,6 @@
           "§7Tarantula, Primordial and Spirit Boots",
           "§7by §a{1}%§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
@@ -12213,9 +11523,6 @@
           "§6Arachnid Slayer",
           "§7Gain §b{2}x §7Combat XP against",
           "§aSpiders§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
@@ -12276,9 +11583,6 @@
           "§7where they died. §8Stacks up to 10",
           "§8times.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§d§lMYTHIC"
         ],
         "variables": {
@@ -12327,9 +11631,6 @@
           "§6Merciless Swipe",
           "§7Gain §c+{0}% ⫽ Ferocity§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -12368,9 +11669,6 @@
           "",
           "§6Merciless Swipe",
           "§7Gain §c+{0}% ⫽ Ferocity§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -12414,9 +11712,6 @@
           "§6Hemorrhage",
           "§7Melee attacks reduce healing by §6{1}%",
           "§7for §a10s§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -12467,9 +11762,6 @@
           "",
           "§6Hemorrhage",
           "§7Melee attacks reduce healing by §6{1}%",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -12524,9 +11816,6 @@
           "§6Apex Predator",
           "§7Deal §c+{2}% §7damage against targets with",
           "§7no other mobs within §a15 §7blocks.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -12585,9 +11874,6 @@
           "§7Grants §a+{1}% ❈ Defense §7to 4",
           "§7players within 50 blocks of you.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
@@ -12640,9 +11926,6 @@
           "§a{2}% §7less damage. Gain §4+{3}♨",
           "§4Vitality §7for 15 seconds after taking",
           "§710 hits.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
@@ -12704,9 +11987,6 @@
           "§7Combat stats granted by pet items on",
           "§7this pet are increased by §a{2}%§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -12757,9 +12037,6 @@
           "§7Take §a{0}% §7less damage from §f🦴",
           "§fSkeletal §7mobs.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -12804,9 +12081,6 @@
           "§6Stronger Bones",
           "§7Take §a{0}% §7less damage from §f🦴",
           "§fSkeletal §7mobs.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -12856,9 +12130,6 @@
           "§6Wither Blood",
           "§7Deal §a{1}% §7more damage to §8☠ Wither",
           "§7mobs.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -12912,9 +12183,6 @@
           "§6Wither Blood",
           "§7Deal §a{1}% §7more damage to §8☠ Wither",
           "§7mobs.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -12975,9 +12243,6 @@
           "§7seconds",
           "§8Does not stack",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -13034,9 +12299,6 @@
           "§6Alpha Dog",
           "§7Take §a{0}% §7less damage from wolves",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -13075,9 +12337,6 @@
           "",
           "§6Alpha Dog",
           "§7Take §a{0}% §7less damage from wolves",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -13122,9 +12381,6 @@
           "§7Gain §a{1} §9☠ Crit Damage §7for every",
           "§7nearby wolf monster.",
           "§8Max 10 wolves",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -13177,9 +12433,6 @@
           "§7Gain §a{1} §9☠ Crit Damage §7for every",
           "§7nearby wolf monster.",
           "§8Max 10 wolves",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -13236,9 +12489,6 @@
           "§6Combat Wisdom Boost",
           "§7Grants §3+{2}☯ Combat Wisdom§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -13290,9 +12540,6 @@
           "§7Reduce the damage taken from",
           "§7zombies by §a{0}%§7.",
           "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -13322,9 +12569,6 @@
           "§6Bite Shield",
           "§7Reduce the damage taken from",
           "§7zombies by §a{0}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -13359,9 +12603,6 @@
           "§6Rotten Blade",
           "§7Deal §a{1}% §7more damage to §2༕ Undead",
           "§7mobs",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -13400,9 +12641,6 @@
           "§6Rotten Blade",
           "§7Deal §a{1}% §7more damage to §2༕ Undead",
           "§7mobs",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -13445,9 +12683,6 @@
           "§6Living Dead",
           "§7Increases all stats on §2Undead ༕",
           "§7armor by §a{2}%§7.",
-          "",
-          "§eRight-click to add this pet to your",
-          "§epet menu!",
           "",
           "§6§lLEGENDARY"
         ],
