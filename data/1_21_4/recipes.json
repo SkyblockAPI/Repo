@@ -6233,13 +6233,13 @@
     "input": {
       "type": "pet",
       "pet": "BLAZE",
-      "tier": "UNCOMMON",
+      "tier": "COMMON",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "BLAZE",
-      "tier": "RARE",
+      "tier": "UNCOMMON",
       "count": 1
     },
     "items": [
@@ -77813,6 +77813,48 @@
     ],
     "result": {
       "id": "ABIPHONE_FLIP_VOLCANO",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 100000000
+      }
+    ],
+    "result": {
+      "id": "ABIPHONE_FLIP_PLUS_LUNAR",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 100000000
+      }
+    ],
+    "result": {
+      "id": "ABIPHONE_FLIP_PLUS_FLOWER",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 100000000
+      }
+    ],
+    "result": {
+      "id": "ABIPHONE_FLIP_PLUS_CLOCKWORK",
       "count": 1
     }
   },
