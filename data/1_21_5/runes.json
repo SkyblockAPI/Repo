@@ -877,6 +877,27 @@
       ]
     }
   ],
+  "GRAND_LEAFING": [
+    {
+      "tier": 3,
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1Nzk1OTMzMTY5MCwKICAicHJvZmlsZUlkIiA6ICI1ZjU5NmViY2JlOTQ0NmQxYmI0M2JlNGYzZjRiOGJlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZWlsMHNzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y4YjYzOWFiNGY3NTA5M2I0YzNhNGM0OTk0MzE5YjVjYTViMWJhNWExNDMyNjUxZmI5ZDRmMDAzNWI4MTVkNjIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "§a◆ Grand Leaf-ing Rune III",
+      "lore": [
+        "§8Requires level 0",
+        "§8Chestplates",
+        "",
+        "§7Special §dCherry Blossom §7effect on",
+        "§2Foraging Islands§7! Obtained from the",
+        "§7Taylor Fall Bundle.",
+        "",
+        "§7Apply this rune to chestplates or",
+        "§7fuse two together at the Runic",
+        "§7Pedestal!",
+        "",
+        "§6§lLEGENDARY COSMETIC"
+      ]
+    }
+  ],
   "GRAND_SEARING": [
     {
       "tier": 3,
@@ -1565,18 +1586,16 @@
     },
     {
       "tier": 2,
-      "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE0MTM5OWU3OTFmNzk1YmJjNDc2YjU2OTZkNzUwNzg2NTY4NDdhNjliYmJiMzE3MzVmMWQ5MDU3OWZjZDA1NiJ9fX0=",
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTUwNDQyMzQyNiwKICAicHJvZmlsZUlkIiA6ICI0OWIzODUyNDdhMWY0NTM3YjBmN2MwZTFmMTVjMTc2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiY2QyMDMzYzYzZWM0YmY4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE0MTM5OWU3OTFmNzk1YmJjNDc2YjU2OTZkNzUwNzg2NTY4NDdhNjliYmJiMzE3MzVmMWQ5MDU3OWZjZDA1NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
       "name": "§a◆ Slimy Rune II",
       "lore": [
         "§8Requires level 5",
         "§8Bows",
         "",
-        "§7A squishy trail to follow your",
-        "§7arrows!",
+        "§7A squishy trail to follow your arrows!",
         "",
-        "§7Apply this rune to bows or fuse",
-        "§7two together at the Runic",
-        "§7Pedestal!",
+        "§7Apply this rune to bows or fuse two",
+        "§7together at the Runic Pedestal!",
         "",
         "§f§lCOMMON COSMETIC"
       ]
