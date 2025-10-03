@@ -1,5 +1,5 @@
 import fs from "fs";
-import {checkPetVariables} from "../../tests/pet_variables.test.mjs";
+import { checkPetVariables } from "../../tests/pet_variables.test.mjs";
 
 const RIGHT_CLICK_LORE_1 = "§7§eRight-click to add this pet to your";
 const RIGHT_CLICK_LORE_2 = "§7§eRight-click to add this pet to";
@@ -12,7 +12,7 @@ export const petIds = []
 
 const getPetVariables = (pet, tier) => {
     if (!stats[pet]) return {}
-    if (!stats[pet][tier]) {}
+    if (!stats[pet][tier]) return {}
 
     const variables = {};
     const min = stats[pet][tier]["1"];
@@ -64,6 +64,11 @@ export const Pets = {
             lore: lore,
             variables: getPetVariables(item.pet.type, item.pet.tier)
         }
+        const variablesOffset = stats[petId]?.[item.pet.tier]?.["stats_levelling_curve"]?.split(":") || [];
+        if (variablesOffset.length >= 2) {
+            tier.variablesOffset = parseInt(variablesOffset[0]) - 1;
+        }
+
         const checks = checkPetVariables(tier);
 
         if (checks.missing.length > 0) {
