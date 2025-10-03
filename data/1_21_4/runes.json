@@ -118,6 +118,31 @@
       ]
     }
   ],
+  "AXE_SOUL_SLICE": [
+    {
+      "tier": 3,
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1NTc1NTE1MjU2NywKICAicHJvZmlsZUlkIiA6ICI2YWVmMjM3Y2RhNDY0Y2QzYTdiZDcxYjg3YzFlMDEwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLYWlqdW5va2kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTkxMWQxOWMyOWYyOWExMWEyYTJhMjMxZDJkYWZhYWVkMDc4Y2ZhNzhhMWY0YmQ5NGVmNTYyNWIwNzZlYmNiNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "§6◆ Soul Slice Rune III",
+      "lore": [
+        "§8Requires level 0",
+        "§8Throwing Axe",
+        "",
+        "§7Your axe slices the very threads of",
+        "§7this reality. Obtained from Fire Sales.",
+        "",
+        "§cThis rune effect uses latest",
+        "§cMinecraft version particles, and will",
+        "§cnot display those particles on older",
+        "§cversions.",
+        "",
+        "§7Apply this rune to throwing axe or",
+        "§7fuse two together at the Runic",
+        "§7Pedestal!",
+        "",
+        "§6§lLEGENDARY COSMETIC"
+      ]
+    }
+  ],
   "BARK_TUNES": [
     {
       "tier": 3,
