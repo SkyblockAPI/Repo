@@ -45,6 +45,7 @@ export const Attributes = {
             lore: newLore,
             attribute_id: lastLine,
             shard_name: name.replace(/(§.)+/, ""),
+            shard_id: neuAttribute.bazaarName,
             name: item.displayname.substring(0, item.displayname.lastIndexOf(" ")).trim().replace(/§./g, ""),
             item: getItemId(item.itemid, item.damage),
             texture: item.nbt.SkullOwner ? item.nbt.SkullOwner.Properties.textures[0].Value : undefined,
