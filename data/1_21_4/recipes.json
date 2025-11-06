@@ -2076,6 +2076,98 @@
     }
   },
   {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "SORROW",
+        "count": 16
+      },
+      {
+        "id": "PLASMA",
+        "count": 16
+      },
+      {
+        "id": "ANGUISH_RING",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "ANGUISH_ARTIFACT",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "SORROW",
+        "count": 8
+      },
+      {
+        "id": "PLASMA",
+        "count": 8
+      },
+      {
+        "id": "ANGUISH_TALISMAN",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "ANGUISH_RING",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "SORROW",
+        "count": 4
+      },
+      {
+        "id": "PLASMA",
+        "count": 4
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      -1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "ANGUISH_TALISMAN",
+      "count": 1
+    }
+  },
+  {
     "type": "shop",
     "inputs": [
       {
@@ -2750,6 +2842,46 @@
     ],
     "result": {
       "id": "APEX_PRAEDATOR",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_ANCIENT_CLAW",
+        "count": 2
+      },
+      {
+        "id": "GRIFFIN_FEATHER",
+        "count": 32
+      },
+      {
+        "id": "ENCHANTED_GOLD_BLOCK",
+        "count": 1
+      },
+      {
+        "id": "ANCESTRAL_SPADE",
+        "count": 1
+      },
+      {
+        "id": "HILT_OF_REVELATIONS",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      0,
+      4,
+      0
+    ],
+    "result": {
+      "id": "ARCHAIC_SPADE",
       "count": 1
     }
   },
@@ -10227,6 +10359,258 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "ENCHANTED_GOLD",
+        "count": 16
+      },
+      {
+        "id": "GRIFFIN_FEATHER",
+        "count": 2
+      },
+      {
+        "id": "ANCIENT_CLAW",
+        "count": 64
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      0,
+      1,
+      2,
+      1
+    ],
+    "result": {
+      "id": "CHALLENGER_BELT",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_GOLD",
+        "count": 32
+      },
+      {
+        "id": "GRIFFIN_FEATHER",
+        "count": 2
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      0,
+      1,
+      -1,
+      1
+    ],
+    "result": {
+      "id": "CHALLENGER_BOOTS",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_GOLD",
+        "count": 16
+      },
+      {
+        "id": "GRIFFIN_FEATHER",
+        "count": 1
+      },
+      {
+        "id": "ANCIENT_CLAW",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      -1,
+      1,
+      2,
+      1,
+      2
+    ],
+    "result": {
+      "id": "CHALLENGER_BRACELET",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_GOLD",
+        "count": 16
+      },
+      {
+        "id": "GRIFFIN_FEATHER",
+        "count": 1
+      },
+      {
+        "id": "ANCIENT_CLAW",
+        "count": 64
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      2,
+      1
+    ],
+    "result": {
+      "id": "CHALLENGER_CHESTPLATE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_GOLD",
+        "count": 16
+      },
+      {
+        "id": "ANCIENT_CLAW",
+        "count": 32
+      },
+      {
+        "id": "GRIFFIN_FEATHER",
+        "count": 2
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      1,
+      0,
+      1,
+      2,
+      -1,
+      2
+    ],
+    "result": {
+      "id": "CHALLENGER_CLOAK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_GOLD",
+        "count": 16
+      },
+      {
+        "id": "GRIFFIN_FEATHER",
+        "count": 4
+      },
+      {
+        "id": "ANCIENT_CLAW",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      -1,
+      2,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "CHALLENGER_HELMET",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ANCIENT_CLAW",
+        "count": 64
+      },
+      {
+        "id": "ENCHANTED_GOLD",
+        "count": 16
+      },
+      {
+        "id": "GRIFFIN_FEATHER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      -1,
+      2,
+      2,
+      -1,
+      2
+    ],
+    "result": {
+      "id": "CHALLENGER_LEGGINGS",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "GRIFFIN_FEATHER",
+        "count": 2
+      },
+      {
+        "id": "ANCIENT_CLAW",
+        "count": 32
+      },
+      {
+        "id": "ENCHANTED_GOLD",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      0,
+      1,
+      -1,
+      1,
+      -1,
+      2,
+      -1
+    ],
+    "result": {
+      "id": "CHALLENGER_NECKLACE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_WATER_LILY",
         "count": 1
       },
@@ -14000,6 +14384,46 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "MYTHOS_FRAGMENT",
+        "count": 1
+      },
+      {
+        "id": "GRIFFIN_FEATHER",
+        "count": 64
+      },
+      {
+        "id": "ENCHANTED_PAPER",
+        "count": 64
+      },
+      {
+        "id": "DAEDALUS_STICK",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_ANCIENT_CLAW",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      0,
+      4,
+      0
+    ],
+    "result": {
+      "id": "DAEDALUS_NOTES",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "WEB",
         "count": 16
       },
@@ -14779,6 +15203,50 @@
     ],
     "result": {
       "id": "DEEP_OCEAN_BIOME_STICK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_ANCIENT_CLAW",
+        "count": 64
+      },
+      {
+        "id": "BRAIDED_GRIFFIN_FEATHER",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_GOLD_BLOCK",
+        "count": 64
+      },
+      {
+        "id": "ARCHAIC_SPADE",
+        "count": 1
+      },
+      {
+        "id": "MYTHOS_FRAGMENT",
+        "count": 8
+      },
+      {
+        "id": "HILT_OF_REVELATIONS",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      4,
+      5,
+      4
+    ],
+    "result": {
+      "id": "DEIFIC_SPADE",
       "count": 1
     }
   },
@@ -30793,6 +31261,42 @@
     }
   },
   {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_WOOL",
+        "count": 64
+      },
+      {
+        "id": "SHIMMERING_WOOL",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_GOLD_BLOCK",
+        "count": 64
+      },
+      {
+        "id": "BRAIDED_GRIFFIN_FEATHER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      2,
+      -1,
+      2
+    ],
+    "result": {
+      "id": "GOLDEN_FLEECE",
+      "count": 1
+    }
+  },
+  {
     "type": "forge",
     "inputs": [
       {
@@ -32317,11 +32821,11 @@
     "keys": [
       {
         "id": "GRIFFIN_FEATHER",
-        "count": 16
+        "count": 32
       },
       {
-        "id": "ENCHANTED_GOLD_BLOCK",
-        "count": 6
+        "id": "MYTHOS_FRAGMENT",
+        "count": 4
       },
       {
         "id": "ENCHANTED_ANCIENT_CLAW",
@@ -32330,6 +32834,10 @@
       {
         "id": "BASE_GRIFFIN_UPGRADE_STONE",
         "count": 1
+      },
+      {
+        "id": "ENCHANTED_GOLD_BLOCK",
+        "count": 4
       }
     ],
     "pattern": [
@@ -32339,9 +32847,9 @@
       2,
       3,
       2,
-      0,
-      1,
-      0
+      4,
+      4,
+      4
     ],
     "result": {
       "id": "GRIFFIN_UPGRADE_STONE_EPIC",
@@ -32353,19 +32861,23 @@
     "keys": [
       {
         "id": "GRIFFIN_FEATHER",
-        "count": 32
+        "count": 64
+      },
+      {
+        "id": "MYTHOS_FRAGMENT",
+        "count": 16
       },
       {
         "id": "ENCHANTED_ANCIENT_CLAW",
-        "count": 8
-      },
-      {
-        "id": "ENCHANTED_GOLD_BLOCK",
-        "count": 64
+        "count": 16
       },
       {
         "id": "BASE_GRIFFIN_UPGRADE_STONE",
         "count": 1
+      },
+      {
+        "id": "ENCHANTED_GOLD_BLOCK",
+        "count": 32
       }
     ],
     "pattern": [
@@ -32375,9 +32887,9 @@
       2,
       3,
       2,
-      0,
-      1,
-      0
+      4,
+      4,
+      4
     ],
     "result": {
       "id": "GRIFFIN_UPGRADE_STONE_LEGENDARY",
@@ -32388,12 +32900,52 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "GRIFFIN_FEATHER",
-        "count": 4
+        "id": "BRAIDED_GRIFFIN_FEATHER",
+        "count": 1
+      },
+      {
+        "id": "MYTHOS_FRAGMENT",
+        "count": 48
+      },
+      {
+        "id": "ENCHANTED_ANCIENT_CLAW",
+        "count": 64
+      },
+      {
+        "id": "BASE_GRIFFIN_UPGRADE_STONE",
+        "count": 1
       },
       {
         "id": "ENCHANTED_GOLD_BLOCK",
-        "count": 2
+        "count": 64
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      4,
+      4,
+      4
+    ],
+    "result": {
+      "id": "GRIFFIN_UPGRADE_STONE_MYTHIC",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "GRIFFIN_FEATHER",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_GOLD_BLOCK",
+        "count": 1
       },
       {
         "id": "ANCIENT_CLAW",
@@ -32411,9 +32963,9 @@
       2,
       3,
       2,
-      0,
       1,
-      0
+      1,
+      1
     ],
     "result": {
       "id": "GRIFFIN_UPGRADE_STONE_RARE",
@@ -32425,11 +32977,11 @@
     "keys": [
       {
         "id": "GRIFFIN_FEATHER",
-        "count": 2
+        "count": 4
       },
       {
         "id": "ENCHANTED_GOLD",
-        "count": 24
+        "count": 16
       },
       {
         "id": "ANCIENT_CLAW",
@@ -32447,9 +32999,9 @@
       2,
       3,
       2,
-      0,
       1,
-      0
+      1,
+      1
     ],
     "result": {
       "id": "GRIFFIN_UPGRADE_STONE_UNCOMMON",
@@ -33771,6 +34323,214 @@
     ],
     "result": {
       "id": "HEMOGLASS",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "BRAIDED_GRIFFIN_FEATHER",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_GOLD_BLOCK",
+        "count": 64
+      },
+      {
+        "id": "ZOG_ANVIL",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_ANCIENT_CLAW",
+        "count": 64
+      },
+      {
+        "id": "MYTHOS_FRAGMENT",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      -1,
+      2,
+      -1,
+      3,
+      4,
+      3
+    ],
+    "result": {
+      "id": "HEPHAESTUS_ANVIL",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "CROCHET_TIGER_PLUSHIE",
+        "count": 1
+      },
+      {
+        "id": "HEPHAESTUS_ANVIL",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      1,
+      0,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "HEPHAESTUS_PLUSHIE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "MINOS_RELIC",
+        "count": 1
+      },
+      {
+        "id": "HEPHAESTUS_ANVIL",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      1,
+      0,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "HEPHAESTUS_RELIC",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ANTIQUE_REMEDIES",
+        "count": 1
+      },
+      {
+        "id": "HEPHAESTUS_ANVIL",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      1,
+      0,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "HEPHAESTUS_REMEDIES",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "DWARF_TURTLE_SHELMET",
+        "count": 1
+      },
+      {
+        "id": "HEPHAESTUS_ANVIL",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      1,
+      0,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "HEPHAESTUS_SHELMET",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "WASHED_UP_SOUVENIR",
+        "count": 1
+      },
+      {
+        "id": "HEPHAESTUS_ANVIL",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      1,
+      0,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "HEPHAESTUS_SOUVENIR",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "CRETAN_URN",
+        "count": 1
+      },
+      {
+        "id": "HEPHAESTUS_ANVIL",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      1,
+      0,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "HEPHAESTUS_URN",
       "count": 1
     }
   },
@@ -43992,6 +44752,38 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "ENCHANTED_ANCIENT_CLAW",
+        "count": 64
+      },
+      {
+        "id": "MANTI_CORE",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_GOLD_BLOCK",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      0,
+      0,
+      1,
+      0,
+      2,
+      0,
+      2
+    ],
+    "result": {
+      "id": "MANTICORE_CLAW",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "PAPER",
         "count": 1
       },
@@ -48534,6 +49326,294 @@
     ],
     "result": {
       "id": "MYCELIUM_GENERATOR_9",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_ANCIENT_CLAW",
+        "count": 32
+      },
+      {
+        "id": "ENCHANTED_GOLD_BLOCK",
+        "count": 8
+      },
+      {
+        "id": "CHALLENGER_BELT",
+        "count": 1
+      },
+      {
+        "id": "GRIFFIN_FEATHER",
+        "count": 32
+      },
+      {
+        "id": "MYTHOS_FRAGMENT",
+        "count": 4
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      1,
+      2,
+      1,
+      3,
+      4,
+      3
+    ],
+    "result": {
+      "id": "MYTHOS_BELT",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "MYTHOS_FRAGMENT",
+        "count": 2
+      },
+      {
+        "id": "ENCHANTED_ANCIENT_CLAW",
+        "count": 16
+      },
+      {
+        "id": "CHALLENGER_BOOTS",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      1,
+      2,
+      1,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "MYTHOS_BOOTS",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_GOLD_BLOCK",
+        "count": 8
+      },
+      {
+        "id": "MYTHOS_FRAGMENT",
+        "count": 4
+      },
+      {
+        "id": "ENCHANTED_ANCIENT_CLAW",
+        "count": 16
+      },
+      {
+        "id": "GRIFFIN_FEATHER",
+        "count": 32
+      },
+      {
+        "id": "CHALLENGER_BRACELET",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      -1,
+      2,
+      3,
+      4,
+      3
+    ],
+    "result": {
+      "id": "MYTHOS_BRACELET",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "MYTHOS_FRAGMENT",
+        "count": 2
+      },
+      {
+        "id": "ENCHANTED_GOLD_BLOCK",
+        "count": 16
+      },
+      {
+        "id": "CHALLENGER_CHESTPLATE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      1,
+      2,
+      1,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "MYTHOS_CHESTPLATE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_GOLD_BLOCK",
+        "count": 8
+      },
+      {
+        "id": "MYTHOS_FRAGMENT",
+        "count": 4
+      },
+      {
+        "id": "ENCHANTED_ANCIENT_CLAW",
+        "count": 16
+      },
+      {
+        "id": "CHALLENGER_CLOAK",
+        "count": 1
+      },
+      {
+        "id": "GRIFFIN_FEATHER",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      4,
+      -1,
+      4
+    ],
+    "result": {
+      "id": "MYTHOS_CLOAK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "MYTHOS_FRAGMENT",
+        "count": 2
+      },
+      {
+        "id": "ENCHANTED_ANCIENT_CLAW",
+        "count": 32
+      },
+      {
+        "id": "CHALLENGER_HELMET",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      1,
+      2,
+      1,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "MYTHOS_HELMET",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "MYTHOS_FRAGMENT",
+        "count": 2
+      },
+      {
+        "id": "GRIFFIN_FEATHER",
+        "count": 32
+      },
+      {
+        "id": "CHALLENGER_LEGGINGS",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      1,
+      2,
+      1,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "MYTHOS_LEGGINGS",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_GOLD_BLOCK",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_ANCIENT_CLAW",
+        "count": 16
+      },
+      {
+        "id": "MYTHOS_FRAGMENT",
+        "count": 4
+      },
+      {
+        "id": "GRIFFIN_FEATHER",
+        "count": 32
+      },
+      {
+        "id": "CHALLENGER_NECKLACE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      0,
+      1,
+      2,
+      1,
+      3,
+      4,
+      3
+    ],
+    "result": {
+      "id": "MYTHOS_NECKLACE",
       "count": 1
     }
   },
@@ -69333,7 +70413,7 @@
       },
       {
         "id": "SOUL_STRING",
-        "count": 6
+        "count": 16
       },
       {
         "id": "ENCHANTED_SPIDER_EYE",
@@ -72446,7 +73526,7 @@
       },
       {
         "id": "SOUL_STRING",
-        "count": 50
+        "count": 64
       },
       {
         "id": "DARK_QUEENS_SOUL_DROP",
@@ -72566,7 +73646,7 @@
       },
       {
         "id": "SOUL_STRING",
-        "count": 50
+        "count": 64
       },
       {
         "id": "DARK_QUEENS_SOUL_DROP",
@@ -74197,7 +75277,7 @@
     "keys": [
       {
         "id": "GRIFFIN_FEATHER",
-        "count": 32
+        "count": 2
       },
       {
         "id": "ENCHANTED_ANCIENT_CLAW",
@@ -74205,10 +75285,10 @@
       },
       {
         "id": "ENCHANTED_GOLD_BLOCK",
-        "count": 8
+        "count": 1
       },
       {
-        "id": "STICK",
+        "id": "HILT_OF_REVELATIONS",
         "count": 1
       }
     ],
@@ -77594,6 +78674,314 @@
     }
   },
   {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "WET_PUMPKIN",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "GREAT_SPOOK_HELMET",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "DECAYED_BAT",
+        "count": 5
+      }
+    ],
+    "result": {
+      "id": "GREAT_SPOOK_CHESTPLATE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "POISONED_CANDY",
+        "count": 5
+      }
+    ],
+    "result": {
+      "id": "GREAT_SPOOK_LEGGINGS",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SWEET_FLESH",
+        "count": 12
+      }
+    ],
+    "result": {
+      "id": "GREAT_SPOOK_BOOTS",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "FROZEN_SPIDER",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "GREAT_SPOOK_STAFF",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "ROGUE_FLESH",
+        "count": 2
+      }
+    ],
+    "result": {
+      "id": "GREAT_SPOOK_BELT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "PRECIOUS",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "GREAT_SPOOK_CLOAK",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "OBSCURE_ENDING",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "GREAT_SPOOK_NECKLACE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "BETRAYAL_HEAD",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "GREAT_SPOOK_GLOVES",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "DEAD_SEED",
+        "count": 5
+      }
+    ],
+    "result": {
+      "id": "GREAT_SPOOK_SWORD",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "FAIRY_WINGS",
+        "count": 5
+      }
+    ],
+    "result": {
+      "id": "GREAT_SPOOK_TALISMAN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "GREAT_SPOOK_TALISMAN",
+        "count": 1
+      },
+      {
+        "id": "FREE_SPIDER",
+        "count": 2
+      }
+    ],
+    "result": {
+      "id": "GREAT_SPOOK_RING",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "GREAT_SPOOK_RING",
+        "count": 1
+      },
+      {
+        "id": "BREAD",
+        "count": 2
+      },
+      {
+        "id": "BUILDER_ONION",
+        "count": 1
+      },
+      {
+        "id": "CHEESE_FUEL",
+        "count": 1
+      },
+      {
+        "id": "BUILDER_LETTUCE",
+        "count": 1
+      },
+      {
+        "id": "COOKED_BEEF",
+        "count": 1
+      },
+      {
+        "id": "FRENCH_FRIES",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "GREAT_SPOOK_ARTIFACT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "EPHEMERAL_GRATITUDE",
+        "count": 2
+      }
+    ],
+    "result": {
+      "type": "pet",
+      "pet": "EERIE",
+      "tier": "UNCOMMON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SEWER_FISH",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "EERIE_TREAT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "NIGHTMARE_NULLIFIER",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "EERIE_TOY",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "THE_SOUP_PAINTING",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "GREAT_SPOOK_REFORGING_MANUAL",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10000
+      }
+    ],
+    "result": {
+      "id": "BOO_STONE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 20000
+      }
+    ],
+    "result": {
+      "id": "GREAT_SPOOK_POTION",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SIRIUS_BOOK",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "SCARY_GRIMOIRE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 30000
+      }
+    ],
+    "result": {
+      "type": "enchantment",
+      "id": "GREAT_SPOOK",
+      "level": 1,
+      "count": 1
+    }
+  },
+  {
     "type": "forge",
     "inputs": [
       {
@@ -78963,6 +80351,91 @@
     }
   },
   {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "DARK_CANDY",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "SCARE_FRAGMENT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "DARK_CANDY",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "EXPIRED_PUMPKIN",
+      "count": 30
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "DARK_CANDY",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "BLACK_WOOLEN_YARN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "DARK_CANDY",
+        "count": 150
+      }
+    ],
+    "result": {
+      "id": "SLEEPY_HOLLOW",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "DARK_CANDY",
+        "count": 170
+      }
+    ],
+    "result": {
+      "id": "SPOOKY_TREE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "DARK_CANDY",
+        "count": 200
+      },
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 9700000
+      }
+    ],
+    "result": {
+      "type": "enchantment",
+      "id": "SYPHON",
+      "level": 5,
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {
@@ -79029,7 +80502,7 @@
       },
       {
         "id": "SOUL_STRING",
-        "count": 10
+        "count": 16
       },
       {
         "id": "ENCHANTED_SPIDER_EYE",
@@ -79061,11 +80534,11 @@
       },
       {
         "id": "SOUL_STRING",
-        "count": 10
+        "count": 16
       },
       {
         "id": "ENCHANTED_SPIDER_EYE",
-        "count": 10
+        "count": 16
       }
     ],
     "pattern": [

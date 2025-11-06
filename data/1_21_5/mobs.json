@@ -2491,6 +2491,16 @@
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY0MjE3MTI5NzQ5MiwKICAicHJvZmlsZUlkIiA6ICJiNjc3NTgwYzExYmU0ZjNiODI1OGM0YjBkNzNhNzg0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJPZmZpY2lhbGx5SksiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODYyZjQwODMzNzM0ZjdkOWZmYTVlODEwMDVlOWIzMTIzNDgxNTE4ODYyODk4MDA3NzI2N2YxM2MwZTU2MGVjNiIKICAgIH0KICB9Cn0=",
     "name": "Hydrospear"
   },
+  "IAN_NPC": {
+    "island": "mining_3",
+    "position": {
+      "x": -68,
+      "y": 221,
+      "z": -122
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDE5MWI5MGNjOTg5NzhmOTRkNTVmNTFkZjVkZGQ4N2RjNTVjMzhjYTc1NDU0ZThmNWQ0NmJiNTIyNGRlMTg2OCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJlMjkxMjM0MzMxM2IyNWQ3YmZlMGFjOTVlYjA5NmE5YyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzYxMDkyNTM5NjYwfQ==",
+    "name": "Ian"
+  },
   "ICE_WALKER_MONSTER": {
     "name": "Glacite Walker"
   },
@@ -2562,6 +2572,26 @@
   },
   "ISLAND_NPC": {
     "name": "§9Island NPC"
+  },
+  "IVAN_NPC": {
+    "island": "mining_3",
+    "position": {
+      "x": -63,
+      "y": 221,
+      "z": -132
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjFlOGQ1YmJjMWNiYzJmNGU3Y2Q3OGVhYTEwNTU3Y2M0ZjhmOTM2Yzc2NDEzNzYwYWMwMDA5OGQ0YmQ0NTE4NyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIzNDIyODFhNDk2MDUyNjRlYjJlODQyNjRjNzA0YjlkOCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzYxMDkyNTI5NTk4fQ==",
+    "name": "Ivan"
+  },
+  "IVY_NPC": {
+    "island": "mining_3",
+    "position": {
+      "x": -73,
+      "y": 221,
+      "z": -136
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDAzNWFkNmNlMDExM2FmNDU0MjljZDVmNThlN2EwMmFlOTI2OTg0Y2YxOWRhOGU0NjcyNGJkZWM5ZDcwNGZlMyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJiNzM2MzI5MDMxYzMyZTE1OTFkNjBjMWE5NTA4NTFjZCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzYxMDkyNTIzMDc1fQ==",
+    "name": "Ivy"
   },
   "JACK_NPC": {
     "island": "hub",
@@ -5186,6 +5216,16 @@
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmI5NWRjMDBiZTQxOTIxOGRhM2VjMTY2ODVjZjA5OTAyYzE5M2YwMDRhMDlmNGY3M2VhYTJiOWRkMTA4MGM1ZSJ9fX0=",
     "name": "ttemme .rD"
   },
+  "TYASHOI_ALCHEMIST_NPC": {
+    "island": "hub",
+    "position": {
+      "x": 41,
+      "y": 68,
+      "z": -56
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzdiNDA2MDc0YjA2YmUzYWM5MWY1ZTk5Nzc0NDE2NzEwYWFiYzIyMTBhMmZiNjdhNzYyMDUxZDViNTYwYWQ4NCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJhYTFiOTAxMThkYTgyYmZmODQyMjE5YjQzZjU0YjllOCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzYwNjYwMDE2NzI4fQ==",
+    "name": "Tyashoi Alchemist"
+  },
   "TYBALT_RIFT_NPC": {
     "island": "rift",
     "position": {
@@ -5293,6 +5333,9 @@
   },
   "VANQUISHER_MONSTER": {
     "name": "Vanquisher"
+  },
+  "VARGUL_NPC": {
+    "name": "Vargul"
   },
   "VELYNA_NPC": {
     "island": "crimson_isle",
