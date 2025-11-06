@@ -23,6 +23,10 @@ const isEntity = (file) => {
 
 const post = []
 for (let file of fs.readdirSync("neu/items")) {
+    if (!file.endsWith(".json")) {
+        console.error("[WARN] (Parse) Skipping non-json file found in items directory: " + file);
+        continue;
+    }
     const data = JSON.parse(fs.readFileSync(`./neu/items/${file}`, "utf-8"));
     data.nbt = decode(data.nbttag);
 
