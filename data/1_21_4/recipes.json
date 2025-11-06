@@ -12700,7 +12700,7 @@
     "keys": [
       {
         "id": "ENCHANTED_LEATHER",
-        "count": 32
+        "count": 64
       },
       {
         "id": "COW_GENERATOR_10",
@@ -26607,6 +26607,20 @@
     ],
     "result": {
       "id": "ANGLER_BELT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "RAW_FISH",
       "count": 1
     }
   },
@@ -58761,7 +58775,7 @@
     "keys": [
       {
         "id": "HALLOWED_SKULL",
-        "count": 5
+        "count": 10
       },
       {
         "id": "STICK",
@@ -58769,12 +58783,12 @@
       }
     ],
     "pattern": [
-      0,
-      0,
+      -1,
       0,
       -1,
-      1,
+      -1,
       0,
+      -1,
       -1,
       1,
       -1
@@ -63114,23 +63128,19 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_EMERALD",
-        "count": 32
+        "id": "SPIDER_CATALYST",
+        "count": 1
       },
       {
-        "id": "TARANTULA_SILK",
-        "count": 16
-      },
-      {
-        "id": "ENCHANTED_GOLD",
-        "count": 32
+        "id": "TARANTULA_WEB",
+        "count": 1
       }
     ],
     "pattern": [
       -1,
       0,
       1,
-      2,
+      0,
       -1,
       1,
       -1,
@@ -76767,22 +76777,6 @@
       "type": "enchantment",
       "id": "PROTECTION",
       "level": 6,
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 25000000
-      }
-    ],
-    "result": {
-      "type": "enchantment",
-      "id": "SMITE",
-      "level": 7,
       "count": 1
     }
   },

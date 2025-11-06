@@ -283,6 +283,56 @@
             200
           ]
         }
+      },
+      "MYTHIC": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYyMDEyMDEyODM2OCwKICAicHJvZmlsZUlkIiA6ICJmNDY0NTcxNDNkMTU0ZmEwOTkxNjBlNGJmNzI3ZGNiOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWxhcGFnbzA1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MxZWI2ZGY0NzM2YWUyNGRkMTJhM2QwMGY5MWU2ZTNhYTdhZGU2YmJlZmIwOTc4YWZlZjJmMGY5MjQ2MTAxOGYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+        "lore": [
+          "§8Mining Mount",
+          "",
+          "§7Defense: §a{DEFENSE}",
+          "",
+          "§6Ridable",
+          "§7Right-click your summoned pet to",
+          "§7ride it! Moves faster based on your",
+          "§f✦ Speed§7.",
+          "",
+          "§6Tunneller",
+          "§7While in the §5Crystal Hollows§7, this Pet",
+          "§7breaks all blocks in its path using",
+          "§7your held item.",
+          "",
+          "§6Rolling Miner",
+          "§7Every §a{0} §7seconds, the next",
+          "§dGemstone §7you mine gives §a2x §7drops",
+          "",
+          "§6Long Claws",
+          "§7Grants §e+{1}▚ Mining Spread §7while",
+          "§7mining Hard Stone.",
+          "",
+          "§6Well-Worked",
+          "§7Consumes §a{2}% §7less energy when",
+          "§7tunneling.",
+          "",
+          "§d§lMYTHIC"
+        ],
+        "variables": {
+          "0": [
+            59.6,
+            20
+          ],
+          "1": [
+            3,
+            300
+          ],
+          "2": [
+            0.1,
+            10
+          ],
+          "DEFENSE": [
+            2,
+            200
+          ]
+        }
       }
     }
   },
@@ -8114,9 +8164,9 @@
           "§8Your Bonus: 1.7 Sugar Cane Fortune",
           "§8Capped at 175 Fortune",
           "",
-          "§6Fool Me Once",
-          "§6The Primordial§7 is §a{2}%§7 more likely to",
-          "§7cocoon mobs.",
+          "§6Bloodsucker's Betrayal",
+          "§7When collected, §2Pest Traps §7will catch",
+          "§7the next pest §a{2}% §7faster.",
           "",
           "§6§lLEGENDARY"
         ],
@@ -8130,8 +8180,8 @@
             2
           ],
           "2": [
-            1,
-            100
+            0.2,
+            20
           ],
           "BONUS_PEST_CHANCE": [
             0.5,

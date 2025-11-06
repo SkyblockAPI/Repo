@@ -401,7 +401,7 @@
         "literal_level": "I",
         "lore": [
           "§7Increases damage dealt to §4Ж",
-          "§4Arthropod§7 mobs by §a10%§7.",
+          "§4Arthropod§7 mobs by §a5%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -424,7 +424,7 @@
         "literal_level": "II",
         "lore": [
           "§7Increases damage dealt to §4Ж",
-          "§4Arthropod§7 mobs by §a20%§7.",
+          "§4Arthropod§7 mobs by §a10%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -447,7 +447,7 @@
         "literal_level": "III",
         "lore": [
           "§7Increases damage dealt to §4Ж",
-          "§4Arthropod§7 mobs by §a30%§7.",
+          "§4Arthropod§7 mobs by §a15%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -470,7 +470,7 @@
         "literal_level": "IV",
         "lore": [
           "§7Increases damage dealt to §4Ж",
-          "§4Arthropod§7 mobs by §40%§7.",
+          "§4Arthropod§7 mobs by §20%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -493,7 +493,7 @@
         "literal_level": "V",
         "lore": [
           "§7Increases damage dealt to §4Ж",
-          "§4Arthropod§7 mobs by §a60%§7.",
+          "§4Arthropod§7 mobs by §a30%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -516,7 +516,7 @@
         "literal_level": "VI",
         "lore": [
           "§7Increases damage dealt to §4Ж",
-          "§4Arthropod§7 mobs by §a80%§7.",
+          "§4Arthropod§7 mobs by §a40%§7.",
           "",
           "§7Use this on an item in an Anvil to",
           "§7apply it!",
@@ -538,7 +538,7 @@
         "literal_level": "VII",
         "lore": [
           "§7Increases damage dealt to §4Ж",
-          "§4Arthropod§7 mobs by §a100%§7.",
+          "§4Arthropod§7 mobs by §a50%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -1877,7 +1877,7 @@
         "lore": [
           "§7Increases damage dealt to",
           "§7Magma Cubes, Slimes, and",
-          "§7Creepers by §a10%§7.",
+          "§7Creepers by §a5%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -1902,7 +1902,7 @@
         "lore": [
           "§7Increases damage dealt to",
           "§7Magma Cubes, Slimes, and",
-          "§7Creepers by §a20%§7.",
+          "§7Creepers by §a10%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -1927,7 +1927,7 @@
         "lore": [
           "§7Increases damage dealt to",
           "§7Magma Cubes, Slimes, and",
-          "§7Creepers by §a30%§7.",
+          "§7Creepers by §a15%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -1952,7 +1952,7 @@
         "lore": [
           "§7Increases damage dealt to",
           "§7Creepers, Slimes, and",
-          "§7Magma Cubes by §a40%§7.",
+          "§7Magma Cubes by §a20%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -1977,7 +1977,7 @@
         "lore": [
           "§7Increases damage dealt to",
           "§7Slimes, Magma Cubes, and",
-          "§7Creepers by §a60%§7.",
+          "§7Creepers by §a30%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -2002,7 +2002,7 @@
         "lore": [
           "§7Increases damage dealt to",
           "§7Magma Cubes, Slimes, and",
-          "§7Creepers by §a80%§7.",
+          "§7Creepers by §a40%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -2346,7 +2346,7 @@
         "literal_level": "I",
         "lore": [
           "§7Increases damage dealt to ✈",
-          "§7Airborne mobs by §a10%§7.",
+          "§7Airborne mobs by §a5%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -2369,7 +2369,7 @@
         "literal_level": "II",
         "lore": [
           "§7Increases damage dealt to ✈",
-          "§7Airborne mobs by §a20%§7.",
+          "§7Airborne mobs by §a10%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -2392,7 +2392,7 @@
         "literal_level": "III",
         "lore": [
           "§7Increases damage dealt to ✈",
-          "§7Airborne mobs by §a30%§7.",
+          "§7Airborne mobs by §a15%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -2415,7 +2415,7 @@
         "literal_level": "IV",
         "lore": [
           "§7Increases damage dealt to ✈",
-          "§7Airborne mobs by §a40%§7.",
+          "§7Airborne mobs by §a20%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -2438,7 +2438,7 @@
         "literal_level": "V",
         "lore": [
           "§7Increases damage dealt to ✈",
-          "§7Airborne mobs by §a60%§7.",
+          "§7Airborne mobs by §a30%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -2461,7 +2461,7 @@
         "literal_level": "VI",
         "lore": [
           "§7Increases damage dealt to ✈",
-          "§7Airborne mobs by §a80%§7.",
+          "§7Airborne mobs by §a40%§7.",
           "",
           "§7Applicable on: §9Bow§7, §9Melee Weapon",
           "§7Apply Cost: §3100 Exp Levels",
@@ -2591,7 +2591,7 @@
         "literal_level": "I",
         "lore": [
           "§7Increases damage dealt to §5⊙ Ender",
-          "§7mobs by §a15%§7.",
+          "§7mobs by §a5%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -2614,7 +2614,7 @@
         "literal_level": "II",
         "lore": [
           "§7Increases damage dealt to §5⊙ Ender",
-          "§7mobs by §a30%§7.",
+          "§7mobs by §a10%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -2637,7 +2637,7 @@
         "literal_level": "III",
         "lore": [
           "§7Increases damage dealt to §5⊙ Ender",
-          "§7mobs by §a45%§7.",
+          "§7mobs by §a15%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -2660,7 +2660,7 @@
         "literal_level": "IV",
         "lore": [
           "§7Increases damage dealt to §5⊙ Ender",
-          "§7mobs by §a60%§7.",
+          "§7mobs by §a20%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -2683,7 +2683,7 @@
         "literal_level": "V",
         "lore": [
           "§7Increases damage dealt to §5⊙ Ender",
-          "§7mobs by §a80%§7.",
+          "§7mobs by §a30%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -2728,7 +2728,7 @@
         "literal_level": "VII",
         "lore": [
           "§7Increases damage dealt to §5⊙ Ender",
-          "§7mobs by §a130%§7.",
+          "§7mobs by §a50%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -5429,7 +5429,7 @@
         "literal_level": "I",
         "lore": [
           "§7Increases damage dealt to §9⚓",
-          "§9Aquatic§7 mobs by §a10%§7.",
+          "§9Aquatic§7 mobs by §a5%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -5453,7 +5453,7 @@
         "literal_level": "II",
         "lore": [
           "§7Increases damage dealt to §9⚓",
-          "§9Aquatic§7 mobs by §a20%§7.",
+          "§9Aquatic§7 mobs by §a10%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -5477,7 +5477,7 @@
         "literal_level": "III",
         "lore": [
           "§7Increases damage dealt to §9⚓",
-          "§9Aquatic§7 mobs by §a30%§7.",
+          "§9Aquatic§7 mobs by §a15%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -5501,7 +5501,7 @@
         "literal_level": "IV",
         "lore": [
           "§7Increases damage dealt to §9⚓",
-          "§9Aquatic§7 mobs by §a40%§7.",
+          "§9Aquatic§7 mobs by §a20%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -5525,7 +5525,7 @@
         "literal_level": "V",
         "lore": [
           "§7Increases damage dealt to §9⚓",
-          "§9Aquatic§7 mobs by §a60%§7.",
+          "§9Aquatic§7 mobs by §a30%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -5556,8 +5556,7 @@
         "literal_level": "I",
         "lore": [
           "§7Saves arrows §a3%§7 of the time",
-          "§7when you fire your bow. Disabled",
-          "§7while sneaking.",
+          "§7when you fire your bow.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -5577,8 +5576,7 @@
         "literal_level": "X",
         "lore": [
           "§7Saves arrows §a30%§7 of the time",
-          "§7when you fire your bow. Disabled",
-          "§7while sneaking.",
+          "§7when you fire your bow.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -5597,8 +5595,7 @@
         "literal_level": "II",
         "lore": [
           "§7Saves arrows §a6%§7 of the time",
-          "§7when you fire your bow. Disabled",
-          "§7while sneaking.",
+          "§7when you fire your bow.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -5618,8 +5615,7 @@
         "literal_level": "III",
         "lore": [
           "§7Saves arrows §a9%§7 of the time",
-          "§7when you fire your bow. Disabled",
-          "§7while sneaking.",
+          "§7when you fire your bow.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -5639,8 +5635,7 @@
         "literal_level": "IV",
         "lore": [
           "§7Saves arrows §a12%§7 of the time",
-          "§7when you fire your bow. Disabled",
-          "§7while sneaking.",
+          "§7when you fire your bow.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -5660,8 +5655,7 @@
         "literal_level": "V",
         "lore": [
           "§7Saves arrows §a15%§7 of the time",
-          "§7when you fire your bow. Disabled",
-          "§7while sneaking.",
+          "§7when you fire your bow.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -5681,8 +5675,7 @@
         "literal_level": "VI",
         "lore": [
           "§7Saves arrows §a18%§7 of the time",
-          "§7when you fire your bow. Disabled",
-          "§7while sneaking.",
+          "§7when you fire your bow.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -5701,8 +5694,7 @@
         "literal_level": "VII",
         "lore": [
           "§7Saves arrows §a21%§7 of the time",
-          "§7when you fire your bow. Disabled",
-          "§7while sneaking.",
+          "§7when you fire your bow.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -5721,8 +5713,7 @@
         "literal_level": "VIII",
         "lore": [
           "§7Saves arrows §a24%§7 of the time",
-          "§7when you fire your bow. Disabled",
-          "§7while sneaking.",
+          "§7when you fire your bow.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -5741,8 +5732,7 @@
         "literal_level": "IX",
         "lore": [
           "§7Saves arrows §a27%§7 of the time",
-          "§7when you fire your bow. Disabled",
-          "§7while sneaking.",
+          "§7when you fire your bow.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -10058,7 +10048,7 @@
         "lore": [
           "§7Increases damage dealt to §8☠ Wither§7,",
           "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by",
-          "§a10%§7.",
+          "§a5%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -10082,7 +10072,7 @@
         "lore": [
           "§7Increases damage dealt to §8☠ Wither§7,",
           "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by",
-          "§a20%§7.",
+          "§a10%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -10106,7 +10096,7 @@
         "lore": [
           "§7Increases damage dealt to §8☠ Wither§7,",
           "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by",
-          "§a30%§7.",
+          "§a15%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -10130,7 +10120,7 @@
         "lore": [
           "§7Increases damage dealt to §8☠ Wither§7,",
           "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by",
-          "§a40%§7.",
+          "§a20%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -10154,7 +10144,7 @@
         "lore": [
           "§7Increases damage dealt to §8☠ Wither§7,",
           "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by",
-          "§a60%§7.",
+          "§a30%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -10178,7 +10168,7 @@
         "lore": [
           "§7Increases damage dealt to §8☠ Wither§7,",
           "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by",
-          "§a80%§7.",
+          "§a40%§7.",
           "",
           "§7Applicable on: §9Melee Weapon",
           "§7Apply Cost: §3100 Exp Levels",
@@ -10195,7 +10185,7 @@
         "lore": [
           "§7Increases damage dealt to §8☠ Wither§7,",
           "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by",
-          "§a100%§7.",
+          "§a50%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -10221,7 +10211,7 @@
         "literal_level": "I",
         "lore": [
           "§7Increases damage dealt to §4♨",
-          "§4Infernal§7 mobs by §a3%§7.",
+          "§4Infernal§7 mobs by §a5%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -10244,7 +10234,7 @@
         "literal_level": "II",
         "lore": [
           "§7Increases damage dealt to §4♨",
-          "§4Infernal§7 mobs by §a6%§7.",
+          "§4Infernal§7 mobs by §a10%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -10267,7 +10257,7 @@
         "literal_level": "III",
         "lore": [
           "§7Increases damage dealt to §4♨",
-          "§4Infernal§7 mobs by §a9%§7.",
+          "§4Infernal§7 mobs by §a15%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -10290,7 +10280,7 @@
         "literal_level": "IV",
         "lore": [
           "§7Increases damage dealt to §4♨",
-          "§4Infernal§7 mobs by §a12%§7.",
+          "§4Infernal§7 mobs by §a20%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -10313,7 +10303,7 @@
         "literal_level": "V",
         "lore": [
           "§7Increases damage dealt to §4♨",
-          "§4Infernal§7 mobs by §a15%§7.",
+          "§4Infernal§7 mobs by §a30%§7.",
           "",
           "§7Use this on an item in an Anvil",
           "§7to apply it!",
@@ -13355,8 +13345,8 @@
         "literal_level": "III",
         "lore": [
           "§7Increases all §bFishing Stats §7and §b✯ Magic Find §7by",
-          "§b+0.3% §7per fishing bobber within §a30 blocks§7, up to",
-          "§b10 §7bobbers.",
+          "§b+0.6% §7per fishing bobber within §a30 blocks§7, up to",
+          "§b5 §7bobbers.",
           "",
           "§cYou can only have 1 Ultimate",
           "§cEnchantment on an item!",
@@ -13378,8 +13368,8 @@
         "literal_level": "IV",
         "lore": [
           "§7Increases all §bFishing Stats §7and §b✯ Magic Find §7by",
-          "§b+0.4% §7per fishing bobber within §a30 blocks§7, up to",
-          "§b10 §7bobbers.",
+          "§b+0.8% §7per fishing bobber within §a30 blocks§7, up to",
+          "§b5 §7bobbers.",
           "",
           "§cYou can only have 1 Ultimate",
           "§cEnchantment on an item!",
@@ -13401,8 +13391,8 @@
         "literal_level": "V",
         "lore": [
           "§7Increases all §bFishing Stats §7and §b✯ Magic Find §7by",
-          "§b+0.5% §7per fishing bobber within §a30 blocks§7, up to",
-          "§b10 §7bobbers.",
+          "§b1.0% §7per fishing bobber within §a30 blocks§7, up to",
+          "§b5 §7bobbers.",
           "",
           "§cYou can only have 1 Ultimate",
           "§cEnchantment on an item!",
@@ -15404,10 +15394,10 @@
         "level": 1,
         "literal_level": "I",
         "lore": [
-          "§7Your weapon gains §c2§7x the",
-          "§7Damage of the latest monster",
-          "§7killed and adds it at the end of",
-          "§7your next hit.",
+          "§7Your weapon gains §c2x §7the Damage of",
+          "§7the latest monster killed and adds it",
+          "§7at the end of your next critical hit.",
+          "§7§8(Max 1M outside Dungeons).",
           "",
           "§cYou can only have 1 Ultimate",
           "§cEnchantment on an item!",
@@ -15430,10 +15420,10 @@
         "level": 2,
         "literal_level": "II",
         "lore": [
-          "§7Your weapon gains §c4§7x the",
-          "§7Damage of the latest monster",
-          "§7killed and adds it at the end of",
-          "§7your next hit.",
+          "§7Your weapon gains §c4x §7the Damage of",
+          "§7the latest monster killed and adds it",
+          "§7at the end of your next critical hit.",
+          "§7§8(Max 1M outside Dungeons).",
           "",
           "§cYou can only have 1 Ultimate",
           "§cEnchantment on an item!",
@@ -15456,10 +15446,10 @@
         "level": 3,
         "literal_level": "III",
         "lore": [
-          "§7Your weapon gains §c6§7x the",
-          "§7Damage of the latest monster",
-          "§7killed and adds it at the end of",
-          "§7your next hit.",
+          "§7Your weapon gains §c6x §7the Damage of",
+          "§7the latest monster killed and adds it",
+          "§7at the end of your next critical hit.",
+          "§7§8(Max 1M outside Dungeons).",
           "",
           "§cYou can only have 1 Ultimate",
           "§cEnchantment on an item!",
@@ -15482,10 +15472,10 @@
         "level": 4,
         "literal_level": "IV",
         "lore": [
-          "§7Your weapon gains §c8§7x the",
-          "§7Damage of the latest monster",
-          "§7killed and adds it at the end of",
-          "§7your next hit.",
+          "§7Your weapon gains §c8x §7the Damage of",
+          "§7the latest monster killed and adds it",
+          "§7at the end of your next critical hit.",
+          "§7§8(Max 1M outside Dungeons).",
           "",
           "§cYou can only have 1 Ultimate",
           "§cEnchantment on an item!",
@@ -15508,10 +15498,10 @@
         "level": 5,
         "literal_level": "V",
         "lore": [
-          "§7Your weapon gains §c10§7x the",
-          "§7Damage of the latest monster",
-          "§7killed and adds it at the end of",
-          "§7your next hit.",
+          "§7Your weapon gains §c10x §7the Damage of",
+          "§7the latest monster killed and adds it",
+          "§7at the end of your next critical hit.",
+          "§7§8(Max 1M outside Dungeons).",
           "",
           "§cYou can only have 1 Ultimate",
           "§cEnchantment on an item!",
