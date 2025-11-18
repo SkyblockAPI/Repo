@@ -5,6 +5,17 @@
  */
 
 /**
+ * @typedef {Object} EnchantmentInfo
+ * @property {string} id
+ * @property {number} level
+ */
+
+/**
+ * @typedef {Object} AttributeInfo
+ * @property {string} id
+ */
+
+/**
  * @typedef {Object} ItemNbt
  * @property {{petInfo: string}} ExtraAttributes
  * @property {number?} Unbreakable
@@ -31,4 +42,6 @@
  *
  * @property {ItemNbt?} nbt
  * @property {PetInfo?} pet
+ * @property {EnchantmentInfo?} enchantment
+ * @property {AttributeInfo?} attribute
  */

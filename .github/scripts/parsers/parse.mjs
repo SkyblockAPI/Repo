@@ -10,6 +10,8 @@ import {Runes} from "./1_21_4/runes.mjs";
 import {Enchantments } from "./1_21_4/enchantments.mjs";
 import { Attributes } from "./1_21_4/attributes.mjs";
 
+const specialItems = JSON.parse(fs.readFileSync(".github/scripts/data/special_items.json", "utf-8"));
+
 const isEntity = (file) => {
     if (file.startsWith("PET_SKIN_")) return false;
     if (file.endsWith("_NPC.json")) return true;
@@ -29,6 +31,8 @@ for (let file of fs.readdirSync("neu/items")) {
     }
     const data = JSON.parse(fs.readFileSync(`./neu/items/${file}`, "utf-8"));
     data.nbt = decode(data.nbttag);
+
+    if (specialItems.items.includes(data.internalname)) continue;
 
     const attributes = data.nbt.ExtraAttributes;
 
@@ -50,7 +54,6 @@ for (let file of fs.readdirSync("neu/items")) {
             Enchantments.parseEnchantments(data);
         } else if (data.internalname.includes(";")) {
             // console.log(file + " is a variant");
-            continue;
         } else {
             Mc1214.items.parseItem(data);
             Mc1215.items.parseItem(data);

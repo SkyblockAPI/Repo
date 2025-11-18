@@ -14169,7 +14169,8 @@
       }
     ],
     "result": {
-      "id": "SKYBLOCK_ENIGMA_SOUL",
+      "type": "currency",
+      "currency": "ENIGMA_SOUL",
       "count": 1
     }
   },
@@ -16609,7 +16610,8 @@
     "type": "shop",
     "inputs": [
       {
-        "id": "SKYBLOCK_CARNIVAL_POINT",
+        "type": "currency",
+        "currency": "CARNIVAL_POINT",
         "count": 250
       }
     ],
@@ -16622,7 +16624,8 @@
     "type": "shop",
     "inputs": [
       {
-        "id": "SKYBLOCK_CARNIVAL_POINT",
+        "type": "currency",
+        "currency": "CARNIVAL_POINT",
         "count": 500
       }
     ],
@@ -16635,7 +16638,8 @@
     "type": "shop",
     "inputs": [
       {
-        "id": "SKYBLOCK_CARNIVAL_POINT",
+        "type": "currency",
+        "currency": "CARNIVAL_POINT",
         "count": 500
       }
     ],
@@ -16648,7 +16652,8 @@
     "type": "shop",
     "inputs": [
       {
-        "id": "SKYBLOCK_CARNIVAL_POINT",
+        "type": "currency",
+        "currency": "CARNIVAL_POINT",
         "count": 1000
       }
     ],
@@ -16661,7 +16666,8 @@
     "type": "shop",
     "inputs": [
       {
-        "id": "SKYBLOCK_CARNIVAL_POINT",
+        "type": "currency",
+        "currency": "CARNIVAL_POINT",
         "count": 1000
       }
     ],
@@ -16674,7 +16680,8 @@
     "type": "shop",
     "inputs": [
       {
-        "id": "SKYBLOCK_CARNIVAL_POINT",
+        "type": "currency",
+        "currency": "CARNIVAL_POINT",
         "count": 2000
       }
     ],
@@ -16687,7 +16694,8 @@
     "type": "shop",
     "inputs": [
       {
-        "id": "SKYBLOCK_CARNIVAL_POINT",
+        "type": "currency",
+        "currency": "CARNIVAL_POINT",
         "count": 2000
       }
     ],
@@ -24187,7 +24195,8 @@
       }
     ],
     "result": {
-      "id": "SKYBLOCK_ENIGMA_SOUL",
+      "type": "currency",
+      "currency": "ENIGMA_SOUL",
       "count": 1
     }
   },
@@ -39988,15 +39997,18 @@
         "count": 12
       },
       {
-        "id": "SKYBLOCK_FLY",
+        "type": "currency",
+        "currency": "FLY",
         "count": 4
       },
       {
-        "id": "SKYBLOCK_SPIDER",
+        "type": "currency",
+        "currency": "SPIDER",
         "count": 4
       },
       {
-        "id": "SKYBLOCK_SILVERFISH",
+        "type": "currency",
+        "currency": "SILVERFISH",
         "count": 4
       }
     ],
@@ -40013,7 +40025,8 @@
         "count": 1
       },
       {
-        "id": "SKYBLOCK_FLY",
+        "type": "currency",
+        "currency": "FLY",
         "count": 15
       }
     ],
@@ -40030,15 +40043,18 @@
         "count": 12
       },
       {
-        "id": "SKYBLOCK_FLY",
+        "type": "currency",
+        "currency": "FLY",
         "count": 20
       },
       {
-        "id": "SKYBLOCK_SPIDER",
+        "type": "currency",
+        "currency": "SPIDER",
         "count": 10
       },
       {
-        "id": "SKYBLOCK_SILVERFISH",
+        "type": "currency",
+        "currency": "SILVERFISH",
         "count": 20
       }
     ],
@@ -40053,7 +40069,8 @@
     "type": "shop",
     "inputs": [
       {
-        "id": "SKYBLOCK_SILVERFISH",
+        "type": "currency",
+        "currency": "SILVERFISH",
         "count": 40
       }
     ],
@@ -40079,15 +40096,18 @@
         "count": 5000
       },
       {
-        "id": "SKYBLOCK_FLY",
+        "type": "currency",
+        "currency": "FLY",
         "count": 30
       },
       {
-        "id": "SKYBLOCK_SPIDER",
+        "type": "currency",
+        "currency": "SPIDER",
         "count": 40
       },
       {
-        "id": "SKYBLOCK_SILVERFISH",
+        "type": "currency",
+        "currency": "SILVERFISH",
         "count": 60
       }
     ],
@@ -55272,7 +55292,8 @@
     "type": "shop",
     "inputs": [
       {
-        "id": "SKYBLOCK_PEST",
+        "type": "currency",
+        "currency": "PEST",
         "count": 25
       }
     ],
@@ -55285,7 +55306,8 @@
     "type": "shop",
     "inputs": [
       {
-        "id": "SKYBLOCK_PEST",
+        "type": "currency",
+        "currency": "PEST",
         "count": 50
       },
       {
@@ -55302,7 +55324,8 @@
     "type": "shop",
     "inputs": [
       {
-        "id": "SKYBLOCK_PEST",
+        "type": "currency",
+        "currency": "PEST",
         "count": 100
       },
       {
@@ -55319,7 +55342,8 @@
     "type": "shop",
     "inputs": [
       {
-        "id": "SKYBLOCK_PEST",
+        "type": "currency",
+        "currency": "PEST",
         "count": 50
       },
       {
@@ -55336,7 +55360,8 @@
     "type": "shop",
     "inputs": [
       {
-        "id": "SKYBLOCK_PEST",
+        "type": "currency",
+        "currency": "PEST",
         "count": 80
       },
       {
@@ -55353,7 +55378,8 @@
     "type": "shop",
     "inputs": [
       {
-        "id": "SKYBLOCK_PEST",
+        "type": "currency",
+        "currency": "PEST",
         "count": 70
       },
       {
@@ -55370,7 +55396,8 @@
     "type": "shop",
     "inputs": [
       {
-        "id": "SKYBLOCK_PEST",
+        "type": "currency",
+        "currency": "PEST",
         "count": 40
       },
       {
@@ -55387,7 +55414,8 @@
     "type": "shop",
     "inputs": [
       {
-        "id": "SKYBLOCK_PEST",
+        "type": "currency",
+        "currency": "PEST",
         "count": 40
       }
     ],
@@ -55400,7 +55428,8 @@
     "type": "shop",
     "inputs": [
       {
-        "id": "SKYBLOCK_PEST",
+        "type": "currency",
+        "currency": "PEST",
         "count": 50
       }
     ],
@@ -55413,7 +55442,8 @@
     "type": "shop",
     "inputs": [
       {
-        "id": "SKYBLOCK_PEST",
+        "type": "currency",
+        "currency": "PEST",
         "count": 75
       },
       {
@@ -55430,7 +55460,8 @@
     "type": "shop",
     "inputs": [
       {
-        "id": "SKYBLOCK_PEST",
+        "type": "currency",
+        "currency": "PEST",
         "count": 500
       }
     ],
@@ -55443,7 +55474,8 @@
     "type": "shop",
     "inputs": [
       {
-        "id": "SKYBLOCK_PEST",
+        "type": "currency",
+        "currency": "PEST",
         "count": 1500
       }
     ],
@@ -55456,7 +55488,8 @@
     "type": "shop",
     "inputs": [
       {
-        "id": "SKYBLOCK_PEST",
+        "type": "currency",
+        "currency": "PEST",
         "count": 500
       }
     ],
@@ -63161,7 +63194,8 @@
       }
     ],
     "result": {
-      "id": "SKYBLOCK_ENIGMA_SOUL",
+      "type": "currency",
+      "currency": "ENIGMA_SOUL",
       "count": 1
     }
   },
@@ -75008,7 +75042,8 @@
       }
     ],
     "result": {
-      "id": "SKYBLOCK_ENIGMA_SOUL",
+      "type": "currency",
+      "currency": "ENIGMA_SOUL",
       "count": 1
     }
   },

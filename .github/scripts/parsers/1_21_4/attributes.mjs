@@ -8,12 +8,13 @@ export const attributeIds = []
 export const Attributes = {
     /** @param item {Item} */
     parseAttribute: (item) => {
-        item.isAttributeShard = true
         const originalItem = item
         item = structuredClone(item)
 
         const attributeId = Object.keys(item.nbt.ExtraAttributes.attributes)[0].toUpperCase();
-        originalItem.attributeId = attributeId;
+        originalItem.attribute = {
+            id: attributeId
+        };
 
         const name = item.displayname
         item.displayname = item.lore[0]

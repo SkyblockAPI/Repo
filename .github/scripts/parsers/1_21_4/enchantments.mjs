@@ -6,15 +6,16 @@ export const enchantmentIds = []
 export const Enchantments = {
     /** @param item {Item} */
     parseEnchantments: (item) => {
-        item.isEnchantment = true
         const originalItem = item
         item = structuredClone(item)
 
         const parts = item.internalname.split(";");
         const enchantId = parts[0];
         const enchantLevel = parseInt(parts[1]);
-        originalItem.enchantId = enchantId
-        originalItem.enchantLevel = enchantLevel
+        originalItem.enchantment = {
+            id: enchantId,
+            level: enchantLevel
+        }
 
         item.displayname = item.lore[0]
         item.lore.shift()

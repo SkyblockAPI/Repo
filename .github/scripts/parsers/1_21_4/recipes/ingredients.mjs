@@ -1,36 +1,6 @@
-import { petIds, Pets } from "../pets.mjs";
-import { enchantmentIds } from "../enchantments.mjs";
-import { attributeIds } from "../attributes.mjs";
-
-export const getResult = (item, count) => {
-    if (item.pet) {
-        return {
-            type: "pet",
-            pet: item.pet.type,
-            tier: item.pet.tier,
-            count: count,
-        };
-    } else if (item.isEnchantment) {
-        return {
-            type: "enchantment",
-            id: item.enchantId,
-            level: item.enchantLevel,
-            count: count
-        }
-    } else if (item.isAttributeShard) {
-        return {
-            type: "attribute",
-            id: item.attributeId,
-            count: count
-        }
-    } else if (item.internalname.includes(";")) {
-        throw new Error("Unsupported variant recipe " + item.internalname);
-    }
-    return {
-        id: item.internalname,
-        count: count
-    };
-}
+import {petIds} from "../pets.mjs";
+import {enchantmentIds} from "../enchantments.mjs";
+import {attributeIds} from "../attributes.mjs";
 
 export const BITS_ID = "SKYBLOCK_BIT";
 export const COINS_ID = "SKYBLOCK_COIN";
@@ -46,7 +16,27 @@ export const NORTH_STARS_ID = "SKYBLOCK_NORTH_STAR";
 export const PELTS_ID = "SKYBLOCK_PELT";
 export const GEMS_ID = "SKYBLOCK_GEM";
 
-const currencies = [BITS_ID, COINS_ID, COPPER_ID, FOSSIL_DUST_ID, BRONZE_MEDAL_ID, SILVER_MEDAL_ID, GOLD_MEDAL_ID, MOTES_ID, NORTH_STARS_ID, PELTS_ID, GEMS_ID]
+export const CARNIVAL_POINT_ID = "SKYBLOCK_CARNIVAL_POINT";
+export const ENIGMA_SOUL_ID = "SKYBLOCK_ENIGMA_SOUL";
+export const PEST_ID = "SKYBLOCK_PEST";
+export const FLY_ID = "SKYBLOCK_FLY";
+export const SPIDER_ID = "SKYBLOCK_SPIDER";
+export const SILVERFISH_ID = "SKYBLOCK_SILVERFISH";
+
+// Currently not used by NEU but added just in case
+export const FOREST_WHISPERS_ID = "SKYBLOCK_FOREST_WHISPERS"
+export const GEMSTONE_POWDER_ID = "SKYBLOCK_POWDER_GEMSTONE"
+export const GLACITE_POWDER_ID = "SKYBLOCK_POWDER_GLACITE"
+export const MITHRIL_POWDER_ID = "SKYBLOCK_POWDER_MITHRIL"
+
+const currencies = [
+    BITS_ID, COINS_ID, COPPER_ID, FOSSIL_DUST_ID,
+    BRONZE_MEDAL_ID, SILVER_MEDAL_ID, GOLD_MEDAL_ID,
+    MOTES_ID, NORTH_STARS_ID, PELTS_ID, GEMS_ID,
+    CARNIVAL_POINT_ID,
+    ENIGMA_SOUL_ID, PEST_ID, FLY_ID, SPIDER_ID, SILVERFISH_ID,
+    FOREST_WHISPERS_ID, GEMSTONE_POWDER_ID, GLACITE_POWDER_ID, MITHRIL_POWDER_ID
+]
 
 const rarityMap = {
     0: "COMMON",
@@ -60,6 +50,46 @@ const rarityMap = {
     8: "SPECIAL",
     9: "VERY_SPECIAL",
     10: "ADMIN",
+}
+
+/**
+ * @param item {Item}
+ * @param count {number}
+ * */
+export const getResult = (item, count) => {
+    if (item.pet) {
+        return {
+            type: "pet",
+            pet: item.pet.type,
+            tier: item.pet.tier,
+            count: count,
+        };
+    } else if (item.enchantment) {
+        return {
+            type: "enchantment",
+            id: item.enchantment.id,
+            level: item.enchantment.level,
+            count: count
+        }
+    } else if (item.attribute) {
+        return {
+            type: "attribute",
+            id: item.attribute.id,
+            count: count
+        }
+    } else if (currencies.includes(item.internalname)) {
+        return {
+            type: "currency",
+            currency: item.internalname.substring(9),
+            count: count,
+        }
+    } else if (item.internalname.includes(";")) {
+        throw new Error("Unsupported variant recipe " + item.internalname);
+    }
+    return {
+        id: item.internalname,
+        count: count
+    };
 }
 
 export const getInputs = (item, amount) => {

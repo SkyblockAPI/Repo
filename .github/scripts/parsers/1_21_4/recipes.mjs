@@ -1,7 +1,6 @@
 import fs from "fs";
-import {getResult,getInputs,COINS_ID} from "./recipes/ingredients.mjs";
+import {COINS_ID, getInputs, getResult} from "./recipes/ingredients.mjs";
 
-const specialItems = JSON.parse(fs.readFileSync(".github/scripts/data/special_items.json", "utf-8"))
 const notRecipes = ["trade", "drops"];
 
 const recipesFile = [];
@@ -76,7 +75,6 @@ const parseKatRecipe = (recipe) => {
 export const Recipes = {
     /** @param item {Item} */
     parse: (item) => {
-        if (specialItems.items.includes(item.internalname)) return;
         if (item.recipe) {
             // Legacy recipes
             recipesFile.push(parseCraftingRecipe(item, item.recipe));
