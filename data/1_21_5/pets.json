@@ -4965,18 +4965,18 @@
         "lore": [
           "§8Combat Pet",
           "",
-          "§7Strength: §c+{STRENGTH}",
+          "§7Strength: §c{STRENGTH}",
           "§7Crit Chance: §9{CRIT_CHANCE}%",
           "§7Crit Damage: §9{CRIT_DAMAGE}%",
-          "§7Intelligence: §b{INTELLIGENCE}",
-          "§7Magic Find: §b{MAGIC_FIND}",
+          "§7Bonus Attack Speed: §e{BONUS_ATTACK_SPEED}%",
           "",
           "§6Odyssey",
-          "§2Mythological Creatures §7you find and",
-          "§7burrows you dig scale in §cdifficulty",
-          "§7and §6rewards §7based on your",
-          "§7equipped Griffin's rarity.",
+          "§c2 §7types of §2✿ Mythological §7mobs can",
+          "§7spawn from §eGriffin Burrows§7. Their",
+          "§7stats scale with your Griffin’s",
+          "§7rarity.",
           "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
         "variables": {
@@ -4989,16 +4989,12 @@
             50
           ],
           "STRENGTH": [
+            0.5,
+            50
+          ],
+          "BONUS_ATTACK_SPEED": [
             0.25,
             25
-          ],
-          "MAGIC_FIND": [
-            0.1,
-            10
-          ],
-          "INTELLIGENCE": [
-            0.1,
-            10
           ]
         }
       },
@@ -5007,22 +5003,18 @@
         "lore": [
           "§8Combat Pet",
           "",
-          "§7Strength: §c+{STRENGTH}",
+          "§7Strength: §c{STRENGTH}",
           "§7Crit Chance: §9{CRIT_CHANCE}%",
           "§7Crit Damage: §9{CRIT_DAMAGE}%",
-          "§7Intelligence: §b{INTELLIGENCE}",
-          "§7Magic Find: §b{MAGIC_FIND}",
+          "§7Bonus Attack Speed: §e{BONUS_ATTACK_SPEED}%",
           "",
           "§6Odyssey",
-          "§2Mythological Creatures §7you find and",
-          "§7burrows you dig scale in §cdifficulty",
-          "§7and §6rewards §7based on your",
-          "§7equipped Griffin's rarity.",
+          "§c4 §7types of §2✿ Mythological §7mobs can",
+          "§7spawn from §eGriffin Burrows§7. Their",
+          "§7stats scale with your Griffin’s",
+          "§7rarity.",
           "",
-          "§6Legendary Constitution",
-          "§7Permanent §cRegeneration 5 §7and",
-          "§4Strength 7§7.",
-          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
         ],
         "variables": {
@@ -5035,16 +5027,12 @@
             50
           ],
           "STRENGTH": [
+            0.5,
+            50
+          ],
+          "BONUS_ATTACK_SPEED": [
             0.25,
             25
-          ],
-          "MAGIC_FIND": [
-            0.1,
-            10
-          ],
-          "INTELLIGENCE": [
-            0.1,
-            10
           ]
         }
       },
@@ -5053,25 +5041,29 @@
         "lore": [
           "§8Combat Pet",
           "",
-          "§7Strength: §c+{STRENGTH}",
+          "§7Strength: §c{STRENGTH}",
           "§7Crit Chance: §9{CRIT_CHANCE}%",
           "§7Crit Damage: §9{CRIT_DAMAGE}%",
-          "§7Intelligence: §b{INTELLIGENCE}",
-          "§7Magic Find: §b{MAGIC_FIND}",
+          "§7Bonus Attack Speed: §e{BONUS_ATTACK_SPEED}%",
           "",
           "§6Odyssey",
-          "§2Mythological Creatures §7you find and",
-          "§7burrows you dig scale in §cdifficulty",
-          "§7and §6rewards §7based on your",
-          "§7equipped Griffin's rarity.",
+          "§c12 §7types of §2✿ Mythological §7mobs can",
+          "§7spawn from §eGriffin Burrows§7. Their",
+          "§7stats scale with your Griffin’s",
+          "§7rarity.",
           "",
-          "§6Legendary Constitution",
-          "§7Permanent §cRegeneration 6 §7and",
-          "§4Strength 7§7.",
+          "§6Sacred Strength",
+          "§7Gain §c+{0}% ❁ Strength §7when above",
+          "§c85% ❤ Health§7.",
           "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
         ],
         "variables": {
+          "0": [
+            0.1,
+            10
+          ],
           "CRIT_CHANCE": [
             0.1,
             10
@@ -5081,16 +5073,12 @@
             50
           ],
           "STRENGTH": [
+            0.5,
+            50
+          ],
+          "BONUS_ATTACK_SPEED": [
             0.25,
             25
-          ],
-          "MAGIC_FIND": [
-            0.1,
-            10
-          ],
-          "INTELLIGENCE": [
-            0.1,
-            10
           ]
         }
       },
@@ -5099,95 +5087,27 @@
         "lore": [
           "§8Combat Pet",
           "",
-          "§7Strength: §c+{STRENGTH}",
+          "§7Strength: §c{STRENGTH}",
           "§7Crit Chance: §9{CRIT_CHANCE}%",
           "§7Crit Damage: §9{CRIT_DAMAGE}%",
-          "§7Intelligence: §b{INTELLIGENCE}",
-          "§7Magic Find: §b{MAGIC_FIND}",
+          "§7Bonus Attack Speed: §e{BONUS_ATTACK_SPEED}%",
           "",
           "§6Odyssey",
-          "§2Mythological Creatures §7you find and",
-          "§7burrows you dig scale in §cdifficulty",
-          "§7and §6rewards §7based on your",
-          "§7equipped Griffin's rarity.",
+          "§c12 §7types of §2✿ Mythological §7mobs can",
+          "§7spawn from §eGriffin Burrows§7. Their",
+          "§7stats scale with your Griffin’s",
+          "§7rarity.",
           "",
-          "§6Legendary Constitution",
-          "§7Permanent §cRegeneration 6 §7and",
-          "§4Strength 8§7.",
+          "§6Sacred Strength",
+          "§7Gain §c+{0}% ❁ Strength §7when above",
+          "§c85% ❤ Health§7.",
           "",
-          "§6Perpetual Empathy",
-          "§7Heal nearby players for §a{0}% §7of",
-          "§7the final damage you receive.",
-          "§8Excludes other griffins.",
-          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
         "variables": {
           "0": [
-            0,
-            16
-          ],
-          "CRIT_CHANCE": [
-            0.1,
-            10
-          ],
-          "CRIT_DAMAGE": [
-            0.5,
-            50
-          ],
-          "STRENGTH": [
-            0.25,
-            25
-          ],
-          "MAGIC_FIND": [
-            0.1,
-            10
-          ],
-          "INTELLIGENCE": [
-            0.1,
-            10
-          ]
-        }
-      },
-      "LEGENDARY": {
-        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTU5OTgxMDM3NTkzMywKICAicHJvZmlsZUlkIiA6ICI5YzQ5YjU0YjFjZjU0NjZjYjRhNzA4M2JmZGQ4MDIxNSIsCiAgInByb2ZpbGVOYW1lIiA6ICI5U0kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGMyN2UzY2I1MmE2NDk2OGU2MGM4NjFlZjFhYjg0ZTBhMGNiNWYwN2JlMTAzYWM3OGRhNjc3NjE3MzFmMDBjOCIKICAgIH0KICB9Cn0=",
-        "lore": [
-          "§8Combat Pet",
-          "",
-          "§7Strength: §c+{STRENGTH}",
-          "§7Crit Chance: §9{CRIT_CHANCE}%",
-          "§7Crit Damage: §9{CRIT_DAMAGE}%",
-          "§7Intelligence: §b{INTELLIGENCE}",
-          "§7Magic Find: §b{MAGIC_FIND}",
-          "",
-          "§6Odyssey",
-          "§2Mythological Creatures §7you find and",
-          "§7burrows you dig scale in §cdifficulty",
-          "§7and §6rewards §7based on your",
-          "§7equipped Griffin's rarity.",
-          "",
-          "§6Legendary Constitution",
-          "§7Permanent §cRegeneration 6 §7and",
-          "§4Strength 8§7.",
-          "",
-          "§6Perpetual Empathy",
-          "§7Heal nearby players for §a{0}% §7of",
-          "§7the final damage you receive.",
-          "§8Excludes other griffins.",
-          "",
-          "§6King of Kings",
-          "§7Gain §c+{1}% ❁ Strength §7when above",
-          "§c85% §7health.",
-          "",
-          "§6§lLEGENDARY"
-        ],
-        "variables": {
-          "0": [
-            0,
-            20
-          ],
-          "1": [
-            1.1,
+            0.15,
             15
           ],
           "CRIT_CHANCE": [
@@ -5199,16 +5119,124 @@
             50
           ],
           "STRENGTH": [
+            0.5,
+            50
+          ],
+          "BONUS_ATTACK_SPEED": [
             0.25,
             25
+          ]
+        }
+      },
+      "LEGENDARY": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTU5OTgxMDM3NTkzMywKICAicHJvZmlsZUlkIiA6ICI5YzQ5YjU0YjFjZjU0NjZjYjRhNzA4M2JmZGQ4MDIxNSIsCiAgInByb2ZpbGVOYW1lIiA6ICI5U0kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGMyN2UzY2I1MmE2NDk2OGU2MGM4NjFlZjFhYjg0ZTBhMGNiNWYwN2JlMTAzYWM3OGRhNjc3NjE3MzFmMDBjOCIKICAgIH0KICB9Cn0=",
+        "lore": [
+          "§8Combat Pet",
+          "",
+          "§7Strength: §c{STRENGTH}",
+          "§7Crit Chance: §9{CRIT_CHANCE}%",
+          "§7Crit Damage: §9{CRIT_DAMAGE}%",
+          "§7Bonus Attack Speed: §e{BONUS_ATTACK_SPEED}%",
+          "",
+          "§6Odyssey",
+          "§c12 §7types of §2✿ Mythological §7mobs can",
+          "§7spawn from §eGriffin Burrows§7. Their",
+          "§7stats scale with your Griffin’s",
+          "§7rarity.",
+          "",
+          "§6Sacred Strength",
+          "§7Gain §c+{0}% ❁ Strength §7when above",
+          "§c85% ❤ Health§7.",
+          "",
+          "§6King of Kings",
+          "§7Grants §b+{1}✯ Magic Find §7on §2✿",
+          "§2Mythological §7mobs.",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§6§lLEGENDARY"
+        ],
+        "variables": {
+          "0": [
+            0.15,
+            15
           ],
-          "MAGIC_FIND": [
+          "1": [
+            0.2,
+            20
+          ],
+          "CRIT_CHANCE": [
             0.1,
             10
           ],
-          "INTELLIGENCE": [
+          "CRIT_DAMAGE": [
+            0.5,
+            50
+          ],
+          "STRENGTH": [
+            0.5,
+            50
+          ],
+          "BONUS_ATTACK_SPEED": [
+            0.25,
+            25
+          ]
+        }
+      },
+      "MYTHIC": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTU5OTgxMDM3NTkzMywKICAicHJvZmlsZUlkIiA6ICI5YzQ5YjU0YjFjZjU0NjZjYjRhNzA4M2JmZGQ4MDIxNSIsCiAgInByb2ZpbGVOYW1lIiA6ICI5U0kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGMyN2UzY2I1MmE2NDk2OGU2MGM4NjFlZjFhYjg0ZTBhMGNiNWYwN2JlMTAzYWM3OGRhNjc3NjE3MzFmMDBjOCIKICAgIH0KICB9Cn0=",
+        "lore": [
+          "§8Combat Pet",
+          "",
+          "§7Strength: §c{STRENGTH}",
+          "§7Crit Chance: §9{CRIT_CHANCE}%",
+          "§7Crit Damage: §9{CRIT_DAMAGE}%",
+          "§7Bonus Attack Speed: §e{BONUS_ATTACK_SPEED}%",
+          "",
+          "§6Odyssey",
+          "§c12 §7types of §2✿ Mythological §7mobs can",
+          "§7spawn from §eGriffin Burrows§7. Their",
+          "§7stats scale with your Griffin’s",
+          "§7rarity.",
+          "",
+          "§6Sacred Strength",
+          "§7Gain §c+{0}% ❁ Strength §7when above",
+          "§c85% ❤ Health§7.",
+          "",
+          "§6King of Kings",
+          "§7Grants §b+{1}✯ Magic Find §7on §2✿",
+          "§2Mythological §7mobs.",
+          "",
+          "§6Ancient Earth",
+          "§7Grants §d+1❃ Tracking §7on §eGriffin",
+          "§eBurrows §7for each burrow excavated",
+          "§7in your current chain.",
+          "",
+          "§d§lMYTHIC"
+        ],
+        "variables": {
+          "0": [
+            0.15,
+            15
+          ],
+          "1": [
+            0.2,
+            20
+          ],
+          "CRIT_CHANCE": [
             0.1,
             10
+          ],
+          "CRIT_DAMAGE": [
+            0.5,
+            50
+          ],
+          "STRENGTH": [
+            0.5,
+            50
+          ],
+          "BONUS_ATTACK_SPEED": [
+            0.25,
+            25
           ]
         }
       }
