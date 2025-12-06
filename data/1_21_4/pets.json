@@ -267,6 +267,7 @@
           "§7Grants §e+{1}▚ Mining Spread §7while",
           "§7mining Hard Stone.",
           "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -9108,6 +9109,52 @@
           "STRENGTH": [
             0.5,
             50
+          ]
+        }
+      }
+    }
+  },
+  "PRECURSOR_DRONE": {
+    "id": "PRECURSOR_DRONE",
+    "name": "Precursor Drone",
+    "tiers": {
+      "COMMON": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2NDY1OTI2MzU2NSwKICAicHJvZmlsZUlkIiA6ICI1MTAwZGZmZDI0NDI0M2I0OGQxMmVkZTVkMjgxMzk2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGVjdHJvbmljU2V4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUxYWFlMjg4YWI5ZDUzNTRmZGE0ZTM5NWEzNjQyMWJkMjYxYTliNjIxM2RiYjc4NmQ3YWIzOTQ2NWU0NzljZTkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+        "lore": [
+          "§8Combat Pet",
+          "",
+          "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}%",
+          "§7Mining Fortune: §6+{MINING_FORTUNE}",
+          "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
+          "",
+          "§6Contraband",
+          "§7Catching a §3Sea Creature §7has a §a10%",
+          "§7chance to also give you §6Treasure§7.",
+          "",
+          "§6Grungle",
+          "§7You can now ONLY throw your",
+          "§7Foraging Axe, but it has §cno throwing",
+          "§cpenalty §7anymore.",
+          "",
+          "§6Mining Off Camera",
+          "§7While mining, each collection",
+          "§7progress grants a §a0.005% §7chance to",
+          "§7drop a random enchanted mining item.",
+          "",
+          "§f§lCOMMON"
+        ],
+        "variables": {
+          "SEA_CREATURE_CHANCE": [
+            0.1,
+            10
+          ],
+          "MINING_FORTUNE": [
+            0.3,
+            30
+          ],
+          "FORAGING_FORTUNE": [
+            0.3,
+            30
           ]
         }
       }

@@ -3156,6 +3156,29 @@
     "coins": 1000000
   },
   {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ARMADILLO",
+      "tier": "LEGENDARY",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ARMADILLO",
+      "tier": "MYTHIC",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "FROZEN_SCUTE",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 1000000
+  },
+  {
     "type": "crafting",
     "keys": [
       {
@@ -7169,6 +7192,34 @@
     ],
     "result": {
       "id": "BLOOD_DONOR_TALISMAN",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "SHINY_SHARD",
+        "count": 1
+      },
+      {
+        "id": "BLOOD_GOD_CREST",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      1,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "BLOOD_GOD_SIGIL",
       "count": 1
     }
   },
@@ -40190,6 +40241,86 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "KUUDRA_TENTACLE",
+        "count": 4
+      },
+      {
+        "id": "KUUDRAS_LUNG",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "KUUDRAS_HEART",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "KUUDRA_TENTACLE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "KUUDRAS_KIDNEY",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "KUUDRA_TENTACLE",
+        "count": 2
+      },
+      {
+        "id": "KUUDRAS_KIDNEY",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "KUUDRAS_LUNG",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "KUUDRA_HOT_TIER_KEY",
         "count": 1
       }
@@ -42964,6 +43095,34 @@
     ],
     "result": {
       "id": "LUSCIOUS_HEALING_MELON",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "LUSHLILAC",
+        "count": 1
+      },
+      {
+        "id": "SEA_LUMIES",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      -1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "LUSHLILAC_BONBON",
       "count": 1
     }
   },
@@ -57015,6 +57174,34 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "SHINY_SHARD",
+        "count": 1
+      },
+      {
+        "id": "POTATO_TALISMAN",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      1,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "POTATO_RING",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "NETHER_STALK",
         "count": 16
       }
@@ -57400,6 +57587,48 @@
     ],
     "result": {
       "id": "PRECURSOR_APPARATUS",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "FINE_CITRINE_GEM",
+        "count": 10
+      },
+      {
+        "id": "FINE_AQUAMARINE_GEM",
+        "count": 10
+      },
+      {
+        "id": "SUPER_EGG",
+        "count": 1
+      },
+      {
+        "id": "FINE_JADE_GEM",
+        "count": 10
+      },
+      {
+        "id": "PRECURSOR_APPARATUS",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      1,
+      2,
+      3,
+      -1,
+      4,
+      -1
+    ],
+    "result": {
+      "type": "pet",
+      "pet": "PRECURSOR_DRONE",
+      "tier": "COMMON",
       "count": 1
     }
   },
@@ -67602,7 +67831,7 @@
     ],
     "result": {
       "id": "SLIME_BALL",
-      "count": 1
+      "count": 9
     }
   },
   {
@@ -78916,7 +79145,7 @@
     "result": {
       "type": "pet",
       "pet": "EERIE",
-      "tier": "UNCOMMON",
+      "tier": "COMMON",
       "count": 1
     }
   },
@@ -82047,7 +82276,7 @@
     ],
     "result": {
       "id": "WHEAT",
-      "count": 1
+      "count": 9
     }
   },
   {
