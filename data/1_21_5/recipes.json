@@ -3807,6 +3807,34 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "COMPACTED_WILD_ROSE",
+        "count": 1
+      },
+      {
+        "id": "RED_ROSE",
+        "count": 64
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "BACHELOR_ROSE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_INK_SACK",
         "count": 32
       }
@@ -4778,11 +4806,11 @@
     "items": [
       {
         "id": "RED_MUSHROOM",
-        "count": 128
+        "count": 256
       },
       {
         "id": "BROWN_MUSHROOM",
-        "count": 128
+        "count": 256
       }
     ],
     "time": 300,
@@ -8988,6 +9016,70 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "JACOBS_TICKET",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_CACTUS",
+        "count": 8
+      },
+      {
+        "id": "CACTUS_KNIFE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "CACTUS_KNIFE_2",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "JACOBS_TICKET",
+        "count": 64
+      },
+      {
+        "id": "ENCHANTED_CACTUS",
+        "count": 32
+      },
+      {
+        "id": "CACTUS_KNIFE_2",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "CACTUS_KNIFE_3",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "CACTUS",
         "count": 1
       }
@@ -12806,6 +12898,70 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "JACOBS_TICKET",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_COOKIE",
+        "count": 10
+      },
+      {
+        "id": "COCO_CHOPPER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "COCO_CHOPPER_2",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "JACOBS_TICKET",
+        "count": 64
+      },
+      {
+        "id": "ENCHANTED_COOKIE",
+        "count": 40
+      },
+      {
+        "id": "COCO_CHOPPER_2",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "COCO_CHOPPER_3",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "EMERALD",
         "count": 5
       },
@@ -12883,6 +13039,78 @@
     ],
     "result": {
       "id": "COMMON_HOOK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_MOONFLOWER",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "COMPACTED_MOONFLOWER",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_SUNFLOWER",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "COMPACTED_SUNFLOWER",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_WILD_ROSE",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "COMPACTED_WILD_ROSE",
       "count": 1
     }
   },
@@ -14409,23 +14637,27 @@
     "keys": [
       {
         "id": "ENCHANTED_GOLD_BLOCK",
-        "count": 24
+        "count": 8
       },
       {
         "id": "DAEDALUS_STICK",
         "count": 1
+      },
+      {
+        "id": "SWORD_OF_REVELATIONS",
+        "count": 1
       }
     ],
     "pattern": [
-      -1,
       0,
-      -1,
-      -1,
-      0,
-      -1,
-      -1,
       1,
-      -1
+      0,
+      0,
+      2,
+      0,
+      0,
+      1,
+      0
     ],
     "result": {
       "id": "DAEDALUS_AXE",
@@ -21152,6 +21384,30 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "MOONFLOWER",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "ENCHANTED_MOONFLOWER",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "MUTTON",
         "count": 32
       }
@@ -22356,6 +22612,30 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "DOUBLE_PLANT",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "ENCHANTED_SUNFLOWER",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "TENDER_WOOD",
         "count": 32
       }
@@ -22597,6 +22877,30 @@
     ],
     "result": {
       "id": "ENCHANTED_WHEAT",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "WILD_ROSE",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "ENCHANTED_WILD_ROSE",
       "count": 1
     }
   },
@@ -29304,6 +29608,78 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "JACOBS_TICKET",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_HUGE_MUSHROOM_2",
+        "count": 5
+      },
+      {
+        "id": "ENCHANTED_HUGE_MUSHROOM_1",
+        "count": 5
+      },
+      {
+        "id": "FUNGI_CUTTER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "FUNGI_CUTTER_2",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "JACOBS_TICKET",
+        "count": 64
+      },
+      {
+        "id": "ENCHANTED_HUGE_MUSHROOM_2",
+        "count": 20
+      },
+      {
+        "id": "ENCHANTED_HUGE_MUSHROOM_1",
+        "count": 20
+      },
+      {
+        "id": "FUNGI_CUTTER_2",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "FUNGI_CUTTER_3",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "COBBLESTONE",
         "count": 1
       }
@@ -34251,6 +34627,150 @@
     ],
     "result": {
       "id": "HEAVY_GABAGOOL",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "CONDENSED_HELIANTHUS",
+        "count": 1
+      },
+      {
+        "id": "COMPACTED_SUNFLOWER",
+        "count": 64
+      },
+      {
+        "id": "FERMENTO_BOOTS",
+        "count": 1
+      },
+      {
+        "id": "COMPACTED_MOONFLOWER",
+        "count": 64
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      0,
+      1,
+      2,
+      3,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "HELIANTHUS_BOOTS",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "CONDENSED_HELIANTHUS",
+        "count": 1
+      },
+      {
+        "id": "FERMENTO_CHESTPLATE",
+        "count": 1
+      },
+      {
+        "id": "COMPACTED_SUNFLOWER",
+        "count": 32
+      },
+      {
+        "id": "COMPACTED_WILD_ROSE",
+        "count": 32
+      },
+      {
+        "id": "COMPACTED_MOONFLOWER",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      4,
+      3,
+      4
+    ],
+    "result": {
+      "id": "HELIANTHUS_CHESTPLATE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "CONDENSED_HELIANTHUS",
+        "count": 1
+      },
+      {
+        "id": "COMPACTED_WILD_ROSE",
+        "count": 64
+      },
+      {
+        "id": "COMPACTED_SUNFLOWER",
+        "count": 32
+      },
+      {
+        "id": "FERMENTO_LEGGINGS",
+        "count": 1
+      },
+      {
+        "id": "COMPACTED_MOONFLOWER",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      4,
+      -1,
+      4
+    ],
+    "result": {
+      "id": "HELIANTHUS_LEGGINGS",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "CONDENSED_HELIANTHUS",
+        "count": 1
+      },
+      {
+        "id": "FERMENTO_ARTIFACT",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "HELIANTHUS_RELIC",
       "count": 1
     }
   },
@@ -48275,6 +48795,62 @@
     "items": [],
     "time": 1036800,
     "coins": 17000000
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "COMPACTED_MOONFLOWER",
+        "count": 4
+      },
+      {
+        "id": "NIGHT_CRYSTAL",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "MOONLIGHT_CRYSTAL",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "COMPACTED_MOONFLOWER",
+        "count": 1
+      },
+      {
+        "id": "FINE_AMETHYST_GEM",
+        "count": 8
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "MOONSTONE",
+      "count": 1
+    }
   },
   {
     "type": "crafting",
@@ -63410,6 +63986,34 @@
     }
   },
   {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "COMPACTED_WILD_ROSE",
+        "count": 2
+      },
+      {
+        "id": "NEW_BOTTLE_OF_JYRRE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "ROSEWATER_FLASK",
+      "count": 1
+    }
+  },
+  {
     "type": "shop",
     "inputs": [
       {
@@ -75211,6 +75815,418 @@
     }
   },
   {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "COMPACTED_SUNFLOWER",
+        "count": 2
+      },
+      {
+        "id": "CHLORONITE",
+        "count": 5
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "SUNDIAL",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "COMPACTED_SUNFLOWER",
+        "count": 1
+      },
+      {
+        "id": "SUNFLOWER_GENERATOR_9",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "SUNFLOWER_GENERATOR_10",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "COMPACTED_SUNFLOWER",
+        "count": 2
+      },
+      {
+        "id": "SUNFLOWER_GENERATOR_10",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "SUNFLOWER_GENERATOR_11",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "DOUBLE_PLANT",
+        "count": 20
+      },
+      {
+        "id": "SUNFLOWER_GENERATOR_1",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "SUNFLOWER_GENERATOR_2",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "DOUBLE_PLANT",
+        "count": 40
+      },
+      {
+        "id": "SUNFLOWER_GENERATOR_2",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "SUNFLOWER_GENERATOR_3",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "DOUBLE_PLANT",
+        "count": 64
+      },
+      {
+        "id": "SUNFLOWER_GENERATOR_3",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "SUNFLOWER_GENERATOR_4",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_SUNFLOWER",
+        "count": 1
+      },
+      {
+        "id": "SUNFLOWER_GENERATOR_4",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "SUNFLOWER_GENERATOR_5",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_SUNFLOWER",
+        "count": 3
+      },
+      {
+        "id": "SUNFLOWER_GENERATOR_5",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "SUNFLOWER_GENERATOR_6",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_SUNFLOWER",
+        "count": 8
+      },
+      {
+        "id": "SUNFLOWER_GENERATOR_6",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "SUNFLOWER_GENERATOR_7",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_SUNFLOWER",
+        "count": 16
+      },
+      {
+        "id": "SUNFLOWER_GENERATOR_7",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "SUNFLOWER_GENERATOR_8",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_SUNFLOWER",
+        "count": 64
+      },
+      {
+        "id": "SUNFLOWER_GENERATOR_8",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "SUNFLOWER_GENERATOR_9",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_SUNFLOWER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "SUNFLOWER_HEAD",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_SUNFLOWER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "SUNFLOWER_OIL",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "COMPACTED_SUNFLOWER",
+        "count": 4
+      },
+      {
+        "id": "DAY_CRYSTAL",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "SUNSHINE_CRYSTAL",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "COMPACTED_SUNFLOWER",
+        "count": 1
+      },
+      {
+        "id": "FINE_TOPAZ_GEM",
+        "count": 8
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "SUNSTONE",
+      "count": 1
+    }
+  },
+  {
     "type": "shop",
     "inputs": [
       {
@@ -77070,6 +78086,78 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "JACOBS_TICKET",
+        "count": 16
+      },
+      {
+        "id": "COMPACTED_MOONFLOWER",
+        "count": 10
+      },
+      {
+        "id": "COMPACTED_SUNFLOWER",
+        "count": 10
+      },
+      {
+        "id": "THEORETICAL_HOE_SUNFLOWER_1",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "THEORETICAL_HOE_SUNFLOWER_2",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "JACOBS_TICKET",
+        "count": 64
+      },
+      {
+        "id": "COMPACTED_MOONFLOWER",
+        "count": 40
+      },
+      {
+        "id": "COMPACTED_SUNFLOWER",
+        "count": 40
+      },
+      {
+        "id": "THEORETICAL_HOE_SUNFLOWER_2",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "THEORETICAL_HOE_SUNFLOWER_3",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "NETHER_STALK",
         "count": 64
       },
@@ -77247,6 +78335,70 @@
     ],
     "result": {
       "id": "THEORETICAL_HOE_WHEAT_3",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "JACOBS_TICKET",
+        "count": 16
+      },
+      {
+        "id": "COMPACTED_WILD_ROSE",
+        "count": 10
+      },
+      {
+        "id": "THEORETICAL_HOE_WILD_ROSE_1",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "THEORETICAL_HOE_WILD_ROSE_2",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "JACOBS_TICKET",
+        "count": 64
+      },
+      {
+        "id": "COMPACTED_WILD_ROSE",
+        "count": 40
+      },
+      {
+        "id": "THEORETICAL_HOE_WILD_ROSE_2",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "THEORETICAL_HOE_WILD_ROSE_3",
       "count": 1
     }
   },
