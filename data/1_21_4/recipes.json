@@ -20102,10 +20102,6 @@
       {
         "id": "ENCHANTED_COCOA",
         "count": 32
-      },
-      {
-        "id": "WHEAT",
-        "count": 32
       }
     ],
     "pattern": [
@@ -20113,7 +20109,7 @@
       0,
       -1,
       0,
-      1,
+      0,
       0,
       -1,
       0,
@@ -20722,10 +20718,6 @@
       {
         "id": "ENCHANTED_CARROT",
         "count": 32
-      },
-      {
-        "id": "GOLDEN_CARROT",
-        "count": 32
       }
     ],
     "pattern": [
@@ -20733,7 +20725,7 @@
       0,
       -1,
       0,
-      1,
+      0,
       0,
       -1,
       0,
@@ -20897,18 +20889,18 @@
     "keys": [
       {
         "id": "ENCHANTED_BROWN_MUSHROOM",
-        "count": 8
+        "count": 32
       }
     ],
     "pattern": [
-      0,
+      -1,
       0,
       -1,
       0,
       0,
+      0,
       -1,
-      -1,
-      -1,
+      0,
       -1
     ],
     "result": {
@@ -20920,20 +20912,68 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_RED_MUSHROOM",
-        "count": 8
+        "id": "HUGE_MUSHROOM_1",
+        "count": 64
       }
     ],
     "pattern": [
       0,
       0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "ENCHANTED_HUGE_MUSHROOM_1",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_RED_MUSHROOM",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
       -1,
       0,
       0,
+      0,
       -1,
-      -1,
-      -1,
+      0,
       -1
+    ],
+    "result": {
+      "id": "ENCHANTED_HUGE_MUSHROOM_2",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HUGE_MUSHROOM_2",
+        "count": 64
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     "result": {
       "id": "ENCHANTED_HUGE_MUSHROOM_2",
@@ -25855,7 +25895,7 @@
       },
       {
         "id": "ENCHANTED_HUGE_MUSHROOM_2",
-        "count": 32
+        "count": 16
       },
       {
         "id": "SQUASH_BOOTS",
@@ -25863,7 +25903,7 @@
       },
       {
         "id": "ENCHANTED_HUGE_MUSHROOM_1",
-        "count": 32
+        "count": 16
       }
     ],
     "pattern": [
@@ -25895,7 +25935,7 @@
       },
       {
         "id": "ENCHANTED_HUGE_MUSHROOM_2",
-        "count": 32
+        "count": 16
       },
       {
         "id": "ENCHANTED_SUGAR_CANE",
@@ -25903,7 +25943,7 @@
       },
       {
         "id": "ENCHANTED_HUGE_MUSHROOM_1",
-        "count": 32
+        "count": 16
       },
       {
         "id": "MUTANT_NETHER_STALK",
@@ -25943,7 +25983,7 @@
       },
       {
         "id": "ENCHANTED_HUGE_MUSHROOM_2",
-        "count": 32
+        "count": 16
       },
       {
         "id": "SQUASH_HELMET",
@@ -25951,7 +25991,7 @@
       },
       {
         "id": "ENCHANTED_HUGE_MUSHROOM_1",
-        "count": 32
+        "count": 16
       }
     ],
     "pattern": [
@@ -25983,7 +26023,7 @@
       },
       {
         "id": "ENCHANTED_HUGE_MUSHROOM_2",
-        "count": 32
+        "count": 16
       },
       {
         "id": "SQUASH_LEGGINGS",
@@ -25991,7 +26031,7 @@
       },
       {
         "id": "ENCHANTED_HUGE_MUSHROOM_1",
-        "count": 32
+        "count": 16
       },
       {
         "id": "MUTANT_NETHER_STALK",
@@ -46607,8 +46647,12 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "JACOBS_TICKET",
+        "count": 16
+      },
+      {
         "id": "ENCHANTED_MELON_BLOCK",
-        "count": 8
+        "count": 16
       },
       {
         "id": "MELON_DICER",
@@ -46617,13 +46661,13 @@
     ],
     "pattern": [
       0,
-      0,
-      0,
-      0,
       1,
       0,
+      1,
+      2,
+      1,
       0,
-      0,
+      1,
       0
     ],
     "result": {
@@ -46635,8 +46679,12 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "JACOBS_TICKET",
+        "count": 64
+      },
+      {
         "id": "ENCHANTED_MELON_BLOCK",
-        "count": 16
+        "count": 64
       },
       {
         "id": "MELON_DICER_2",
@@ -46645,13 +46693,13 @@
     ],
     "pattern": [
       0,
-      0,
-      0,
-      0,
       1,
       0,
+      1,
+      2,
+      1,
       0,
-      0,
+      1,
       0
     ],
     "result": {
@@ -59038,8 +59086,12 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "JACOBS_TICKET",
+        "count": 16
+      },
+      {
         "id": "POLISHED_PUMPKIN",
-        "count": 2
+        "count": 5
       },
       {
         "id": "PUMPKIN_DICER",
@@ -59048,13 +59100,13 @@
     ],
     "pattern": [
       0,
-      0,
-      0,
-      0,
       1,
       0,
+      1,
+      2,
+      1,
       0,
-      0,
+      1,
       0
     ],
     "result": {
@@ -59066,8 +59118,12 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "JACOBS_TICKET",
+        "count": 64
+      },
+      {
         "id": "POLISHED_PUMPKIN",
-        "count": 4
+        "count": 20
       },
       {
         "id": "PUMPKIN_DICER_2",
@@ -59076,13 +59132,13 @@
     ],
     "pattern": [
       0,
-      0,
-      0,
-      0,
       1,
       0,
+      1,
+      2,
+      1,
       0,
-      0,
+      1,
       0
     ],
     "result": {
@@ -75846,6 +75902,34 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "DOUBLE_PLANT",
+        "count": 16
+      },
+      {
+        "id": "WOOD_HOE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "SUNFLOWER_GENERATOR_1",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "COMPACTED_SUNFLOWER",
         "count": 1
       },
@@ -77842,8 +77926,8 @@
         "count": 16
       },
       {
-        "id": "ENCHANTED_SUGAR",
-        "count": 64
+        "id": "ENCHANTED_SUGAR_CANE",
+        "count": 10
       },
       {
         "id": "THEORETICAL_HOE_CANE_1",
@@ -77875,7 +77959,7 @@
       },
       {
         "id": "ENCHANTED_SUGAR_CANE",
-        "count": 64
+        "count": 40
       },
       {
         "id": "THEORETICAL_HOE_CANE_2",
@@ -77934,8 +78018,8 @@
         "count": 16
       },
       {
-        "id": "ENCHANTED_CARROT",
-        "count": 64
+        "id": "ENCHANTED_GOLDEN_CARROT",
+        "count": 16
       },
       {
         "id": "THEORETICAL_HOE_CARROT_1",
@@ -78026,8 +78110,8 @@
         "count": 16
       },
       {
-        "id": "ENCHANTED_POTATO",
-        "count": 64
+        "id": "ENCHANTED_BAKED_POTATO",
+        "count": 15
       },
       {
         "id": "THEORETICAL_HOE_POTATO_1",
@@ -78059,7 +78143,7 @@
       },
       {
         "id": "ENCHANTED_BAKED_POTATO",
-        "count": 64
+        "count": 60
       },
       {
         "id": "THEORETICAL_HOE_POTATO_2",
@@ -78190,8 +78274,8 @@
         "count": 16
       },
       {
-        "id": "ENCHANTED_NETHER_STALK",
-        "count": 64
+        "id": "MUTANT_NETHER_STALK",
+        "count": 15
       },
       {
         "id": "THEORETICAL_HOE_WARTS_1",
@@ -78223,7 +78307,7 @@
       },
       {
         "id": "MUTANT_NETHER_STALK",
-        "count": 64
+        "count": 60
       },
       {
         "id": "THEORETICAL_HOE_WARTS_2",
@@ -78282,8 +78366,8 @@
         "count": 16
       },
       {
-        "id": "ENCHANTED_WHEAT",
-        "count": 16
+        "id": "ENCHANTED_HAY_BALE",
+        "count": 5
       },
       {
         "id": "THEORETICAL_HOE_WHEAT_1",
@@ -78315,7 +78399,7 @@
       },
       {
         "id": "ENCHANTED_HAY_BALE",
-        "count": 16
+        "count": 20
       },
       {
         "id": "THEORETICAL_HOE_WHEAT_2",
