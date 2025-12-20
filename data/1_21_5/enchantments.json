@@ -12714,6 +12714,105 @@
     "name": "Turbo-Melon",
     "isUltimate": false
   },
+  "TURBO_MOONFLOWER": {
+    "id": "TURBO_MOONFLOWER",
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§7Grants §6+5☘ Moonflower Fortune§7.",
+          "",
+          "§7Use this on an item in an Anvil",
+          "§7to apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Jacobs Farming contest",
+          "",
+          "§6Applied To:",
+          "§f- Hoe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§7Grants §6+10☘ Moonflower Fortune§7.",
+          "",
+          "§7Use this on an item in an Anvil",
+          "§7to apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Jacobs Farming contest",
+          "",
+          "§6Applied To:",
+          "§f- Hoe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§7Grants §6+15☘ Moonflower Fortune§7.",
+          "",
+          "§7Use this on an item in an Anvil",
+          "§7to apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Jacobs Farming contest",
+          "",
+          "§6Applied To:",
+          "§f- Hoe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§7Grants §6+20☘ Moonflower Fortune§7.",
+          "§7Requires §cBronze §7in §aMoonflower Contest§7!",
+          "",
+          "§7Use this on an item in an Anvil",
+          "§7to apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Jacobs Farming contest",
+          "",
+          "§6Applied To:",
+          "§f- Hoe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§7Grants §6+25☘ Moonflower Fortune§7.",
+          "§7Requires §fSilver §7in §aMoonflower Contest§7!",
+          "",
+          "§7Use this on an item in an Anvil",
+          "§7to apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Jacobs Farming contest",
+          "",
+          "§6Applied To:",
+          "§f- Hoe",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "name": "Turbo-Moonflower",
+    "isUltimate": false
+  },
   "TURBO_MUSHROOMS": {
     "id": "TURBO_MUSHROOMS",
     "levels": [
@@ -13009,6 +13108,204 @@
       }
     ],
     "name": "Turbo-Pumpkin",
+    "isUltimate": false
+  },
+  "TURBO_ROSE": {
+    "id": "TURBO_ROSE",
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§7Grants §6+5☘ Wild Rose Fortune§7.",
+          "",
+          "§7Use this on an item in an Anvil",
+          "§7to apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Jacobs Farming contest",
+          "",
+          "§6Applied To:",
+          "§7- §fHoe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§7Grants §6+10☘ Wild Rose Fortune§7.",
+          "",
+          "§7Use this on an item in an Anvil",
+          "§7to apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Jacobs Farming contest",
+          "",
+          "§6Applied To:",
+          "§7- §fHoe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§7Grants §6+15☘ Wild Rose Fortune§7.",
+          "",
+          "§7Use this on an item in an Anvil",
+          "§7to apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Jacobs Farming contest",
+          "",
+          "§6Applied To:",
+          "§7- §fHoe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§7Grants §6+20☘ Wild Rose Fortune§7.",
+          "§7Requires §cBronze §7in §aWild Rose §7contest!",
+          "",
+          "§7Use this on an item in an Anvil",
+          "§7to apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Jacobs Farming contest",
+          "",
+          "§6Applied To:",
+          "§f- Hoe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§7Grants §6+25☘ Wild Rose Fortune§7.",
+          "§7Requires §fSilver §7in §aWild Rose §7contest!",
+          "",
+          "§7Use this on an item in an Anvil",
+          "§7to apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Jacobs Farming contest",
+          "",
+          "§6Applied To:",
+          "§f- Hoe",
+          "",
+          "§f§lCOMMON"
+        ]
+      }
+    ],
+    "name": "Turbo-Rose",
+    "isUltimate": false
+  },
+  "TURBO_SUNFLOWER": {
+    "id": "TURBO_SUNFLOWER",
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§7Grants §6+5☘ Sunflower Fortune§7.",
+          "",
+          "§7Use this on an item in an Anvil",
+          "§7to apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Jacobs Farming contest",
+          "",
+          "§6Applied To:",
+          "§f- Hoe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§7Grants §6+10☘ Sunflower Fortune§7.",
+          "",
+          "§7Use this on an item in an Anvil",
+          "§7to apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Jacobs Farming contest",
+          "",
+          "§6Applied To:",
+          "§f- Hoe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§7Grants §6+15☘ Sunflower Fortune§7.",
+          "",
+          "§7Use this on an item in an Anvil",
+          "§7to apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Jacobs Farming contest",
+          "",
+          "§6Applied To:",
+          "§f- Hoe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§7Grants §6+20☘ Sunflower Fortune§7.",
+          "§7Requires §cBronze §7in §aSunflower Contest§7!",
+          "",
+          "§7Use this on an item in an Anvil",
+          "§7to apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Jacobs Farming contest",
+          "",
+          "§6Applied To:",
+          "§f- Hoe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§7Grants §6+25☘ Sunflower Fortune§7.",
+          "§7Requires §fSilver §7in §aSunflower Contest§7!",
+          "",
+          "§7Use this on an item in an Anvil",
+          "§7to apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Jacobs Farming contest",
+          "",
+          "§6Applied To:",
+          "§f- Hoe",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "name": "Turbo-Sunflower",
     "isUltimate": false
   },
   "TURBO_WARTS": {
@@ -13674,6 +13971,153 @@
       }
     ],
     "name": "Combo",
+    "isUltimate": true
+  },
+  "ULTIMATE_CROP_FEVER": {
+    "id": "ULTIMATE_CROP_FEVER",
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§7When breaking crops, there is a",
+          "§a0.001% §7chance to trigger §d§lCrop",
+          "§d§lFever§7.",
+          "§7During §d§lCrop Fever §7you roll",
+          "§7additional crops for §a60s§7, with a §a15%",
+          "§7increased chance of rare drops",
+          "§7and §6+100☘ Farming Fortune§7.",
+          "",
+          "§cYou can only have 1 Ultimate",
+          "§cEnchantment on an item!",
+          "",
+          "§7Use this on an item in an Anvil to",
+          "§7apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Moonflower Collection",
+          "",
+          "§6Applied To:",
+          "§7- §fAxe",
+          "§7- §fHoe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§7When breaking crops, there is a",
+          "§a0.002% §7chance to trigger §d§lCrop",
+          "§d§lFever§7.",
+          "§7During §d§lCrop Fever §7you roll",
+          "§7additional crops for §a60s§7, with a §a15%",
+          "§7increased chance of rare drops",
+          "§7and §6+100☘ Farming Fortune§7.",
+          "",
+          "§cYou can only have 1 Ultimate",
+          "§cEnchantment on an item!",
+          "",
+          "§7Use this on an item in an Anvil to",
+          "§7apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Moonflower Collection",
+          "",
+          "§6Applied To:",
+          "§7- §fAxe",
+          "§7- §fHoe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§7When breaking crops, there is a",
+          "§a0.003% §7chance to trigger §d§lCrop",
+          "§d§lFever§7.",
+          "§7During §d§lCrop Fever §7you roll",
+          "§7additional crops for §a60s§7, with a §a15%",
+          "§7increased chance of rare drops",
+          "§7and §6+100☘ Farming Fortune§7.",
+          "",
+          "§cYou can only have 1 Ultimate",
+          "§cEnchantment on an item!",
+          "",
+          "§7Use this on an item in an Anvil to",
+          "§7apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Moonflower Collection",
+          "",
+          "§6Applied To:",
+          "§7- §fAxe",
+          "§7- §fHoe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§7When breaking crops, there is a",
+          "§a0.004% §7chance to trigger §d§lCrop",
+          "§d§lFever§7.",
+          "§7During §d§lCrop Fever §7you roll",
+          "§7additional crops for §a60s§7, with a §a15%",
+          "§7increased chance of rare drops",
+          "§7and §6+100☘ Farming Fortune§7.",
+          "",
+          "§cYou can only have 1 Ultimate",
+          "§cEnchantment on an item!",
+          "",
+          "§7Use this on an item in an Anvil to",
+          "§7apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Moonflower Collection",
+          "",
+          "§6Applied To:",
+          "§7- §fAxe",
+          "§7- §fHoe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§7When breaking crops, there is a",
+          "§a0.005% §7chance to trigger §d§lCrop",
+          "§d§lFever§7.",
+          "§7During §d§lCrop Fever §7you roll",
+          "§7additional crops for §a60s§7, with a §a15%",
+          "§7increased chance of rare drops",
+          "§7and §6+100☘ Farming Fortune§7.",
+          "",
+          "§cYou can only have 1 Ultimate",
+          "§cEnchantment on an item!",
+          "",
+          "§7Use this on an item in an Anvil to",
+          "§7apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Moonflower Collection",
+          "",
+          "§6Applied To:",
+          "§7- §fAxe",
+          "§7- §fHoe",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "name": "Crop Fever",
     "isUltimate": true
   },
   "ULTIMATE_FATAL_TEMPO": {

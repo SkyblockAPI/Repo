@@ -2170,6 +2170,199 @@
       }
     }
   },
+  "CROW": {
+    "id": "CROW",
+    "name": "Crow",
+    "tiers": {
+      "COMMON": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2MjgwMjExODUxMCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzFlN2UxYzYxNDYzOWJiYzk1YTBkODFmZjdlNWY3ZjYwNmQ5YjMzMTE1Y2YyYmYyYTQwY2RjYmJiNTMxMzI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+        "lore": [
+          "§8Combat Pet",
+          "",
+          "§7Intelligence: §b{INTELLIGENCE}",
+          "§7Ability Damage: §c{ABILITY_DAMAGE}",
+          "",
+          "§6Quick Hands",
+          "§7Lowers the cooldown of your",
+          "§7abilities by §a{0}§7.",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§f§lCOMMON"
+        ],
+        "variables": {
+          "0": [
+            3,
+            5
+          ],
+          "INTELLIGENCE": [
+            1.5,
+            150
+          ],
+          "ABILITY_DAMAGE": [
+            0.2,
+            20
+          ]
+        }
+      },
+      "UNCOMMON": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2MjgwMjExODUxMCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzFlN2UxYzYxNDYzOWJiYzk1YTBkODFmZjdlNWY3ZjYwNmQ5YjMzMTE1Y2YyYmYyYTQwY2RjYmJiNTMxMzI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+        "lore": [
+          "§8Combat Pet",
+          "",
+          "§7Intelligence: §b{INTELLIGENCE}",
+          "§7Ability Damage: §c{ABILITY_DAMAGE}",
+          "",
+          "§6Quick Hands",
+          "§7Lowers the cooldown of your",
+          "§7abilities by §a{0}§7.",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§a§lUNCOMMON"
+        ],
+        "variables": {
+          "0": [
+            3.1,
+            10
+          ],
+          "INTELLIGENCE": [
+            1.5,
+            150
+          ],
+          "ABILITY_DAMAGE": [
+            0.2,
+            20
+          ]
+        }
+      },
+      "RARE": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2MjgwMjExODUxMCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzFlN2UxYzYxNDYzOWJiYzk1YTBkODFmZjdlNWY3ZjYwNmQ5YjMzMTE1Y2YyYmYyYTQwY2RjYmJiNTMxMzI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+        "lore": [
+          "§8Combat Pet",
+          "",
+          "§7Intelligence: §b{INTELLIGENCE}",
+          "§7Ability Damage: §c{ABILITY_DAMAGE}",
+          "",
+          "§6Quick Hands",
+          "§7Lowers the cooldown of your",
+          "§7abilities by §a{0}§7.",
+          "",
+          "§6Camouflage",
+          "§7After casting an ability, increase",
+          "§7your §a❈ Defense §7by §a{1} §7for §b20",
+          "§bseconds§7.",
+          "§8Capped at 500 Defense",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§9§lRARE"
+        ],
+        "variables": {
+          "0": [
+            3.1,
+            10
+          ],
+          "1": [
+            5.1,
+            15
+          ],
+          "INTELLIGENCE": [
+            1.5,
+            150
+          ],
+          "ABILITY_DAMAGE": [
+            0.2,
+            20
+          ]
+        }
+      },
+      "EPIC": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2MjgwMjExODUxMCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzFlN2UxYzYxNDYzOWJiYzk1YTBkODFmZjdlNWY3ZjYwNmQ5YjMzMTE1Y2YyYmYyYTQwY2RjYmJiNTMxMzI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+        "lore": [
+          "§8Combat Pet",
+          "",
+          "§7Intelligence: §b{INTELLIGENCE}",
+          "§7Ability Damage: §c{ABILITY_DAMAGE}",
+          "",
+          "§6Quick Hands",
+          "§7Lowers the cooldown of your",
+          "§7abilities by §a{0}§7.",
+          "",
+          "§6Camouflage",
+          "§7After casting an ability, increase",
+          "§7your §a❈ Defense §7by §a{1} §7for §b20",
+          "§bseconds§7.",
+          "§8Capped at 500 Defense",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§5§lEPIC"
+        ],
+        "variables": {
+          "0": [
+            3.1,
+            15
+          ],
+          "1": [
+            5.2,
+            20
+          ],
+          "INTELLIGENCE": [
+            1.5,
+            150
+          ],
+          "ABILITY_DAMAGE": [
+            0.2,
+            20
+          ]
+        }
+      },
+      "LEGENDARY": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2MjgwMjExODUxMCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzFlN2UxYzYxNDYzOWJiYzk1YTBkODFmZjdlNWY3ZjYwNmQ5YjMzMTE1Y2YyYmYyYTQwY2RjYmJiNTMxMzI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+        "lore": [
+          "§8Combat Pet",
+          "",
+          "§7Intelligence: §b{INTELLIGENCE}",
+          "§7Ability Damage: §c{ABILITY_DAMAGE}",
+          "",
+          "§6Quick Hands",
+          "§7Lowers the cooldown of your",
+          "§7abilities by §a{0}§7.",
+          "",
+          "§6Camouflage",
+          "§7After casting an ability, increase",
+          "§7your §a❈ Defense §7by §a{1} §7for §b20",
+          "§bseconds§7.",
+          "§8Capped at 500 Defense",
+          "",
+          "§6Insightful",
+          "§7Gives a §a{2} §7chance to not consume",
+          "§7Mana when using an ability.",
+          "",
+          "§6§lLEGENDARY"
+        ],
+        "variables": {
+          "0": [
+            3.1,
+            15
+          ],
+          "1": [
+            5.2,
+            20
+          ],
+          "2": [
+            3.1,
+            15
+          ],
+          "INTELLIGENCE": [
+            1.5,
+            150
+          ],
+          "ABILITY_DAMAGE": [
+            0.2,
+            20
+          ]
+        }
+      }
+    }
+  },
   "DOLPHIN": {
     "id": "DOLPHIN",
     "name": "Dolphin",

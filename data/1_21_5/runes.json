@@ -1,4 +1,24 @@
 {
+  "ANTLERS": [
+    {
+      "tier": 3,
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2NTU3MjUzNTQxNywKICAicHJvZmlsZUlkIiA6ICI3ZGExYjViODdhMTg0NzgyOTQ2ZjZiYTdhMmNiMDhlMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSeWt1bk9jYXJhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNjM2IxNWZmNDBiMzgxZDYwODRmNjc3Yzc4NjQ2MTBjNTNiMjVhNmFhYTg0MDY5NmZjZGMwZGE2MzBiMzVmMzciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "§6◆ Antlers Rune III",
+      "lore": [
+        "§8Requires level 0",
+        "§8Helmet",
+        "",
+        "§7A set of beautiful antlers adorn",
+        "§7your head. Obtained from the Taylor",
+        "§72025 Winter Bundle.",
+        "",
+        "§7Apply this rune to helmet or fuse",
+        "§7two together at the Runic Pedestal!",
+        "",
+        "§6§lLEGENDARY COSMETIC"
+      ]
+    }
+  ],
   "AXE_FADING_GREEN": [
     {
       "tier": 1,

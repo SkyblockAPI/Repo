@@ -14166,6 +14166,36 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "ENCHANTED_MOONFLOWER",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_EGG",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "type": "pet",
+      "pet": "CROW",
+      "tier": "COMMON",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "GRIFFIN_FEATHER",
         "count": 16
       },
@@ -19641,30 +19671,6 @@
     ],
     "result": {
       "id": "ENCHANTED_CACTUS",
-      "count": 1
-    }
-  },
-  {
-    "type": "crafting",
-    "keys": [
-      {
-        "id": "INK_SACK-2",
-        "count": 32
-      }
-    ],
-    "pattern": [
-      -1,
-      0,
-      -1,
-      0,
-      0,
-      0,
-      -1,
-      0,
-      -1
-    ],
-    "result": {
-      "id": "ENCHANTED_CACTUS_GREEN",
       "count": 1
     }
   },
@@ -41961,6 +41967,42 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "FLESHTRAP",
+        "count": 4
+      },
+      {
+        "id": "BLASTBERRY",
+        "count": 4
+      },
+      {
+        "id": "CHEESEBITE",
+        "count": 4
+      },
+      {
+        "id": "MEDIUM_MUTATIONS_SACK",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "LARGE_MUTATIONS_SACK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_SULPHUR_CUBE",
         "count": 1
       },
@@ -46458,6 +46500,42 @@
     ],
     "result": {
       "id": "MEDIUM_MINING_SACK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "CHOCOBERRY",
+        "count": 2
+      },
+      {
+        "id": "CREAMBLOOM",
+        "count": 2
+      },
+      {
+        "id": "COALROOT",
+        "count": 2
+      },
+      {
+        "id": "SMALL_MUTATIONS_SACK",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "MEDIUM_MUTATIONS_SACK",
       "count": 1
     }
   },
@@ -68471,6 +68549,395 @@
     }
   },
   {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "LOTUS_BRACELET",
+        "count": 1
+      },
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 2500
+      }
+    ],
+    "result": {
+      "id": "BLOSSOM_BRACELET",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "LOTUS_BELT",
+        "count": 1
+      },
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 5000
+      }
+    ],
+    "result": {
+      "id": "BLOSSOM_BELT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "LOTUS_NECKLACE",
+        "count": 1
+      },
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 7500
+      }
+    ],
+    "result": {
+      "id": "BLOSSOM_NECKLACE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "LOTUS_CLOAK",
+        "count": 1
+      },
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 10000
+      }
+    ],
+    "result": {
+      "id": "BLOSSOM_CLOAK",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SUNFLOWER_GENERATOR_11",
+        "count": 1
+      },
+      {
+        "id": "COMPACTED_SUNFLOWER",
+        "count": 32
+      }
+    ],
+    "result": {
+      "id": "SUNFLOWER_GENERATOR_12",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 200
+      }
+    ],
+    "result": {
+      "id": "SOWLEDGE_GARDEN_CHIP",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 500
+      }
+    ],
+    "result": {
+      "id": "CROPSHOT_GARDEN_CHIP",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 5000
+      }
+    ],
+    "result": {
+      "id": "HYDRO_CAN_1000",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "HYDRO_CAN_1000",
+        "count": 1
+      },
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 200
+      }
+    ],
+    "result": {
+      "id": "HYDRO_CAN_TURBO_2000",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "HYDRO_CAN_TURBO_2000",
+        "count": 1
+      },
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 500
+      }
+    ],
+    "result": {
+      "id": "HYDRO_CAN_ULTRA_3000",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "HYDRO_CAN_ULTRA_3000",
+        "count": 1
+      },
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 1000
+      }
+    ],
+    "result": {
+      "id": "AQUAMASTER_X",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "AQUAMASTER_X",
+        "count": 1
+      },
+      {
+        "id": "IRIDIUM",
+        "count": 1
+      },
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 2500
+      }
+    ],
+    "result": {
+      "id": "AQUAMASTER_HYDROMAX",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 50
+      }
+    ],
+    "result": {
+      "id": "PLANT_DIAGNOSTICS_TOOL",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "THEORETICAL_HOE_WHEAT_1",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "THEORETICAL_HOE_CARROT_1",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "THEORETICAL_HOE_POTATO_1",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "PUMPKIN_DICER",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "THEORETICAL_HOE_CANE_1",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "MELON_DICER",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "CACTUS_KNIFE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "COCO_CHOPPER",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "FUNGI_CUTTER",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "THEORETICAL_HOE_WARTS_1",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "THEORETICAL_HOE_SUNFLOWER_1",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "THEORETICAL_HOE_WILD_ROSE_1",
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {
@@ -69234,6 +69701,38 @@
     ],
     "result": {
       "id": "SMALL_MINING_SACK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "VEILSHROOM",
+        "count": 1
+      },
+      {
+        "id": "DUSTGRAIN",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_LEATHER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "SMALL_MUTATIONS_SACK",
       "count": 1
     }
   },
@@ -80844,6 +81343,36 @@
     "result": {
       "id": "ULTIMATE_CARROT_CANDY",
       "count": 10
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "COMPACTED_MOONFLOWER",
+        "count": 2
+      },
+      {
+        "id": "JUKEBOX",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "type": "enchantment",
+      "id": "ULTIMATE_CROP_FEVER",
+      "level": 1,
+      "count": 1
     }
   },
   {
