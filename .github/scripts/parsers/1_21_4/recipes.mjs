@@ -1,16 +1,13 @@
 import fs from "fs";
 import {COINS_ID, getInputs, getResult} from "./recipes/ingredients.mjs";
 
+const craftingRecipesKeys = ["A1", "A2", "A3", "B1", "B2", "B3", "C1", "C2", "C3"]
 const notRecipes = ["trade", "drops"];
 
 const recipesFile = [];
 
 const parseCraftingRecipe = (item, recipe) => {
-    const pattern = [
-        recipe["A1"], recipe["A2"], recipe["A3"],
-        recipe["B1"], recipe["B2"], recipe["B3"],
-        recipe["C1"], recipe["C2"], recipe["C3"]
-    ];
+    const pattern = craftingRecipesKeys.map(it => recipe[it]);
 
     let keys = new Set(pattern);
     keys.delete("");
@@ -91,8 +88,10 @@ export const Recipes = {
                     recipesFile.push(parseNpcRecipe(recipe));
                 } else if (recipe.type === "katgrade") {
                     recipesFile.push(parseKatRecipe(recipe))
+                } else if (!recipe.type && craftingRecipesKeys.filter(it => Object.hasOwn(recipe, it)).length === 9) {
+                    recipesFile.push(parseCraftingRecipe(item, recipe));
                 } else {
-                    console.log(item.internalname, recipe.type);
+                    console.log("Recipe has unknown type:", item.internalname, recipe);
                 }
             }
         }
