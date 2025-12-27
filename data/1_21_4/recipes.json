@@ -13222,6 +13222,30 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "HELIANTHUS",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "CONDENSED_HELIANTHUS",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "WHEAT",
         "count": 1
       },
@@ -34797,6 +34821,46 @@
     ],
     "result": {
       "id": "HELIANTHUS_CHESTPLATE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "CONDENSED_HELIANTHUS",
+        "count": 1
+      },
+      {
+        "id": "COMPACTED_WILD_ROSE",
+        "count": 64
+      },
+      {
+        "id": "COMPACTED_SUNFLOWER",
+        "count": 64
+      },
+      {
+        "id": "FERMENTO_HELMET",
+        "count": 1
+      },
+      {
+        "id": "COMPACTED_MOONFLOWER",
+        "count": 64
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      4,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "HELIANTHUS_HELMET",
       "count": 1
     }
   },
@@ -57388,6 +57452,34 @@
     }
   },
   {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_WILD_ROSE",
+        "count": 4
+      },
+      {
+        "id": "PLUMBER_SPONGE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "PLOT_ERASER",
+      "count": 1
+    }
+  },
+  {
     "type": "shop",
     "inputs": [
       {
@@ -58503,6 +58595,30 @@
     ],
     "result": {
       "id": "PRESUMED_GALLON_OF_RED_PAINT",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_WILD_ROSE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      0,
+      -1,
+      0,
+      -1,
+      0,
+      -1,
+      0
+    ],
+    "result": {
+      "id": "PRICKLY_KISS",
       "count": 1
     }
   },

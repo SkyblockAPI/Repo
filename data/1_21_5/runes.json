@@ -44,6 +44,29 @@
       ]
     },
     {
+      "tier": 2,
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1NTc1NTE0NjM3NywKICAicHJvZmlsZUlkIiA6ICI2MTU1NTMyOTY2OWM0ZDA5YmFiOGJlNDNkYWUwYTRjMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmaTAxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNTZkNDIwYjJiOTA0ZGViZDdiZTNhMTU3ZDMzMGUxNzI2NGYxY2YzMDJhMmQyMDIyYjllNDY1Mzg2NTNiOGIwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "§a◆ Fading Green Rune II",
+      "lore": [
+        "§8Requires level 5",
+        "§8Throwing Axe",
+        "",
+        "§7Your axe fades into groovy green",
+        "§7particles!",
+        "",
+        "§cThis rune effect uses latest",
+        "§cMinecraft version particles, and will",
+        "§cnot display those particles on older",
+        "§cversions.",
+        "",
+        "§7Apply this rune to throwing axe or",
+        "§7fuse two together at the Runic",
+        "§7Pedestal!",
+        "",
+        "§a§lUNCOMMON COSMETIC"
+      ]
+    },
+    {
       "tier": 3,
       "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1NTc1NTE0NjM3NywKICAicHJvZmlsZUlkIiA6ICI2MTU1NTMyOTY2OWM0ZDA5YmFiOGJlNDNkYWUwYTRjMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmaTAxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNTZkNDIwYjJiOTA0ZGViZDdiZTNhMTU3ZDMzMGUxNzI2NGYxY2YzMDJhMmQyMDIyYjllNDY1Mzg2NTNiOGIwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "§a◆ Fading Green Rune III",
