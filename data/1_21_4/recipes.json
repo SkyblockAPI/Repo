@@ -2313,114 +2313,6 @@
     "inputs": [
       {
         "type": "currency",
-        "currency": "GOLD_MEDAL",
-        "count": 1
-      },
-      {
-        "id": "JACOBS_TICKET",
-        "count": 32
-      }
-    ],
-    "result": {
-      "id": "THEORETICAL_HOE",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "GOLD_MEDAL",
-        "count": 1
-      },
-      {
-        "id": "JACOBS_TICKET",
-        "count": 32
-      }
-    ],
-    "result": {
-      "id": "COCO_CHOPPER",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "GOLD_MEDAL",
-        "count": 1
-      },
-      {
-        "id": "JACOBS_TICKET",
-        "count": 32
-      }
-    ],
-    "result": {
-      "id": "MELON_DICER",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "GOLD_MEDAL",
-        "count": 1
-      },
-      {
-        "id": "JACOBS_TICKET",
-        "count": 32
-      }
-    ],
-    "result": {
-      "id": "PUMPKIN_DICER",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "GOLD_MEDAL",
-        "count": 1
-      },
-      {
-        "id": "JACOBS_TICKET",
-        "count": 32
-      }
-    ],
-    "result": {
-      "id": "FUNGI_CUTTER",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "GOLD_MEDAL",
-        "count": 1
-      },
-      {
-        "id": "JACOBS_TICKET",
-        "count": 32
-      }
-    ],
-    "result": {
-      "id": "CACTUS_KNIFE",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
         "currency": "BRONZE_MEDAL",
         "count": 2
       },
@@ -2431,6 +2323,34 @@
     ],
     "result": {
       "id": "ANITA_TALISMAN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "GOLD_MEDAL",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "MECHAMIND_GARDEN_CHIP",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "GOLD_MEDAL",
+        "count": 2
+      }
+    ],
+    "result": {
+      "id": "OVERDRIVE_GARDEN_CHIP",
       "count": 1
     }
   },
@@ -14217,6 +14137,110 @@
     }
   },
   {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "CROW",
+      "tier": "COMMON",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "CROW",
+      "tier": "UNCOMMON",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "ENCHANTED_MOONFLOWER",
+        "count": 128
+      }
+    ],
+    "time": 86400,
+    "coins": 250000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "CROW",
+      "tier": "UNCOMMON",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "CROW",
+      "tier": "RARE",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "COMPACTED_MOONFLOWER",
+        "count": 4
+      },
+      {
+        "id": "VEILSHROOM",
+        "count": 2
+      }
+    ],
+    "time": 172800,
+    "coins": 1000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "CROW",
+      "tier": "RARE",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "CROW",
+      "tier": "EPIC",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "COMPACTED_MOONFLOWER",
+        "count": 8
+      },
+      {
+        "id": "DUSKBLOOM",
+        "count": 4
+      }
+    ],
+    "time": 259200,
+    "coins": 5000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "CROW",
+      "tier": "EPIC",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "CROW",
+      "tier": "LEGENDARY",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "COMPACTED_MOONFLOWER",
+        "count": 16
+      },
+      {
+        "id": "DO_NOT_EAT_SHROOM",
+        "count": 8
+      }
+    ],
+    "time": 432000,
+    "coins": 10000000
+  },
+  {
     "type": "crafting",
     "keys": [
       {
@@ -24500,6 +24524,38 @@
     "result": {
       "id": "EXPLOSIVE_MINECART",
       "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "VOLT_CRUX",
+        "count": 1
+      },
+      {
+        "id": "HALF_EATEN_CARROT",
+        "count": 40
+      },
+      {
+        "id": "SCRIBE_CRUX",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      1,
+      1,
+      1,
+      -1,
+      2,
+      -1
+    ],
+    "result": {
+      "id": "EXPORTABLE_CARROTS",
+      "count": 48
     }
   },
   {
@@ -51242,6 +51298,38 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "ENCHANTED_MOONFLOWER",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_ENDSTONE",
+        "count": 16
+      },
+      {
+        "id": "LEVER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "NIGHTSWITCH",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_QUARTZ",
         "count": 1
       },
@@ -56317,6 +56405,24 @@
       {
         "type": "currency",
         "currency": "PEST",
+        "count": 200
+      },
+      {
+        "id": "PESTHUNTER_ARTIFACT",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "PESTHUNTER_RELIC",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "PEST",
         "count": 50
       },
       {
@@ -56426,6 +56532,28 @@
     ],
     "result": {
       "id": "MOUSE_PEST_TRAP",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "PEST",
+        "count": 200
+      },
+      {
+        "id": "FIRE_IN_A_BOTTLE",
+        "count": 1
+      },
+      {
+        "id": "MOUSE_PEST_TRAP",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "VERMIN_PEST_TRAP",
       "count": 1
     }
   },
@@ -69102,6 +69230,62 @@
     }
   },
   {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "GEM",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "COUNTRY_GREENHOUSE_SKIN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "GEM",
+        "count": 500
+      }
+    ],
+    "result": {
+      "id": "MOON_GREENHOUSE_SKIN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 2500
+      }
+    ],
+    "result": {
+      "id": "ORCHARD_GREENHOUSE_SKIN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 5000
+      }
+    ],
+    "result": {
+      "id": "BOTANICAL_GREENHOUSE_SKIN",
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {
@@ -79206,6 +79390,38 @@
     ],
     "result": {
       "id": "THIN_GLASS",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_CACTUS",
+        "count": 4
+      },
+      {
+        "id": "ENCHANTED_WILD_ROSE",
+        "count": 4
+      },
+      {
+        "id": "LEVER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "THORNY_VINES",
       "count": 1
     }
   },
