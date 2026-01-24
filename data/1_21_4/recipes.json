@@ -1546,6 +1546,30 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "ALL_IN_ALOE_FRAGMENT",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "ALL_IN_ALOE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_GOLD_BLOCK",
         "count": 6
       },
@@ -5835,6 +5859,187 @@
     ],
     "result": {
       "id": "BIGGER_TEETH",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SKYBLOCK_BINGO_POINT",
+        "count": 50
+      }
+    ],
+    "result": {
+      "id": "BINGO_DISPLAY",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SKYBLOCK_BINGO_POINT",
+        "count": 30
+      }
+    ],
+    "result": {
+      "id": "COLLECTION_DISPLAY",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SKYBLOCK_BINGO_POINT",
+        "count": 30
+      }
+    ],
+    "result": {
+      "id": "BONZO_STATUE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SKYBLOCK_BINGO_POINT",
+        "count": 5
+      }
+    ],
+    "result": {
+      "id": "BOOK_OF_STATS",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SKYBLOCK_BINGO_POINT",
+        "count": 150
+      }
+    ],
+    "result": {
+      "id": "SPRING_BOOTS",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SKYBLOCK_BINGO_POINT",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "GOLDEN_DANTE_STATUE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SKYBLOCK_BINGO_POINT",
+        "count": 50
+      }
+    ],
+    "result": {
+      "id": "DITTO_SKULL",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SKYBLOCK_BINGO_POINT",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "BINGO_TALISMAN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SKYBLOCK_BINGO_POINT",
+        "count": 150
+      },
+      {
+        "id": "BINGO_TALISMAN",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "BINGO_RING",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SKYBLOCK_BINGO_POINT",
+        "count": 150
+      },
+      {
+        "id": "BINGO_RING",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "BINGO_ARTIFACT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SKYBLOCK_BINGO_POINT",
+        "count": 200
+      },
+      {
+        "id": "BINGO_ARTIFACT",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "BINGO_RELIC",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SKYBLOCK_BINGO_POINT",
+        "count": 500
+      }
+    ],
+    "result": {
+      "id": "DYE_BINGO_BLUE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SKYBLOCK_BINGO_POINT",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "DITTO_SKIN",
       "count": 1
     }
   },
@@ -37991,6 +38196,30 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "DOUBLE_PLANT-4",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "INK_SACK-1",
+      "count": 2
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "INK_SACK-2",
         "count": 1
       },
@@ -38012,7 +38241,7 @@
     ],
     "result": {
       "id": "INK_SACK-10",
-      "count": 1
+      "count": 2
     }
   },
   {
@@ -38043,17 +38272,37 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-4",
-        "count": 1
-      },
-      {
-        "id": "INK_SACK-15",
+        "id": "DOUBLE_PLANT",
         "count": 1
       }
     ],
     "pattern": [
       0,
-      1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "INK_SACK-11",
+      "count": 2
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "RED_ROSE-1",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
       -1,
       -1,
       -1,
@@ -38075,7 +38324,115 @@
         "count": 1
       },
       {
+        "id": "INK_SACK-15",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "INK_SACK-12",
+      "count": 2
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "RED_ROSE-2",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "INK_SACK-13",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "DOUBLE_PLANT-1",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "INK_SACK-13",
+      "count": 2
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "INK_SACK-1",
+        "count": 1
+      },
+      {
+        "id": "INK_SACK-4",
+        "count": 1
+      },
+      {
+        "id": "INK_SACK-9",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      2,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "INK_SACK-13",
+      "count": 3
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "INK_SACK-1",
+        "count": 1
+      },
+      {
+        "id": "INK_SACK-4",
         "count": 1
       },
       {
@@ -38096,6 +38453,30 @@
     ],
     "result": {
       "id": "INK_SACK-13",
+      "count": 4
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "RED_ROSE-5",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "INK_SACK-14",
       "count": 1
     }
   },
@@ -38124,7 +38505,7 @@
     ],
     "result": {
       "id": "INK_SACK-14",
-      "count": 1
+      "count": 2
     }
   },
   {
@@ -38235,6 +38616,106 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "RED_ROSE-3",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "INK_SACK-7",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "RED_ROSE-6",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "INK_SACK-7",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "RED_ROSE-8",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "INK_SACK-7",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "INK_SACK-8",
+        "count": 1
+      },
+      {
+        "id": "INK_SACK-15",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "INK_SACK-7",
+      "count": 2
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "INK_SACK",
         "count": 1
       },
@@ -38256,7 +38737,7 @@
     ],
     "result": {
       "id": "INK_SACK-7",
-      "count": 1
+      "count": 3
     }
   },
   {
@@ -38284,7 +38765,55 @@
     ],
     "result": {
       "id": "INK_SACK-8",
+      "count": 2
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "RED_ROSE-7",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "INK_SACK-9",
       "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "DOUBLE_PLANT-5",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "INK_SACK-9",
+      "count": 2
     }
   },
   {
@@ -38312,7 +38841,7 @@
     ],
     "result": {
       "id": "INK_SACK-9",
-      "count": 1
+      "count": 2
     }
   },
   {
