@@ -58155,6 +58155,20 @@
     "inputs": [
       {
         "type": "currency",
+        "currency": "COIN",
+        "count": 25000
+      }
+    ],
+    "result": {
+      "id": "SUPER_SCRUBBER",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
         "currency": "MOTE",
         "count": 1000
       }
