@@ -16807,6 +16807,34 @@
     }
   },
   {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_BONE",
+        "count": 16
+      },
+      {
+        "id": "HEMOGLASS",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      0,
+      -1,
+      1,
+      0,
+      0,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "DISPLACED_LEECH",
+      "count": 1
+    }
+  },
+  {
     "type": "forge",
     "inputs": [
       {
