@@ -4345,7 +4345,7 @@
       "z": 279
     },
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY1ZjMxYzFjMjE1YTU3ZTkzN2ZkNzVhYjM1NzgyZjg1ZWMyNDJhMWIxZjk1MGEyNmE0MmJiNWUwYWE1Y2JlZGEifX19",
-    "name": "Royal Resident (Neighbor)"
+    "name": "Resident Neighbor"
   },
   "ROYAL_RESIDENT_NPC": {
     "island": "mining_3",
@@ -4365,7 +4365,7 @@
       "z": 277
     },
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI3ZGIxNTQ0MjJjNjQxNTM3MjA0YTA4M2EwMzQwYmJlNWIzYWIwZWI4ODA5ODgzNDA4ZDJhNzhkZTFlNTkyYSJ9fX0=",
-    "name": "Royal Resident (Snooty)"
+    "name": "Resident Snooty"
   },
   "ROY_RIFT_NPC": {
     "island": "rift",
