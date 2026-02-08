@@ -32104,6 +32104,46 @@
     }
   },
   {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 500000000
+      },
+      {
+        "id": "ENCHANTED_GOLD_BLOCK",
+        "count": 50
+      },
+      {
+        "id": "PERFECT_SAPPHIRE_GEM",
+        "count": 1
+      },
+      {
+        "id": "PERFECT_JADE_GEM",
+        "count": 1
+      },
+      {
+        "id": "PERFECT_AMBER_GEM",
+        "count": 1
+      },
+      {
+        "id": "PERFECT_AMETHYST_GEM",
+        "count": 1
+      },
+      {
+        "id": "PERFECT_TOPAZ_GEM",
+        "count": 1
+      }
+    ],
+    "result": {
+      "type": "pet",
+      "pet": "GOLDEN_DRAGON",
+      "tier": "LEGENDARY",
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {
@@ -39781,6 +39821,34 @@
       {
         "type": "currency",
         "currency": "COIN",
+        "count": 500000000
+      },
+      {
+        "id": "SHINIEST",
+        "count": 1
+      },
+      {
+        "id": "FIGSTONE",
+        "count": 100
+      },
+      {
+        "id": "MANGCORE",
+        "count": 100
+      }
+    ],
+    "result": {
+      "type": "pet",
+      "pet": "JADE_DRAGON",
+      "tier": "LEGENDARY",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
         "count": 1000
       }
     ],
@@ -43974,6 +44042,56 @@
     }
   },
   {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 500000
+      }
+    ],
+    "result": {
+      "id": "SHADY_RING",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 2000000
+      },
+      {
+        "id": "SHADY_RING",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "CROOKED_ARTIFACT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10000000
+      },
+      {
+        "id": "CROOKED_ARTIFACT",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "SEAL_OF_THE_FAMILY",
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {
@@ -44000,6 +44118,51 @@
       "type": "enchantment",
       "id": "LUCK",
       "level": 4,
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 500000000
+      },
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 20000
+      },
+      {
+        "id": "CONDENSED_HELIANTHUS",
+        "count": 5
+      },
+      {
+        "id": "ALL_IN_ALOE",
+        "count": 1
+      },
+      {
+        "id": "GLASSCORN",
+        "count": 1
+      },
+      {
+        "id": "DEVOURER",
+        "count": 1
+      },
+      {
+        "id": "PHANTOMLEAF",
+        "count": 1
+      },
+      {
+        "id": "TIMESTALK",
+        "count": 1
+      }
+    ],
+    "result": {
+      "type": "pet",
+      "pet": "ROSE_DRAGON",
+      "tier": "LEGENDARY",
       "count": 1
     }
   },

@@ -4633,19 +4633,19 @@
   },
   "GOLDEN_DRAGON": {
     "id": "GOLDEN_DRAGON",
-    "name": "Golden Dragon",
+    "name": "§7[Lvl {LVL} → 200] §6Golden Dragon",
     "tiers": {
       "LEGENDARY": {
         "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYyMDM1MDA5ODgyNiwKICAicHJvZmlsZUlkIiA6ICJiNWRkZTVmODJlYjM0OTkzYmMwN2Q0MGFiNWY2ODYyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJsdXhlbWFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJlOWY5YjFmYzAxNDE2NmNiNDZhMDkzZTUzNDliMmJmNmVkZDIwMWI2ODBkNjJlNDhkYmYzYWY5YjA0NTkxMTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
         "lore": [
           "§8Combat Pet",
           "",
-          "§7Strength: §c{STRENGTH}",
-          "§7Bonus Attack Speed: §c{BONUS_ATTACK_SPEED}%",
-          "§7Magic Find: §a{MAGIC_FIND}",
+          "§7Strength: §c25 → 50",
+          "§7Bonus Attack Speed: §e25 → 50%",
+          "§7Magic Find: §b5 → 10",
           "",
           "§6Gold's Power",
-          "§7Adds §c+{0}❁ Strength §7to all §6golden",
+          "§7Adds §c+50 → 100❁ Strength §7to all §6golden",
           "§7weapons.",
           "",
           "§6Shining Scales",
@@ -4655,12 +4655,12 @@
           "§8(Max 100M collection)",
           "",
           "§6Dragon's Greed",
-          "§7Grants §c+{1}%❁ Strength §7per §b5✯",
-          "§bMagic Find§7. §8(Max +{2}%)",
+          "§7Grants §c+0.2 → 0.5%❁ Strength §7per §b5✯",
+          "§bMagic Find§7. §8(Max +2.5 → 5%)",
           "",
           "§6Legendary Treasure",
-          "§7Gain §c{3}% §7damage for every million",
-          "§7coins in your bank. §8(Max {4}%)",
+          "§7Gain §c0.1 → 0.2% §7damage for every million",
+          "§7coins in your bank. §8(Max 126.2 → 250%)",
           "",
           "§6Symbiosis",
           "§7If you own a level §a200 Golden",
@@ -5695,9 +5695,9 @@
           "§7Grants §6+{1}☘ Farming Fortune §7on §2ൠ",
           "§2Pests§7.",
           "",
-          "§6Nocturnal",
-          "§7Grants §6+{2}☘ Farming Fortune§7,",
-          "§7tripled at §5night§7.",
+          "§6Hunter's Insight",
+          "§7Grants §6+0.7☘ Farming Fortune§7 per",
+          "§7Pest Bestiary Tier.",
           "",
           "§6§lLEGENDARY"
         ],
@@ -5709,10 +5709,6 @@
           "1": [
             1,
             100
-          ],
-          "2": [
-            0.45,
-            45
           ],
           "SPEED": [
             0.15,
@@ -8246,8 +8242,8 @@
         ],
         "variables": {
           "0": [
-            0.5,
-            50
+            0.25,
+            25
           ],
           "BONUS_PEST_CHANCE": [
             0.5,
@@ -8275,8 +8271,8 @@
         ],
         "variables": {
           "0": [
-            0.5,
-            50
+            0.25,
+            25
           ],
           "BONUS_PEST_CHANCE": [
             0.5,
@@ -8311,12 +8307,12 @@
         ],
         "variables": {
           "0": [
-            0.5,
-            50
+            0.35,
+            35
           ],
           "1": [
-            0.02,
-            2
+            0.01,
+            1
           ],
           "BONUS_PEST_CHANCE": [
             0.5,
@@ -11222,7 +11218,7 @@
         }
       },
       "UNCOMMON": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q1NDE1NDFkYWFmZjUwODk2Y2QyNThiZGJkZDRjZjgwYzNiYTgxNjczNTcyNjA3OGJmZTM5MzkyN2U1N2YxIn19fQ==",
+        "texture": "eyJ0aW1lc3RhbXAiOjE0OTg2OTA0NDk5MDIsInByb2ZpbGVJZCI6IjVhZDU1ZjM0NDFiNjRiZDI5YzMyMTg5ODNjNjM1OTM2IiwicHJvZmlsZU5hbWUiOiJNSEZfU3BpZGVyIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jZDU0MTU0MWRhYWZmNTA4OTZjZDI1OGJkYmRkNGNmODBjM2JhODE2NzM1NzI2MDc4YmZlMzkzOTI3ZTU3ZjEifX19",
         "lore": [
           "§8Combat Pet",
           "",

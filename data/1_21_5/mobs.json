@@ -2157,6 +2157,10 @@
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjZiOTcyZTMyZDc2MWIxOTI2MjZlNWQ2ZDAxZWRjMDk0OTQwOTEwMTAzY2VhNWUyZTJkMWYyMzFhZGI3NTVkNSJ9fX0",
     "name": "Goblin"
   },
+  "GOLDEN_DRAGON_EGG_NPC": {
+    "texture": "eyJ0ZXh0dXJlcyI6IHsiU0tJTiI6IHsidXJsIjogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTEzYmRmMmQyYjAwNjA1NjA2ODI2ZGY3NmUyMTFlYTI4OGFhMDUwZWRjOWQ3MWNiMDk5ODZjNDg4Y2EwNDExYyJ9fX0=",
+    "name": "Golden Dragon Egg"
+  },
   "GOLDEN_GHOUL_MONSTER": {
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjVkMmYzMWJhMTYyZmU2MjcyZTgzMWFlZDE3ZjUzMjEzZGI2ZmExYzRjYmU0ZmM4MjdmMzk2M2NjOThiOSJ9fX0=",
     "name": "Golden Ghoul"
@@ -2638,6 +2642,10 @@
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhlYmQzZjk2NmFlZGY3NDc2MTgzZGZkYTk2NmUzM2M5YmZjNDllYTc0ZTEwZDk5YmU4OGUzZTFkM2QwYzI5ODUifX19",
     "name": "Jacquelle"
   },
+  "JADE_DRAGON_NPC": {
+    "texture": "eyJ0ZXh0dXJlcyI6IHsiU0tJTiI6IHsidXJsIjogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjAxMzk2NzA1MjY3YzU3ZWYzMGVmZDQ0YzM3N2FmMzUwN2VhNWY1NDIzNGIxNTViMmY2ZDg0ZDBhYjdlZTg0MiJ9fX0=",
+    "name": "Jade Dragon"
+  },
   "JAEGER_NPC": {
     "island": "foraging_2",
     "position": {
@@ -3084,6 +3092,16 @@
     },
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U0ZDg5NTFjZDIwOTc2OGRiNTcxNWJkYzQ0MzYyMWE1NDUyZDI1ZjRlYjViNmExYzBlNzI4NmIxODQyOTQxZjkifX19",
     "name": "Lucius"
+  },
+  "LUDLETH_NPC": {
+    "island": "hub",
+    "position": {
+      "x": 14,
+      "y": 76,
+      "z": -212
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjYzZmM3ZjM5OGU5NzdjOWVhNThmZDZmNzNjZDdiNGRiNGNmZTQ1YmZkZDA5ZGYwZWViNTQzOGMxZWUzYzU3MyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI1ZjJiZmJjZmNkNzcyYzIxYTFjYTE1MDc1NzZkM2UyNSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcwNTMwNDQ1MjkzfQ==",
+    "name": "Ludleth"
   },
   "LUKAS_THE_AQUARIST_NPC": {
     "island": "hub",
