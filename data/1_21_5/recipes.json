@@ -33743,12 +33743,12 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "GRIFFIN_FEATHER",
-        "count": 64
+        "id": "MYTHOS_FRAGMENT",
+        "count": 8
       },
       {
-        "id": "MYTHOS_FRAGMENT",
-        "count": 16
+        "id": "BRAIDED_GRIFFIN_FEATHER",
+        "count": 1
       },
       {
         "id": "ENCHANTED_ANCIENT_CLAW",
@@ -59488,12 +59488,12 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LUSHLILAC",
-        "count": 3
-      },
-      {
         "id": "SEA_LUMIES",
         "count": 16
+      },
+      {
+        "id": "LUSHLILAC",
+        "count": 3
       }
     ],
     "pattern": [
