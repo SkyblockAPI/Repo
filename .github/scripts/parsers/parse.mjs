@@ -1,6 +1,5 @@
 import fs from "fs";
 import {decode} from "../utils/snbt.mjs";
-import {Mc1214} from "./1_21_4/1214.mjs";
 import {Mc1215} from "./1_21_5/1215.mjs";
 import {Pets} from "./1_21_4/pets.mjs";
 import {Recipes} from "./1_21_4/recipes.mjs";
@@ -55,7 +54,6 @@ for (let file of fs.readdirSync("neu/items")) {
         } else if (data.internalname.includes(";")) {
             // console.log(file + " is a variant");
         } else {
-            Mc1214.items.parseItem(data);
             Mc1215.items.parseItem(data);
         }
     }
@@ -64,7 +62,6 @@ for (let file of fs.readdirSync("neu/items")) {
 post.forEach((recipe) => recipe())
 
 fs.writeFileSync("cloudflare/shas.json", JSON.stringify({
-    "1_21_4": Mc1214.shas(),
     "1_21_5": Mc1215.shas(),
     ... clone(),
 }, null, 4));
