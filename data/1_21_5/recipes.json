@@ -11500,6 +11500,20 @@
     }
   },
   {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 2500
+      }
+    ],
+    "result": {
+      "id": "SUPERBOOM_TNT",
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {
@@ -31309,6 +31323,29 @@
     "coins": 2500000
   },
   {
+    "type": "forge",
+    "inputs": [
+      {
+        "id": "TITANIUM_LANTERN",
+        "count": 1
+      },
+      {
+        "id": "GLACITE_AMALGAMATION",
+        "count": 4
+      },
+      {
+        "id": "ENCHANTED_EMERALD_BLOCK",
+        "count": 2
+      }
+    ],
+    "coins": 0,
+    "time": 43200,
+    "result": {
+      "id": "GLACITE_LANTERN",
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {
@@ -49491,6 +49528,29 @@
     ],
     "result": {
       "id": "MITHRIL_INFUSION",
+      "count": 1
+    }
+  },
+  {
+    "type": "forge",
+    "inputs": [
+      {
+        "id": "LANTERN",
+        "count": 1
+      },
+      {
+        "id": "REFINED_MITHRIL",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_EMERALD",
+        "count": 16
+      }
+    ],
+    "coins": 0,
+    "time": 1800,
+    "result": {
+      "id": "MITHRIL_LANTERN",
       "count": 1
     }
   },
@@ -80774,6 +80834,29 @@
     "type": "forge",
     "inputs": [
       {
+        "id": "MITHRIL_LANTERN",
+        "count": 1
+      },
+      {
+        "id": "REFINED_TITANIUM",
+        "count": 2
+      },
+      {
+        "id": "ENCHANTED_EMERALD_BLOCK",
+        "count": 1
+      }
+    ],
+    "coins": 0,
+    "time": 14400,
+    "result": {
+      "id": "TITANIUM_LANTERN",
+      "count": 1
+    }
+  },
+  {
+    "type": "forge",
+    "inputs": [
+      {
         "id": "REFINED_TITANIUM",
         "count": 1
       },
@@ -85487,6 +85570,37 @@
     ],
     "result": {
       "id": "WHIPPED_MAGMA_CREAM",
+      "count": 1
+    }
+  },
+  {
+    "type": "forge",
+    "inputs": [
+      {
+        "id": "GLACITE_LANTERN",
+        "count": 1
+      },
+      {
+        "id": "CAGED_WISP",
+        "count": 1
+      },
+      {
+        "id": "PERFECT_PLATE",
+        "count": 1
+      },
+      {
+        "id": "EVERBURNING_FLAME",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_EMERALD_BLOCK",
+        "count": 8
+      }
+    ],
+    "coins": 0,
+    "time": 43200,
+    "result": {
+      "id": "WILL_O_WISP",
       "count": 1
     }
   },

@@ -6,11 +6,11 @@
   "ADVENTURER_NPC": {
     "island": "hub",
     "position": {
-      "x": -42,
-      "y": 72,
-      "z": -65
+      "x": -50,
+      "y": 69,
+      "z": -67
     },
-    "texture": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTcyOThmZjRlYzNiYTBhMDg4NDM1N2Y0ZDFhOWNjZWM0ZWU4ZDhkODFiNDk4MTEzOGVmOTRiOGE3NWYzZGQifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGQzNGYzOGMxYmIxMDZlMTE5MDhhZDNjYzkwMTYyYzE4Yjg2M2Q2NzgyNjVjODRhODRhMzU4OTAzZjhmN2ExYyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJkYTkwNjliMTg3ZmMyNzRhYjNmYTNmMzFhNzJmNDY4YyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MDk1NzcxfQ==",
     "name": "Adventurer"
   },
   "ADVENTURER_SAUL_NPC": {
@@ -90,9 +90,9 @@
   "ALCHEMIST_NPC": {
     "island": "hub",
     "position": {
-      "x": 41,
+      "x": 80,
       "y": 72,
-      "z": -64
+      "z": -91
     },
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmNlNjYwNDE1N2ZjNGFiNTU5MWU0YmNmNTA3YTc0OTkxOGVlOWM0MWUzNTdkNDczNzZlMGVlNzM0MjA3NGM5MCJ9fX0",
     "name": "Alchemist"
@@ -178,11 +178,11 @@
   "ANITA_NPC": {
     "island": "hub",
     "position": {
-      "x": 22,
-      "y": 79,
-      "z": -70
+      "x": 53,
+      "y": 73,
+      "z": -129
     },
-    "texture": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmVhYzE3YzEyZjQ3YTUxZjBiOTNjZDA3OWJmYmJjNWEzMTU2NTg1M2ZhMmExYWRhYTlkNWFlNDgzNzA4OWM2In19fQ==",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGQ0ZTlkMmE4Yzg4ZDBlZmQ3NTBlODUyNzMyYmEwNWZhM2YzMDJlMjA0ZTJiZGM4OGRhZDYwNWUyNTU3ZTJhNiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI5ZTI5ZjdlNmIxMTYyZTAxYjcyMmYzNGE0NDNjZGY5MiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MTg4MTExfQ==",
     "name": "Anita"
   },
   "AN_NPC": {
@@ -420,11 +420,11 @@
   "ARTHUR_NPC": {
     "island": "hub",
     "position": {
-      "x": 52,
+      "x": 53,
       "y": 72,
-      "z": -136
+      "z": -112
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NjMmU4MTk5MDZlYjE3OTQzOWI4ZGQ1NTUxMTMyZTU0ZWI0NzE3M2UwZjQ1ODg2MWFkMmE4YzkzNzkxODM4OTEifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2MyZTgxOTkwNmViMTc5NDM5YjhkZDU1NTExMzJlNTRlYjQ3MTczZTBmNDU4ODYxYWQyYThjOTM3OTE4Mzg5MSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIwMmFhNTM0MDgzMWQyZDFiOWFhZDA4ZWEwMGE4ZDZjNiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MTgzNDI2fQ==",
     "name": "Arthur"
   },
   "ASHERA_RIFT_NPC": {
@@ -546,11 +546,11 @@
   "BARTENDER_NPC": {
     "island": "hub",
     "position": {
-      "x": -74,
-      "y": 73,
-      "z": -56
+      "x": -84,
+      "y": 74,
+      "z": -136
     },
-    "texture": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmJkMTE3MmEzMTA4MzFkNWRiYjg0Yzk5N2IzZjU1NmUxNjllYTY0MWM4NTI0OTEzYTE5MTFiZTU5ODViNCJ9fX0==",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWVkZDhmMTZiMjAyYzQyYjNiNWFkNDU3ZDQzNmNjNjM5OTUyMTA3ZTM2MWFiMWU2MWI5MTY4OWU0MGM3OGJlNyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJjYTgxNzdkNzJhYmQyYmEwOTVlOTJkMjI2MGQ2NTg2MyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MTM5ODExfQ==",
     "name": "Bartender"
   },
   "BARTER_NPC": {
@@ -582,11 +582,11 @@
   "BEA_NPC": {
     "island": "hub",
     "position": {
-      "x": 31,
+      "x": 11,
       "y": 72,
-      "z": -94
+      "z": -59
     },
-    "texture": "eyJ0aW1lc3RhbXAiOjE1ODIzMDAzNTg3ODYsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UzYzM0YjllNTFmMzUyZDZjNjljODIxYTFmYzI5ZjUwMDUwOTgwM2ExZWVjMDI0YzM4NzAxNWI1YzQzYzc3M2EiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTNjMzRiOWU1MWYzNTJkNmM2OWM4MjFhMWZjMjlmNTAwNTA5ODAzYTFlZWMwMjRjMzg3MDE1YjVjNDNjNzczYSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJkNjExOThhNjRiZjIyMzdiYTVjZjEzZjkwMzVlMDRkNCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MjE4NTAyfQ==",
     "name": "Bea"
   },
   "BEDNOM_NPC": {
@@ -636,11 +636,11 @@
   "BIBLIO_NPC": {
     "island": "hub",
     "position": {
-      "x": 14,
-      "y": 73,
-      "z": -107
+      "x": 8,
+      "y": 79,
+      "z": 10
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcwMTkyODkwNTU4OTBjMTIxMWFjZDM3MjVhNzBmMDUxNTVlNmVjMTZlYTgzMjZjMzdmNDFiMjE2MTI2NjFkYjgifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzAxOTI4OTA1NTg5MGMxMjExYWNkMzcyNWE3MGYwNTE1NWU2ZWMxNmVhODMyNmMzN2Y0MWIyMTYxMjY2MWRiOCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIzYWQzYjZlODNiNzMyM2ZmOTJmY2M4YmM1MzkyMjE5MSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MjgwMTQ1fQ==",
     "name": "Biblio"
   },
   "BILLY_JOE_NPC": {
@@ -665,11 +665,10 @@
   "BLACKSMITH_NPC": {
     "island": "hub",
     "position": {
-      "x": -29,
-      "y": 70,
-      "z": -126
+      "x": 10,
+      "y": 63,
+      "z": -127
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==",
     "name": "Blacksmith"
   },
   "BLACKSMITH_RIFT_NPC": {
@@ -833,11 +832,11 @@
   "BUILDER_NPC": {
     "island": "hub",
     "position": {
-      "x": -51,
-      "y": 72,
-      "z": -27
+      "x": -9,
+      "y": 71,
+      "z": -62
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M4Y2NkNGZkZjU4YjMwYWE4MzAxN2NmYTVmZWQ5NzcxOTZjMDI0YzhkMWEyNzYwMDRlOTA2OGU4ZWNiYjBiNzkifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzhjY2Q0ZmRmNThiMzBhYTgzMDE3Y2ZhNWZlZDk3NzE5NmMwMjRjOGQxYTI3NjAwNGU5MDY4ZThlY2JiMGI3OSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI0ZmZmZmExY2VhMWUyMGYzOTY4YjEwOGE2NTM5NmQzOCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MjMyOTMzfQ==",
     "name": "Builder"
   },
   "BULVAR_NPC": {
@@ -916,11 +915,11 @@
   "CARPENTER_NPC": {
     "island": "hub",
     "position": {
-      "x": 16,
-      "y": 73,
-      "z": -21
+      "x": -138,
+      "y": 74,
+      "z": -42
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NjOGQyYTVhZjk3NWM1M2NmMDgxYjUzMTU2NjE0OGJhZTM2NjE0MTMxNGIzNWFhNTcyNmU5N2NjOTdlZjExOGIifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2M4ZDJhNWFmOTc1YzUzY2YwODFiNTMxNTY2MTQ4YmFlMzY2MTQxMzE0YjM1YWE1NzI2ZTk3Y2M5N2VmMTE4YiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJmZWZhYmM0ZjUyODYyMDQwYTYxMmFkNGRlZDBkNGU2OSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MDcyOTQwfQ==",
     "name": "Carpenter"
   },
   "CARROLYN_NPC": {
@@ -1048,6 +1047,16 @@
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk4N2I4OTUyYmUyYTI5YTU3ZDdmMGU3ODhmNzlmY2ZkYzFmYmQyNWZmZWMwMTJmYmZlZjM0ZDdiZTQ2MzliNDkifX19",
     "name": "Christopher"
   },
+  "CHUNK_NPC": {
+    "island": "crystal_hollows",
+    "position": {
+      "x": 797,
+      "y": 128,
+      "z": 708
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjVmMzFjMWMyMTVhNTdlOTM3ZmQ3NWFiMzU3ODJmODVlYzI0MmExYjFmOTUwYTI2YTQyYmI1ZTBhYTVjYmVkYSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI1NzEyNWNkYjQwODcyM2FlYmVmM2NmNTJhMGVhOWUzMSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTE0MjAyNjgwfQ==",
+    "name": "Chunk"
+  },
   "CINDERBAT_MONSTER": {
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjc2NjE5NjUyZmFmZWM5MGNlOThkZjUwMTNjNjNkYzZhNzc3NzZhYjI3ODczYjczZGFmYjJiNmJkZWIxODUifX19=",
     "name": "Cinderbat"
@@ -1055,11 +1064,11 @@
   "CLERK_SERAPHINE_NPC": {
     "island": "hub",
     "position": {
-      "x": 4,
-      "y": 73,
-      "z": -105
+      "x": -2,
+      "y": 79,
+      "z": 10
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NkNjU0NTMxODE2ZWM3MjAwYTZhNDYxZDdhMDNjMmRhZGYzMWY0NDlhNTkxYzg1ZjNiMzFjYjJhODNkZDczNjYifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q2NTQ1MzE4MTZlYzcyMDBhNmE0NjFkN2EwM2MyZGFkZjMxZjQ0OWE1OTFjODVmM2IzMWNiMmE4M2RkNzM2NiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJlZmYyMmQ0NjQ5YTIyYzNiYjBkNDc5NDY5Y2UzYWViNCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MjU3MDk0fQ==",
     "name": "Clerk Seraphine"
   },
   "COD_ANIMAL": {
@@ -1435,11 +1444,11 @@
   "DUSK_NPC": {
     "island": "hub",
     "position": {
-      "x": -37,
-      "y": 69,
-      "z": -125
+      "x": 20,
+      "y": 63,
+      "z": -136
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdjYTg1YzE1NjNiZjU2OWQ4OGJmN2JjMzc1Y2JjODIwZDdkNGE3M2M5MmFhZjdkOTQ3OWFmNWVmNTI1NWQwNDAifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2NhODVjMTU2M2JmNTY5ZDg4YmY3YmMzNzVjYmM4MjBkN2Q0YTczYzkyYWFmN2Q5NDc5YWY1ZWY1MjU1ZDA0MCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIxOThmOWMwOTlmYTEyZGI3OTI0ODVlZGZlNmY4YzFmYiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MTY0MDU2fQ==",
     "name": "Dusk"
   },
   "EDELIS_NPC": {
@@ -1536,10 +1545,10 @@
     "island": "hub",
     "position": {
       "x": 44,
-      "y": 83,
-      "z": 69
+      "y": 77,
+      "z": 100
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FhMmFjNjE0ZTUzMzMyOGMwN2EyNWNlYmNiMDJhNDBkM2JjNDFjMWNjMmMyNGE2NTA2NWY4MzBiMDU5NTJjNGYifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWEyYWM2MTRlNTMzMzI4YzA3YTI1Y2ViY2IwMmE0MGQzYmM0MWMxY2MyYzI0YTY1MDY1ZjgzMGIwNTk1MmM0ZiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJhZjljZTUzODRiNWMyYmNlODNlYWQ3MzRlYzU5MDU0NyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3Mzk0NjM3fQ==",
     "name": "Elise"
   },
   "ELISE_RIFT_NPC": {
@@ -1555,11 +1564,11 @@
   "ELIZABETH_NPC": {
     "island": "hub",
     "position": {
-      "x": -4,
-      "y": 73,
-      "z": -101
+      "x": -7,
+      "y": 79,
+      "z": 19
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkwMTdiNmFjZjIyZGViMTY4NjI5M2Q3Y2NjZmZlNDA5MDFhYTVhYTRhNmZhOTBmOGUxMjE3MTE0ZTFkMzczMDIifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTAxN2I2YWNmMjJkZWIxNjg2MjkzZDdjY2NmZmU0MDkwMWFhNWFhNGE2ZmE5MGY4ZTEyMTcxMTRlMWQzNzMwMiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI5ZmRiNzhiZmE1Y2IyYjY3OTViY2JlNjFjMDJkNGNmZCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MjY4NzAzfQ==",
     "name": "Elizabeth"
   },
   "ELLE_NPC": {
@@ -1691,11 +1700,11 @@
   "ERIHANN_NPC": {
     "island": "hub",
     "position": {
-      "x": 40,
-      "y": 101,
-      "z": 70
+      "x": 42,
+      "y": 97,
+      "z": 93
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkxZjA3YzYzMzZlNDM2NTljNTE3Mzc0NjM5YmY2Yzk2ZDg0ZWI4MjQwODAyZWNkZmJhNGE1ZjU0NDk5ODc0NzEifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTFmMDdjNjMzNmU0MzY1OWM1MTczNzQ2MzliZjZjOTZkODRlYjgyNDA4MDJlY2RmYmE0YTVmNTQ0OTk4NzQ3MSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI0NGY5OTUwYTNkMDMyYzUxOTg1ZmRjM2EwODJiM2I5MiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3NDAyNDIxfQ==",
     "name": "Erihann"
   },
   "EXECUTIVE_SEBASTIAN_MONSTER": {
@@ -1743,11 +1752,11 @@
   "FANN_NPC": {
     "island": "hub",
     "position": {
-      "x": 39,
-      "y": 71,
-      "z": -88
+      "x": 9,
+      "y": 73,
+      "z": -63
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JjMTM1NGQ1MjVjYTE1MGVhMjdhYTA2ZjhkOGRiNDk4ZGNjMGI1OWMzZjI3NzZkZWRkODM3NDJmNTM5ZGZhMGYifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmMxMzU0ZDUyNWNhMTUwZWEyN2FhMDZmOGQ4ZGI0OThkY2MwYjU5YzNmMjc3NmRlZGQ4Mzc0MmY1MzlkZmEwZiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIyZmQxZTg3NTJlZmIyYWQwOGFiMjEwODQxNGZlMTcyNSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MjIzNzMzfQ==",
     "name": "Fann"
   },
   "FARMER_JON_NPC": {
@@ -1770,6 +1779,16 @@
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ1MjMyYThlODVhNjc1MDgzNmM1ZGZiYzM0MDRjM2FiMzE0NTM0OTYyMGYwYmM1MjA4ZGVkYjE2YmI0YzQ4MzAifX19",
     "name": "Farmer"
   },
+  "FARMER_RIGBY_NPC": {
+    "island": "hub",
+    "position": {
+      "x": 61,
+      "y": 72,
+      "z": -148
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDUyMzJhOGU4NWE2NzUwODM2YzVkZmJjMzQwNGMzYWIzMTQ1MzQ5NjIwZjBiYzUyMDhkZWRiMTZiYjRjNDgzMCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIxNzI2ZjM1MzcxZTYyNWMzOTFkMDUxZTk3NzYyMWM2MiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MTk0NDA5fQ==",
+    "name": "Farmer Rigby"
+  },
   "FARMHAND_NPC": {
     "island": "farming_1",
     "position": {
@@ -1783,11 +1802,11 @@
   "FARM_MERCHANT_NPC": {
     "island": "hub",
     "position": {
-      "x": 16,
+      "x": 63,
       "y": 72,
-      "z": -73
+      "z": -114
     },
-    "texture": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGI3NzJmNDg3ODY5NjNmZjkyMTk1MDEwYWE5YzhlM2FiNTgyMjhkMzg0NGEwNzhkYjE2YTAyMjUzMzFjOTczIn19fQ==",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODM5MDM4NDQ4NzM5OThmZGNhOGY5NWMyM2IwNmUxMDk1NDk0ZmRmZjJjZjMzODI0YTVjNTYwZTQ2NTQyNzRmYyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIzYjY1ZTFhZjJkNzYyMWJhYWMxN2E2MzdhMzZmZjFkMiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MTg0ODU0fQ==",
     "name": "Farm Merchant"
   },
   "FEAR_MONGERER_NPC": {
@@ -1849,11 +1868,11 @@
   "FISHERMAN_GERALD_NPC": {
     "island": "hub",
     "position": {
-      "x": 153,
-      "y": 68,
-      "z": 55
+      "x": 118,
+      "y": 71,
+      "z": -33
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTY3NWYwNzFlZmIwY2YyN2JmMTYwODFlM2Y4MmY5YjVmOGFlODhlY2E5ZWU5NTIzYjYyMTZlNjE3ZjZmNDVjOSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI4YjQ5MjI4MDA5ODgyOGNiYTQyOTI4YmYwNTU5N2NiNyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzUxOTAwMDEzOTk2fQ==",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTY3NWYwNzFlZmIwY2YyN2JmMTYwODFlM2Y4MmY5YjVmOGFlODhlY2E5ZWU5NTIzYjYyMTZlNjE3ZjZmNDVjOSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI5MjgwYWU4ZjM2ZDcyZDk2OWY1MmI1MDgzMGI0MmVkZCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MzM3NTg5fQ==",
     "name": "Fisherman Gerald"
   },
   "FISHERMAN_NPC": {
@@ -1869,21 +1888,21 @@
   "FISHERWOMAN_ENID_NPC": {
     "island": "hub",
     "position": {
-      "x": 68,
-      "y": 71,
-      "z": -7
+      "x": 41,
+      "y": 70,
+      "z": -23
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IzNWNiMzhiODZjNGViYjYzN2ZjMDJkMzdmNzNkZmJmZWIxN2Y0NjI2N2Q4MTliMzgyOGFkZDQ2OWQ5M2UzOWEifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjM1Y2IzOGI4NmM0ZWJiNjM3ZmMwMmQzN2Y3M2RmYmZlYjE3ZjQ2MjY3ZDgxOWIzODI4YWRkNDY5ZDkzZTM5YSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI3ZWNmNjk0MjQ3OWQyMjJjYjNjZWI3N2QwYjRhZjUxNSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MzIwMDczfQ==",
     "name": "Fisherwoman Enid"
   },
   "FISHING_MERCHANT_NPC": {
     "island": "hub",
     "position": {
-      "x": 137,
+      "x": 112,
       "y": 71,
-      "z": 35
+      "z": -45
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUyYzRlZTA0NzliOTAxZjE3N2MyODY4OTVkYTMxMGE4MDZkZmU4OTdjOWE4Njc4YjlkZTg4YWJiYjFiZmY0YjEifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTJjNGVlMDQ3OWI5MDFmMTc3YzI4Njg5NWRhMzEwYTgwNmRmZTg5N2M5YTg2NzhiOWRlODhhYmJiMWJmZjRiMSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI3MTc4YjQ3NzdlOWQyNzk4ODRjM2E1MmY1Mzk2ODVlNyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MzQzMDg2fQ==",
     "name": "Fishing Merchant"
   },
   "FISH_MERCHANT_NPC": {
@@ -2038,11 +2057,11 @@
   "GAVIN_NPC": {
     "island": "hub",
     "position": {
-      "x": 162,
-      "y": 71,
-      "z": 44
+      "x": 147,
+      "y": 69,
+      "z": -60
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q2ZTM3NTZkOGNmYWM1NDA1NWJjZDU1MjVkMmEzYWJlZmU2Y2VmNzc5MjRmOGE5OTg0NmJlYTJmZWZmNzYxMTQifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDZlMzc1NmQ4Y2ZhYzU0MDU1YmNkNTUyNWQyYTNhYmVmZTZjZWY3NzkyNGY4YTk5ODQ2YmVhMmZlZmY3NjExNCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJmZTU5MDkxYWQ1MDgyZTdiODkxMmE5Y2FmZTgyMmY0YyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MzQ4NTUyfQ==",
     "name": "Gavin"
   },
   "GEMMA_NPC": {
@@ -2068,11 +2087,11 @@
   "GEORGE_NPC": {
     "island": "hub",
     "position": {
-      "x": 40,
-      "y": 72,
-      "z": -100
+      "x": 21,
+      "y": 74,
+      "z": -60
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk5YmIxMzczNzk3OWY5OGJhMjM2ZTM3YWU0OGZkNWRkZGVkYmE3MTllYzYyMDY4ZThhYzk2MmFiZjdlMDdkODMifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTliYjEzNzM3OTc5Zjk4YmEyMzZlMzdhZTQ4ZmQ1ZGRkZWRiYTcxOWVjNjIwNjhlOGFjOTYyYWJmN2UwN2Q4MyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJmMTY5NzJiODViMzMyMGMzYWMzNDZkNTc3OGNhYTQ2ZSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MjIwODcyfQ==",
     "name": "George"
   },
   "GEO_NPC": {
@@ -2136,11 +2155,11 @@
   "GLADIATOR_NPC": {
     "island": "hub",
     "position": {
-      "x": 124,
-      "y": 80,
-      "z": 166
+      "x": 123,
+      "y": 79,
+      "z": 165
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y3MWNhYWM2YmVjNjQwNjYwNDJjZjViZmJkOWRmZjJkZGRlZWFiMWM2OTU2ZjM1MWUxOGQ4MjcxNGI1NmIxMmIifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjcxY2FhYzZiZWM2NDA2NjA0MmNmNWJmYmQ5ZGZmMmRkZGVlYWIxYzY5NTZmMzUxZTE4ZDgyNzE0YjU2YjEyYiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI5ZTE4MmNkZTAzNjUyY2IyYTBlYjQ2YTBiNWVlZjBhNSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MzgwMjcxfQ==",
     "name": "Gladiator"
   },
   "GNYL_NPC": {
@@ -2353,11 +2372,11 @@
   "GWYNNIE_NPC": {
     "island": "hub",
     "position": {
-      "x": 117,
+      "x": 116,
       "y": 71,
-      "z": 13
+      "z": -26
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY3NDJlOTM0MWY2NDc3NGM1ZjlkYTZjZmQ0YTQ0Y2YyNDk3YmMxMjRiMmQ0NzQ3M2FjN2I4NTI1MWQ0ODk3ODcifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjc0MmU5MzQxZjY0Nzc0YzVmOWRhNmNmZDRhNDRjZjI0OTdiYzEyNGIyZDQ3NDczYWM3Yjg1MjUxZDQ4OTc4NyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJjYmRjOWM1MDdkOTEyN2EzODUxNGViYmM0Y2FiOGUzOSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MzM2MDk2fQ==",
     "name": "Gwynnie"
   },
   "HATTIE_NPC": {
@@ -2435,11 +2454,11 @@
   "HOPPITY_NPC": {
     "island": "hub",
     "position": {
-      "x": 6,
-      "y": 72,
-      "z": 8
+      "x": 56,
+      "y": 70,
+      "z": -3
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I3OWU3ZjMzNDFiNjcyZDlkZTY1NjRjYmFjYTA1MmE2YTcyM2VhNDY2YTJlNjZhZjM1YmExYmE4NTVmMGQ2OTIifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjc5ZTdmMzM0MWI2NzJkOWRlNjU2NGNiYWNhMDUyYTZhNzIzZWE0NjZhMmU2NmFmMzViYTFiYTg1NWYwZDY5MiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJiZTk0Y2Q2ZWI0NGQyOGExODFmOWY3MzdmZTEyMDcxZSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MzIyMzk1fQ==",
     "name": "Hoppity"
   },
   "HORNUM_NPC": {
@@ -2615,21 +2634,21 @@
   "JACOBUS_NPC": {
     "island": "hub",
     "position": {
-      "x": 52,
+      "x": -50,
       "y": 70,
-      "z": -43
+      "z": -61
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzViMWE2ODRlMjc0ZjYxYmQyNTBkOGRkY2U1NzFjODE2NjZjMzA1NmNjZjJmM2RmNWQwYTNkNjAyNzRiZDNlOGMifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWIxYTY4NGUyNzRmNjFiZDI1MGQ4ZGRjZTU3MWM4MTY2NmMzMDU2Y2NmMmYzZGY1ZDBhM2Q2MDI3NGJkM2U4YyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJiODE3N2ZlMWVjYTkyNWMzYjZlMjM0MjkzZmI5NzQzYyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MTAwMTQxfQ==",
     "name": "Jacobus"
   },
   "JACOB_NPC": {
     "island": "hub",
     "position": {
-      "x": 23,
-      "y": 72,
-      "z": -69
+      "x": 46,
+      "y": 73,
+      "z": -129
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdiOGJiMWI0OGY0YmFiYzY3Y2UzOTU0NzIwOGZkYmVkNzIyY2E1OThjZGYzMDY4MWUzNjdjNjI0N2NhYjE5MTgifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2I4YmIxYjQ4ZjRiYWJjNjdjZTM5NTQ3MjA4ZmRiZWQ3MjJjYTU5OGNkZjMwNjgxZTM2N2M2MjQ3Y2FiMTkxOCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI3YTRmMWZjN2Y3M2UyMDFlOWQyNDJjZjIyYTQ2NjI3ZCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MTg2OTg0fQ==",
     "name": "Jacob"
   },
   "JACQUELLE_RIFT_NPC": {
@@ -2679,11 +2698,11 @@
   "JAX_NPC": {
     "island": "hub",
     "position": {
-      "x": 5,
-      "y": 63,
-      "z": -134
+      "x": -41,
+      "y": 69,
+      "z": -93
     },
-    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYyNTcyODU3NTQyNiwKICAicHJvZmlsZUlkIiA6ICI0NWY3YTJlNjE3ODE0YjJjODAwODM5MmRmN2IzNWY0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfSnVzdERvSXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWRiODUwMzIxNDYxMDZiMTlmMGJlZDA2Y2FhMDNhYjk5OWYwODA3OTY3NjgwNGU2ZTBkZjJmZjFkMjhlMmNiMSIKICAgIH0KICB9Cn0=",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWRiODUwMzIxNDYxMDZiMTlmMGJlZDA2Y2FhMDNhYjk5OWYwODA3OTY3NjgwNGU2ZTBkZjJmZjFkMjhlMmNiMSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIyZTNkODA2NjliMTIyMDJiYTk1OWEwMjAxY2U2ZTI5NyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MTI3MzgwfQ==",
     "name": "Jax"
   },
   "JERRY_RIFT_NPC": {
@@ -2781,11 +2800,11 @@
   "KAT_NPC": {
     "island": "hub",
     "position": {
-      "x": 32,
+      "x": 10,
       "y": 72,
-      "z": -101
+      "z": -54
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VhYWU4MTI3NzU3MDZiNTY1OTY2ODM0ODZhYmVhZjg1N2VhMWMwNjhjYjM0YThiYzFkZTlhNTdjNjM4Y2Y0MTEifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWFhZTgxMjc3NTcwNmI1NjU5NjY4MzQ4NmFiZWFmODU3ZWExYzA2OGNiMzRhOGJjMWRlOWE1N2M2MzhjZjQxMSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIzNjYwYWEzNzBiYjAyZjk1YTQwNTRmNTVmODlhYTI5ZCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MjE2NDE4fQ==",
     "name": "Kat"
   },
   "KAT_RIFT_NPC": {
@@ -3024,11 +3043,10 @@
   "LIBRARIAN_NPC": {
     "island": "hub",
     "position": {
-      "x": -35,
-      "y": 71,
-      "z": -112
+      "x": -69,
+      "y": 70,
+      "z": -80
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGNhOGVmMjQ1OGEyYjEwMjYwYjg3NTY1NThmNzY3OWJjYjdlZjY5MWQ0MWY1MzRlZmVhMmJhNzUxMDczMTVjYyJ9fX0=",
     "name": "Librarian"
   },
   "LIVID_BOSS": {
@@ -3038,11 +3056,11 @@
   "LIZ_NPC": {
     "island": "hub",
     "position": {
-      "x": -55,
-      "y": 73,
-      "z": -56
+      "x": -36,
+      "y": 70,
+      "z": -78
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNkNTY2MjBlNDBkZGI0NjEzNTY4MTg5MGEwNGE0NDg4YTcwMjMwYTZjZGJlYzNhZmUzMDdkMmVhYmE1NmE3ZGUifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2Q1NjYyMGU0MGRkYjQ2MTM1NjgxODkwYTA0YTQ0ODhhNzAyMzBhNmNkYmVjM2FmZTMwN2QyZWFiYTU2YTdkZSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI2NjYzMWE2MGM4OGUyNzU2OGI4ZDdhYjliNDYxNjU1YyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MTIyMjU3fQ==",
     "name": "Liz"
   },
   "LONELY_PHILOSOPHER_NPC": {
@@ -3087,10 +3105,10 @@
     "island": "hub",
     "position": {
       "x": 125,
-      "y": 74,
+      "y": 73,
       "z": 165
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U0ZDg5NTFjZDIwOTc2OGRiNTcxNWJkYzQ0MzYyMWE1NDUyZDI1ZjRlYjViNmExYzBlNzI4NmIxODQyOTQxZjkifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTRkODk1MWNkMjA5NzY4ZGI1NzE1YmRjNDQzNjIxYTU0NTJkMjVmNGViNWI2YTFjMGU3Mjg2YjE4NDI5NDFmOSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJlMDg3ZDJlZGMzYjgyOGEyYTlhNGIyYjNmZjU1MWQ4NiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3Mzc0NDc1fQ==",
     "name": "Lucius"
   },
   "LUDLETH_NPC": {
@@ -3116,31 +3134,31 @@
   "LUMBER_JACK_NPC": {
     "island": "hub",
     "position": {
-      "x": -112,
-      "y": 75,
-      "z": -36
+      "x": -124,
+      "y": 73,
+      "z": -30
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY4MjUwMzBlNzc1MmZhZjdmODE2YWMyYTIwYjExNDMyYWY0YjJjZGU0OTMyZGMwZTkyMDgzMWU2MjE4MDhlZTgifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjgyNTAzMGU3NzUyZmFmN2Y4MTZhYzJhMjBiMTE0MzJhZjRiMmNkZTQ5MzJkYzBlOTIwODMxZTYyMTgwOGVlOCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI2NDk3NmJjNTY3YTEyOWFkYTUzYmRkMzM5MTMwOWY1ZSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MDY5Njc1fQ==",
     "name": "Lumber Jack"
   },
   "LUMBER_MERCHANT_NPC": {
     "island": "hub",
     "position": {
-      "x": -50,
-      "y": 72,
-      "z": -69
+      "x": -125,
+      "y": 73,
+      "z": -43
     },
-    "texture": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWY0Y2NhYmJlMDU0Zjg1NDZmMmU5MzZiZjkxNDU5OWQ3ZDc0NDkxYmFhODQ3MmRkMDc5ODI1M2ZkOGRkYSJ9fX0=",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2M0ZjFiZWZhMDJiMDlmYTM0OWYwMjk4NmZiNGY0YjUyMGNiODFhMGM1MmZmYmI1YmRkZDA3NDBiMGYwMzBmNSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJiMzEzYWQ3NmM1MDUyOWIwOTZiYmVjNThiOTRiZGM4NyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MDc2MjM0fQ==",
     "name": "Lumber Merchant"
   },
   "LUMINA_NPC": {
     "island": "mining_3",
     "position": {
-      "x": 78,
-      "y": 200,
-      "z": -110
+      "x": 77,
+      "y": 199,
+      "z": -111
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NkYTMwOGNhZTE3NzBmNmI3MDliMWYwODAwNGNhMmU5YzIwYWY2ZmY4ZWM1MzgxZDExNGM0NDA2ZGY2YjgwYmMifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2RhMzA4Y2FlMTc3MGY2YjcwOWIxZjA4MDA0Y2EyZTljMjBhZjZmZjhlYzUzODFkMTE0YzQ0MDZkZjZiODBiYyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJkMDQyMjAzNTMzYzIyMjIxOWUwYjVlYjY2NzBjM2MzYSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxODU5MzEzMzk0fQ==",
     "name": "Lumina"
   },
   "LUMISQUID_MONSTER": {
@@ -3235,11 +3253,11 @@
   "MADDOX_THE_SLAYER_NPC": {
     "island": "hub",
     "position": {
-      "x": -74,
-      "y": 66,
-      "z": -50
+      "x": -84,
+      "y": 68,
+      "z": -130
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzczOGM2ODdkZDg4ODdjNTA5ZDU1ODY1ZWJiNjJhYjYwODdlZjc0M2U5NDI1Y2Q1ZGM2YjRjN2I5M2I3NDdmZjIifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzM4YzY4N2RkODg4N2M1MDlkNTU4NjVlYmI2MmFiNjA4N2VmNzQzZTk0MjVjZDVkYzZiNGM3YjkzYjc0N2ZmMiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIxYmU2Yjg0YTY4NTQyOThkOTE1ODE1MTM5Nzk1ZWQ2MCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MTQ0NjkyfQ==",
     "name": "Maddox the Slayer"
   },
   "MADDOX_THE_SLAYER_RIFT_NPC": {
@@ -3255,11 +3273,11 @@
   "MAD_REDSTONE_ENGINEER_NPC": {
     "island": "hub",
     "position": {
-      "x": -51,
-      "y": 67,
-      "z": -28
+      "x": -9,
+      "y": 71,
+      "z": -56
     },
-    "texture": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmE4NmQ1MjQyYjYyOTcwZDJhMDMwMTI2Y2UyODU1ZWQ2MGI4MGU2MzY0OTRkY2NmYjgyZWJjMzBhMDkxZTk5NSJ9fX0=",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWMzNjM5NGQ3NzRhZGU1OWMyNTYxODQ5NGQwNTE1ZDkwZjJiZDJmMmI0NDcyYmEzYzAzOGQ3NTA5NTNmOWE0MyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIwYjc0OTg5ZDIyOGIyMTBmOTcwOWE4YWI2ZmE0ZTBlNCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MjMxNTkyfQ==",
     "name": "Mad Redstone Engineer"
   },
   "MAGE_EMISSARY_NPC": {
@@ -3311,11 +3329,11 @@
   "MARCO_NPC": {
     "island": "hub",
     "position": {
-      "x": -9,
-      "y": 72,
-      "z": -14
+      "x": 90,
+      "y": 76,
+      "z": 3
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ5NDVkMDY0MzhmN2ZmZjI5MWNjZDE1YjE1NmUzZmI4NzJiYzI1Y2Q4ZTIyYTVmNzY1YzcwM2ViMzM5ZjgifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDk0NWQwNjQzOGY3ZmZmMjkxY2NkMTViMTU2ZTNmYjg3MmJjMjVjZDhlMjJhNWY3NjVjNzAzZWIzMzlmOCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIyZTIzOWQ4ZDM5MDEyOTc3OWQ0ODBlN2JmZDI1NzIxZCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MzI4NDgxfQ==",
     "name": "Marco"
   },
   "MARIGOLD_NPC": {
@@ -3399,21 +3417,20 @@
   "MATHS_ENJOYER_NPC": {
     "island": "hub",
     "position": {
-      "x": 56,
+      "x": -73,
       "y": 70,
-      "z": -40
+      "z": -63
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==",
     "name": "Maths Enjoyer"
   },
   "MAXWELL_NPC": {
     "island": "hub",
     "position": {
-      "x": 47,
+      "x": -67,
       "y": 70,
-      "z": -34
+      "z": -67
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ0Y2RmNGE4NDJjMWRjZTNhZDJjZmFlNDAzNjZlNTM5ZTlmNGYwNTdhMzliZGI3NzdlM2MxOWYyZWE2ODZlODIifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDRjZGY0YTg0MmMxZGNlM2FkMmNmYWU0MDM2NmU1MzllOWY0ZjA1N2EzOWJkYjc3N2UzYzE5ZjJlYTY4NmU4MiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJjMDQ5MTQ2OGEwYTYyOTJlYjhiMjFjNGRjM2E0MWZiMSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MDg5NzQwfQ==",
     "name": "Maxwell"
   },
   "MAYOR_JERRY_BLUE_MONSTER": {
@@ -3489,11 +3506,11 @@
   "MINE_MERCHANT_NPC": {
     "island": "hub",
     "position": {
-      "x": -9,
-      "y": 70,
-      "z": -125
+      "x": 14,
+      "y": 63,
+      "z": -114
     },
-    "texture": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjA4OTkwNjU2NDkyZDcyMmE4ZWE4OTZiODE2ZDAxOTExMzY4YjM4N2EyYWM0YmM3NGY3MGEwYWVkZDdlYjdmOCJ9fX0=",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjA4OTkwNjU2NDkyZDcyMmE4ZWE4OTZiODE2ZDAxOTExMzY4YjM4N2EyYWM0YmM3NGY3MGEwYWVkZDdlYjdmOCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIzZTUzZjdmZmQxMjkyY2ZjOTQyMGJmNjI0ZGI2ZjhhZiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3ODIwMjMyfQ==",
     "name": "Mine Merchant"
   },
   "MINIKLOON_NPC": {
@@ -3640,11 +3657,11 @@
   "NICOLE_NPC": {
     "island": "hub",
     "position": {
-      "x": 40,
-      "y": 91,
-      "z": 73
+      "x": 41,
+      "y": 93,
+      "z": 96
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ4YTNkNDMyODNmMTJhYjFmYTRkMWI5MDFkZjg5NzU4OTE0MGY0Y2MxZjY3NDgyMjJlNTc0Y2RjNzBjZTgzYTQifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDhhM2Q0MzI4M2YxMmFiMWZhNGQxYjkwMWRmODk3NTg5MTQwZjRjYzFmNjc0ODIyMmU1NzRjZGM3MGNlODNhNCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIzNDJmMzIxMjg4YjcyMzRkOWRmODU2NjdmNzllMTJkZiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3Mzk5Mjk2fQ==",
     "name": "Nicole"
   },
   "NIGHTMARE_SC": {
@@ -3792,11 +3809,11 @@
   "OZANNE_NPC": {
     "island": "hub",
     "position": {
-      "x": 42,
-      "y": 71,
-      "z": -39
+      "x": -55,
+      "y": 70,
+      "z": -66
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JmOWI1MTU2MDgzZjVhNzc5OTc3NjNiYWVlOWI0YTNlYWNlOTJhYTQyMzljNmI1MzgzNzExNDVhMTIwMjk4OTQifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmY5YjUxNTYwODNmNWE3Nzk5Nzc2M2JhZWU5YjRhM2VhY2U5MmFhNDIzOWM2YjUzODM3MTE0NWExMjAyOTg5NCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI1ODQyZDljODJhNDQyZmM1YWIzMDZhOGZkNDFhNDM4ZCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MDk4NDkyfQ==",
     "name": "Ozanne"
   },
   "PABLO_NPC": {
@@ -3830,11 +3847,11 @@
   "PAT_NPC": {
     "island": "hub",
     "position": {
-      "x": -135,
-      "y": 75,
-      "z": -98
+      "x": -88,
+      "y": 73,
+      "z": -95
     },
-    "texture": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTI2Mjk0NjdjZjU0NGU3OWVkMTQ4ZDNkMzg0Mjg3NmYyZDg4NDE4OThiNGIyZTZmNjBkZmMxZTAyZjExNzlmMyJ9fX0=",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTIzOTZiMGFkMzUyYjI1MzExMzljOWRjNGNlZjlhMzIzNTBjN2NjMTRlZDdiY2ZjNTE4NWNlMTVhN2E3ZDVlYiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIyYTY2MDM2YjA1NjAyYTY2OTA3YjBmMzViMjcyNDIyYSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MTM1MzkzfQ==",
     "name": "Pat"
   },
   "PAUL_MAYOR": {
@@ -3974,11 +3991,10 @@
   "PLUMBER_JOE_NPC": {
     "island": "hub",
     "position": {
-      "x": 56,
-      "y": 72,
-      "z": -78
+      "x": 123,
+      "y": 74,
+      "z": -39
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGNhOGVmMjQ1OGEyYjEwMjYwYjg3NTY1NThmNzY3OWJjYjdlZjY5MWQ0MWY1MzRlZmVhMmJhNzUxMDczMTVjYyJ9fX0=",
     "name": "Plumber Joe"
   },
   "PLUMBER_JOE_RIFT_NPC": {
@@ -4254,11 +4270,11 @@
   "RICHARD_NPC": {
     "island": "hub",
     "position": {
-      "x": -51,
-      "y": 73,
-      "z": -60
+      "x": -33,
+      "y": 70,
+      "z": -81
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMyOWJkYzA3NDcxOTg5NWEyMzllNmU1OWZjMDE5ZWYyODI1NmNmNzRhMzMzNDJlMWI4M2RkODYyZmE5NjMwOTAifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzI5YmRjMDc0NzE5ODk1YTIzOWU2ZTU5ZmMwMTllZjI4MjU2Y2Y3NGEzMzM0MmUxYjgzZGQ4NjJmYTk2MzA5MCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI3YzJiMjJiZGVjNGQyNjY3OTNhZjZhYzMzYjYxOWJmZCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MTIxMDIzfQ==",
     "name": "Richard"
   },
   "RICK_NPC": {
@@ -4348,11 +4364,11 @@
   "ROSETTA_NPC": {
     "island": "hub",
     "position": {
-      "x": -12,
-      "y": 70,
-      "z": -141
+      "x": -54,
+      "y": 69,
+      "z": -89
     },
-    "texture": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTQ0YzVmMTdkZjZkOGJmODI3NjJmN2NhYTI0MjQ2ZjY3NjUwZmE0NDJkYjE1NWVkMWZmY2U1NDdhM2Y1MTdlMyJ9fX0=",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDEwMzA3M2Y3MTZmZmQzNzE4ODJkOTRiYTVhZjBlNWU1YzBkMzc2MTljNGExZGJhNTk5NmFmZDczMjI1ODczYiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIwYTRhZWI2OTM0YmEyMWQxOGM5ZTgxMzI1M2Q2MDNkNyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MTExNTgzfQ==",
     "name": "Rosetta"
   },
   "ROYAL_RESIDENT_NEIGHBOR_NPC": {
@@ -4608,11 +4624,11 @@
   "SEYMOUR_NPC": {
     "island": "hub",
     "position": {
-      "x": 24,
-      "y": 67,
+      "x": 29,
+      "y": 66,
       "z": -40
     },
-    "texture": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDM1MGEwNDg2ZTM0ZmRmNGRlYjE3MGU0YjkzNGYwNGU1MTc5ZDg3MWYyNTRhMWI1NzE4N2JkOTg0ZDI4ODgifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzhhYWM0ZTYzMTM5OGMwZjQ3ZmU4NTYxNWU3ZjQ5MjE1NTAwMDQwYmI5MDgxOWQ1NjhlODI0YWNmOTRiZmE0ZSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI4ODcyOWRhOTA1ZmQyOGNjYmMyMDU0Njk2MGQyY2E2MyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MjQ4NzYzfQ==",
     "name": "Seymour"
   },
   "SEYMOUR_RIFT_NPC": {
@@ -4705,10 +4721,9 @@
     "island": "hub",
     "position": {
       "x": 114,
-      "y": 75,
-      "z": 174
+      "y": 73,
+      "z": 175
     },
-    "texture": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWVkNjYwYjA5NDdmN2FiYjJhNDZhOWQyNjRjMDMxMzk2YTQyZjcwNGU3NmJiMDhhYzRkY2NmMTZhNjNmOWI1NCJ9fX0=",
     "name": "Shifty"
   },
   "SHY_MONSTER": {
@@ -4810,11 +4825,10 @@
   "SMITHMONGER_NPC": {
     "island": "hub",
     "position": {
-      "x": -33,
-      "y": 71,
+      "x": 15,
+      "y": 63,
       "z": -136
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGNhOGVmMjQ1OGEyYjEwMjYwYjg3NTY1NThmNzY3OWJjYjdlZjY5MWQ0MWY1MzRlZmVhMmJhNzUxMDczMTVjYyJ9fX0=",
     "name": "Smithmonger"
   },
   "SMOLDERING_BLAZE_MONSTER": {
@@ -5073,11 +5087,11 @@
   "TAYLOR_NPC": {
     "island": "hub",
     "position": {
-      "x": 21,
-      "y": 73,
-      "z": -46
+      "x": 37,
+      "y": 74,
+      "z": -40
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE4Y2EwYzg5YmVmOGM0ZTdlNTIxYjExMzgyMWZmZGYwMGU3YjVlYjU1MmEzNzhmOTAzN2NiZWM2NTVkZDI3YzgifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMThjYTBjODliZWY4YzRlN2U1MjFiMTEzODIxZmZkZjAwZTdiNWViNTUyYTM3OGY5MDM3Y2JlYzY1NWRkMjdjOCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIwNGJmOTY1NzU3NWUyYjYzODg1NTRiYTQ0MzhmMGFmNCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MjQzNTQzfQ==",
     "name": "Taylor"
   },
   "TAYLOR_RIFT_NPC": {
@@ -5126,11 +5140,11 @@
   "THE_HANDLER_NPC": {
     "island": "hub",
     "position": {
-      "x": -64,
-      "y": 71,
-      "z": -126
+      "x": 40,
+      "y": 72,
+      "z": 1
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRhM2ZmODk3ZDMyODdhZjgyMGExZjI0MDA0MzQwZTNhZjYyNTdkYzVmOGRjMGY4ZDJmOWRiZWJkYzUzZTM2NmIifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGEzZmY4OTdkMzI4N2FmODIwYTFmMjQwMDQzNDBlM2FmNjI1N2RjNWY4ZGMwZjhkMmY5ZGJlYmRjNTNlMzY2YiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJkNzA4ODM4NmE4MTAyNTYyOWVkMWI3OWJlMTI2ZmYwYyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MzE0NTk3fQ==",
     "name": "The Handler"
   },
   "THORN_BOSS": {
@@ -5152,11 +5166,11 @@
   "TIA_THE_FAIRY_NPC": {
     "island": "hub",
     "position": {
-      "x": 130,
-      "y": 67,
-      "z": 138
+      "x": 119,
+      "y": 65,
+      "z": 147
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzNmMDcyOTQwYTk0MmI5NTNhM2Y5ZDEzOTFmZjM0MmI3ZDE5MDc2ZjdhMWEzZTk0NDA0MGQ2NDIwYzdkNDk4MCJ9fX0=",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzNmMDcyOTQwYTk0MmI5NTNhM2Y5ZDEzOTFmZjM0MmI3ZDE5MDc2ZjdhMWEzZTk0NDA0MGQ2NDIwYzdkNDk4MCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJjMWYwNmMwZDQ5NGUyMDNmYjM1NjJmZjAyYjBkODExNSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MzcwMjEzfQ==",
     "name": "Tia the Fairy"
   },
   "TIDETOT_MONSTER": {
@@ -5304,11 +5318,11 @@
   "UDIUM_NPC": {
     "island": "hub",
     "position": {
-      "x": 45,
-      "y": 105,
-      "z": 76
+      "x": 46,
+      "y": 101,
+      "z": 100
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlYWVlN2U1MWE4NzY5M2E4ZmI3ZmU0MzBhODg3ZmZiMjdlZWI5NzQ5Y2VhODE2ZDY1MjQ1ZTJkZjY1NWNmMzIifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWVhZWU3ZTUxYTg3NjkzYThmYjdmZTQzMGE4ODdmZmIyN2VlYjk3NDljZWE4MTZkNjUyNDVlMmRmNjU1Y2YzMiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI3ZjE0MGJmMjUzZTgyZTlkOGU2MDEzMDljYzJlZWVmNiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3NDA5NDU4fQ==",
     "name": "Udium"
   },
   "ULYN_NPC": {
@@ -5395,11 +5409,11 @@
   "VINCENT_NPC": {
     "island": "hub",
     "position": {
-      "x": 98,
-      "y": 73,
-      "z": -102
+      "x": 79,
+      "y": 74,
+      "z": 53
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzliYTNjNGY1ODJmYzg3NDllM2Q4ZTM1ZWYxZTYzMjgwYzQ3NTJlNGFjODNhYWI2OWY2NzRkYWMyNGEzNzU4MDMifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWJhM2M0ZjU4MmZjODc0OWUzZDhlMzVlZjFlNjMyODBjNDc1MmU0YWM4M2FhYjY5ZjY3NGRhYzI0YTM3NTgwMyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI3NWZiNjgwM2JhMjQyOTgxYTJjZGEyMjExMjZhNzA5MSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MzYzMzUzfQ==",
     "name": "Vincent"
   },
   "VOIDCRAZED_MANIAC_MINIBOSS": {
@@ -5491,11 +5505,11 @@
   "WEAPONSMITH_NPC": {
     "island": "hub",
     "position": {
-      "x": -11,
-      "y": 70,
-      "z": -131
+      "x": -51,
+      "y": 69,
+      "z": -86
     },
-    "texture": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzAxYjdlZmRjZjYxZjNiMDUzMjk1N2JlNDNlZjk3ZDE0OGUyMjNmNmQ0YTg3MTA3MjEzODNlNWRhMDc0NWQ4MyJ9fX0=",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWYzZjdhNjljOWE3YWQ5NWU5MGYyMTJkYTMwNDk5MGM4YmUzNmU5MzE5N2RiODc0YzJiMGZlMDgxMDZlMzIzYiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI1MmVlYTA2M2QzYWIyMTQwYTkxNDRkMzI0YWNkOTc2NCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MTAzMTAwfQ==",
     "name": "Weaponsmith"
   },
   "WEAVER_SPIDER_MONSTER": {
@@ -5563,11 +5577,11 @@
   "WIZARDS_ASSISTANT_NPC": {
     "island": "hub",
     "position": {
-      "x": 47,
-      "y": 123,
-      "z": 76
+      "x": 48,
+      "y": 119,
+      "z": 99
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I2ZDQ0YjIxODZiMjQ1NWY2NTcxMjgzMzUyNTQxYWYyYmY0MzY2NjZhMmY1NjJlNWZiNDM2OGE5Mjg3YWU1ZTgifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjdkNjFiZDVkM2QxNTlhYTc2NDEyOTMxNjBiYThiNmMwNjE4NzY3Zjg4MDE5NTFlNmE5NjhlN2QwOWEyNjMwMCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJjNGIwMjI5YTU1MDQyZjU2ODQ1MzBiYjMxYTc1OWQ3NCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3NDI0NTM1fQ==",
     "name": "Wizard's Assistant"
   },
   "WIZARD_NPC": {
@@ -5587,11 +5601,11 @@
   "WOOL_WEAVER_NPC": {
     "island": "hub",
     "position": {
-      "x": -48,
-      "y": 76,
-      "z": -31
+      "x": -18,
+      "y": 71,
+      "z": -58
     },
-    "texture": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjliYzFlNzFkY2QzY2I5YjE5MWFmZDk2NGFhMWQ5NDJhNjI4MWY1OGQ3NTM5NDBmMjY2NTNhZTVhODAyOCJ9fX0=",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjRlNTg3YzA4YjM0MDNkNzYxY2RhZmU1NGY0ZDUzMGNiZTE0YjRjNWMyYTAxZTg3ZWExOGFmMTFkMGUwNGMyMCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIxNjFjY2YxYmNiOGEyYjNlODQwZTE1ZWQyOWRmYmU1NyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MjM0MTkxfQ==",
     "name": "Wool Weaver"
   },
   "WORM_MONSTER": {
@@ -5641,11 +5655,11 @@
   "ZARINA_NPC": {
     "island": "hub",
     "position": {
-      "x": -42,
-      "y": 73,
-      "z": -54
+      "x": -33,
+      "y": 70,
+      "z": -76
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FmODg0OTBlMjBiYTM0NzJlNDJiYTk0NjM2NmRjMWNkZDFkYTUyNzY0MTQ3MGM4NzZiMTk3NGI4NjZiZTM3OGUifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWY4ODQ5MGUyMGJhMzQ3MmU0MmJhOTQ2MzY2ZGMxY2RkMWRhNTI3NjQxNDcwYzg3NmIxOTc0Yjg2NmJlMzc4ZSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI1NjBmMDUxODFjMjkyMWY4YTY1NGJhYzlhOTc4MDU0OSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MTI0MzAwfQ==",
     "name": "Zarina"
   },
   "ZEALOT_BRUISER_MONSTER": {
@@ -5671,11 +5685,11 @@
   "ZOG_NPC": {
     "island": "hub",
     "position": {
-      "x": 34,
-      "y": 73,
-      "z": -97
+      "x": 10,
+      "y": 69,
+      "z": -71
     },
-    "texture": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmJiY2Y3M2E0NjAzYjVhYTU0OTFjZWZjMTU1Zjc3MGRlMWE4MjQ2NmE1ODUwNjA0YmE1ZWEyNDk4MGNiNTQ3OSJ9fX0=",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmJiY2Y3M2E0NjAzYjVhYTU0OTFjZWZjMTU1Zjc3MGRlMWE4MjQ2NmE1ODUwNjA0YmE1ZWEyNDk4MGNiNTQ3OSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI3ZTFmZmEwNDE1NmUyZjRmOWVmMWE3NmYwZTQ2ZTFhZCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MjI3MDgyfQ==",
     "name": "Zog"
   },
   "ZOMBIE_COMMANDER_MONSTER": {
