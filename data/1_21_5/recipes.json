@@ -7352,8 +7352,12 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "SHINY_SHARD",
-        "count": 1
+        "id": "ENCHANTED_GRILLED_PORK",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_BAKED_POTATO",
+        "count": 16
       },
       {
         "id": "BLOOD_GOD_CREST",
@@ -7361,15 +7365,15 @@
       }
     ],
     "pattern": [
-      -1,
-      0,
-      -1,
       0,
       1,
       0,
-      -1,
+      1,
+      2,
+      1,
       0,
-      -1
+      1,
+      0
     ],
     "result": {
       "id": "BLOOD_GOD_SIGIL",
@@ -16141,6 +16145,34 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "ENCHANTED_DIAMOND_BLOCK",
+        "count": 1
+      },
+      {
+        "id": "GOLD_BONZO_HEAD",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "DIAMOND_BONZO_HEAD",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "DIAMOND",
         "count": 1
       }
@@ -16573,6 +16605,62 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "ENCHANTED_DIAMOND_BLOCK",
+        "count": 1
+      },
+      {
+        "id": "GOLD_LIVID_HEAD",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "DIAMOND_LIVID_HEAD",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_DIAMOND_BLOCK",
+        "count": 1
+      },
+      {
+        "id": "GOLD_NECRON_HEAD",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "DIAMOND_NECRON_HEAD",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "DIAMOND",
         "count": 1
       },
@@ -16594,6 +16682,90 @@
     ],
     "result": {
       "id": "DIAMOND_PICKAXE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_DIAMOND_BLOCK",
+        "count": 1
+      },
+      {
+        "id": "GOLD_PROFESSOR_HEAD",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "DIAMOND_PROFESSOR_HEAD",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_DIAMOND_BLOCK",
+        "count": 1
+      },
+      {
+        "id": "GOLD_SADAN_HEAD",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "DIAMOND_SADAN_HEAD",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_DIAMOND_BLOCK",
+        "count": 1
+      },
+      {
+        "id": "GOLD_SCARF_HEAD",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "DIAMOND_SCARF_HEAD",
       "count": 1
     }
   },
@@ -16678,6 +16850,34 @@
     ],
     "result": {
       "id": "DIAMOND_SWORD",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_DIAMOND_BLOCK",
+        "count": 1
+      },
+      {
+        "id": "GOLD_THORN_HEAD",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "DIAMOND_THORN_HEAD",
       "count": 1
     }
   },
@@ -53848,90 +54048,6 @@
       }
     ],
     "result": {
-      "id": "POTION",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 10000
-      }
-    ],
-    "result": {
-      "id": "POTION",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 15000
-      }
-    ],
-    "result": {
-      "id": "POTION",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 20000
-      }
-    ],
-    "result": {
-      "id": "POTION",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 25000
-      }
-    ],
-    "result": {
-      "id": "POTION",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 30000
-      }
-    ],
-    "result": {
-      "id": "POTION",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 5000
-      }
-    ],
-    "result": {
       "id": "POTION_DUNGEON;1",
       "count": 1
     }
@@ -54027,6 +54143,10 @@
         "type": "currency",
         "currency": "COIN",
         "count": 80000
+      },
+      {
+        "id": "CLEAVER",
+        "count": 1
       }
     ],
     "result": {
@@ -54131,7 +54251,7 @@
     ],
     "result": {
       "id": "ARROW",
-      "count": 1
+      "count": 20
     }
   },
   {
@@ -54295,6 +54415,142 @@
     ],
     "result": {
       "id": "STEEL_CHESTPLATE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "ESSENCE_WITHER",
+        "count": 500
+      }
+    ],
+    "result": {
+      "id": "DUNGEONBREAKER",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 80000
+      }
+    ],
+    "result": {
+      "id": "STONE_CHESTPLATE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 800000
+      },
+      {
+        "id": "STONE_CHESTPLATE",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "METAL_CHESTPLATE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "ESSENCE_GOLD",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "GOLD_BONZO_HEAD",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "ESSENCE_GOLD",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "GOLD_SCARF_HEAD",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "ESSENCE_GOLD",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "GOLD_PROFESSOR_HEAD",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "ESSENCE_GOLD",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "GOLD_THORN_HEAD",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "ESSENCE_GOLD",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "GOLD_LIVID_HEAD",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "ESSENCE_GOLD",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "GOLD_SADAN_HEAD",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "ESSENCE_GOLD",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "GOLD_NECRON_HEAD",
       "count": 1
     }
   },
@@ -57560,36 +57816,6 @@
     "coins": 100000000
   },
   {
-    "type": "crafting",
-    "keys": [
-      {
-        "id": "PORK",
-        "count": 8
-      },
-      {
-        "id": "EGG",
-        "count": 1
-      }
-    ],
-    "pattern": [
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    "result": {
-      "type": "pet",
-      "pet": "PIG",
-      "tier": "COMMON",
-      "count": 1
-    }
-  },
-  {
     "type": "kat",
     "input": {
       "type": "pet",
@@ -57680,6 +57906,62 @@
     ],
     "time": 45,
     "coins": 10000
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_PORK",
+        "count": 1
+      },
+      {
+        "id": "BROKEN_PIGGY_BANK",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "PIGGY_BANK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_PORK",
+        "count": 1
+      },
+      {
+        "id": "CRACKED_PIGGY_BANK",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "PIGGY_BANK",
+      "count": 1
+    }
   },
   {
     "type": "crafting",
@@ -58185,17 +58467,12 @@
     "type": "shop",
     "inputs": [
       {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 7500000
-      },
-      {
-        "id": "ENCHANTED_GRILLED_PORK",
-        "count": 2
+        "id": "SHINY_SHARD",
+        "count": 128
       }
     ],
     "result": {
-      "id": "THE_ART_OF_WAR",
+      "id": "SHINY_ROD",
       "count": 1
     }
   },
@@ -58208,12 +58485,12 @@
         "count": 1000000
       },
       {
-        "id": "ENCHANTED_PORK",
-        "count": 32
+        "id": "SHINY_SHARD",
+        "count": 128
       }
     ],
     "result": {
-      "id": "BLOOD_GOD_CREST",
+      "id": "DANTE_RING",
       "count": 1
     }
   },
@@ -58223,11 +58500,36 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 2000000
+        "count": 5000000
+      },
+      {
+        "id": "ENCHANTED_GRILLED_PORK",
+        "count": 1
+      },
+      {
+        "id": "SHINY_SHARD",
+        "count": 256
       }
     ],
     "result": {
-      "id": "DANTE_RING",
+      "id": "THE_ART_OF_WAR",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "ENCHANTED_PORK",
+        "count": 32
+      },
+      {
+        "id": "SHINY_SHARD",
+        "count": 64
+      }
+    ],
+    "result": {
+      "id": "PIG_PET;0",
       "count": 1
     }
   },
@@ -58938,8 +59240,8 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "SHINY_SHARD",
-        "count": 1
+        "id": "ENCHANTED_BAKED_POTATO",
+        "count": 8
       },
       {
         "id": "POTATO_TALISMAN",
@@ -58947,15 +59249,15 @@
       }
     ],
     "pattern": [
-      -1,
       0,
-      -1,
+      0,
+      0,
       0,
       1,
       0,
-      -1,
       0,
-      -1
+      0,
+      0
     ],
     "result": {
       "id": "POTATO_RING",
@@ -68044,38 +68346,6 @@
     ],
     "result": {
       "id": "SHINY_PRISM",
-      "count": 1
-    }
-  },
-  {
-    "type": "crafting",
-    "keys": [
-      {
-        "id": "SHINY_SHARD",
-        "count": 1
-      },
-      {
-        "id": "STRING",
-        "count": 1
-      },
-      {
-        "id": "CARROT_ITEM",
-        "count": 1
-      }
-    ],
-    "pattern": [
-      -1,
-      -1,
-      0,
-      -1,
-      0,
-      1,
-      0,
-      -1,
-      2
-    ],
-    "result": {
-      "id": "SHINY_ROD",
       "count": 1
     }
   },
@@ -84854,6 +85124,20 @@
     ],
     "result": {
       "id": "DIAMOND_SWORD",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "ROGUE_SWORD",
       "count": 1
     }
   },
