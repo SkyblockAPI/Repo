@@ -10168,6 +10168,67 @@
       }
     }
   },
+  "SEAL": {
+    "id": "SEAL",
+    "name": "Seal",
+    "tiers": {
+      "LEGENDARY": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3MDE2MTI5MjM4NiwKICAicHJvZmlsZUlkIiA6ICIzMjFjNTBiMjJhY2Q0OGUxOGEyMGU0N2I2ZThhYjE2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsaWdodDEzMzM3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNhNzcyOGJiZjZmNTNmNmMxZTNiMTIxNzc4ZTJjMjE3NWY2YzI3MDMyZGJkOWE1ZmIzYTBkODc0N2UxMDRmNjciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+        "lore": [
+          "§8Fishing Pet",
+          "",
+          "§7Fishing Speed: §b{FISHING_SPEED}",
+          "§7Sea Creature Chance: §3{SEA_CREATURE_CHANCE}%",
+          "§7Treasure Chance: §6{TREASURE_CHANCE}%",
+          "",
+          "§6Showboater",
+          "§7Increases your chance of catching",
+          "§5Bouncy Beach Balls§7 and §6Giant Bouncy",
+          "§6Beach Balls§7 during the §9Year of the",
+          "§9Seal§7 by §a{0}%§7.",
+          "",
+          "§6Peak Performance",
+          "§7Gain a §a{1}%§7 chance to materialize some",
+          "§9Treasure Bait§7 in your inventory",
+          "§7upon catching §6Treasure§7. Materializes",
+          "§aGolden Bait§7 instead during the §9Year",
+          "§9of the Seal§7.",
+          "",
+          "§6Amphibious",
+          "§7Increases the base stats of this pet",
+          "§7by §a{2}%§7 during the §9Year of the Seal.",
+          "",
+          "§6§lLEGENDARY"
+        ],
+        "variables": {
+          "0": [
+            1,
+            100
+          ],
+          "1": [
+            0.5,
+            5
+          ],
+          "2": [
+            1,
+            100
+          ],
+          "FISHING_SPEED": [
+            0.35,
+            35
+          ],
+          "SEA_CREATURE_CHANCE": [
+            0.5,
+            5
+          ],
+          "TREASURE_CHANCE": [
+            0.1,
+            1
+          ]
+        }
+      }
+    }
+  },
   "SHEEP": {
     "id": "SHEEP",
     "name": "Sheep",
@@ -12389,6 +12450,198 @@
           "FEROCITY": [
             0.25,
             25
+          ]
+        }
+      }
+    }
+  },
+  "WITCH": {
+    "id": "WITCH",
+    "name": "Witch",
+    "tiers": {
+      "COMMON": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2NzgxNDI4Mjk0OCwKICAicHJvZmlsZUlkIiA6ICIyY2Y2MzExZjUyMTM0NTE2YTEyNTY3NWUwMzk3NmU2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJmaWdodHN0b2NrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JhZjgxOGIwNGQ2YWU5OGE2OWFkOGQ5NDYzZDhkMDM3OTkyMWQzZWI3OTIyMmUxYzYyNzJmNjUzNzJkODA3NzUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+        "lore": [
+          "§8Alchemy Pet",
+          "",
+          "§7Intelligence: §b{INTELLIGENCE}",
+          "§7Alchemy Wisdom: §3{ALCHEMY_WISDOM}",
+          "",
+          "§6Toil and Trouble",
+          "§7Increases your chance of dropping",
+          "§6Ingredients§7 during the §5Year of the",
+          "§5Witch§7 by §a{0}%§7.",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§f§lCOMMON"
+        ],
+        "variables": {
+          "0": [
+            0.5,
+            50
+          ],
+          "INTELLIGENCE": [
+            1,
+            100
+          ],
+          "ALCHEMY_WISDOM": [
+            0.05,
+            5
+          ]
+        }
+      },
+      "UNCOMMON": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2NzgxNDI4Mjk0OCwKICAicHJvZmlsZUlkIiA6ICIyY2Y2MzExZjUyMTM0NTE2YTEyNTY3NWUwMzk3NmU2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJmaWdodHN0b2NrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JhZjgxOGIwNGQ2YWU5OGE2OWFkOGQ5NDYzZDhkMDM3OTkyMWQzZWI3OTIyMmUxYzYyNzJmNjUzNzJkODA3NzUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+        "lore": [
+          "§8Alchemy Pet",
+          "",
+          "§7Intelligence: §b{INTELLIGENCE}",
+          "§7Alchemy Wisdom: §3{ALCHEMY_WISDOM}",
+          "",
+          "§6Toil and Trouble",
+          "§7Increases your chance of dropping",
+          "§6Ingredients§7 during the §5Year of the",
+          "§5Witch§7 by §a{0}%§7.",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§a§lUNCOMMON"
+        ],
+        "variables": {
+          "0": [
+            0.8,
+            80
+          ],
+          "INTELLIGENCE": [
+            1,
+            100
+          ],
+          "ALCHEMY_WISDOM": [
+            0.05,
+            5
+          ]
+        }
+      },
+      "RARE": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2NzgxNDI4Mjk0OCwKICAicHJvZmlsZUlkIiA6ICIyY2Y2MzExZjUyMTM0NTE2YTEyNTY3NWUwMzk3NmU2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJmaWdodHN0b2NrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JhZjgxOGIwNGQ2YWU5OGE2OWFkOGQ5NDYzZDhkMDM3OTkyMWQzZWI3OTIyMmUxYzYyNzJmNjUzNzJkODA3NzUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+        "lore": [
+          "§8Alchemy Pet",
+          "",
+          "§7Intelligence: §b{INTELLIGENCE}",
+          "§7Alchemy Wisdom: §3{ALCHEMY_WISDOM}",
+          "",
+          "§6Toil and Trouble",
+          "§7Increases your chance of dropping",
+          "§6Ingredients§7 during the §5Year of the",
+          "§5Witch§7 by §a{0}%§7.",
+          "",
+          "§6Alchemism",
+          "§7Reduces how long §5Potions§7 take to",
+          "§7brew by §a{1}%§7.",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§9§lRARE"
+        ],
+        "variables": {
+          "0": [
+            0.8,
+            80
+          ],
+          "1": [
+            0.4,
+            40
+          ],
+          "INTELLIGENCE": [
+            1,
+            100
+          ],
+          "ALCHEMY_WISDOM": [
+            0.05,
+            5
+          ]
+        }
+      },
+      "EPIC": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2NzgxNDI4Mjk0OCwKICAicHJvZmlsZUlkIiA6ICIyY2Y2MzExZjUyMTM0NTE2YTEyNTY3NWUwMzk3NmU2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJmaWdodHN0b2NrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JhZjgxOGIwNGQ2YWU5OGE2OWFkOGQ5NDYzZDhkMDM3OTkyMWQzZWI3OTIyMmUxYzYyNzJmNjUzNzJkODA3NzUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+        "lore": [
+          "§8Alchemy Pet",
+          "",
+          "§7Intelligence: §b{INTELLIGENCE}",
+          "§7Alchemy Wisdom: §3{ALCHEMY_WISDOM}",
+          "",
+          "§6Toil and Trouble",
+          "§7Increases your chance of dropping",
+          "§6Ingredients§7 during the §5Year of the",
+          "§5Witch§7 by §a{0}%§7.",
+          "",
+          "§6Alchemism",
+          "§7Reduces how long §5Potions§7 take to",
+          "§7brew by §a{1}%§7.",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§5§lEPIC"
+        ],
+        "variables": {
+          "0": [
+            1,
+            100
+          ],
+          "1": [
+            0.5,
+            50
+          ],
+          "INTELLIGENCE": [
+            1,
+            100
+          ],
+          "ALCHEMY_WISDOM": [
+            0.05,
+            5
+          ]
+        }
+      },
+      "LEGENDARY": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2NzgxNDI4Mjk0OCwKICAicHJvZmlsZUlkIiA6ICIyY2Y2MzExZjUyMTM0NTE2YTEyNTY3NWUwMzk3NmU2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJmaWdodHN0b2NrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JhZjgxOGIwNGQ2YWU5OGE2OWFkOGQ5NDYzZDhkMDM3OTkyMWQzZWI3OTIyMmUxYzYyNzJmNjUzNzJkODA3NzUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+        "lore": [
+          "§8Alchemy Pet",
+          "",
+          "§7Intelligence: §b{INTELLIGENCE}",
+          "§7Alchemy Wisdom: §3{ALCHEMY_WISDOM}",
+          "",
+          "§6Toil and Trouble",
+          "§7Increases your chance of dropping",
+          "§6Ingredients§7 during the §5Year of the",
+          "§5Witch§7 by §a{0}%§7.",
+          "",
+          "§6Alchemism",
+          "§7Reduces how long §5Potions§7 take to",
+          "§7brew by §a{1}%§7.",
+          "",
+          "§6Witching Hour",
+          "§7Increases the base stats of this pet",
+          "§7by §a{2}%§7 during the §5Year of the Witch§7.",
+          "",
+          "§6§lLEGENDARY"
+        ],
+        "variables": {
+          "0": [
+            1,
+            100
+          ],
+          "1": [
+            0.5,
+            50
+          ],
+          "2": [
+            1,
+            100
+          ],
+          "INTELLIGENCE": [
+            1,
+            100
+          ],
+          "ALCHEMY_WISDOM": [
+            0.05,
+            5
           ]
         }
       }

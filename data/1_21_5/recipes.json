@@ -1259,6 +1259,215 @@
     "type": "shop",
     "inputs": [
       {
+        "id": "FESTERING_FLY",
+        "count": 32
+      }
+    ],
+    "result": {
+      "id": "WITCH_TALISMAN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "WITCH_TALISMAN",
+        "count": 1
+      },
+      {
+        "id": "VOID_OOZE",
+        "count": 64
+      },
+      {
+        "id": "FROG_LEGS",
+        "count": 64
+      }
+    ],
+    "result": {
+      "id": "WITCH_RING",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "WITCH_RING",
+        "count": 1
+      },
+      {
+        "id": "SMOLDERING_EMBERS",
+        "count": 64
+      },
+      {
+        "id": "SPELL_SOOT",
+        "count": 64
+      },
+      {
+        "id": "GELATINOUS_GLOOP",
+        "count": 64
+      }
+    ],
+    "result": {
+      "id": "WITCH_ARTIFACT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SPIDER_EGG",
+        "count": 64
+      },
+      {
+        "id": "FUNNY_BONE",
+        "count": 64
+      }
+    ],
+    "result": {
+      "id": "SMALL_WITCH_CAULDRON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "WATERBORNE_LICE",
+        "count": 64
+      },
+      {
+        "id": "CONSOLE_PANEL",
+        "count": 64
+      },
+      {
+        "id": "JAWBREAKER",
+        "count": 64
+      }
+    ],
+    "result": {
+      "id": "MEDIUM_WITCH_CAULDRON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SMOLDERING_EMBERS",
+        "count": 64
+      },
+      {
+        "id": "WARMED_FLAKES",
+        "count": 64
+      },
+      {
+        "id": "NEVER_MELT_ICE",
+        "count": 64
+      },
+      {
+        "id": "GLACIATED_BRAINS",
+        "count": 64
+      }
+    ],
+    "result": {
+      "id": "LARGE_WITCH_CAULDRON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SHIELD_DUST",
+        "count": 64
+      },
+      {
+        "id": "PIXIE_DUST",
+        "count": 64
+      },
+      {
+        "id": "RUFFLED_FEATHER",
+        "count": 64
+      },
+      {
+        "id": "BRITTLE_POWDER",
+        "count": 64
+      },
+      {
+        "id": "DIRTY_FINGERNAILS",
+        "count": 64
+      }
+    ],
+    "result": {
+      "id": "GIANT_WITCH_CAULDRON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "FESTERING_FLY",
+        "count": 16
+      },
+      {
+        "id": "SPIDER_EGG",
+        "count": 16
+      }
+    ],
+    "result": {
+      "id": "WITCH_SACK",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "FROG_LEGS",
+        "count": 128
+      }
+    ],
+    "result": {
+      "id": "PIG_BRAIN_MIXIN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "WATERBORNE_LICE",
+        "count": 128
+      }
+    ],
+    "result": {
+      "id": "BLENDED_FISH_MIXIN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "FESTERING_FLY",
+        "count": 64
+      }
+    ],
+    "result": {
+      "type": "pet",
+      "pet": "WITCH",
+      "tier": "COMMON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
         "type": "currency",
         "currency": "COIN",
         "count": 100000
@@ -58534,6 +58743,74 @@
     }
   },
   {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "ENCHANTED_PORK",
+        "count": 16
+      },
+      {
+        "id": "SHINY_SHARD",
+        "count": 32
+      }
+    ],
+    "result": {
+      "id": "SMALL_PIG_EAR",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "ENCHANTED_PORK",
+        "count": 32
+      },
+      {
+        "id": "SHINY_SHARD",
+        "count": 32
+      }
+    ],
+    "result": {
+      "id": "MEDIUM_PIG_EAR",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "ENCHANTED_PORK",
+        "count": 64
+      },
+      {
+        "id": "SHINY_SHARD",
+        "count": 32
+      }
+    ],
+    "result": {
+      "id": "LARGE_PIG_EAR",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "ENCHANTED_GRILLED_PORK",
+        "count": 1
+      },
+      {
+        "id": "SHINY_SHARD",
+        "count": 32
+      }
+    ],
+    "result": {
+      "id": "GIANT_PIG_EAR",
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {
@@ -86359,6 +86636,98 @@
       "id": "WISE_WITHER_LEGGINGS",
       "count": 1
     }
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "WITCH",
+      "tier": "COMMON",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "WITCH",
+      "tier": "UNCOMMON",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "SMALL_WITCH_CAULDRON",
+        "count": 1
+      }
+    ],
+    "time": 60,
+    "coins": 100
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "WITCH",
+      "tier": "UNCOMMON",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "WITCH",
+      "tier": "RARE",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "MEDIUM_WITCH_CAULDRON",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 10000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "WITCH",
+      "tier": "RARE",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "WITCH",
+      "tier": "EPIC",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "LARGE_WITCH_CAULDRON",
+        "count": 1
+      }
+    ],
+    "time": 86400,
+    "coins": 250000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "WITCH",
+      "tier": "EPIC",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "WITCH",
+      "tier": "LEGENDARY",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "GIANT_WITCH_CAULDRON",
+        "count": 1
+      }
+    ],
+    "time": 259200,
+    "coins": 500000
   },
   {
     "type": "crafting",
