@@ -8935,16 +8935,13 @@
       "UNCOMMON": {
         "texture": "eyJ0aW1lc3RhbXAiOjE0OTg2OTAzOTQxNTUsInByb2ZpbGVJZCI6IjhiNTcwNzhiZjFiZDQ1ZGY4M2M0ZDg4ZDE2NzY4ZmJlIiwicHJvZmlsZU5hbWUiOiJNSEZfUGlnIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MjE2NjhlZjdjYjc5ZGQ5YzIyY2UzZDFmM2Y0Y2I2ZTI1NTk4OTNiNmRmNGE0Njk1MTRlNjY3YzE2YWE0In19fQ==",
         "lore": [
-          "§8Farming Mount",
+          "§8Farming Pet",
           "",
           "§7Speed: §f{SPEED}",
+          "§7Potato Fortune: §6{POTATO_FORTUNE}",
           "",
-          "§6Ridable",
-          "§7Right-click your summoned pet to",
-          "§7ride it!",
-          "",
-          "§6Run",
-          "§7Increases the speed of your mount",
+          "§6Hamfisted",
+          "§7Increases §6Coin§7 gain from §6Shiny Pigs",
           "§7by §a{0}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -8958,28 +8955,28 @@
           "SPEED": [
             0.25,
             25
+          ],
+          "POTATO_FORTUNE": [
+            0,
+            0
           ]
         }
       },
       "RARE": {
         "texture": "eyJ0aW1lc3RhbXAiOjE0OTg2OTAzOTQxNTUsInByb2ZpbGVJZCI6IjhiNTcwNzhiZjFiZDQ1ZGY4M2M0ZDg4ZDE2NzY4ZmJlIiwicHJvZmlsZU5hbWUiOiJNSEZfUGlnIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MjE2NjhlZjdjYjc5ZGQ5YzIyY2UzZDFmM2Y0Y2I2ZTI1NTk4OTNiNmRmNGE0Njk1MTRlNjY3YzE2YWE0In19fQ==",
         "lore": [
-          "§8Farming Mount",
+          "§8Farming Pet",
           "",
           "§7Speed: §f{SPEED}",
+          "§7Potato Fortune: §6{POTATO_FORTUNE}",
           "",
-          "§6Ridable",
-          "§7Right-click your summoned pet to",
-          "§7ride it!",
-          "",
-          "§6Run",
-          "§7Increases the speed of your mount",
+          "§6Hamfisted",
+          "§7Increases §6Coin§7 gain from §6Shiny Pigs",
           "§7by §a{0}%§7.",
           "",
-          "§6Sprint",
-          "§7While holding an §aEnchanted Carrot on",
-          "§aa Stick§7, increases the speed of your",
-          "§7mount by §a{1}%",
+          "§6Shining Stampede",
+          "§7Grants §6+{1}☘ Potato Fortune§7 per",
+          "§6Shiny Pig§7 §3Bestiary§7 tier.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -8996,6 +8993,10 @@
           "SPEED": [
             0.25,
             25
+          ],
+          "POTATO_FORTUNE": [
+            0,
+            0
           ]
         }
       },

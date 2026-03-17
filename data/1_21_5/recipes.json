@@ -57598,81 +57598,13 @@
     "type": "shop",
     "inputs": [
       {
-        "type": "currency",
-        "currency": "PEST",
-        "count": 25
-      }
-    ],
-    "result": {
-      "id": "PESTHUNTER_BADGE",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "PEST",
-        "count": 50
-      },
-      {
-        "id": "PESTHUNTER_BADGE",
-        "count": 1
-      }
-    ],
-    "result": {
-      "id": "PESTHUNTER_RING",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "PEST",
-        "count": 100
-      },
-      {
-        "id": "PESTHUNTER_RING",
-        "count": 1
-      }
-    ],
-    "result": {
-      "id": "PESTHUNTER_ARTIFACT",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "PEST",
-        "count": 200
-      },
-      {
-        "id": "PESTHUNTER_ARTIFACT",
-        "count": 1
-      }
-    ],
-    "result": {
-      "id": "PESTHUNTER_RELIC",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "PEST",
-        "count": 50
-      },
-      {
         "id": "MUSHROOM_HELMET",
         "count": 1
+      },
+      {
+        "type": "currency",
+        "currency": "PEST",
+        "count": 50
       }
     ],
     "result": {
@@ -57684,13 +57616,13 @@
     "type": "shop",
     "inputs": [
       {
+        "id": "MUSHROOM_CHESTPLATE",
+        "count": 1
+      },
+      {
         "type": "currency",
         "currency": "PEST",
         "count": 80
-      },
-      {
-        "id": "MUSHROOM_CHESTPLATE",
-        "count": 1
       }
     ],
     "result": {
@@ -57702,13 +57634,13 @@
     "type": "shop",
     "inputs": [
       {
+        "id": "MUSHROOM_LEGGINGS",
+        "count": 1
+      },
+      {
         "type": "currency",
         "currency": "PEST",
         "count": 70
-      },
-      {
-        "id": "MUSHROOM_LEGGINGS",
-        "count": 1
       }
     ],
     "result": {
@@ -57720,31 +57652,17 @@
     "type": "shop",
     "inputs": [
       {
+        "id": "MUSHROOM_BOOTS",
+        "count": 1
+      },
+      {
         "type": "currency",
         "currency": "PEST",
         "count": 40
-      },
-      {
-        "id": "MUSHROOM_BOOTS",
-        "count": 1
       }
     ],
     "result": {
       "id": "BIOHAZARD_BOOTS",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "PEST",
-        "count": 40
-      }
-    ],
-    "result": {
-      "id": "PESTHUNTERS_GLOVES",
       "count": 1
     }
   },
@@ -57766,13 +57684,13 @@
     "type": "shop",
     "inputs": [
       {
+        "id": "PEST_TRAP",
+        "count": 1
+      },
+      {
         "type": "currency",
         "currency": "PEST",
         "count": 75
-      },
-      {
-        "id": "PEST_TRAP",
-        "count": 1
       }
     ],
     "result": {
@@ -57808,11 +57726,53 @@
       {
         "type": "currency",
         "currency": "PEST",
-        "count": 500
+        "count": 40
       }
     ],
     "result": {
-      "id": "PESTHUNTING_GUIDE",
+      "id": "PESTHUNTERS_NECKLACE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "PEST",
+        "count": 40
+      }
+    ],
+    "result": {
+      "id": "PESTHUNTERS_CLOAK",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "PEST",
+        "count": 40
+      }
+    ],
+    "result": {
+      "id": "PESTHUNTERS_BELT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "PEST",
+        "count": 40
+      }
+    ],
+    "result": {
+      "id": "PESTHUNTERS_GLOVES",
       "count": 1
     }
   },
@@ -57840,9 +57800,91 @@
       }
     ],
     "result": {
+      "id": "PESTHUNTING_GUIDE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "PEST",
+        "count": 500
+      }
+    ],
+    "result": {
       "type": "pet",
       "pet": "HEDGEHOG",
       "tier": "LEGENDARY",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "PEST",
+        "count": 25
+      }
+    ],
+    "result": {
+      "id": "PESTHUNTER_BADGE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "PESTHUNTER_BADGE",
+        "count": 1
+      },
+      {
+        "type": "currency",
+        "currency": "PEST",
+        "count": 50
+      }
+    ],
+    "result": {
+      "id": "PESTHUNTER_RING",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "PESTHUNTER_RING",
+        "count": 1
+      },
+      {
+        "type": "currency",
+        "currency": "PEST",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "PESTHUNTER_ARTIFACT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "PESTHUNTER_ARTIFACT",
+        "count": 1
+      },
+      {
+        "type": "currency",
+        "currency": "PEST",
+        "count": 200
+      }
+    ],
+    "result": {
+      "id": "PESTHUNTER_RELIC",
       "count": 1
     }
   },
@@ -58689,6 +58731,93 @@
     "type": "shop",
     "inputs": [
       {
+        "id": "SHINY_SHARD",
+        "count": 64
+      },
+      {
+        "id": "ENCHANTED_PORK",
+        "count": 32
+      }
+    ],
+    "result": {
+      "type": "pet",
+      "pet": "PIG",
+      "tier": "COMMON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SHINY_SHARD",
+        "count": 32
+      },
+      {
+        "id": "ENCHANTED_PORK",
+        "count": 16
+      }
+    ],
+    "result": {
+      "id": "SMALL_PIG_EAR",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SHINY_SHARD",
+        "count": 64
+      },
+      {
+        "id": "ENCHANTED_PORK",
+        "count": 32
+      }
+    ],
+    "result": {
+      "id": "MEDIUM_PIG_EAR",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SHINY_SHARD",
+        "count": 128
+      },
+      {
+        "id": "ENCHANTED_PORK",
+        "count": 64
+      }
+    ],
+    "result": {
+      "id": "LARGE_PIG_EAR",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SHINY_SHARD",
+        "count": 256
+      },
+      {
+        "id": "ENCHANTED_GRILLED_PORK",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "GIANT_PIG_EAR",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
         "type": "currency",
         "currency": "COIN",
         "count": 1000000
@@ -58712,101 +58841,16 @@
         "count": 5000000
       },
       {
-        "id": "ENCHANTED_GRILLED_PORK",
-        "count": 1
-      },
-      {
         "id": "SHINY_SHARD",
         "count": 256
+      },
+      {
+        "id": "ENCHANTED_GRILLED_PORK",
+        "count": 1
       }
     ],
     "result": {
       "id": "THE_ART_OF_WAR",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "id": "ENCHANTED_PORK",
-        "count": 32
-      },
-      {
-        "id": "SHINY_SHARD",
-        "count": 64
-      }
-    ],
-    "result": {
-      "id": "PIG_PET;0",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "id": "ENCHANTED_PORK",
-        "count": 16
-      },
-      {
-        "id": "SHINY_SHARD",
-        "count": 32
-      }
-    ],
-    "result": {
-      "id": "SMALL_PIG_EAR",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "id": "ENCHANTED_PORK",
-        "count": 32
-      },
-      {
-        "id": "SHINY_SHARD",
-        "count": 32
-      }
-    ],
-    "result": {
-      "id": "MEDIUM_PIG_EAR",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "id": "ENCHANTED_PORK",
-        "count": 64
-      },
-      {
-        "id": "SHINY_SHARD",
-        "count": 32
-      }
-    ],
-    "result": {
-      "id": "LARGE_PIG_EAR",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "id": "ENCHANTED_GRILLED_PORK",
-        "count": 1
-      },
-      {
-        "id": "SHINY_SHARD",
-        "count": 32
-      }
-    ],
-    "result": {
-      "id": "GIANT_PIG_EAR",
       "count": 1
     }
   },
@@ -69693,7 +69737,7 @@
     "result": {
       "type": "enchantment",
       "id": "SUNDER",
-      "level": 6,
+      "level": 1,
       "count": 1
     }
   },
@@ -69791,43 +69835,11 @@
       {
         "type": "currency",
         "currency": "COPPER",
-        "count": 300
-      }
-    ],
-    "result": {
-      "id": "YELLOW_BANDANA",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COPPER",
         "count": 5
       }
     ],
     "result": {
       "id": "BASIC_GARDENING_HOE",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COPPER",
-        "count": 20
-      },
-      {
-        "id": "BASIC_GARDENING_HOE",
-        "count": 1
-      }
-    ],
-    "result": {
-      "id": "ADVANCED_GARDENING_HOE",
       "count": 1
     }
   },
@@ -69851,333 +69863,11 @@
       {
         "type": "currency",
         "currency": "COPPER",
-        "count": 20
-      },
-      {
-        "id": "BASIC_GARDENING_AXE",
-        "count": 1
-      }
-    ],
-    "result": {
-      "id": "ADVANCED_GARDENING_AXE",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COPPER",
         "count": 100
       }
     ],
     "result": {
       "id": "SKYMART_BROCHURE",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COPPER",
-        "count": 150
-      }
-    ],
-    "result": {
-      "id": "LARGE_WALNUT",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 5000
-      }
-    ],
-    "result": {
-      "id": "SKYMART_VACUUM",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COPPER",
-        "count": 200
-      },
-      {
-        "id": "SKYMART_VACUUM",
-        "count": 1
-      }
-    ],
-    "result": {
-      "id": "SKYMART_TURBO_VACUUM",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COPPER",
-        "count": 500
-      },
-      {
-        "id": "SKYMART_TURBO_VACUUM",
-        "count": 1
-      }
-    ],
-    "result": {
-      "id": "SKYMART_HYPER_VACUUM",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COPPER",
-        "count": 1000
-      },
-      {
-        "id": "SKYMART_HYPER_VACUUM",
-        "count": 1
-      }
-    ],
-    "result": {
-      "id": "INFINI_VACUUM",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COPPER",
-        "count": 2500
-      },
-      {
-        "id": "INFINI_VACUUM",
-        "count": 1
-      },
-      {
-        "id": "CHIRPING_STEREO",
-        "count": 1
-      }
-    ],
-    "result": {
-      "id": "INFINI_VACUUM_HOOVERIUS",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COPPER",
-        "count": 25
-      }
-    ],
-    "result": {
-      "id": "SPRAYONATOR",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COPPER",
-        "count": 15
-      }
-    ],
-    "result": {
-      "id": "PEST_REPELLENT",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COPPER",
-        "count": 25
-      },
-      {
-        "id": "PEST_REPELLENT",
-        "count": 1
-      }
-    ],
-    "result": {
-      "id": "PEST_REPELLENT_MAX",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COPPER",
-        "count": 10000
-      }
-    ],
-    "result": {
-      "id": "HIVE_BARN_SKIN",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "GEM",
-        "count": 250
-      }
-    ],
-    "result": {
-      "id": "CUBE_BARN_SKIN",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "GEM",
-        "count": 250
-      }
-    ],
-    "result": {
-      "id": "COZY_COTTAGE_BARN_SKIN",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "GEM",
-        "count": 250
-      }
-    ],
-    "result": {
-      "id": "TAVERN_BARN_SKIN",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COPPER",
-        "count": 2000
-      }
-    ],
-    "result": {
-      "id": "AUTUMN_HUT_BARN_SKIN",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "GEM",
-        "count": 250
-      }
-    ],
-    "result": {
-      "id": "WINDMILL_BARN_SKIN",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COPPER",
-        "count": 15000
-      }
-    ],
-    "result": {
-      "id": "CASTLE_BARN_SKIN",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COPPER",
-        "count": 7500
-      }
-    ],
-    "result": {
-      "id": "BAMBOO_BARN_SKIN",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "GEM",
-        "count": 950
-      }
-    ],
-    "result": {
-      "id": "MELON_BARN_SKIN",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "GEM",
-        "count": 950
-      }
-    ],
-    "result": {
-      "id": "LUCKY_BARN_SKIN",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 20000
-      }
-    ],
-    "result": {
-      "id": "PORTABLE_WASHER",
       "count": 1
     }
   },
@@ -70257,16 +69947,63 @@
     "type": "shop",
     "inputs": [
       {
-        "id": "SUNFLOWER_GENERATOR_11",
-        "count": 1
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 20
       },
       {
-        "id": "COMPACTED_SUNFLOWER",
-        "count": 32
+        "id": "BASIC_GARDENING_HOE",
+        "count": 1
       }
     ],
     "result": {
-      "id": "SUNFLOWER_GENERATOR_12",
+      "id": "ADVANCED_GARDENING_HOE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 20
+      },
+      {
+        "id": "BASIC_GARDENING_AXE",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "ADVANCED_GARDENING_AXE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 150
+      }
+    ],
+    "result": {
+      "id": "LARGE_WALNUT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 300
+      }
+    ],
+    "result": {
+      "id": "YELLOW_BANDANA",
       "count": 1
     }
   },
@@ -70295,6 +70032,23 @@
     ],
     "result": {
       "id": "CROPSHOT_GARDEN_CHIP",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "SUNFLOWER_GENERATOR_11",
+        "count": 1
+      },
+      {
+        "id": "COMPACTED_SUNFLOWER",
+        "count": 32
+      }
+    ],
+    "result": {
+      "id": "SUNFLOWER_GENERATOR_12",
       "count": 1
     }
   },
@@ -70575,6 +70329,160 @@
     "inputs": [
       {
         "type": "currency",
+        "currency": "COPPER",
+        "count": 1000
+      }
+    ],
+    "result": {
+      "id": "TRADING_POST_BARN_SKIN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 2000
+      }
+    ],
+    "result": {
+      "id": "AUTUMN_HUT_BARN_SKIN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 7500
+      }
+    ],
+    "result": {
+      "id": "BAMBOO_BARN_SKIN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 10000
+      }
+    ],
+    "result": {
+      "id": "HIVE_BARN_SKIN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 15000
+      }
+    ],
+    "result": {
+      "id": "CASTLE_BARN_SKIN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "GEM",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "CUBE_BARN_SKIN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "GEM",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "COZY_COTTAGE_BARN_SKIN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "GEM",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "WINDMILL_BARN_SKIN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "GEM",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "TAVERN_BARN_SKIN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "GEM",
+        "count": 950
+      }
+    ],
+    "result": {
+      "id": "MELON_BARN_SKIN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "GEM",
+        "count": 950
+      }
+    ],
+    "result": {
+      "id": "LUCKY_BARN_SKIN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
         "currency": "GEM",
         "count": 250
       }
@@ -70590,7 +70498,7 @@
       {
         "type": "currency",
         "currency": "GEM",
-        "count": 500
+        "count": 400
       }
     ],
     "result": {
@@ -70604,7 +70512,7 @@
       {
         "type": "currency",
         "currency": "COPPER",
-        "count": 2500
+        "count": 3000
       }
     ],
     "result": {
@@ -70623,6 +70531,156 @@
     ],
     "result": {
       "id": "BOTANICAL_GREENHOUSE_SKIN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 20000
+      }
+    ],
+    "result": {
+      "id": "PORTABLE_WASHER",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 5000
+      }
+    ],
+    "result": {
+      "id": "SKYMART_VACUUM",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 200
+      },
+      {
+        "id": "SKYMART_VACUUM",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "SKYMART_TURBO_VACUUM",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 500
+      },
+      {
+        "id": "SKYMART_TURBO_VACUUM",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "SKYMART_HYPER_VACUUM",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 1000
+      },
+      {
+        "id": "SKYMART_HYPER_VACUUM",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "INFINI_VACUUM",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 2500
+      },
+      {
+        "id": "INFINI_VACUUM",
+        "count": 1
+      },
+      {
+        "id": "CHIRPING_STEREO",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "INFINI_VACUUM_HOOVERIUS",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 25
+      }
+    ],
+    "result": {
+      "id": "SPRAYONATOR",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 15
+      }
+    ],
+    "result": {
+      "id": "PEST_REPELLENT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 25
+      },
+      {
+        "id": "PEST_REPELLENT",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "PEST_REPELLENT_MAX",
       "count": 1
     }
   },
