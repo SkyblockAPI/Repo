@@ -63941,34 +63941,6 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_OBSIDIAN",
-        "count": 64
-      },
-      {
-        "id": "ENCHANTED_IRON",
-        "count": 64
-      }
-    ],
-    "pattern": [
-      0,
-      0,
-      0,
-      -1,
-      0,
-      -1,
-      1,
-      1,
-      1
-    ],
-    "result": {
-      "id": "REFORGE_ANVIL",
-      "count": 1
-    }
-  },
-  {
-    "type": "crafting",
-    "keys": [
-      {
         "id": "CHILI_PEPPER",
         "count": 1
       },
