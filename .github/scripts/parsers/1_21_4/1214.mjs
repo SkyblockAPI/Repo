@@ -5,6 +5,7 @@ import {Pets} from "./pets.mjs";
 import {Mobs} from "./mobs.mjs";
 import {Runes} from "./runes.mjs";
 import {Enchantments} from "./enchantments.mjs";
+import {Potions} from "./potions.mjs";
 import {Attributes} from "./attributes.mjs";
 
 export const Mc1214 = {
