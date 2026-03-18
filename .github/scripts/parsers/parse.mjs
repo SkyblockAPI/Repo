@@ -52,14 +52,43 @@ for (let file of fs.readdirSync("neu/items")) {
             Pets.parsePet(data);
         } else if (data.displayname.match(/§.Enchanted Book/) && data.itemid === "minecraft:enchanted_book" && attributes.enchantments) {
             Enchantments.parseEnchantments(data);
-        } else if (data.itemid === "minecraft:potion" && attributes.hasOwnProperty("potion_type")) {
+        } else if (isPotion(data)) {
             Potions.parsePotions(data);
         } else if (data.internalname.includes(";")) {
-            // console.log(file + " is a variant");
+            //console.log(file + " is a variant");
         } else {
             Mc1215.items.parseItem(data);
         }
     }
+}
+
+function isPotion(data) {
+    let id = data.internalname
+    if (id === "WATER_BOTTLE") return true
+    let attributes = data.nbt.ExtraAttributes
+
+    if (!attributes) return false
+
+    let potion = attributes.potion
+    let potionLevel = attributes.potion_level || 0
+    let potionName = attributes.potion_name?.replace(" ", "_")
+    let potionType = attributes.potion_type
+
+    if (!id.startsWith("POTION_")) return false
+
+    if (potionName && potionName !== "") {
+        return id === ("POTION_" + potionName.toUpperCase() + ";" + potionLevel)
+    }
+
+    if (potion && potion !== "") {
+        return id === ("POTION_" + potion.toUpperCase() + ";" + potionLevel)
+    }
+
+    if (potionType && potionType !== "") {
+        return id === ("POTION_" + potionType.toUpperCase())
+    }
+
+    return false
 }
 
 post.forEach((recipe) => recipe())
