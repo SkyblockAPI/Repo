@@ -52,7 +52,7 @@ for (let file of fs.readdirSync("neu/items")) {
             Pets.parsePet(data);
         } else if (data.displayname.match(/§.Enchanted Book/) && data.itemid === "minecraft:enchanted_book" && attributes.enchantments) {
             Enchantments.parseEnchantments(data);
-        } else if (data.itemid === "minecraft:potion") {
+        } else if (data.itemid === "minecraft:potion" && attributes.hasOwnProperty("potion_level")) {
             Potions.parsePotions(data);
         } else if (data.internalname.includes(";")) {
             // console.log(file + " is a variant");
