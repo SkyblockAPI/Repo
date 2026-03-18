@@ -17,20 +17,21 @@ export const Potions = {
             level: potionLevel
         }
 
-        item.displayname = item.lore[0]
+        console.log(item.displayname)
         item.lore.shift()
 
         potionIds.push(potionId)
         const potion = potionFile[potionId] || {
             id: potionId,
             levels: [],
-            name: item.displayname.substring(0, item.displayname.lastIndexOf(" ")).trim().replace(/(§.)+/, "")
+            name: item.displayname.replaceAll(/^(.*) [IV]{1,4}(?: Splash)?( Potion)?.*?$/g, "$1").replace(/§[0-9a-f]/ig, "")
         }
 
-        console.log(item.displayname)
+        console.log(item.displayname.replaceAll(/^.*?([IV]{1,4}).*?$/g, "$1"))
+
         potion.levels.push({
             level: potionLevel,
-            literal_level: item.displayname.substring(item.displayname.lastIndexOf(" ")).trim(),
+            literal_level: item.displayname.replaceAll(/^.*?([IV]{1,4}).*?$/g, "$1"),
             lore: item.lore,
         })
 
