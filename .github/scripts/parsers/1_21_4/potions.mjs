@@ -27,6 +27,7 @@ export const Potions = {
             name: item.displayname.substring(0, item.displayname.lastIndexOf(" ")).trim().replace(/(§.)+/, "")
         }
 
+        console.log(item.displayname)
         potion.levels.push({
             level: potionLevel,
             literal_level: item.displayname.substring(item.displayname.lastIndexOf(" ")).trim(),
