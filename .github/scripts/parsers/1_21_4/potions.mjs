@@ -27,8 +27,6 @@ export const Potions = {
             name: item.displayname.replaceAll(/^(.*) [IV]{1,4}(?: Splash)?( Potion)?.*?$/g, "$1").replace(/§[0-9a-f]/ig, "")
         }
 
-        console.log(item.displayname.replaceAll(/^.*?([IV]{1,4}).*?$/g, "$1"))
-
         potion.levels.push({
             level: potionLevel,
             literal_level: item.displayname.replaceAll(/^.*?([IV]{1,4}).*?$/g, "$1"),
