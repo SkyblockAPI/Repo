@@ -1,59 +1,4 @@
 {
-  "BOTTLE_OF_JYRRE": {
-    "id": "BOTTLE_OF_JYRRE",
-    "levels": [
-      {
-        "level": null,
-        "literal_level": "§b✎",
-        "lore": [
-          "§bIntelligence§7! The longer this item",
-          "§7stays in your inventory, the more",
-          "§7intelligent you will be after drinking",
-          "§7it. Must be kept in your inventory at",
-          "§7all times!",
-          "",
-          "§7Intelligence Bonus: §b0",
-          "§7Duration: §b10 Minutes",
-          "",
-          "§f§lCOMMON"
-        ]
-      }
-    ],
-    "name": "Provides a boost to your"
-  },
-  "NEW_BOTTLE_OF_JYRRE": {
-    "id": "NEW_BOTTLE_OF_JYRRE",
-    "levels": [
-      {
-        "level": null,
-        "literal_level": "§b✎",
-        "lore": [
-          "§bIntelligence §7for §a60m§7.",
-          "",
-          "§7Keep this item in your inventory to",
-          "§7increase the bonus up to §b+300✎",
-          "§bIntelligence§7, at which point the item",
-          "§7§c§oevolves§7!",
-          "",
-          "§7Current Bonus: §b+0✎ Intelligence",
-          "",
-          "§9§lRARE"
-        ]
-      }
-    ],
-    "name": "Consume to boost your"
-  },
-  "POTION": {
-    "id": "POTION",
-    "levels": [
-      {
-        "level": null,
-        "literal_level": "§f§lCOMMON",
-        "lore": []
-      }
-    ],
-    "name": ""
-  },
   "POTION_ABSORPTION": {
     "id": "POTION_ABSORPTION",
     "levels": [
@@ -2795,40 +2740,6 @@
           "",
           "§a§lUNCOMMON"
         ]
-      }
-    ],
-    "name": ""
-  },
-  "REFINED_BOTTLE_OF_JYRRE": {
-    "id": "REFINED_BOTTLE_OF_JYRRE",
-    "levels": [
-      {
-        "level": null,
-        "literal_level": "§b✎",
-        "lore": [
-          "§bIntelligence §7by §b300 §7for 60",
-          "§7minutes!",
-          "",
-          "§6Aged Like Fine Jyrre",
-          "§7Drinking this potion grants",
-          "§7permanent §b+1✎ Intelligence§7.",
-          "§7You may drink §a5 §7bottles",
-          "§7before it loses its magical",
-          "§7energy.",
-          "",
-          "§6§lLEGENDARY"
-        ]
-      }
-    ],
-    "name": "Drink to boost your"
-  },
-  "WATER_BOTTLE": {
-    "id": "WATER_BOTTLE",
-    "levels": [
-      {
-        "level": null,
-        "literal_level": "§f§lCOMMON",
-        "lore": []
       }
     ],
     "name": ""
