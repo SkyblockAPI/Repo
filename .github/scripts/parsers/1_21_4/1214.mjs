@@ -5,6 +5,7 @@ import {Pets} from "./pets.mjs";
 import {Mobs} from "./mobs.mjs";
 import {Runes} from "./runes.mjs";
 import {Enchantments} from "./enchantments.mjs";
+import {Potions} from "./potions.mjs";
 import {Attributes} from "./attributes.mjs";
 
 export const Mc1214 = {
@@ -15,6 +16,7 @@ export const Mc1214 = {
     mobs: Mobs,
     runes: Runes,
     enchantments: Enchantments,
+    potions: Potions,
     attributes: Attributes,
 
     shas: () => {
@@ -26,6 +28,7 @@ export const Mc1214 = {
         const mobsSha = crypto.createHash("sha1").update(Mc1214.mobs.writeMobs(path)).digest("hex");
         const runesSha = crypto.createHash("sha1").update(Mc1214.runes.writeRunes(path)).digest("hex");
         const enchantmentsSha = crypto.createHash("sha1").update(Mc1214.enchantments.writeEnchantments(path)).digest("hex");
+        const potionsSha = crypto.createHash("sha1").update(Mc1214.potions.writePotions(path)).digest("hex");
         const attributesSha = crypto.createHash("sha1").update(Mc1214.attributes.writeAttributes(path)).digest("hex");
 
         return {
@@ -35,6 +38,7 @@ export const Mc1214 = {
             mobs: mobsSha,
             runes: runesSha,
             enchantments: enchantmentsSha,
+            potions: potionsSha,
             attributes: attributesSha,
         }
     }

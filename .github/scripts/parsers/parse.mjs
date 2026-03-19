@@ -7,6 +7,7 @@ import {Mobs} from "./1_21_4/mobs.mjs";
 import {clone} from "./copier.mjs";
 import {Runes} from "./1_21_4/runes.mjs";
 import {Enchantments } from "./1_21_4/enchantments.mjs";
+import {Potions} from "./1_21_4/potions.mjs";
 import { Attributes } from "./1_21_4/attributes.mjs";
 
 const specialItems = JSON.parse(fs.readFileSync(".github/scripts/data/special_items.json", "utf-8"));
@@ -51,12 +52,43 @@ for (let file of fs.readdirSync("neu/items")) {
             Pets.parsePet(data);
         } else if (data.displayname.match(/§.Enchanted Book/) && data.itemid === "minecraft:enchanted_book" && attributes.enchantments) {
             Enchantments.parseEnchantments(data);
+        } else if (isPotion(data)) {
+            Potions.parsePotions(data);
         } else if (data.internalname.includes(";")) {
-            // console.log(file + " is a variant");
+            //console.log(file + " is a variant");
         } else {
             Mc1215.items.parseItem(data);
         }
     }
+}
+
+function isPotion(data) {
+    let id = data.internalname
+    if (id === "WATER_BOTTLE") return true
+    let attributes = data.nbt.ExtraAttributes
+
+    if (!attributes) return false
+
+    let potion = attributes.potion
+    let potionLevel = attributes.potion_level || 0
+    let potionName = attributes.potion_name?.replace(" ", "_")
+    let potionType = attributes.potion_type
+
+    if (!id.startsWith("POTION_")) return false
+
+    if (potionName && potionName !== "") {
+        return id === ("POTION_" + potionName.toUpperCase() + ";" + potionLevel)
+    }
+
+    if (potion && potion !== "") {
+        return id === ("POTION_" + potion.toUpperCase() + ";" + potionLevel)
+    }
+
+    if (potionType && potionType !== "") {
+        return id === ("POTION_" + potionType.toUpperCase())
+    }
+
+    return false
 }
 
 post.forEach((recipe) => recipe())

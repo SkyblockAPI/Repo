@@ -1,6 +1,7 @@
 import {petIds} from "../pets.mjs";
 import {enchantmentIds} from "../enchantments.mjs";
 import {attributeIds} from "../attributes.mjs";
+import {potionIds} from "../potions.mjs";
 
 export const BITS_ID = "SKYBLOCK_BIT";
 export const COINS_ID = "SKYBLOCK_COIN";
@@ -123,6 +124,13 @@ export const getInputs = (item, amount) => {
                 type: "attribute",
                 id: itemId,
                 count: amount,
+            }
+        } else if (potionIds.includes(itemId)) {
+            return {
+                type: "potion",
+                id: itemId,
+                level: second,
+                count: amount
             }
         }
     }
