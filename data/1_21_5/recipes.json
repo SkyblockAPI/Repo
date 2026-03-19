@@ -26076,6 +26076,7 @@
     "result": {
       "type": "potion",
       "id": "POTION_SPIRIT",
+      "level": 1,
       "count": 1
     }
   },
@@ -26103,6 +26104,7 @@
     "result": {
       "type": "potion",
       "id": "POTION_MAGIC_FIND",
+      "level": 1,
       "count": 1
     }
   },
@@ -54274,6 +54276,7 @@
     "result": {
       "type": "potion",
       "id": "POTION_DUNGEON",
+      "level": 1,
       "count": 1
     }
   },
@@ -54289,6 +54292,7 @@
     "result": {
       "type": "potion",
       "id": "POTION_DUNGEON",
+      "level": 2,
       "count": 1
     }
   },
@@ -54304,6 +54308,7 @@
     "result": {
       "type": "potion",
       "id": "POTION_DUNGEON",
+      "level": 3,
       "count": 1
     }
   },
@@ -54319,6 +54324,7 @@
     "result": {
       "type": "potion",
       "id": "POTION_DUNGEON",
+      "level": 4,
       "count": 1
     }
   },
@@ -54334,6 +54340,7 @@
     "result": {
       "type": "potion",
       "id": "POTION_DUNGEON",
+      "level": 5,
       "count": 1
     }
   },
@@ -54349,6 +54356,7 @@
     "result": {
       "type": "potion",
       "id": "POTION_DUNGEON",
+      "level": 6,
       "count": 1
     }
   },
@@ -54364,6 +54372,7 @@
     "result": {
       "type": "potion",
       "id": "POTION_DUNGEON",
+      "level": 7,
       "count": 1
     }
   },
@@ -79178,6 +79187,7 @@
     "result": {
       "type": "potion",
       "id": "POTION_STINKY_CHEESE",
+      "level": 1,
       "count": 1
     }
   },
