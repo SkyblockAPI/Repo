@@ -127,7 +127,7 @@ export const Potions = {
 
         const parts = item.internalname.split(";");
         const potionId = parts[0];
-        const potionLevel = parseInt(parts[1]);
+        const potionLevel = item.nbt.ExtraAttributes.potion_level;
         originalItem.potion = {
             id: potionId,
             level: potionLevel
