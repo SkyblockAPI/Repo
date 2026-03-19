@@ -1,6 +1,5 @@
 {
   "POTION_ABSORPTION": {
-    "id": "POTION_ABSORPTION",
     "levels": [
       {
         "level": 1,
@@ -83,10 +82,12 @@
         ]
       }
     ],
-    "name": "Absorption"
+    "type": "POTION",
+    "internal_potion": "absorption",
+    "name": "Absorption",
+    "vanilla_effect": "fire_resistance"
   },
   "POTION_ADRENALINE": {
-    "id": "POTION_ADRENALINE",
     "levels": [
       {
         "level": 1,
@@ -177,10 +178,12 @@
         ]
       }
     ],
-    "name": "Adrenaline"
+    "type": "POTION",
+    "internal_potion": "adrenaline",
+    "name": "Adrenaline",
+    "vanilla_effect": "regeneration"
   },
   "POTION_AGILITY": {
-    "id": "POTION_AGILITY",
     "levels": [
       {
         "level": 1,
@@ -231,10 +234,12 @@
         ]
       }
     ],
-    "name": "Agility"
+    "type": "POTION",
+    "internal_potion": "agility",
+    "name": "Agility",
+    "vanilla_effect": "night_vision"
   },
   "POTION_ALCHEMY_XP_BOOST": {
-    "id": "POTION_ALCHEMY_XP_BOOST",
     "levels": [
       {
         "level": 1,
@@ -264,10 +269,12 @@
         ]
       }
     ],
-    "name": "Alchemy XP Boost"
+    "type": "POTION",
+    "internal_potion": "alchemy_xp_boost",
+    "name": "Alchemy XP Boost",
+    "vanilla_effect": "water"
   },
   "POTION_ARCHERY": {
-    "id": "POTION_ARCHERY",
     "levels": [
       {
         "level": 1,
@@ -310,13 +317,14 @@
         ]
       }
     ],
-    "name": "Archery"
+    "type": "POTION",
+    "internal_potion": "archery",
+    "name": "Archery",
+    "vanilla_effect": "leaping"
   },
   "POTION_AWKWARD": {
-    "id": "POTION_AWKWARD",
     "levels": [
       {
-        "level": null,
         "literal_level": "§fAwkward Potion",
         "lore": [
           "§7Stands with items labeled as Brewing",
@@ -326,10 +334,11 @@
         ]
       }
     ],
-    "name": "Awkward Potion"
+    "type": "AWKWARD",
+    "name": "Awkward Potion",
+    "vanilla_effect": "awkward"
   },
   "POTION_BLINDNESS": {
-    "id": "POTION_BLINDNESS",
     "levels": [
       {
         "level": 1,
@@ -365,10 +374,12 @@
         ]
       }
     ],
-    "name": "Blindness"
+    "type": "POTION",
+    "internal_potion": "blindness",
+    "name": "Blindness",
+    "vanilla_effect": "water"
   },
   "POTION_BURNING": {
-    "id": "POTION_BURNING",
     "levels": [
       {
         "level": 1,
@@ -419,10 +430,12 @@
         ]
       }
     ],
-    "name": "Burning"
+    "type": "POTION",
+    "internal_potion": "burning",
+    "name": "Burning",
+    "vanilla_effect": "fire_resistance"
   },
   "POTION_COLD_RESISTANCE": {
-    "id": "POTION_COLD_RESISTANCE",
     "levels": [
       {
         "level": 1,
@@ -465,10 +478,12 @@
         ]
       }
     ],
-    "name": "Cold Resistance"
+    "type": "POTION",
+    "internal_potion": "cold_resistance",
+    "name": "Cold Resistance",
+    "vanilla_effect": "swiftness"
   },
   "POTION_COMBAT_XP_BOOST": {
-    "id": "POTION_COMBAT_XP_BOOST",
     "levels": [
       {
         "level": 1,
@@ -501,10 +516,12 @@
         ]
       }
     ],
-    "name": "Combat XP Boost"
+    "type": "POTION",
+    "internal_potion": "combat_xp_boost",
+    "name": "Combat XP Boost",
+    "vanilla_effect": "water"
   },
   "POTION_CRITICAL": {
-    "id": "POTION_CRITICAL",
     "levels": [
       {
         "level": 1,
@@ -551,10 +568,12 @@
         ]
       }
     ],
-    "name": "Critical"
+    "type": "POTION",
+    "internal_potion": "critical",
+    "name": "Critical",
+    "vanilla_effect": "harming"
   },
   "POTION_DAMAGE": {
-    "id": "POTION_DAMAGE",
     "levels": [
       {
         "level": 1,
@@ -637,10 +656,12 @@
         ]
       }
     ],
-    "name": "Damage"
+    "type": "POTION",
+    "internal_potion": "damage",
+    "name": "Damage",
+    "vanilla_effect": "harming"
   },
   "POTION_DODGE": {
-    "id": "POTION_DODGE",
     "levels": [
       {
         "level": 1,
@@ -687,10 +708,12 @@
         ]
       }
     ],
-    "name": "Dodge"
+    "type": "POTION",
+    "internal_potion": "dodge",
+    "name": "Dodge",
+    "vanilla_effect": "swiftness"
   },
   "POTION_DUNGEON": {
-    "id": "POTION_DUNGEON",
     "levels": [
       {
         "level": 1,
@@ -866,10 +889,13 @@
         ]
       }
     ],
-    "name": "Dungeon"
+    "internal_name": "Dungeon",
+    "type": "POTION",
+    "internal_potion": "regeneration",
+    "name": "Dungeon",
+    "vanilla_effect": "regeneration"
   },
   "POTION_ENCHANTING_XP_BOOST": {
-    "id": "POTION_ENCHANTING_XP_BOOST",
     "levels": [
       {
         "level": 1,
@@ -900,10 +926,12 @@
         ]
       }
     ],
-    "name": "Enchanting XP Boost"
+    "type": "POTION",
+    "internal_potion": "enchanting_xp_boost",
+    "name": "Enchanting XP Boost",
+    "vanilla_effect": "water"
   },
   "POTION_EXPERIENCE": {
-    "id": "POTION_EXPERIENCE",
     "levels": [
       {
         "level": 1,
@@ -946,10 +974,12 @@
         ]
       }
     ],
-    "name": "Experience"
+    "type": "POTION",
+    "internal_potion": "experience",
+    "name": "Experience",
+    "vanilla_effect": "water_breathing"
   },
   "POTION_FARMING_XP_BOOST": {
-    "id": "POTION_FARMING_XP_BOOST",
     "levels": [
       {
         "level": 1,
@@ -981,10 +1011,12 @@
         ]
       }
     ],
-    "name": "Farming XP Boost"
+    "type": "POTION",
+    "internal_potion": "farming_xp_boost",
+    "name": "Farming XP Boost",
+    "vanilla_effect": "water"
   },
   "POTION_FIRE_RESISTANCE": {
-    "id": "POTION_FIRE_RESISTANCE",
     "levels": [
       {
         "level": 1,
@@ -998,10 +1030,12 @@
         ]
       }
     ],
-    "name": "Fire Resistance"
+    "type": "POTION",
+    "internal_potion": "fire_resistance",
+    "name": "Fire Resistance",
+    "vanilla_effect": "fire_resistance"
   },
   "POTION_FISHING_XP_BOOST": {
-    "id": "POTION_FISHING_XP_BOOST",
     "levels": [
       {
         "level": 1,
@@ -1032,10 +1066,12 @@
         ]
       }
     ],
-    "name": "Fishing XP Boost"
+    "type": "POTION",
+    "internal_potion": "fishing_xp_boost",
+    "name": "Fishing XP Boost",
+    "vanilla_effect": "water"
   },
   "POTION_FORAGING_XP_BOOST": {
-    "id": "POTION_FORAGING_XP_BOOST",
     "levels": [
       {
         "level": 1,
@@ -1067,10 +1103,12 @@
         ]
       }
     ],
-    "name": "Foraging XP Boost"
+    "type": "POTION",
+    "internal_potion": "foraging_xp_boost",
+    "name": "Foraging XP Boost",
+    "vanilla_effect": "water"
   },
   "POTION_HARVEST_HARBINGER": {
-    "id": "POTION_HARVEST_HARBINGER",
     "levels": [
       {
         "level": 5,
@@ -1082,10 +1120,12 @@
         ]
       }
     ],
-    "name": "Harvest Harbinger"
+    "type": "POTION",
+    "internal_potion": "harvest_harbinger",
+    "name": "Harvest Harbinger",
+    "vanilla_effect": "fire_resistance"
   },
   "POTION_HASTE": {
-    "id": "POTION_HASTE",
     "levels": [
       {
         "level": 1,
@@ -1128,10 +1168,12 @@
         ]
       }
     ],
-    "name": "Haste"
+    "type": "POTION",
+    "internal_potion": "haste",
+    "name": "Haste",
+    "vanilla_effect": "fire_resistance"
   },
   "POTION_HEALING": {
-    "id": "POTION_HEALING",
     "levels": [
       {
         "level": 1,
@@ -1214,10 +1256,12 @@
         ]
       }
     ],
-    "name": "Healing"
+    "type": "POTION",
+    "internal_potion": "healing",
+    "name": "Healing",
+    "vanilla_effect": "healing"
   },
   "POTION_INVISIBILITY": {
-    "id": "POTION_INVISIBILITY",
     "levels": [
       {
         "level": 1,
@@ -1231,10 +1275,12 @@
         ]
       }
     ],
-    "name": "Invisibility"
+    "type": "POTION",
+    "internal_potion": "invisibility",
+    "name": "Invisibility",
+    "vanilla_effect": "invisibility"
   },
   "POTION_JUMP_BOOST": {
-    "id": "POTION_JUMP_BOOST",
     "levels": [
       {
         "level": 1,
@@ -1281,10 +1327,12 @@
         ]
       }
     ],
-    "name": "Jump Boost"
+    "type": "POTION",
+    "internal_potion": "jump_boost",
+    "name": "Jump Boost",
+    "vanilla_effect": "leaping"
   },
   "POTION_KNOCKBACK": {
-    "id": "POTION_KNOCKBACK",
     "levels": [
       {
         "level": 1,
@@ -1331,10 +1379,12 @@
         ]
       }
     ],
-    "name": "Knockback"
+    "type": "POTION",
+    "internal_potion": "knockback",
+    "name": "Knockback",
+    "vanilla_effect": "strength"
   },
   "POTION_MAGIC_FIND": {
-    "id": "POTION_MAGIC_FIND",
     "levels": [
       {
         "level": 1,
@@ -1381,10 +1431,13 @@
         ]
       }
     ],
-    "name": "Magic Find"
+    "internal_name": "Magic Find",
+    "type": "POTION",
+    "internal_potion": "magic_find",
+    "name": "Magic Find",
+    "vanilla_effect": "leaping"
   },
   "POTION_MANA": {
-    "id": "POTION_MANA",
     "levels": [
       {
         "level": 1,
@@ -1467,10 +1520,12 @@
         ]
       }
     ],
-    "name": "Mana"
+    "type": "POTION",
+    "internal_potion": "mana",
+    "name": "Mana",
+    "vanilla_effect": "night_vision"
   },
   "POTION_MINING_XP_BOOST": {
-    "id": "POTION_MINING_XP_BOOST",
     "levels": [
       {
         "level": 1,
@@ -1503,25 +1558,12 @@
         ]
       }
     ],
-    "name": "Mining XP Boost"
-  },
-  "POTION_MUSHED_GLOWY_TONIC": {
-    "id": "POTION_MUSHED_GLOWY_TONIC",
-    "levels": [
-      {
-        "level": 1,
-        "literal_level": "I",
-        "lore": [
-          "§7Grants §b+30☂ Fishing Speed§7.",
-          "",
-          "§f§lCOMMON"
-        ]
-      }
-    ],
-    "name": "Mushed Glowy Tonic"
+    "type": "POTION",
+    "internal_potion": "mining_xp_boost",
+    "name": "Mining XP Boost",
+    "vanilla_effect": "water"
   },
   "POTION_NIGHT_VISION": {
-    "id": "POTION_NIGHT_VISION",
     "levels": [
       {
         "level": 1,
@@ -1544,10 +1586,12 @@
         ]
       }
     ],
-    "name": "Night Vision"
+    "type": "POTION",
+    "internal_potion": "night_vision",
+    "name": "Night Vision",
+    "vanilla_effect": "night_vision"
   },
   "POTION_PET_LUCK": {
-    "id": "POTION_PET_LUCK",
     "levels": [
       {
         "level": 1,
@@ -1594,10 +1638,12 @@
         ]
       }
     ],
-    "name": "Pet Luck"
+    "type": "POTION",
+    "internal_potion": "pet_luck",
+    "name": "Pet Luck",
+    "vanilla_effect": "water"
   },
   "POTION_POISON": {
-    "id": "POTION_POISON",
     "levels": [
       {
         "level": 1,
@@ -1640,10 +1686,12 @@
         ]
       }
     ],
-    "name": "Poison"
+    "type": "POTION",
+    "internal_potion": "poison",
+    "name": "Poison",
+    "vanilla_effect": "poison"
   },
   "POTION_RABBIT": {
-    "id": "POTION_RABBIT",
     "levels": [
       {
         "level": 1,
@@ -1712,10 +1760,12 @@
         ]
       }
     ],
-    "name": "Rabbit"
+    "type": "POTION",
+    "internal_potion": "rabbit",
+    "name": "Rabbit",
+    "vanilla_effect": "poison"
   },
   "POTION_REGENERATION": {
-    "id": "POTION_REGENERATION",
     "levels": [
       {
         "level": 1,
@@ -1808,10 +1858,12 @@
         ]
       }
     ],
-    "name": "Regeneration"
+    "type": "POTION",
+    "internal_potion": "regeneration",
+    "name": "Regeneration",
+    "vanilla_effect": "regeneration"
   },
   "POTION_RESISTANCE": {
-    "id": "POTION_RESISTANCE",
     "levels": [
       {
         "level": 1,
@@ -1894,10 +1946,12 @@
         ]
       }
     ],
-    "name": "Resistance"
+    "type": "POTION",
+    "internal_potion": "resistance",
+    "name": "Resistance",
+    "vanilla_effect": "poison"
   },
   "POTION_RIFT_GRAVITY": {
-    "id": "POTION_RIFT_GRAVITY",
     "levels": [
       {
         "level": 1,
@@ -1911,10 +1965,12 @@
         ]
       }
     ],
-    "name": "Gravity"
+    "type": "POTION",
+    "internal_potion": "rift_gravity",
+    "name": "Gravity",
+    "vanilla_effect": "slowness"
   },
   "POTION_SECRETS": {
-    "id": "POTION_SECRETS",
     "levels": [
       {
         "level": 1,
@@ -1930,10 +1986,12 @@
         ]
       }
     ],
-    "name": "Secret"
+    "type": "POTION",
+    "internal_potion": "secrets",
+    "name": "Secret",
+    "vanilla_effect": "water"
   },
   "POTION_SLOWNESS": {
-    "id": "POTION_SLOWNESS",
     "levels": [
       {
         "level": 1,
@@ -2016,10 +2074,12 @@
         ]
       }
     ],
-    "name": "Slowness"
+    "type": "POTION",
+    "internal_potion": "slowness",
+    "name": "Slowness",
+    "vanilla_effect": "slowness"
   },
   "POTION_SPEED": {
-    "id": "POTION_SPEED",
     "levels": [
       {
         "level": 1,
@@ -2102,10 +2162,12 @@
         ]
       }
     ],
-    "name": "Speed"
+    "type": "POTION",
+    "internal_potion": "speed",
+    "name": "Speed",
+    "vanilla_effect": "swiftness"
   },
   "POTION_SPELUNKER": {
-    "id": "POTION_SPELUNKER",
     "levels": [
       {
         "level": 1,
@@ -2158,10 +2220,12 @@
         ]
       }
     ],
-    "name": "Spelunker"
+    "type": "POTION",
+    "internal_potion": "spelunker",
+    "name": "Spelunker",
+    "vanilla_effect": "night_vision"
   },
   "POTION_SPIRIT": {
-    "id": "POTION_SPIRIT",
     "levels": [
       {
         "level": 1,
@@ -2207,10 +2271,13 @@
         ]
       }
     ],
-    "name": "Spirit"
+    "internal_name": "Spirit",
+    "type": "POTION",
+    "internal_potion": "spirit",
+    "name": "Spirit",
+    "vanilla_effect": "swiftness"
   },
   "POTION_STAMINA": {
-    "id": "POTION_STAMINA",
     "levels": [
       {
         "level": 1,
@@ -2257,10 +2324,12 @@
         ]
       }
     ],
-    "name": "Stamina"
+    "type": "POTION",
+    "internal_potion": "stamina",
+    "name": "Stamina",
+    "vanilla_effect": "leaping"
   },
   "POTION_STINKY_CHEESE": {
-    "id": "POTION_STINKY_CHEESE",
     "levels": [
       {
         "level": 1,
@@ -2273,10 +2342,12 @@
         ]
       }
     ],
-    "name": "Douce Pluie de Stinky Cheese"
+    "type": "POTION",
+    "internal_potion": "stinky_cheese",
+    "name": "Douce Pluie de Stinky Cheese",
+    "vanilla_effect": "fire_resistance"
   },
   "POTION_STRENGTH": {
-    "id": "POTION_STRENGTH",
     "levels": [
       {
         "level": 1,
@@ -2359,10 +2430,12 @@
         ]
       }
     ],
-    "name": "Strength"
+    "type": "POTION",
+    "internal_potion": "strength",
+    "name": "Strength",
+    "vanilla_effect": "strength"
   },
   "POTION_STUN": {
-    "id": "POTION_STUN",
     "levels": [
       {
         "level": 1,
@@ -2417,10 +2490,12 @@
         ]
       }
     ],
-    "name": "Stun"
+    "type": "POTION",
+    "internal_potion": "stun",
+    "name": "Stun",
+    "vanilla_effect": "weakness"
   },
   "POTION_TRUE_DEFENSE": {
-    "id": "POTION_TRUE_DEFENSE",
     "levels": [
       {
         "level": 1,
@@ -2463,10 +2538,12 @@
         ]
       }
     ],
-    "name": "True Resistance"
+    "type": "POTION",
+    "internal_potion": "true_defense",
+    "name": "True Resistance",
+    "vanilla_effect": "water"
   },
   "POTION_VENOMOUS": {
-    "id": "POTION_VENOMOUS",
     "levels": [
       {
         "level": 1,
@@ -2513,10 +2590,12 @@
         ]
       }
     ],
-    "name": "Venomous"
+    "type": "POTION",
+    "internal_potion": "venomous",
+    "name": "Venomous",
+    "vanilla_effect": "poison"
   },
   "POTION_WATER_BREATHING": {
-    "id": "POTION_WATER_BREATHING",
     "levels": [
       {
         "level": 1,
@@ -2585,10 +2664,12 @@
         ]
       }
     ],
-    "name": "Water Breathing"
+    "type": "POTION",
+    "internal_potion": "water_breathing",
+    "name": "Water Breathing",
+    "vanilla_effect": "water_breathing"
   },
   "POTION_WEAKNESS": {
-    "id": "POTION_WEAKNESS",
     "levels": [
       {
         "level": 1,
@@ -2679,10 +2760,12 @@
         ]
       }
     ],
-    "name": "Weakness"
+    "type": "POTION",
+    "internal_potion": "weakness",
+    "name": "Weakness",
+    "vanilla_effect": "weakness"
   },
   "POTION_WISP_ICE": {
-    "id": "POTION_WISP_ICE",
     "levels": [
       {
         "level": 1,
@@ -2696,10 +2779,12 @@
         ]
       }
     ],
-    "name": "Wisp's Ice-Flavored Water"
+    "type": "POTION",
+    "internal_potion": "wisp_ice",
+    "name": "Wisp's Ice-Flavored Water",
+    "vanilla_effect": "water_breathing"
   },
   "POTION_WOUNDED": {
-    "id": "POTION_WOUNDED",
     "levels": [
       {
         "level": 1,
@@ -2742,6 +2827,19 @@
         ]
       }
     ],
-    "name": "Wounded"
+    "type": "POTION",
+    "internal_potion": "wounded",
+    "name": "Wounded",
+    "vanilla_effect": "strength"
+  },
+  "WATER_BOTTLE": {
+    "levels": [
+      {
+        "literal_level": "§fWater Bottle",
+        "lore": []
+      }
+    ],
+    "name": "Water Bottle",
+    "vanilla_effect": "water"
   }
 }

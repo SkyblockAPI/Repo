@@ -26074,7 +26074,8 @@
       }
     ],
     "result": {
-      "id": "POTION_SPIRIT;1",
+      "type": "potion",
+      "id": "POTION_SPIRIT",
       "count": 1
     }
   },
@@ -26100,7 +26101,8 @@
       }
     ],
     "result": {
-      "id": "POTION_MAGIC_FIND;1",
+      "type": "potion",
+      "id": "POTION_MAGIC_FIND",
       "count": 1
     }
   },
@@ -54270,7 +54272,8 @@
       }
     ],
     "result": {
-      "id": "POTION_DUNGEON;1",
+      "type": "potion",
+      "id": "POTION_DUNGEON",
       "count": 1
     }
   },
@@ -54284,7 +54287,8 @@
       }
     ],
     "result": {
-      "id": "POTION_DUNGEON;2",
+      "type": "potion",
+      "id": "POTION_DUNGEON",
       "count": 1
     }
   },
@@ -54298,7 +54302,8 @@
       }
     ],
     "result": {
-      "id": "POTION_DUNGEON;3",
+      "type": "potion",
+      "id": "POTION_DUNGEON",
       "count": 1
     }
   },
@@ -54312,7 +54317,8 @@
       }
     ],
     "result": {
-      "id": "POTION_DUNGEON;4",
+      "type": "potion",
+      "id": "POTION_DUNGEON",
       "count": 1
     }
   },
@@ -54326,7 +54332,8 @@
       }
     ],
     "result": {
-      "id": "POTION_DUNGEON;5",
+      "type": "potion",
+      "id": "POTION_DUNGEON",
       "count": 1
     }
   },
@@ -54340,7 +54347,8 @@
       }
     ],
     "result": {
-      "id": "POTION_DUNGEON;6",
+      "type": "potion",
+      "id": "POTION_DUNGEON",
       "count": 1
     }
   },
@@ -54354,7 +54362,8 @@
       }
     ],
     "result": {
-      "id": "POTION_DUNGEON;7",
+      "type": "potion",
+      "id": "POTION_DUNGEON",
       "count": 1
     }
   },
@@ -79167,7 +79176,8 @@
       }
     ],
     "result": {
-      "id": "POTION_STINKY_CHEESE;1",
+      "type": "potion",
+      "id": "POTION_STINKY_CHEESE",
       "count": 1
     }
   },
