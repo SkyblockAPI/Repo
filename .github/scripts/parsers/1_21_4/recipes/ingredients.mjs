@@ -128,10 +128,8 @@ export const getInputs = (item, amount) => {
         } else if (potionIds.includes(itemId)) {
             return {
                 type: "potion",
-                name: item.nbt.ExtraAttributes.potion_name || undefined,
-                potion_type: item.nbt.ExtraAttributes.potion_type || undefined,
-                potion: item.nbt.ExtraAttributes.potion || undefined,
-                level: item.nbt.ExtraAttributes.potionLevel || undefined,
+                id: itemId,
+                level: second,
                 count: amount
             }
         }
