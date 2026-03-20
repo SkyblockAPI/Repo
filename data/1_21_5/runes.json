@@ -591,18 +591,18 @@
     },
     {
       "tier": 2,
-      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY3MDQ3OTgyMTg3NCwKICAicHJvZmlsZUlkIiA6ICJmODFhNzJhZWZjMjY0MjU0YTQ5NzE0OWYzMjJiZjJlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZXJsYW5fODgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTlmZmFjZWM2ZWU1YTIzZDljYjI0YTJmZTlkYzE1YjI0NDg4ZjVmNzEwMDY5MjQ1NjBiZjEyMTQ4NDIxYWU2ZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYyMTk4ODY4NTAxOSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTlmZmFjZWM2ZWU1YTIzZDljYjI0YTJmZTlkYzE1YjI0NDg4ZjVmNzEwMDY5MjQ1NjBiZjEyMTQ4NDIxYWU2ZCIKICAgIH0KICB9Cn0=",
       "name": "§7◆ Enchant Rune II",
       "lore": [
         "§8Requires level 25",
         "§8Chestplates",
         "",
-        "§7Obtained very rarely from slaying",
-        "§7Voidgloom Seraph.",
+        "§7Obtained very rarely from",
+        "§7slaying Voidgloom Seraph.",
         "",
-        "§7Apply this rune to chestplates or",
-        "§7fuse two together at the Runic",
-        "§7Pedestal!",
+        "§7Apply this rune to chestplates",
+        "§7or fuse two together at the",
+        "§7Runic Pedestal!",
         "",
         "§6§lLEGENDARY COSMETIC"
       ]
@@ -1714,15 +1714,15 @@
   "SMITTEN": [
     {
       "tier": 3,
-      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcwNzU0MjY0NTc4OCwKICAicHJvZmlsZUlkIiA6ICJmYzFhOTdlNTgxM2Y0NDI2YTNmZTI4ZjJiNDc1ZjA4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJnZXRPbmxpbmVQbGF5ZXJzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FkYjFlM2UwNzIzMzU4ZjRlMmFlY2FkY2I5ZmIxNzk0NjJiYWZhNzQ5NjIxODE3MWY1NzU3ZDk0Mjk1MGNjMDgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcwNzU0MjY0NTc4OCwKICAicHJvZmlsZUlkIiA6ICJmYzFhOTdlNTgxM2Y0NDI2YTNmZTI4ZjJiNDc1ZjA4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJnZXRPbmxpbmVQbGF5ZXJzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FkYjFlM2UwNzIzMzU4ZjRlMmFlY2FkY2I5ZmIxNzk0NjJiYWZhNzQ5NjIxODE3MWY1NzU3ZDk0Mjk1MGNjMDgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ",
       "name": "§c◆ Smitten Rune III",
       "lore": [
         "§8Requires level 0",
         "§8Helmet",
         "",
         "§7Do you want to be my lover?",
-        "§7Obtained from the Taylor Valentine's",
-        "§72024 Bundle.",
+        "§7Obtained from the Valentine 2024",
+        "§7Cosmetic Bundle.",
         "",
         "§7Apply this rune to helmet or fuse",
         "§7two together at the Runic Pedestal!",
