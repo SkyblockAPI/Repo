@@ -25,7 +25,7 @@ export const Items = {
 
         const itemId = getItemId(item.itemid, item.damage);
 
-        if (!item.nbt.ExtraAttributes.has("id")) {
+        if (!item.nbt.ExtraAttributes.hasOwnProperty("id")) {
             console.warn("Found Item without SkyBlockId, skipping: id: ${itemId}, name: ${item.displayname}, }");
             return;
         }
