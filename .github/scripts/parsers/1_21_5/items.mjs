@@ -23,8 +23,15 @@ export const Items = {
         const isGlowing = item.nbt?.ench !== undefined;
         const itemModel = !item.nbt.ItemModel || item.nbt.ItemModel === getItemId(item.itemid, item.damage) ? undefined : item.nbt.ItemModel;
 
+        const itemId = getItemId(item.itemid, item.damage);
+
+        if (!item.nbt.ExtraAttributes.has("id")) {
+            console.warn("Found Item without SkyBlockId, skipping: id: ${itemId}, name: ${item.displayname}, }");
+            return;
+        }
+
         itemsFile.push({
-            id: getItemId(item.itemid, item.damage),
+            id: itemId,
             components: {
                 'minecraft:tooltip_display': {
                     "hidden_components": [
