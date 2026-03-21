@@ -699,18 +699,17 @@
     },
     {
       "tier": 2,
-      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY0NjA2OTEzMDkyMCwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGQ2MjBlNGUzZDNhYmZlZDZhZDgxYTU4YTU2YmNkMDg1ZDllOWVmYzgwM2NhYmIyMWZhNmM5ZTM5NjllMmQyZSIKICAgIH0KICB9Cn0=",
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY1Nzk5NDkxODg4NiwKICAicHJvZmlsZUlkIiA6ICJhNzdkNmQ2YmFjOWE0NzY3YTFhNzU1NjYxOTllYmY5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwOEJFRDUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGQ2MjBlNGUzZDNhYmZlZDZhZDgxYTU4YTU2YmNkMDg1ZDllOWVmYzgwM2NhYmIyMWZhNmM5ZTM5NjllMmQyZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
       "name": "§c◆ Fiery Burst Rune II",
       "lore": [
         "§8Requires level 25",
         "§8Hoes",
         "",
-        "§7Obtained very rarely from",
-        "§7slaying Inferno Demonlord.",
+        "§7Obtained very rarely from slaying",
+        "§7Inferno Demonlord.",
         "",
-        "§7Apply this rune to hoes or fuse",
-        "§7two together at the Runic",
-        "§7Pedestal!",
+        "§7Apply this rune to hoes or fuse two",
+        "§7together at the Runic Pedestal!",
         "",
         "§6§lLEGENDARY COSMETIC"
       ]
