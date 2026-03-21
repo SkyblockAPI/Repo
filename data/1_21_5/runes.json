@@ -948,6 +948,27 @@
       ]
     }
   ],
+  "GRAND_GARDENING": [
+    {
+      "tier": 3,
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3Mzc4NTYyNDM2MiwKICAicHJvZmlsZUlkIiA6ICI2OTU3YjQyOTZiOTI0NGJkOGQzNWJiZGU4M2JiZDI3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjb2xpblBBUEEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzk4NmUwZmViMTUyOWZkNjk1N2I3ZmQwMjMxMTZhYjAxMzUyOThhZTIxOTJiNzQ2ZjUzYjc4YTc1NjhlM2E1YSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "§c◆ Grand Gardening Rune III",
+      "lore": [
+        "§8Requires level 0",
+        "§8Chestplates",
+        "",
+        "§7Special look on Farming Islands &",
+        "§7Garden! Obtained from the Taylor",
+        "§7Spring Bundle.",
+        "",
+        "§7Apply this rune to chestplates or",
+        "§7fuse two together at the Runic",
+        "§7Pedestal!",
+        "",
+        "§6§lLEGENDARY COSMETIC"
+      ]
+    }
+  ],
   "GRAND_LEAFING": [
     {
       "tier": 3,
