@@ -21683,30 +21683,6 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "HUGE_MUSHROOM_1",
-        "count": 64
-      }
-    ],
-    "pattern": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "result": {
-      "id": "ENCHANTED_HUGE_MUSHROOM_1",
-      "count": 1
-    }
-  },
-  {
-    "type": "crafting",
-    "keys": [
-      {
         "id": "ENCHANTED_RED_MUSHROOM",
         "count": 32
       }
@@ -21721,30 +21697,6 @@
       -1,
       0,
       -1
-    ],
-    "result": {
-      "id": "ENCHANTED_HUGE_MUSHROOM_2",
-      "count": 1
-    }
-  },
-  {
-    "type": "crafting",
-    "keys": [
-      {
-        "id": "HUGE_MUSHROOM_2",
-        "count": 64
-      }
-    ],
-    "pattern": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
     ],
     "result": {
       "id": "ENCHANTED_HUGE_MUSHROOM_2",
