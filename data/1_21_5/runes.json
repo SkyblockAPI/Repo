@@ -301,18 +301,17 @@
     },
     {
       "tier": 3,
-      "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UwMjY3NzA1M2RjNTQyNDVkYWM0YjM5OWQxNGFhZTIxZWU3MWEwMTBiZDljMzM2YzhlY2VlMWEwZGJlOGY1OGIifX19",
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTUwNDAyMzgzOCwKICAicHJvZmlsZUlkIiA6ICI0M2NmNWJkNjUyMDM0YzU5ODVjMDIwYWI3NDE0OGQxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJrYW1pbDQ0NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMDI2NzcwNTNkYzU0MjQ1ZGFjNGIzOTlkMTRhYWUyMWVlNzFhMDEwYmQ5YzMzNmM4ZWNlZTFhMGRiZThmNThiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
       "name": "§c◆ Blood Rune III",
       "lore": [
         "§8Requires level 1",
         "§8Weapons",
         "",
-        "§7Create a blood effect when you",
-        "§7kill mobs!",
+        "§7Create a blood effect when you kill",
+        "§7mobs!",
         "",
-        "§7Apply this rune to weapons or",
-        "§7fuse two together at the Runic",
-        "§7Pedestal!",
+        "§7Apply this rune to weapons or fuse",
+        "§7two together at the Runic Pedestal!",
         "",
         "§f§lCOMMON COSMETIC"
       ]
