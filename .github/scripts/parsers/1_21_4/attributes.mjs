@@ -38,7 +38,10 @@ export const Attributes = {
 
         const neuAttribute = NeuData.attributes.lookup[attributeId];
 
-        if (!neuAttribute) throw new Error(`Attribute shard ${attributeId} not found in neu/constants/attribute_shards.json`);
+        if (!neuAttribute) {
+            console.warn(`Attribute shard ${attributeId} not found in neu/constants/attribute_shards.json`);
+            return;
+        }
         attributeIds.push(attributeId)
 
         const attribute = {
