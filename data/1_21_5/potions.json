@@ -1,0 +1,2845 @@
+{
+  "POTION_ABSORPTION": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§6Absorption I §f(3:00)",
+          "§7Grants §a+20 §7of absorption.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§6Absorption II §f(3:00)",
+          "§7Grants §a+40 §7of absorption.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§6Absorption III §f(3:00)",
+          "§7Grants §a+60 §7of absorption.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§6Absorption IV §f(3:00)",
+          "§7Grants §a+80 §7of absorption.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§6Absorption V §f(3:00)",
+          "§7Grants §a+100 §7of absorption.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 6,
+        "literal_level": "VI",
+        "lore": [
+          "§6Absorption VI §f(3:00)",
+          "§7Grants §a+150 §7of absorption.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 7,
+        "literal_level": "VII",
+        "lore": [
+          "§6Absorption VII §f(3:00)",
+          "§7Grants §a+200 §7of absorption.",
+          "",
+          "§5§lEPIC"
+        ]
+      },
+      {
+        "level": 8,
+        "literal_level": "VIII",
+        "lore": [
+          "§6Absorption VIII §f(3:00)",
+          "§7Grants §a+300 §7of absorption.",
+          "",
+          "§5§lEPIC"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "absorption",
+    "name": "Absorption",
+    "vanilla_effect": "fire_resistance"
+  },
+  "POTION_ADRENALINE": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§cAdrenaline I §f(3:00)",
+          "§7Grants §a+20 §7of absorption and §a+5 §f✦",
+          "§fSpeed§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§cAdrenaline II §f(3:00)",
+          "§7Grants §a+40 §7of absorption and §a+10 §f✦",
+          "§fSpeed§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§cAdrenaline III §f(3:00)",
+          "§7Grants §a+60 §7of absorption and §a+15 §f✦",
+          "§fSpeed§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§cAdrenaline IV §f(3:00)",
+          "§7Grants §a+80 §7of absorption and §a+20 §f✦",
+          "§fSpeed§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§cAdrenaline V §f(3:00)",
+          "§7Grants §a+100 §7of absorption and §a+25",
+          "§a§f✦ Speed§7.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 6,
+        "literal_level": "VI",
+        "lore": [
+          "§cAdrenaline VI §f(3:00)",
+          "§7Grants §a+150 §7of absorption and §a+30",
+          "§a§f✦ Speed§7.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 7,
+        "literal_level": "VII",
+        "lore": [
+          "§cAdrenaline VII §f(3:00)",
+          "§7Grants §a+200 §7of absorption and §a+35",
+          "§a§f✦ Speed§7.",
+          "",
+          "§5§lEPIC"
+        ]
+      },
+      {
+        "level": 8,
+        "literal_level": "VIII",
+        "lore": [
+          "§cAdrenaline VIII §f(3:00)",
+          "§7Grants §a+300 §7of absorption and §a+40",
+          "§a§f✦ Speed§7.",
+          "",
+          "§5§lEPIC"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "adrenaline",
+    "name": "Adrenaline",
+    "vanilla_effect": "regeneration"
+  },
+  "POTION_AGILITY": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§5Agility I §f(3:00)",
+          "§7Grants §a+10 §f✦ Speed §7and increases",
+          "§7the chance for mob attacks to miss",
+          "§7by §a10%§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§5Agility II §f(3:00)",
+          "§7Grants §a+20 §f✦ Speed §7and increases",
+          "§7the chance for mob attacks to miss",
+          "§7by §a20%§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§5Agility III §f(3:00)",
+          "§7Grants §a+30 §f✦ Speed §7and increases",
+          "§7the chance for mob attacks to miss",
+          "§7by §a30%§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§5Agility IV §f(3:00)",
+          "§7Grants §a+40 §f✦ Speed §7and increases",
+          "§7the chance for mob attacks to miss",
+          "§7by §a40%§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "agility",
+    "name": "Agility",
+    "vanilla_effect": "night_vision"
+  },
+  "POTION_ALCHEMY_XP_BOOST": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§7Grants §3+5☯ Alchemy Wisdom§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§7Grants §3+10☯ Alchemy Wisdom§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§7Grants §3+20☯ Alchemy Wisdom§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "alchemy_xp_boost",
+    "name": "Alchemy XP Boost",
+    "vanilla_effect": "water"
+  },
+  "POTION_ARCHERY": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§bArchery I §f(3:00)",
+          "§7Increases bow damage by §a12.5%§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§bArchery II §f(3:00)",
+          "§7Increases bow damage by §a25%§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§bArchery III §f(3:00)",
+          "§7Increases bow damage by §a50%§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§bArchery IV §f(3:00)",
+          "§7Increases bow damage by §a75%§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "archery",
+    "name": "Archery",
+    "vanilla_effect": "leaping"
+  },
+  "POTION_AWKWARD": {
+    "levels": [
+      {
+        "literal_level": "§fAwkward Potion",
+        "lore": [
+          "§7Stands with items labeled as Brewing",
+          "§7Ingredients to brew Potions.",
+          "",
+          "§f§lCOMMON"
+        ]
+      }
+    ],
+    "type": "AWKWARD",
+    "name": "Awkward Potion",
+    "vanilla_effect": "awkward"
+  },
+  "POTION_BLINDNESS": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§fBlindness I §f(0:03)",
+          "§7Grants blindness to the affected",
+          "§7player.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§fBlindness II §f(0:03)",
+          "§7Grants blindness to the affected",
+          "§7player.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§fBlindness III §f(0:03)",
+          "§7Grants blindness to the affected",
+          "§7player.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "blindness",
+    "name": "Blindness",
+    "vanilla_effect": "water"
+  },
+  "POTION_BURNING": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§6Burning I §f(3:00)",
+          "§7Increases the duration of fire",
+          "§7damage that you inflict on enemies by",
+          "§7§a5%§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§6Burning II §f(3:00)",
+          "§7Increases the duration of fire",
+          "§7damage that you inflict on enemies by",
+          "§7§a10%§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§6Burning III §f(3:00)",
+          "§7Increases the duration of fire",
+          "§7damage that you inflict on enemies by",
+          "§7§a15%§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§6Burning IV §f(3:00)",
+          "§7Increases the duration of fire",
+          "§7damage that you inflict on enemies by",
+          "§7§a20%§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "burning",
+    "name": "Burning",
+    "vanilla_effect": "fire_resistance"
+  },
+  "POTION_COLD_RESISTANCE": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§bCold Resistance I §f(3:00)",
+          "§7Gain §b+2.5❄ Cold Resistance§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§bCold Resistance II §f(3:00)",
+          "§7Gain §b+5❄ Cold Resistance§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§bCold Resistance III §f(3:00)",
+          "§7Gain §b+7.5❄ Cold Resistance§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§bCold Resistance IV §f(3:00)",
+          "§7Gain §b+10❄ Cold Resistance§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "cold_resistance",
+    "name": "Cold Resistance",
+    "vanilla_effect": "swiftness"
+  },
+  "POTION_COMBAT_XP_BOOST": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§aCombat XP Boost I §f(12:00)",
+          "§7Grants §3+5☯ Combat Wisdom§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§aCombat XP Boost II §f(24:00)",
+          "§7Grants §3+10☯ Combat Wisdom§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§aCombat XP Boost III §f(36:00)",
+          "§7Grants §3+20☯ Combat Wisdom§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "combat_xp_boost",
+    "name": "Combat XP Boost",
+    "vanilla_effect": "water"
+  },
+  "POTION_CRITICAL": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§4Critical I §f(3:00)",
+          "§7Increases §9☣ Crit Chance §7by §a10% §7and",
+          "§7§9☠ Crit Damage §7by §a10%§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§4Critical II §f(3:00)",
+          "§7Increases §9☣ Crit Chance §7by §a15% §7and",
+          "§7§9☠ Crit Damage §7by §a20%§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§4Critical III §f(3:00)",
+          "§7Increases §9☣ Crit Chance §7by §a20% §7and",
+          "§7§9☠ Crit Damage §7by §a30%§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§4Critical IV §f(3:00)",
+          "§7Increases §9☣ Crit Chance §7by §a25% §7and",
+          "§7§9☠ Crit Damage §7by §a40%§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "critical",
+    "name": "Critical",
+    "vanilla_effect": "harming"
+  },
+  "POTION_DAMAGE": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§cDamage I",
+          "§7Instantly deals §c20 §7damage.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§cDamage II",
+          "§7Instantly deals §c50 §7damage.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§cDamage III",
+          "§7Instantly deals §c100 §7damage.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§cDamage IV",
+          "§7Instantly deals §c150 §7damage.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§cDamage V",
+          "§7Instantly deals §c200 §7damage.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 6,
+        "literal_level": "VI",
+        "lore": [
+          "§cDamage VI",
+          "§7Instantly deals §c300 §7damage.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 7,
+        "literal_level": "VII",
+        "lore": [
+          "§cDamage VII",
+          "§7Instantly deals §c400 §7damage.",
+          "",
+          "§5§lEPIC"
+        ]
+      },
+      {
+        "level": 8,
+        "literal_level": "VIII",
+        "lore": [
+          "§cDamage VIII",
+          "§7Instantly deals §c500 §7damage.",
+          "",
+          "§5§lEPIC"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "damage",
+    "name": "Damage",
+    "vanilla_effect": "harming"
+  },
+  "POTION_DODGE": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§9Dodge I §f(3:00)",
+          "§7Mob attacks have a §a10% §7chance to",
+          "§7miss.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§9Dodge II §f(3:00)",
+          "§7Mob attacks have a §a20% §7chance to",
+          "§7miss.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§9Dodge III §f(3:00)",
+          "§7Mob attacks have a §a30% §7chance to",
+          "§7miss.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§9Dodge IV §f(3:00)",
+          "§7Mob attacks have a §a40% §7chance to",
+          "§7miss.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "dodge",
+    "name": "Dodge",
+    "vanilla_effect": "swiftness"
+  },
+  "POTION_DUNGEON": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§4Regeneration I §f(20:00)",
+          "§7Grants §c+5❣ Health Regen§7.",
+          "",
+          "§4Strength III §f(20:00)",
+          "§7Increases §c❁ Strength §7by §a20§7.",
+          "",
+          "§4Critical I §f(20:00)",
+          "§7Increases §9☣ Crit Chance §7by §a10% §7and",
+          "§7§9☠ Crit Damage §7by §a10%§7.",
+          "",
+          "§9Speed I §f(20:00)",
+          "§7Grants §a+5 §f✦ Speed§7.",
+          "",
+          "§aResistance I §f(20:00)",
+          "§7Increases §a❈ Defense §7by §a+5§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§4Regeneration II §f(40:00)",
+          "§7Grants §c+10❣ Health Regen§7.",
+          "",
+          "§4Strength III §f(40:00)",
+          "§7Increases §c❁ Strength §7by §a20§7.",
+          "",
+          "§4Critical I §f(40:00)",
+          "§7Increases §9☣ Crit Chance §7by §a10% §7and",
+          "§7§9☠ Crit Damage §7by §a10%§7.",
+          "",
+          "§9Speed II §f(40:00)",
+          "§7Grants §a+10 §f✦ Speed§7.",
+          "",
+          "§aResistance I §f(40:00)",
+          "§7Increases §a❈ Defense §7by §a+5§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§4Regeneration III §f(40:00)",
+          "§7Grants §c+15❣ Health Regen§7.",
+          "",
+          "§4Strength III §f(40:00)",
+          "§7Increases §c❁ Strength §7by §a20§7.",
+          "",
+          "§4Critical II §f(40:00)",
+          "§7Increases §9☣ Crit Chance §7by §a15% §7and",
+          "§7§9☠ Crit Damage §7by §a20%§7.",
+          "",
+          "§9Speed II §f(40:00)",
+          "§7Grants §a+10 §f✦ Speed§7.",
+          "",
+          "§aResistance II §f(40:00)",
+          "§7Increases §a❈ Defense §7by §a+10§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§4Regeneration III §f(40:00)",
+          "§7Grants §c+15❣ Health Regen§7.",
+          "",
+          "§4Strength IV §f(40:00)",
+          "§7Increases §c❁ Strength §7by §a30§7.",
+          "",
+          "§4Critical II §f(40:00)",
+          "§7Increases §9☣ Crit Chance §7by §a15% §7and",
+          "§7§9☠ Crit Damage §7by §a20%§7.",
+          "",
+          "§9Speed II §f(40:00)",
+          "§7Grants §a+10 §f✦ Speed§7.",
+          "",
+          "§aResistance III §f(40:00)",
+          "§7Increases §a❈ Defense §7by §a+15§7.",
+          "",
+          "§bArchery I §f(40:00)",
+          "§7Increases bow damage by §a12.5%§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§4Regeneration III §f(40:00)",
+          "§7Grants §c+15❣ Health Regen§7.",
+          "",
+          "§4Strength IV §f(40:00)",
+          "§7Increases §c❁ Strength §7by §a30§7.",
+          "",
+          "§4Critical III §f(40:00)",
+          "§7Increases §9☣ Crit Chance §7by §a20% §7and",
+          "§7§9☠ Crit Damage §7by §a30%§7.",
+          "",
+          "§9Speed II §f(40:00)",
+          "§7Grants §a+10 §f✦ Speed§7.",
+          "",
+          "§aResistance IV §f(40:00)",
+          "§7Increases §a❈ Defense §7by §a+20§7.",
+          "",
+          "§bArchery II §f(40:00)",
+          "§7Increases bow damage by §a25%§7.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 6,
+        "literal_level": "VI",
+        "lore": [
+          "§4Regeneration IV §f(40:00)",
+          "§7Grants §c+20❣ Health Regen§7.",
+          "",
+          "§4Strength IV §f(40:00)",
+          "§7Increases §c❁ Strength §7by §a30§7.",
+          "",
+          "§4Critical III §f(40:00)",
+          "§7Increases §9☣ Crit Chance §7by §a20% §7and",
+          "§7§9☠ Crit Damage §7by §a30%§7.",
+          "",
+          "§9Speed III §f(40:00)",
+          "§7Grants §a+15 §f✦ Speed§7.",
+          "",
+          "§aResistance IV §f(40:00)",
+          "§7Increases §a❈ Defense §7by §a+20§7.",
+          "",
+          "§bArchery III §f(40:00)",
+          "§7Increases bow damage by §a50%§7.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 7,
+        "literal_level": "VII",
+        "lore": [
+          "§4Regeneration IV §f(40:00)",
+          "§7Grants §c+20❣ Health Regen§7.",
+          "",
+          "§4Strength V §f(40:00)",
+          "§7Increases §c❁ Strength §7by §a40§7.",
+          "",
+          "§4Critical III §f(40:00)",
+          "§7Increases §9☣ Crit Chance §7by §a20% §7and",
+          "§7§9☠ Crit Damage §7by §a30%§7.",
+          "",
+          "§9Speed III §f(40:00)",
+          "§7Grants §a+15 §f✦ Speed§7.",
+          "",
+          "§aResistance V §f(40:00)",
+          "§7Increases §a❈ Defense §7by §a+30§7.",
+          "",
+          "§bArchery III §f(40:00)",
+          "§7Increases bow damage by §a50%§7.",
+          "",
+          "§5§lEPIC"
+        ]
+      }
+    ],
+    "internal_name": "Dungeon",
+    "type": "POTION",
+    "internal_potion": "regeneration",
+    "name": "Dungeon",
+    "vanilla_effect": "regeneration"
+  },
+  "POTION_ENCHANTING_XP_BOOST": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§7Grants §3+5☯ Enchanting Wisdom§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§7Grants §3+10☯ Enchanting Wisdom§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§aEnchanting XP Boost III §f(36:00)",
+          "§7Grants §3+20☯ Enchanting Wisdom§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "enchanting_xp_boost",
+    "name": "Enchanting XP Boost",
+    "vanilla_effect": "water"
+  },
+  "POTION_EXPERIENCE": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§9Experience I §f(3:00)",
+          "§7Gain §a5% §7more experience orbs.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§9Experience II §f(3:00)",
+          "§7Gain §a10% §7more experience orbs.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§9Experience III §f(3:00)",
+          "§7Gain §a15% §7more experience orbs.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§9Experience IV §f(3:00)",
+          "§7Gain §a20% §7more experience orbs.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "experience",
+    "name": "Experience",
+    "vanilla_effect": "water_breathing"
+  },
+  "POTION_FARMING_XP_BOOST": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§7Grants §3+5☯ Farming Wisdom§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§aFarming XP Boost II §f(24:00)",
+          "§7Grants §3+10☯ Farming Wisdom§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§aFarming XP Boost III §f(36:00)",
+          "§7Grants §3+20☯ Farming Wisdom§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "farming_xp_boost",
+    "name": "Farming XP Boost",
+    "vanilla_effect": "water"
+  },
+  "POTION_FIRE_RESISTANCE": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§cFire Resistance I §f(3:00)",
+          "§7Receive §a10% §7reduced damage from",
+          "§7§cfire §7and §clava§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "fire_resistance",
+    "name": "Fire Resistance",
+    "vanilla_effect": "fire_resistance"
+  },
+  "POTION_FISHING_XP_BOOST": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§7Grants §3+5☯ Fishing Wisdom§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§7Grants §3+10☯ Fishing Wisdom§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§aFishing XP Boost III §f(36:00)",
+          "§7Grants §3+20☯ Fishing Wisdom§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "fishing_xp_boost",
+    "name": "Fishing XP Boost",
+    "vanilla_effect": "water"
+  },
+  "POTION_FORAGING_XP_BOOST": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§aForaging XP Boost I §f(12:00)",
+          "§7Grants §3+5☯ Foraging Wisdom§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§7Grants §3+10☯ Foraging Wisdom§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§aForaging XP Boost III §f(36:00)",
+          "§7Grants §3+20☯ Foraging Wisdom§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "foraging_xp_boost",
+    "name": "Foraging XP Boost",
+    "vanilla_effect": "water"
+  },
+  "POTION_HARVEST_HARBINGER": {
+    "levels": [
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§7Grants §6+50☘ Farming Fortune§7.",
+          "",
+          "§9§lRARE"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "harvest_harbinger",
+    "name": "Harvest Harbinger",
+    "vanilla_effect": "fire_resistance"
+  },
+  "POTION_HASTE": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§eHaste I §f(3:00)",
+          "§7Grants §a+50 §6⸕ Mining Speed§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§eHaste II §f(3:00)",
+          "§7Grants §a+100 §6⸕ Mining Speed§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§eHaste III §f(3:00)",
+          "§7Grants §a+150 §6⸕ Mining Speed§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§eHaste IV §f(3:00)",
+          "§7Grants §a+200 §6⸕ Mining Speed§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "haste",
+    "name": "Haste",
+    "vanilla_effect": "fire_resistance"
+  },
+  "POTION_HEALING": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§cHealing I",
+          "§7Instantly heals for §a+20§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§cHealing II",
+          "§7Instantly heals for §a+50§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§cHealing III",
+          "§7Instantly heals for §a+100§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§cHealing IV",
+          "§7Instantly heals for §a+150§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§cHealing V",
+          "§7Instantly heals for §a+200§7.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 6,
+        "literal_level": "VI",
+        "lore": [
+          "§cHealing VI",
+          "§7Instantly heals for §a+300§7.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 7,
+        "literal_level": "VII",
+        "lore": [
+          "§cHealing VII",
+          "§7Instantly heals for §a+400§7.",
+          "",
+          "§5§lEPIC"
+        ]
+      },
+      {
+        "level": 8,
+        "literal_level": "VIII",
+        "lore": [
+          "§cHealing VIII",
+          "§7Instantly heals for §a+500§7.",
+          "",
+          "§5§lEPIC"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "healing",
+    "name": "Healing",
+    "vanilla_effect": "healing"
+  },
+  "POTION_INVISIBILITY": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§8Invisibility I §f(3:00)",
+          "§7Grants invisibility from players and",
+          "§7mobs.",
+          "",
+          "§f§lCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "invisibility",
+    "name": "Invisibility",
+    "vanilla_effect": "invisibility"
+  },
+  "POTION_JUMP_BOOST": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§bJump Boost I §f(3:00)",
+          "§7Increases your jump height to §a1.9",
+          "§ablocks§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§bJump Boost II §f(3:00)",
+          "§7Increases your jump height to §a2.5",
+          "§ablocks§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§bJump Boost III §f(3:00)",
+          "§7Increases your jump height to §a3.2",
+          "§ablocks§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§bJump Boost IV §f(3:00)",
+          "§7Increases your jump height to §a4.1",
+          "§ablocks§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "jump_boost",
+    "name": "Jump Boost",
+    "vanilla_effect": "leaping"
+  },
+  "POTION_KNOCKBACK": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§4Knockback I §f(3:00)",
+          "§7Damaging enemies deals §a20% §7more",
+          "§7knockback.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§4Knockback II §f(3:00)",
+          "§7Damaging enemies deals §a40% §7more",
+          "§7knockback.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§4Knockback III §f(3:00)",
+          "§7Damaging enemies deals §a60% §7more",
+          "§7knockback.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§4Knockback IV §f(3:00)",
+          "§7Damaging enemies deals §a80% §7more",
+          "§7knockback.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "knockback",
+    "name": "Knockback",
+    "vanilla_effect": "strength"
+  },
+  "POTION_MAGIC_FIND": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§bMagic Find I §f(3:00)",
+          "§7Gain §a+10% §7chance to find rare items",
+          "§7from monsters and bosses.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§bMagic Find II §f(3:00)",
+          "§7Gain §a+25% §7chance to find rare items",
+          "§7from monsters and bosses.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§bMagic Find III §f(3:00)",
+          "§7Gain §a+50% §7chance to find rare items",
+          "§7from monsters and bosses.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§bMagic Find IV §f(3:00)",
+          "§7Gain §a+75% §7chance to find rare items",
+          "§7from monsters and bosses.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "internal_name": "Magic Find",
+    "type": "POTION",
+    "internal_potion": "magic_find",
+    "name": "Magic Find",
+    "vanilla_effect": "leaping"
+  },
+  "POTION_MANA": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§9Mana I §f(3:00)",
+          "§7Grants §b+1 ✎ Mana §7per second.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§9Mana II §f(3:00)",
+          "§7Grants §b+2 ✎ Mana §7per second.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§9Mana III §f(3:00)",
+          "§7Grants §b+3 ✎ Mana §7per second.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§9Mana IV §f(3:00)",
+          "§7Grants §b+4 ✎ Mana §7per second.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§9Mana V §f(3:00)",
+          "§7Grants §b+5 ✎ Mana §7per second.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 6,
+        "literal_level": "VI",
+        "lore": [
+          "§9Mana VI §f(3:00)",
+          "§7Grants §b+6 ✎ Mana §7per second.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 7,
+        "literal_level": "VII",
+        "lore": [
+          "§9Mana VII §f(3:00)",
+          "§7Grants §b+7 ✎ Mana §7per second.",
+          "",
+          "§5§lEPIC"
+        ]
+      },
+      {
+        "level": 8,
+        "literal_level": "VIII",
+        "lore": [
+          "§9Mana VIII §f(3:00)",
+          "§7Grants §b+8 ✎ Mana §7per second.",
+          "",
+          "§5§lEPIC"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "mana",
+    "name": "Mana",
+    "vanilla_effect": "night_vision"
+  },
+  "POTION_MINING_XP_BOOST": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§aMining XP Boost I §f(12:00)",
+          "§7Grants §3+5☯ Mining Wisdom§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§aMining XP Boost II §f(24:00)",
+          "§7Grants §3+10☯ Mining Wisdom§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§aMining XP Boost III §f(36:00)",
+          "§7Grants §3+20☯ Mining Wisdom§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "mining_xp_boost",
+    "name": "Mining XP Boost",
+    "vanilla_effect": "water"
+  },
+  "POTION_NIGHT_VISION": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "V",
+        "lore": [
+          "§5Night Vision I §f(3:00)",
+          "§7Grants greater visibility at night.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "V",
+        "lore": [
+          "§5Night Vision II §f(3:00)",
+          "§7Grants greater visibility at night.",
+          "",
+          "§f§lCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "night_vision",
+    "name": "Night Vision",
+    "vanilla_effect": "night_vision"
+  },
+  "POTION_PET_LUCK": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§bPet Luck I §f(3:00)",
+          "§7Gain §a+5% §7chance to find pets and",
+          "§7craft higher tier pets.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§bPet Luck II §f(3:00)",
+          "§7Gain §a+10% §7chance to find pets and",
+          "§7craft higher tier pets.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§bPet Luck III §f(3:00)",
+          "§7Gain §a+15% §7chance to find pets and",
+          "§7craft higher tier pets.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§bPet Luck IV §f(3:00)",
+          "§7Gain §a+20% §7chance to find pets and",
+          "§7craft higher tier pets.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "pet_luck",
+    "name": "Pet Luck",
+    "vanilla_effect": "water"
+  },
+  "POTION_POISON": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§2Poison I §f(3:00)",
+          "§7Deals §c10 §7damage per second.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§2Poison II §f(3:00)",
+          "§7Deals §c20 §7damage per second.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§2Poison III §f(3:00)",
+          "§7Deals §c40 §7damage per second.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§2Poison IV §f(3:00)",
+          "§7Deals §c60 §7damage per second.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "poison",
+    "name": "Poison",
+    "vanilla_effect": "poison"
+  },
+  "POTION_RABBIT": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§aRabbit I §f(3:00)",
+          "§7Grants Jump Boost I and §a+10 §f✦",
+          "§fSpeed§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§aRabbit II §f(3:00)",
+          "§7Grants Jump Boost I and §a+20 §f✦",
+          "§fSpeed§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§aRabbit III §f(3:00)",
+          "§7Grants Jump Boost II and §a+30 §f✦",
+          "§fSpeed§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§aRabbit IV §f(3:00)",
+          "§7Grants Jump Boost II and §a+40 §f✦",
+          "§fSpeed§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§aRabbit V §f(3:00)",
+          "§7Grants Jump Boost III and §a+50 §f✦",
+          "§fSpeed§7.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 6,
+        "literal_level": "VI",
+        "lore": [
+          "§aRabbit VI §f(3:00)",
+          "§7Grants Jump Boost III and §a+60 §f✦",
+          "§fSpeed§7.",
+          "",
+          "§9§lRARE"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "rabbit",
+    "name": "Rabbit",
+    "vanilla_effect": "poison"
+  },
+  "POTION_REGENERATION": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§4Regeneration I §f(0:45)",
+          "§7Grants §c+5❣ Health Regen§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§4Regeneration II §f(0:45)",
+          "§7Grants §c+10❣ Health Regen§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§4Regeneration III §f(0:45)",
+          "§7Grants §c+15❣ Health Regen§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§4Regeneration IV §f(0:45)",
+          "§7Grants §c+20❣ Health Regen§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§4Regeneration V §f(0:45)",
+          "§7Grants §c+25❣ Health Regen§7.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 6,
+        "literal_level": "VI",
+        "lore": [
+          "§4Regeneration VI §f(0:45)",
+          "§7Grants §c+30❣ Health Regen§7.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 7,
+        "literal_level": "VII",
+        "lore": [
+          "§4Regeneration VII §f(0:45)",
+          "§7Grants §c+40❣ Health Regen§7.",
+          "",
+          "§5§lEPIC"
+        ]
+      },
+      {
+        "level": 8,
+        "literal_level": "VIII",
+        "lore": [
+          "§4Regeneration VIII §f(0:45)",
+          "§7Grants §c+50❣ Health Regen§7.",
+          "",
+          "§5§lEPIC"
+        ]
+      },
+      {
+        "level": 9,
+        "literal_level": "I",
+        "lore": [
+          "§4Regeneration IX §f(2:30)",
+          "§7Grants §c+60❣ Health Regen§7.",
+          "",
+          "§5§lEPIC"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "regeneration",
+    "name": "Regeneration",
+    "vanilla_effect": "regeneration"
+  },
+  "POTION_RESISTANCE": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§aResistance I §f(3:00)",
+          "§7Increases §a❈ Defense §7by §a+5§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§aResistance II §f(3:00)",
+          "§7Increases §a❈ Defense §7by §a+10§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§aResistance III §f(3:00)",
+          "§7Increases §a❈ Defense §7by §a+15§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§aResistance IV §f(3:00)",
+          "§7Increases §a❈ Defense §7by §a+20§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§aResistance V §f(3:00)",
+          "§7Increases §a❈ Defense §7by §a+30§7.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 6,
+        "literal_level": "VI",
+        "lore": [
+          "§aResistance VI §f(3:00)",
+          "§7Increases §a❈ Defense §7by §a+40§7.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 7,
+        "literal_level": "VII",
+        "lore": [
+          "§aResistance VII §f(3:00)",
+          "§7Increases §a❈ Defense §7by §a+50§7.",
+          "",
+          "§5§lEPIC"
+        ]
+      },
+      {
+        "level": 8,
+        "literal_level": "VIII",
+        "lore": [
+          "§aResistance VIII §f(3:00)",
+          "§7Increases §a❈ Defense §7by §a+60§7.",
+          "",
+          "§5§lEPIC"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "resistance",
+    "name": "Resistance",
+    "vanilla_effect": "poison"
+  },
+  "POTION_RIFT_GRAVITY": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§5Gravity I §f(10:00)",
+          "§7Increases §5Gravity §7around you,",
+          "§7spawning §bPuffs §7more often.",
+          "",
+          "§f§lCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "rift_gravity",
+    "name": "Gravity",
+    "vanilla_effect": "slowness"
+  },
+  "POTION_SECRETS": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§7§oAn enigmatic elixir steeped in",
+          "§7§omystery. One sip reveals the unseen,",
+          "§7§obut be wary, for not all secrets wish",
+          "§7§oto be known.",
+          "",
+          "§8§l* §8Soulbound §8§l*",
+          "§f§lCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "secrets",
+    "name": "Secret",
+    "vanilla_effect": "water"
+  },
+  "POTION_SLOWNESS": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§7Slowness I §f(3:00)",
+          "§7Removes §f20✦ Speed§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§7Slowness II §f(3:00)",
+          "§7Removes §f40✦ Speed§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§7Slowness III §f(3:00)",
+          "§7Removes §f75✦ Speed§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§7Slowness IV §f(3:00)",
+          "§7Removes §f99✦ Speed§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§7Slowness V §f(3:00)",
+          "§7Removes §f150✦ Speed§7.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 6,
+        "literal_level": "VI",
+        "lore": [
+          "§7Slowness VI §f(3:00)",
+          "§7Removes §f240✦ Speed§7.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 7,
+        "literal_level": "VII",
+        "lore": [
+          "§7Slowness VII §f(3:00)",
+          "§7Removes §f380✦ Speed§7.",
+          "",
+          "§5§lEPIC"
+        ]
+      },
+      {
+        "level": 8,
+        "literal_level": "VIII",
+        "lore": [
+          "§7Slowness VIII §f(3:00)",
+          "§7Removes §f500✦ Speed§7.",
+          "",
+          "§5§lEPIC"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "slowness",
+    "name": "Slowness",
+    "vanilla_effect": "slowness"
+  },
+  "POTION_SPEED": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§9Speed I §f(3:00)",
+          "§7Grants §a+5 §f✦ Speed§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§9Speed II §f(3:00)",
+          "§7Grants §a+10 §f✦ Speed§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§9Speed III §f(3:00)",
+          "§7Grants §a+15 §f✦ Speed§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§9Speed IV §f(3:00)",
+          "§7Grants §a+20 §f✦ Speed§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§9Speed V §f(3:00)",
+          "§7Grants §a+25 §f✦ Speed§7.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 6,
+        "literal_level": "VI",
+        "lore": [
+          "§9Speed VI §f(3:00)",
+          "§7Grants §a+30 §f✦ Speed§7.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 7,
+        "literal_level": "VII",
+        "lore": [
+          "§9Speed VII §f(3:00)",
+          "§7Grants §a+35 §f✦ Speed§7.",
+          "",
+          "§5§lEPIC"
+        ]
+      },
+      {
+        "level": 8,
+        "literal_level": "VIII",
+        "lore": [
+          "§9Speed VIII §f(3:00)",
+          "§7Grants §a+40 §f✦ Speed§7.",
+          "",
+          "§5§lEPIC"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "speed",
+    "name": "Speed",
+    "vanilla_effect": "swiftness"
+  },
+  "POTION_SPELUNKER": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§bSpelunker I §f(3:00)",
+          "§7Grants §a5 §6☘ Mining Fortune§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§bSpelunker II §f(3:00)",
+          "§7Grants §a10 §6☘ Mining Fortune§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§bSpelunker III §f(3:00)",
+          "§7Grants §a15 §6☘ Mining Fortune§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§bSpelunker IV §f(3:00)",
+          "§7Grants §a20 §6☘ Mining Fortune§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§bSpelunker V §f(3:00)",
+          "§7Grants §a25 §6☘ Mining Fortune§7.",
+          "",
+          "§9§lRARE"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "spelunker",
+    "name": "Spelunker",
+    "vanilla_effect": "night_vision"
+  },
+  "POTION_SPIRIT": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§7Grants §a+10 §f✦ Speed §7and §a+10% §9☠",
+          "§9Crit Damage§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§bSpirit II §f(3:00)",
+          "§7Grants §a+20 §f✦ Speed §7and §a+20% §9☠",
+          "§9Crit Damage§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§bSpirit III §f(3:00)",
+          "§7Grants §a+30 §f✦ Speed §7and §a+30% §9☠",
+          "§9Crit Damage§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§bSpirit IV §f(3:00)",
+          "§7Grants §a+40 §f✦ Speed §7and §a+40% §9☠",
+          "§9Crit Damage§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "internal_name": "Spirit",
+    "type": "POTION",
+    "internal_potion": "spirit",
+    "name": "Spirit",
+    "vanilla_effect": "swiftness"
+  },
+  "POTION_STAMINA": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§aStamina I",
+          "§7Instantly heals for §a+150§7 and a",
+          "§7grants a §b50 ✎ Mana §7boost.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§aStamina II",
+          "§7Instantly heals for §a+215§7 and a",
+          "§7grants a §b100 ✎ Mana §7boost.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§aStamina III",
+          "§7Instantly heals for §a+315§7 and a",
+          "§7grants a §b150 ✎ Mana §7boost.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§aStamina IV",
+          "§7Instantly heals for §a+515§7 and a",
+          "§7grants a §b200 ✎ Mana §7boost.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "stamina",
+    "name": "Stamina",
+    "vanilla_effect": "leaping"
+  },
+  "POTION_STINKY_CHEESE": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§eDouce Pluie de Stinky Cheese I §f(1:00:00)",
+          "§7Gain §2+20ൠ Bonus Pest Chance§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "stinky_cheese",
+    "name": "Douce Pluie de Stinky Cheese",
+    "vanilla_effect": "fire_resistance"
+  },
+  "POTION_STRENGTH": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§4Strength I §f(3:00)",
+          "§7Increases §c❁ Strength §7by §a5§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§4Strength II §f(3:00)",
+          "§7Increases §c❁ Strength §7by §a12.5§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§4Strength III §f(3:00)",
+          "§7Increases §c❁ Strength §7by §a20§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§4Strength IV §f(3:00)",
+          "§7Increases §c❁ Strength §7by §a30§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§4Strength V §f(3:00)",
+          "§7Increases §c❁ Strength §7by §a40§7.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 6,
+        "literal_level": "VI",
+        "lore": [
+          "§4Strength VI §f(3:00)",
+          "§7Increases §c❁ Strength §7by §a50§7.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 7,
+        "literal_level": "VII",
+        "lore": [
+          "§4Strength VII §f(3:00)",
+          "§7Increases §c❁ Strength §7by §a60§7.",
+          "",
+          "§5§lEPIC"
+        ]
+      },
+      {
+        "level": 8,
+        "literal_level": "VIII",
+        "lore": [
+          "§4Strength VIII §f(3:00)",
+          "§7Increases §c❁ Strength §7by §a75§7.",
+          "",
+          "§5§lEPIC"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "strength",
+    "name": "Strength",
+    "vanilla_effect": "strength"
+  },
+  "POTION_STUN": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§8Stun I §f(3:00)",
+          "§7When applied to yourself, your hits",
+          "§7have a §a10% §7chance to stun enemies",
+          "§7for §a1s§7. When splashed, enemies are",
+          "§7stunned for §a1s§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§8Stun II §f(3:00)",
+          "§7When applied to yourself, your hits",
+          "§7have a §a20% §7chance to stun enemies",
+          "§7for §a1s§7. When splashed, enemies are",
+          "§7stunned for §a1.25s§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§8Stun III §f(3:00)",
+          "§7When applied to yourself, your hits",
+          "§7have a §a30% §7chance to stun enemies",
+          "§7for §a1s§7. When splashed, enemies are",
+          "§7stunned for §a1.5s§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§8Stun IV §f(3:00)",
+          "§7When applied to yourself, your hits",
+          "§7have a §a40% §7chance to stun enemies",
+          "§7for §a1s§7. When splashed, enemies are",
+          "§7stunned for §a1.75s§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "stun",
+    "name": "Stun",
+    "vanilla_effect": "weakness"
+  },
+  "POTION_TRUE_DEFENSE": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§fTrue Resistance I §f(3:00)",
+          "§7Gain §f+5❂ True Defense§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§fTrue Resistance II §f(3:00)",
+          "§7Gain §f+10❂ True Defense§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§fTrue Resistance III §f(3:00)",
+          "§7Gain §f+15❂ True Defense§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§fTrue Resistance IV §f(3:00)",
+          "§7Gain §f+20❂ True Defense§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "true_defense",
+    "name": "True Resistance",
+    "vanilla_effect": "water"
+  },
+  "POTION_VENOMOUS": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "V",
+        "lore": [
+          "§5Venomous I §f(3:00)",
+          "§7Grants §c-5 §f✦ Speed §7and deals §c5",
+          "§c§7damage per second.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "V",
+        "lore": [
+          "§5Venomous II §f(3:00)",
+          "§7Grants §c-10 §f✦ Speed §7and deals §c10",
+          "§c§7damage per second.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "V",
+        "lore": [
+          "§5Venomous III §f(3:00)",
+          "§7Grants §c-15 §f✦ Speed §7and deals §c15",
+          "§c§7damage per second.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "V",
+        "lore": [
+          "§5Venomous IV §f(3:00)",
+          "§7Grants §c-20 §f✦ Speed §7and deals §c20",
+          "§c§7damage per second.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "venomous",
+    "name": "Venomous",
+    "vanilla_effect": "poison"
+  },
+  "POTION_WATER_BREATHING": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§9Water Breathing I §f(3:00)",
+          "§7Grants a §a15% §7chance of not taking",
+          "§7drowning damage.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§9Water Breathing II §f(3:00)",
+          "§7Grants a §a30% §7chance of not taking",
+          "§7drowning damage.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§9Water Breathing III §f(3:00)",
+          "§7Grants a §a45% §7chance of not taking",
+          "§7drowning damage.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§9Water Breathing IV §f(3:00)",
+          "§7Grants a §a60% §7chance of not taking",
+          "§7drowning damage.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§9Water Breathing V §f(3:00)",
+          "§7Grants a §a80% §7chance of not taking",
+          "§7drowning damage.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 6,
+        "literal_level": "VI",
+        "lore": [
+          "§9Water Breathing VI §f(3:00)",
+          "§7Grants a §a100% §7chance of not taking",
+          "§7drowning damage.",
+          "",
+          "§9§lRARE"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "water_breathing",
+    "name": "Water Breathing",
+    "vanilla_effect": "water_breathing"
+  },
+  "POTION_WEAKNESS": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§7Weakness I §f(3:00)",
+          "§7Reduces §c❁ Damage §7when attacking",
+          "§7enemies by §c5§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§7Weakness II §f(3:00)",
+          "§7Reduces §c❁ Damage §7when attacking",
+          "§7enemies by §c10§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§7Weakness III §f(3:00)",
+          "§7Reduces §c❁ Damage §7when attacking",
+          "§7enemies by §c15§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§7Weakness IV §f(3:00)",
+          "§7Reduces §c❁ Damage §7when attacking",
+          "§7enemies by §c20§7.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§7Weakness V §f(3:00)",
+          "§7Reduces §c❁ Damage §7when attacking",
+          "§7enemies by §c25§7.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 6,
+        "literal_level": "VI",
+        "lore": [
+          "§7Weakness VI §f(3:00)",
+          "§7Reduces §c❁ Damage §7when attacking",
+          "§7enemies by §c30§7.",
+          "",
+          "§9§lRARE"
+        ]
+      },
+      {
+        "level": 7,
+        "literal_level": "VII",
+        "lore": [
+          "§7Weakness VII §f(3:00)",
+          "§7Reduces §c❁ Damage §7when attacking",
+          "§7enemies by §c40§7.",
+          "",
+          "§5§lEPIC"
+        ]
+      },
+      {
+        "level": 8,
+        "literal_level": "VIII",
+        "lore": [
+          "§7Weakness VIII §f(3:00)",
+          "§7Reduces §c❁ Damage §7when attacking",
+          "§7enemies by §c50§7.",
+          "",
+          "§5§lEPIC"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "weakness",
+    "name": "Weakness",
+    "vanilla_effect": "weakness"
+  },
+  "POTION_WISP_ICE": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§bWisp's Ice-Flavored Water I §f(5:00)",
+          "§7Gain §4+10♨Vitality",
+          "§7and §f+25❂ True Defense§7.",
+          "",
+          "§f§lCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "wisp_ice",
+    "name": "Wisp's Ice-Flavored Water",
+    "vanilla_effect": "water_breathing"
+  },
+  "POTION_WOUNDED": {
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§4Wounded I §f(3:00)",
+          "§7Reduces §c25% §7of healing.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§4Wounded II §f(3:00)",
+          "§7Reduces §c50% §7of healing.",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§4Wounded III §f(3:00)",
+          "§7Reduces §c75% §7of healing.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§4Wounded IV §f(3:00)",
+          "§7Reduces §c100% §7of healing.",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "type": "POTION",
+    "internal_potion": "wounded",
+    "name": "Wounded",
+    "vanilla_effect": "strength"
+  },
+  "WATER_BOTTLE": {
+    "levels": [
+      {
+        "literal_level": "§fWater Bottle",
+        "lore": []
+      }
+    ],
+    "name": "Water Bottle",
+    "vanilla_effect": "water"
+  }
+}
