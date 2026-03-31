@@ -71,7 +71,7 @@
           "",
           "§6Armored Tank",
           "§7Gain §a{0}% §7of your §a❈ Defense §7as §c❁",
-          "§cStrength§7. §8(Max +1,000)",
+          "§cStrength§7. §8(Max +500)",
           "",
           "§6Unyielding",
           "§7Increase the effectiveness of §d§lLast",
@@ -87,8 +87,8 @@
         ],
         "variables": {
           "0": [
-            0.15,
-            15
+            0.5,
+            50
           ],
           "1": [
             0.5,
@@ -341,24 +341,22 @@
     "id": "BABY_YETI",
     "name": "Baby Yeti",
     "tiers": {
-      "EPIC": {
+      "COMMON": {
         "texture": "ewogICJ0aW1lc3RhbXAiIDogMTU5NTM1NjY0MjQwNSwKICAicHJvZmlsZUlkIiA6ICI3NTJkODM0NDViMDA0OTIwODMwYTE4MGVhNTVmMzNhMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWxZZXRpIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VmOWY2YTU3ZDhmNjg2ZmVkZDUxODVkMTc4NTUwOTEzZjQ4ZjkxYjU3YzkxNjJkNzBkMzY4YjFmZDlmZTJiNTIiCiAgICB9CiAgfQp9",
         "lore": [
           "§8Fishing Pet",
           "",
           "§7Strength: §c{STRENGTH}",
-          "§7Intelligence: §b{INTELLIGENCE}",
+          "§7Fishing Speed: §b{FISHING_SPEED}",
+          "§7Sea Creature Chance: §3{SEA_CREATURE_CHANCE}%",
           "",
-          "§6Cold Breeze",
-          "§7Gives §a{0} §c❁ Strength §7and §9☠ Crit",
-          "§9Damage §7when near snow",
-          "",
-          "§6Ice Shields",
-          "§7Gain §a{1}% §7of your §c❁ Strength §7as §a❈",
-          "§aDefense§7.",
+          "§6Yeti Fury",
+          "§7Buffs the §6Yeti Sword §7by §a{0} §c❁",
+          "§cDamage §7and §b✎ Intelligence §7and",
+          "§7reduces its cooldown by §a{1}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§f§lCOMMON"
         ],
         "variables": {
           "0": [
@@ -366,16 +364,69 @@
             50
           ],
           "1": [
+            0.2,
+            20
+          ],
+          "STRENGTH": [
             0.5,
             50
           ],
-          "INTELLIGENCE": [
+          "FISHING_SPEED": [
+            0.5,
+            50
+          ],
+          "SEA_CREATURE_CHANCE": [
+            0.05,
+            5
+          ]
+        }
+      },
+      "EPIC": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTU5NTM1NjY0MjQwNSwKICAicHJvZmlsZUlkIiA6ICI3NTJkODM0NDViMDA0OTIwODMwYTE4MGVhNTVmMzNhMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWxZZXRpIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VmOWY2YTU3ZDhmNjg2ZmVkZDUxODVkMTc4NTUwOTEzZjQ4ZjkxYjU3YzkxNjJkNzBkMzY4YjFmZDlmZTJiNTIiCiAgICB9CiAgfQp9",
+        "lore": [
+          "§8Fishing Pet",
+          "",
+          "§7Strength: §c{STRENGTH}",
+          "§7Fishing Speed: §b{FISHING_SPEED}",
+          "§7Sea Creature Chance: §3{SEA_CREATURE_CHANCE}%",
+          "",
+          "§6Yeti Fury",
+          "§7Buffs the §6Yeti Sword §7by §a{0} §c❁ Damage",
+          "§7and §b✎ Intelligence §7and reduces its",
+          "§7cooldown by §a{1}%§7.",
+          "",
+          "§6Cold Breeze",
+          "§7Increases §cCombat Stats §7and §bFishing",
+          "§bStats §7by §a{2}% §7while on §cJerry's",
+          "§cWorkshop§7.",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§5§lEPIC"
+        ],
+        "variables": {
+          "0": [
+            1,
+            100
+          ],
+          "1": [
+            0.5,
+            50
+          ],
+          "2": [
+            0.2,
+            20
+          ],
+          "STRENGTH": [
             0.75,
             75
           ],
-          "STRENGTH": [
-            0.4,
-            40
+          "FISHING_SPEED": [
+            0.5,
+            50
+          ],
+          "SEA_CREATURE_CHANCE": [
+            0.05,
+            5
           ]
         }
       },
@@ -385,42 +436,54 @@
           "§8Fishing Pet",
           "",
           "§7Strength: §c{STRENGTH}",
-          "§7Intelligence: §b{INTELLIGENCE}",
-          "",
-          "§6Cold Breeze",
-          "§7Gives §a{0} §c❁ Strength §7and §9☠ Crit",
-          "§9Damage §7when near snow",
-          "",
-          "§6Ice Shields",
-          "§7Gain §a{1}% §7of your §c❁ Strength §7as §a❈",
-          "§aDefense§7.",
+          "§7Fishing Speed: §b{FISHING_SPEED}",
+          "§7Sea Creature Chance: §3{SEA_CREATURE_CHANCE}%",
           "",
           "§6Yeti Fury",
-          "§7Buffs the §6Yeti Sword §7by §a{2} §c❁ Damage",
-          "§7and §b✎ Intelligence§7.",
+          "§7Buffs the §6Yeti Sword §7by §a{0} §c❁ Damage",
+          "§7and §b✎ Intelligence §7and reduces its",
+          "§7cooldown by §a{1}%§7.",
           "",
+          "§6Cold Breeze",
+          "§7Increases §cCombat Stats §7and §bFishing",
+          "§bStats §7by §a{2}% §7while on §cJerry's",
+          "§cWorkshop§7.",
+          "",
+          "§6Frosty Familiarity",
+          "§7Grants §b+{3}✯ Magic Find §7against",
+          "§fWinter Sea Creatures§7.",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
         ],
         "variables": {
           "0": [
-            0.5,
-            50
-          ],
-          "1": [
-            0.8,
-            75
-          ],
-          "2": [
             1,
             100
           ],
-          "INTELLIGENCE": [
+          "1": [
+            0.5,
+            50
+          ],
+          "2": [
+            0.2,
+            20
+          ],
+          "3": [
+            0.1,
+            10
+          ],
+          "STRENGTH": [
             0.75,
             75
           ],
-          "STRENGTH": [
-            0.4,
-            40
+          "FISHING_SPEED": [
+            0.5,
+            50
+          ],
+          "SEA_CREATURE_CHANCE": [
+            0.05,
+            5
           ]
         }
       }
@@ -926,21 +989,9 @@
             0.1,
             10
           ],
-          "MINING_WISDOM": [
-            0.2,
-            20
-          ],
           "STRENGTH": [
             5.25,
             30
-          ],
-          "FARMING_WISDOM": [
-            0.2,
-            20
-          ],
-          "FORAGING_WISDOM": [
-            0.2,
-            20
           ],
           "FARMING_FORTUNE": [
             0.2,
@@ -1011,18 +1062,6 @@
           ],
           "STRENGTH": [
             5.25,
-            30
-          ],
-          "MINING_WISDOM": [
-            0.3,
-            30
-          ],
-          "FARMING_WISDOM": [
-            0.3,
-            30
-          ],
-          "FORAGING_WISDOM": [
-            0.3,
             30
           ],
           "FARMING_FORTUNE": [
@@ -1103,18 +1142,6 @@
             5.25,
             30
           ],
-          "MINING_WISDOM": [
-            0.3,
-            30
-          ],
-          "FARMING_WISDOM": [
-            0.3,
-            30
-          ],
-          "FORAGING_WISDOM": [
-            0.3,
-            30
-          ],
           "FARMING_FORTUNE": [
             0.3,
             30
@@ -1170,10 +1197,6 @@
           "STRENGTH": [
             0.25,
             25
-          ],
-          "SPEED": [
-            0.75,
-            75
           ]
         }
       },
@@ -1220,10 +1243,6 @@
           "STRENGTH": [
             0.25,
             25
-          ],
-          "SPEED": [
-            0.75,
-            75
           ]
         }
       },
@@ -1278,10 +1297,6 @@
           "STRENGTH": [
             0.25,
             35
-          ],
-          "SPEED": [
-            0.75,
-            75
           ]
         }
       },
@@ -1344,10 +1359,6 @@
           "STRENGTH": [
             0.25,
             35
-          ],
-          "SPEED": [
-            0.75,
-            75
           ]
         }
       },
@@ -1964,14 +1975,6 @@
           "2": [
             20,
             20
-          ],
-          "3": [
-            0.2,
-            20
-          ],
-          "DEFENSE": [
-            25,
-            25
           ],
           "HEALTH": [
             2,
@@ -2987,10 +2990,6 @@
             0.4,
             40
           ],
-          "2": [
-            5,
-            5
-          ],
           "CRIT_DAMAGE": [
             0.75,
             75
@@ -3024,10 +3023,6 @@
           "1": [
             0.5,
             50
-          ],
-          "2": [
-            5,
-            5
           ],
           "CRIT_DAMAGE": [
             0.75,
@@ -3413,10 +3408,6 @@
           "2": [
             0.3,
             30
-          ],
-          "3": [
-            0.1,
-            10
           ],
           "CRIT_CHANCE": [
             0.1,
@@ -4353,7 +4344,7 @@
           "§7Next Upgrade: §a+30❈ §7& §f+3❂ §8(§a0§7/§c100§8)",
           "",
           "§6Blaze Slayer",
-          "§7Gain §b1.45x §7Combat XP against §aBlazes§7.",
+          "§7Gain §b{0}x §7Combat XP against §aBlazes§7.",
           "",
           "§6Extinguish",
           "§7While in combat on the Crimson Isle,",
@@ -4517,10 +4508,6 @@
           "1": [
             1,
             100
-          ],
-          "2": [
-            0.01,
-            1
           ],
           "MINING_SPEED": [
             1.25,
@@ -5490,10 +5477,6 @@
             0.2,
             6
           ],
-          "1": [
-            0.25,
-            25
-          ],
           "DEFENSE": [
             0.5,
             50
@@ -6025,8 +6008,8 @@
         "lore": [
           "§8Combat Mount",
           "",
-          "§7Intelligence: §b+0.5",
-          "§7Speed: §f+0.25",
+          "§7Intelligence: §b{INTELLIGENCE}",
+          "§7Speed: §f{SPEED}",
           "",
           "§6Ridable",
           "§7Right-click your summoned pet to",
@@ -6446,14 +6429,6 @@
           "§f§lCOMMON"
         ],
         "variables": {
-          "0": [
-            50,
-            50
-          ],
-          "1": [
-            100,
-            100
-          ],
           "INTELLIGENCE": [
             -1,
             -100
@@ -6479,14 +6454,6 @@
           "§a§lUNCOMMON"
         ],
         "variables": {
-          "0": [
-            50,
-            50
-          ],
-          "1": [
-            100,
-            100
-          ],
           "INTELLIGENCE": [
             -1,
             -100
@@ -6512,14 +6479,6 @@
           "§9§lRARE"
         ],
         "variables": {
-          "0": [
-            50,
-            50
-          ],
-          "1": [
-            100,
-            100
-          ],
           "INTELLIGENCE": [
             -1,
             -100
@@ -6545,14 +6504,6 @@
           "§5§lEPIC"
         ],
         "variables": {
-          "0": [
-            50,
-            50
-          ],
-          "1": [
-            100,
-            100
-          ],
           "INTELLIGENCE": [
             -1,
             -100
@@ -6583,14 +6534,6 @@
         ],
         "variables": {
           "0": [
-            50,
-            50
-          ],
-          "1": [
-            100,
-            100
-          ],
-          "2": [
             0,
             10
           ],
@@ -7552,10 +7495,6 @@
             0.5,
             50
           ],
-          "MINING_SPEED": [
-            0.25,
-            25
-          ],
           "MINING_FORTUNE": [
             0.25,
             25
@@ -7585,10 +7524,6 @@
           "TRUE_DEFENSE": [
             0.5,
             50
-          ],
-          "MINING_SPEED": [
-            0.25,
-            25
           ],
           "MINING_FORTUNE": [
             0.25,
@@ -7628,10 +7563,6 @@
             0.5,
             50
           ],
-          "MINING_SPEED": [
-            0.25,
-            25
-          ],
           "MINING_FORTUNE": [
             0.25,
             25
@@ -7669,10 +7600,6 @@
           "TRUE_DEFENSE": [
             0.5,
             50
-          ],
-          "MINING_SPEED": [
-            0.25,
-            25
           ],
           "MINING_FORTUNE": [
             0.25,
@@ -7719,10 +7646,6 @@
           "TRUE_DEFENSE": [
             0.5,
             50
-          ],
-          "MINING_SPEED": [
-            0.25,
-            25
           ],
           "MINING_FORTUNE": [
             0.25,
@@ -7776,10 +7699,6 @@
           "TRUE_DEFENSE": [
             0.5,
             50
-          ],
-          "MINING_SPEED": [
-            0.25,
-            25
           ],
           "MINING_FORTUNE": [
             0.25,
@@ -8953,12 +8872,12 @@
             40
           ],
           "SPEED": [
-            0.25,
-            25
+            0.15,
+            15
           ],
           "POTATO_FORTUNE": [
-            0,
-            0
+            0.2,
+            20
           ]
         }
       },
@@ -8987,16 +8906,16 @@
             40
           ],
           "1": [
-            0.4,
-            40
+            0.04,
+            4
           ],
           "SPEED": [
-            0.25,
-            25
+            0.15,
+            15
           ],
           "POTATO_FORTUNE": [
-            0,
-            0
+            0.2,
+            20
           ]
         }
       },
@@ -9030,11 +8949,11 @@
           ],
           "SPEED": [
             0.15,
-            1
+            15
           ],
           "POTATO_FORTUNE": [
             0.2,
-            0.2
+            20
           ]
         }
       },
@@ -9079,7 +8998,7 @@
           ],
           "POTATO_FORTUNE": [
             0.2,
-            0.2
+            20
           ]
         }
       }
@@ -9717,9 +9636,9 @@
           "§7Gain §ddouble §7pet §aEXP§7.",
           "",
           "§6Infused",
-          "§7Gives §b+{0}☂ Fishing Speed §7and §3+10α",
-          "§3Sea Creature Chance §7while on",
-          "§cJerry's Workshop§7.",
+          "§7Gives §b+{0}☂ Fishing Speed §7and §6+5⛃",
+          "§6Treasure Chance §7while on §cJerry's",
+          "§cWorkshop§7.",
           "",
           "§6Snow Power",
           "§7Grants §a+{1}% §7bonus gift chance",
@@ -12163,10 +12082,6 @@
             0.3,
             30
           ],
-          "2": [
-            10,
-            10
-          ],
           "FEROCITY": [
             0.25,
             25
@@ -12212,10 +12127,6 @@
           "1": [
             0.6,
             55
-          ],
-          "2": [
-            10,
-            10
           ],
           "FEROCITY": [
             0.25,
@@ -13024,10 +12935,6 @@
             0.1,
             10
           ],
-          "2": [
-            10,
-            10
-          ],
           "CRIT_DAMAGE": [
             0.1,
             10
@@ -13075,10 +12982,6 @@
           "1": [
             0.1,
             15
-          ],
-          "2": [
-            10,
-            10
           ],
           "CRIT_DAMAGE": [
             0.1,

@@ -14601,8 +14601,10 @@
     "levels": [
       {
         "level": 4,
-        "literal_level": "IV",
+        "literal_level": "Anvil",
         "lore": [
+          "",
+          "§d§lHabanero Tactics IV",
           "§8ℏ §7Heal §a+6% §7more from wands.",
           "§8ℏ §7Deal §c+20% damage §7with Slayer weapons.",
           "§8ℏ §7Gain §3+2.5☯ Combat Wisdom §7with Slayer",
@@ -14612,9 +14614,6 @@
           "",
           "§cYou can only have 1 Ultimate",
           "§cEnchantment on an item!",
-          "",
-          "§7Use this on an item in an Anvil to",
-          "§7apply it!",
           "",
           "§6Source:",
           "§aIV-V: §7Chili Pepper Collection",
@@ -14627,8 +14626,10 @@
       },
       {
         "level": 5,
-        "literal_level": "V",
+        "literal_level": "Anvil",
         "lore": [
+          "",
+          "§d§lHabanero Tactics V",
           "§8ℏ §7Heal §a+7.5% §7more from wands.",
           "§8ℏ §7Deal §c+25% damage §7with Slayer weapons.",
           "§8ℏ §7Gain §3+5☯ Combat Wisdom §7with Slayer",
@@ -14638,9 +14639,6 @@
           "",
           "§cYou can only have 1 Ultimate",
           "§cEnchantment on an item!",
-          "",
-          "§7Use this on an item in an Anvil",
-          "§7to apply it!",
           "",
           "§6Source:",
           "§aIV-V: §7Chili Pepper Collection",
@@ -14652,7 +14650,7 @@
         ]
       }
     ],
-    "name": "Habanero Tactics",
+    "name": "Combinable in",
     "isUltimate": true
   },
   "ULTIMATE_INFERNO": {

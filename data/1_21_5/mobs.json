@@ -162,11 +162,11 @@
   "AMELIA_NPC": {
     "island": "hub",
     "position": {
-      "x": -45,
-      "y": 87,
-      "z": -5
+      "x": -16,
+      "y": 74,
+      "z": -69
     },
-    "texture": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmQ1OTU1Y2M1YWY2ZmEzMzkwZGYzNmM5YTIzYTMyNjRjODQyNjk5MWU3NTMzYWQyZDA4MWY0MWVhMTMwYzYzYiJ9fX0=",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmQ1OTU1Y2M1YWY2ZmEzMzkwZGYzNmM5YTIzYTMyNjRjODQyNjk5MWU3NTMzYWQyZDA4MWY0MWVhMTMwYzYzYiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIwOGZhNzE5ODg0OGIyMzRkYWQ1YThlOWZmYTk0ODI4MyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzc0MTUzOTc2Nzg0fQ==",
     "name": "Amelia"
   },
   "ANDREW_NPC": {
@@ -1058,11 +1058,11 @@
   "CHRISTOPHER_NPC": {
     "island": "hub",
     "position": {
-      "x": -59,
-      "y": 90,
-      "z": -16
+      "x": -15,
+      "y": 75,
+      "z": -76
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk4N2I4OTUyYmUyYTI5YTU3ZDdmMGU3ODhmNzlmY2ZkYzFmYmQyNWZmZWMwMTJmYmZlZjM0ZDdiZTQ2MzliNDkifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg3Yjg5NTJiZTJhMjlhNTdkN2YwZTc4OGY3OWZjZmRjMWZiZDI1ZmZlYzAxMmZiZmVmMzRkN2JlNDYzOWI0OSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIxMzM2MzQxNWM4ODMyMzM4ODM2MjBlODcxNTQ4ZDdjZCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzc0MTUzOTc4NTc2fQ==",
     "name": "Christopher"
   },
   "CHUNK_NPC": {
@@ -2036,7 +2036,13 @@
     "name": "Frozen Adventurer"
   },
   "FROZEN_ALEX_NPC": {
-    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTM5MTIzODU5NiwKICAicHJvZmlsZUlkIiA6ICIwODFiZTAxZmZlMmU0ODMyODI3MDIwMjBlNmI1M2ExNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMeXJpY1BsYXRlMjUyNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTlhOWViMWZiYTU2Y2Q0NjIxYTVmN2Y2Mjk3OTNjYzFkMzYxODA4N2VlYTM2ZTE4YTUwYjVjOWFkYjNkNmE4NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "island": "winter",
+    "position": {
+      "x": -43,
+      "y": 84,
+      "z": -1
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTlhOWViMWZiYTU2Y2Q0NjIxYTVmN2Y2Mjk3OTNjYzFkMzYxODA4N2VlYTM2ZTE4YTUwYjVjOWFkYjNkNmE4NyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJiOGY3NGU1ZGE5MmUyYzk3YTNhNjdkMGJiYmI0YzExNyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzc0OTcxMjE5NDAzfQ==",
     "name": "Frozen Alex"
   },
   "FROZEN_STEVE_SC": {
@@ -2244,7 +2250,7 @@
     "name": "Grandma Wolf"
   },
   "GRAVEL_SKELETON_MONSTER": {
-    "name": "Gravel Skeleton"
+    "name": "Flint Skeleton"
   },
   "GREAT_WHITE_SHARK_SC": {
     "texture": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzdlYjEyMTAyYjcxNmU2Y2ZkNWIzMWY2ZDhkNjE1YTE0MDQxOTg3MzYyNmEwZjM2MDk1N2UyZjUwN2IifX19",
@@ -4745,6 +4751,7 @@
       "y": 73,
       "z": 175
     },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmMwMWIyMTM1NzRmNjMwNjE2ZGQwMGI3YTNiYzYxNzc0ZmQ3ZDQ2NzEzNjQ3NmJkN2I3YTk5ZWMyNWVlMjc1NyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI5ZmZmZjkyMGIwMGEyMWI5YjdhMTM0MGJlMjEyNTU2MyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzc0MDQ0NzUzODQ2fQ==",
     "name": "Shifty"
   },
   "SHY_MONSTER": {
@@ -5151,11 +5158,11 @@
   "TERRY_NPC": {
     "island": "winter",
     "position": {
-      "x": -92,
-      "y": 79,
-      "z": 26
+      "x": -93,
+      "y": 78,
+      "z": 25
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzljM2I3MjI0MmYzOGIxNWMxMzEyZmFjODRlN2NjNzMzMjkyMzZkMjAyMThlMGFiNzhkMDhlMmFjNDc4MDZhNDgifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzljM2I3MjI0MmYzOGIxNWMxMzEyZmFjODRlN2NjNzMzMjkyMzZkMjAyMThlMGFiNzhkMDhlMmFjNDc4MDZhNDgiLCJtZXRhZGF0YSI6e319fSwicHJvZmlsZUlkIjoiNWU2MWUwNDk2MTMwMmY5MGEyNmFkMTQ3MzU4M2E3MzMiLCJwcm9maWxlTmFtZSI6Im5lYTg5IiwiaXNQdWJsaWMiOnRydWUsInRpbWVzdGFtcCI6MTc3NDk3MTIxMTc3MX0=",
     "name": "Terry"
   },
   "THE_HANDLER_NPC": {

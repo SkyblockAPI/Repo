@@ -7430,6 +7430,38 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "WALNUT",
+        "count": 4
+      },
+      {
+        "id": "ICE_HUNK",
+        "count": 16
+      },
+      {
+        "id": "HILT_OF_TRUE_ICE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      1,
+      2,
+      1,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "BLIZZARD_BOTTLE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "WATER_LILY",
         "count": 1
       },
@@ -21683,30 +21715,6 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "HUGE_MUSHROOM_1",
-        "count": 64
-      }
-    ],
-    "pattern": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "result": {
-      "id": "ENCHANTED_HUGE_MUSHROOM_1",
-      "count": 1
-    }
-  },
-  {
-    "type": "crafting",
-    "keys": [
-      {
         "id": "ENCHANTED_RED_MUSHROOM",
         "count": 32
       }
@@ -21721,30 +21729,6 @@
       -1,
       0,
       -1
-    ],
-    "result": {
-      "id": "ENCHANTED_HUGE_MUSHROOM_2",
-      "count": 1
-    }
-  },
-  {
-    "type": "crafting",
-    "keys": [
-      {
-        "id": "HUGE_MUSHROOM_2",
-        "count": 64
-      }
-    ],
-    "pattern": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
     ],
     "result": {
       "id": "ENCHANTED_HUGE_MUSHROOM_2",
@@ -50180,6 +50164,23 @@
     }
   },
   {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "FULL_CHUM_BUCKET",
+        "count": 64
+      },
+      {
+        "id": "GLOWING_MUSHROOM",
+        "count": 32
+      }
+    ],
+    "result": {
+      "id": "MUSHED_MUSHROOM_MIXIN",
+      "count": 1
+    }
+  },
+  {
     "type": "forge",
     "inputs": [
       {
@@ -59080,6 +59081,20 @@
     ],
     "result": {
       "id": "RIFT_BUCKET",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "MOTE",
+        "count": 5000
+      }
+    ],
+    "result": {
+      "id": "SUPER_SCORCHER",
       "count": 1
     }
   },
@@ -70002,6 +70017,56 @@
       {
         "type": "currency",
         "currency": "COPPER",
+        "count": 5000
+      }
+    ],
+    "result": {
+      "id": "COPPER_TALISMAN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 20000
+      },
+      {
+        "id": "COPPER_TALISMAN",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "COPPER_RING",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 50000
+      },
+      {
+        "id": "COPPER_RING",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "COPPER_ARTIFACT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
         "count": 300
       }
     ],
@@ -71548,20 +71613,6 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 2000000
-      }
-    ],
-    "result": {
-      "id": "REFORGE_ANVIL",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
         "count": 50000
       }
     ],
@@ -72268,6 +72319,42 @@
     ],
     "result": {
       "id": "SNOW_GENERATOR_9",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "WALNUT",
+        "count": 8
+      },
+      {
+        "id": "CRYOPOWDER_SHARD",
+        "count": 1
+      },
+      {
+        "id": "SNOW_BLASTER",
+        "count": 1
+      },
+      {
+        "id": "HILT_OF_TRUE_ICE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      0,
+      2,
+      0,
+      0,
+      3,
+      0
+    ],
+    "result": {
+      "id": "SNOW_HOWITZER",
       "count": 1
     }
   },
@@ -83191,7 +83278,7 @@
       },
       {
         "id": "ENCHANTED_HUGE_MUSHROOM_1",
-        "count": 64
+        "count": 14
       },
       {
         "id": "ENCHANTED_RABBIT_HIDE",
@@ -86222,7 +86309,7 @@
       }
     ],
     "coins": 0,
-    "time": 43200,
+    "time": 86400,
     "result": {
       "id": "WILL_O_WISP",
       "count": 1
