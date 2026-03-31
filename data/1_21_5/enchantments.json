@@ -14601,8 +14601,9 @@
     "levels": [
       {
         "level": 4,
-        "literal_level": "Anvil",
+        "literal_level": "IV",
         "lore": [
+          "§8Combinable in Anvil",
           "",
           "§d§lHabanero Tactics IV",
           "§8ℏ §7Heal §a+6% §7more from wands.",
@@ -14626,8 +14627,9 @@
       },
       {
         "level": 5,
-        "literal_level": "Anvil",
+        "literal_level": "V",
         "lore": [
+          "§8Combinable in Anvil",
           "",
           "§d§lHabanero Tactics V",
           "§8ℏ §7Heal §a+7.5% §7more from wands.",
@@ -14650,7 +14652,7 @@
         ]
       }
     ],
-    "name": "Combinable in",
+    "name": "Habanero Tactics",
     "isUltimate": true
   },
   "ULTIMATE_INFERNO": {
