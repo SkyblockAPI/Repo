@@ -17,8 +17,23 @@ export const Enchantments = {
             level: enchantLevel
         }
 
-        item.displayname = item.lore[0]
-        item.lore.shift()
+        // This is kinda ugly but needed since the neu repo contains both new and old books.
+        let displayName = "";
+        let isLegacy = true;
+
+        for (let line of item.lore) {
+            const strippedLine = line.replace(/(§.)+/, "");
+            if (strippedLine.startsWith("Combinable in Anvil")) {
+                isLegacy = false;
+                continue;
+            }
+            if (strippedLine.trim().length === 0) continue;
+            displayName = line;
+            break;
+        }
+
+        item.displayname = displayName
+        if (isLegacy) item.lore.shift()
 
         enchantmentIds.push(enchantId)
         const enchant = enchantmentFile[enchantId] || {
