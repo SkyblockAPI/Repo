@@ -486,6 +486,71 @@
             5
           ]
         }
+      },
+      "MYTHIC": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTU5NTM1NjY0MjQwNSwKICAicHJvZmlsZUlkIiA6ICI3NTJkODM0NDViMDA0OTIwODMwYTE4MGVhNTVmMzNhMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWxZZXRpIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VmOWY2YTU3ZDhmNjg2ZmVkZDUxODVkMTc4NTUwOTEzZjQ4ZjkxYjU3YzkxNjJkNzBkMzY4YjFmZDlmZTJiNTIiCiAgICB9CiAgfQp9",
+        "lore": [
+          "§8Fishing Pet",
+          "",
+          "§7Strength: §c{STRENGTH}",
+          "§7Fishing Speed: §b{FISHING_SPEED}",
+          "§7Sea Creature Chance: §3{SEA_CREATURE_CHANCE}%",
+          "§7Cold Resistance: §b{COLD_RESISTANCE}",
+          "",
+          "§6Yeti Fury",
+          "§7Buffs the §6Yeti Sword §7by §a{0} §c❁ Damage",
+          "§7and §b✎ Intelligence §7and reduces its",
+          "§7cooldown by §a{1}%§7.",
+          "",
+          "§6Cold Breeze",
+          "§7Increases §cCombat Stats §7and §bFishing",
+          "§bStats §7by §a{2}% §7while on §cJerry's",
+          "§cWorkshop§7.",
+          "",
+          "§6Frosty Familiarity",
+          "§7Grants §b+{3}✯ Magic Find §7against",
+          "§fWinter Sea Creatures§7.",
+          "",
+          "§6Family Gathering",
+          "§7Grants §d10❃ Tracking §7while on",
+          "§cJerry's Workshop§7.",
+          "",
+          "§d§lMYTHIC"
+        ],
+        "variables": {
+          "0": [
+            1,
+            100
+          ],
+          "1": [
+            0.5,
+            50
+          ],
+          "2": [
+            0.2,
+            20
+          ],
+          "3": [
+            0.1,
+            10
+          ],
+          "STRENGTH": [
+            0.75,
+            75
+          ],
+          "FISHING_SPEED": [
+            0.5,
+            50
+          ],
+          "SEA_CREATURE_CHANCE": [
+            0.05,
+            5
+          ],
+          "COLD_RESISTANCE": [
+            0,
+            10
+          ]
+        }
       }
     }
   },
