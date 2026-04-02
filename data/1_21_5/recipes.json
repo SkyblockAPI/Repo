@@ -3957,6 +3957,29 @@
     "coins": 20000000
   },
   {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BABY_YETI",
+      "tier": "LEGENDARY",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BABY_YETI",
+      "tier": "MYTHIC",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "POCKET_SIZED_IGLOO",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 1000000
+  },
+  {
     "type": "crafting",
     "keys": [
       {
@@ -59117,6 +59140,38 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "HILT_OF_TRUE_ICE",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_PACKED_ICE",
+        "count": 16
+      },
+      {
+        "id": "LITTLEFOOT_FLUFF",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "POCKET_SIZED_IGLOO",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "TUTTI_FRUTTI_POISON",
         "count": 1
       },
@@ -62720,12 +62775,16 @@
         "count": 1
       },
       {
-        "id": "REVENANT_VISCERA",
-        "count": 64
+        "id": "REVENANT_CATALYST",
+        "count": 1
       },
       {
         "id": "REVENANT_BOOTS",
         "count": 1
+      },
+      {
+        "id": "REVENANT_VISCERA",
+        "count": 64
       }
     ],
     "pattern": [
@@ -62736,7 +62795,7 @@
       2,
       0,
       0,
-      1,
+      3,
       0
     ],
     "result": {
@@ -62752,12 +62811,16 @@
         "count": 1
       },
       {
-        "id": "REVENANT_VISCERA",
-        "count": 64
+        "id": "REVENANT_CATALYST",
+        "count": 1
       },
       {
         "id": "REVENANT_CHESTPLATE",
         "count": 1
+      },
+      {
+        "id": "REVENANT_VISCERA",
+        "count": 64
       }
     ],
     "pattern": [
@@ -62768,7 +62831,7 @@
       2,
       0,
       0,
-      1,
+      3,
       0
     ],
     "result": {
@@ -62784,12 +62847,16 @@
         "count": 1
       },
       {
-        "id": "REVENANT_VISCERA",
-        "count": 64
+        "id": "REVENANT_CATALYST",
+        "count": 1
       },
       {
         "id": "REVENANT_LEGGINGS",
         "count": 1
+      },
+      {
+        "id": "REVENANT_VISCERA",
+        "count": 64
       }
     ],
     "pattern": [
@@ -62800,7 +62867,7 @@
       2,
       0,
       0,
-      1,
+      3,
       0
     ],
     "result": {
