@@ -152,7 +152,7 @@ export const Potions = {
             level: potionLevel || undefined,
             literal_level: item.displayname.replaceAll(/^.*?([IV]{1,4}).*?$/g, "$1"),
             lore: item.lore,
-            splash: (meta & 16348) === 16348 ? true : undefined,
+            splash: ((meta & 16348) === 16348) ? true : undefined,
         })
 
         potionFile[potionId] = potion
