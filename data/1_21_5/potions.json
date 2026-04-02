@@ -245,6 +245,7 @@
         "level": 1,
         "literal_level": "I",
         "lore": [
+          "§aAlchemy XP Boost I §f(12:00)",
           "§7Grants §3+5☯ Alchemy Wisdom§7.",
           "",
           "§f§lCOMMON"
@@ -254,6 +255,7 @@
         "level": 2,
         "literal_level": "II",
         "lore": [
+          "§aAlchemy XP Boost II §f(24:00)",
           "§7Grants §3+10☯ Alchemy Wisdom§7.",
           "",
           "§f§lCOMMON"
@@ -263,6 +265,7 @@
         "level": 3,
         "literal_level": "III",
         "lore": [
+          "§aAlchemy XP Boost III §f(36:00)",
           "§7Grants §3+20☯ Alchemy Wisdom§7.",
           "",
           "§a§lUNCOMMON"
@@ -327,6 +330,7 @@
       {
         "literal_level": "§fAwkward Potion",
         "lore": [
+          "§7Use Awkward Potions in Brewing",
           "§7Stands with items labeled as Brewing",
           "§7Ingredients to brew Potions.",
           "",
@@ -901,6 +905,7 @@
         "level": 1,
         "literal_level": "I",
         "lore": [
+          "§aEnchanting XP Boost I §f(12:00)",
           "§7Grants §3+5☯ Enchanting Wisdom§7.",
           "",
           "§f§lCOMMON"
@@ -910,6 +915,7 @@
         "level": 2,
         "literal_level": "II",
         "lore": [
+          "§aEnchanting XP Boost II §f(24:00)",
           "§7Grants §3+10☯ Enchanting Wisdom§7.",
           "",
           "§f§lCOMMON"
@@ -985,6 +991,7 @@
         "level": 1,
         "literal_level": "I",
         "lore": [
+          "§aFarming XP Boost I §f(12:00)",
           "§7Grants §3+5☯ Farming Wisdom§7.",
           "",
           "§f§lCOMMON"
@@ -1041,6 +1048,7 @@
         "level": 1,
         "literal_level": "I",
         "lore": [
+          "§aFishing XP Boost I §f(12:00)",
           "§7Grants §3+5☯ Fishing Wisdom§7.",
           "",
           "§f§lCOMMON"
@@ -1050,6 +1058,7 @@
         "level": 2,
         "literal_level": "II",
         "lore": [
+          "§aFishing XP Boost II §f(24:00)",
           "§7Grants §3+10☯ Fishing Wisdom§7.",
           "",
           "§f§lCOMMON"
@@ -1087,6 +1096,7 @@
         "level": 2,
         "literal_level": "II",
         "lore": [
+          "§aForaging XP Boost II §f(24:00)",
           "§7Grants §3+10☯ Foraging Wisdom§7.",
           "",
           "§f§lCOMMON"
@@ -1114,6 +1124,7 @@
         "level": 5,
         "literal_level": "V",
         "lore": [
+          "§6Harvest Harbinger V §f(25:00)",
           "§7Grants §6+50☘ Farming Fortune§7.",
           "",
           "§9§lRARE"
@@ -1977,6 +1988,7 @@
         "level": 1,
         "literal_level": "I",
         "lore": [
+          "§fSecret I",
           "§7§oAn enigmatic elixir steeped in",
           "§7§omystery. One sip reveals the unseen,",
           "§7§obut be wary, for not all secrets wish",
@@ -2232,6 +2244,7 @@
         "level": 1,
         "literal_level": "I",
         "lore": [
+          "§bSpirit I §f(3:00)",
           "§7Grants §a+10 §f✦ Speed §7and §a+10% §9☠",
           "§9Crit Damage§7.",
           "",
@@ -2838,7 +2851,9 @@
     "levels": [
       {
         "literal_level": "§fWater Bottle",
-        "lore": []
+        "lore": [
+          "§f§lCOMMON"
+        ]
       }
     ],
     "name": "Water Bottle",
