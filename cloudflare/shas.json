@@ -1,13 +1,13 @@
 {
     "1_21_5": {
-        "items": "1557c9ca13e43ad483219f738b4e469b982c2bf4",
-        "pets": "3d5fdc2b91db556292bebaec9efcbf485582265f",
-        "recipes": "c1b921fccf3eb588559dd986642eb302f370c9a6",
+        "items": "9b15b3b1717e8635595897d7a47bb346aa33891f",
+        "pets": "36155395cb24624db5ade17fc67581fb692de47c",
+        "recipes": "4b6e21bc8e4d551461cc899c9fd2fb709595ec36",
         "mobs": "967fc0079e1b782ec7ad6da4497da1252f08d01e",
         "runes": "51f1123631dfe5dfeeb091fc64c4b3151c1f0454",
         "enchantments": "c5c84ed495b62774b20b97887a3c344dea475059",
         "potions": "35c8f1c7f5b28e8a8cfd0c5b1a723981beab8ed0",
-        "attributes": "9692993d4419dcdd2233ea0ca905b1e992d4f017"
+        "attributes": "b8d649972b045b09335253248b2327e4748d5962"
     },
     "constants": "7f5c665a621c2b7b01ee3d0e45167f1e3c625594",
     "reforge_stones": "341dfd16e5027738ee48d0c9083610ae61bca20f"
