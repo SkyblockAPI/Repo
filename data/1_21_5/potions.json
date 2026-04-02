@@ -1962,7 +1962,8 @@
           "§7spawning §bPuffs §7more often.",
           "",
           "§f§lCOMMON"
-        ]
+        ],
+        "splash": true
       }
     ],
     "type": "POTION",
@@ -2776,7 +2777,8 @@
           "§7and §f+25❂ True Defense§7.",
           "",
           "§f§lCOMMON"
-        ]
+        ],
+        "splash": true
       }
     ],
     "type": "POTION",
