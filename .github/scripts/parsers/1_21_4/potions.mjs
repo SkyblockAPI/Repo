@@ -135,7 +135,8 @@ export const Potions = {
 
         let meta = item.damage ?? 0
 
-        item.lore.shift()
+        if (item.lore[0].trim() === "")
+            item.lore.shift()
 
 
         potionIds.push(potionId)
