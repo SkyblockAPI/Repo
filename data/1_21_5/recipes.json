@@ -50860,7 +50860,63 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "BROWN_MUSHROOM",
+        "count": 10
+      },
+      {
+        "id": "WOOD_HOE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "MUSHROOM_GENERATOR_1",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_RED_MUSHROOM",
+        "count": 32
+      },
+      {
+        "id": "MUSHROOM_GENERATOR_9",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "MUSHROOM_GENERATOR_10",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_BROWN_MUSHROOM",
         "count": 32
       },
       {
@@ -50916,7 +50972,63 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "ENCHANTED_BROWN_MUSHROOM",
+        "count": 64
+      },
+      {
+        "id": "MUSHROOM_GENERATOR_10",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "MUSHROOM_GENERATOR_11",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "RED_MUSHROOM",
+        "count": 20
+      },
+      {
+        "id": "MUSHROOM_GENERATOR_1",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "MUSHROOM_GENERATOR_2",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "BROWN_MUSHROOM",
         "count": 20
       },
       {
@@ -50972,7 +51084,63 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "BROWN_MUSHROOM",
+        "count": 40
+      },
+      {
+        "id": "MUSHROOM_GENERATOR_2",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "MUSHROOM_GENERATOR_3",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "RED_MUSHROOM",
+        "count": 64
+      },
+      {
+        "id": "MUSHROOM_GENERATOR_3",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "MUSHROOM_GENERATOR_4",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "BROWN_MUSHROOM",
         "count": 64
       },
       {
@@ -51028,7 +51196,63 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "ENCHANTED_BROWN_MUSHROOM",
+        "count": 1
+      },
+      {
+        "id": "MUSHROOM_GENERATOR_4",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "MUSHROOM_GENERATOR_5",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_RED_MUSHROOM",
+        "count": 2
+      },
+      {
+        "id": "MUSHROOM_GENERATOR_5",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "MUSHROOM_GENERATOR_6",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_BROWN_MUSHROOM",
         "count": 2
       },
       {
@@ -51084,6 +51308,34 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "ENCHANTED_BROWN_MUSHROOM",
+        "count": 4
+      },
+      {
+        "id": "MUSHROOM_GENERATOR_6",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "MUSHROOM_GENERATOR_7",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_RED_MUSHROOM",
         "count": 8
       },
@@ -51112,7 +51364,63 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "ENCHANTED_BROWN_MUSHROOM",
+        "count": 8
+      },
+      {
+        "id": "MUSHROOM_GENERATOR_7",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "MUSHROOM_GENERATOR_8",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_RED_MUSHROOM",
+        "count": 16
+      },
+      {
+        "id": "MUSHROOM_GENERATOR_8",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "MUSHROOM_GENERATOR_9",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_BROWN_MUSHROOM",
         "count": 16
       },
       {
