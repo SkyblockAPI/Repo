@@ -1318,25 +1318,26 @@
           "",
           "§7Strength: §c{STRENGTH}",
           "§7Health: §c{HEALTH}",
+          "§7Speed: §f{SPEED}",
           "",
           "§6Lucky Looting",
-          "§7§7Gain §c{0}% §7more collection",
-          "§7items from any source!",
+          "§7Gain §c{0}% §7more collection items from",
+          "§7any source!",
           "",
           "§6Mountain Climber",
-          "§7§7Gain §c{3}% §7more HOTM Experience.",
+          "§7Gain §c{1}% §7more HOTM Exp.",
           "",
           "§6Fast Learner",
-          "§7§7Gain §c{1}% §7more Skill Experience and",
+          "§7Gain §c{2}% §7more Skill Experience and",
           "§7Slayer Experience",
           "",
           "§6Chimera",
-          "§7§7Increases the base stats of",
-          "§7your active pet by §c{2}%§7.",
+          "§7Increases the base stats of your",
+          "§7active pet by §c{3}%§7.",
           "",
-          "§7§8This pet's perks are active",
-          "§8even when the pet is not",
-          "§8summoned!"
+          "§8This pet's perks are active even",
+          "§8when the pet is not summoned!",
+          ""
         ],
         "variables": {
           "0": [
@@ -1344,16 +1345,16 @@
             25
           ],
           "1": [
+            101.5,
+            250
+          ],
+          "2": [
             5.1,
             15
           ],
-          "2": [
+          "3": [
             10.3,
             40
-          ],
-          "3": [
-            101.5,
-            250
           ],
           "HEALTH": [
             1,
@@ -1362,6 +1363,10 @@
           "STRENGTH": [
             0.25,
             35
+          ],
+          "SPEED": [
+            0.75,
+            75
           ]
         }
       },
@@ -1372,6 +1377,7 @@
           "",
           "§7Strength: §c{STRENGTH}",
           "§7Health: §c{HEALTH}",
+          "§7Speed: §f{SPEED}",
           "",
           "§6Lucky Looting",
           "§7§7Gain §c{0}% §7more collection",
@@ -1424,6 +1430,10 @@
           "STRENGTH": [
             0.25,
             35
+          ],
+          "SPEED": [
+            0.75,
+            75
           ]
         }
       },

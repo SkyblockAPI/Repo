@@ -50059,7 +50059,7 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 1940
+        "count": 2000
       },
       {
         "id": "GLOWING_MUSHROOM",
@@ -50110,6 +50110,23 @@
     "inputs": [
       {
         "id": "FULL_CHUM_BUCKET",
+        "count": 4
+      },
+      {
+        "id": "GLOWING_MUSHROOM",
+        "count": 15
+      }
+    ],
+    "result": {
+      "id": "CHUM_SINKER",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "FULL_CHUM_BUCKET",
         "count": 5
       },
       {
@@ -50144,15 +50161,15 @@
     "inputs": [
       {
         "id": "FULL_CHUM_BUCKET",
-        "count": 4
+        "count": 64
       },
       {
         "id": "GLOWING_MUSHROOM",
-        "count": 15
+        "count": 80
       }
     ],
     "result": {
-      "id": "CHUM_SINKER",
+      "id": "MUSHED_MUSHROOM_MIXIN",
       "count": 1
     }
   },
@@ -50178,28 +50195,11 @@
       },
       {
         "id": "GLOWING_MUSHROOM",
-        "count": 80
-      }
-    ],
-    "result": {
-      "id": "MUSHED_MUSHROOM_MIXIN",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "inputs": [
-      {
-        "id": "FULL_CHUM_BUCKET",
-        "count": 64
-      },
-      {
-        "id": "GLOWING_MUSHROOM",
         "count": 32
       }
     ],
     "result": {
-      "id": "MUSHED_MUSHROOM_MIXIN",
+      "id": "GLOWING_MUSHROOM_CAVE_TRAVEL_SCROLL",
       "count": 1
     }
   },
