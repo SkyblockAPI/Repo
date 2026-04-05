@@ -7774,6 +7774,30 @@
     }
   },
   {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ICE_HUNK",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "BLUE_ICE_HUNK",
+      "count": 1
+    }
+  },
+  {
     "type": "kat",
     "input": {
       "type": "pet",
