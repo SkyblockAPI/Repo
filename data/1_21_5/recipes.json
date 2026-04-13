@@ -11777,6 +11777,25 @@
     }
   },
   {
+    "type": "forge",
+    "inputs": [
+      {
+        "id": "BEJEWELED_HANDLE",
+        "count": 1
+      },
+      {
+        "id": "TUNGSTEN",
+        "count": 64
+      }
+    ],
+    "coins": 0,
+    "time": 14400,
+    "result": {
+      "id": "CHISEL",
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {
