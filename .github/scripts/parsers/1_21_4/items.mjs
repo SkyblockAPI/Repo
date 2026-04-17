@@ -10,8 +10,14 @@ const ignoreDamage = converter.ignore_damage
 
 export const getItemId = (id, damage) => {
     const newId = lookup[`${id}${ignoreDamage.includes(id) || damage === 0 ? "" : `:${damage}`}`];
-    if (newId === undefined) throw new Error(`Unknown item: ${id}:${damage}`)
-    return newId
+
+    if (newId === undefined) {
+        if (Object.values(lookup).includes(id)) {
+            return id;
+        }
+        throw new Error(`Unknown item: ${id}:${damage}`);
+    }
+    return newId;
 }
 
 export const Items = {
@@ -26,10 +32,10 @@ export const Items = {
         itemsFile.push({
             id: getItemId(item.itemid, item.damage),
             components: {
-                'minecraft:attribute_modifiers': { modifiers: [], show_in_tooltip: false },
+                'minecraft:attribute_modifiers': {modifiers: [], show_in_tooltip: false},
                 'minecraft:hide_additional_tooltip': {},
                 'minecraft:custom_data': item.nbt.ExtraAttributes ?? {},
-                'minecraft:unbreakable': isUnbreakable ? { show_in_tooltip: false } : undefined,
+                'minecraft:unbreakable': isUnbreakable ? {show_in_tooltip: false} : undefined,
                 'minecraft:enchantment_glint_override': isGlowing ? true : undefined,
                 'minecraft:custom_name': JSON.stringify(item.displayname),
                 'minecraft:lore': item.lore.map(line => JSON.stringify(line)),
