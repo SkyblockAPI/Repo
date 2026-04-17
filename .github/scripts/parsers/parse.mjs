@@ -1,14 +1,14 @@
 import fs from "fs";
 import {decode} from "../utils/snbt.mjs";
-import {Mc1215} from "./1_21_5/1215.mjs";
-import {Pets} from "./1_21_4/pets.mjs";
-import {Recipes} from "./1_21_4/recipes.mjs";
-import {Mobs} from "./1_21_4/mobs.mjs";
 import {clone} from "./copier.mjs";
-import {Runes} from "./1_21_4/runes.mjs";
-import {Enchantments } from "./1_21_4/enchantments.mjs";
-import {Potions} from "./1_21_4/potions.mjs";
-import { Attributes } from "./1_21_4/attributes.mjs";
+import {Mc1215} from "./1_21_5/1215.mjs";
+import {Pets} from "./1_21_5/pets.mjs";
+import {Recipes} from "./1_21_5/recipes.mjs";
+import {Mobs} from "./1_21_5/mobs.mjs";
+import {Runes} from "./1_21_5/runes.mjs";
+import {Enchantments } from "./1_21_5/enchantments.mjs";
+import {Potions} from "./1_21_5/potions.mjs";
+import { Attributes } from "./1_21_5/attributes.mjs";
 
 const specialItems = JSON.parse(fs.readFileSync(".github/scripts/data/special_items.json", "utf-8"));
 
