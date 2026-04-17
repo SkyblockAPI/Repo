@@ -1557,6 +1557,25 @@
       ]
     }
   ],
+  "RAINBOW_CARPET": [
+    {
+      "tier": 3,
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3NTUxMTQ4OTQ0MCwKICAicHJvZmlsZUlkIiA6ICI0ZmNlNWJhYjJmMjI0MTdjYTk1YWVlYzA4OTRhMTY3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWYWF0d2FzdGFibGV0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZhM2Y4OWVmY2E5ODkwZGQ0ODBjMWQxMzU3YjZhODgxYzNjNGRlZTNjOTk0ZWYwNmUzZTdmODJiMzMyZmY5OWEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "§6◆ §cR§6a§ei§an§bb§9o§dw§6 Carpet Rune III",
+      "lore": [
+        "§8Requires level 0",
+        "§8Boots",
+        "",
+        "§7A small piece of a prism. Obtained",
+        "§7from Fire Sales.",
+        "",
+        "§7Apply this rune to boots or fuse two",
+        "§7together at the Runic Pedestal!",
+        "",
+        "§6§lLEGENDARY COSMETIC"
+      ]
+    }
+  ],
   "RAINBOW": [
     {
       "tier": 1,
