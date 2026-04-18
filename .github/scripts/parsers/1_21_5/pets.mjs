@@ -1,5 +1,5 @@
 import fs from "fs";
-import { checkPetVariables } from "../../tests/pet_variables.test.mjs";
+import {checkPetVariables} from "../../tests/pet_variables.test.mjs";
 
 const RIGHT_CLICK_LORE_1 = "§7§eRight-click to add this pet to your";
 const RIGHT_CLICK_LORE_2 = "§7§eRight-click to add this pet to";

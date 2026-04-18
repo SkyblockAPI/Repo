@@ -10,7 +10,7 @@ export const Mobs = {
 
         mobsFile[realId] = {
             island: item.island,
-            position: item.x && item.y && item.z ? { x: item.x, y: item.y, z: item.z } : undefined,
+            position: item.x && item.y && item.z ? {x: item.x, y: item.y, z: item.z} : undefined,
             texture: item.nbt.SkullOwner?.Properties?.textures[0]?.Value,
             name: realName
         }
