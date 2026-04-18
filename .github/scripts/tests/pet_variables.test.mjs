@@ -1,4 +1,3 @@
-
 const variableRegex = /\{([A-Z0-9_]+)}/g;
 
 /**

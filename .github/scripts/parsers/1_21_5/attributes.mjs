@@ -1,5 +1,5 @@
 import fs from "fs";
-import { getItemId } from "./items.mjs";
+import {getItemId} from "./items.mjs";
 import {NeuData} from "../../utils/common_neu_data.mjs";
 
 const attributesFile = [];
@@ -31,7 +31,7 @@ export const Attributes = {
             newLore.push(element)
         });
 
-        
+
         const lastLine = newLore.at(-1).replace(/.*?§8\(ID (.*?)\)/, "$1");
         const rarity = newLore.pop();
         newLore.push(rarity.substring(0, rarity.lastIndexOf("§")).trim())
