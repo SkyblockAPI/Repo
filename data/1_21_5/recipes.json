@@ -44811,6 +44811,73 @@
     "type": "shop",
     "inputs": [
       {
+        "id": "FISHY_TREAT",
+        "count": 128
+      }
+    ],
+    "result": {
+      "type": "pet",
+      "pet": "SEAL",
+      "tier": "COMMON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "FISHY_TREAT",
+        "count": 64
+      }
+    ],
+    "result": {
+      "id": "SMALL_SEAL_PLUSHIE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "FISHY_TREAT",
+        "count": 128
+      }
+    ],
+    "result": {
+      "id": "MEDIUM_SEAL_PLUSHIE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "FISHY_TREAT",
+        "count": 256
+      }
+    ],
+    "result": {
+      "id": "LARGE_SEAL_PLUSHIE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "FISHY_TREAT",
+        "count": 512
+      }
+    ],
+    "result": {
+      "id": "GIANT_SEAL_PLUSHIE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
         "type": "currency",
         "currency": "COIN",
         "count": 25
@@ -67555,6 +67622,98 @@
       "id": "SCYLLA",
       "count": 1
     }
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SEAL",
+      "tier": "COMMON",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SEAL",
+      "tier": "UNCOMMON",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "SMALL_SEAL_PLUSHIE",
+        "count": 1
+      }
+    ],
+    "time": 60,
+    "coins": 100
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SEAL",
+      "tier": "UNCOMMON",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SEAL",
+      "tier": "RARE",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "MEDIUM_SEAL_PLUSHIE",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 10000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SEAL",
+      "tier": "RARE",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SEAL",
+      "tier": "EPIC",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "LARGE_SEAL_PLUSHIE",
+        "count": 1
+      }
+    ],
+    "time": 86400,
+    "coins": 250000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SEAL",
+      "tier": "EPIC",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SEAL",
+      "tier": "LEGENDARY",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "GIANT_SEAL_PLUSHIE",
+        "count": 1
+      }
+    ],
+    "time": 259200,
+    "coins": 500000
   },
   {
     "type": "crafting",
