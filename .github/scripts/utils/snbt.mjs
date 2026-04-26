@@ -110,6 +110,8 @@ export const decode = (input) => {
         reader.readIf('L');
         reader.readIf('f');
         reader.readIf('F');
+        reader.readIf('d');
+        reader.readIf('D');
         return parseFloat(digits);
     }
 }
