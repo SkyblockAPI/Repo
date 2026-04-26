@@ -128,11 +128,11 @@
   "ALDA_NPC": {
     "island": "hub",
     "position": {
-      "x": 66,
-      "y": 71,
+      "x": 71,
+      "y": 80,
       "z": -59
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGI1NjQ3ZjkzZmQ4ZTFkYTljZGIxNTFkZDliZGY0ZjQ4YmI1OWExZDExNzQ4ZjE5MThjMTM2Yzg2ODA0YjIiLCJtZXRhZGF0YSI6e319fSwicHJvZmlsZUlkIjoiYjgwYzcxZGExMGE4MmI0NThjYTliYjg0N2ZiNjIxNGQiLCJwcm9maWxlTmFtZSI6Im5lYTg5IiwiaXNQdWJsaWMiOnRydWUsInRpbWVzdGFtcCI6MTc1NjgyMjM4Njc0Mn0=",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGI1NjQ3ZjkzZmQ4ZTFkYTljZGIxNTFkZDliZGY0ZjQ4YmI1OWExZDExNzQ4ZjE5MThjMTM2Yzg2ODA0YjIiLCJtZXRhZGF0YSI6e319fSwicHJvZmlsZUlkIjoiN2Q3YTZmNDRmMTg2MjU0MGI2M2M0MDcxYjRhOWE2Y2QiLCJwcm9maWxlTmFtZSI6Im5lYTg5IiwiaXNQdWJsaWMiOnRydWUsInRpbWVzdGFtcCI6MTc3NzA5ODQ3MjM3NH0=",
     "name": "Alda"
   },
   "ALLIGATOR_SC": {
@@ -2831,11 +2831,11 @@
   "KARIS_NPC": {
     "island": "hub",
     "position": {
-      "x": 66,
-      "y": 72,
-      "z": -65
+      "x": 65,
+      "y": 81,
+      "z": -60
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTRmOTA3N2IyNjU3ZTRkOGU3OTliZTFhMGZiYzFiYmY3NjY0MzIxMjg2NGYxMjVhZjQwOGZhMjk0NDc5ZWY1YSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIxZjJiNmQzYjcxNmIyNjRmOTg4Y2FkMjIyN2Y3Yzg2OCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzU2ODIyNDAxMjMwfQ==",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTRmOTA3N2IyNjU3ZTRkOGU3OTliZTFhMGZiYzFiYmY3NjY0MzIxMjg2NGYxMjVhZjQwOGZhMjk0NDc5ZWY1YSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI2MzUyYTMzNWNhNTUyNGU0YTU3MWVhZWZiZWFkMDkyOCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzc3MDk4NDcwNzQwfQ==",
     "name": "Karis"
   },
   "KAT_NPC": {
@@ -3173,11 +3173,11 @@
   "LUKAS_THE_AQUARIST_NPC": {
     "island": "hub",
     "position": {
-      "x": -17,
-      "y": 69,
-      "z": -106
+      "x": 16,
+      "y": 71,
+      "z": -9
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJhYWJmN2IzMDBmNzQ2ZjRjNGEyOGVhYTEzMjg1ZmRmMTIzZWRmNmEwOThiODZkYWI4MTUwMWNlNjA0N2JkNWMifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmFhYmY3YjMwMGY3NDZmNGM0YTI4ZWFhMTMyODVmZGYxMjNlZGY2YTA5OGI4NmRhYjgxNTAxY2U2MDQ3YmQ1YyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJmNGQ5NTNkMDUxMTAyZDdlOWVhYjdlZWI5YzdmNDRlMiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzc3MDk4ODI5OTYzfQ==",
     "name": "Lukas the Aquarist"
   },
   "LUMBER_JACK_NPC": {
