@@ -1220,6 +1220,93 @@
             30
           ]
         }
+      },
+      "MYTHIC": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYyODg3Nzg1NTc5NCwKICAicHJvZmlsZUlkIiA6ICI3MzgyZGRmYmU0ODU0NTVjODI1ZjkwMGY4OGZkMzJmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdUlJZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2U5NDE5ODdlODI1YTI0ZWE3YmFhZmFiOTgxOTM0NGI2YzI0N2M3NWM1NGE2OTE5ODdjZDI5NmJjMTYzYzI2MyIKICAgIH0KICB9Cn0=",
+        "lore": [
+          "§8Farming Pet",
+          "",
+          "§7Strength: §c{STRENGTH}",
+          "§7Intelligence: §b{INTELLIGENCE}",
+          "§7Speed: §f{SPEED}",
+          "§7Mining Fortune: §6{MINING_FORTUNE}",
+          "§7Foraging Fortune: §6{FORAGING_FORTUNE}",
+          "§7Farming Fortune: §6{FARMING_FORTUNE}",
+          "",
+          "§6Hive",
+          "§7For each player within §a25 §7blocks:",
+          " §b+{0}✎ Intelligence",
+          " §c+{1}❁ Strength",
+          " §a+{2}❈ Defense",
+          "§8Max 15 players",
+          "",
+          "§6Busy Buzz Buzz",
+          "§7Grants §a+{3} §7of each to your pet:",
+          "§6☘ Farming Fortune",
+          "§6☘ Foraging Fortune",
+          "§6☘ Mining Fortune",
+          "",
+          "§6Weaponized Honey",
+          "§7Gain §a{4}% §7of received damage as §6❤",
+          "§6Absorption§7.",
+          "",
+          "§6Powered by Pollen",
+          "§7Grants §6+{5}☘ Sunflower§7,",
+          "§6Moonflower§7, and §6Wild Rose Fortune",
+          "§7while in §aThe Garden§7.",
+          "",
+          "§d§lMYTHIC"
+        ],
+        "variables": {
+          "0": [
+            1.09,
+            10
+          ],
+          "1": [
+            1.07,
+            8
+          ],
+          "2": [
+            1.04,
+            5
+          ],
+          "3": [
+            0.4,
+            40
+          ],
+          "4": [
+            0.2,
+            25
+          ],
+          "5": [
+            1.6,
+            160
+          ],
+          "INTELLIGENCE": [
+            0.5,
+            50
+          ],
+          "SPEED": [
+            0.1,
+            10
+          ],
+          "STRENGTH": [
+            5.25,
+            30
+          ],
+          "FARMING_FORTUNE": [
+            0.4,
+            40
+          ],
+          "FORAGING_FORTUNE": [
+            0.4,
+            40
+          ],
+          "MINING_FORTUNE": [
+            0.4,
+            40
+          ]
+        }
       }
     }
   },
@@ -2970,6 +3057,59 @@
           "2": [
             1.5,
             150
+          ],
+          "HEALTH": [
+            1,
+            100
+          ],
+          "INTELLIGENCE": [
+            0.75,
+            75
+          ]
+        }
+      },
+      "MYTHIC": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYwMTkzMTMzMDk5MSwKICAicHJvZmlsZUlkIiA6ICJkOWQ2YTNjZDQ0ZWI0MjBlYWM2MTA2ZmQyMTNmZGRiYSIsCiAgInByb2ZpbGVOYW1lIiA6ICI5VDkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGVmOGVmZWE0NTA2MzJkMjc1M2EzOGEyM2E0ZjE1MDJhOGE2ODVmNmU5OWJmNjkyMDVlYzA0NDIwZmQ2NGY2IgogICAgfQogIH0KfQ==",
+        "lore": [
+          "§8Farming Pet",
+          "",
+          "§7Health: §c{HEALTH}",
+          "§7Intelligence: §b{INTELLIGENCE}",
+          "",
+          "§6Stomp",
+          "§7Gain §a{0}❈ Defense §7for every 100 §f✦",
+          "§fSpeed§7.",
+          "",
+          "§6Walking Fortress",
+          "§7Gain §c{1}❤ Health §7for every 10 §a❈",
+          "§aDefense§7.",
+          "",
+          "§6Trunk Efficiency",
+          "§7Grants §6+{2} ☘ Farming Fortune§7, which",
+          "§7increases your chance for multiple",
+          "§7drops.",
+          "",
+          "§6Abundant Harvest",
+          "§7Earn §2+{3}% Sowdust §7while farming.",
+          "",
+          "§d§lMYTHIC"
+        ],
+        "variables": {
+          "0": [
+            0.2,
+            20
+          ],
+          "1": [
+            0.01,
+            1
+          ],
+          "2": [
+            1.5,
+            150
+          ],
+          "3": [
+            0.15,
+            15
           ],
           "HEALTH": [
             1,
@@ -9990,17 +10130,15 @@
           "§aFarming §7level.",
           "",
           "§6Rosy Scales",
-          "§7Grants §6+{1}☘ Farming Fortune",
-          "§7and §f+{2}✦ Speed §7per Crop",
-          "§7Milestone.",
+          "§7Grants §6{1}☘ Farming Fortune §7and",
+          "§f{2}✦ Speed §7per Crop Milestone.",
           "",
           "§6Dragon's Gluttony",
-          "§7Increases the chance to drop rare",
-          "§7items when breaking crops by §a{3}%§7.",
+          "§7Grants §e{3}☀ Overbloom§7.",
           "",
           "§6Spiritual Perfection",
           "§7Gain §a{4}% §7more §cCopper §7from §aGarden",
-          "§aVisitors §7and from analyzing §eMutations§7.",
+          "§aVisitors §7and from analyzing §cMutations§7.",
           "",
           "§6Symbiosis",
           "§7If you own a level §a200 Rose Dragon§7,",

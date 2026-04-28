@@ -3844,6 +3844,35 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "DESIGNER_COFFEE_BEANS",
+        "count": 4
+      },
+      {
+        "id": "DEVOURER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "GROOVY_RADAR",
+      "count": 8
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_MANGROVE_LOG",
         "count": 8
       },
@@ -5855,6 +5884,29 @@
     ],
     "time": 259200,
     "coins": 450000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BEE",
+      "tier": "LEGENDARY",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BEE",
+      "tier": "MYTHIC",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "ROYAL_JELLY",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 10000000
   },
   {
     "type": "forge",
@@ -8693,6 +8745,36 @@
     }
   },
   {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_PAPER",
+        "count": 1
+      },
+      {
+        "id": "DESIGNER_COFFEE_BEANS",
+        "count": 8
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      0,
+      -1,
+      0,
+      1
+    ],
+    "result": {
+      "type": "enchantment",
+      "id": "BUG_BLENDER",
+      "level": 1,
+      "count": 1
+    }
+  },
+  {
     "type": "shop",
     "inputs": [
       {
@@ -9059,6 +9141,42 @@
     ],
     "result": {
       "id": "BURSTSTOPPER_TALISMAN",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "CHEESEBITE",
+        "count": 1
+      },
+      {
+        "id": "SALTED_SUNFLOWER_SEEDS",
+        "count": 64
+      },
+      {
+        "id": "JUKEBOX",
+        "count": 1
+      },
+      {
+        "id": "BOTROOT",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      1,
+      2,
+      1,
+      3,
+      3,
+      3
+    ],
+    "result": {
+      "id": "BUZZYBEES_FANTABULOUS_DISCO_DESTINATION",
       "count": 1
     }
   },
@@ -9703,6 +9821,146 @@
     }
   },
   {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 120
+      }
+    ],
+    "result": {
+      "id": "SCARECROW",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "WEAPON_RACK",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "ARMOR_SHOWCASE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 150
+      }
+    ],
+    "result": {
+      "id": "FANCY_FLOWER_POT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10000
+      }
+    ],
+    "result": {
+      "id": "ENCHANTING_PLUS",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10000
+      }
+    ],
+    "result": {
+      "id": "CRAFTING_PLUS",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 15000
+      }
+    ],
+    "result": {
+      "id": "FURNACE_PLUS",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 15000
+      }
+    ],
+    "result": {
+      "id": "WOOD_CHEST",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10000
+      }
+    ],
+    "result": {
+      "id": "FIREPLACE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 15000
+      }
+    ],
+    "result": {
+      "id": "CHEST_SHELVES",
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {
@@ -10143,6 +10401,34 @@
     ],
     "result": {
       "id": "CARROT_BAIT",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "CARROT_ZEST",
+        "count": 3
+      },
+      {
+        "id": "ENCHANTED_OAK_LOG",
+        "count": 3
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      1,
+      -1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "result": {
+      "id": "CARROT_COLORED_VINYL_SET",
       "count": 1
     }
   },
@@ -10897,6 +11183,34 @@
       "type": "enchantment",
       "id": "CAYENNE",
       "level": 4,
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "FEAST_FLASK",
+        "count": 1
+      },
+      {
+        "id": "GLASS_BOTTLE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      1,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "CELESTIAL_MASON_JAR",
       "count": 1
     }
   },
@@ -11773,25 +12087,6 @@
     ],
     "result": {
       "id": "ANTI_SENTIENT_PICKAXE",
-      "count": 1
-    }
-  },
-  {
-    "type": "forge",
-    "inputs": [
-      {
-        "id": "BEJEWELED_HANDLE",
-        "count": 1
-      },
-      {
-        "id": "TUNGSTEN",
-        "count": 64
-      }
-    ],
-    "coins": 0,
-    "time": 14400,
-    "result": {
-      "id": "CHISEL",
       "count": 1
     }
   },
@@ -13731,6 +14026,34 @@
     "result": {
       "id": "COOKIE",
       "count": 8
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "CORNUCOPIA",
+        "count": 8
+      },
+      {
+        "id": "FARM_CRYSTAL",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "CORNUCOPIA_CRYSTAL",
+      "count": 1
     }
   },
   {
@@ -18654,6 +18977,29 @@
     "items": [],
     "time": 864000,
     "coins": 14000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ELEPHANT",
+      "tier": "LEGENDARY",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ELEPHANT",
+      "tier": "MYTHIC",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "TRUNK_POLISH",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 12500000
   },
   {
     "type": "shop",
@@ -23601,6 +23947,30 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "TURBO_GOURD",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "ENCHANTED_TURBO_GOURD",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "UMBER",
         "count": 32
       }
@@ -26420,6 +26790,164 @@
     ],
     "result": {
       "id": "ECHOLOCATOR",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "KERNEL",
+        "count": 25
+      }
+    ],
+    "result": {
+      "id": "FRESHLY_BAKED_TALISMAN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "KERNEL",
+        "count": 100
+      },
+      {
+        "id": "FRESHLY_BAKED_TALISMAN",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "FRESHLY_BAKED_RING",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "KERNEL",
+        "count": 250
+      },
+      {
+        "id": "FRESHLY_BAKED_RING",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "FRESHLY_BAKED_ARTIFACT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "KERNEL",
+        "count": 500
+      },
+      {
+        "id": "FRESHLY_BAKED_ARTIFACT",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "FRESHLY_BAKED_RELIC",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "KERNEL",
+        "count": 1000
+      },
+      {
+        "id": "FRESHLY_BAKED_RELIC",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "FRESHLY_BAKED_HEIRLOOM",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "KERNEL",
+        "count": 50
+      }
+    ],
+    "result": {
+      "id": "FINNS_FOCACCIA",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "KERNEL",
+        "count": 25
+      }
+    ],
+    "result": {
+      "type": "enchantment",
+      "id": "FEAST",
+      "level": 1,
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "KERNEL",
+        "count": 500
+      }
+    ],
+    "result": {
+      "id": "TEDS_CONTACT_BAKED_IN_BREAD",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "KERNEL",
+        "count": 500
+      }
+    ],
+    "result": {
+      "id": "SCOTTS_CONTACT_BAKED_IN_BREAD",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "KERNEL",
+        "count": 10000
+      }
+    ],
+    "result": {
+      "id": "BREAD_BOWL",
       "count": 1
     }
   },
@@ -30023,20 +30551,6 @@
     }
   },
   {
-    "type": "shop",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "FOSSIL_DUST",
-        "count": 500
-      }
-    ],
-    "result": {
-      "id": "SUSPICIOUS_SCRAP",
-      "count": 1
-    }
-  },
-  {
     "type": "crafting",
     "keys": [
       {
@@ -30069,6 +30583,34 @@
     ],
     "result": {
       "id": "FOUR_EYED_FISH",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "FEASTFUNGUS",
+        "count": 2
+      },
+      {
+        "id": "ENCHANTED_HUGE_MUSHROOM_1",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "FRAGRANCED_BROWN_MUSHROOM_PASTE",
       "count": 1
     }
   },
@@ -30498,6 +31040,34 @@
     ],
     "result": {
       "id": "FULL_CHUM_BUCKET",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "FEASTFUNGUS",
+        "count": 32
+      },
+      {
+        "id": "ENCHANTED_HUGE_MUSHROOM_2",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      0,
+      1,
+      -1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "FUNGAL_TIP_JAR",
       "count": 1
     }
   },
@@ -35195,6 +35765,38 @@
     ],
     "result": {
       "id": "HARD_STONE_GENERATOR_9",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "DEEPFRIES",
+        "count": 2
+      },
+      {
+        "id": "SUNFLOWER_OIL",
+        "count": 4
+      },
+      {
+        "id": "ENCHANTED_BAKED_POTATO",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      1,
+      2,
+      1,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "HASHBROWN",
       "count": 1
     }
   },
@@ -40306,6 +40908,34 @@
     ],
     "result": {
       "id": "JACK_O_LANTERN",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "BOTROOT",
+        "count": 8
+      },
+      {
+        "id": "JACOBS_TICKET",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      0,
+      0,
+      -1,
+      0,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "JACOBS_PARTICIPATION_MEDAL",
       "count": 1
     }
   },
@@ -48589,6 +49219,38 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "MELON_JUICE",
+        "count": 16
+      },
+      {
+        "id": "SOGGYBUD",
+        "count": 2
+      },
+      {
+        "id": "GLASS_BOTTLE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1,
+      -1,
+      2,
+      -1
+    ],
+    "result": {
+      "id": "MELON_JUICE_MIXIN",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_MELON_BLOCK",
         "count": 5
       }
@@ -50429,6 +51091,34 @@
     "items": [],
     "time": 1036800,
     "coins": 17000000
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "CRYSTALIZED_MOONLIGHT",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_ENDSTONE",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      0,
+      1,
+      0,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "MOONDEW",
+      "count": 1
+    }
   },
   {
     "type": "crafting",
@@ -53115,6 +53805,34 @@
     ],
     "result": {
       "id": "NOT_DEADGEHOG_MASK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "CORNUCOPIA",
+        "count": 4
+      },
+      {
+        "id": "FINE_FLOUR",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "NOT_VERY_MOLDY_BREAD",
       "count": 1
     }
   },
@@ -55929,6 +56647,38 @@
     ],
     "result": {
       "id": "OVERFLUX_POWER_ORB",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "AGGOURDIAN",
+        "count": 2
+      },
+      {
+        "id": "ENCHANTED_SUGAR",
+        "count": 64
+      },
+      {
+        "id": "GLASS_BOTTLE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      2,
+      0
+    ],
+    "result": {
+      "id": "OVERPRICED_DRINK",
       "count": 1
     }
   },
@@ -59590,6 +60340,34 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "CARROT_ZEST",
+        "count": 4
+      },
+      {
+        "id": "CARROT_BAIT",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "POIGNANT_CARROT_BAIT",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "TUTTI_FRUTTI_POISON",
         "count": 1
       },
@@ -60132,6 +60910,42 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "THORNSHADE",
+        "count": 1
+      },
+      {
+        "id": "CACTUS_FLOWER",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_CACTUS",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_CLAY_BLOCK",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      1,
+      2,
+      1,
+      -1,
+      3,
+      -1
+    ],
+    "result": {
+      "id": "POTTED_CACTUS",
+      "count": 60
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "PAPER",
         "count": 8
       },
@@ -60659,6 +61473,38 @@
     ],
     "result": {
       "id": "PRESUMED_GALLON_OF_RED_PAINT",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "CACTUS_FLOWER",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_CACTUS",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_GUNPOWDER",
+        "count": 64
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "result": {
+      "id": "PRICKLY_CREEPER",
       "count": 1
     }
   },
@@ -64742,6 +65588,34 @@
     }
   },
   {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "FOSSIL_DUST",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "SUSPICIOUS_SCRAP",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "FOSSIL_DUST",
+        "count": 5
+      }
+    ],
+    "result": {
+      "id": "CHISEL",
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {
@@ -66356,6 +67230,34 @@
     ],
     "result": {
       "id": "ROSEWATER_FLASK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "FLORAL_GELATIN",
+        "count": 16
+      },
+      {
+        "id": "JELLY",
+        "count": 64
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "ROYAL_JELLY",
       "count": 1
     }
   },
@@ -70975,6 +71877,20 @@
       {
         "type": "currency",
         "currency": "COPPER",
+        "count": 500
+      }
+    ],
+    "result": {
+      "id": "FARMING_TOOLKIT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
         "count": 1000
       }
     ],
@@ -73399,7 +74315,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_SUGAR_CANE",
+        "id": "ENCHANTED_SUGAR",
         "count": 1
       }
     ],
@@ -73423,7 +74339,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_SUGAR_CANE",
+        "id": "ENCHANTED_SUGAR",
         "count": 1
       }
     ],
@@ -73447,7 +74363,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_SUGAR_CANE",
+        "id": "ENCHANTED_SUGAR",
         "count": 1
       }
     ],
@@ -73471,7 +74387,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_SUGAR_CANE",
+        "id": "ENCHANTED_SUGAR",
         "count": 1
       }
     ],
@@ -73516,6 +74432,38 @@
     ],
     "result": {
       "id": "SPEED_ARTIFACT",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_SUGAR_CANE",
+        "count": 64
+      },
+      {
+        "id": "CANE_KNOT",
+        "count": 16
+      },
+      {
+        "id": "SPEED_ARTIFACT",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "SPEED_RELIC",
       "count": 1
     }
   },
@@ -78815,6 +79763,42 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "ENCHANTED_BLAZE_POWDER",
+        "count": 4
+      },
+      {
+        "id": "SALTED_SUNFLOWER_SEEDS",
+        "count": 4
+      },
+      {
+        "id": "ENCHANTED_PACKED_ICE",
+        "count": 4
+      },
+      {
+        "id": "BOWL",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      2,
+      0,
+      1,
+      2,
+      -1,
+      3,
+      -1
+    ],
+    "result": {
+      "id": "SUNFLOWER_BUTTER",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "DOUBLE_PLANT",
         "count": 16
       },
@@ -80870,6 +81854,70 @@
     "keys": [
       {
         "id": "JACOBS_TICKET",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_SUGAR_CANE",
+        "count": 10
+      },
+      {
+        "id": "THEORETICAL_HOE_CANE_1",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "THEORETICAL_HOE_CANE_2",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "JACOBS_TICKET",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_SUGAR_CANE",
+        "count": 10
+      },
+      {
+        "id": "THEORETICAL_HOE_CANE_1",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "THEORETICAL_HOE_CANE_2",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "JACOBS_TICKET",
         "count": 64
       },
       {
@@ -81398,6 +82446,134 @@
     ],
     "result": {
       "id": "THEORETICAL_HOE_WILD_ROSE_3",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "CANE_KNOT",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_SUGAR_CANE",
+        "count": 64
+      },
+      {
+        "id": "SPEEDSTER_BOOTS",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "THERMODYNAMIC_BOOTS",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "CANE_KNOT",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_SUGAR_CANE",
+        "count": 64
+      },
+      {
+        "id": "SPEEDSTER_CHESTPLATE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "THERMODYNAMIC_CHESTPLATE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "CANE_KNOT",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_SUGAR_CANE",
+        "count": 64
+      },
+      {
+        "id": "SPEEDSTER_HELMET",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "THERMODYNAMIC_HELMET",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "CANE_KNOT",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_SUGAR_CANE",
+        "count": 64
+      },
+      {
+        "id": "SPEEDSTER_LEGGINGS",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "THERMODYNAMIC_LEGGINGS",
       "count": 1
     }
   },
@@ -82947,6 +84123,38 @@
     }
   },
   {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "MELON_JUICE",
+        "count": 32
+      },
+      {
+        "id": "CREAMBLOOM",
+        "count": 1
+      },
+      {
+        "id": "GLASS_BOTTLE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "TRUNK_POLISH",
+      "count": 1
+    }
+  },
+  {
     "type": "shop",
     "inputs": [
       {
@@ -83093,6 +84301,42 @@
     ],
     "result": {
       "id": "TURBO_FISHING_NET",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "AGGOURDIAN",
+        "count": 2
+      },
+      {
+        "id": "GLOOMGOURD",
+        "count": 2
+      },
+      {
+        "id": "SQUASH",
+        "count": 2
+      },
+      {
+        "id": "POLISHED_PUMPKIN",
+        "count": 2
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      1,
+      -1,
+      2,
+      -1,
+      3,
+      -1
+    ],
+    "result": {
+      "id": "TURBO_GOURD",
       "count": 1
     }
   },
@@ -84031,6 +85275,34 @@
     "time": 10800,
     "result": {
       "id": "UMBER_PLATE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_SUGAR",
+        "count": 64
+      },
+      {
+        "id": "CANE_KNOT",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "UNALLOYED_SPEED",
       "count": 1
     }
   },

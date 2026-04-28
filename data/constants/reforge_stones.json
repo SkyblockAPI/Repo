@@ -108,7 +108,7 @@
     "internalName": "BLESSED_FRUIT",
     "reforgeName": "Blessed",
     "reforgeType": "blacksmith/reforge_stone",
-    "itemTypes": "AXE/HOE",
+    "itemTypes": "FARMING_TOOL",
     "requiredRarities": [
       "COMMON",
       "UNCOMMON",
@@ -126,12 +126,11 @@
       "MYTHIC": 10000
     },
     "reforgeAbility": {
-      "COMMON": "Grants §6+5☘ Farming Fortune §7and §3+1☯ Farming Wisdom§7.",
-      "UNCOMMON": "Grants §6+7☘ Farming Fortune §7and §3+2☯ Farming Wisdom§7.",
-      "RARE": "Grants §6+9☘ Farming Fortune §7and §3+3☯ Farming Wisdom§7.",
-      "EPIC": "Grants §6+13☘ Farming Fortune §7and §3+4☯ Farming Wisdom§7.",
-      "LEGENDARY": "Grants §6+16☘ Farming Fortune §7and §3+5☯ Farming Wisdom§7.",
-      "MYTHIC": "Grants §6+20☘ Farming Fortune §7and §3+6☯ Farming Wisdom§7."
+      "COMMON": "§7Grants a §a0.1% §7chance to drop an §7enchanted item when mining §6Crops§7.",
+      "UNCOMMON": "§7Grants a §a0.13% §7chance to drop an §7enchanted item when mining §6Crops§7.",
+      "RARE": "§7Grants a §a0.16% §7chance to drop an §7enchanted item when mining §6Crops§7.",
+      "EPIC": "§7Grants a §a0.19% §7chance to drop an §7enchanted item when mining §6Crops§7.",
+      "LEGENDARY": "§7Grants a §a0.22% §7chance to drop an §7enchanted item when mining §6Crops§7."
     },
     "reforgeStats": {
       "COMMON": {
@@ -1543,7 +1542,7 @@
     "internalName": "GOLDEN_BALL",
     "reforgeName": "Bountiful",
     "reforgeType": "blacksmith/reforge_stone",
-    "itemTypes": "AXE/HOE",
+    "itemTypes": "FARMING_TOOL",
     "requiredRarities": [
       "COMMON",
       "UNCOMMON",
@@ -1560,14 +1559,7 @@
       "LEGENDARY": 300000,
       "MYTHIC": 600000
     },
-    "reforgeAbility": {
-      "COMMON": "§7Grants §a+1 §6☘ Farming §6Fortune§7, which increases your chance for multiple crops. Grants §6+0.2 coins §7per crop.",
-      "UNCOMMON": "§7Grants §a+2 §6☘ Farming §6Fortune§7, which increases your chance for multiple crops. Grants §6+0.2 coins §7per crop.",
-      "RARE": "§7Grants §a+3 §6☘ Farming §6Fortune§7, which increases your chance for multiple crops. Grants §6+0.2 coins §7per crop.",
-      "EPIC": "§7Grants §a+5 §6☘ Farming §6Fortune§7, which increases your chance for multiple crops. Grants §6+0.2 coins §7per crop.",
-      "LEGENDARY": "§7Grants §a+7 §6☘ Farming §6Fortune§7, which increases your chance for multiple crops. Grants §6+0.2 coins §7per crop.",
-      "MYTHIC": "§7Grants §a+10 §6☘ Farming §6Fortune§7, which increases your chance for multiple crops. Grants §6+0.2 coins §7per crop."
-    },
+    "reforgeAbility": "§7Grants §6+0.2 coins §7per crop.",
     "reforgeStats": {
       "COMMON": {
         "speed": 1,
@@ -1640,6 +1632,50 @@
       "MYTHIC": {
         "sea_creature_chance": 7,
         "strength": 12
+      }
+    }
+  },
+  "HASHBROWN": {
+    "internalName": "HASHBROWN",
+    "reforgeName": "Deep Fried",
+    "reforgeType": "blacksmith/reforge_stone",
+    "itemTypes": "FARMING_TOOL",
+    "requiredRarities": [
+      "COMMON",
+      "UNCOMMON",
+      "RARE",
+      "EPIC",
+      "LEGENDARY"
+    ],
+    "reforgeCosts": {
+      "COMMON": 20000,
+      "UNCOMMON": 40000,
+      "RARE": 80000,
+      "EPIC": 150000,
+      "LEGENDARY": 300000
+    },
+    "reforgeAbility": {
+      "COMMON": "§7Increases the odds of finding §2Seasonings by §a+5%§7.",
+      "UNCOMMON": "§7Increases the odds of finding §2Seasonings by §a+10%§7.",
+      "RARE": "§7Increases the odds of finding §2Seasonings by §a+15%§7.",
+      "EPIC": "§7Increases the odds of finding §2Seasonings by §a+20%§7.",
+      "LEGENDARY": "§7Increases the odds of finding §2Seasonings by §a+25%§7."
+    },
+    "reforgeStats": {
+      "COMMON": {
+        "farming_fortune": 3
+      },
+      "UNCOMMON": {
+        "farming_fortune": 6
+      },
+      "RARE": {
+        "farming_fortune": 10
+      },
+      "EPIC": {
+        "farming_fortune": 15
+      },
+      "LEGENDARY": {
+        "farming_fortune": 20
       }
     }
   },
@@ -1905,47 +1941,37 @@
     "internalName": "LARGE_WALNUT",
     "reforgeName": "Earthy",
     "reforgeType": "blacksmith/reforge_stone",
-    "itemTypes": "AXE",
+    "itemTypes": "FARMING_TOOL",
     "requiredRarities": [
       "COMMON",
       "UNCOMMON",
       "RARE",
       "EPIC",
-      "LEGENDARY",
-      "MYTHIC"
+      "LEGENDARY"
     ],
     "reforgeCosts": {
       "COMMON": 5000,
       "UNCOMMON": 10000,
       "RARE": 20000,
       "EPIC": 50000,
-      "LEGENDARY": 100000,
-      "MYTHIC": 200000
+      "LEGENDARY": 100000
     },
+    "reforgeAbility": "§7Earn §2+5% Sowdust §7from farming.",
     "reforgeStats": {
       "COMMON": {
-        "speed": 1,
-        "farming_fortune": 1
+        "farming_fortune": 5
       },
       "UNCOMMON": {
-        "speed": 1,
-        "farming_fortune": 4
-      },
-      "RARE": {
-        "speed": 1,
-        "farming_fortune": 6
-      },
-      "EPIC": {
-        "speed": 1,
-        "farming_fortune": 8
-      },
-      "LEGENDARY": {
-        "speed": 1,
         "farming_fortune": 10
       },
-      "MYTHIC": {
-        "speed": 1,
-        "farming_fortune": 12
+      "RARE": {
+        "farming_fortune": 15
+      },
+      "EPIC": {
+        "farming_fortune": 20
+      },
+      "LEGENDARY": {
+        "farming_fortune": 25
       }
     }
   },
@@ -2551,6 +2577,55 @@
         "strength": 34,
         "crit_chance": 15,
         "crit_damage": 70
+      }
+    }
+  },
+  "OVERPRICED_DRINK": {
+    "internalName": "OVERPRICED_DRINK",
+    "reforgeName": "Overpriced",
+    "reforgeType": "blacksmith/reforge_stone",
+    "itemTypes": "FARMING_TOOL",
+    "requiredRarities": [
+      "COMMON",
+      "UNCOMMON",
+      "RARE",
+      "EPIC",
+      "LEGENDARY"
+    ],
+    "reforgeCosts": {
+      "COMMON": 20000,
+      "UNCOMMON": 40000,
+      "RARE": 80000,
+      "EPIC": 150000,
+      "LEGENDARY": 300000
+    },
+    "reforgeAbility": {
+      "COMMON": "§7Grants §e+1☀ Overbloom§7.",
+      "UNCOMMON": "§7Grants §e+2☀ Overbloom§7.",
+      "RARE": "§7Grants §e+3☀ Overbloom§7.",
+      "EPIC": "§7Grants §e+5☀ Overbloom§7.",
+      "LEGENDARY": "§7Grants §e+7☀ Overbloom§7."
+    },
+    "reforgeStats": {
+      "COMMON": {
+        "farming_fortune": 5,
+        "overbloom": 1
+      },
+      "UNCOMMON": {
+        "farming_fortune": 10,
+        "overbloom": 2
+      },
+      "RARE": {
+        "farming_fortune": 15,
+        "overbloom": 3
+      },
+      "EPIC": {
+        "farming_fortune": 20,
+        "overbloom": 5
+      },
+      "LEGENDARY": {
+        "farming_fortune": 25,
+        "overbloom": 7
       }
     }
   },
