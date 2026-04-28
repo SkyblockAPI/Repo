@@ -7,6 +7,7 @@ export const BITS_ID = "SKYBLOCK_BIT";
 export const COINS_ID = "SKYBLOCK_COIN";
 export const COPPER_ID = "SKYBLOCK_COPPER";
 export const FOSSIL_DUST_ID = "SKYBLOCK_FOSSIL_DUST";
+export const FOSSIL_DUST_ID_2 = "ESSENCE_FOSSIL";
 export const KERNEL_ID = "SKYBLOCK_KERNEL";
 export const BINGO_POINT = "SKYBLOCK_BINGO_POINT";
 
@@ -32,14 +33,32 @@ export const GEMSTONE_POWDER_ID = "SKYBLOCK_POWDER_GEMSTONE"
 export const GLACITE_POWDER_ID = "SKYBLOCK_POWDER_GLACITE"
 export const MITHRIL_POWDER_ID = "SKYBLOCK_POWDER_MITHRIL"
 
-const currencies = [
-    BITS_ID, COINS_ID, COPPER_ID, FOSSIL_DUST_ID, KERNEL_ID, BINGO_POINT,
-    BRONZE_MEDAL_ID, SILVER_MEDAL_ID, GOLD_MEDAL_ID,
-    MOTES_ID, NORTH_STARS_ID, PELTS_ID, GEMS_ID,
-    CARNIVAL_POINT_ID,
-    ENIGMA_SOUL_ID, PEST_ID, FLY_ID, SPIDER_ID, SILVERFISH_ID,
-    FOREST_WHISPERS_ID, GEMSTONE_POWDER_ID, GLACITE_POWDER_ID, MITHRIL_POWDER_ID
-]
+const currencies = {
+    [BITS_ID]: BITS_ID.substring(9),
+    [COINS_ID]: COINS_ID.substring(9),
+    [COPPER_ID]: COPPER_ID.substring(9),
+    [FOSSIL_DUST_ID]: FOSSIL_DUST_ID.substring(9),
+    [FOSSIL_DUST_ID_2]: FOSSIL_DUST_ID.substring(9),
+    [KERNEL_ID]: KERNEL_ID.substring(9),
+    [BINGO_POINT]: BINGO_POINT.substring(9),
+    [BRONZE_MEDAL_ID]: BRONZE_MEDAL_ID.substring(9),
+    [SILVER_MEDAL_ID]: SILVER_MEDAL_ID.substring(9),
+    [GOLD_MEDAL_ID]: GOLD_MEDAL_ID.substring(9),
+    [MOTES_ID]: MOTES_ID.substring(9),
+    [NORTH_STARS_ID]: NORTH_STARS_ID.substring(9),
+    [PELTS_ID]: PELTS_ID.substring(9),
+    [GEMS_ID]: GEMS_ID.substring(9),
+    [CARNIVAL_POINT_ID]: CARNIVAL_POINT_ID.substring(9),
+    [ENIGMA_SOUL_ID]: ENIGMA_SOUL_ID.substring(9),
+    [PEST_ID]: PEST_ID.substring(9),
+    [FLY_ID]: FLY_ID.substring(9),
+    [SPIDER_ID]: SPIDER_ID.substring(9),
+    [SILVERFISH_ID]: SILVERFISH_ID.substring(9),
+    [FOREST_WHISPERS_ID]: FOREST_WHISPERS_ID.substring(9),
+    [GEMSTONE_POWDER_ID]: GEMSTONE_POWDER_ID.substring(9),
+    [GLACITE_POWDER_ID]: GLACITE_POWDER_ID.substring(9),
+    [MITHRIL_POWDER_ID]: MITHRIL_POWDER_ID.substring(9),
+}
 
 const rarityMap = {
     0: "COMMON",
@@ -80,10 +99,10 @@ export const getResult = (item, count) => {
             id: item.attribute.id,
             count: count
         }
-    } else if (currencies.includes(item.internalname)) {
+    } else if (Object.keys(currencies).includes(item.internalname)) {
         return {
             type: "currency",
-            currency: item.internalname.substring(9),
+            currency: currencies[item.internalname],
             count: count,
         }
     } else if (item.internalname.includes(";")) {
@@ -97,10 +116,10 @@ export const getResult = (item, count) => {
 
 export const getInputs = (item, amount) => {
     amount = parseInt(amount) || 1
-    if (currencies.includes(item)) {
+    if (Object.keys(currencies).includes(item)) {
         return {
             type: "currency",
-            currency: item.substring(9),
+            currency: currencies[item],
             count: amount,
         }
     } else if (item.includes(";")) {
