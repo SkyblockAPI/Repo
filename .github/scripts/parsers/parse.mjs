@@ -32,9 +32,10 @@ for (let file of fs.readdirSync("neu/items")) {
     const data = JSON.parse(fs.readFileSync(`./neu/items/${file}`, "utf-8"));
     data.nbt = decode(data.nbttag);
 
-    if (specialItems.items.includes(data.internalname)) continue;
-
     const attributes = data.nbt.ExtraAttributes;
+
+    if (specialItems.items.includes(data.internalname)) continue;
+    if (specialItems.items.includes(attributes?.id)) continue;
 
     post.push(() => {
         Recipes.parse(data)
