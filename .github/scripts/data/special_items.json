@@ -7,6 +7,7 @@
         "SKYBLOCK_BIT",
         "SKYBLOCK_COIN",
         "SKYBLOCK_COPPER",
+        "SKYBLOCK_KERNEL",
         "SKYBLOCK_FOSSIL_DUST",
         "SKYBLOCK_BINGO_POINT",
 
@@ -27,7 +28,7 @@
         "SKYBLOCK_FLY",
         "SKYBLOCK_SPIDER",
         "SKYBLOCK_SILVERFISH",
-
+        
         "SKYBLOCK_FOREST_WHISPERS",
         "SKYBLOCK_POWDER_GEMSTONE",
         "SKYBLOCK_POWDER_GLACITE",
