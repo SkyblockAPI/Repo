@@ -34342,6 +34342,86 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "VISITORS_GRATITUDE",
+        "count": 2
+      },
+      {
+        "id": "GRATITUDE_RING",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "GRATITUDE_ARTIFACT",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "VISITORS_GRATITUDE",
+        "count": 1
+      },
+      {
+        "id": "GRATITUDE_TALISMAN",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "GRATITUDE_RING",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "VISITORS_GRATITUDE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "GRATITUDE_TALISMAN",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "GRAVEL",
         "count": 10
       },
