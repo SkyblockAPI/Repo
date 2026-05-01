@@ -80288,6 +80288,42 @@
     }
   },
   {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "GODSEED",
+        "count": 1
+      },
+      {
+        "id": "COMPACTED_SUNFLOWER",
+        "count": 64
+      },
+      {
+        "id": "RAY_OF_HELIOS",
+        "count": 1
+      },
+      {
+        "id": "ALL_IN_ALOE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      1,
+      2,
+      1,
+      3,
+      3,
+      3
+    ],
+    "result": {
+      "id": "SUNS_GRASP",
+      "count": 1
+    }
+  },
+  {
     "type": "shop",
     "inputs": [
       {
