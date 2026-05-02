@@ -34863,6 +34863,121 @@
     }
   },
   {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "GRIFFIN",
+      "tier": "COMMON",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "GRIFFIN",
+      "tier": "UNCOMMON",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "GRIFFIN_UPGRADE_STONE_UNCOMMON",
+        "count": 1
+      }
+    ],
+    "time": 60,
+    "coins": 100
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "GRIFFIN",
+      "tier": "UNCOMMON",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "GRIFFIN",
+      "tier": "RARE",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "GRIFFIN_UPGRADE_STONE_RARE",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 10000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "GRIFFIN",
+      "tier": "RARE",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "GRIFFIN",
+      "tier": "EPIC",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "GRIFFIN_UPGRADE_STONE_EPIC",
+        "count": 1
+      }
+    ],
+    "time": 86400,
+    "coins": 250000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "GRIFFIN",
+      "tier": "EPIC",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "GRIFFIN",
+      "tier": "LEGENDARY",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "GRIFFIN_UPGRADE_STONE_LEGENDARY",
+        "count": 1
+      }
+    ],
+    "time": 259200,
+    "coins": 500000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "GRIFFIN",
+      "tier": "LEGENDARY",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "GRIFFIN",
+      "tier": "MYTHIC",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "GRIFFIN_UPGRADE_STONE_MYTHIC",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 1000000
+  },
+  {
     "type": "crafting",
     "keys": [
       {
