@@ -169,17 +169,17 @@
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
       "",
-      "§4❣ §cRequires §aHunting Skill 20§c.",
-      "§6§lLEGENDARY COMBAT SHARD"
+      "§4❣ §cRequires §aHunting Skill 15§c.",
+      "§5§lEPIC COMBAT SHARD"
     ],
-    "attribute_id": "L27",
-    "shard_name": "Burningsoul Shard",
+    "attribute_id": "E29",
+    "shard_name": "Inferno Demonlord Shard",
     "shard_id": "SHARD_BURNINGSOUL",
     "name": "Attack Speed",
     "item": "minecraft:player_head",
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTczMDMyMTMyNTgxNiwKICAicHJvZmlsZUlkIiA6ICJhZWNkODIxZTQyYzE0ZDJlOThmNTA1OTg1MWI5OWMzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb2RyaVgyMDc1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE4MDQ2ZDM4YTk3YzkxZjU5OTQ5ZWE3NDJlZmQ3NDgyN2NjZWRlZmU5ODUyODU1MmNkMzI3YjRiNjFjMzliNWYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
-    "rarity": "LEGENDARY",
-    "max": 24
+    "rarity": "EPIC",
+    "max": 32
   },
   {
     "id": "BATTLE_EXPERIENCE",
@@ -336,12 +336,13 @@
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
       "",
+      "§4❣ §cRequires §aHunting Skill 15§c.",
       "§5§lEPIC COMBAT SHARD"
     ],
     "attribute_id": "E39",
     "shard_name": "Sphinx Shard",
     "shard_id": "SHARD_SPHINX",
-    "name": "Big Game Hunter",
+    "name": "Mythological Tracker",
     "item": "minecraft:player_head",
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2MTE2NTUwODY0MiwKICAicHJvZmlsZUlkIiA6ICJhNjJmNGM0MWY5Y2M0ZDRhOGEyZjFkY2NjZjZkZmE5NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCMDBLWSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNzk5Nzg4MWJkNjkyZjgyYjVjNDYzZmY1NzNjZDQ5ZjMyMzg0MzE1NjFkMWM3YjE0MDFkMjI5YmZiY2EwMmMzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
     "rarity": "EPIC",
@@ -723,9 +724,9 @@
   {
     "id": "CRYSTAL_SERENDIPITY",
     "lore": [
-      "§7Grants a §a+2%§7 chance to double any",
-      "§7loot from §5Crystal Hollows §7Treasure",
-      "§7Chests.",
+      "§6Treasure Chests§7 you find in the",
+      "§5Crystal Hollows§7 have a §a+1%§7 chance",
+      "§7to double their loot.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -1593,7 +1594,7 @@
     "attribute_id": "L9",
     "shard_name": "End Stone Protector Shard",
     "shard_id": "SHARD_ENDSTONE_PROTECTOR",
-    "name": "Paramount Fortitude",
+    "name": "Unlimited Fortitude",
     "item": "minecraft:player_head",
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYyNTY1MTYyNTIwOSwKICAicHJvZmlsZUlkIiA6ICJhMjk1ODZmYmU1ZDk0Nzk2OWZjOGQ4ZGE0NzlhNDNlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaWVydGVsdG9hc3RpaWUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTVmODhmYWQxNDJhMTcxOWEyMjYwZDZjNDY0MjViYjg3ZjUxOTA3NTU5MzE2OTcyMGY4YmJiNDVjYjY2NjY3YyIKICAgIH0KICB9Cn0=",
     "rarity": "LEGENDARY",
@@ -2160,6 +2161,7 @@
     "lore": [
       "§7Heals for §a+0.1% §7of your max health",
       "§7each time you kill a mob.",
+      "§8Cooldown: §a0.5s",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -2448,17 +2450,17 @@
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
       "",
-      "§4❣ §cRequires §aHunting Skill 15§c.",
-      "§5§lEPIC COMBAT SHARD"
+      "§4❣ §cRequires §aHunting Skill 20§c.",
+      "§6§lLEGENDARY COMBAT SHARD"
     ],
-    "attribute_id": "E29",
+    "attribute_id": "L27",
     "shard_name": "Hellwisp Shard",
     "shard_id": "SHARD_HELLWISP",
     "name": "Matriarch Cubs",
     "item": "minecraft:player_head",
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY0MjQ0MzYwNzg3OSwKICAicHJvZmlsZUlkIiA6ICJmMTA0NzMxZjljYTU0NmI0OTkzNjM4NTlkZWY5N2NjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6aWFkODciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTk5YzM0NzBiYTQzMTc5MTM3MTdhYjM2YjYyNmFlYzBiNTYzMjY2ZTI4YjNhNTE3ZDcxZTlhMGFmMGM5MGY5NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
-    "rarity": "EPIC",
-    "max": 32
+    "rarity": "LEGENDARY",
+    "max": 24
   },
   {
     "id": "MAXIMAL_TORMENT",
@@ -2475,7 +2477,7 @@
     "attribute_id": "L17",
     "shard_name": "Taurus Shard",
     "shard_id": "SHARD_TAURUS",
-    "name": "Maximal Torment",
+    "name": "Unlimited Torment",
     "item": "minecraft:player_head",
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzU0MTIyNDQ3OSwKICAicHJvZmlsZUlkIiA6ICJlZDUzZGQ4MTRmOWQ0YTNjYjRlYjY1MWRjYmE3N2U2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICI0MTQxNDE0MWgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTY0MmEwNmNkNzVlZjMwN2MxOTEzYmE3YTIyNGZiMjA4MmQ4YTJjNTI1NGZkMWJmMDA2MTI1YTA4N2E5YTg2OCIKICAgIH0KICB9Cn0=",
     "rarity": "LEGENDARY",
