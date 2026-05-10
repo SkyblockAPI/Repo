@@ -3967,6 +3967,29 @@
     "input": {
       "type": "pet",
       "pet": "BABY_YETI",
+      "tier": "COMMON",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BABY_YETI",
+      "tier": "UNCOMMON",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "ICE_HUNK",
+        "count": 32
+      }
+    ],
+    "time": 86400,
+    "coins": 50000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BABY_YETI",
       "tier": "EPIC",
       "count": 1
     },
@@ -3978,12 +4001,12 @@
     },
     "items": [
       {
-        "id": "ENCHANTED_RAW_SALMON",
-        "count": 16
+        "id": "BLUE_ICE_HUNK",
+        "count": 8
       }
     ],
-    "time": 1036800,
-    "coins": 20000000
+    "time": 345600,
+    "coins": 500000
   },
   {
     "type": "kat",

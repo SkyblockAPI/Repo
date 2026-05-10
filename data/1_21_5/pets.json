@@ -381,6 +381,46 @@
           ]
         }
       },
+      "UNCOMMON": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTU5NTM1NjY0MjQwNSwKICAicHJvZmlsZUlkIiA6ICI3NTJkODM0NDViMDA0OTIwODMwYTE4MGVhNTVmMzNhMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWxZZXRpIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VmOWY2YTU3ZDhmNjg2ZmVkZDUxODVkMTc4NTUwOTEzZjQ4ZjkxYjU3YzkxNjJkNzBkMzY4YjFmZDlmZTJiNTIiCiAgICB9CiAgfQp9",
+        "lore": [
+          "§8Fishing Pet",
+          "",
+          "§7Strength: §c{STRENGTH}",
+          "§7Fishing Speed: §b{FISHING_SPEED}",
+          "§7Sea Creature Chance: §3{SEA_CREATURE_CHANCE}%",
+          "",
+          "§6Yeti Fury",
+          "§7Buffs the §6Yeti Sword §7by §a{0} §c❁",
+          "§cDamage §7and §b✎ Intelligence §7and",
+          "§7reduces its cooldown by §a{1}%§7.",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§a§lUNCOMMON"
+        ],
+        "variables": {
+          "0": [
+            0.75,
+            75
+          ],
+          "1": [
+            0.35,
+            35
+          ],
+          "STRENGTH": [
+            0.5,
+            50
+          ],
+          "FISHING_SPEED": [
+            0.5,
+            50
+          ],
+          "SEA_CREATURE_CHANCE": [
+            0.05,
+            5
+          ]
+        }
+      },
       "EPIC": {
         "texture": "ewogICJ0aW1lc3RhbXAiIDogMTU5NTM1NjY0MjQwNSwKICAicHJvZmlsZUlkIiA6ICI3NTJkODM0NDViMDA0OTIwODMwYTE4MGVhNTVmMzNhMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWxZZXRpIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VmOWY2YTU3ZDhmNjg2ZmVkZDUxODVkMTc4NTUwOTEzZjQ4ZjkxYjU3YzkxNjJkNzBkMzY4YjFmZDlmZTJiNTIiCiAgICB9CiAgfQp9",
         "lore": [
@@ -2024,7 +2064,7 @@
         }
       },
       "UNCOMMON": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFiNzc5YmJjY2M4NDlmODgyNzNkODQ0ZThjYTJmM2E2N2ExNjk5Y2IyMTZjMGExMWI0NDMyNmNlMmNjMjAifX19",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NTk2ODg5NywKICAicHJvZmlsZUlkIiA6ICIxZGI3ZjUxYWZmOWM0NTcyOGZmNmU5MjMxMmZhZGZkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsdXNtZW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWVlNzJkMzQzNWMxODNkYmRkYTIyOTBjYzhmY2M5MDU0YjZlNGQ2ZThmNTMzOGRiNGY0YzFkOWEzMDg1NGI1ZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
         "lore": [
           "§8Fishing Pet",
           "",
@@ -2033,6 +2073,7 @@
           "§6Ingest",
           "§7All potions heal §c+{0}❤§7.",
           "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
         ],
         "variables": {
@@ -2722,7 +2763,7 @@
     "name": "Droplet Wisp",
     "tiers": {
       "UNCOMMON": {
-        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY0NjYxOTA3MTM2NSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjQxMmU3MDM3NWVjOTllZTM4YWU5NGIzMGU5YjEwNzUyZDQ1OTY2MmI1NDc5NGRmZTY2ZmU2YTE4M2M2NzJkMyIKICAgIH0KICB9Cn0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NTk3OTE1MCwKICAicHJvZmlsZUlkIiA6ICIxMzEzZGFmMDc2OGQ0YmQ5Yjc1ODJkMGI1NWUwZGQxNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMZW50aWNjaGllIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I0MTJlNzAzNzVlYzk5ZWUzOGFlOTRiMzBlOWIxMDc1MmQ0NTk2NjJiNTQ3OTRkZmU2NmZlNmExODNjNjcyZDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
         "lore": [
           "§8Gabagool Pet, feed to gain XP",
           "",
@@ -2730,19 +2771,18 @@
           "§7Damage: §c{DAMAGE}",
           "",
           "§6Drophammer",
-          "§7§7Lets you break fire pillars,",
-          "§7which heals you for §c15% §7of",
-          "§7your max §c❤ §7over §a3s§7.",
+          "§7Lets you break fire pillars, which",
+          "§7heals you for §c15% §7of your max §c❤",
+          "§7over §a3s§7.",
           "",
           "§6Bulwark",
-          "§7Kill Blazes to gain defense",
-          "§7against them and demons.",
+          "§7Kill Blazes to gain defense against",
+          "§7them and demons.",
           "§7Bonus: §a+0❈ §7& §f+0❂",
           "§7Next Upgrade: §a+30❈ §7& §f+3❂ §8(§a0§7/§c100§8)",
           "",
           "§6Blaze Slayer",
-          "§7§7Gain §b{0}x §7Combat XP",
-          "§7§7against §aBlazes§7.",
+          "§7Gain §b{0}x §7Combat XP against §aBlazes§7.",
           "",
           "§a§lUNCOMMON"
         ],
@@ -2921,7 +2961,7 @@
         }
       },
       "UNCOMMON": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzA3MWE3NmY2NjlkYjVlZDZkMzJiNDhiYjJkYmE1NWQ1MzE3ZDdmNDUyMjVjYjMyNjdlYzQzNWNmYTUxNCJ9fX0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYwMTkzMTMzMDk5MSwKICAicHJvZmlsZUlkIiA6ICJkOWQ2YTNjZDQ0ZWI0MjBlYWM2MTA2ZmQyMTNmZGRiYSIsCiAgInByb2ZpbGVOYW1lIiA6ICI5VDkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGVmOGVmZWE0NTA2MzJkMjc1M2EzOGEyM2E0ZjE1MDJhOGE2ODVmNmU5OWJmNjkyMDVlYzA0NDIwZmQ2NGY2IgogICAgfQogIH0KfQ==",
         "lore": [
           "§8Farming Pet",
           "",
@@ -3378,7 +3418,7 @@
         }
       },
       "UNCOMMON": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWExYTA4MzFhYTAzYWZiNDIxMmFkY2JiMjRlNWRmYWE3ZjQ3NmExMTczZmNlMjU5ZWY3NWE4NTg1NSJ9fX0=",
+        "texture": "eyJ0aW1lc3RhbXAiOjE1ODQzODU5MzM1MTIsInByb2ZpbGVJZCI6IjRkNzA0ODZmNTA5MjRkMzM4NmJiZmM5YzEyYmFiNGFlIiwicHJvZmlsZU5hbWUiOiJzaXJGYWJpb3pzY2hlIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xOGFlNzA0NmRhOThkY2IzM2YzZWQ0MmYxZGM0MWQwOGFjOGRmYTVkYjNhMzg2MGRlNWIxYjVjMDU2ODA0MTg3In19fQ==",
         "lore": [
           "§8Mining Pet",
           "",
@@ -3390,6 +3430,7 @@
           "§7stone and gain a +§a{0}% §7chance to get",
           "§7an extra block dropped",
           "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
         ],
         "variables": {
@@ -3408,7 +3449,7 @@
         }
       },
       "RARE": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWExYTA4MzFhYTAzYWZiNDIxMmFkY2JiMjRlNWRmYWE3ZjQ3NmExMTczZmNlMjU5ZWY3NWE4NTg1NSJ9fX0=",
+        "texture": "eyJ0aW1lc3RhbXAiOjE1ODQzODU5MzM1MTIsInByb2ZpbGVJZCI6IjRkNzA0ODZmNTA5MjRkMzM4NmJiZmM5YzEyYmFiNGFlIiwicHJvZmlsZU5hbWUiOiJzaXJGYWJpb3pzY2hlIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xOGFlNzA0NmRhOThkY2IzM2YzZWQ0MmYxZGM0MWQwOGFjOGRmYTVkYjNhMzg2MGRlNWIxYjVjMDU2ODA0MTg3In19fQ==",
         "lore": [
           "§8Mining Pet",
           "",
@@ -3421,9 +3462,10 @@
           "§7an extra block dropped",
           "",
           "§6Daily Commuter",
-          "§7§7§9Transmission Abilities",
-          "§9§7cost §a{1}% §7less mana.",
+          "§9Transmission Abilities §7cost §a{1}% §7less",
+          "§7mana",
           "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
         ],
         "variables": {
@@ -4135,35 +4177,34 @@
     "name": "Frost Wisp",
     "tiers": {
       "RARE": {
-        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY0NjYxOTA5NDQ5MywKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWQ4YWQ5OTM2ZDc1OGM1ZWEzMGIwYjdjYzdjNjdjMmJmY2VhODI5ZWNmMjQyNWMwYjUwZmM5MmEyNmFlMjNkMCIKICAgIH0KICB9Cn0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NTk0MTQ3MSwKICAicHJvZmlsZUlkIiA6ICJkZDNjZGJiOTE2M2Q0NzgyOGQ0YmZkODZmYWE4NGY5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFTFdhbEtlUkpBSkEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWQ4YWQ5OTM2ZDc1OGM1ZWEzMGIwYjdjYzdjNjdjMmJmY2VhODI5ZWNmMjQyNWMwYjUwZmM5MmEyNmFlMjNkMCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
         "lore": [
           "§8Gabagool Pet, feed to gain XP",
           "",
           "§7Health: §c{HEALTH}",
-          "§7Damage: §c{DAMAGE}",
           "§7True Defense: §f{TRUE_DEFENSE}",
+          "§7Damage: §c{DAMAGE}",
           "§7Intelligence: §b{INTELLIGENCE}",
           "",
           "§6Icehammer",
-          "§7§7Lets you break fire pillars,",
-          "§7which heals you for §c25% §7of",
-          "§7your max §c❤ §7over §a3s§7.",
+          "§7Lets you break fire pillars, which",
+          "§7heals you for §c25% §7of your max §c❤",
+          "§7over §a3s§7.",
           "",
           "§6Bulwark",
-          "§7Kill Blazes to gain defense",
-          "§7against them and demons.",
+          "§7Kill Blazes to gain defense against",
+          "§7them and demons.",
           "§7Bonus: §a+0❈ §7& §f+0❂",
           "§7Next Upgrade: §a+30❈ §7& §f+3❂ §8(§a0§7/§c100§8)",
           "",
           "§6Blaze Slayer",
-          "§7§7Gain §b{0}x §7Combat XP",
-          "§7§7against §aBlazes§7.",
+          "§7Gain §b{0}x §7Combat XP against §aBlazes§7.",
           "",
           "§6Extinguish",
-          "§7While in combat on the Crimson",
-          "§7Isle, spawn a pool every §a8s.",
-          "§7Bathing in it heals §c15%❤ now",
-          "§7and §c4%❤§7/s for §a8s.",
+          "§7While in combat on the Crimson Isle,",
+          "§7spawn a pool every §a8s§7.",
+          "§7Bathing in it heals §c15%❤ §7now and",
+          "§c4%❤§7/s for §a8s§7.",
           "",
           "§9§lRARE"
         ],
@@ -6199,14 +6240,13 @@
       "COMMON": {
         "texture": "eyJ0aW1lc3RhbXAiOjE0ODk5NjQyNjA2NjAsInByb2ZpbGVJZCI6ImRhNzQ2NWVkMjljYjRkZTA5MzRkOTIwMTc0NDkxMzU1IiwicHJvZmlsZU5hbWUiOiJJc2F5bGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM2ZmNkM2VjM2JjODRiYWZiNDEyM2VhNDc5NDcxZjlkMmY0MmQ4ZmI5YzVmMTFjZjVmNGUwZDkzMjI2In19fQ==",
         "lore": [
-          "§8Combat Mount",
+          "§8Combat Pet",
           "",
           "§7Intelligence: §b{INTELLIGENCE}",
           "§7Speed: §f{SPEED}",
           "",
-          "§6Ridable",
-          "§7Right-click your summoned pet to",
-          "§7ride it!",
+          "§6High Stride",
+          "§7Grants permanent §bJump Boost II§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
@@ -6217,22 +6257,21 @@
             50
           ],
           "SPEED": [
-            0.25,
-            25
+            1,
+            100
           ]
         }
       },
       "UNCOMMON": {
         "texture": "eyJ0aW1lc3RhbXAiOjE0ODk5NjQyNjA2NjAsInByb2ZpbGVJZCI6ImRhNzQ2NWVkMjljYjRkZTA5MzRkOTIwMTc0NDkxMzU1IiwicHJvZmlsZU5hbWUiOiJJc2F5bGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM2ZmNkM2VjM2JjODRiYWZiNDEyM2VhNDc5NDcxZjlkMmY0MmQ4ZmI5YzVmMTFjZjVmNGUwZDkzMjI2In19fQ==",
         "lore": [
-          "§8Combat Mount",
+          "§8Combat Pet",
           "",
           "§7Intelligence: §b{INTELLIGENCE}",
           "§7Speed: §f{SPEED}",
           "",
-          "§6Ridable",
-          "§7Right-click your summoned pet to",
-          "§7ride it!",
+          "§6High Stride",
+          "§7Grants permanent §bJump Boost III§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -6243,60 +6282,64 @@
             50
           ],
           "SPEED": [
-            0.25,
-            25
+            1,
+            100
           ]
         }
       },
       "RARE": {
         "texture": "eyJ0aW1lc3RhbXAiOjE0ODk5NjQyNjA2NjAsInByb2ZpbGVJZCI6ImRhNzQ2NWVkMjljYjRkZTA5MzRkOTIwMTc0NDkxMzU1IiwicHJvZmlsZU5hbWUiOiJJc2F5bGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM2ZmNkM2VjM2JjODRiYWZiNDEyM2VhNDc5NDcxZjlkMmY0MmQ4ZmI5YzVmMTFjZjVmNGUwZDkzMjI2In19fQ==",
         "lore": [
-          "§8Combat Mount",
+          "§8Combat Pet",
           "",
           "§7Intelligence: §b{INTELLIGENCE}",
           "§7Speed: §f{SPEED}",
           "",
-          "§6Ridable",
-          "§7Right-click your summoned pet to",
-          "§7ride it!",
+          "§6High Stride",
+          "§7Grants permanent §bJump Boost III§7.",
           "",
-          "§6Run",
-          "§7Increases the speed of your mount",
-          "§7by §a{0}%§7.",
+          "§6Stampede",
+          "§7Mob kills grant a stack of §f+{0} ✦",
+          "§fSpeed§7 and §c+{1} ❁ Strength§7 for §a5s§7.",
+          "§8(Max 20 stacks)",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
         ],
         "variables": {
           "0": [
-            1.1,
-            110
+            1.2,
+            20
+          ],
+          "1": [
+            1.05,
+            5
           ],
           "INTELLIGENCE": [
             0.5,
             50
           ],
           "SPEED": [
-            0.25,
-            25
+            1,
+            100
           ]
         }
       },
       "EPIC": {
         "texture": "eyJ0aW1lc3RhbXAiOjE0ODk5NjQyNjA2NjAsInByb2ZpbGVJZCI6ImRhNzQ2NWVkMjljYjRkZTA5MzRkOTIwMTc0NDkxMzU1IiwicHJvZmlsZU5hbWUiOiJJc2F5bGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM2ZmNkM2VjM2JjODRiYWZiNDEyM2VhNDc5NDcxZjlkMmY0MmQ4ZmI5YzVmMTFjZjVmNGUwZDkzMjI2In19fQ==",
         "lore": [
-          "§8Combat Mount",
+          "§8Combat Pet",
           "",
           "§7Intelligence: §b{INTELLIGENCE}",
           "§7Speed: §f{SPEED}",
           "",
-          "§6Ridable",
-          "§7Right-click your summoned pet to",
-          "§7ride it!",
+          "§6High Stride",
+          "§7Grants permanent §bJump Boost IV§7.",
           "",
-          "§6Run",
-          "§7Increases the speed of your mount",
-          "§7by §a{0}%§7.",
+          "§6Stampede",
+          "§7Mob kills grant a stack of §f+{0} ✦",
+          "§fSpeed§7 and §c+{1} ❁ Strength§7 for §a5s§7.",
+          "§8(Max 20 stacks)",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -6304,56 +6347,67 @@
         "variables": {
           "0": [
             1.2,
-            120
+            20
+          ],
+          "1": [
+            1.05,
+            5
           ],
           "INTELLIGENCE": [
             0.5,
             50
           ],
           "SPEED": [
-            0.25,
-            25
+            1,
+            100
           ]
         }
       },
       "LEGENDARY": {
         "texture": "eyJ0aW1lc3RhbXAiOjE0ODk5NjQyNjA2NjAsInByb2ZpbGVJZCI6ImRhNzQ2NWVkMjljYjRkZTA5MzRkOTIwMTc0NDkxMzU1IiwicHJvZmlsZU5hbWUiOiJJc2F5bGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM2ZmNkM2VjM2JjODRiYWZiNDEyM2VhNDc5NDcxZjlkMmY0MmQ4ZmI5YzVmMTFjZjVmNGUwZDkzMjI2In19fQ==",
         "lore": [
-          "§8Combat Mount",
+          "§8Combat Pet",
           "",
           "§7Intelligence: §b{INTELLIGENCE}",
           "§7Speed: §f{SPEED}",
           "",
-          "§6Ridable",
-          "§7Right-click your summoned pet to",
-          "§7ride it!",
+          "§6High Stride",
+          "§7Grants permanent §bJump Boost IV§7.",
           "",
-          "§6Run",
-          "§7Increases the speed of your mount",
-          "§7by §a{0}%§7.",
+          "§6Stampede",
+          "§7Mob kills grant a stack of §f+{0} ✦",
+          "§fSpeed§7 and §c+{1} ❁ Strength§7 for §a5s§7.",
+          "§8(Max 20 stacks)",
           "",
-          "§6Ride Into Battle",
-          "§7While riding your horse, gain +§a{1}%",
-          "§7bow damage.",
+          "§6Trample",
+          "§7After falling §a20§7 or more blocks,",
+          "§7absorb your fall damage and deal §a{2}%",
+          "§7of your weapon's §c❁ Damage§7 for",
+          "§7every block fallen to mobs within §a3",
+          "§7blocks.",
           "",
           "§6§lLEGENDARY"
         ],
         "variables": {
           "0": [
             1.2,
-            120
+            20
           ],
           "1": [
-            0.2,
-            25
+            1.05,
+            5
+          ],
+          "2": [
+            0.5,
+            5
           ],
           "INTELLIGENCE": [
             0.5,
             50
           ],
           "SPEED": [
-            0.25,
-            25
+            1,
+            100
           ]
         }
       }
@@ -8175,18 +8229,18 @@
     "name": "Mooshroom Cow",
     "tiers": {
       "COMMON": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmI1Mjg0MWYyZmQ1ODllMGJjODRjYmFiZjllMWMyN2NiNzBjYWM5OGY4ZDZiM2RkMDY1ZTU1YTRkY2I3MGQ3NyJ9fX0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY1ODA3MzA0MzEwMCwKICAicHJvZmlsZUlkIiA6ICI3MzY0ODFkZmY2ZGY0NWUwOTA0ODg0ZjNiMWExMjY1NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUd2lsaWdodFFBUSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80N2YxYmMzZmE5MWNkODZjZjRiYTc3NDU1ODZkNjcyMDdiNThlN2NmMjdiZGY3YTcxNzc4MDg0Mzc4NWJmOWI1IgogICAgfQogIH0KfQ==",
         "lore": [
           "§8Farming Pet",
           "",
-          "§7Farming Fortune: §a{FARMING_FORTUNE}",
           "§7Health: §c{HEALTH}",
+          "§7Farming Fortune: §a{FARMING_FORTUNE}",
           "",
           "§6Efficient Mushrooms",
-          "§7§7Mushroom§7 and Mycelium",
-          "§7minions work §a{0}% §7faster",
-          "§7while on your island.",
+          "§7Mushroom and Mycelium minions work",
+          "§a{0}% §7faster while on your island.",
           "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
         "variables": {
@@ -8205,18 +8259,18 @@
         }
       },
       "UNCOMMON": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmI1Mjg0MWYyZmQ1ODllMGJjODRjYmFiZjllMWMyN2NiNzBjYWM5OGY4ZDZiM2RkMDY1ZTU1YTRkY2I3MGQ3NyJ9fX0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY1ODA3MzA0MzEwMCwKICAicHJvZmlsZUlkIiA6ICI3MzY0ODFkZmY2ZGY0NWUwOTA0ODg0ZjNiMWExMjY1NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUd2lsaWdodFFBUSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80N2YxYmMzZmE5MWNkODZjZjRiYTc3NDU1ODZkNjcyMDdiNThlN2NmMjdiZGY3YTcxNzc4MDg0Mzc4NWJmOWI1IgogICAgfQogIH0KfQ==",
         "lore": [
           "§8Farming Pet",
           "",
-          "§7Farming Fortune: §a{FARMING_FORTUNE}",
           "§7Health: §c{HEALTH}",
+          "§7Farming Fortune: §a{FARMING_FORTUNE}",
           "",
           "§6Efficient Mushrooms",
-          "§7§7Mushroom§7 and Mycelium",
-          "§7minions work §a{0}% §7faster",
-          "§7while on your island.",
+          "§7Mushroom and Mycelium minions work",
+          "§a{0}% §7faster while on your island.",
           "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
         ],
         "variables": {
@@ -8235,23 +8289,23 @@
         }
       },
       "RARE": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmI1Mjg0MWYyZmQ1ODllMGJjODRjYmFiZjllMWMyN2NiNzBjYWM5OGY4ZDZiM2RkMDY1ZTU1YTRkY2I3MGQ3NyJ9fX0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY1ODA3MzA0MzEwMCwKICAicHJvZmlsZUlkIiA6ICI3MzY0ODFkZmY2ZGY0NWUwOTA0ODg0ZjNiMWExMjY1NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUd2lsaWdodFFBUSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80N2YxYmMzZmE5MWNkODZjZjRiYTc3NDU1ODZkNjcyMDdiNThlN2NmMjdiZGY3YTcxNzc4MDg0Mzc4NWJmOWI1IgogICAgfQogIH0KfQ==",
         "lore": [
           "§8Farming Pet",
           "",
-          "§7Farming Fortune: §a{FARMING_FORTUNE}",
           "§7Health: §c{HEALTH}",
+          "§7Farming Fortune: §a{FARMING_FORTUNE}",
           "",
           "§6Efficient Mushrooms",
-          "§7§7Mushroom§7 and Mycelium",
-          "§7minions work §a{0}% §7faster",
-          "§7while on your island.",
+          "§7Mushroom and Mycelium minions work",
+          "§a{0}% §7faster while on your island.",
           "",
           "§6Mushroom Eater",
-          "§7§7When breaking mature crops,",
-          "§7there is a §a{1}% §7chance that",
-          "§7a mushroom will drop.",
+          "§7When breaking mature crops, there",
+          "§7is a §a{1}% §7chance that a mushroom will",
+          "§7drop.",
           "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
         ],
         "variables": {
@@ -8614,7 +8668,7 @@
         }
       },
       "RARE": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTY1N2NkNWMyOTg5ZmY5NzU3MGZlYzRkZGNkYzY5MjZhNjhhMzM5MzI1MGMxYmUxZjBiMTE0YTFkYjEifX19",
+        "texture": "eyJ0aW1lc3RhbXAiOjE1MTU4NTg2MzE5OTQsInByb2ZpbGVJZCI6IjFiZWU5ZGY1NGY3MTQyYTJiZjUyZDk3OTcwZDNmZWEzIiwicHJvZmlsZU5hbWUiOiJNSEZfT2NlbG90Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NjU3Y2Q1YzI5ODlmZjk3NTcwZmVjNGRkY2RjNjkyNmE2OGEzMzkzMjUwYzFiZTFmMGIxMTRhMWRiMSJ9fX0=",
         "lore": [
           "§8Foraging Pet",
           "",
@@ -9907,7 +9961,7 @@
         "lore": [
           "§8Combat Pet",
           "",
-          "§7Intelligence: §b-{INTELLIGENCE}",
+          "§7Intelligence: §b{INTELLIGENCE}",
           "§7Speed: §f{SPEED}",
           "",
           "§6Orbs are Fun",
@@ -10601,7 +10655,7 @@
         }
       },
       "RARE": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjRlMjJhNDYwNDdkMjcyZTg5YTFjZmExM2U5NzM0YjdlMTI4MjdlMjM1YzIwMTJjMWE5NTk2Mjg3NGRhMCJ9fX0=",
+        "texture": "eyJ0aW1lc3RhbXAiOjE1MDA2OTQ2NDUwMjcsInByb2ZpbGVJZCI6IjIzZjFhNTlmNDY5YjQzZGRiZGI1MzdiZmVjMTA0NzFmIiwicHJvZmlsZU5hbWUiOiIyODA3Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82NGUyMmE0NjA0N2QyNzJlODlhMWNmYTEzZTk3MzRiN2UxMjgyN2UyMzVjMjAxMmMxYTk1OTYyODc0ZGEwIn19fQ==",
         "lore": [
           "§8Alchemy Pet",
           "",
@@ -10609,13 +10663,14 @@
           "§7Ability Damage: §c{ABILITY_DAMAGE}%",
           "",
           "§6Mana Saver",
-          "§7§7§7Reduces the mana cost of",
-          "§7abilities by §a{0}%§7.",
+          "§7Reduces the mana cost of abilities by",
+          "§a{0}%§7.",
           "",
           "§6Overheal",
-          "§7§7Gives a §a{1}% §7shield after",
-          "§7not taking damage for 10s.",
+          "§7Gives a §a{1}% §7shield after not taking",
+          "§7damage for 10s",
           "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
         ],
         "variables": {
@@ -10939,7 +10994,7 @@
         }
       },
       "UNCOMMON": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmNhNDQ1NzQ5MjUxYmRkODk4ZmI4M2Y2Njc4NDRlMzhhMWRmZjc5YTE1MjlmNzlhNDI0NDdhMDU5OTMxMGVhNCJ9fX0=",
+        "texture": "eyJ0aW1lc3RhbXAiOjE1NTc5MDc3MDIzODgsInByb2ZpbGVJZCI6IjVkODgxNDRhMzhjYzRkZWVhODA3MzYwODc2YzIxYzU4IiwicHJvZmlsZU5hbWUiOiJSZW1WTiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmNhNDQ1NzQ5MjUxYmRkODk4ZmI4M2Y2Njc4NDRlMzhhMWRmZjc5YTE1MjlmNzlhNDI0NDdhMDU5OTMxMGVhNCJ9fX0=",
         "lore": [
           "§8Combat Pet",
           "",
@@ -10969,7 +11024,7 @@
         }
       },
       "RARE": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmNhNDQ1NzQ5MjUxYmRkODk4ZmI4M2Y2Njc4NDRlMzhhMWRmZjc5YTE1MjlmNzlhNDI0NDdhMDU5OTMxMGVhNCJ9fX0=",
+        "texture": "eyJ0aW1lc3RhbXAiOjE1NTc5MDc3MDIzODgsInByb2ZpbGVJZCI6IjVkODgxNDRhMzhjYzRkZWVhODA3MzYwODc2YzIxYzU4IiwicHJvZmlsZU5hbWUiOiJSZW1WTiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmNhNDQ1NzQ5MjUxYmRkODk4ZmI4M2Y2Njc4NDRlMzhhMWRmZjc5YTE1MjlmNzlhNDI0NDdhMDU5OTMxMGVhNCJ9fX0=",
         "lore": [
           "§8Combat Pet",
           "",
@@ -11100,46 +11155,51 @@
     "name": "Skeleton Horse",
     "tiers": {
       "LEGENDARY": {
-        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTU5NDcwOTcyNTgwMiwKICAicHJvZmlsZUlkIiA6ICI4ODQ0ZDJiMWM2YjY0MmVkYTYxNTNjNGEyY2I3YTU5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYW52dmVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdjYTlkOGM0NDI4ZTE1ZmRjMWYwM2MyOGFmZWQ0OGViZWMxY2VhMzBiM2UwOWE4MTJhOTc2OGYwMjc5YzVjIgogICAgfQogIH0KfQ==",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3Nzg5MzM1ODgxMSwKICAicHJvZmlsZUlkIiA6ICIwNWU0OTczZTk5ZDk0NGY2YjczNjY3ZTEzMzdiY2IzOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lX1NraW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJjNjNiYTI3MzU3ODk4Y2YyZTY0ZGE5NDgwMmM3NGVmYzE3ZmZkMjQwNjRiNTMyN2ZiYzU5Njk0YmM1ZTNkYyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
         "lore": [
-          "§8Combat Mount",
-          "",
-          "§7Run around town on your scary, yet",
-          "§7trusty, steed!",
+          "§8Combat Pet",
           "",
           "§7Intelligence: §b{INTELLIGENCE}",
           "§7Speed: §f{SPEED}",
           "",
-          "§6Ridable",
-          "§7Right-click your summoned pet to",
-          "§7ride it!",
+          "§6High Stride",
+          "§7Grants permanent §bJump Boost IV§7.",
           "",
-          "§6Run",
-          "§7Increases the speed of your mount",
-          "§7by §a{0}%§7.",
+          "§6Stampede",
+          "§7Mob kills grant a stack of §e+{0} ⚔",
+          "§eAttack Speed§7 and §c+{1} ❁ Strength",
+          "§7for §a5s§7.",
+          "§8(Max 20 stacks)",
           "",
-          "§6Ride Into Battle",
-          "§7While riding your horse, gain +§a{1}%",
-          "§7bow damage.",
+          "§6Trample",
+          "§7After falling §a20§7 or more blocks,",
+          "§7absorb your fall damage and deal §a{2}%",
+          "§7of your weapon's §c❁ Damage§7 for",
+          "§7every block fallen to mobs within §a3",
+          "§7blocks.",
           "",
           "§6§lLEGENDARY"
         ],
         "variables": {
           "0": [
-            1.5,
-            150
+            0.1,
+            1
           ],
           "1": [
-            0.4,
-            40
+            1,
+            10
+          ],
+          "2": [
+            0.8,
+            7
           ],
           "INTELLIGENCE": [
-            1,
-            100
+            0.75,
+            75
           ],
           "SPEED": [
-            0.5,
-            50
+            1.5,
+            150
           ]
         }
       }
@@ -11619,7 +11679,7 @@
         }
       },
       "RARE": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q1NDE1NDFkYWFmZjUwODk2Y2QyNThiZGJkZDRjZjgwYzNiYTgxNjczNTcyNjA3OGJmZTM5MzkyN2U1N2YxIn19fQ==",
+        "texture": "eyJ0aW1lc3RhbXAiOjE0OTg2OTA0NDk5MDIsInByb2ZpbGVJZCI6IjVhZDU1ZjM0NDFiNjRiZDI5YzMyMTg5ODNjNjM1OTM2IiwicHJvZmlsZU5hbWUiOiJNSEZfU3BpZGVyIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jZDU0MTU0MWRhYWZmNTA4OTZjZDI1OGJkYmRkNGNmODBjM2JhODE2NzM1NzI2MDc4YmZlMzkzOTI3ZTU3ZjEifX19",
         "lore": [
           "§8Combat Pet",
           "",
@@ -13254,7 +13314,7 @@
         }
       },
       "UNCOMMON": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGMzZGQ5ODRiYjY1OTg0OWJkNTI5OTQwNDY5NjRjMjI3MjVmNzE3ZTk4NmIxMmQ1NDhmZDE2OTM2N2Q0OTQifX19",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjQzMTcyNzMyOCwKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgxNDgzMTA1YWI4YzMzZjA0Yzk3Yzc0OTNjOTg3MWM4YTUxY2M0OWRmNmQ5YjVlMjNiMjY2NTIwOTRiZjMwMzAiCiAgICB9CiAgfQp9",
         "lore": [
           "§8Combat Pet",
           "",
@@ -13293,7 +13353,7 @@
         }
       },
       "RARE": {
-        "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGMzZGQ5ODRiYjY1OTg0OWJkNTI5OTQwNDY5NjRjMjI3MjVmNzE3ZTk4NmIxMmQ1NDhmZDE2OTM2N2Q0OTQifX19",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjQzMTcyNzMyOCwKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgxNDgzMTA1YWI4YzMzZjA0Yzk3Yzc0OTNjOTg3MWM4YTUxY2M0OWRmNmQ5YjVlMjNiMjY2NTIwOTRiZjMwMzAiCiAgICB9CiAgfQp9",
         "lore": [
           "§8Combat Pet",
           "",

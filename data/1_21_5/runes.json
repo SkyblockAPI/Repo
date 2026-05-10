@@ -1732,18 +1732,16 @@
     },
     {
       "tier": 3,
-      "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE0MTM5OWU3OTFmNzk1YmJjNDc2YjU2OTZkNzUwNzg2NTY4NDdhNjliYmJiMzE3MzVmMWQ5MDU3OWZjZDA1NiJ9fX0=",
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTUwNDQyMzQyNiwKICAicHJvZmlsZUlkIiA6ICI0OWIzODUyNDdhMWY0NTM3YjBmN2MwZTFmMTVjMTc2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiY2QyMDMzYzYzZWM0YmY4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE0MTM5OWU3OTFmNzk1YmJjNDc2YjU2OTZkNzUwNzg2NTY4NDdhNjliYmJiMzE3MzVmMWQ5MDU3OWZjZDA1NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
       "name": "§a◆ Slimy Rune III",
       "lore": [
         "§8Requires level 5",
         "§8Bows",
         "",
-        "§7A squishy trail to follow your",
-        "§7arrows!",
+        "§7A squishy trail to follow your arrows!",
         "",
-        "§7Apply this rune to bows or fuse",
-        "§7two together at the Runic",
-        "§7Pedestal!",
+        "§7Apply this rune to bows or fuse two",
+        "§7together at the Runic Pedestal!",
         "",
         "§f§lCOMMON COSMETIC"
       ]
@@ -1965,7 +1963,7 @@
     {
       "tier": 3,
       "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY4MTUxOTM1Mjc5NCwKICAicHJvZmlsZUlkIiA6ICI4N2YzOGM1MWE4Yzc0MmNmYTY2YTgxNWExZTI2NzMzYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWR3YXJzQ3V0aWUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjVmZmRmYmQ0OTBmYzczMTBkNjFhMWM0YzM1YTRlMGNkMmY5ZmNjYzEyMzljNmE0YmNkN2RlYzA1ZTI1ZWE2NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
-      "name": "§f§f§5◆ Soultwist Rune III",
+      "name": "§5◆ Soultwist Rune III",
       "lore": [
         "§8Requires level 10",
         "§8Weapons",
@@ -1973,9 +1971,8 @@
         "§7Obtained rarely from slaying a",
         "§7Vampire slayer boss.",
         "",
-        "§7Apply this rune to weapons or",
-        "§7fuse two together at the Runic",
-        "§7Pedestal!",
+        "§7Apply this rune to weapons or fuse",
+        "§7two together at the Runic Pedestal!",
         "",
         "§5§kX§5 Rift-Transferable §kX",
         "§5§lEPIC COSMETIC"
