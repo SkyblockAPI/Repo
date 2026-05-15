@@ -703,8 +703,9 @@
   {
     "id": "CROP_BUG",
     "lore": [
-      "§7Increased the odds of finding a",
-      "§7Cropie, Squash or Fermento by §a+2%§7.",
+      "§7Grants §e+1 ☀ Overbloom§7 which",
+      "§7increases your chances of dropping",
+      "§6§lRARE CROPS§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -2724,8 +2725,8 @@
   {
     "id": "PEST_LUCK",
     "lore": [
-      "§7Gain a §a+2% §7chance to obtain §9rare",
-      "§9loot §7from §2ൠ Pests§7.",
+      "§7Grants §e+2 ☀ Overbloom §7towards §2ൠ",
+      "§2Pests§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
