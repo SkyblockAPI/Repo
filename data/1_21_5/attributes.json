@@ -827,6 +827,26 @@
     "max": 32
   },
   {
+    "id": "DIAMOND_FROG",
+    "lore": [
+      "§2Trophy Frogs §7are §a+0.5% §7more likely",
+      "§7to be §b§lDIAMOND§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§9§lRARE WATER SHARD"
+    ],
+    "attribute_id": "R32",
+    "shard_name": "Seashine Shard",
+    "shard_id": "SHARD_SEA_SHINE",
+    "name": "Diamond Frog",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3ODc4MTYwNzk1NSwKICAicHJvZmlsZUlkIiA6ICJlZDAyNDVjY2ZjYjA0NDM4OTVmMGEzYmFjNmM1YTFjYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhNCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zNGFiNjZlYjU4NWM0NjExOGIzZWRhYmQ0MzQ0ZTQ0NjgzMzlkOGZjZGM2OGM0M2Y5NTQwMzdmMzc1OGM4YzI4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
     "id": "DOMINANCE",
     "lore": [
       "§7Gain §a+1.5% §7more §c❁ Damage §7when at",
@@ -1705,6 +1725,26 @@
     "max": 32
   },
   {
+    "id": "GOLDEN_FROG",
+    "lore": [
+      "§2Trophy Frogs §7are §a+0.5% §7more likely",
+      "§7to be §6§lGOLD§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§a§lUNCOMMON WATER SHARD"
+    ],
+    "attribute_id": "U41",
+    "shard_name": "Flipflopper Shard",
+    "shard_id": "SHARD_FLIP_FLOPPER",
+    "name": "Golden Frog",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3ODc4MTYwNjY0NSwKICAicHJvZmlsZUlkIiA6ICIxOTc0ZWI5YzU5NjY0MTc3OTMxNzQ1ZDFmMmIwYTUyNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJhY3Rpb24zNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82YWUyMDIzOTNhMzA2MDI3NGE3ZDc4MGI3YWM0MGYyZTU2NTNkYzBjZjQyYzJjZjZkNWI2YzgzNTkxZGQ1OGRlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
     "id": "GOLD_BAIT",
     "lore": [
       "§7The cooldown of Golden Fish is",
@@ -2237,6 +2277,48 @@
     "max": 96
   },
   {
+    "id": "LILY_PUNCHER",
+    "lore": [
+      "§7Punching §2Exploding Lily Pads §7applies",
+      "§a+5% §7more force.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON WATER SHARD"
+    ],
+    "attribute_id": "U59",
+    "shard_name": "Tewtil Shard",
+    "shard_id": "SHARD_TEWTIL",
+    "name": "Lily Puncher",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3ODY1NjE5ODQ1OCwKICAicHJvZmlsZUlkIiA6ICI3YTVkYmRlNDk0NWU0YTE4Yjg2OWY1MGY1NTJjNjlkYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdWtraXRBUEkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDg5NTdiNTA1YTIxZTMzYWEwOTJlMmFhNDdkODFlODgxNWVkYTU4MDNkMTRiMzM5OTBmMjRlZmZiNzQxNzE5OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "LILY_TRACKER",
+    "lore": [
+      "§7Grants §a+1 §d❃ Tracking §7on §2Exploding",
+      "§2Lily Pads§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON WATER SHARD"
+    ],
+    "attribute_id": "U23",
+    "shard_name": "Lotum Shard",
+    "shard_id": "SHARD_LOTUM",
+    "name": "Lily Tracker",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3ODY1NjE5NzMxMSwKICAicHJvZmlsZUlkIiA6ICIzODY2ZTk1MmIxZWE0M2E4OGE3NGI1NzAxZDVjYTAwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGYWtlTWFybG93IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQyMGVkZTA3YmI2NmNlZjZiYzBmNTgzYTg1YmMwZjEyZjViNTYwYWNlY2E4NGY4NTk5NGFmOGZjMWQyZDJiZTgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
     "id": "LOCH_HOOK",
     "lore": [
       "§7Grants §9+0.5 ⚓ Double Hook Chance",
@@ -2276,6 +2358,26 @@
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY5ODMxNTUyMjUzNCwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNGQwMDE1ODliODZjMjJjZjI0ZjE2MThmZTdlZmVmMTI5MzJhYTkxNDhiNWU0ZmM2ZmY0YTYxNGI5OTBhZTEyIgogICAgfQogIH0KfQ==",
     "rarity": "UNCOMMON",
     "max": 64
+  },
+  {
+    "id": "LOTUS_TROPHY",
+    "lore": [
+      "§7Grants §6+1 ♔ Trophy Chance§7 while in",
+      "§7the §3Lotus Atoll§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON WATER SHARD"
+    ],
+    "attribute_id": "C26",
+    "shard_name": "Lotusfish Shard",
+    "shard_id": "SHARD_LOTUS_FISH",
+    "name": "Lotus Trophy",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3ODY1NjE5OTQ1OSwKICAicHJvZmlsZUlkIiA6ICIyYmQyZTAxNGI5YWE0YzRjYmRmMzdmZjc5MzE2NDE5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdXRvU2tpbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNWMwMjRhZWVjMWM4ZGM5OGYyYjQyYWRkNWIwZjAyMDc4OGMzZjk4MGRmZjVlODYzNjM2NzYxZTYwYzVlZmZlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "COMMON",
+    "max": 96
   },
   {
     "id": "LUCKY_ROD",
