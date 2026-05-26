@@ -4693,6 +4693,38 @@
     }
   },
   {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "MANGCORE",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_GOLD_BLOCK",
+        "count": 1
+      },
+      {
+        "id": "LOTUS_WATER_ORB",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "BARREL_OF_RICHES",
+      "count": 1
+    }
+  },
+  {
     "type": "shop",
     "inputs": [
       {
@@ -5388,7 +5420,7 @@
         "count": 16
       },
       {
-        "id": "ENCHANTED_CLAY_BLOCK",
+        "id": "CONDENSED_WATER_LILY",
         "count": 1
       },
       {
@@ -8736,6 +8768,34 @@
     ],
     "result": {
       "id": "BUCKET",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "CONDENSED_WATER_LILY",
+        "count": 1
+      },
+      {
+        "id": "LOTUS_WATER_ORB",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "BUCKET_OF_FROGSPAWN",
       "count": 1
     }
   },
@@ -14020,6 +14080,30 @@
     ],
     "result": {
       "id": "CONDENSED_HELIANTHUS",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_WATER_LILY",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "CONDENSED_WATER_LILY",
       "count": 1
     }
   },
@@ -30785,6 +30869,149 @@
     "coins": 200000
   },
   {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "FROG",
+      "tier": "LEGENDARY",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "FROG",
+      "tier": "MYTHIC",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "BUCKET_OF_FROGSPAWN",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 1000000
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "LOTUS",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "FROGGLES",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "LOTUS_DIAMOND",
+        "count": 1
+      },
+      {
+        "id": "CONDENSED_WATER_LILY",
+        "count": 2
+      },
+      {
+        "id": "FROGGLES_GOLD",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      1,
+      2,
+      1,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "FROGGLES_DIAMOND",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "LOTUS_GOLD",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_WATER_LILY",
+        "count": 32
+      },
+      {
+        "id": "FROGGLES_SILVER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      1,
+      2,
+      1,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "FROGGLES_GOLD",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "LOTUS_SILVER",
+        "count": 4
+      },
+      {
+        "id": "ENCHANTED_WATER_LILY",
+        "count": 8
+      },
+      {
+        "id": "FROGGLES",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      1,
+      2,
+      1,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "FROGGLES_SILVER",
+      "count": 1
+    }
+  },
+  {
     "type": "shop",
     "inputs": [
       {
@@ -31529,6 +31756,46 @@
     "time": 14400,
     "result": {
       "id": "GEMSTONE_MIXTURE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "INK_SACK",
+        "count": 32
+      },
+      {
+        "id": "RUSTY_COIN",
+        "count": 16
+      },
+      {
+        "id": "REVERSE_REFORGE_STONE_CORE",
+        "count": 1
+      },
+      {
+        "id": "FROGCOIN",
+        "count": 8
+      },
+      {
+        "id": "TREASURE_BAIT",
+        "count": 64
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      1,
+      2,
+      3,
+      -1,
+      4,
+      -1
+    ],
+    "result": {
+      "id": "GEOMETRIC_ODDITY",
       "count": 1
     }
   },
@@ -37603,16 +37870,16 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_WATER_LILY",
-        "count": 32
-      },
-      {
-        "id": "SINGED_POWDER",
-        "count": 8
+        "id": "CONDENSED_WATER_LILY",
+        "count": 1
       },
       {
         "id": "BROKEN_RADAR",
         "count": 8
+      },
+      {
+        "id": "INK_SPLAT",
+        "count": 16
       }
     ],
     "pattern": [
@@ -37671,16 +37938,16 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "BROKEN_RADAR",
-        "count": 8
+        "id": "SEARED_ESCARGOT",
+        "count": 16
       },
       {
         "id": "SINGED_POWDER",
         "count": 8
       },
       {
-        "id": "ENCHANTED_CLAY_BALL",
-        "count": 64
+        "id": "ENCHANTED_CLAY_BLOCK",
+        "count": 1
       }
     ],
     "pattern": [
@@ -37704,10 +37971,38 @@
     "keys": [
       {
         "id": "HALF_EATEN_MUSHROOM",
+        "count": 16
+      },
+      {
+        "id": "INK_SPLAT",
+        "count": 8
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      1,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "HOTSPOT_TONIC_MIXIN",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HALF_EATEN_MUSHROOM",
         "count": 64
       },
       {
-        "id": "BLUE_RING",
+        "id": "SCORCHED_CRAB_STICK",
         "count": 8
       },
       {
@@ -37715,7 +38010,7 @@
         "count": 64
       },
       {
-        "id": "SINGED_POWDER",
+        "id": "BROKEN_RADAR",
         "count": 8
       },
       {
@@ -37723,20 +38018,20 @@
         "count": 1
       },
       {
-        "id": "SCORCHED_CRAB_STICK",
+        "id": "SINGED_POWDER",
         "count": 8
       },
       {
-        "id": "ENCHANTED_JUNGLE_LOG",
-        "count": 64
+        "id": "INK_SPLAT",
+        "count": 16
       },
       {
-        "id": "BROKEN_RADAR",
+        "id": "BLUE_RING",
         "count": 8
       },
       {
-        "id": "ENCHANTED_COAL",
-        "count": 64
+        "id": "SEARED_ESCARGOT",
+        "count": 16
       }
     ],
     "pattern": [
@@ -45100,6 +45395,342 @@
     }
   },
   {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "WATER_LILY",
+        "count": 8
+      },
+      {
+        "id": "FISHING_ROD",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "LILY_PAD_GENERATOR_1",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_WATER_LILY",
+        "count": 64
+      },
+      {
+        "id": "LILY_PAD_GENERATOR_9",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "LILY_PAD_GENERATOR_10",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "CONDENSED_WATER_LILY",
+        "count": 1
+      },
+      {
+        "id": "LILY_PAD_GENERATOR_10",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "LILY_PAD_GENERATOR_11",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "LILY_PAD_GENERATOR_11",
+        "count": 1
+      },
+      {
+        "id": "GENERATOR_UPGRADE_STONE_LILY_PAD_12",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "LILY_PAD_GENERATOR_12",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "WATER_LILY",
+        "count": 16
+      },
+      {
+        "id": "LILY_PAD_GENERATOR_1",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "LILY_PAD_GENERATOR_2",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "WATER_LILY",
+        "count": 32
+      },
+      {
+        "id": "LILY_PAD_GENERATOR_2",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "LILY_PAD_GENERATOR_3",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "WATER_LILY",
+        "count": 64
+      },
+      {
+        "id": "LILY_PAD_GENERATOR_3",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "LILY_PAD_GENERATOR_4",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_WATER_LILY",
+        "count": 1
+      },
+      {
+        "id": "LILY_PAD_GENERATOR_4",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "LILY_PAD_GENERATOR_5",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_WATER_LILY",
+        "count": 4
+      },
+      {
+        "id": "LILY_PAD_GENERATOR_5",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "LILY_PAD_GENERATOR_6",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_WATER_LILY",
+        "count": 8
+      },
+      {
+        "id": "LILY_PAD_GENERATOR_6",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "LILY_PAD_GENERATOR_7",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_WATER_LILY",
+        "count": 16
+      },
+      {
+        "id": "LILY_PAD_GENERATOR_7",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "LILY_PAD_GENERATOR_8",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_WATER_LILY",
+        "count": 32
+      },
+      {
+        "id": "LILY_PAD_GENERATOR_8",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "LILY_PAD_GENERATOR_9",
+      "count": 1
+    }
+  },
+  {
     "type": "kat",
     "input": {
       "type": "pet",
@@ -45399,6 +46030,195 @@
     ],
     "result": {
       "id": "HUB_CASTLE_TRAVEL_SCROLL",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "CONDENSED_WATER_LILY",
+        "count": 1
+      },
+      {
+        "id": "PRINCE_CROWN_JEWEL",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_GOLD_BLOCK",
+        "count": 1
+      },
+      {
+        "id": "LOTUS_WATER_ORB",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      2,
+      2,
+      2
+    ],
+    "result": {
+      "id": "LOTUS_CROWN",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "LOTUS_GOLD",
+        "count": 4
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "LOTUS_DIAMOND",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "LOTUS_DIAMOND",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "GENERATOR_UPGRADE_STONE_LILY_PAD_12",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "LOTUS_SILVER",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "LOTUS_GOLD",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "LOTUS",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "LOTUS_SILVER",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_WATER_LILY",
+        "count": 32
+      },
+      {
+        "id": "LOTUS_SILVER",
+        "count": 8
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "LOTUS_SINKER",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "FROGCOIN",
+        "count": 8
+      },
+      {
+        "id": "REVERSE_REFORGE_STONE_CORE",
+        "count": 8
+      },
+      {
+        "id": "LOTUS_GOLD",
+        "count": 8
+      },
+      {
+        "id": "WATER_ORB",
+        "count": 1
+      },
+      {
+        "id": "UNLUCKY_DOUBLOON",
+        "count": 8
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      0,
+      4,
+      0
+    ],
+    "result": {
+      "id": "LOTUS_WATER_ORB",
       "count": 1
     }
   },
@@ -62332,6 +63152,34 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "LOTUS_GOLD",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_RAW_FISH",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      0,
+      -1,
+      -1,
+      0,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "PUDDLE_JUMPER_HOOK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "RAW_FISH-3",
         "count": 1
       }
@@ -65458,6 +66306,34 @@
     }
   },
   {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "LOTUS",
+        "count": 16
+      },
+      {
+        "id": "REDSTONE",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    "result": {
+      "id": "RED_SWEATER",
+      "count": 1
+    }
+  },
+  {
     "type": "forge",
     "inputs": [
       {
@@ -65830,6 +66706,132 @@
     ],
     "result": {
       "id": "CHISEL",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 20
+      }
+    ],
+    "result": {
+      "id": "FISHING_ROD",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 50000
+      }
+    ],
+    "result": {
+      "id": "BRONZE_TROPHY_FROG_SACK",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 100000
+      }
+    ],
+    "result": {
+      "id": "APPLICANT_STATEMENT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 250000
+      }
+    ],
+    "result": {
+      "id": "STUDENT_STUDIES",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 500000
+      }
+    ],
+    "result": {
+      "id": "MASTER_THESIS",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 1000000
+      }
+    ],
+    "result": {
+      "id": "PHD_GRIMOIRE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 500000
+      }
+    ],
+    "result": {
+      "id": "LOTUS_ATOLL_TRAVEL_SCROLL",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 100000
+      }
+    ],
+    "result": {
+      "id": "SILVER_TROPHY_FROG_SACK",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 1000000
+      }
+    ],
+    "result": {
+      "id": "RIBBIT_THE_FISH",
       "count": 1
     }
   },
@@ -83656,8 +84658,8 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_WATER_LILY",
-        "count": 64
+        "id": "CONDENSED_WATER_LILY",
+        "count": 1
       },
       {
         "id": "BAYOU_WATER_ORB",
@@ -84374,6 +85376,30 @@
     "result": {
       "id": "TRIPWIRE_HOOK",
       "count": 2
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "LOTUS_GOLD",
+        "count": 2
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      0,
+      -1,
+      0,
+      -1,
+      0,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "TROPHY_LINE",
+      "count": 1
     }
   },
   {

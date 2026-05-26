@@ -7021,6 +7021,163 @@
     "name": "Lure",
     "isUltimate": false
   },
+  "MAGMARIZER": {
+    "id": "MAGMARIZER",
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Magmarizer I",
+          "§7Increases damage dealt to §c♆",
+          "§cMagmatic §7mobs by §a10%§7.",
+          "",
+          "§7Use this on an item in an Anvil",
+          "§7to apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "",
+          "§6Applied To:",
+          "§7- §fFishing Rod",
+          "§7- §fSword",
+          "§7- §fGauntlet",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Magmarizer II",
+          "§7Increases damage dealt to §c♆",
+          "§cMagmatic §7mobs by §a20%§7.",
+          "",
+          "§7Use this on an item in an Anvil",
+          "§7to apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "",
+          "§6Applied To:",
+          "§7- §fFishing Rod",
+          "§7- §fSword",
+          "§7- §fGauntlet",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Magmarizer III",
+          "§7Increases damage dealt to §c♆",
+          "§cMagmatic §7mobs by §a30%§7.",
+          "",
+          "§7Use this on an item in an Anvil",
+          "§7to apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "",
+          "§6Applied To:",
+          "§7- §fFishing Rod",
+          "§7- §fSword",
+          "§7- §fGauntlet",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Magmarizer IV",
+          "§7Increases damage dealt to §c♆",
+          "§cMagmatic §7mobs by §a40%§7.",
+          "",
+          "§7Use this on an item in an Anvil",
+          "§7to apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "",
+          "§6Applied To:",
+          "§7- §fFishing Rod",
+          "§7- §fSword",
+          "§7- §fGauntlet",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Magmarizer V",
+          "§7Increases damage dealt to §c♆",
+          "§cMagmatic §7mobs by §a60%§7.",
+          "",
+          "§7Use this on an item in an Anvil",
+          "§7to apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "",
+          "§6Applied To:",
+          "§7- §fFishing Rod",
+          "§7- §fSword",
+          "§7- §fGauntlet",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 6,
+        "literal_level": "VI",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Magmarizer VI",
+          "§7Increases damage dealt to §c♆",
+          "§cMagmatic §7mobs by §a80%§7.",
+          "",
+          "§7Use this on an item in an Anvil",
+          "§7to apply it!",
+          "",
+          "§6Source:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "",
+          "§6Applied To:",
+          "§7- §fFishing Rod",
+          "§7- §fSword",
+          "§7- §fGauntlet",
+          "",
+          "§f§lCOMMON"
+        ]
+      }
+    ],
+    "name": "Magmarizer",
+    "isUltimate": false
+  },
   "MAGNET": {
     "id": "MAGNET",
     "levels": [
