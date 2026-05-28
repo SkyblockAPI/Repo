@@ -96,10 +96,9 @@ export const Mobs = {
                 });
             });
 
-            // TODO: maybe condense xp/coins into the drops list..?
             lootTables.push({
                 name: stripColorCodes(recipe.name) || realName,
-                level: recipe.level || 0,
+                mobLevel: recipe.level || 0,
                 coins: recipe.coins || 0,
                 xp: recipe.xp || 0,
                 combatXp: recipe.combat_xp || 0,
