@@ -3990,6 +3990,52 @@
     "input": {
       "type": "pet",
       "pet": "BABY_YETI",
+      "tier": "UNCOMMON",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BABY_YETI",
+      "tier": "RARE",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "ICE_HUNK",
+        "count": 64
+      }
+    ],
+    "time": 172800,
+    "coins": 100000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BABY_YETI",
+      "tier": "RARE",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "BABY_YETI",
+      "tier": "EPIC",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "ICE_HUNK",
+        "count": 128
+      }
+    ],
+    "time": 259200,
+    "coins": 250000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "BABY_YETI",
       "tier": "EPIC",
       "count": 1
     },
@@ -43052,6 +43098,21 @@
       "type": "pet",
       "pet": "HERMIT_CRAB",
       "tier": "COMMON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "inputs": [
+      {
+        "id": "RUSTY_COIN",
+        "count": 16
+      }
+    ],
+    "result": {
+      "type": "enchantment",
+      "id": "LUCK_OF_THE_SEA",
+      "level": 6,
       "count": 1
     }
   },
