@@ -64,7 +64,7 @@ export const Mobs = {
         const realId = item.internalname.replace("MAYOR_MONSTER", "MAYOR");
         const [, realName, type] = item.displayname.match(/^§.(.*) \((.*)\)$/) || [];
 
-        const lootpools = [];
+        const lootTables = [];
 
         (item.recipes || []).forEach(recipe => {
             if (recipe.type !== "drops") return;
@@ -86,10 +86,10 @@ export const Mobs = {
                     }
                 }
 
-                const { count, ...stuff } = getInputs(rawId, inIdAmount);
+                const { count, ...properties } = getInputs(rawId, inIdAmount);
 
                 drops.push({
-                    ...stuff, // TODO: name this correctly
+                    ...properties,
                     chance: chance,
                     minAmount: minAmount !== 1 ? minAmount : inIdAmount,
                     maxAmount: maxAmount !== 1 ? maxAmount : inIdAmount,
@@ -97,7 +97,7 @@ export const Mobs = {
             });
 
             // TODO: maybe condense xp/coins into the drops list..?
-            lootpools.push({
+            lootTables.push({
                 name: stripColorCodes(recipe.name) || realName,
                 level: recipe.level || 0,
                 coins: recipe.coins || 0,
@@ -114,7 +114,7 @@ export const Mobs = {
             itemId: getItemId(item.itemid, item.damage),
             name: realName,
             type: type,
-            lootpools: lootpools.length === 0 ? undefined : lootpools, // TODO: better name than lootpools i think
+            lootTables: lootTables.length === 0 ? undefined : lootTables,
         };
     },
     writeMobs: (path) => {
