@@ -421,6 +421,55 @@
           ]
         }
       },
+      "RARE": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTU5NTM1NjY0MjQwNSwKICAicHJvZmlsZUlkIiA6ICI3NTJkODM0NDViMDA0OTIwODMwYTE4MGVhNTVmMzNhMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWxZZXRpIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VmOWY2YTU3ZDhmNjg2ZmVkZDUxODVkMTc4NTUwOTEzZjQ4ZjkxYjU3YzkxNjJkNzBkMzY4YjFmZDlmZTJiNTIiCiAgICB9CiAgfQp9",
+        "lore": [
+          "§8Fishing Pet",
+          "",
+          "§7Strength: §c{STRENGTH}",
+          "§7Fishing Speed: §b{FISHING_SPEED}",
+          "§7Sea Creature Chance: §3{SEA_CREATURE_CHANCE}%",
+          "",
+          "§6Yeti Fury",
+          "§7Buffs the §6Yeti Sword §7by §a{0} §c❁ Damage",
+          "§7and §b✎ Intelligence §7and reduces its",
+          "§7cooldown by §a{1}%§7.",
+          "",
+          "§6Cold Breeze",
+          "§7Increases §cCombat Stats §7and §bFishing",
+          "§bStats §7by §a{2}% §7while on §cJerry's",
+          "§cWorkshop§7.",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§9§lRARE"
+        ],
+        "variables": {
+          "0": [
+            0.75,
+            75
+          ],
+          "1": [
+            0.35,
+            35
+          ],
+          "2": [
+            0.1,
+            10
+          ],
+          "STRENGTH": [
+            0.5,
+            50
+          ],
+          "FISHING_SPEED": [
+            0.5,
+            50
+          ],
+          "SEA_CREATURE_CHANCE": [
+            0.05,
+            5
+          ]
+        }
+      },
       "EPIC": {
         "texture": "ewogICJ0aW1lc3RhbXAiIDogMTU5NTM1NjY0MjQwNSwKICAicHJvZmlsZUlkIiA6ICI3NTJkODM0NDViMDA0OTIwODMwYTE4MGVhNTVmMzNhMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWxZZXRpIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VmOWY2YTU3ZDhmNjg2ZmVkZDUxODVkMTc4NTUwOTEzZjQ4ZjkxYjU3YzkxNjJkNzBkMzY4YjFmZDlmZTJiNTIiCiAgICB9CiAgfQp9",
         "lore": [
@@ -3982,8 +4031,6 @@
           "§7Increases your chance to catch",
           "§2Forest §7Shards by §a{0}%§7.",
           "",
-          "§eRight-click to add this pet to your pet menu!",
-          "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
@@ -4019,8 +4066,6 @@
           "§6Hunting Enjoyer",
           "§7Increases your chance to catch",
           "§2Forest§7 and §bWater §7Shards by §a{0}%§7.",
-          "",
-          "§eRight-click to add this pet to your pet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -4058,8 +4103,6 @@
           "§7Increases your chance to catch",
           "§2Forest§7, §bWater§7, and §cCombat §7Shards by",
           "§a{0}%§7.",
-          "",
-          "§eRight-click to add this pet to your pet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -4101,8 +4144,6 @@
           "§6Hop",
           "§7Grants §6{1}☘ Foraging Fortune §7for",
           "§e20 §7seconds every time you jump.",
-          "",
-          "§eRight-click to add this pet to your pet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -4153,8 +4194,6 @@
           "§7Grants §6{2}☘ Foraging Fortune §7for",
           "§7every other §2Frog Pet §7on the island,",
           "§7up to §b10 §7frogs.",
-          "",
-          "§eRight-click to add this pet to your pet menu!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
@@ -4216,8 +4255,6 @@
           "§7Increases your chance of catching",
           "§6§lGOLD §7and §b§lDIAMOND §2Trophy Frogs",
           "§7by §a{4}%§7.",
-          "",
-          "§eRight-click to add this pet to your pet menu!",
           "",
           "§d§lMYTHIC"
         ],
@@ -7115,7 +7152,7 @@
           "§7the §cCrimson Isle§7.",
           "",
           "§6Trophy Bait",
-          "§7Grants §6+{3}♔ Trophy Fish Chance",
+          "§7Grants §6+{3}♔ Trophy Chance",
           "§7while on the §cCrimson Isle§7.",
           "",
           "§8This pet's perks are active even",
@@ -7176,7 +7213,7 @@
           "§7the §cCrimson Isle§7.",
           "",
           "§6Trophy Bait",
-          "§7Grants §6+{3}♔ Trophy Fish Chance",
+          "§7Grants §6+{3}♔ Trophy Chance",
           "§7while on the §cCrimson Isle§7.",
           "",
           "§6Kuudra Specialist",
@@ -11981,8 +12018,6 @@
           "§6Primordial Fisher",
           "§7Increases this pet's base stats by",
           "§a{2}%§7 during §brain§7.",
-          "",
-          "§eRight-click to add this pet to your pet menu!",
           "",
           "§6§lLEGENDARY"
         ],
