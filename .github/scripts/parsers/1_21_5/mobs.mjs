@@ -2,8 +2,6 @@ import fs from "fs";
 import { getItemId } from "./items.mjs";
 import { getInputs } from "./recipes/ingredients.mjs";
 
-// TODO: fix attributes, potions & runes
-
 const mobsFile = {};
 
 const stripColorCodes = (str) => {
@@ -64,7 +62,7 @@ export const Mobs = {
     /** @param item {Item} */
     parseMob: (item) => {
         const realId = item.internalname.replace("MAYOR_MONSTER", "MAYOR");
-        const realName = stripColorCodes(item.displayname);
+        const [, realName, type] = item.displayname.match(/^§.(.*) \((.*)\)$/) || [];
 
         const lootpools = [];
 
@@ -115,6 +113,7 @@ export const Mobs = {
             texture: item.nbt.SkullOwner?.Properties?.textures[0]?.Value,
             itemId: getItemId(item.itemid, item.damage),
             name: realName,
+            type: type,
             lootpools: lootpools.length === 0 ? undefined : lootpools, // TODO: better name than lootpools i think
         };
     },

@@ -2,6 +2,7 @@ import {petIds} from "../pets.mjs";
 import {enchantmentIds} from "../enchantments.mjs";
 import {attributeIds} from "../attributes.mjs";
 import {potionIds} from "../potions.mjs";
+import {runeIds} from "../runes.mjs";
 
 export const BITS_ID = "SKYBLOCK_BIT";
 export const COINS_ID = "SKYBLOCK_COIN";
@@ -139,10 +140,10 @@ export const getInputs = (item, amount) => {
                 level: second,
                 count: amount,
             }
-        } else if (attributeIds.includes(itemId)) {
+        } else if (attributeIds.includes(itemId.replace("ATTRIBUTE_SHARD_", ""))) {
             return {
                 type: "attribute",
-                id: itemId,
+                id: itemId.replace("ATTRIBUTE_SHARD_", ""),
                 count: amount,
             }
         } else if (potionIds.includes(itemId)) {
@@ -150,6 +151,13 @@ export const getInputs = (item, amount) => {
                 type: "potion",
                 id: itemId,
                 level: second,
+                count: amount
+            }
+        } else if (runeIds.includes(itemId.replace("_RUNE", ""))) {
+            return {
+                type: "rune",
+                id: itemId.replace("_RUNE", ""),
+                tier: second,
                 count: amount
             }
         }
