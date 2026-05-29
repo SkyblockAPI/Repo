@@ -1414,12 +1414,12 @@
       "",
       "§f§lCOMMON WATER SHARD"
     ],
-    "attribute_id": "C8",
-    "shard_name": "Night Squid Shard",
+    "attribute_id": "C32",
+    "shard_name": "Inkling Shard",
     "shard_id": "SHARD_NIGHT_SQUID",
     "name": "Fisherman",
     "item": "minecraft:player_head",
-    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTc4MDc3NzYyNCwKICAicHJvZmlsZUlkIiA6ICJhYTZhNDA5NjU4YTk0MDIwYmU3OGQwN2JkMzVlNTg5MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiejE0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2NGJkYzZmNjAwNjU2NTExYmVmNTk2YzFhMTZhYWIxZDNmNWRiYWFlOGJlZTE5ZDVjMDRkZTBkYjIxY2U5MmMiCiAgICB9CiAgfQp9",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMTc1MTU3NTc5OCwKICAicHJvZmlsZUlkIiA6ICI4YzQwMGUyYTNiNjI0YTkzODBkYzdlZWNkMmE3NDNhNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJaemVydnluIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M2YmU0MGI3MGQ3MzljZjgyMWIwMzJkNzkwMDBiY2YxN2Y4MzNkYzRlY2M0YTMwMzBkOWFjZjY3YzkyMDI5NGUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
     "rarity": "COMMON",
     "max": 96
   },
