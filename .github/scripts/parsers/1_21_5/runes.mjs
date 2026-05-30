@@ -1,6 +1,7 @@
 import fs from "fs";
 
 const runesFile = {}
+export const runeIds = []
 
 export const Runes = {
     /** @param item {Item} */
@@ -13,6 +14,7 @@ export const Runes = {
         const rune = Object.keys(runes)[0];
         const tier = runes[rune];
 
+        runeIds.push(rune);
         const runeInfo = runesFile[rune] || []
         runeInfo.push({
             tier: tier,
