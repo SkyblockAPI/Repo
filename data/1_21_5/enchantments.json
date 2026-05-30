@@ -1381,8 +1381,9 @@
     "levels": [
       {
         "level": 1,
-        "literal_level": "catch",
+        "literal_level": "I",
         "lore": [
+          "§7Increases the chance to catch",
           "§7higher-tiered §6Trophies §7by §a2%§7.",
           "",
           "§7Use this on an item in an Anvil",
@@ -1505,7 +1506,7 @@
         ]
       }
     ],
-    "name": "Increases the chance to",
+    "name": "Charm",
     "isUltimate": false
   },
   "CLEAVE": {
