@@ -62,7 +62,7 @@ export const Mobs = {
     /** @param item {Item} */
     parseMob: (item) => {
         const realId = item.internalname.replace("MAYOR_MONSTER", "MAYOR");
-        const [, realName, type] = item.displayname.match(/^§.(.*) \((.*)\)$/) || [];
+        const [, realName, type] = item.displayname.match(/^§.(.*?)(?: \(([^)]+)\))?$/) || [];
 
         const lootTables = [];
 
