@@ -9021,7 +9021,8 @@
     "type": "NPC"
   },
   "ISLAND_NPC": {
-    "itemId": "minecraft:polar_bear_spawn_egg"
+    "itemId": "minecraft:polar_bear_spawn_egg",
+    "name": "Island NPC"
   },
   "IVAN_NPC": {
     "island": "mining_3",
