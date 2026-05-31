@@ -1111,7 +1111,8 @@
       }
     ],
     "result": {
-      "id": "ATTRIBUTE_SHARD_FIG_SHARPENING;1",
+      "type": "attribute",
+      "id": "FIG_SHARPENING",
       "count": 1
     }
   },
@@ -1124,7 +1125,8 @@
       }
     ],
     "result": {
-      "id": "ATTRIBUTE_SHARD_MANGROVE_SHARPENING;1",
+      "type": "attribute",
+      "id": "MANGROVE_SHARPENING",
       "count": 1
     }
   },
@@ -19932,7 +19934,8 @@
       }
     ],
     "result": {
-      "id": "ATTRIBUTE_SHARD_COOKIE_EATER;1",
+      "type": "attribute",
+      "id": "COOKIE_EATER",
       "count": 1
     }
   },
@@ -43267,7 +43270,8 @@
       }
     ],
     "result": {
-      "id": "ATTRIBUTE_SHARD_HUNTERS_FANGS;1",
+      "type": "attribute",
+      "id": "HUNTERS_FANGS",
       "count": 1
     }
   },
@@ -43281,7 +43285,8 @@
       }
     ],
     "result": {
-      "id": "ATTRIBUTE_SHARD_PURE_REPTILE;1",
+      "type": "attribute",
+      "id": "PURE_REPTILE",
       "count": 1
     }
   },
@@ -43295,7 +43300,8 @@
       }
     ],
     "result": {
-      "id": "ATTRIBUTE_SHARD_EELASTIC;1",
+      "type": "attribute",
+      "id": "EELASTIC",
       "count": 1
     }
   },
@@ -43309,7 +43315,8 @@
       }
     ],
     "result": {
-      "id": "ATTRIBUTE_SHARD_ECHO_OF_SHARPENING;1",
+      "type": "attribute",
+      "id": "ECHO_OF_SHARPENING",
       "count": 1
     }
   },
