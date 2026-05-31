@@ -42,7 +42,9 @@ for (let file of fs.readdirSync("neu/items")) {
     })
 
     if (isEntity(file)) {
-        Mobs.parseMob(data);
+        post.push(() => {
+            Mobs.parseMob(data);
+        })
     } else {
         if (attributes.hasOwnProperty("attributes") && data.internalname.startsWith("ATTRIBUTE_SHARD_")) {
             Attributes.parseAttribute(data)
