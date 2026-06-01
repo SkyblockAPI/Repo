@@ -60411,12 +60411,12 @@
     },
     "items": [
       {
-        "id": "PORK",
-        "count": 128
+        "id": "SMALL_PIG_EAR",
+        "count": 1
       }
     ],
-    "time": 10,
-    "coins": 500
+    "time": 60,
+    "coins": 100
   },
   {
     "type": "kat",
@@ -60434,12 +60434,12 @@
     },
     "items": [
       {
-        "id": "PORK",
-        "count": 256
+        "id": "MEDIUM_PIG_EAR",
+        "count": 1
       }
     ],
-    "time": 20,
-    "coins": 2500
+    "time": 3600,
+    "coins": 10000
   },
   {
     "type": "kat",
@@ -60457,12 +60457,12 @@
     },
     "items": [
       {
-        "id": "PORK",
-        "count": 512
+        "id": "LARGE_PIG_EAR",
+        "count": 1
       }
     ],
-    "time": 30,
-    "coins": 5000
+    "time": 86400,
+    "coins": 250000
   },
   {
     "type": "kat",
@@ -60480,12 +60480,12 @@
     },
     "items": [
       {
-        "id": "ENCHANTED_PORK",
-        "count": 8
+        "id": "GIANT_PIG_EAR",
+        "count": 1
       }
     ],
-    "time": 45,
-    "coins": 10000
+    "time": 259200,
+    "coins": 500000
   },
   {
     "type": "crafting",
