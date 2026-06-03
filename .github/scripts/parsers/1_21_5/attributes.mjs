@@ -3,6 +3,7 @@ import {getItemId} from "./items.mjs";
 import {NeuData} from "../../utils/common_neu_data.mjs";
 
 const attributesFile = [];
+const attributeOverlaysFile = [];
 export const attributeIds = []
 
 export const Attributes = {
@@ -63,6 +64,6 @@ export const Attributes = {
         fs.writeFileSync(`cloudflare/${path}/attributes.min.json`, JSON.stringify(attributesFile));
         fs.writeFileSync(`data/${path}/attributes.json`, JSON.stringify(attributesFile, null, 2));
 
-        return JSON.stringify(attributesFile);
+        return {attributes: JSON.stringify(attributesFile), attributeOverlays: attributeOverlaysFile};
     }
 }

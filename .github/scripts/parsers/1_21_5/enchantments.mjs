@@ -1,6 +1,7 @@
 import fs from "fs";
 
 const enchantmentFile = {};
+const enchantmentOverlaysFile = [];
 export const enchantmentIds = []
 
 export const Enchantments = {
@@ -55,6 +56,6 @@ export const Enchantments = {
         fs.writeFileSync(`cloudflare/${path}/enchantments.min.json`, JSON.stringify(enchantmentFile));
         fs.writeFileSync(`data/${path}/enchantments.json`, JSON.stringify(enchantmentFile, null, 2));
 
-        return JSON.stringify(enchantmentFile);
+        return {enchantments: JSON.stringify(enchantmentFile), enchantmentOverlays: enchantmentOverlaysFile};
     }
 }

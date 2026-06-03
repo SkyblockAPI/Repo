@@ -1,12 +1,23 @@
 import fs from "fs";
 
 const itemsFile = [];
+const itemOverlaysFile = [];
 
 const converter = JSON.parse(fs.readFileSync(".github/scripts/data/1_8_9_to_1_21_1.json", "utf-8"))
 const specialItems = JSON.parse(fs.readFileSync(".github/scripts/data/special_items.json", "utf-8"))
 
 const lookup = converter.lookup
 const ignoreDamage = converter.ignore_damage
+
+export const cleanObject = (obj) => {
+    const cleaned = {};
+    for (const key in obj) {
+        if (obj[key] !== undefined) {
+            cleaned[key] = obj[key];
+        }
+    }
+    return cleaned;
+};
 
 export const getItemId = (id, damage) => {
     const newId = lookup[`${id}${ignoreDamage.includes(id) || damage === 0 ? "" : `:${damage}`}`];
@@ -72,11 +83,21 @@ export const Items = {
                 'minecraft:item_model': itemModel,
             }
         });
+
+        const overlayData = cleanObject({
+            type: "item",
+            id: item.nbt.ExtraAttributes.id,
+            vanilla: item.vanilla ? true : undefined,
+        });
+
+        if (Object.keys(overlayData).length > 2) {
+            itemOverlaysFile.push(overlayData)
+        }
     },
     writeItems: (path) => {
         fs.writeFileSync(`cloudflare/${path}/items.min.json`, JSON.stringify(itemsFile));
         fs.writeFileSync(`data/${path}/items.json`, JSON.stringify(itemsFile, null, 2));
 
-        return JSON.stringify(itemsFile);
+        return {items: JSON.stringify(itemsFile), itemOverlays: itemOverlaysFile};
     }
 }

@@ -3,6 +3,7 @@ import { getItemId } from "./items.mjs";
 import { getInputs } from "./recipes/ingredients.mjs";
 
 const mobsFile = {};
+const mobOverlaysFile = [];
 
 const stripColorCodes = (str) => {
     if (typeof str !== 'string') return str;
@@ -120,6 +121,6 @@ export const Mobs = {
         fs.writeFileSync(`cloudflare/${path}/mobs.min.json`, JSON.stringify(mobsFile));
         fs.writeFileSync(`data/${path}/mobs.json`, JSON.stringify(mobsFile, null, 2));
 
-        return JSON.stringify(mobsFile);
+        return {mobs: JSON.stringify(mobsFile), mobOverlays: mobOverlaysFile};
     }
 };

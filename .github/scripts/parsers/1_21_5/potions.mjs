@@ -117,6 +117,7 @@ const potionTypeMappings = {
 }
 
 const potionFile = {};
+const potionOverlaysFile = [];
 export const potionIds = []
 
 export const Potions = {
@@ -162,6 +163,6 @@ export const Potions = {
         fs.writeFileSync(`cloudflare/${path}/potions.min.json`, JSON.stringify(potionFile));
         fs.writeFileSync(`data/${path}/potions.json`, JSON.stringify(potionFile, null, 2));
 
-        return JSON.stringify(potionFile);
+        return {potions: JSON.stringify(potionFile), potionOverlays: potionOverlaysFile};
     }
 }

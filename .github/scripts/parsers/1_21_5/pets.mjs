@@ -8,6 +8,7 @@ const RIGHT_CLICK_LORE_3 = "§eRight-click to add this pet to your";
 const stats = JSON.parse(fs.readFileSync("neu/constants/petnums.json", "utf-8"));
 
 const petsFile = {}
+const petOverlaysFile = []
 export const petIds = []
 
 const getPetVariables = (pet, tier) => {
@@ -89,6 +90,6 @@ export const Pets = {
         fs.writeFileSync(`cloudflare/${path}/pets.min.json`, JSON.stringify(petsFile));
         fs.writeFileSync(`data/${path}/pets.json`, JSON.stringify(petsFile, null, 2));
 
-        return JSON.stringify(petsFile);
+        return {pets: JSON.stringify(petsFile), petOverlays: petOverlaysFile};
     }
 }

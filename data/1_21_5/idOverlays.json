@@ -1,0 +1,2438 @@
+[
+  {
+    "type": "item",
+    "id": "ACACIA_DOOR_ITEM",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "ACACIA_FENCE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "ACACIA_FENCE_GATE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "ACACIA_STAIRS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "ACTIVATOR_RAIL",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "ANVIL",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "APPLE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "ARMOR_STAND",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "ARROW",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BAKED_POTATO",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BANNER-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BANNER-10",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BANNER-11",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BANNER-12",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BANNER-13",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BANNER-14",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BANNER-15",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BANNER-2",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BANNER-3",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BANNER-4",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BANNER-5",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BANNER-6",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BANNER-7",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BANNER-8",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BANNER-9",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BANNER",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BARRIER",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BED",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BIRCH_DOOR_ITEM",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BIRCH_FENCE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BIRCH_FENCE_GATE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BIRCH_WOOD_STAIRS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BLAZE_POWDER",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BLAZE_ROD",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BOAT",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BONE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BOOK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BOOKSHELF",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BOOK_AND_QUILL",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BOW",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BOWL",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BREAD",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BREWING_STAND_ITEM",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BRICK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BRICK_STAIRS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BROWN_MUSHROOM",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "BUCKET",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CACTUS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CAKE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CARPET-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CARPET-10",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CARPET-11",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CARPET-12",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CARPET-13",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CARPET-14",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CARPET-15",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CARPET-2",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CARPET-3",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CARPET-4",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CARPET-5",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CARPET-6",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CARPET-7",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CARPET-8",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CARPET-9",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CARPET",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CARROT_ITEM",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CARROT_STICK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CAULDRON_ITEM",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CHAINMAIL_BOOTS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CHAINMAIL_CHESTPLATE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CHAINMAIL_HELMET",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CHAINMAIL_LEGGINGS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CHEST",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CLAY",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CLAY_BALL",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "CLAY_BRICK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "COAL-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "COAL",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "COAL_BLOCK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "COAL_ORE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "COBBLESTONE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "COBBLESTONE_STAIRS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "COBBLE_WALL-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "COBBLE_WALL",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "COMMAND",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "COMMAND_MINECART",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "COMPASS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "COOKED_BEEF",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "COOKED_CHICKEN",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "COOKED_FISH-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "COOKED_FISH",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "COOKED_MUTTON",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "COOKED_RABBIT",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "COOKIE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DARK_OAK_DOOR_ITEM",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DARK_OAK_FENCE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DARK_OAK_FENCE_GATE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DARK_OAK_STAIRS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DAYLIGHT_DETECTOR",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DEAD_BUSH",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DETECTOR_RAIL",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DIAMOND",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DIAMOND_AXE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DIAMOND_BARDING",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DIAMOND_BLOCK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DIAMOND_BOOTS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DIAMOND_CHESTPLATE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DIAMOND_HELMET",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DIAMOND_HOE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DIAMOND_LEGGINGS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DIAMOND_ORE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DIAMOND_PICKAXE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DIAMOND_SPADE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DIAMOND_SWORD",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DIODE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DIRT-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DIRT",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DISPENSER",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DOUBLE_PLANT-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DOUBLE_PLANT-2",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DOUBLE_PLANT-4",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DOUBLE_PLANT-5",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DOUBLE_PLANT",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DRAGON_EGG",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "DROPPER",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "EGG",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "EMERALD",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "EMERALD_BLOCK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "EMERALD_ORE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "EMPTY_MAP",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "ENCHANTED_BOOK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "ENCHANTMENT_TABLE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "ENDER_CHEST",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "ENDER_PEARL",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "ENDER_PORTAL_FRAME",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "ENDER_STONE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "EXPLOSIVE_MINECART",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "EYE_OF_ENDER",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "FEATHER",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "FENCE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "FENCE_GATE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "FERMENTED_SPIDER_EYE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "FIREBALL",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "FIREWORK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "FIREWORK_CHARGE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "FISHING_ROD",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "FLINT",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "FLINT_AND_STEEL",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "FLOWER_POT_ITEM",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "FURNACE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GHAST_TEAR",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GLASS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GLASS_BOTTLE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GLOWSTONE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GLOWSTONE_DUST",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GOLDEN_APPLE-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GOLDEN_APPLE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GOLDEN_CARROT",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GOLD_AXE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GOLD_BARDING",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GOLD_BLOCK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GOLD_BOOTS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GOLD_CHESTPLATE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GOLD_HELMET",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GOLD_HOE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GOLD_INGOT",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GOLD_LEGGINGS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GOLD_NUGGET",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GOLD_ORE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GOLD_PICKAXE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GOLD_PLATE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GOLD_RECORD",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GOLD_SPADE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GOLD_SWORD",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GRASS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GRAVEL",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GREEN_RECORD",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "GRILLED_PORK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "HARD_CLAY",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "HAY_BLOCK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "HOPPER",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "HOPPER_MINECART",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "ICE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "INK_SACK-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "INK_SACK-11",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "INK_SACK-12",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "INK_SACK-13",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "INK_SACK-14",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "INK_SACK-15",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "INK_SACK-2",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "INK_SACK-3",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "INK_SACK-4",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "INK_SACK-5",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "INK_SACK-6",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "INK_SACK-7",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "INK_SACK-8",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "INK_SACK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "IRON_AXE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "IRON_BARDING",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "IRON_BLOCK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "IRON_BOOTS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "IRON_CHESTPLATE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "IRON_DOOR",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "IRON_FENCE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "IRON_HELMET",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "IRON_HOE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "IRON_INGOT",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "IRON_LEGGINGS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "IRON_ORE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "IRON_PICKAXE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "IRON_PLATE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "IRON_SPADE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "IRON_SWORD",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "IRON_TRAPDOOR",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "ITEM_FRAME",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "JACK_O_LANTERN",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "JUKEBOX",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "JUNGLE_DOOR_ITEM",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "JUNGLE_FENCE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "JUNGLE_FENCE_GATE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "JUNGLE_WOOD_STAIRS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "LADDER",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "LAPIS_BLOCK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "LAPIS_ORE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "LAVA_BUCKET",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "LEASH",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "LEATHER",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "LEATHER_BOOTS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "LEATHER_CHESTPLATE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "LEATHER_HELMET",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "LEATHER_LEGGINGS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "LEAVES",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "LEAVES_2",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "LEVER",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "LONG_GRASS-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "LONG_GRASS-2",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "LONG_GRASS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "MAGMA_CREAM",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "MAP",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "MELON",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "MELON_BLOCK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "MELON_SEEDS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "MILK_BUCKET",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "MINECART",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "MOB_SPAWNER",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "MONSTER_EGG",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "MONSTER_EGGS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "MOSSY_COBBLESTONE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "MUSHROOM_SOUP",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "MUTTON",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "NAME_TAG",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "NETHERRACK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "NETHER_BRICK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "NETHER_BRICK_ITEM",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "NETHER_BRICK_STAIRS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "NETHER_FENCE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "NETHER_STALK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "NETHER_STAR",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "NOTE_BLOCK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "OBSIDIAN",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "PACKED_ICE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "PAINTING",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "PAPER",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "PISTON_BASE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "PISTON_STICKY_BASE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "POISONOUS_POTATO",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "PORK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "POTATO_ITEM",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "POTION",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "POWERED_MINECART",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "POWERED_RAIL",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "PRISMARINE-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "PRISMARINE-2",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "PRISMARINE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "PRISMARINE_CRYSTALS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "PRISMARINE_SHARD",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "PUMPKIN",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "PUMPKIN_PIE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "PUMPKIN_SEEDS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "QUARTZ",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "QUARTZ_BLOCK-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "QUARTZ_BLOCK-2",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "QUARTZ_BLOCK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "QUARTZ_ORE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "QUARTZ_STAIRS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RABBIT",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RABBIT_FOOT",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RABBIT_HIDE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RABBIT_STEW",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RAILS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RAW_BEEF",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RAW_CHICKEN",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RAW_FISH",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RECORD_10",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RECORD_11",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RECORD_12",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RECORD_3",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RECORD_4",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RECORD_5",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RECORD_6",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RECORD_7",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RECORD_8",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RECORD_9",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "REDSTONE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "REDSTONE_BLOCK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "REDSTONE_COMPARATOR",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "REDSTONE_LAMP_OFF",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "REDSTONE_ORE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "REDSTONE_TORCH_ON",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RED_MUSHROOM",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RED_ROSE-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RED_ROSE-2",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RED_ROSE-3",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RED_ROSE-4",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RED_ROSE-5",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RED_ROSE-6",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RED_ROSE-7",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RED_ROSE-8",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RED_ROSE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RED_SANDSTONE-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RED_SANDSTONE-2",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RED_SANDSTONE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RED_SANDSTONE_STAIRS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "ROTTEN_FLESH",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SADDLE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SAND-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SAND",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SANDSTONE-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SANDSTONE-2",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SANDSTONE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SANDSTONE_STAIRS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SAPLING-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SAPLING-2",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SAPLING-3",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SAPLING-4",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SAPLING-5",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SAPLING",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SEA_LANTERN",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SEEDS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SHEARS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SIGN",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SKULL_ITEM",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SLIME_BALL",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SLIME_BLOCK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SMOOTH_BRICK-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SMOOTH_BRICK-2",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SMOOTH_BRICK-3",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SMOOTH_BRICK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SMOOTH_STAIRS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SNOW",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SNOW_BALL",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SNOW_BLOCK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SOUL_SAND",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SPECKLED_MELON",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SPIDER_EYE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SPONGE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SPRUCE_DOOR_ITEM",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SPRUCE_FENCE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SPRUCE_FENCE_GATE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SPRUCE_WOOD_STAIRS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_CLAY-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_CLAY-10",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_CLAY-11",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_CLAY-12",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_CLAY-13",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_CLAY-14",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_CLAY-15",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_CLAY-2",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_CLAY-3",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_CLAY-4",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_CLAY-5",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_CLAY-6",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_CLAY-7",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_CLAY-8",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_CLAY-9",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_CLAY",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS-10",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS-11",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS-12",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS-13",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS-14",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS-15",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS-2",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS-3",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS-4",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS-5",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS-6",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS-7",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS-8",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS-9",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS_PANE-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS_PANE-10",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS_PANE-11",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS_PANE-12",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS_PANE-13",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS_PANE-14",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS_PANE-15",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS_PANE-2",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS_PANE-3",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS_PANE-4",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS_PANE-5",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS_PANE-6",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS_PANE-7",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS_PANE-8",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS_PANE-9",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STAINED_GLASS_PANE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STEP-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STEP-3",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STEP-4",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STEP-5",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STEP-6",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STEP-7",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STEP",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STICK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STONE-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STONE-2",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STONE-3",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STONE-4",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STONE-5",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STONE-6",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STONE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STONE_AXE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STONE_BUTTON",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STONE_HOE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STONE_PICKAXE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STONE_PLATE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STONE_SLAB2",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STONE_SPADE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STONE_SWORD",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STORAGE_MINECART",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "STRING",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SUGAR",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SUGAR_CANE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SULPHUR",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "THIN_GLASS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "TNT",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "TORCH",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "TRAPPED_CHEST",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "TRAP_DOOR",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "TRIPWIRE_HOOK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "VINE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WATCH",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WATER_BUCKET",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WATER_LILY",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WEB",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WHEAT",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOD-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOD-2",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOD-3",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOD-4",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOD-5",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOD",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOD_AXE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOD_BUTTON",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOD_DOOR",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOD_HOE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOD_PICKAXE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOD_PLATE",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOD_STAIRS",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOD_STEP-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOD_STEP-2",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOD_STEP-3",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOD_STEP-4",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOD_STEP-5",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOD_STEP",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOD_SWORD",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOL-1",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOL-10",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOL-11",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOL-12",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOL-13",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOL-14",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOL-15",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOL-2",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOL-3",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOL-4",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOL-5",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOL-6",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOL-7",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOL-8",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOL-9",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WOOL",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WORKBENCH",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "WRITTEN_BOOK",
+    "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "YELLOW_FLOWER",
+    "vanilla": true
+  },
+  {}
+]
