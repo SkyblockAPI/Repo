@@ -1,4 +1,5 @@
 import fs from "fs";
+import {getOverlay} from "./id_overlays.mjs";
 
 const itemsFile = [];
 const itemOverlaysFile = [];
@@ -84,14 +85,13 @@ export const Items = {
             }
         });
 
-        const overlayData = cleanObject({
-            type: "item",
-            id: item.nbt.ExtraAttributes.id,
-            vanilla: item.vanilla ? true : undefined,
-        });
-
-        if (Object.keys(overlayData).length > 2) {
-            itemOverlaysFile.push(overlayData)
+        const overlayProps = getOverlay(item);
+        if (overlayProps) {
+            itemOverlaysFile.push({
+                type: "item",
+                id: item.nbt.ExtraAttributes.id,
+                ...getOverlay(item),
+            });
         }
     },
     writeItems: (path) => {

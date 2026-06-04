@@ -1,4 +1,5 @@
 import fs from "fs";
+import {getOverlay} from "./id_overlays.mjs";
 
 const enchantmentFile = {};
 const enchantmentOverlaysFile = [];
@@ -51,6 +52,16 @@ export const Enchantments = {
         })
 
         enchantmentFile[enchantId] = enchant
+
+        const overlayProps = getOverlay(item);
+        if (overlayProps) {
+            enchantmentOverlaysFile.push({
+                type: "enchantment",
+                id: enchantId,
+                level: enchantLevel,
+                ...overlayProps,
+            });
+        }
     },
     writeEnchantments: (path) => {
         fs.writeFileSync(`cloudflare/${path}/enchantments.min.json`, JSON.stringify(enchantmentFile));

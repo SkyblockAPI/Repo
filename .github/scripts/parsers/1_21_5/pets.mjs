@@ -1,5 +1,6 @@
 import fs from "fs";
 import {checkPetVariables} from "../../tests/pet_variables.test.mjs";
+import {getOverlay} from "./id_overlays.mjs";
 
 const RIGHT_CLICK_LORE_1 = "§7§eRight-click to add this pet to your";
 const RIGHT_CLICK_LORE_2 = "§7§eRight-click to add this pet to";
@@ -85,6 +86,16 @@ export const Pets = {
         data.tiers[item.pet.tier] = tier;
 
         petsFile[petId] = data
+
+        const overlayProps = getOverlay(item);
+        if (overlayProps) {
+            petOverlaysFile.push({
+                type: "pet",
+                id: petId,
+                tier: item.pet.tier,
+                ...overlayProps
+            });
+        }
     },
     writePets: (path) => {
         fs.writeFileSync(`cloudflare/${path}/pets.min.json`, JSON.stringify(petsFile));

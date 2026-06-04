@@ -1,6 +1,7 @@
 import fs from "fs";
 import { getItemId } from "./items.mjs";
 import { getInputs } from "./recipes/ingredients.mjs";
+import { getOverlay } from "./id_overlays.mjs";
 
 const mobsFile = {};
 const mobOverlaysFile = [];
@@ -116,6 +117,15 @@ export const Mobs = {
             type: type,
             lootTables: lootTables.length === 0 ? undefined : lootTables,
         };
+
+        const overlayProps = getOverlay(item);
+        if (overlayProps) {
+            mobOverlaysFile.push({
+                type: "mob",
+                id: realId,
+                ...overlayProps
+            });
+        }
     },
     writeMobs: (path) => {
         fs.writeFileSync(`cloudflare/${path}/mobs.min.json`, JSON.stringify(mobsFile));

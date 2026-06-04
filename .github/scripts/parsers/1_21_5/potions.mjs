@@ -1,9 +1,11 @@
 import fs from "fs";
+import {getOverlay} from "./id_overlays.mjs";
 
 /**
  * @type {Object.<number, string>}
  */
 const potionTypeMappings = {
+    // ... (keep the entire mapping dictionary the same)
     0: "water",
     1: "regeneration",
     2: "swiftness",
@@ -158,6 +160,16 @@ export const Potions = {
         })
 
         potionFile[potionId] = potion
+
+        const overlayProps = getOverlay(item);
+        if (overlayProps) {
+            potionOverlaysFile.push({
+                type: "potion",
+                id: potionId,
+                level: potionLevel,
+                ...overlayProps
+            });
+        }
     },
     writePotions: (path) => {
         fs.writeFileSync(`cloudflare/${path}/potions.min.json`, JSON.stringify(potionFile));
