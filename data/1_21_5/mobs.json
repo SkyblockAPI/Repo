@@ -208,31 +208,7 @@
         "combatXp": 0,
         "drops": [
           {
-            "id": "WATER_LILY",
-            "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
-            "id": "RAW_FISH",
-            "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
-            "id": "CLAY_BALL",
-            "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
-            "id": "RABBIT",
-            "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
-            "id": "ENCHANTED_RABBIT_FOOT",
+            "id": "ENCHANTED_WATER_LILY",
             "chance": 1,
             "minAmount": 1,
             "maxAmount": 1
@@ -240,6 +216,12 @@
           {
             "id": "ALLIGATOR_SKIN",
             "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "CONDENSED_WATER_LILY",
+            "chance": 0.005,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -1415,38 +1397,20 @@
             "maxAmount": 1
           },
           {
-            "id": "RAW_FISH-1",
-            "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
-            "id": "CLAY_BALL",
-            "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
-            "id": "RAW_FISH-2",
-            "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
-            "id": "ENCHANTED_CLAY_BALL",
-            "chance": 0.045,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
             "id": "TORN_CLOTH",
-            "chance": 0.045,
+            "chance": 0.03,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "ENCHANTED_WATER_LILY",
+            "chance": 0.02,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
             "id": "CALCIFIED_HEART",
-            "chance": 0.01,
+            "chance": 0.001,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -1722,28 +1686,20 @@
             "maxAmount": 1
           },
           {
-            "id": "CLAY_BALL",
-            "chance": 1,
+            "id": "ENCHANTED_SLIME_BALL",
+            "chance": 0.04,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
-            "id": "ENCHANTED_SLIME_BALL",
-            "chance": 0.045,
+            "id": "ENCHANTED_WATER_LILY",
+            "chance": 0.04,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
             "id": "POISON_SAMPLE",
-            "chance": 0.01,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
-            "type": "enchantment",
-            "id": "RESPITE",
-            "level": 1,
-            "chance": 0.01,
+            "chance": 0.005,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -1757,7 +1713,7 @@
           },
           {
             "id": "ENCHANTED_SLIME_BLOCK",
-            "chance": 0.005,
+            "chance": 0.0005,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -2145,19 +2101,7 @@
         "combatXp": 0,
         "drops": [
           {
-            "id": "ENCHANTED_RAW_SALMON",
-            "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
-            "id": "ENCHANTED_RAW_FISH",
-            "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
-            "id": "ENCHANTED_WATER_LILY",
+            "id": "ENCHANTED_CLAY_BALL",
             "chance": 1,
             "minAmount": 1,
             "maxAmount": 1
@@ -2165,6 +2109,12 @@
           {
             "id": "BLUE_RING",
             "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "ENCHANTED_CLAY_BLOCK",
+            "chance": 0.005,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -2754,8 +2704,8 @@
           {
             "id": "WATER_LILY",
             "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 3
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "SPONGE",
@@ -2834,8 +2784,8 @@
           {
             "id": "WATER_LILY",
             "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 3
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "RAW_FISH-3",
@@ -2866,6 +2816,12 @@
             "id": "FRAIL",
             "level": 6,
             "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_AQUAMARINE",
+            "chance": 4.0000000000000003e-7,
             "minAmount": 1,
             "maxAmount": 1
           }
@@ -4151,14 +4107,8 @@
           {
             "id": "WATER_LILY",
             "chance": 1,
-            "minAmount": 12,
-            "maxAmount": 15
-          },
-          {
-            "id": "RAW_FISH-2",
-            "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 3
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "SPONGE",
@@ -4167,10 +4117,8 @@
             "maxAmount": 1
           },
           {
-            "type": "enchantment",
-            "id": "ANGLER",
-            "level": 6,
-            "chance": 0.02,
+            "id": "RAW_FISH-2",
+            "chance": 1,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -4181,8 +4129,10 @@
             "maxAmount": 1
           },
           {
-            "id": "PET_ITEM_FISHING_SKILL_BOOST_EPIC",
-            "chance": 0.0002,
+            "type": "enchantment",
+            "id": "ANGLER",
+            "level": 6,
+            "chance": 0.02,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -4522,24 +4472,6 @@
           {
             "id": "WATER_LILY",
             "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 2
-          },
-          {
-            "id": "RAW_FISH",
-            "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 2
-          },
-          {
-            "id": "CLAY_BALL",
-            "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 2
-          },
-          {
-            "id": "SPONGE",
-            "chance": 0.5,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -4551,7 +4483,13 @@
           },
           {
             "id": "OVERFLOWING_TRASH_CAN",
-            "chance": 0.02,
+            "chance": 0.005,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "ENCHANTED_WATER_LILY",
+            "chance": 0.01,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -5584,18 +5522,6 @@
         "combatXp": 0,
         "drops": [
           {
-            "id": "ENCHANTED_RAW_FISH",
-            "chance": 1,
-            "minAmount": 8,
-            "maxAmount": 8
-          },
-          {
-            "id": "ENCHANTED_RAW_SALMON",
-            "chance": 1,
-            "minAmount": 8,
-            "maxAmount": 8
-          },
-          {
             "id": "SCORCHED_CRAB_STICK",
             "chance": 1,
             "minAmount": 1,
@@ -5604,8 +5530,8 @@
           {
             "id": "MAGMA_FISH_SILVER",
             "chance": 1,
-            "minAmount": 12,
-            "maxAmount": 12
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "ENCHANTED_BLAZE_ROD",
@@ -6210,13 +6136,7 @@
             "maxAmount": 1
           },
           {
-            "id": "RAW_FISH",
-            "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
-            "id": "RAW_FISH-2",
+            "id": "CLAY_BALL",
             "chance": 1,
             "minAmount": 1,
             "maxAmount": 1
@@ -6263,40 +6183,28 @@
         "combatXp": 0,
         "drops": [
           {
-            "id": "SNOW_BLOCK",
+            "id": "ESSENCE_ICE",
             "chance": 1,
-            "minAmount": 8,
-            "maxAmount": 8
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "ICE",
             "chance": 1,
-            "minAmount": 4,
-            "maxAmount": 4
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
-            "id": "WATER_LILY",
-            "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 2
-          },
-          {
-            "id": "CARROT_ITEM",
+            "id": "SNOW_BLOCK",
             "chance": 1,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
-            "id": "SPONGE",
+            "id": "ICE_HUNK",
             "chance": 1,
             "minAmount": 1,
             "maxAmount": 1
-          },
-          {
-            "id": "RAW_FISH",
-            "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 2
           },
           {
             "id": "WHITE_GIFT",
@@ -6305,16 +6213,28 @@
             "maxAmount": 1
           },
           {
-            "id": "ICE_HUNK",
+            "id": "GREEN_GIFT",
             "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 2
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
-            "id": "ESSENCE_ICE",
-            "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 2
+            "id": "ENCHANTED_SNOW_BLOCK",
+            "chance": 0.04,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "RED_GIFT",
+            "chance": 0.02,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "ENCHANTED_ICE",
+            "chance": 0.04,
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "DYE_ICEBERG",
@@ -6405,32 +6325,14 @@
         "combatXp": 0,
         "drops": [
           {
-            "id": "ICE",
-            "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 3
-          },
-          {
-            "id": "WATER_LILY",
+            "id": "ESSENCE_ICE",
             "chance": 1,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
-            "id": "RAW_FISH",
+            "id": "ICE",
             "chance": 1,
-            "minAmount": 3,
-            "maxAmount": 3
-          },
-          {
-            "id": "RAW_FISH-1",
-            "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 2
-          },
-          {
-            "id": "RAW_FISH-3",
-            "chance": 0.5,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -6449,12 +6351,6 @@
           {
             "id": "ICY_SINKER",
             "chance": 0.04,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
-            "id": "ESSENCE_ICE",
-            "chance": 0.25,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -7660,34 +7556,16 @@
         "combatXp": 0,
         "drops": [
           {
-            "id": "SPONGE",
+            "id": "PURPLE_CANDY",
             "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 4
-          },
-          {
-            "id": "WATER_LILY",
-            "chance": 1,
-            "minAmount": 32,
-            "maxAmount": 44
-          },
-          {
-            "id": "GREEN_CANDY",
-            "chance": 1,
-            "minAmount": 7,
-            "maxAmount": 7
-          },
-          {
-            "id": "DEEP_SEA_ORB",
-            "chance": 0.01,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
-            "id": "PURPLE_CANDY",
+            "id": "ENCHANTED_PUMPKIN",
             "chance": 1,
-            "minAmount": 3,
-            "maxAmount": 5
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "SOUL_FRAGMENT",
@@ -7702,19 +7580,37 @@
             "maxAmount": 1
           },
           {
+            "id": "DEEP_SEA_ORB",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
             "id": "PET_ITEM_VAMPIRE_FANG",
             "chance": 0.1,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
+            "id": "POLISHED_PUMPKIN",
+            "chance": 0.02,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
             "id": "BOBBIN_SCRIPTURES",
-            "chance": 0.018500000000000003,
+            "chance": 0.01,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
             "id": "DYE_MIDNIGHT",
+            "chance": 0.00002,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_AQUAMARINE",
             "chance": 0.00002,
             "minAmount": 1,
             "maxAmount": 1
@@ -7857,8 +7753,8 @@
           {
             "id": "WATER_LILY",
             "chance": 1,
-            "minAmount": 5,
-            "maxAmount": 7
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "RAW_FISH",
@@ -13139,38 +13035,44 @@
         "combatXp": 0,
         "drops": [
           {
-            "id": "WATER_LILY",
-            "chance": 1,
-            "minAmount": 6,
-            "maxAmount": 9
-          },
-          {
             "id": "GREEN_CANDY",
             "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 2
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
-            "id": "LUCKY_HOOF",
-            "chance": 0.01,
+            "id": "PUMPKIN",
+            "chance": 1,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
             "id": "PURPLE_CANDY",
-            "chance": 0.2,
+            "chance": 0.5,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
-            "id": "ENCHANTED_ROTTEN_FLESH",
-            "chance": 1,
+            "id": "ENCHANTED_PUMPKIN",
+            "chance": 0.05,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "LUCKY_HOOF",
+            "chance": 0.005,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
             "id": "DYE_MIDNIGHT",
             "chance": 0.000001,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_AQUAMARINE",
+            "chance": 2.0000000000000002e-7,
             "minAmount": 1,
             "maxAmount": 1
           }
@@ -13366,12 +13268,6 @@
             "id": "WATER_LILY",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 2
-          },
-          {
-            "id": "RABBIT_HIDE",
-            "chance": 0.7,
-            "minAmount": 1,
             "maxAmount": 1
           },
           {
@@ -13382,7 +13278,13 @@
           },
           {
             "id": "RABBIT",
-            "chance": 0.15,
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "RABBIT_HIDE",
+            "chance": 0.7,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -13416,13 +13318,13 @@
         "combatXp": 0,
         "drops": [
           {
-            "id": "WATER_LILY",
+            "id": "MUTTON",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 2
+            "maxAmount": 1
           },
           {
-            "id": "MUTTON",
+            "id": "WATER_LILY",
             "chance": 1,
             "minAmount": 1,
             "maxAmount": 1
@@ -15335,28 +15237,22 @@
         "combatXp": 0,
         "drops": [
           {
-            "id": "WATER_LILY",
+            "id": "PURPLE_CANDY",
             "chance": 1,
-            "minAmount": 16,
-            "maxAmount": 22
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
-            "id": "GREEN_CANDY",
+            "id": "ENCHANTED_PUMPKIN",
             "chance": 1,
-            "minAmount": 5,
-            "maxAmount": 5
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "DEEP_SEA_ORB",
             "chance": 0.01,
             "minAmount": 1,
             "maxAmount": 1
-          },
-          {
-            "id": "PURPLE_CANDY",
-            "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 3
           },
           {
             "id": "PHANTOM_HOOK",
@@ -15366,6 +15262,12 @@
           },
           {
             "id": "DYE_MIDNIGHT",
+            "chance": 0.00002,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_AQUAMARINE",
             "chance": 0.00002,
             "minAmount": 1,
             "maxAmount": 1
@@ -15497,13 +15399,31 @@
             "id": "INK_SACK",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 30
+            "maxAmount": 1
           },
           {
             "id": "ENCHANTED_WATER_LILY",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 2
+            "maxAmount": 1
+          },
+          {
+            "id": "ENCHANTED_INK_SACK",
+            "chance": 0.005,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "SQUID_BOOTS",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "BOBBIN_SCRIPTURES",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "DYE_CARMINE",
@@ -16292,6 +16212,12 @@
           {
             "id": "RED_GIFT",
             "chance": 0.1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "BOBBIN_SCRIPTURES",
+            "chance": 0.01,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -17680,10 +17606,10 @@
         "combatXp": 0,
         "drops": [
           {
-            "id": "WATER_LILY",
+            "id": "PUMPKIN",
             "chance": 1,
-            "minAmount": 3,
-            "maxAmount": 5
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "GREEN_CANDY",
@@ -17692,10 +17618,10 @@
             "maxAmount": 1
           },
           {
-            "id": "HAY_BLOCK",
-            "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 2
+            "id": "ENCHANTED_PUMPKIN",
+            "chance": 0.025,
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "PURPLE_CANDY",
@@ -18104,8 +18030,8 @@
           {
             "id": "BONE",
             "chance": 1,
-            "minAmount": 8,
-            "maxAmount": 13
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "ENCHANTED_BONE",
@@ -18276,8 +18202,8 @@
           {
             "id": "WATER_LILY",
             "chance": 1,
-            "minAmount": 3,
-            "maxAmount": 4
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "RAW_FISH",
@@ -18306,14 +18232,8 @@
             "maxAmount": 1
           },
           {
-            "id": "PET_ITEM_FISHING_SKILL_BOOST_RARE",
-            "chance": 0.0008,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
-            "id": "PET_ITEM_FISHING_SKILL_BOOST_EPIC",
-            "chance": 0.0002,
+            "id": "DYE_AQUAMARINE",
+            "chance": 4.0000000000000003e-7,
             "minAmount": 1,
             "maxAmount": 1
           }
@@ -18328,7 +18248,7 @@
     "type": "Sea Creature",
     "lootTables": [
       {
-        "name": "Sea Witch",
+        "name": "Sea Walker",
         "mobLevel": 4,
         "coins": 5,
         "xp": 20,
@@ -18337,8 +18257,8 @@
           {
             "id": "ROTTEN_FLESH",
             "chance": 1,
-            "minAmount": 5,
-            "maxAmount": 9
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "RAW_FISH",
@@ -19280,38 +19200,32 @@
         "combatXp": 0,
         "drops": [
           {
-            "id": "WATER_LILY",
+            "id": "CLAY_BALL",
             "chance": 1,
-            "minAmount": 4,
-            "maxAmount": 4
-          },
-          {
-            "id": "RAW_FISH",
-            "chance": 1,
-            "minAmount": 4,
-            "maxAmount": 4
-          },
-          {
-            "id": "GOLD_INGOT",
-            "chance": 1,
-            "minAmount": 4,
-            "maxAmount": 4
-          },
-          {
-            "id": "ENCHANTED_GOLD",
-            "chance": 0.1,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
-            "id": "BROKEN_RADAR",
+            "id": "ENCHANTED_CLAY_BALL",
             "chance": 0.02,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
+            "id": "BROKEN_RADAR",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
             "id": "EDIBLE_SEAWEED",
-            "chance": 0.005,
+            "chance": 0.001,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "PET_ITEM_FISHING_SKILL_BOOST_RARE",
+            "chance": 0.0005,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -22061,18 +21975,6 @@
             "maxAmount": 1
           },
           {
-            "id": "RAW_FISH",
-            "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
-            "id": "CLAY_BALL",
-            "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
             "id": "CAN_OF_WORMS",
             "chance": 0.2,
             "minAmount": 1,
@@ -23537,16 +23439,28 @@
         "combatXp": 0,
         "drops": [
           {
-            "id": "WATER_LILY",
+            "id": "WEREWOLF_SKIN",
             "chance": 1,
-            "minAmount": 8,
-            "maxAmount": 11
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
-            "id": "GREEN_CANDY",
+            "id": "PUMPKIN",
             "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 2
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "PURPLE_CANDY",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "ENCHANTED_PUMPKIN",
+            "chance": 0.15,
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "DEEP_SEA_ORB",
@@ -23555,20 +23469,14 @@
             "maxAmount": 1
           },
           {
-            "id": "PURPLE_CANDY",
-            "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 2
-          },
-          {
-            "id": "WEREWOLF_SKIN",
-            "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 2
-          },
-          {
             "id": "DYE_MIDNIGHT",
             "chance": 0.000001,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_AQUAMARINE",
+            "chance": 2.0000000000000002e-7,
             "minAmount": 1,
             "maxAmount": 1
           }
@@ -23631,32 +23539,38 @@
         "combatXp": 0,
         "drops": [
           {
-            "id": "ENCHANTED_WATER_LILY",
-            "chance": 1,
-            "minAmount": 8,
-            "maxAmount": 8
-          },
-          {
             "id": "ENCHANTED_JUNGLE_LOG",
             "chance": 1,
-            "minAmount": 32,
-            "maxAmount": 32
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "ENCHANTED_CLAY_BALL",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "BOBBIN_SCRIPTURES",
-            "chance": 0.025,
+            "chance": 0.01,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
             "id": "TROUBLED_BUBBLE",
-            "chance": 0.005,
+            "chance": 0.002,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "ENCHANTED_CLAY_BLOCK",
+            "chance": 0.01,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
             "id": "TIKI_MASK",
-            "chance": 0.0033,
+            "chance": 0.001,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -24257,14 +24171,14 @@
           {
             "id": "ENCHANTED_ICE",
             "chance": 1,
-            "minAmount": 32,
-            "maxAmount": 64
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "ENCHANTED_RAW_FISH",
             "chance": 1,
-            "minAmount": 16,
-            "maxAmount": 32
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "RED_GIFT",
@@ -24282,7 +24196,7 @@
             "id": "BLUE_ICE_HUNK",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 2
+            "maxAmount": 1
           },
           {
             "type": "pet",
@@ -24300,12 +24214,6 @@
           },
           {
             "id": "DYE_ICEBERG",
-            "chance": 0.00002,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
-            "id": "DYE_AQUAMARINE",
             "chance": 0.00002,
             "minAmount": 1,
             "maxAmount": 1
