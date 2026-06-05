@@ -4,6 +4,7 @@ import crypto from "crypto";
 const filesToCopy = {
     "constants.json": "constants.min.json",
     "neu/constants/reforgestones.json": "constants/reforge_stones.min.json",
+    "neu/constants/parents.json": "constants/parents.min.json",
 }
 
 export const clone = () => {
