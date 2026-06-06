@@ -83117,34 +83117,6 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "SUGAR_CANE",
-        "count": 64
-      },
-      {
-        "id": "THEORETICAL_HOE",
-        "count": 1
-      }
-    ],
-    "pattern": [
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    "result": {
-      "id": "THEORETICAL_HOE_CANE_1",
-      "count": 1
-    }
-  },
-  {
-    "type": "crafting",
-    "keys": [
-      {
         "id": "JACOBS_TICKET",
         "count": 16
       },
@@ -83273,34 +83245,6 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "CARROT_ITEM",
-        "count": 64
-      },
-      {
-        "id": "THEORETICAL_HOE",
-        "count": 1
-      }
-    ],
-    "pattern": [
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    "result": {
-      "id": "THEORETICAL_HOE_CARROT_1",
-      "count": 1
-    }
-  },
-  {
-    "type": "crafting",
-    "keys": [
-      {
         "id": "JACOBS_TICKET",
         "count": 16
       },
@@ -83358,34 +83302,6 @@
     ],
     "result": {
       "id": "THEORETICAL_HOE_CARROT_3",
-      "count": 1
-    }
-  },
-  {
-    "type": "crafting",
-    "keys": [
-      {
-        "id": "POTATO_ITEM",
-        "count": 64
-      },
-      {
-        "id": "THEORETICAL_HOE",
-        "count": 1
-      }
-    ],
-    "pattern": [
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    "result": {
-      "id": "THEORETICAL_HOE_POTATO_1",
       "count": 1
     }
   },
@@ -83529,34 +83445,6 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "NETHER_STALK",
-        "count": 64
-      },
-      {
-        "id": "THEORETICAL_HOE",
-        "count": 1
-      }
-    ],
-    "pattern": [
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    "result": {
-      "id": "THEORETICAL_HOE_WARTS_1",
-      "count": 1
-    }
-  },
-  {
-    "type": "crafting",
-    "keys": [
-      {
         "id": "JACOBS_TICKET",
         "count": 16
       },
@@ -83614,34 +83502,6 @@
     ],
     "result": {
       "id": "THEORETICAL_HOE_WARTS_3",
-      "count": 1
-    }
-  },
-  {
-    "type": "crafting",
-    "keys": [
-      {
-        "id": "WHEAT",
-        "count": 64
-      },
-      {
-        "id": "THEORETICAL_HOE",
-        "count": 1
-      }
-    ],
-    "pattern": [
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    "result": {
-      "id": "THEORETICAL_HOE_WHEAT_1",
       "count": 1
     }
   },
