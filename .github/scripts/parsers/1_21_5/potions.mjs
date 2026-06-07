@@ -5,7 +5,6 @@ import {getOverlay} from "./id_overlays.mjs";
  * @type {Object.<number, string>}
  */
 const potionTypeMappings = {
-    // ... (keep the entire mapping dictionary the same)
     0: "water",
     1: "regeneration",
     2: "swiftness",

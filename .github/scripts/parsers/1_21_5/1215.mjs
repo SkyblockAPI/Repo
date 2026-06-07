@@ -38,13 +38,13 @@ export const Mc1215 = {
         const attributeSha = crypto.createHash("sha1").update(attributes).digest("hex");
 
         const overlays = itemOverlays.concat(petOverlays, mobOverlays, runeOverlays, enchantmentOverlays, potionOverlays, attributeOverlays);
-        fs.writeFileSync(`cloudflare/${path}/idOverlays.min.json`, JSON.stringify(overlays));
-        fs.writeFileSync(`data/${path}/idOverlays.json`, JSON.stringify(overlays, null, 2));
+        fs.writeFileSync(`cloudflare/${path}/id_overlays.min.json`, JSON.stringify(overlays));
+        fs.writeFileSync(`data/${path}/id_overlays.json`, JSON.stringify(overlays, null, 2));
         const idOverlays = crypto.createHash("sha1").update(JSON.stringify(overlays)).digest("hex");
 
         return {
             items: itemsSha,
-            idOverlays: idOverlays,
+            id_overlays: idOverlays,
             pets: petsSha,
             recipes: recipesSha,
             mobs: mobsSha,
