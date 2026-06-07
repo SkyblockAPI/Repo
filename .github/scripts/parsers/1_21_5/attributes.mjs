@@ -1,8 +1,10 @@
 import fs from "fs";
 import {getItemId} from "./items.mjs";
 import {NeuData} from "../../utils/common_neu_data.mjs";
+import {getOverlay} from "./id_overlays.mjs";
 
 const attributesFile = [];
+const attributeOverlaysFile = [];
 export const attributeIds = []
 
 export const Attributes = {
@@ -58,11 +60,20 @@ export const Attributes = {
         }
 
         attributesFile.push(attribute)
+
+        const overlayProps = getOverlay(item);
+        if (overlayProps) {
+            attributeOverlaysFile.push({
+                type: "attribute",
+                id: item.nbt.ExtraAttributes.id,
+                ...getOverlay(item),
+            });
+        }
     },
     writeAttributes: (path) => {
         fs.writeFileSync(`cloudflare/${path}/attributes.min.json`, JSON.stringify(attributesFile));
         fs.writeFileSync(`data/${path}/attributes.json`, JSON.stringify(attributesFile, null, 2));
 
-        return JSON.stringify(attributesFile);
+        return {attributes: JSON.stringify(attributesFile), attributeOverlays: attributeOverlaysFile};
     }
 }

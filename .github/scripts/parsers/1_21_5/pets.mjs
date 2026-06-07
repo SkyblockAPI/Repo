@@ -1,5 +1,6 @@
 import fs from "fs";
 import {checkPetVariables} from "../../tests/pet_variables.test.mjs";
+import {getOverlay} from "./id_overlays.mjs";
 
 const RIGHT_CLICK_LORE_1 = "§7§eRight-click to add this pet to your";
 const RIGHT_CLICK_LORE_2 = "§7§eRight-click to add this pet to";
@@ -8,6 +9,7 @@ const RIGHT_CLICK_LORE_3 = "§eRight-click to add this pet to your";
 const stats = JSON.parse(fs.readFileSync("neu/constants/petnums.json", "utf-8"));
 
 const petsFile = {}
+const petOverlaysFile = []
 export const petIds = []
 
 const getPetVariables = (pet, tier) => {
@@ -84,11 +86,21 @@ export const Pets = {
         data.tiers[item.pet.tier] = tier;
 
         petsFile[petId] = data
+
+        const overlayProps = getOverlay(item);
+        if (overlayProps) {
+            petOverlaysFile.push({
+                type: "pet",
+                id: petId,
+                tier: item.pet.tier,
+                ...overlayProps
+            });
+        }
     },
     writePets: (path) => {
         fs.writeFileSync(`cloudflare/${path}/pets.min.json`, JSON.stringify(petsFile));
         fs.writeFileSync(`data/${path}/pets.json`, JSON.stringify(petsFile, null, 2));
 
-        return JSON.stringify(petsFile);
+        return {pets: JSON.stringify(petsFile), petOverlays: petOverlaysFile};
     }
 }

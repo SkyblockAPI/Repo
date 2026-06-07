@@ -1,4 +1,5 @@
 import fs from "fs";
+import {getOverlay} from "./id_overlays.mjs";
 
 /**
  * @type {Object.<number, string>}
@@ -117,6 +118,7 @@ const potionTypeMappings = {
 }
 
 const potionFile = {};
+const potionOverlaysFile = [];
 export const potionIds = []
 
 export const Potions = {
@@ -157,11 +159,21 @@ export const Potions = {
         })
 
         potionFile[potionId] = potion
+
+        const overlayProps = getOverlay(item);
+        if (overlayProps) {
+            potionOverlaysFile.push({
+                type: "potion",
+                id: potionId,
+                level: potionLevel,
+                ...overlayProps
+            });
+        }
     },
     writePotions: (path) => {
         fs.writeFileSync(`cloudflare/${path}/potions.min.json`, JSON.stringify(potionFile));
         fs.writeFileSync(`data/${path}/potions.json`, JSON.stringify(potionFile, null, 2));
 
-        return JSON.stringify(potionFile);
+        return {potions: JSON.stringify(potionFile), potionOverlays: potionOverlaysFile};
     }
 }

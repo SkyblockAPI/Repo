@@ -1,6 +1,8 @@
 import fs from "fs";
+import {getOverlay} from "./id_overlays.mjs";
 
 const runesFile = {}
+const runeOverlaysFile = []
 export const runeIds = []
 
 export const Runes = {
@@ -23,11 +25,21 @@ export const Runes = {
             lore: item.lore,
         })
         runesFile[rune] = runeInfo;
+
+        const overlayProps = getOverlay(item);
+        if (overlayProps) {
+            runeOverlaysFile.push({
+                type: "rune",
+                id: rune,
+                tier: tier,
+                ...overlayProps
+            });
+        }
     },
     writeRunes: (path) => {
         fs.writeFileSync(`cloudflare/${path}/runes.min.json`, JSON.stringify(runesFile));
         fs.writeFileSync(`data/${path}/runes.json`, JSON.stringify(runesFile, null, 2));
 
-        return JSON.stringify(runesFile);
+        return {runes: JSON.stringify(runesFile), runeOverlays: runeOverlaysFile};
     }
 }
