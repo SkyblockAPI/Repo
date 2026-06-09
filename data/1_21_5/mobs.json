@@ -210,8 +210,8 @@
           {
             "id": "ENCHANTED_WATER_LILY",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 2,
+            "maxAmount": 4
           },
           {
             "id": "ALLIGATOR_SKIN",
@@ -505,8 +505,8 @@
           {
             "id": "SPIDER_EYE",
             "chance": 1,
-            "minAmount": 10,
-            "maxAmount": 20
+            "minAmount": 0,
+            "maxAmount": 2
           },
           {
             "id": "ARACHNE_FRAGMENT",
@@ -1014,8 +1014,8 @@
           {
             "id": "LOTUS",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 2,
+            "maxAmount": 4
           },
           {
             "id": "DYE_AQUAMARINE",
@@ -1091,6 +1091,12 @@
             "maxAmount": 15
           },
           {
+            "id": "SYNTHETIC_HEART",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
             "id": "CONTROL_SWITCH",
             "chance": 0.01,
             "minAmount": 1,
@@ -1103,6 +1109,12 @@
             "maxAmount": 1
           },
           {
+            "id": "ROBOTRON_REFLECTOR",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
             "id": "FTX_3070",
             "chance": 0.01,
             "minAmount": 1,
@@ -1110,18 +1122,6 @@
           },
           {
             "id": "ELECTRON_TRANSMITTER",
-            "chance": 0.01,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
-            "id": "SYNTHETIC_HEART",
-            "chance": 0.01,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
-            "id": "ROBOTRON_REFLECTOR",
             "chance": 0.01,
             "minAmount": 1,
             "maxAmount": 1
@@ -1142,6 +1142,12 @@
             "maxAmount": 18
           },
           {
+            "id": "SYNTHETIC_HEART",
+            "chance": 0.02,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
             "id": "CONTROL_SWITCH",
             "chance": 0.02,
             "minAmount": 1,
@@ -1154,6 +1160,12 @@
             "maxAmount": 1
           },
           {
+            "id": "ROBOTRON_REFLECTOR",
+            "chance": 0.02,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
             "id": "FTX_3070",
             "chance": 0.02,
             "minAmount": 1,
@@ -1161,18 +1173,6 @@
           },
           {
             "id": "ELECTRON_TRANSMITTER",
-            "chance": 0.02,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
-            "id": "SYNTHETIC_HEART",
-            "chance": 0.02,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
-            "id": "ROBOTRON_REFLECTOR",
             "chance": 0.02,
             "minAmount": 1,
             "maxAmount": 1
@@ -1253,7 +1253,13 @@
             "id": "BUCKET_LOVER",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Place §cTraps §7in §3Murkwater Depths§7.",
+              "§7(§bUnderwater§7).",
+              "§7 §7- §7Catch with a §bFishing Net§7.",
+              "§7 §7- §7§7Catch with §bLasso§7."
+            ]
           }
         ]
       }
@@ -1300,42 +1306,50 @@
             "id": "FLAWED_RUBY_GEM",
             "chance": 0.05,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Hit"
           },
           {
             "id": "FLAWED_TOPAZ_GEM",
             "chance": 0.05,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Hit"
           },
           {
             "id": "YOGGIE",
             "chance": 0.045,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Hit"
           },
           {
             "type": "pet",
             "pet": "BAL",
             "tier": "EPIC",
-            "chance": 0.0126,
+            "chance": 0.000126,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Hit"
           },
           {
             "type": "pet",
             "pet": "BAL",
             "tier": "LEGENDARY",
-            "chance": 0.0054,
+            "chance": 0.000054000000000000005,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Hit"
           },
           {
             "type": "attribute",
             "id": "DEEP_TECHNIQUE",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Kill §c§lBal §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -1359,7 +1373,11 @@
             "id": "STRONG_ARMS",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Obtained from Pandas on §2Galatea§7.",
+              "§7 - Place §cTraps §7in §bTranquility§7. (§bSpring or Summer§7)"
+            ]
           }
         ]
       }
@@ -1393,8 +1411,8 @@
           {
             "id": "WATER_LILY",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 8,
+            "maxAmount": 16
           },
           {
             "id": "TORN_CLOTH",
@@ -1490,7 +1508,13 @@
             "id": "WARRIOR",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill §8§lBarbarian Duke X §7while",
+              "§7using §cSalts§7.",
+              "§7 §7- §7Obtained from §cKuudra§7."
+            ]
           }
         ]
       }
@@ -1676,14 +1700,14 @@
           {
             "id": "WATER_LILY",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 16,
+            "maxAmount": 32
           },
           {
             "id": "SLIME_BALL",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 16,
+            "maxAmount": 32
           },
           {
             "id": "ENCHANTED_SLIME_BALL",
@@ -1878,7 +1902,12 @@
   },
   "BINGO_NPC": {
     "island": "hub",
-    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYzNzI2OTYwMTEyNiwKICAicHJvZmlsZUlkIiA6ICJjNmE2N2QwMmY4MGM0MjhmODYyNmQ5MjhlOTNjN2FjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJHaW92YW5uaVdpamF5YSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNGNkOWM3MDdjNzA5MmQ0NzU5ZmUyYjJiNmE3MTMyMTViNmUzOTkxOWVjNGU3YWZiMWFlMmI2Zjg1NzY2NzRjIgogICAgfQogIH0KfQ==",
+    "position": {
+      "x": 3,
+      "y": 78,
+      "z": 4
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDRjZDljNzA3YzcwOTJkNDc1OWZlMmIyYjZhNzEzMjE1YjZlMzk5MTllYzRlN2FmYjFhZTJiNmY4NTc2Njc0YyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI5NjQxNWUyNGQzNzEyMGQzOGEzYmNjOTI4MTQyMjlmYSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgwOTc3MTQ0OTczfQ==",
     "itemId": "minecraft:player_head",
     "name": "Bingo",
     "type": "NPC"
@@ -1901,7 +1930,12 @@
             "id": "YUMMY",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Place §cTraps §7in §2Galatea§7. §7(§bOn Land§7).",
+              "§7 §7- §7Catch with a §bFishing Net§7.",
+              "§7 §7- §7Catch with §bLasso§7."
+            ]
           }
         ]
       }
@@ -2103,8 +2137,8 @@
           {
             "id": "ENCHANTED_CLAY_BALL",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 2,
+            "maxAmount": 4
           },
           {
             "id": "BLUE_RING",
@@ -2211,7 +2245,11 @@
             "id": "HUNTER",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §cPocket Black Hole",
+              "§7 - Kill Bogged while using §cSalts"
+            ]
           }
         ]
       }
@@ -2246,25 +2284,41 @@
             "id": "BONZO_MASK",
             "chance": 0.028300000000000002,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §61,250,000 coins"
+            ]
           },
           {
             "id": "BONZO_STAFF",
             "chance": 0.00943,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §62,250,000 coins"
+            ]
           },
           {
             "id": "RED_NOSE",
             "chance": 0.028300000000000002,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §6250,000 coins"
+            ]
           },
           {
             "id": "BALLOON_SNAKE",
             "chance": 0.03774,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §6250,000 coins"
+            ]
           }
         ]
       },
@@ -2279,31 +2333,51 @@
             "id": "BONZO_MASK",
             "chance": 0.03488,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §61,250,000 coins"
+            ]
           },
           {
             "id": "BONZO_STAFF",
             "chance": 0.01163,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §62,250,000 coins"
+            ]
           },
           {
             "id": "RED_NOSE",
             "chance": 0.046509999999999996,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §6250,000 coins"
+            ]
           },
           {
             "id": "BALLOON_SNAKE",
             "chance": 0.03488,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §6250,000 coins"
+            ]
           },
           {
             "id": "MASTER_SKULL_TIER_1",
             "chance": 0.03488,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §6250,000 coins"
+            ]
           }
         ]
       }
@@ -2704,8 +2778,8 @@
           {
             "id": "WATER_LILY",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 2,
+            "maxAmount": 3
           },
           {
             "id": "SPONGE",
@@ -2756,7 +2830,11 @@
             "id": "RABBIT_CREW",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Carrot King while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -2784,8 +2862,8 @@
           {
             "id": "WATER_LILY",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 2,
+            "maxAmount": 3
           },
           {
             "id": "RAW_FISH-3",
@@ -3080,7 +3158,12 @@
             "id": "SKELETAL_RULER",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Chillshot§7 or Chillblade §7while using §cSalts§7.",
+              "§7 §7- §7Place §cTraps §7in §bWyrmgrove Tomb§7."
+            ]
           }
         ]
       }
@@ -3132,7 +3215,12 @@
             "id": "SKELETAL_RULER",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Chillshot§7 or Chillblade §7while using §cSalts§7.",
+              "§7 §7- §7Place §cTraps §7in §bWyrmgrove Tomb§7."
+            ]
           }
         ]
       }
@@ -3203,7 +3291,13 @@
             "id": "MAGIC_FIND",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Catch with §bLasso§7.",
+              "§7 §7- §7Kill Cinderbat §7while using §cSalts§7.",
+              "§7 §7- §7Obtained from §cKuudra§7."
+            ]
           }
         ]
       }
@@ -3239,7 +3333,16 @@
             "id": "CHEAPSTAKE",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Place §cTraps §7in §3Murkwater Depths§7.",
+              "§7(§bUnderwater§7).",
+              "§7 §7- §7Place §cTraps §7in §3Murkwater",
+              "§3Shallows§7. §7(§bUnderwater§7).",
+              "§7 §7- §7Caught by Fishing in §cTomb",
+              "§cFloodway§7.",
+              "§7 §7- §7Catch with a §bFishing Net§7."
+            ]
           }
         ]
       }
@@ -3639,7 +3742,7 @@
             "type": "pet",
             "pet": "GHOUL",
             "tier": "EPIC",
-            "chance": 0.00003,
+            "chance": 0.00001,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -3647,7 +3750,7 @@
             "type": "pet",
             "pet": "GHOUL",
             "tier": "LEGENDARY",
-            "chance": 0.00001,
+            "chance": 0.00003,
             "minAmount": 1,
             "maxAmount": 1
           }
@@ -4107,8 +4210,8 @@
           {
             "id": "WATER_LILY",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 12,
+            "maxAmount": 15
           },
           {
             "id": "SPONGE",
@@ -4119,8 +4222,8 @@
           {
             "id": "RAW_FISH-2",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 2,
+            "maxAmount": 3
           },
           {
             "id": "ENCHANTED_IRON",
@@ -4337,7 +4440,13 @@
             "id": "FOREST_ESSENCE",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §bLasso",
+              "§7 - Catch with §cPocket Black Hole",
+              "§7 - Kill Dreadwing while using §cSalts",
+              "§7 - Place §cTraps §7in §2Galatea§7. (§bOn Land§7)"
+            ]
           }
         ]
       }
@@ -4359,14 +4468,14 @@
           {
             "id": "LOTUS",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 2,
+            "maxAmount": 4
           },
           {
             "id": "ENCHANTED_GOLD",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 2,
+            "maxAmount": 4
           },
           {
             "id": "LOTUS_SILVER",
@@ -4472,8 +4581,8 @@
           {
             "id": "WATER_LILY",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 2,
+            "maxAmount": 4
           },
           {
             "id": "BRONZE_BOWL",
@@ -5212,7 +5321,11 @@
             "id": "FORTITUDE",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Dropped by End Stone Protectors",
+              "§7on §dThe End§7."
+            ]
           }
         ]
       }
@@ -5530,8 +5643,8 @@
           {
             "id": "MAGMA_FISH_SILVER",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 8,
+            "maxAmount": 16
           },
           {
             "id": "ENCHANTED_BLAZE_ROD",
@@ -5676,7 +5789,16 @@
             "id": "TROPHY_HUNTER",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Fusing §9Eel §7Shard §7with §5Moray Eel",
+              "§5§7Shard§7.",
+              "§7 §7- §7Fusing §5Moray Eel §7Shard §7with",
+              "§7§5Firefly §7Shards§7.",
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Fire Eel §7while using §cSalts§7.",
+              "§7 §7- §7Obtained from §cKuudra§7."
+            ]
           }
         ]
       }
@@ -5778,7 +5900,11 @@
             "id": "ARACHNO",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Flaming Spider §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -5884,7 +6010,12 @@
             "id": "BLAZING",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Flare §7while using §cSalts§7.",
+              "§7 §7- §7Obtained from §cKuudra§7."
+            ]
           }
         ]
       }
@@ -5962,7 +6093,10 @@
             "id": "GOLDEN_FROG",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with a §bFishing Net§7."
+            ]
           }
         ]
       }
@@ -6110,7 +6244,13 @@
             "id": "FOREST_TRAP",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Fusing §fTadgang §7Shard §7with §2Forest",
+              "§2§7Category§7.",
+              "§7 §7- §7Place §cTraps §7in §2Galatea§7. §7(§bOn Land§7).",
+              "§7 §7- §7Hunted in §2Murkwater Loch§7."
+            ]
           }
         ]
       }
@@ -6139,7 +6279,7 @@
             "id": "CLAY_BALL",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 2
           },
           {
             "id": "DYE_AQUAMARINE",
@@ -6185,20 +6325,20 @@
           {
             "id": "ESSENCE_ICE",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 2,
+            "maxAmount": 4
           },
           {
             "id": "ICE",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 16,
+            "maxAmount": 32
           },
           {
             "id": "SNOW_BLOCK",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 16,
+            "maxAmount": 32
           },
           {
             "id": "ICE_HUNK",
@@ -6209,13 +6349,13 @@
           {
             "id": "WHITE_GIFT",
             "chance": 1,
-            "minAmount": 1,
+            "minAmount": 0,
             "maxAmount": 1
           },
           {
             "id": "GREEN_GIFT",
             "chance": 1,
-            "minAmount": 1,
+            "minAmount": 0,
             "maxAmount": 1
           },
           {
@@ -6333,8 +6473,8 @@
           {
             "id": "ICE",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 2,
+            "maxAmount": 4
           },
           {
             "id": "WHITE_GIFT",
@@ -6701,7 +6841,11 @@
             "id": "VEIL",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Ghost §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -7279,16 +7423,16 @@
         "combatXp": 50,
         "drops": [
           {
-            "id": "ROTTEN_FLESH",
-            "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 2
-          },
-          {
             "id": "GOLD_INGOT",
             "chance": 1,
             "minAmount": 1,
             "maxAmount": 10
+          },
+          {
+            "id": "ROTTEN_FLESH",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 2
           },
           {
             "id": "GOLDEN_POWDER",
@@ -7301,7 +7445,11 @@
             "id": "MIDAS_TOUCH",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill §6Golden Ghoul §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -7558,14 +7706,14 @@
           {
             "id": "PURPLE_CANDY",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 8,
+            "maxAmount": 16
           },
           {
             "id": "ENCHANTED_PUMPKIN",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 4,
+            "maxAmount": 8
           },
           {
             "id": "SOUL_FRAGMENT",
@@ -7753,8 +7901,8 @@
           {
             "id": "WATER_LILY",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 5,
+            "maxAmount": 7
           },
           {
             "id": "RAW_FISH",
@@ -8129,7 +8277,10 @@
             "id": "MOSSY_BOX",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Hunted on §2Galatea§7."
+            ]
           }
         ]
       }
@@ -8365,7 +8516,13 @@
             "id": "HUMANOID_RULER",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Tidetot§7, Seacurse§7, or",
+              "§7Hydrospear §7while using §cSalts§7.",
+              "§7 §7- §7Place §cTraps §7in §cDrowned Reliquary§7."
+            ]
           }
         ]
       }
@@ -8430,7 +8587,11 @@
             "id": "ICE_ESSENCE",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Glacite Walker §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -9142,7 +9303,12 @@
             "id": "DEEP_DIVING",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Place §cTraps §7in §2Galatea§7. §7(§bOn Land§7).",
+              "§7 §7- §7Catch with a §bFishing Net§7.",
+              "§7 §7- §7§7Catch with §bLasso§7."
+            ]
           }
         ]
       }
@@ -9214,7 +9380,12 @@
             "id": "LIFELINE",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Kada Knight §7while using §cSalts§7.",
+              "§7 §7- §7Obtained from §cKuudra§7."
+            ]
           }
         ]
       }
@@ -9634,7 +9805,11 @@
             "id": "EXPERIENCE",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Lapis Zombie §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -9770,7 +9945,14 @@
             "id": "BLAZING_FORTUNE",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Lava Flame §7while using §cSalts§7.",
+              "§7 §7- §7Obtained from §cKuudra§7.",
+              "§7 §7- §7Place §cTraps §7in §cCrimson Isle§7.",
+              "§7§7(§bUnder lava§7)."
+            ]
           }
         ]
       }
@@ -9960,17 +10142,17 @@
         "combatXp": 3998,
         "drops": [
           {
+            "id": "ENCHANTED_GLACITE",
+            "chance": 1,
+            "minAmount": 16,
+            "maxAmount": 32
+          },
+          {
             "type": "currency",
             "currency": "POWDER_GLACITE",
             "chance": 1,
             "minAmount": 10000,
             "maxAmount": 10000
-          },
-          {
-            "id": "ENCHANTED_GLACITE",
-            "chance": 1,
-            "minAmount": 16,
-            "maxAmount": 32
           },
           {
             "id": "GLACITE_AMALGAMATION",
@@ -9979,17 +10161,21 @@
             "maxAmount": 1
           },
           {
-            "type": "attribute",
-            "id": "FREEZING_SPREAD",
-            "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
             "id": "LITTLEFOOT_FLUFF",
             "chance": 0.002,
             "minAmount": 1,
             "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "FREEZING_SPREAD",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              " §7- §7Catch with §cPocket Black Hole§7.",
+              " §7- §7Kill Littlefoot while using §cSalts"
+            ]
           }
         ]
       }
@@ -10012,61 +10198,101 @@
             "id": "DARK_ORB",
             "chance": 0.07873999999999999,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §6250,000 coins"
+            ]
           },
           {
             "id": "AOTE_STONE",
             "chance": 0.00525,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §65,000,000 coins"
+            ]
           },
           {
             "id": "SHADOW_ASSASSIN_HELMET",
             "chance": 0.02625,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "SHADOW_ASSASSIN_CHESTPLATE",
             "chance": 0.00525,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §66,000,000 coins"
+            ]
           },
           {
             "id": "SHADOW_ASSASSIN_LEGGINGS",
             "chance": 0.01312,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §64,000,000 coins"
+            ]
           },
           {
             "id": "SHADOW_ASSASSIN_BOOTS",
             "chance": 0.039369999999999995,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "LIVID_DAGGER",
             "chance": 0.0105,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §67,000,000 coins"
+            ]
           },
           {
             "id": "SHADOW_FURY",
             "chance": 0.00262,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §615,000,000 coins"
+            ]
           },
           {
             "id": "LAST_BREATH",
             "chance": 0.00262,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §67,000,000 coins"
+            ]
           },
           {
             "id": "SHADOW_ASSASSIN_CLOAK",
             "chance": 0.01312,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §62,500,000 coins"
+            ]
           }
         ]
       },
@@ -10081,79 +10307,129 @@
             "id": "DARK_ORB",
             "chance": 0.09231,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §6250,000 coins"
+            ]
           },
           {
             "id": "AOTE_STONE",
             "chance": 0.00615,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §65,000,000 coins"
+            ]
           },
           {
             "id": "SHADOW_ASSASSIN_HELMET",
             "chance": 0.03077,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "SHADOW_ASSASSIN_CHESTPLATE",
             "chance": 0.00615,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §66,000,000 coins"
+            ]
           },
           {
             "id": "SHADOW_ASSASSIN_LEGGINGS",
             "chance": 0.01538,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §64,000,000 coins"
+            ]
           },
           {
             "id": "SHADOW_ASSASSIN_BOOTS",
             "chance": 0.046150000000000004,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "LIVID_DAGGER",
             "chance": 0.012310000000000001,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §67,000,000 coins"
+            ]
           },
           {
             "id": "SHADOW_FURY",
             "chance": 0.00308,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §615,000,000 coins"
+            ]
           },
           {
             "id": "LAST_BREATH",
             "chance": 0.00308,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §67,000,000 coins"
+            ]
           },
           {
             "id": "THIRD_MASTER_STAR",
             "chance": 0.00615,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §67,000,000 coins"
+            ]
           },
           {
             "id": "MASTER_SKULL_TIER_3",
             "chance": 0.0196,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "MASTER_SKULL_TIER_4",
             "chance": 0.029300000000000003,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §68,000,000 coins"
+            ]
           },
           {
             "id": "SHADOW_ASSASSIN_CLOAK",
             "chance": 0.01538,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §62,500,000 coins"
+            ]
           }
         ]
       }
@@ -10246,8 +10522,8 @@
           {
             "id": "MAGMA_FISH_SILVER",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 16,
+            "maxAmount": 32
           },
           {
             "id": "MAGMA_LORD_FRAGMENT",
@@ -10314,7 +10590,11 @@
             "id": "LILY_TRACKER",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Place §cTraps §7in §3Lotus Atoll§7. §7(§bOn Land§7).",
+              "§7 - Hunted in §3Lotus Atoll§7."
+            ]
           }
         ]
       }
@@ -10350,7 +10630,10 @@
             "id": "LOTUS_TROPHY",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with a §bFishing Net§7."
+            ]
           }
         ]
       }
@@ -10383,8 +10666,8 @@
           {
             "id": "LOTUS",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 2,
+            "maxAmount": 4
           },
           {
             "id": "FROGCOIN",
@@ -10492,7 +10775,12 @@
             "id": "EXTREME_PRESSURE",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Place §cTraps §7in §bSquid Cave§7.",
+              "§7(§bUnderwater§7).",
+              "§7 §7- §7Catch with a §bFishing Net§7."
+            ]
           }
         ]
       }
@@ -11004,7 +11292,14 @@
             "id": "INFECTION",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Magma Slug §7while using §cSalts§7.",
+              "§7 §7- §7Obtained from §cKuudra§7.",
+              "§7 §7- §7Place §cTraps §7in §cCrimson Isle§7.",
+              "§7(§bUnder lava§7)."
+            ]
           }
         ]
       },
@@ -11044,7 +11339,14 @@
             "id": "INFECTION",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Magma Slug §7while using §cSalts§7.",
+              "§7 §7- §7Obtained from §cKuudra§7.",
+              "§7 §7- §7Place §cTraps §7in §cCrimson Isle§7.",
+              "§7(§bUnder lava§7)."
+            ]
           }
         ]
       }
@@ -11078,8 +11380,8 @@
           {
             "id": "CLAY_BALL",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 16,
+            "maxAmount": 32
           },
           {
             "id": "ENCHANTED_CLAY_BALL",
@@ -11300,7 +11602,12 @@
             "id": "IGNITION",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Matcho while using §cSalts§7.",
+              "§7 §7- §7Obtained from §cKuudra§7."
+            ]
           }
         ]
       }
@@ -11548,7 +11855,10 @@
             "id": "FAKER",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Kill Mimic §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -11716,7 +12026,11 @@
             "id": "ROTTEN_PICKAXE",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Miner Zombie §7while using §cSalts§7."
+            ]
           }
         ]
       },
@@ -11768,7 +12082,11 @@
             "id": "ROTTEN_PICKAXE",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Miner Zombie §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -12372,7 +12690,11 @@
             "id": "STRONG_LEGS",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Obtained from Pandas on §2Galatea§7.",
+              "§7 - Place §cTraps §7in §bTranquility§7. (§bAutumn or Winter§7)"
+            ]
           }
         ]
       }
@@ -12635,49 +12957,73 @@
             "id": "NECRON_HANDLE",
             "chance": 0.001,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §6100,000,000 coins"
+            ]
           },
           {
             "id": "WITHER_SHIELD_SCROLL",
             "chance": 0.0013,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §650,000,000 coins"
+            ]
           },
           {
             "id": "IMPLOSION_SCROLL",
             "chance": 0.0013,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §650,000,000 coins"
+            ]
           },
           {
             "id": "SHADOW_WARP_SCROLL",
             "chance": 0.0013,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §650,000,000 coins"
+            ]
           },
           {
             "id": "AUTO_RECOMBOBULATOR",
             "chance": 0.0053,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §610,000,000 coins"
+            ]
           },
           {
             "id": "MAXOR_THE_FISH",
             "chance": 0.0032,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "STORM_THE_FISH",
             "chance": 0.0032,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "GOLDOR_THE_FISH",
             "chance": 0.0032,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "type": "enchantment",
@@ -12685,55 +13031,82 @@
             "level": 1,
             "chance": 0.0059,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "WITHER_CLOAK",
             "chance": 0.054400000000000004,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §64,500,000 coins"
+            ]
           },
           {
             "id": "WITHER_BLOOD",
             "chance": 0.059500000000000004,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §63,000,000 coins"
+            ]
           },
           {
             "id": "WITHER_CATALYST",
             "chance": 0.0527,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "PRECURSOR_GEAR",
             "chance": 0.157,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "WITHER_HELMET",
             "chance": 0.059500000000000004,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §64,000,000 coins"
+            ]
           },
           {
             "id": "WITHER_CHESTPLATE",
             "chance": 0.0053,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §610,000,000 coins"
+            ]
           },
           {
             "id": "WITHER_LEGGINGS",
             "chance": 0.034300000000000004,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §66,000,000 coins"
+            ]
           },
           {
             "id": "WITHER_BOOTS",
             "chance": 0.063,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §62,500,000 coins"
+            ]
           }
         ]
       },
@@ -12748,49 +13121,73 @@
             "id": "NECRON_HANDLE",
             "chance": 0.0013,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §6100,000,000 coins"
+            ]
           },
           {
             "id": "WITHER_SHIELD_SCROLL",
             "chance": 0.0018,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §650,000,000 coins"
+            ]
           },
           {
             "id": "IMPLOSION_SCROLL",
             "chance": 0.0018,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §650,000,000 coins"
+            ]
           },
           {
             "id": "SHADOW_WARP_SCROLL",
             "chance": 0.0018,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §650,000,000 coins"
+            ]
           },
           {
             "id": "AUTO_RECOMBOBULATOR",
             "chance": 0.0089,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §610,000,000 coins"
+            ]
           },
           {
             "id": "MAXOR_THE_FISH",
             "chance": 0.003,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "STORM_THE_FISH",
             "chance": 0.003,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "GOLDOR_THE_FISH",
             "chance": 0.003,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "type": "enchantment",
@@ -12798,67 +13195,100 @@
             "level": 1,
             "chance": 0.01,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "WITHER_CLOAK",
             "chance": 0.0673,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §64,500,000 coins"
+            ]
           },
           {
             "id": "WITHER_BLOOD",
             "chance": 0.0673,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §63,000,000 coins"
+            ]
           },
           {
             "id": "WITHER_CATALYST",
             "chance": 0.0588,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "PRECURSOR_GEAR",
             "chance": 0.17149999999999999,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "WITHER_HELMET",
             "chance": 0.0673,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §64,000,000 coins"
+            ]
           },
           {
             "id": "WITHER_CHESTPLATE",
             "chance": 0.0095,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §610,000,000 coins"
+            ]
           },
           {
             "id": "WITHER_LEGGINGS",
             "chance": 0.0431,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §66,000,000 coins"
+            ]
           },
           {
             "id": "WITHER_BOOTS",
             "chance": 0.07,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §62,500,000 coins"
+            ]
           },
           {
             "id": "FIFTH_MASTER_STAR",
             "chance": 0.0033,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §69,000,000 coins"
+            ]
           },
           {
             "id": "DYE_NECRON",
             "chance": 0.0004,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §610,000,000 coins"
+            ]
           },
           {
             "type": "enchantment",
@@ -12866,19 +13296,28 @@
             "level": 7,
             "chance": 0.003,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "DARK_CLAYMORE",
             "chance": 0.0008,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §6150,000,000 coins"
+            ]
           },
           {
             "id": "MASTER_SKULL_TIER_5",
             "chance": 0.0032,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §632,000,000 coins"
+            ]
           }
         ]
       }
@@ -12950,7 +13389,11 @@
             "id": "LOCH_HOOK",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              " §7- §7Catch with §cPocket Black Hole§7.",
+              " §7- §7Kill Nessie while using §cSalts"
+            ]
           },
           {
             "id": "BOBBIN_SCRIPTURES",
@@ -13037,14 +13480,14 @@
           {
             "id": "GREEN_CANDY",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 4,
+            "maxAmount": 8
           },
           {
             "id": "PUMPKIN",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 8,
+            "maxAmount": 16
           },
           {
             "id": "PURPLE_CANDY",
@@ -13134,7 +13577,11 @@
             "id": "FISHERMAN",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Night Squid §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -13157,7 +13604,10 @@
             "id": "METAPHORIC_EGG",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "Drops a Metaphoric Egg when shot with a Berberis Blowgun midair"
+            ]
           }
         ]
       }
@@ -13220,8 +13670,8 @@
           {
             "id": "ESSENCE_ICE",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 12,
+            "maxAmount": 24
           },
           {
             "id": "ENCHANTED_ICE",
@@ -13268,7 +13718,7 @@
             "id": "WATER_LILY",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 2
           },
           {
             "id": "RABBIT_FOOT",
@@ -13327,7 +13777,7 @@
             "id": "WATER_LILY",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 2
           },
           {
             "id": "WOOL",
@@ -13422,7 +13872,11 @@
             "id": "SPEED",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Obsidian Defender §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -13552,29 +14006,33 @@
             "type": "pet",
             "pet": "ENDER_DRAGON",
             "tier": "EPIC",
-            "chance": 0.05,
+            "chance": 0.0005,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "type": "pet",
             "pet": "ENDER_DRAGON",
             "tier": "LEGENDARY",
-            "chance": 0.01,
+            "chance": 0.0001,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "id": "DRAGON_CLAW",
             "chance": 0.02,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "id": "ASPECT_OF_THE_DRAGON",
             "chance": 0.03,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "id": "DYE_PEARLESCENT",
@@ -13935,7 +14393,14 @@
             "id": "PEST_LUCK",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Catch with §bLasso§7.",
+              "§7 §7- §7Kill Cricket§7, Fly§7, Beetle§7, Earthworm§7,",
+              "§7Locust§7, Slug§7, Mosquito§7, Moth§7, Rat§7, or",
+              "§7Mite §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -14025,7 +14490,14 @@
             "id": "PEST_LUCK",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Catch with §bLasso§7.",
+              "§7 §7- §7Kill Cricket§7, Fly§7, Beetle§7, Earthworm§7,",
+              "§7Locust§7, Slug§7, Mosquito§7, Moth§7, Rat§7, or",
+              "§7Mite §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -14115,7 +14587,14 @@
             "id": "PEST_LUCK",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Catch with §bLasso§7.",
+              "§7 §7- §7Kill Cricket§7, Fly§7, Beetle§7, Earthworm§7,",
+              "§7Locust§7, Slug§7, Mosquito§7, Moth§7, Rat§7, or",
+              "§7Mite §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -14205,7 +14684,14 @@
             "id": "PEST_LUCK",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Catch with §bLasso§7.",
+              "§7 §7- §7Kill Cricket§7, Fly§7, Beetle§7, Earthworm§7,",
+              "§7Locust§7, Slug§7, Mosquito§7, Moth§7, Rat§7, or",
+              "§7Mite §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -14432,7 +14918,14 @@
             "id": "PEST_LUCK",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Catch with §bLasso§7.",
+              "§7 §7- §7Kill Cricket§7, Fly§7, Beetle§7, Earthworm§7,",
+              "§7Locust§7, Slug§7, Mosquito§7, Moth§7, Rat§7, or",
+              "§7Mite §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -14522,7 +15015,14 @@
             "id": "PEST_LUCK",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Catch with §bLasso§7.",
+              "§7 §7- §7Kill Cricket§7, Fly§7, Beetle§7, Earthworm§7,",
+              "§7Locust§7, Slug§7, Mosquito§7, Moth§7, Rat§7, or",
+              "§7Mite §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -14612,7 +15112,14 @@
             "id": "PEST_LUCK",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Catch with §bLasso§7.",
+              "§7 §7- §7Kill Cricket§7, Fly§7, Beetle§7, Earthworm§7,",
+              "§7Locust§7, Slug§7, Mosquito§7, Moth§7, Rat§7, or",
+              "§7Mite §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -14708,7 +15215,14 @@
             "id": "PEST_LUCK",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Catch with §bLasso§7.",
+              "§7 §7- §7Kill Cricket§7, Fly§7, Beetle§7, Earthworm§7,",
+              "§7Locust§7, Slug§7, Mosquito§7, Moth§7, Rat§7, or",
+              "§7Mite §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -14798,7 +15312,14 @@
             "id": "PEST_LUCK",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Catch with §bLasso§7.",
+              "§7 §7- §7Kill Cricket§7, Fly§7, Beetle§7, Earthworm§7,",
+              "§7Locust§7, Slug§7, Mosquito§7, Moth§7, Rat§7, or",
+              "§7Mite §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -14888,7 +15409,14 @@
             "id": "PEST_LUCK",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Catch with §bLasso§7.",
+              "§7 §7- §7Kill Cricket§7, Fly§7, Beetle§7, Earthworm§7,",
+              "§7Locust§7, Slug§7, Mosquito§7, Moth§7, Rat§7, or",
+              "§7Mite §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -14978,7 +15506,14 @@
             "id": "PEST_LUCK",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Catch with §bLasso§7.",
+              "§7 §7- §7Kill Cricket§7, Fly§7, Beetle§7, Earthworm§7,",
+              "§7Locust§7, Slug§7, Mosquito§7, Moth§7, Rat§7, or",
+              "§7Mite §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -15070,7 +15605,14 @@
             "id": "PEST_LUCK",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Catch with §bLasso§7.",
+              "§7 §7- §7Kill Cricket§7, Fly§7, Beetle§7, Earthworm§7,",
+              "§7Locust§7, Slug§7, Mosquito§7, Moth§7, Rat§7, or",
+              "§7Mite §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -15193,7 +15735,12 @@
             "id": "MOONGLADE_MASTERY",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §bLasso",
+              "§7 - Place §cTraps §7in §2Galatea§7. (§bOn Land§7)",
+              "§7 - §7Found in Fig and Mangrove §2Tree Gifts§7."
+            ]
           }
         ]
       }
@@ -15217,7 +15764,12 @@
             "id": "NOCTURNAL_ANIMAL",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §bLasso",
+              "§7 - Place §cTraps §7in §2Galatea§7. (§bOn Land§7)",
+              "§7 - §7Found in Fig and Mangrove §2Tree Gifts§7."
+            ]
           }
         ]
       }
@@ -15239,14 +15791,14 @@
           {
             "id": "PURPLE_CANDY",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 2,
+            "maxAmount": 4
           },
           {
             "id": "ENCHANTED_PUMPKIN",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 2
           },
           {
             "id": "DEEP_SEA_ORB",
@@ -15398,14 +15950,14 @@
           {
             "id": "INK_SACK",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 30,
+            "maxAmount": 51
           },
           {
             "id": "ENCHANTED_WATER_LILY",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 2,
+            "maxAmount": 3
           },
           {
             "id": "ENCHANTED_INK_SACK",
@@ -15600,7 +16152,10 @@
             "currency": "POWDER_MITHRIL",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§2100-250 ᠅ Mithril Powder §7per hit"
+            ]
           }
         ]
       }
@@ -15635,31 +16190,46 @@
             "id": "ADAPTIVE_HELMET",
             "chance": 0.0121,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §6500,000 coins"
+            ]
           },
           {
             "id": "ADAPTIVE_CHESTPLATE",
             "chance": 0.0069,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "ADAPTIVE_LEGGINGS",
             "chance": 0.0069,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §61,000,000 coins"
+            ]
           },
           {
             "id": "ADAPTIVE_BOOTS",
             "chance": 0.0121,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §6250,000 coins"
+            ]
           },
           {
             "id": "SUSPICIOUS_VIAL",
             "chance": 0.030299999999999997,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §61,000,000 coins"
+            ]
           }
         ]
       },
@@ -15674,43 +16244,64 @@
             "id": "ADAPTIVE_HELMET",
             "chance": 0.0508,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §6500,000 coins"
+            ]
           },
           {
             "id": "ADAPTIVE_CHESTPLATE",
             "chance": 0.013000000000000001,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "ADAPTIVE_LEGGINGS",
             "chance": 0.0239,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §61,000,000 coins"
+            ]
           },
           {
             "id": "ADAPTIVE_BOOTS",
             "chance": 0.0508,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §6250,000 coins"
+            ]
           },
           {
             "id": "SUSPICIOUS_VIAL",
             "chance": 0.1249,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §61,000,000 coins"
+            ]
           },
           {
             "id": "FIRST_MASTER_STAR",
             "chance": 0.026000000000000002,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §65,000,000 coins"
+            ]
           },
           {
             "id": "MASTER_SKULL_TIER_3",
             "chance": 0.0794,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           }
         ]
       }
@@ -15775,29 +16366,33 @@
             "type": "pet",
             "pet": "ENDER_DRAGON",
             "tier": "EPIC",
-            "chance": 0.05,
+            "chance": 0.0005,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "type": "pet",
             "pet": "ENDER_DRAGON",
             "tier": "LEGENDARY",
-            "chance": 0.01,
+            "chance": 0.0001,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "id": "DRAGON_CLAW",
             "chance": 0.02,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "id": "ASPECT_OF_THE_DRAGON",
             "chance": 0.03,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "id": "DYE_PEARLESCENT",
@@ -16091,7 +16686,12 @@
             "id": "MANA_STEAL",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Rain Slime§7 or §aToxic Rain Slime",
+              "§a§7while using §cSalts§7."
+            ]
           }
         ]
       },
@@ -16113,7 +16713,12 @@
             "id": "MANA_STEAL",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Rain Slime§7 or §aToxic Rain Slime",
+              "§a§7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -16227,7 +16832,10 @@
             "level": 1,
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "Only drops for the player who spawned the Reindrake"
+            ]
           },
           {
             "id": "DYE_ICEBERG",
@@ -16747,7 +17355,12 @@
             "id": "LIFE_RECOVERY",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Revenant Sycophant §7while",
+              "§7using §cSalts§7."
+            ]
           }
         ]
       }
@@ -17344,73 +17957,121 @@
             "id": "GIANT_TOOTH",
             "chance": 0.01875,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "NECROMANCER_LORD_HELMET",
             "chance": 0.015,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "NECROMANCER_LORD_CHESTPLATE",
             "chance": 0.003,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §610,000,000 coins"
+            ]
           },
           {
             "id": "NECROMANCER_LORD_LEGGINGS",
             "chance": 0.01125,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §64,000,000 coins"
+            ]
           },
           {
             "id": "NECROMANCER_LORD_BOOTS",
             "chance": 0.0225,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "NECROMANCER_SWORD",
             "chance": 0.0075,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §610,000,000 coins"
+            ]
           },
           {
             "id": "SADAN_BROOCH",
             "chance": 0.015,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "GIANTS_SWORD",
             "chance": 0.00187,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §625,000,000 coins"
+            ]
           },
           {
             "id": "PRECURSOR_EYE",
             "chance": 0.0011200000000000001,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §630,000,000 coins"
+            ]
           },
           {
             "id": "SUMMONING_RING",
             "chance": 0.00375,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §612,000,000 coins"
+            ]
           },
           {
             "id": "FEL_SKULL",
             "chance": 0.005620000000000001,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §66,000,000 coins"
+            ]
           },
           {
             "id": "SOULWEAVER_GLOVES",
             "chance": 0.01125,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §65,000,000 coins"
+            ]
           }
         ]
       },
@@ -17425,85 +18086,141 @@
             "id": "GIANT_TOOTH",
             "chance": 0.01846,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "NECROMANCER_LORD_HELMET",
             "chance": 0.01477,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "NECROMANCER_LORD_CHESTPLATE",
             "chance": 0.00295,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §610,000,000 coins"
+            ]
           },
           {
             "id": "NECROMANCER_LORD_LEGGINGS",
             "chance": 0.011080000000000001,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §64,000,000 coins"
+            ]
           },
           {
             "id": "NECROMANCER_LORD_BOOTS",
             "chance": 0.022160000000000003,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "NECROMANCER_SWORD",
             "chance": 0.00739,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §610,000,000 coins"
+            ]
           },
           {
             "id": "SADAN_BROOCH",
             "chance": 0.01477,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "GIANTS_SWORD",
             "chance": 0.00222,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §625,000,000 coins"
+            ]
           },
           {
             "id": "PRECURSOR_EYE",
             "chance": 0.00111,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §630,000,000 coins"
+            ]
           },
           {
             "id": "SUMMONING_RING",
             "chance": 0.00369,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §612,000,000 coins"
+            ]
           },
           {
             "id": "FOURTH_MASTER_STAR",
             "chance": 0.00359,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §68,000,000 coins"
+            ]
           },
           {
             "id": "MASTER_SKULL_TIER_4",
             "chance": 0.00369,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "FEL_SKULL",
             "chance": 0.005540000000000001,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §66,000,000 coins"
+            ]
           },
           {
             "id": "SOULWEAVER_GLOVES",
             "chance": 0.011080000000000001,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §8Bedrock Chest",
+              "§e§lChest Price: §65,000,000 coins"
+            ]
           }
         ]
       }
@@ -17551,7 +18268,16 @@
             "id": "LOST_AND_FOUND",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Place §cTraps §7in §3Murkwater Depths§7.",
+              "§7§7(§bUnderwater§7).",
+              "§7 §7- §7Place §cTraps §7in §3Murkwater",
+              "§3Shallows§7. §7(§bUnderwater§7).",
+              "§7 §7- §7Caught by Fishing in §cTomb",
+              "§cFloodway§7.",
+              "§7 §7- §7Catch with a §bFishing Net§7."
+            ]
           }
         ]
       }
@@ -17608,14 +18334,14 @@
           {
             "id": "PUMPKIN",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 4,
+            "maxAmount": 8
           },
           {
             "id": "GREEN_CANDY",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 2,
+            "maxAmount": 4
           },
           {
             "id": "ENCHANTED_PUMPKIN",
@@ -17690,25 +18416,41 @@
             "id": "RED_SCARF",
             "chance": 0.01587,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §6500,000 coins"
+            ]
           },
           {
             "id": "SCARF_STUDIES",
             "chance": 0.06349,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §6500,000 coins"
+            ]
           },
           {
             "id": "STONE_BLADE",
             "chance": 0.03175,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §61,500,000 coins"
+            ]
           },
           {
             "id": "ADAPTIVE_BELT",
             "chance": 0.047619999999999996,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §6500,000 coins"
+            ]
           }
         ]
       },
@@ -17723,31 +18465,51 @@
             "id": "RED_SCARF",
             "chance": 0.01613,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §6500,000 coins"
+            ]
           },
           {
             "id": "SCARF_STUDIES",
             "chance": 0.06452,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §6500,000 coins"
+            ]
           },
           {
             "id": "STONE_BLADE",
             "chance": 0.03226,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §61,500,000 coins"
+            ]
           },
           {
             "id": "MASTER_SKULL_TIER_2",
             "chance": 0.04839,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §6500,000 coins"
+            ]
           },
           {
             "id": "ADAPTIVE_BELT",
             "chance": 0.04839,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §6500,000 coins"
+            ]
           }
         ]
       }
@@ -17961,7 +18723,13 @@
             "id": "HUMANOID_RULER",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Tidetot§7, Hydrospear§7, or",
+              "§7Seacurse §7while using §cSalts§7.",
+              "§7 §7- §7Place §cTraps §7in §cDrowned Reliquary§7."
+            ]
           }
         ]
       }
@@ -17997,7 +18765,10 @@
             "id": "DIAMOND_FROG",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with a §bFishing Net§7."
+            ]
           }
         ]
       }
@@ -18030,8 +18801,8 @@
           {
             "id": "BONE",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 8,
+            "maxAmount": 13
           },
           {
             "id": "ENCHANTED_BONE",
@@ -18127,7 +18898,11 @@
             "id": "FISHING_EXPERIENCE",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              " §7- §7Catch with §cPocket Black Hole§7.",
+              " §7- §7Kill The Loch Emperor §7while using §cSalts§7."
+            ]
           },
           {
             "id": "DYE_AQUAMARINE",
@@ -18202,8 +18977,8 @@
           {
             "id": "WATER_LILY",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 3,
+            "maxAmount": 4
           },
           {
             "id": "RAW_FISH",
@@ -18257,8 +19032,8 @@
           {
             "id": "ROTTEN_FLESH",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 5,
+            "maxAmount": 9
           },
           {
             "id": "RAW_FISH",
@@ -18531,7 +19306,12 @@
             "id": "SHELL",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Place §cTraps §7in §3Murkwater Depths§7.",
+              "§7(§bUnderwater§7).",
+              "§7 §7- §7Catch with a §bFishing Net§7."
+            ]
           }
         ]
       }
@@ -19010,7 +19790,12 @@
             "id": "DEADEYE",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Fusing §9Lapis Skeleton §7Shard §7with",
+              "§7§9§lRare §7or higher§7.",
+              "§7 §7- §7Kill Skeletor §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -19202,8 +19987,8 @@
           {
             "id": "CLAY_BALL",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 8,
+            "maxAmount": 16
           },
           {
             "id": "ENCHANTED_CLAY_BALL",
@@ -19378,7 +20163,13 @@
             "id": "COMBO",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill §3Soul of the Alpha §7while using",
+              "§7§cSalts§7.",
+              "§7 §7- §7Place §cTraps §7in §bHowling Cave§7."
+            ]
           }
         ]
       }
@@ -19618,7 +20409,14 @@
             "id": "PAYBACK",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with a §bFishing Net§7.",
+              "§7 §7- §7Place §cTraps §7in §3Murkwater Depths§7.",
+              "§7(§bUnderwater§7).",
+              "§7 §7- §7Place §cTraps §7in §3Kelpwoven Tunnels§7.",
+              "§7(§bUnderwater§7)."
+            ]
           }
         ]
       }
@@ -19783,14 +20581,19 @@
             "id": "STARFALL",
             "chance": 0.2,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per hit"
           },
           {
             "type": "attribute",
             "id": "ATOMIZED_MITHRIL",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill §5Star Sentry §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -20011,7 +20814,12 @@
             "id": "MAGMATIC_RULER",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              " §7- §7Catch with §cPocket Black Hole§7.",
+              " §7- §7Kill Strider Surfer§7 or Strider while using §cSalts",
+              " §7- §7Place §cTraps §7in §6Stride-Ember Fissure§7."
+            ]
           }
         ]
       },
@@ -20045,7 +20853,12 @@
             "id": "MAGMATIC_RULER",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              " §7- §7Catch with §cPocket Black Hole§7.",
+              " §7- §7Kill Strider Surfer§7 or Strider while using §cSalts",
+              " §7- §7Place §cTraps §7in §6Stride-Ember Fissure§7."
+            ]
           }
         ]
       }
@@ -20110,29 +20923,33 @@
             "type": "pet",
             "pet": "ENDER_DRAGON",
             "tier": "EPIC",
-            "chance": 0.05,
+            "chance": 0.0005,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "type": "pet",
             "pet": "ENDER_DRAGON",
             "tier": "LEGENDARY",
-            "chance": 0.01,
+            "chance": 0.0001,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "id": "DRAGON_CLAW",
             "chance": 0.02,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "id": "ASPECT_OF_THE_DRAGON",
             "chance": 0.03,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "id": "DYE_PEARLESCENT",
@@ -20239,23 +21056,26 @@
             "type": "pet",
             "pet": "ENDER_DRAGON",
             "tier": "EPIC",
-            "chance": 0.05,
+            "chance": 0.0005,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "type": "pet",
             "pet": "ENDER_DRAGON",
             "tier": "LEGENDARY",
-            "chance": 0.01,
+            "chance": 0.0001,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "id": "DRAGON_CLAW",
             "chance": 0.02,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "id": "DRAGON_HORN",
@@ -20267,7 +21087,8 @@
             "id": "ASPECT_OF_THE_DRAGON",
             "chance": 0.03,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "id": "DYE_PEARLESCENT",
@@ -20420,7 +21241,13 @@
             "id": "UNDEAD_RESISTANCE",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Kill Super Tank Zombie§7, Crypt Tank",
+              "§7Zombie§7, Master Crypt Tank Zombie§7, or",
+              "§7Master Super Tank Zombie §7while using",
+              "§7§cSalts§7."
+            ]
           }
         ]
       }
@@ -20750,7 +21577,13 @@
             "id": "UNITY_IS_STRENGTH",
             "chance": 0.025,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              " §7- §7Catch with §cPocket Black Hole§7.",
+              " §7- §7Kill Tadgang §7while using §cSalts§7.",
+              " §7- §7Place §cTraps §7in §3Murkwater Depths§7. (§bUnderwater§7).",
+              " §7- §7Place §cTraps §7in §3Murkwater Shallows§7. §7(§bUnderwater§7)."
+            ]
           }
         ]
       },
@@ -20796,7 +21629,13 @@
             "id": "UNITY_IS_STRENGTH",
             "chance": 0.025,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              " §7- §7Catch with §cPocket Black Hole§7.",
+              " §7- §7Kill Tadgang §7while using §cSalts§7.",
+              " §7- §7Place §cTraps §7in §3Murkwater Depths§7. (§bUnderwater§7).",
+              " §7- §7Place §cTraps §7in §3Murkwater Shallows§7. §7(§bUnderwater§7)."
+            ]
           }
         ]
       }
@@ -20920,7 +21759,13 @@
             "id": "UNDEAD_RESISTANCE",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Kill Super Tank Zombie§7, Crypt Tank",
+              "§7Zombie§7, Master Crypt Tank Zombie§7, or",
+              "§7Master Super Tank Zombie §7while using",
+              "§7§cSalts§7."
+            ]
           }
         ]
       }
@@ -20966,7 +21811,10 @@
             "id": "TARANTULA_WEB",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 3
+            "maxAmount": 3,
+            "extraLore": [
+              "§eWeight: 10,000"
+            ]
           },
           {
             "id": "DYE_BRICK_RED",
@@ -20995,19 +21843,28 @@
             "id": "TARANTULA_WEB",
             "chance": 1,
             "minAmount": 9,
-            "maxAmount": 18
+            "maxAmount": 18,
+            "extraLore": [
+              "§eWeight: 10,000"
+            ]
           },
           {
             "id": "TOXIC_ARROW_POISON",
             "chance": 0.15094,
             "minAmount": 16,
-            "maxAmount": 16
+            "maxAmount": 16,
+            "extraLore": [
+              "§eWeight: 1,800"
+            ]
           },
           {
             "id": "SPIDER_CATALYST",
             "chance": 0.01048,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 125"
+            ]
           },
           {
             "type": "rune",
@@ -21015,7 +21872,10 @@
             "tier": 1,
             "chance": 0.006979999999999999,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 83"
+            ]
           },
           {
             "id": "DYE_BRICK_RED",
@@ -21044,13 +21904,19 @@
             "id": "TARANTULA_WEB",
             "chance": 1,
             "minAmount": 28,
-            "maxAmount": 48
+            "maxAmount": 48,
+            "extraLore": [
+              "§eWeight: 10,000"
+            ]
           },
           {
             "id": "TOXIC_ARROW_POISON",
             "chance": 0.14845,
             "minAmount": 24,
-            "maxAmount": 30
+            "maxAmount": 30,
+            "extraLore": [
+              "§eWeight: 1,800"
+            ]
           },
           {
             "type": "rune",
@@ -21058,19 +21924,28 @@
             "tier": 1,
             "chance": 0.02674,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 333"
+            ]
           },
           {
             "id": "SPIDER_CATALYST",
             "chance": 0.02062,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 250"
+            ]
           },
           {
             "id": "TARANTULA_CATALYST",
             "chance": 0.00247,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 30"
+            ]
           },
           {
             "type": "enchantment",
@@ -21078,19 +21953,28 @@
             "level": 6,
             "chance": 0.0020599999999999998,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 25"
+            ]
           },
           {
             "id": "FLY_SWATTER",
             "chance": 0.00083,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 10"
+            ]
           },
           {
             "id": "TARANTULA_TALISMAN",
             "chance": 0.00083,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 10"
+            ]
           },
           {
             "id": "DYE_BRICK_RED",
@@ -21119,13 +22003,19 @@
             "id": "TARANTULA_WEB",
             "chance": 1,
             "minAmount": 52,
-            "maxAmount": 64
+            "maxAmount": 64,
+            "extraLore": [
+              "§eWeight: 10,000"
+            ]
           },
           {
             "id": "TOXIC_ARROW_POISON",
             "chance": 0.14973,
             "minAmount": 60,
-            "maxAmount": 64
+            "maxAmount": 64,
+            "extraLore": [
+              "§eWeight: 1,800"
+            ]
           },
           {
             "type": "rune",
@@ -21133,7 +22023,10 @@
             "tier": 1,
             "chance": 0.06480000000000001,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 833"
+            ]
           },
           {
             "type": "rune",
@@ -21141,13 +22034,19 @@
             "tier": 1,
             "chance": 0.0039000000000000003,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 50"
+            ]
           },
           {
             "id": "SPIDER_CATALYST",
             "chance": 0.00624,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 75"
+            ]
           },
           {
             "type": "enchantment",
@@ -21155,37 +22054,55 @@
             "level": 6,
             "chance": 0.00416,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 50"
+            ]
           },
           {
             "id": "TARANTULA_CATALYST",
             "chance": 0.00378,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 45"
+            ]
           },
           {
             "id": "FLY_SWATTER",
             "chance": 0.00166,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 20"
+            ]
           },
           {
             "id": "TARANTULA_TALISMAN",
             "chance": 0.00166,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 20"
+            ]
           },
           {
             "id": "VIAL_OF_VENOM",
             "chance": 0.00083,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 10"
+            ]
           },
           {
             "id": "DIGESTED_MOSQUITO",
             "chance": 0.00058,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 7"
+            ]
           },
           {
             "id": "DYE_BRICK_RED",
@@ -21214,13 +22131,19 @@
             "id": "TARANTULA_WEB",
             "chance": 1,
             "minAmount": 64,
-            "maxAmount": 64
+            "maxAmount": 64,
+            "extraLore": [
+              "§eWeight: 10,000"
+            ]
           },
           {
             "id": "TOXIC_ARROW_POISON",
             "chance": 0.12818,
             "minAmount": 64,
-            "maxAmount": 64
+            "maxAmount": 64,
+            "extraLore": [
+              "§eWeight: 1,800"
+            ]
           },
           {
             "type": "rune",
@@ -21228,7 +22151,10 @@
             "tier": 1,
             "chance": 0.06480000000000001,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 833"
+            ]
           },
           {
             "type": "rune",
@@ -21236,13 +22162,19 @@
             "tier": 1,
             "chance": 0.0077,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 100"
+            ]
           },
           {
             "id": "SPIDER_CATALYST",
             "chance": 0.00178,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 25"
+            ]
           },
           {
             "type": "enchantment",
@@ -21250,55 +22182,82 @@
             "level": 6,
             "chance": 0.00356,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 50"
+            ]
           },
           {
             "id": "TARANTULA_CATALYST",
             "chance": 0.0042699999999999995,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 60"
+            ]
           },
           {
             "id": "FLY_SWATTER",
             "chance": 0.00214,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 30"
+            ]
           },
           {
             "id": "TARANTULA_TALISMAN",
             "chance": 0.00214,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 30"
+            ]
           },
           {
             "id": "VIAL_OF_VENOM",
             "chance": 0.0014199999999999998,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 20"
+            ]
           },
           {
             "id": "DIGESTED_MOSQUITO",
             "chance": 0.0007099999999999999,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 10"
+            ]
           },
           {
             "id": "SHRIVELED_WASP",
             "chance": 0.0007099999999999999,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 10"
+            ]
           },
           {
             "id": "ENSNARED_SNAIL",
             "chance": 0.00043,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 6"
+            ]
           },
           {
             "id": "PRIMORDIAL_EYE",
             "chance": 0.00014000000000000001,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§eWeight: 2"
+            ]
           },
           {
             "id": "DYE_BRICK_RED",
@@ -21387,7 +22346,12 @@
             "id": "MAXIMAL_TORMENT",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Taurus §7while using §cSalts§7.",
+              "§7 §7- §7Obtained from §cKuudra§7."
+            ]
           }
         ]
       }
@@ -21493,31 +22457,51 @@
             "id": "SPIRIT_BONE",
             "chance": 0.0241,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §61,500,000 coins"
+            ]
           },
           {
             "id": "SPIRIT_WING",
             "chance": 0.0241,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "THORNS_BOOTS",
             "chance": 0.01205,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §64,000,000 coins"
+            ]
           },
           {
             "id": "SPIRIT_SWORD",
             "chance": 0.01205,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §63,000,000 coins"
+            ]
           },
           {
             "id": "ITEM_SPIRIT_BOW",
             "chance": 0.01205,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §64,000,000 coins"
+            ]
           },
           {
             "type": "pet",
@@ -21525,7 +22509,11 @@
             "tier": "EPIC",
             "chance": 0.01031,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §bDiamond Chest",
+              "§e§lChest Price: §61,000,000 coins"
+            ]
           },
           {
             "type": "pet",
@@ -21533,13 +22521,21 @@
             "tier": "LEGENDARY",
             "chance": 0.01205,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §65,000,000 coins"
+            ]
           },
           {
             "id": "SPIRIT_DECOY",
             "chance": 0.0241,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §61,500,000 coins"
+            ]
           }
         ]
       },
@@ -21554,31 +22550,51 @@
             "id": "SPIRIT_BONE",
             "chance": 0.027304,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §61,500,000 coins"
+            ]
           },
           {
             "id": "SPIRIT_WING",
             "chance": 0.027304,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "THORNS_BOOTS",
             "chance": 0.013652,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §64,000,000 coins"
+            ]
           },
           {
             "id": "SPIRIT_SWORD",
             "chance": 0.013652,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §63,000,000 coins"
+            ]
           },
           {
             "id": "ITEM_SPIRIT_BOW",
             "chance": 0.013652,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §64,000,000 coins"
+            ]
           },
           {
             "type": "pet",
@@ -21586,7 +22602,11 @@
             "tier": "EPIC",
             "chance": 0.01031,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §bDiamond Chest",
+              "§e§lChest Price: §61,000,000 coins"
+            ]
           },
           {
             "type": "pet",
@@ -21594,31 +22614,51 @@
             "tier": "LEGENDARY",
             "chance": 0.013652,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §61,000,000 coins"
+            ]
           },
           {
             "id": "SPIRIT_DECOY",
             "chance": 0.027304,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §61,500,000 coins"
+            ]
           },
           {
             "id": "SECOND_MASTER_STAR",
             "chance": 0.027304,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §66,000,000 coins"
+            ]
           },
           {
             "id": "MASTER_SKULL_TIER_3",
             "chance": 0.040956,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §62,000,000 coins"
+            ]
           },
           {
             "id": "SPIRIT_MASK",
             "chance": 0.003413,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§e§lFound in: §5Obsidian Chest",
+              "§e§lChest Price: §615,000,000 coins"
+            ]
           }
         ]
       }
@@ -21676,8 +22716,8 @@
           {
             "id": "MAGMA_FISH_SILVER",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 8,
+            "maxAmount": 16
           },
           {
             "id": "THUNDER_SHARDS",
@@ -21727,7 +22767,12 @@
             "id": "ATOMIZED_CRYSTALS",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Thyst §7while using §cSalts§7.",
+              "§7 §7- §7Place §cTraps §7in §5Crystal Hollows§7."
+            ]
           }
         ]
       }
@@ -21769,7 +22814,13 @@
             "id": "HUMANOID_RULER",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Seacurse§7, Hydrospear§7, or",
+              "§7Tidetot §7while using §cSalts§7.",
+              "§7 §7- §7Place §cTraps §7in §cDrowned Reliquary§7."
+            ]
           }
         ]
       }
@@ -21949,7 +23000,12 @@
             "id": "MANA_STEAL",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Rain Slime§7 or §aToxic Rain Slime",
+              "§a§7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -21972,7 +23028,7 @@
             "id": "WATER_LILY",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 2
           },
           {
             "id": "CAN_OF_WORMS",
@@ -22317,29 +23373,33 @@
             "type": "pet",
             "pet": "ENDER_DRAGON",
             "tier": "EPIC",
-            "chance": 0.05,
+            "chance": 0.0005,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "type": "pet",
             "pet": "ENDER_DRAGON",
             "tier": "LEGENDARY",
-            "chance": 0.01,
+            "chance": 0.0001,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "id": "DRAGON_CLAW",
             "chance": 0.02,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "id": "ASPECT_OF_THE_DRAGON",
             "chance": 0.03,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "id": "DYE_PEARLESCENT",
@@ -23028,7 +24088,12 @@
             "id": "ARACHNO_RESISTANCE",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Voracious Spider §7while using",
+              "§7§cSalts§7."
+            ]
           }
         ]
       },
@@ -23056,7 +24121,12 @@
             "id": "ARACHNO_RESISTANCE",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Voracious Spider §7while using",
+              "§7§cSalts§7."
+            ]
           }
         ]
       }
@@ -23176,7 +24246,11 @@
             "id": "DRAGON_SHORTBOW_IMPROVEMENT",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Seer §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -23228,8 +24302,8 @@
           {
             "id": "WATER_LILY",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 16,
+            "maxAmount": 18
           },
           {
             "id": "FISH_AFFINITY_TALISMAN",
@@ -23260,7 +24334,11 @@
             "id": "FISHING_SPEED",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Water Hydra §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -23345,17 +24423,13 @@
             "maxAmount": 1
           },
           {
-            "type": "pet",
-            "pet": "TARANTULA",
-            "tier": "EPIC",
+            "id": "TARNATULA;3",
             "chance": 0.00004,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
-            "type": "pet",
-            "pet": "TARANTULA",
-            "tier": "LEGENDARY",
+            "id": "TARNATULA;4",
             "chance": 0.00001,
             "minAmount": 1,
             "maxAmount": 1
@@ -23402,9 +24476,7 @@
             "maxAmount": 1
           },
           {
-            "type": "pet",
-            "pet": "TARANTULA",
-            "tier": "LEGENDARY",
+            "id": "TARNATULA;4",
             "chance": 0.00001,
             "minAmount": 1,
             "maxAmount": 1
@@ -23447,14 +24519,14 @@
           {
             "id": "PUMPKIN",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 16,
+            "maxAmount": 32
           },
           {
             "id": "PURPLE_CANDY",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 2
           },
           {
             "id": "ENCHANTED_PUMPKIN",
@@ -23541,14 +24613,14 @@
           {
             "id": "ENCHANTED_JUNGLE_LOG",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 16,
+            "maxAmount": 32
           },
           {
             "id": "ENCHANTED_CLAY_BALL",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 16,
+            "maxAmount": 32
           },
           {
             "id": "BOBBIN_SCRIPTURES",
@@ -23661,29 +24733,33 @@
             "type": "pet",
             "pet": "ENDER_DRAGON",
             "tier": "EPIC",
-            "chance": 0.05,
+            "chance": 0.0005,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "type": "pet",
             "pet": "ENDER_DRAGON",
             "tier": "LEGENDARY",
-            "chance": 0.01,
+            "chance": 0.0001,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "id": "DRAGON_CLAW",
             "chance": 0.02,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "id": "ASPECT_OF_THE_DRAGON",
             "chance": 0.03,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "id": "DYE_PEARLESCENT",
@@ -23980,7 +25056,12 @@
             "id": "BREEZE",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Wither Specter while using §cSalts§7.",
+              "§7 §7- §7Obtained from §cKuudra§7."
+            ]
           }
         ]
       }
@@ -24171,20 +25252,20 @@
           {
             "id": "ENCHANTED_ICE",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 32,
+            "maxAmount": 64
           },
           {
             "id": "ENCHANTED_RAW_FISH",
             "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
+            "minAmount": 16,
+            "maxAmount": 32
           },
           {
             "id": "RED_GIFT",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 2
           },
           {
             "id": "ENCHANTED_PACKED_ICE",
@@ -24196,7 +25277,7 @@
             "id": "BLUE_ICE_HUNK",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 2
           },
           {
             "type": "pet",
@@ -24252,7 +25333,11 @@
             "id": "YOG_MEMBRANE",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Yog §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -24341,29 +25426,33 @@
             "type": "pet",
             "pet": "ENDER_DRAGON",
             "tier": "EPIC",
-            "chance": 0.05,
+            "chance": 0.0005,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "type": "pet",
             "pet": "ENDER_DRAGON",
             "tier": "LEGENDARY",
-            "chance": 0.01,
+            "chance": 0.0001,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "id": "DRAGON_CLAW",
             "chance": 0.02,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "id": "ASPECT_OF_THE_DRAGON",
             "chance": 0.03,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "condition": "per Summoning Eye"
           },
           {
             "id": "DYE_PEARLESCENT",
@@ -24457,7 +25546,11 @@
             "id": "ENDER",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Zealot Bruiser §7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -24498,7 +25591,11 @@
             "id": "ENDER_RESISTANCE",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Zealot §7while using §cSalts§7."
+            ]
           }
         ]
       },
@@ -24556,7 +25653,11 @@
             "id": "ENDER_RESISTANCE",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Kill Zealot §7while using §cSalts§7."
+            ]
           }
         ]
       },
@@ -24678,7 +25779,12 @@
             "id": "UNDEAD",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Kill Zombie Knight§7, Zombie Soldier§7,",
+              "§7Zombie Commander§7, or Zombie Lord",
+              "§7§7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -24796,7 +25902,12 @@
             "id": "UNDEAD",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Kill Zombie Knight§7, Zombie Soldier§7,",
+              "§7Zombie Commander§7, or Zombie Lord",
+              "§7§7while using §cSalts§7."
+            ]
           }
         ]
       }
@@ -24974,7 +26085,12 @@
             "id": "UNDEAD",
             "chance": 1,
             "minAmount": 1,
-            "maxAmount": 1
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Kill Zombie Knight§7, Zombie Soldier§7,",
+              "§7Zombie Commander§7, or Zombie Lord",
+              "§7§7while using §cSalts§7."
+            ]
           }
         ]
       }

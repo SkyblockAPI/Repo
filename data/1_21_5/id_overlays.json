@@ -2196,7 +2196,8 @@
     "type": "item",
     "id": "BAYOU_TRAVEL_SCROLL",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Travel_Scroll_To_The_Bayou"
+      "official": "https://wiki.hypixel.net/Travel_Scroll_To_The_Bayou",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_the_Bayou"
     }
   },
   {
@@ -2219,7 +2220,8 @@
     "type": "item",
     "id": "BEACHSIDE_RESORT_BARN_SKIN",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Beachside_Resort_Barn_Skin"
+      "official": "https://wiki.hypixel.net/Beachside_Resort_Barn_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Barn_Skins"
     }
   },
   {
@@ -2744,7 +2746,8 @@
     "type": "item",
     "id": "BIOHAZARD_PUMPKIN_SPICE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Pumpkin_Spice_Skin"
+      "official": "https://wiki.hypixel.net/Pumpkin_Spice_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Spice_Skin"
     }
   },
   {
@@ -2989,7 +2992,8 @@
     "type": "item",
     "id": "BLAZETEKK_HAM",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Blazetekk™_Ham"
+      "official": "https://wiki.hypixel.net/Blazetekk™_Ham",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blazetekk™_Ham"
     }
   },
   {
@@ -5253,7 +5257,7 @@
     "type": "item",
     "id": "CARROT",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Carrot"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Carrots"
     }
   },
   {
@@ -5656,7 +5660,8 @@
     "type": "item",
     "id": "CENTURY_PARTY_INVITATION",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Century_Party_Invitation"
+      "official": "https://wiki.hypixel.net/Century_Party_Invitation",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Century_Party_Invitation"
     }
   },
   {
@@ -5727,56 +5732,64 @@
     "type": "item",
     "id": "CHALLENGER_BELT",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Challenger%27s_Belt"
+      "official": "https://wiki.hypixel.net/Challenger%27s_Belt",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Challenger%27s_Belt"
     }
   },
   {
     "type": "item",
     "id": "CHALLENGER_BOOTS",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Challenger%27s_Boots"
+      "official": "https://wiki.hypixel.net/Challenger%27s_Boots",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Challenger%27s_Boots"
     }
   },
   {
     "type": "item",
     "id": "CHALLENGER_BRACELET",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Challenger%27s_Bracelet"
+      "official": "https://wiki.hypixel.net/Challenger%27s_Bracelet",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Challenger%27s_Bracelet"
     }
   },
   {
     "type": "item",
     "id": "CHALLENGER_CHESTPLATE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Challenger%27s_Chestplate"
+      "official": "https://wiki.hypixel.net/Challenger%27s_Chestplate",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Challenger%27s_Chestplate"
     }
   },
   {
     "type": "item",
     "id": "CHALLENGER_CLOAK",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Challenger%27s_Cloak"
+      "official": "https://wiki.hypixel.net/Challenger%27s_Cloak",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Challenger%27s_Cloak"
     }
   },
   {
     "type": "item",
     "id": "CHALLENGER_HELMET",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Challenger%27s_Helmet"
+      "official": "https://wiki.hypixel.net/Challenger%27s_Helmet",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Challenger%27s_Helmet"
     }
   },
   {
     "type": "item",
     "id": "CHALLENGER_LEGGINGS",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Challenger%27s_Leggings"
+      "official": "https://wiki.hypixel.net/Challenger%27s_Leggings",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Challenger%27s_Leggings"
     }
   },
   {
     "type": "item",
     "id": "CHALLENGER_NECKLACE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Challenger%27s_Necklace"
+      "official": "https://wiki.hypixel.net/Challenger%27s_Necklace",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Challenger%27s_Necklace"
     }
   },
   {
@@ -6877,7 +6890,8 @@
     "type": "item",
     "id": "COMBO_MANIA_TALISMAN",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Combo_Mania"
+      "official": "https://wiki.hypixel.net/Combo_Mania",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Combo_Mania"
     }
   },
   {
@@ -7416,7 +7430,8 @@
     "type": "item",
     "id": "CRETAN_URN",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Cretan_Urn"
+      "official": "https://wiki.hypixel.net/Cretan_Urn",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cretan_Urn"
     }
   },
   {
@@ -7519,7 +7534,8 @@
     "type": "item",
     "id": "CROPSHOT_GARDEN_CHIP",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Cropshot_Chip"
+      "official": "https://wiki.hypixel.net/Cropshot_Chip",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cropshot_Chip"
     }
   },
   {
@@ -8385,7 +8401,8 @@
     "type": "item",
     "id": "DETECTIVE_WALLET",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Wallet"
+      "official": "https://wiki.hypixel.net/Wallet",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wallet"
     }
   },
   {
@@ -8758,7 +8775,8 @@
     "type": "item",
     "id": "DIFFICULT_ITEM",
     "wiki": {
-      "official": "https://wiki.hypixel.net/An_Extremely_Difficult_Item_For_You_To_Find"
+      "official": "https://wiki.hypixel.net/An_Extremely_Difficult_Item_For_You_To_Find",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/An_Extremely_Difficult_Item_For_You_To_Find"
     }
   },
   {
@@ -10025,7 +10043,8 @@
     "type": "item",
     "id": "DYE_SUNSET",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Sunset_Dye"
+      "official": "https://wiki.hypixel.net/Sunset_Dye",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sunset_Dye"
     }
   },
   {
@@ -12555,7 +12574,8 @@
     "type": "item",
     "id": "ETALPTSEHC_NORI",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Etalptsehc_Nori"
+      "official": "https://wiki.hypixel.net/Etalptsehc_Nori",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Etalptsehc_Nori"
     }
   },
   {
@@ -12610,7 +12630,8 @@
     "type": "item",
     "id": "EVERGREEN_GARDEN_CHIP",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Evergreen_Chip"
+      "official": "https://wiki.hypixel.net/Evergreen_Chip",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Evergreen_Chip"
     }
   },
   {
@@ -12657,6 +12678,7 @@
     "type": "item",
     "id": "EXPERIENCE_ARTIFACT",
     "wiki": {
+      "official": "https://wiki.hypixel.net/Experience_Artifact",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Experience_Artifact"
     }
   },
@@ -13073,7 +13095,8 @@
     "type": "item",
     "id": "FATEFUL_STINGER",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Fateful_Stinger"
+      "official": "https://wiki.hypixel.net/Fateful_Stinger",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fateful_Stinger"
     }
   },
   {
@@ -14410,7 +14433,8 @@
     "type": "item",
     "id": "FLORAL_FLUX",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Floral_Power_Orb_Skin"
+      "official": "https://wiki.hypixel.net/Floral_Power_Orb_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Floral_Power_Orb_Skin"
     }
   },
   {
@@ -15128,7 +15152,8 @@
     "type": "item",
     "id": "FUDGE_MINT_CORE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Fudge_Mint_Core"
+      "official": "https://wiki.hypixel.net/Fudge_Mint_Core",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fudge_Mint_Core"
     }
   },
   {
@@ -16330,56 +16355,64 @@
     "type": "item",
     "id": "GLYPH_CONCLAMATUS",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Conclamatus_Glyph"
+      "official": "https://wiki.hypixel.net/Conclamatus_Glyph",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Conclamatus_Glyph"
     }
   },
   {
     "type": "item",
     "id": "GLYPH_FIRMITAS",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Firmitas_Glyph"
+      "official": "https://wiki.hypixel.net/Firmitas_Glyph",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Firmitas_Glyph"
     }
   },
   {
     "type": "item",
     "id": "GLYPH_FORTIS",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Fortis_Glyph"
+      "official": "https://wiki.hypixel.net/Fortis_Glyph",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fortis_Glyph"
     }
   },
   {
     "type": "item",
     "id": "GLYPH_PERNIMIUS",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Pernimius_Glyph"
+      "official": "https://wiki.hypixel.net/Pernimius_Glyph",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pernimius_Glyph"
     }
   },
   {
     "type": "item",
     "id": "GLYPH_POTENTIA",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Potentia_Glyph"
+      "official": "https://wiki.hypixel.net/Potentia_Glyph",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Potentia_Glyph"
     }
   },
   {
     "type": "item",
     "id": "GLYPH_ROBUR",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Robur_Glyph"
+      "official": "https://wiki.hypixel.net/Robur_Glyph",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Robur_Glyph"
     }
   },
   {
     "type": "item",
     "id": "GLYPH_VALIDUS",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Validus_Glyph"
+      "official": "https://wiki.hypixel.net/Validus_Glyph",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Validus_Glyph"
     }
   },
   {
     "type": "item",
     "id": "GLYPH_VIS",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Vis_Glyph"
+      "official": "https://wiki.hypixel.net/Vis_Glyph",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vis_Glyph"
     }
   },
   {
@@ -16603,7 +16636,8 @@
     "type": "item",
     "id": "GOLDEN_BELT",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Golden_Belt"
+      "official": "https://wiki.hypixel.net/Golden_Belt",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Golden_Belt"
     }
   },
   {
@@ -18300,42 +18334,48 @@
     "type": "item",
     "id": "HEPHAESTUS_PLUSHIE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Hephaestus_Plushie"
+      "official": "https://wiki.hypixel.net/Hephaestus_Plushie",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hephaestus_Plushie"
     }
   },
   {
     "type": "item",
     "id": "HEPHAESTUS_RELIC",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Hephaestus_Relic"
+      "official": "https://wiki.hypixel.net/Hephaestus_Relic",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hephaestus_Relic"
     }
   },
   {
     "type": "item",
     "id": "HEPHAESTUS_REMEDIES",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Hephaestus_Remedies"
+      "official": "https://wiki.hypixel.net/Hephaestus_Remedies",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hephaestus_Remedies"
     }
   },
   {
     "type": "item",
     "id": "HEPHAESTUS_SHELMET",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Hephaestus_Shelmet"
+      "official": "https://wiki.hypixel.net/Hephaestus_Shelmet",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hephaestus_Shelmet"
     }
   },
   {
     "type": "item",
     "id": "HEPHAESTUS_SOUVENIR",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Hephaestus_Souvenir"
+      "official": "https://wiki.hypixel.net/Hephaestus_Souvenir",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hephaestus_Souvenir"
     }
   },
   {
     "type": "item",
     "id": "HEPHAESTUS_URN",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Hephaestus_Urn"
+      "official": "https://wiki.hypixel.net/Hephaestus_Urn",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hephaestus_Urn"
     }
   },
   {
@@ -18374,7 +18414,8 @@
     "type": "item",
     "id": "HILT_OF_REVELATIONS",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Hilt_of_Revelations"
+      "official": "https://wiki.hypixel.net/Hilt_of_Revelations",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hilt_Of_Revelations"
     }
   },
   {
@@ -18557,7 +18598,8 @@
     "type": "item",
     "id": "HOLY_DRAGON_DRAKE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Holy_Drake_Skin"
+      "official": "https://wiki.hypixel.net/Holy_Drake_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Holy_Drake_Skin"
     }
   },
   {
@@ -19079,7 +19121,8 @@
     "type": "item",
     "id": "HYPERCHARGE_GARDEN_CHIP",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Hypercharge_Chip"
+      "official": "https://wiki.hypixel.net/Hypercharge_Chip",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hypercharge_Chip"
     }
   },
   {
@@ -19894,7 +19937,8 @@
     "type": "item",
     "id": "INK_SACK-10",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Lime_Dye"
+      "official": "https://wiki.hypixel.net/Lime_Dye",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lime_Dye"
     }
   },
   {
@@ -19991,7 +20035,8 @@
     "type": "item",
     "id": "INK_SACK-9",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Pink_Dye"
+      "official": "https://wiki.hypixel.net/Pink_Dye",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pink_Dye"
     }
   },
   {
@@ -22398,7 +22443,8 @@
     "type": "item",
     "id": "LOVELY_PICNIC_BARN_SKIN",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Lovely_Picnic_Barn_Skin"
+      "official": "https://wiki.hypixel.net/Lovely_Picnic_Barn_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Barn_Skins"
     }
   },
   {
@@ -23012,7 +23058,8 @@
     "type": "item",
     "id": "MANTICORE_CLAW",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Manticore_Claw"
+      "official": "https://wiki.hypixel.net/Manticore_Claw",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Manticore_Claw"
     }
   },
   {
@@ -23200,7 +23247,8 @@
     "type": "item",
     "id": "MECHAMIND_GARDEN_CHIP",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Mechamind_Chip"
+      "official": "https://wiki.hypixel.net/Mechamind_Chip",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mechamind_Chip"
     }
   },
   {
@@ -24556,7 +24604,7 @@
     "type": "item",
     "id": "MOUND_OF_SEAGRASS",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mound_of_Seagrass"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mound_Of_Seagrass"
     }
   },
   {
@@ -24969,7 +25017,8 @@
     "type": "item",
     "id": "MYTHOS_BELT",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Mythos_Belt"
+      "official": "https://wiki.hypixel.net/Mythos_Belt",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mythos_Belt"
     }
   },
   {
@@ -24984,7 +25033,8 @@
     "type": "item",
     "id": "MYTHOS_BRACELET",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Mythos_Bracelet"
+      "official": "https://wiki.hypixel.net/Mythos_Bracelet",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mythos_Bracelet"
     }
   },
   {
@@ -24999,7 +25049,8 @@
     "type": "item",
     "id": "MYTHOS_CLOAK",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Mythos_Cloak"
+      "official": "https://wiki.hypixel.net/Mythos_Cloak",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mythos_Cloak"
     }
   },
   {
@@ -25030,14 +25081,16 @@
     "type": "item",
     "id": "MYTHOS_NECKLACE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Mythos_Necklace"
+      "official": "https://wiki.hypixel.net/Mythos_Necklace",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mythos_Necklace"
     }
   },
   {
     "type": "item",
     "id": "MYTH_THE_FISH",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Myth_The_Fish"
+      "official": "https://wiki.hypixel.net/Myth_The_Fish",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Myth_The_Fish"
     }
   },
   {
@@ -25447,7 +25500,8 @@
     "type": "item",
     "id": "NOISY_PEARL",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Noisy_Pearl"
+      "official": "https://wiki.hypixel.net/Noisy_Pearl",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Noisy_Pearl"
     }
   },
   {
@@ -25998,7 +26052,8 @@
     "type": "item",
     "id": "OLD_DRAGON_DRAKE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Old_Drake_Skin"
+      "official": "https://wiki.hypixel.net/Old_Drake_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Old_Drake_Skin"
     }
   },
   {
@@ -26160,7 +26215,8 @@
     "type": "item",
     "id": "OVERDRIVE_GARDEN_CHIP",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Overdrive_Chip"
+      "official": "https://wiki.hypixel.net/Overdrive_Chip",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Overdrive_Chip"
     }
   },
   {
@@ -26232,7 +26288,8 @@
     "type": "item",
     "id": "PAINT_CARTRIDGE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Paint_Drying_Simulator"
+      "official": "https://wiki.hypixel.net/Paint_Drying_Simulator",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Paint_Drying_Simulator"
     }
   },
   {
@@ -28348,7 +28405,8 @@
     "type": "item",
     "id": "PET_SKIN_ELEPHANT_DARK_BLUE_PLUSHIE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Dark_Blue_Plushie_Elephant_Skin"
+      "official": "https://wiki.hypixel.net/Dark_Blue_Plushie_Elephant_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dark_Blue_Plushie_Elephant_Skin"
     }
   },
   {
@@ -28411,7 +28469,8 @@
     "type": "item",
     "id": "PET_SKIN_ELEPHANT_PURPLE_PLUSHIE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Purple_Plushie_Elephant_Skin"
+      "official": "https://wiki.hypixel.net/Purple_Plushie_Elephant_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Purple_Plushie_Elephant_Skin"
     }
   },
   {
@@ -28426,21 +28485,24 @@
     "type": "item",
     "id": "PET_SKIN_ELEPHANT_SAFARI",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Safari_Elephant_Skin"
+      "official": "https://wiki.hypixel.net/Safari_Elephant_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Safari_Elephant_Skin"
     }
   },
   {
     "type": "item",
     "id": "PET_SKIN_ELEPHANT_TEAL_PLUSHIE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Teal_Plushie_Elephant_Skin"
+      "official": "https://wiki.hypixel.net/Teal_Plushie_Elephant_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Teal_Plushie_Elephant_Skin"
     }
   },
   {
     "type": "item",
     "id": "PET_SKIN_ELEPHANT_WHITE_PLUSHIE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/White_Plushie_Elephant_Skin"
+      "official": "https://wiki.hypixel.net/White_Plushie_Elephant_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/White_Plushie_Elephant_Skin"
     }
   },
   {
@@ -28976,7 +29038,8 @@
     "type": "item",
     "id": "PET_SKIN_LION_LIONESS_NEW",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Lioness_Lion_Skin"
+      "official": "https://wiki.hypixel.net/Lioness_Lion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lioness_Lion_Skin"
     }
   },
   {
@@ -31484,7 +31547,8 @@
     "type": "item",
     "id": "PROTECTOR_DRAGON_DRAKE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Protector_Drake_Skin"
+      "official": "https://wiki.hypixel.net/Protector_Drake_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Protector_Drake_Skin"
     }
   },
   {
@@ -32006,7 +32070,8 @@
     "type": "item",
     "id": "QUICKDRAW_GARDEN_CHIP",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Quickdraw_Chip"
+      "official": "https://wiki.hypixel.net/Quickdraw_Chip",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Quickdraw_Chip"
     }
   },
   {
@@ -32319,7 +32384,8 @@
     "type": "item",
     "id": "RAREFINDER_GARDEN_CHIP",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Rarefinder_Chip"
+      "official": "https://wiki.hypixel.net/Rarefinder_Chip",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rarefinder_Chip"
     }
   },
   {
@@ -32507,7 +32573,8 @@
     "type": "item",
     "id": "REAPER_SPECTRE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Spectre_Skin"
+      "official": "https://wiki.hypixel.net/Spectre_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Spectre_Skin"
     }
   },
   {
@@ -33703,7 +33770,8 @@
     "type": "item",
     "id": "RING_OF_ETERNAL_LOVE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Ring_Of_Eternal_Love"
+      "official": "https://wiki.hypixel.net/Ring_Of_Eternal_Love",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ring_Of_Eternal_Love"
     }
   },
   {
@@ -35411,7 +35479,8 @@
     "type": "item",
     "id": "SHIMMERING_WOOL",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Shimmering_Wool"
+      "official": "https://wiki.hypixel.net/Shimmering_Wool",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Shimmering_Wool"
     }
   },
   {
@@ -37410,7 +37479,8 @@
     "type": "item",
     "id": "SOWLEDGE_GARDEN_CHIP",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Sowledge_Chip"
+      "official": "https://wiki.hypixel.net/Sowledge_Chip",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sowledge_Chip"
     }
   },
   {
@@ -38825,7 +38895,8 @@
     "type": "item",
     "id": "STARRED_VENOMS_TOUCH",
     "wiki": {
-      "official": "https://wiki.hypixel.net/⚚_Venom%27s_Touch"
+      "official": "https://wiki.hypixel.net/⚚_Venom%27s_Touch",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/⚚_Venom%27s_Touch"
     }
   },
   {
@@ -39243,7 +39314,8 @@
     "type": "item",
     "id": "STRONG_DRAGON_DRAKE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Strong_Drake_Skin"
+      "official": "https://wiki.hypixel.net/Strong_Drake_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Drake_Skin"
     }
   },
   {
@@ -39687,7 +39759,8 @@
     "type": "item",
     "id": "SUPERIOR_DRAGON_DRAKE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Superior_Drake_Skin"
+      "official": "https://wiki.hypixel.net/Superior_Drake_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Superior_Drake_Skin"
     }
   },
   {
@@ -39932,7 +40005,8 @@
     "type": "item",
     "id": "SYNTHESIS_GARDEN_CHIP",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Synthesis_Chip"
+      "official": "https://wiki.hypixel.net/Synthesis_Chip",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Synthesis_Chip"
     }
   },
   {
@@ -40948,7 +41022,8 @@
     "type": "item",
     "id": "THUNDER_STORM_KNIGHT",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Thunder_Storm_Knight_Skin"
+      "official": "https://wiki.hypixel.net/Thunder_Storm_Knight_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thunder_Storm_Knight_Skin"
     }
   },
   {
@@ -41018,7 +41093,8 @@
     "type": "item",
     "id": "TIME_KNIFE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Time_Shuriken"
+      "official": "https://wiki.hypixel.net/Time_Shuriken",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Time_Shuriken"
     }
   },
   {
@@ -41618,7 +41694,8 @@
     "type": "item",
     "id": "TUTORIAL_GARDEN_CHIP",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Cropshot_Chip"
+      "official": "https://wiki.hypixel.net/Cropshot_Chip",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cropshot_Chip"
     }
   },
   {
@@ -41649,7 +41726,8 @@
     "type": "item",
     "id": "UBIKS_CUBE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Ubik%27s_Cube"
+      "official": "https://wiki.hypixel.net/Ubik%27s_Cube",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ubik%27s_Cube"
     }
   },
   {
@@ -41836,7 +41914,8 @@
     "type": "item",
     "id": "UNSTABLE_DRAGON_DRAKE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Unstable_Drake_Skin"
+      "official": "https://wiki.hypixel.net/Unstable_Drake_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Unstable_Drake_Skin"
     }
   },
   {
@@ -42161,7 +42240,8 @@
     "type": "item",
     "id": "VERMIN_VAPORIZER_GARDEN_CHIP",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Vermin_Vaporizer_Chip"
+      "official": "https://wiki.hypixel.net/Vermin_Vaporizer_Chip",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vermin_Vaporizer_Chip"
     }
   },
   {
@@ -42784,7 +42864,8 @@
     "type": "item",
     "id": "WATER_HYDRA_DRAGON",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Dragon_Hydra_Skin"
+      "official": "https://wiki.hypixel.net/Dragon_Hydra_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dragon_Hydra_Skin"
     }
   },
   {
@@ -43360,7 +43441,8 @@
     "type": "item",
     "id": "WISE_DRAGON_DRAKE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Wise_Drake_Skin"
+      "official": "https://wiki.hypixel.net/Wise_Drake_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wise_Drake_Skin"
     }
   },
   {
@@ -43633,7 +43715,8 @@
     "type": "item",
     "id": "WIZARD_BREADCRUMBS",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Wizard%27s_Breadcrumbs"
+      "official": "https://wiki.hypixel.net/Wizard%27s_Breadcrumbs",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wizard%27s_Breadcrumbs"
     }
   },
   {
@@ -44025,7 +44108,8 @@
     "type": "item",
     "id": "WYLD_HELMET",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Wyld_Helmet_On_A_Helmet"
+      "official": "https://wiki.hypixel.net/Wyld_Helmet_On_A_Helmet",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wyld_Helmet_On_A_Helmet"
     }
   },
   {
@@ -44165,7 +44249,8 @@
     "type": "item",
     "id": "YOUNG_DRAGON_DRAKE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Young_Drake_Skin"
+      "official": "https://wiki.hypixel.net/Young_Drake_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Young_Drake_Skin"
     }
   },
   {
@@ -47663,7 +47748,8 @@
     "type": "mob",
     "id": "ARGOFAY_DOORHOLDER_RIFT_NPC",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Argofay_Doorholder"
+      "official": "https://wiki.hypixel.net/Argofay_Doorholder",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Argofay_Doorholder"
     }
   },
   {
@@ -48474,7 +48560,8 @@
     "type": "mob",
     "id": "CHUNK_NPC",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Chunk"
+      "official": "https://wiki.hypixel.net/Chunk",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Chunk"
     }
   },
   {
@@ -48759,7 +48846,8 @@
     "type": "mob",
     "id": "DEFUNCT_WIZARDMAN_RIFT_NPC",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Defunct_Wizardman"
+      "official": "https://wiki.hypixel.net/Defunct_Wizardman",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Defunct_Wizardman"
     }
   },
   {
@@ -51369,7 +51457,8 @@
     "type": "mob",
     "id": "OLD_TIMER_RIFT_NPC",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Old_Timer"
+      "official": "https://wiki.hypixel.net/Old_Timer",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Old_Timer"
     }
   },
   {
@@ -53820,7 +53909,8 @@
     "id": "AXE_FADING_GREEN",
     "tier": 1,
     "wiki": {
-      "official": "https://wiki.hypixel.net/Runes"
+      "official": "https://wiki.hypixel.net/Runes",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
     }
   },
   {
@@ -53828,7 +53918,8 @@
     "id": "AXE_FADING_GREEN",
     "tier": 2,
     "wiki": {
-      "official": "https://wiki.hypixel.net/Runes"
+      "official": "https://wiki.hypixel.net/Runes",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
     }
   },
   {
@@ -53836,7 +53927,8 @@
     "id": "AXE_FADING_GREEN",
     "tier": 3,
     "wiki": {
-      "official": "https://wiki.hypixel.net/Runes"
+      "official": "https://wiki.hypixel.net/Runes",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
     }
   },
   {
@@ -53844,7 +53936,8 @@
     "id": "AXE_FADING_WHITE",
     "tier": 1,
     "wiki": {
-      "official": "https://wiki.hypixel.net/Runes"
+      "official": "https://wiki.hypixel.net/Runes",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
     }
   },
   {
@@ -53852,7 +53945,8 @@
     "id": "AXE_FADING_WHITE",
     "tier": 2,
     "wiki": {
-      "official": "https://wiki.hypixel.net/Runes"
+      "official": "https://wiki.hypixel.net/Runes",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
     }
   },
   {
@@ -53860,7 +53954,8 @@
     "id": "AXE_FADING_WHITE",
     "tier": 3,
     "wiki": {
-      "official": "https://wiki.hypixel.net/Runes"
+      "official": "https://wiki.hypixel.net/Runes",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
     }
   },
   {
@@ -53868,7 +53963,8 @@
     "id": "AXE_RAINBOW",
     "tier": 3,
     "wiki": {
-      "official": "https://wiki.hypixel.net/Runes"
+      "official": "https://wiki.hypixel.net/Runes",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
     }
   },
   {
@@ -54016,7 +54112,8 @@
     "id": "CROWNED",
     "tier": 3,
     "wiki": {
-      "official": "https://wiki.hypixel.net/Runes"
+      "official": "https://wiki.hypixel.net/Runes",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
     }
   },
   {
@@ -54024,7 +54121,8 @@
     "id": "DARKNESS_WITHIN",
     "tier": 1,
     "wiki": {
-      "official": "https://wiki.hypixel.net/Runes"
+      "official": "https://wiki.hypixel.net/Runes",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
     }
   },
   {
@@ -54032,7 +54130,8 @@
     "id": "DARKNESS_WITHIN",
     "tier": 2,
     "wiki": {
-      "official": "https://wiki.hypixel.net/Runes"
+      "official": "https://wiki.hypixel.net/Runes",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
     }
   },
   {
@@ -54040,7 +54139,8 @@
     "id": "DARKNESS_WITHIN",
     "tier": 3,
     "wiki": {
-      "official": "https://wiki.hypixel.net/Runes"
+      "official": "https://wiki.hypixel.net/Runes",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
     }
   },
   {
@@ -54544,7 +54644,8 @@
     "id": "PEAFOWL",
     "tier": 3,
     "wiki": {
-      "official": "https://wiki.hypixel.net/Runes"
+      "official": "https://wiki.hypixel.net/Runes",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
     }
   },
   {
@@ -54560,7 +54661,8 @@
     "id": "RAINBOW_CARPET",
     "tier": 3,
     "wiki": {
-      "official": "https://wiki.hypixel.net/Runes"
+      "official": "https://wiki.hypixel.net/Runes",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
     }
   },
   {
@@ -54873,7 +54975,8 @@
     "id": "TURKEY",
     "tier": 3,
     "wiki": {
-      "official": "https://wiki.hypixel.net/Runes"
+      "official": "https://wiki.hypixel.net/Runes",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
     }
   },
   {
@@ -54982,6 +55085,3458 @@
     "wiki": {
       "official": "https://wiki.hypixel.net/Runes",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ABSORB",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Absorb_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Absorb"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "AIMING",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Aiming_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Aiming"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "AIMING",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Aiming_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Aiming"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "AIMING",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Aiming_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Aiming"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "AIMING",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Aiming_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Aiming"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "AIMING",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Aiming_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Aiming"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ANGLER",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Angler_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Angler"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ANGLER",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Angler_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Angler"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ANGLER",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Angler_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Angler"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ANGLER",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Angler_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Angler"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ANGLER",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Angler_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Angler"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ANGLER",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Angler_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Angler"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "AQUA_AFFINITY",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Aqua_Affinity_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Aqua_Affinity"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ARCANE",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Arcane_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Arcane"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ARCANE",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Arcane_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Arcane"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ARCANE",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Arcane_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Arcane"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ARCANE",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Arcane_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Arcane"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ARCANE",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Arcane_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Arcane"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ARCANE",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Arcane_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Arcane"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BANE_OF_ARTHROPODS",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Bane_Of_Arthropods_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bane_Of_Arthropods"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BANE_OF_ARTHROPODS",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Bane_Of_Arthropods_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bane_Of_Arthropods"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BANE_OF_ARTHROPODS",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Bane_Of_Arthropods_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bane_Of_Arthropods"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BANE_OF_ARTHROPODS",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Bane_Of_Arthropods_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bane_Of_Arthropods"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BANE_OF_ARTHROPODS",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Bane_Of_Arthropods_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bane_Of_Arthropods"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BANE_OF_ARTHROPODS",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Bane_Of_Arthropods_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bane_Of_Arthropods"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BANE_OF_ARTHROPODS",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Bane_Of_Arthropods_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bane_Of_Arthropods"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BIG_BRAIN",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Big_Brain_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Big_Brain"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BIG_BRAIN",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Big_Brain_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Big_Brain"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BIG_BRAIN",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Big_Brain_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Big_Brain"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BLAST_PROTECTION",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Blast_Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blast_Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BLAST_PROTECTION",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Blast_Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blast_Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BLAST_PROTECTION",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Blast_Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blast_Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BLAST_PROTECTION",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Blast_Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blast_Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BLAST_PROTECTION",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Blast_Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blast_Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BLAST_PROTECTION",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Blast_Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blast_Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BLAST_PROTECTION",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Blast_Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blast_Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BLESSING",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Blessing_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blessing"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BLESSING",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Blessing_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blessing"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BLESSING",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Blessing_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blessing"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BLESSING",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Blessing_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blessing"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BLESSING",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Blessing_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blessing"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BLESSING",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Blessing_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blessing"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BUG_BLENDER",
+    "level": 1,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bug_Blender"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BUG_BLENDER",
+    "level": 2,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bug_Blender"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BUG_BLENDER",
+    "level": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bug_Blender"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BUG_BLENDER",
+    "level": 4,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bug_Blender"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "BUG_BLENDER",
+    "level": 5,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bug_Blender"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CASTER",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Caster_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Caster"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CASTER",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Caster_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Caster"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CASTER",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Caster_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Caster"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CASTER",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Caster_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Caster"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CASTER",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Caster_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Caster"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CASTER",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Caster_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Caster"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CAYENNE",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Cayenne_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cayenne"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CAYENNE",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Cayenne_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cayenne"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CHAMPION",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Champion_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Champion"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CHANCE",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Chance_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Chance"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CHANCE",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Chance_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Chance"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CHANCE",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Chance_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Chance"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CHANCE",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Chance_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Chance"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CHANCE",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Chance_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Chance"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CHARM",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Charm_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Charm"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CHARM",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Charm_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Charm"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CHARM",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Charm_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Charm"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CHARM",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Charm_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Charm"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CHARM",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Charm_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Charm"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CHARM",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Charm_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Charm"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CLEAVE",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Cleave_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cleave"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CLEAVE",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Cleave_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cleave"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CLEAVE",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Cleave_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cleave"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CLEAVE",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Cleave_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cleave"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CLEAVE",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Cleave_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cleave"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CLEAVE",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Cleave_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cleave"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "COMPACT",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Compact_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Compact"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CORRUPTION",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Corruption_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Corruption"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CORRUPTION",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Corruption_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Corruption"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CORRUPTION",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Corruption_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Corruption"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CORRUPTION",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Corruption_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Corruption"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CORRUPTION",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Corruption_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Corruption"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CRITICAL",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Critical_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Critical"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CRITICAL",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Critical_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Critical"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CRITICAL",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Critical_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Critical"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CRITICAL",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Critical_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Critical"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CRITICAL",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Critical_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Critical"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CRITICAL",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Critical_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Critical"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CRITICAL",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Critical_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Critical"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CUBISM",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Cubism_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cubism"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CUBISM",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Cubism_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cubism"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CUBISM",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Cubism_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cubism"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CUBISM",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Cubism_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cubism"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CUBISM",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Cubism_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cubism"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CUBISM",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Cubism_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cubism"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "CULTIVATING",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Cultivating_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cultivating"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "DEDICATION",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Dedication_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dedication"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "DEDICATION",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Dedication_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dedication"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "DEDICATION",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Dedication_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dedication"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "DEDICATION",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Dedication_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dedication"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "DELICATE",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Delicate_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Delicate"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "DEPTH_STRIDER",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Depth_Strider_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Depth_Strider"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "DEPTH_STRIDER",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Depth_Strider_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Depth_Strider"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "DEPTH_STRIDER",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Depth_Strider_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Depth_Strider"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "DIVINE_GIFT",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Divine_Gift_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Divine_Gift"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "DIVINE_GIFT",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Divine_Gift_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Divine_Gift"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "DIVINE_GIFT",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Divine_Gift_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Divine_Gift"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "DRAGON_HUNTER",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Dragon_Hunter_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dragon_Hunter"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "DRAGON_HUNTER",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Dragon_Hunter_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dragon_Hunter"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "DRAGON_HUNTER",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Dragon_Hunter_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dragon_Hunter"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "DRAGON_HUNTER",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Dragon_Hunter_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dragon_Hunter"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "DRAGON_HUNTER",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Dragon_Hunter_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dragon_Hunter"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "DRAGON_HUNTER",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Dragon_Hunter_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dragon_Hunter"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "EFFICIENCY",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Efficiency_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Efficiency"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "EFFICIENCY",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Efficiency_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Efficiency"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "EFFICIENCY",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Efficiency_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Efficiency"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "EFFICIENCY",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Efficiency_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Efficiency"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "EFFICIENCY",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Efficiency_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Efficiency"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ENDER_SLAYER",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Ender_Slayer_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ender_Slayer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ENDER_SLAYER",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Ender_Slayer_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ender_Slayer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ENDER_SLAYER",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Ender_Slayer_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ender_Slayer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ENDER_SLAYER",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Ender_Slayer_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ender_Slayer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ENDER_SLAYER",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Ender_Slayer_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ender_Slayer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ENDER_SLAYER",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Ender_Slayer_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ender_Slayer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ENDER_SLAYER",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Ender_Slayer_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ender_Slayer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "EXECUTE",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Execute_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Execute"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "EXECUTE",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Execute_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Execute"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "EXECUTE",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Execute_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Execute"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "EXECUTE",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Execute_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Execute"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "EXECUTE",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Execute_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Execute"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "EXECUTE",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Execute_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Execute"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "EXPERIENCE",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Experience_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Experience"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "EXPERIENCE",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Experience_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Experience"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "EXPERIENCE",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Experience_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Experience"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "EXPERIENCE",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Experience_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Experience"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "EXPERIENCE",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Experience_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Experience"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "EXPERTISE",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Expertise_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Expertise"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEAST",
+    "level": 1,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Feast"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEAST",
+    "level": 2,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Feast"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEAST",
+    "level": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Feast"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEAST",
+    "level": 4,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Feast"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEAST",
+    "level": 5,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Feast"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEATHER_FALLING",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Feather_Falling_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Feather_Falling"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEATHER_FALLING",
+    "level": 10,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Feather_Falling_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Feather_Falling"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEATHER_FALLING",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Feather_Falling_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Feather_Falling"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEATHER_FALLING",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Feather_Falling_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Feather_Falling"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEATHER_FALLING",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Feather_Falling_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Feather_Falling"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEATHER_FALLING",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Feather_Falling_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Feather_Falling"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEATHER_FALLING",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Feather_Falling_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Feather_Falling"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEATHER_FALLING",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Feather_Falling_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Feather_Falling"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEATHER_FALLING",
+    "level": 8,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Feather_Falling_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Feather_Falling"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEATHER_FALLING",
+    "level": 9,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Feather_Falling_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Feather_Falling"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEROCIOUS_MANA",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Ferocious_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ferocious_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEROCIOUS_MANA",
+    "level": 10,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Ferocious_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ferocious_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEROCIOUS_MANA",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Ferocious_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ferocious_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEROCIOUS_MANA",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Ferocious_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ferocious_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEROCIOUS_MANA",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Ferocious_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ferocious_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEROCIOUS_MANA",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Ferocious_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ferocious_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEROCIOUS_MANA",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Ferocious_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ferocious_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEROCIOUS_MANA",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Ferocious_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ferocious_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEROCIOUS_MANA",
+    "level": 8,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Ferocious_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ferocious_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FEROCIOUS_MANA",
+    "level": 9,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Ferocious_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ferocious_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FIRE_ASPECT",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Fire_Aspect_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fire_Aspect"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FIRE_ASPECT",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Fire_Aspect_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fire_Aspect"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FIRE_ASPECT",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Fire_Aspect_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fire_Aspect"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FIRE_PROTECTION",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Fire_Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fire_Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FIRE_PROTECTION",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Fire_Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fire_Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FIRE_PROTECTION",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Fire_Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fire_Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FIRE_PROTECTION",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Fire_Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fire_Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FIRE_PROTECTION",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Fire_Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fire_Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FIRE_PROTECTION",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Fire_Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fire_Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FIRE_PROTECTION",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Fire_Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fire_Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FIRST_STRIKE",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/First_Strike_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/First_Strike"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FIRST_STRIKE",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/First_Strike_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/First_Strike"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FIRST_STRIKE",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/First_Strike_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/First_Strike"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FIRST_STRIKE",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/First_Strike_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/First_Strike"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FIRST_STRIKE",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/First_Strike_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/First_Strike"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FLAME",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Flame_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flame"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FLAME",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Flame_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flame"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FOREST_PLEDGE",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Forest_Pledge_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Forest_Pledge"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FOREST_PLEDGE",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Forest_Pledge_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Forest_Pledge"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FOREST_PLEDGE",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Forest_Pledge_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Forest_Pledge"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FORTUNE",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Fortune_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fortune"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FORTUNE",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Fortune_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fortune"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FORTUNE",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Fortune_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fortune"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FORTUNE",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Fortune_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fortune"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FRAIL",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Frail_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Frail"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FRAIL",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Frail_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Frail"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FRAIL",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Frail_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Frail"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FRAIL",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Frail_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Frail"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FRAIL",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Frail_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Frail"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FRAIL",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Frail_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Frail"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FROST_WALKER",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Frost_Walker_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Frost_Walker"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "FROST_WALKER",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Frost_Walker_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Frost_Walker"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "GIANT_KILLER",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Giant_Killer_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Giant_Killer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "GIANT_KILLER",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Giant_Killer_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Giant_Killer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "GIANT_KILLER",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Giant_Killer_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Giant_Killer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "GIANT_KILLER",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Giant_Killer_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Giant_Killer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "GIANT_KILLER",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Giant_Killer_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Giant_Killer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "GIANT_KILLER",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Giant_Killer_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Giant_Killer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "GIANT_KILLER",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Giant_Killer_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Giant_Killer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "GREAT_SPOOK",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Great_Spook_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Great_Spook"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "GREEN_THUMB",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Green_Thumb_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Green_Thumb"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "GREEN_THUMB",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Green_Thumb_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Green_Thumb"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "GREEN_THUMB",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Green_Thumb_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Green_Thumb"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "GREEN_THUMB",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Green_Thumb_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Green_Thumb"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "GREEN_THUMB",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Green_Thumb_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Green_Thumb"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "GROWTH",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Growth_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Growth"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "GROWTH",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Growth_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Growth"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "GROWTH",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Growth_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Growth"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "GROWTH",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Growth_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Growth"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "GROWTH",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Growth_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Growth"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "GROWTH",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Growth_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Growth"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "GROWTH",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Growth_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Growth"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "HARDENED_MANA",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Hardened_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "HARDENED_MANA",
+    "level": 10,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Hardened_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "HARDENED_MANA",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Hardened_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "HARDENED_MANA",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Hardened_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "HARDENED_MANA",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Hardened_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "HARDENED_MANA",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Hardened_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "HARDENED_MANA",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Hardened_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "HARDENED_MANA",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Hardened_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "HARDENED_MANA",
+    "level": 8,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Hardened_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "HARDENED_MANA",
+    "level": 9,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Hardened_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "HARVESTING",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Harvesting_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Harvesting"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "HARVESTING",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Harvesting_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Harvesting"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "HARVESTING",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Harvesting_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Harvesting"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "HARVESTING",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Harvesting_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Harvesting"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "HARVESTING",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Harvesting_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Harvesting"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "HARVESTING",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Harvesting_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Harvesting"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "HECATOMB",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Hecatomb_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hecatomb"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ICE_COLD",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Ice_Cold_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ice_Cold"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ICE_COLD",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Ice_Cold_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ice_Cold"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ICE_COLD",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Ice_Cold_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ice_Cold"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ICE_COLD",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Ice_Cold_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ice_Cold"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ICE_COLD",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Ice_Cold_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ice_Cold"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "IMPALING",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Impaling_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Impaling"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "IMPALING",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Impaling_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Impaling"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "IMPALING",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Impaling_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Impaling"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "IMPALING",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Impaling_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Impaling"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "IMPALING",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Impaling_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Impaling"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "INFINITE_QUIVER",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Infinite_Quiver_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Infinite_Quiver"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "INFINITE_QUIVER",
+    "level": 10,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Infinite_Quiver_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Infinite_Quiver"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "INFINITE_QUIVER",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Infinite_Quiver_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Infinite_Quiver"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "INFINITE_QUIVER",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Infinite_Quiver_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Infinite_Quiver"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "INFINITE_QUIVER",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Infinite_Quiver_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Infinite_Quiver"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "INFINITE_QUIVER",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Infinite_Quiver_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Infinite_Quiver"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "INFINITE_QUIVER",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Infinite_Quiver_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Infinite_Quiver"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "INFINITE_QUIVER",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Infinite_Quiver_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Infinite_Quiver"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "INFINITE_QUIVER",
+    "level": 8,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Infinite_Quiver_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Infinite_Quiver"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "INFINITE_QUIVER",
+    "level": 9,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Infinite_Quiver_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Infinite_Quiver"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "KNOCKBACK",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Knockback_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Knockback"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "KNOCKBACK",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Knockback_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Knockback"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LAPIDARY",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Lapidary_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lapidary"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LAPIDARY",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Lapidary_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lapidary"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LAPIDARY",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Lapidary_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lapidary"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LAPIDARY",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Lapidary_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lapidary"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LAPIDARY",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Lapidary_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lapidary"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LETHALITY",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Lethality_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lethality"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LETHALITY",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Lethality_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lethality"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LETHALITY",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Lethality_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lethality"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LETHALITY",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Lethality_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lethality"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LETHALITY",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Lethality_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lethality"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LETHALITY",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Lethality_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lethality"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LIFE_STEAL",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Life_Steal_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Life_Steal"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LIFE_STEAL",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Life_Steal_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Life_Steal"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LIFE_STEAL",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Life_Steal_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Life_Steal"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LIFE_STEAL",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Life_Steal_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Life_Steal"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LIFE_STEAL",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Life_Steal_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Life_Steal"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LOOTING",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Looting_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Looting"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LOOTING",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Looting_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Looting"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LOOTING",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Looting_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Looting"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LOOTING",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Looting_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Looting"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LOOTING",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Looting_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Looting"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LUCK",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Luck_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Luck"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LUCK",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Luck_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Luck"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LUCK",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Luck_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Luck"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LUCK",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Luck_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Luck"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LUCK",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Luck_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Luck"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LUCK",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Luck_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Luck"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LUCK",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Luck_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Luck"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LUCK_OF_THE_SEA",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Luck_Of_The_Sea_Enchantment"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LUCK_OF_THE_SEA",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Luck_Of_The_Sea_Enchantment"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LUCK_OF_THE_SEA",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Luck_Of_The_Sea_Enchantment"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LUCK_OF_THE_SEA",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Luck_Of_The_Sea_Enchantment"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LUCK_OF_THE_SEA",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Luck_Of_The_Sea_Enchantment"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LUCK_OF_THE_SEA",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Luck_Of_The_Sea_Enchantment"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LURE",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Lure_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lure"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LURE",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Lure_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lure"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LURE",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Lure_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lure"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LURE",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Lure_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lure"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LURE",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Lure_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lure"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LURE",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Lure_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lure"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MAGMARIZER",
+    "level": 1,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magmarizer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MAGMARIZER",
+    "level": 2,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magmarizer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MAGMARIZER",
+    "level": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magmarizer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MAGMARIZER",
+    "level": 4,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magmarizer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MAGMARIZER",
+    "level": 5,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magmarizer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MAGMARIZER",
+    "level": 6,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magmarizer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MAGNET",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Magnet_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magnet"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MAGNET",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Magnet_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magnet"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MAGNET",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Magnet_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magnet"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MAGNET",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Magnet_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magnet"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MAGNET",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Magnet_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magnet"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MAGNET",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Magnet_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magnet"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MANA_STEAL",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Mana_Steal_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Steal"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MANA_STEAL",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Mana_Steal_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Steal"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MANA_STEAL",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Mana_Steal_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Steal"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MANA_VAMPIRE",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Mana_Vampire_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Vampire"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MANA_VAMPIRE",
+    "level": 10,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Mana_Vampire_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Vampire"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MANA_VAMPIRE",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Mana_Vampire_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Vampire"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MANA_VAMPIRE",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Mana_Vampire_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Vampire"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MANA_VAMPIRE",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Mana_Vampire_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Vampire"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MANA_VAMPIRE",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Mana_Vampire_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Vampire"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MANA_VAMPIRE",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Mana_Vampire_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Vampire"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MANA_VAMPIRE",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Mana_Vampire_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Vampire"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MANA_VAMPIRE",
+    "level": 8,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Mana_Vampire_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Vampire"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "MANA_VAMPIRE",
+    "level": 9,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Mana_Vampire_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Vampire"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "OVERLOAD",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Overload_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Overload"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "OVERLOAD",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Overload_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Overload"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "OVERLOAD",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Overload_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Overload"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "OVERLOAD",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Overload_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Overload"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "OVERLOAD",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Overload_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Overload"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PALEONTOLOGIST",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Paleontologist_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Paleontologist"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PALEONTOLOGIST",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Paleontologist_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Paleontologist"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PALEONTOLOGIST",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Paleontologist_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Paleontologist"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PALEONTOLOGIST",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Paleontologist_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Paleontologist"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PALEONTOLOGIST",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Paleontologist_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Paleontologist"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PESTERMINATOR",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Pesterminator_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pesterminator"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PESTERMINATOR",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Pesterminator_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pesterminator"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PESTERMINATOR",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Pesterminator_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pesterminator"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PESTERMINATOR",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Pesterminator_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pesterminator"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PESTERMINATOR",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Pesterminator_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pesterminator"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PIERCING",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Piercing_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Piercing"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PISCARY",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Piscary_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Piscary"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PISCARY",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Piscary_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Piscary"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PISCARY",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Piscary_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Piscary"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PISCARY",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Piscary_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Piscary"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PISCARY",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Piscary_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Piscary"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PISCARY",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Piscary_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Piscary"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "POWER",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Power_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Power"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "POWER",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Power_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Power"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "POWER",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Power_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Power"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "POWER",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Power_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Power"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "POWER",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Power_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Power"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "POWER",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Power_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Power"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "POWER",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Power_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Power"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PRISTINE",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Pristine_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pristine"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PRISTINE",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Pristine_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pristine"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PRISTINE",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Pristine_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pristine"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PRISTINE",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Pristine_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pristine"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PRISTINE",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Pristine_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pristine"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROJECTILE_PROTECTION",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Projectile_Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Projectile_Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROJECTILE_PROTECTION",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Projectile_Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Projectile_Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROJECTILE_PROTECTION",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Projectile_Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Projectile_Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROJECTILE_PROTECTION",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Projectile_Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Projectile_Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROJECTILE_PROTECTION",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Projectile_Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Projectile_Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROJECTILE_PROTECTION",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Projectile_Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Projectile_Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROJECTILE_PROTECTION",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Projectile_Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Projectile_Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROSECUTE",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Prosecute_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Prosecute"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROSECUTE",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Prosecute_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Prosecute"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROSECUTE",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Prosecute_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Prosecute"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROSECUTE",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Prosecute_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Prosecute"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROSECUTE",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Prosecute_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Prosecute"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROSECUTE",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Prosecute_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Prosecute"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROSPERITY",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Prosperity_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Prosperity"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROSPERITY",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Prosperity_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Prosperity"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROSPERITY",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Prosperity_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Prosperity"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROSPERITY",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Prosperity_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Prosperity"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROSPERITY",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Prosperity_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Prosperity"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROTECTION",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROTECTION",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROTECTION",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROTECTION",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROTECTION",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROTECTION",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PROTECTION",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Protection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PUNCH",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Punch_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Punch"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PUNCH",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Punch_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Punch"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "QUANTUM",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Quantum_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Quantum"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "QUANTUM",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Quantum_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Quantum"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "QUANTUM",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Quantum_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Quantum"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "QUICK_BITE",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Quick_Bite_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Quick_Bite"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "QUICK_BITE",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Quick_Bite_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Quick_Bite"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "QUICK_BITE",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Quick_Bite_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Quick_Bite"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "QUICK_BITE",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Quick_Bite_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Quick_Bite"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "QUICK_BITE",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Quick_Bite_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Quick_Bite"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "RAINBOW",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Rainbow_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rainbow"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "RAINBOW",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Rainbow_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rainbow"
     }
   },
   {
@@ -54989,7 +58544,1160 @@
     "id": "RAINBOW",
     "level": 3,
     "wiki": {
-      "official": "https://wiki.hypixel.net/Rainbow_Enchantment"
+      "official": "https://wiki.hypixel.net/Rainbow_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rainbow"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "REFLECTION",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Reflection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Reflection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "REFLECTION",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Reflection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Reflection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "REFLECTION",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Reflection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Reflection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "REFLECTION",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Reflection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Reflection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "REFLECTION",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Reflection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Reflection"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "REJUVENATE",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Rejuvenate_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rejuvenate"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "REJUVENATE",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Rejuvenate_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rejuvenate"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "REJUVENATE",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Rejuvenate_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rejuvenate"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "REJUVENATE",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Rejuvenate_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rejuvenate"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "REJUVENATE",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Rejuvenate_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rejuvenate"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "REPLENISH",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Replenish_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Replenish"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "RESPIRATION",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Respiration_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Respiration"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "RESPIRATION",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Respiration_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Respiration"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "RESPIRATION",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Respiration_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Respiration"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "RESPIRATION",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Respiration_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Respiration"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "RESPITE",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Respite_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Respite"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "RESPITE",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Respite_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Respite"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "RESPITE",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Respite_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Respite"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "RESPITE",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Respite_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Respite"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "RESPITE",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Respite_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Respite"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SCAVENGER",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Scavenger_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Scavenger"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SCAVENGER",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Scavenger_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Scavenger"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SCAVENGER",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Scavenger_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Scavenger"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SCAVENGER",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Scavenger_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Scavenger"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SCAVENGER",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Scavenger_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Scavenger"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SCUBA",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Scuba_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Scuba"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SCUBA",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Scuba_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Scuba"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SCUBA",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Scuba_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Scuba"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SCUBA",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Scuba_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Scuba"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SCUBA",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Scuba_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Scuba"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SHARPNESS",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Sharpness_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sharpness"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SHARPNESS",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Sharpness_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sharpness"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SHARPNESS",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Sharpness_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sharpness"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SHARPNESS",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Sharpness_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sharpness"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SHARPNESS",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Sharpness_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sharpness"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SHARPNESS",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Sharpness_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sharpness"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SHARPNESS",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Sharpness_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sharpness"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SILK_TOUCH",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Silk_Touch_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Silk_Touch"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SMALL_BRAIN",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Small_Brain_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Small_Brain"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SMALL_BRAIN",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Small_Brain_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Small_Brain"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SMALL_BRAIN",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Small_Brain_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Small_Brain"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SMARTY_PANTS",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Smarty_Pants_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Smarty_Pants"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SMARTY_PANTS",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Smarty_Pants_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Smarty_Pants"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SMARTY_PANTS",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Smarty_Pants_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Smarty_Pants"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SMARTY_PANTS",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Smarty_Pants_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Smarty_Pants"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SMARTY_PANTS",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Smarty_Pants_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Smarty_Pants"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SMELTING_TOUCH",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Smelting_Touch_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Smelting_Touch"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SMITE",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Smite_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Smite"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SMITE",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Smite_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Smite"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SMITE",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Smite_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Smite"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SMITE",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Smite_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Smite"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SMITE",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Smite_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Smite"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SMITE",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Smite_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Smite"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SMITE",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Smite_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Smite"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SMOLDERING",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Smoldering_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Smoldering"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SMOLDERING",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Smoldering_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Smoldering"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SMOLDERING",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Smoldering_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Smoldering"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SMOLDERING",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Smoldering_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Smoldering"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SMOLDERING",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Smoldering_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Smoldering"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SNIPE",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Snipe_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Snipe"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SNIPE",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Snipe_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Snipe"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SNIPE",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Snipe_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Snipe"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SNIPE",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Snipe_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Snipe"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SPIKED_HOOK",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Spiked_Hook_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Spiked_Hook"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SPIKED_HOOK",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Spiked_Hook_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Spiked_Hook"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SPIKED_HOOK",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Spiked_Hook_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Spiked_Hook"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SPIKED_HOOK",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Spiked_Hook_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Spiked_Hook"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SPIKED_HOOK",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Spiked_Hook_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Spiked_Hook"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SPIKED_HOOK",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Spiked_Hook_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Spiked_Hook"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "STEALTH",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Stealth_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Stealth"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "STRONG_MANA",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Strong_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "STRONG_MANA",
+    "level": 10,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Strong_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "STRONG_MANA",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Strong_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "STRONG_MANA",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Strong_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "STRONG_MANA",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Strong_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "STRONG_MANA",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Strong_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "STRONG_MANA",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Strong_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "STRONG_MANA",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Strong_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "STRONG_MANA",
+    "level": 8,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Strong_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "STRONG_MANA",
+    "level": 9,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Strong_Mana_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Mana"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SUGAR_RUSH",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Sugar_Rush_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sugar_Rush"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SUGAR_RUSH",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Sugar_Rush_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sugar_Rush"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SUGAR_RUSH",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Sugar_Rush_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sugar_Rush"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SUNDER",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Sunder_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sunder"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SUNDER",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Sunder_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sunder"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SUNDER",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Sunder_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sunder"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SUNDER",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Sunder_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sunder"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SUNDER",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Sunder_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sunder"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SUNDER",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Sunder_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sunder"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SYPHON",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Syphon_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Syphon"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SYPHON",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Syphon_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Syphon"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SYPHON",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Syphon_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Syphon"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SYPHON",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Syphon_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Syphon"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SYPHON",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Syphon_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Syphon"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TABASCO",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Tabasco_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tabasco"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TABASCO",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Tabasco_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tabasco"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TELEKINESIS",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Telekinesis_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Telekinesis"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "THORNS",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Thorns_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thorns"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "THORNS",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Thorns_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thorns"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "THORNS",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Thorns_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thorns"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "THUNDERBOLT",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Thunderbolt_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thunderbolt"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "THUNDERBOLT",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Thunderbolt_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thunderbolt"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "THUNDERBOLT",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Thunderbolt_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thunderbolt"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "THUNDERBOLT",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Thunderbolt_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thunderbolt"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "THUNDERBOLT",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Thunderbolt_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thunderbolt"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "THUNDERBOLT",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Thunderbolt_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thunderbolt"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "THUNDERBOLT",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Thunderbolt_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thunderbolt"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "THUNDERLORD",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Thunderlord_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thunderlord"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "THUNDERLORD",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Thunderlord_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thunderlord"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "THUNDERLORD",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Thunderlord_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thunderlord"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "THUNDERLORD",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Thunderlord_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thunderlord"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "THUNDERLORD",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Thunderlord_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thunderlord"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "THUNDERLORD",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Thunderlord_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thunderlord"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "THUNDERLORD",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Thunderlord_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thunderlord"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TIDAL",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Tidal_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tidal"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TIDAL",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Tidal_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tidal"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TIDAL",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Tidal_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tidal"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TITAN_KILLER",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Titan_Killer_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Titan_Killer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TITAN_KILLER",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Titan_Killer_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Titan_Killer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TITAN_KILLER",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Titan_Killer_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Titan_Killer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TITAN_KILLER",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Titan_Killer_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Titan_Killer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TITAN_KILLER",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Titan_Killer_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Titan_Killer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TITAN_KILLER",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Titan_Killer_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Titan_Killer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TITAN_KILLER",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Titan_Killer_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Titan_Killer"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TOXOPHILITE",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Toxophilite_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Toxophilite"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TRANSYLVANIAN",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Transylvanian_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Transylvanian"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TRANSYLVANIAN",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Transylvanian_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Transylvanian"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TRUE_PROTECTION",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/True_Protection_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/True_Protection"
     }
   },
   {
@@ -55133,7 +59841,8 @@
     "id": "ULTIMATE_JERRY",
     "level": 1,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Ultimate_Jerry_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Jerry"
     }
   },
   {
@@ -55141,7 +59850,8 @@
     "id": "ULTIMATE_JERRY",
     "level": 2,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Ultimate_Jerry_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Jerry"
     }
   },
   {
@@ -55149,7 +59859,8 @@
     "id": "ULTIMATE_JERRY",
     "level": 3,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Ultimate_Jerry_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Jerry"
     }
   },
   {
@@ -55157,7 +59868,8 @@
     "id": "ULTIMATE_JERRY",
     "level": 4,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Ultimate_Jerry_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Jerry"
     }
   },
   {
@@ -55165,7 +59877,8 @@
     "id": "ULTIMATE_JERRY",
     "level": 5,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Ultimate_Jerry_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Jerry"
     }
   },
   {
@@ -55469,7 +60182,8 @@
     "id": "ULTIMATE_WISE",
     "level": 1,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Ultimate_Wise_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Wise"
     }
   },
   {
@@ -55477,7 +60191,8 @@
     "id": "ULTIMATE_WISE",
     "level": 2,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Ultimate_Wise_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Wise"
     }
   },
   {
@@ -55485,7 +60200,8 @@
     "id": "ULTIMATE_WISE",
     "level": 3,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Ultimate_Wise_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Wise"
     }
   },
   {
@@ -55493,7 +60209,8 @@
     "id": "ULTIMATE_WISE",
     "level": 4,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Ultimate_Wise_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Wise"
     }
   },
   {
@@ -55501,7 +60218,143 @@
     "id": "ULTIMATE_WISE",
     "level": 5,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Ultimate_Wise_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Wise"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "VAMPIRISM",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Vampirism_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampirism"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "VAMPIRISM",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Vampirism_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampirism"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "VAMPIRISM",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Vampirism_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampirism"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "VAMPIRISM",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Vampirism_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampirism"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "VAMPIRISM",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Vampirism_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampirism"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "VAMPIRISM",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Vampirism_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampirism"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "VENOMOUS",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Venomous_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Venomous"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "VENOMOUS",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Venomous_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Venomous"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "VENOMOUS",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Venomous_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Venomous"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "VENOMOUS",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Venomous_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Venomous"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "VENOMOUS",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Venomous_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Venomous"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "VENOMOUS",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Venomous_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Venomous"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "VICIOUS",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Vicious_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vicious"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "VICIOUS",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Vicious_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vicious"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "VICIOUS",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Vicious_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vicious"
     }
   }
 ]
