@@ -15,46 +15,42 @@ const parseDropAmountAndChance = (chanceStr, extraLines) => {
     const result = {
         chance: 1.0,
         minAmount: 1,
-        maxAmount: 1
-    };
-
-    const extractAmount = (str) => {
-        const range = str.substring(1).split('-');
-        if (range.length === 2) {
-            result.minAmount = parseInt(range[0], 10);
-            result.maxAmount = parseInt(range[1], 10);
-        } else {
-            const amount = parseInt(range[0], 10);
-            result.minAmount = amount;
-            result.maxAmount = amount;
-        }
+        maxAmount: 1,
+        extra: []
     };
 
     if (chanceStr) {
         const cleanStr = stripColorCodes(chanceStr).trim();
 
-        if (cleanStr.endsWith('%')) {
-            const percentValue = parseFloat(cleanStr.replace('%', ''));
-            if (!isNaN(percentValue)) {
-                result.chance = percentValue / 100;
+        const chanceMatch = cleanStr.match(/^([\d.]+)\s*%(?:\s+(per\s+.+))?/i);
+
+        if (chanceMatch) {
+            result.chance = parseFloat(chanceMatch[1]) / 100;
+            if (chanceMatch[2]) {
+                result.condition = chanceMatch[2].trim();
             }
-        } else if (cleanStr.startsWith('x')) {
-            extractAmount(cleanStr);
         } else {
-            const val = parseFloat(cleanStr);
-            if (!isNaN(val)) {
-                result.chance = val <= 1 ? val : val / 100;
-            }
+            console.warn(`Unknown mob drop chance format: ${cleanStr}`);
+            result.chance = 1;
         }
     }
     if (Array.isArray(extraLines)) {
         for (const line of extraLines) {
             const cleanLine = stripColorCodes(line).trim();
-            if (cleanLine.startsWith('x') && !isNaN(parseInt(cleanLine.charAt(1), 10))) {
-                extractAmount(cleanLine);
-                break;
+
+            const amountMatch = cleanLine.match(/^(?:Drop Count:\s*)?x(\d+)(?:-(\d+))?/i);
+
+            if (amountMatch) {
+                result.minAmount = parseInt(amountMatch[1], 10);
+                result.maxAmount = amountMatch[2] ? parseInt(amountMatch[2], 10) : result.minAmount;
+            } else if (cleanLine !== "") {
+                result.extra.push(line);
             }
         }
+    }
+
+    if (result.extra.length === 0) {
+        delete result.extra;
     }
 
     return result;
@@ -74,7 +70,8 @@ export const Mobs = {
             const drops = [];
 
             (recipe.drops || []).forEach(drop => {
-                const {minAmount, maxAmount, chance} = parseDropAmountAndChance(drop.chance, drop.extra || []);
+                const {minAmount, maxAmount, chance, condition, extra} =
+                    parseDropAmountAndChance(drop.chance, drop.extra || []);
 
                 let rawId = drop.id;
                 let inIdAmount = 1;
@@ -90,12 +87,22 @@ export const Mobs = {
 
                 const { count, ...properties } = getInputs(rawId, inIdAmount);
 
-                drops.push({
+                const dropData = {
                     ...properties,
                     chance: chance,
                     minAmount: minAmount !== 1 ? minAmount : inIdAmount,
                     maxAmount: maxAmount !== 1 ? maxAmount : inIdAmount,
-                });
+                };
+
+                if (condition) {
+                    dropData.condition = condition;
+                }
+
+                if (extra) {
+                    dropData.extraLore = extra
+                }
+
+                drops.push(dropData);
             });
 
             lootTables.push({
