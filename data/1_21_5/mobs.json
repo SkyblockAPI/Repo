@@ -6295,7 +6295,42 @@
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3NTE0Nzk2NTY2MSwKICAicHJvZmlsZUlkIiA6ICI5MDczN2E1N2RlYjk0MWYxYTEyMzE1MmJkZmZjMTBmYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lU2tpbl8xNCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lYjBiYzk0MTAwNWE4YTZlYWNkMmZhMDQ4ODFjZjMxMjZhYTNkNjg3OTM0ODhkYWMzNGE2ZDMwYjc2NDQ3YTE5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
     "itemId": "minecraft:player_head",
     "name": "Frog Prince",
-    "type": "Sea Creature"
+    "type": "Sea Creature",
+    "lootTables": [
+      {
+        "name": "Frog Prince",
+        "mobLevel": 132,
+        "coins": 660,
+        "xp": 1320,
+        "combatXp": 3300,
+        "drops": [
+          {
+            "id": "LOTUS_SILVER",
+            "chance": 1,
+            "minAmount": 4,
+            "maxAmount": 4
+          },
+          {
+            "id": "LOTUS_GOLD",
+            "chance": 0.025,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "PRINCE_CROWN_JEWEL",
+            "chance": 0.0025,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_AQUAMARINE",
+            "chance": 0.00002,
+            "minAmount": 1,
+            "maxAmount": 1
+          }
+        ]
+      }
+    ]
   },
   "FROSTY_NPC": {
     "island": "winter",
@@ -11248,7 +11283,44 @@
     "texture": "eyJ0aW1lc3RhbXAiOjE0OTk3MTAwODQ4OTEsInByb2ZpbGVJZCI6IjA5NzJiZGQxNGI4NjQ5ZmI5ZWNjYTM1M2Y4NDkxYTUxIiwicHJvZmlsZU5hbWUiOiJNSEZfTGF2YVNsaW1lIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zODk1N2Q1MDIzYzkzN2M0YzQxYWEyNDEyZDQzNDEwYmRhMjNjZjc5YTlmNmFiMzZiNzZmZWYyZDdjNDI5In19fQ==",
     "itemId": "minecraft:player_head",
     "name": "Magma Pillar",
-    "type": "Sea Creature"
+    "type": "Sea Creature",
+    "lootTables": [
+      {
+        "name": "Magma Pillar",
+        "mobLevel": 220,
+        "coins": 330,
+        "xp": 330,
+        "combatXp": 0,
+        "drops": [
+          {
+            "id": "MAGMA_FISH_SILVER",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 4
+          },
+          {
+            "id": "ENCHANTED_MAGMA_CREAM",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 4
+          },
+          {
+            "type": "enchantment",
+            "id": "MAGMARIZER",
+            "level": 6,
+            "chance": 0.0005,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_CARMINE",
+            "chance": 4.0000000000000003e-7,
+            "minAmount": 1,
+            "maxAmount": 1
+          }
+        ]
+      }
+    ]
   },
   "MAGMA_SLUG_SC": {
     "texture": "eyJ0aW1lc3RhbXAiOjE0OTk3MTAwODQ4OTEsInByb2ZpbGVJZCI6IjA5NzJiZGQxNGI4NjQ5ZmI5ZWNjYTM1M2Y4NDkxYTUxIiwicHJvZmlsZU5hbWUiOiJNSEZfTGF2YVNsaW1lIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zODk1N2Q1MDIzYzkzN2M0YzQxYWEyNDEyZDQzNDEwYmRhMjNjZjc5YTlmNmFiMzZiNzZmZWYyZDdjNDI5In19fQ==",
@@ -16492,7 +16564,42 @@
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc0NjQ2Mzc5MTAxNSwKICAicHJvZmlsZUlkIiA6ICJjNDIzYjQwMWZiOGU0ODc3YjMzMmVmMjhiZDdlZGZmZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFjdGlvbkJyaW5lWVQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDcxYTI0M2U1MzEwMDhiODM5MzhkMDI2NzFlNmYyNjQ0YWQ1ZGQ1MzMwNWJhYmJhMmJlMTI0YzViZTJjMWYxMSIKICAgIH0KICB9Cn0=",
     "itemId": "minecraft:player_head",
     "name": "Puddle Jumper",
-    "type": "Sea Creature"
+    "type": "Sea Creature",
+    "lootTables": [
+      {
+        "name": "Puddle Jumper",
+        "mobLevel": 85,
+        "coins": 200,
+        "xp": 200,
+        "combatXp": 0,
+        "drops": [
+          {
+            "id": "LOTUS_SILVER",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "PUDDLE_JUMPER_BRONZE",
+            "chance": 0.7335299999999999,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "LOTUS_GOLD",
+            "chance": 0.005,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_AQUAMARINE",
+            "chance": 0.00002,
+            "minAmount": 1,
+            "maxAmount": 1
+          }
+        ]
+      }
+    ]
   },
   "PUFF_MONSTER": {
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyNDA4MzE0NDAzNCwKICAicHJvZmlsZUlkIiA6ICJmZGRmY2M4NjZmNWQ0N2JiOWE1ZmIwYmRiMzViYjQyYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJrYWRpcmNhbnBlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JhNWY3MTVhNjJhMjkwNTQ2MjI0MTJlYjY3M2RmZjU0OGUzNTA2MWFkODQ1Y2FmNDMxN2IxYjJlZThmNDA4ZjAiCiAgICB9CiAgfQp9",
@@ -16619,7 +16726,7 @@
           {
             "id": "MAGMA_FISH_SILVER",
             "chance": 1,
-            "minAmount": 32,
+            "minAmount": 16,
             "maxAmount": 32
           },
           {
@@ -16630,25 +16737,25 @@
           },
           {
             "id": "BOBBIN_SCRIPTURES",
-            "chance": 0.045,
+            "chance": 0.01,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
             "id": "CHAIN_END_TIMES",
-            "chance": 0.025,
+            "chance": 0.01,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
             "id": "BRIMSTONE_HANDLE",
-            "chance": 0.02,
+            "chance": 0.005,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
             "id": "BURNT_TEXTS",
-            "chance": 0.01,
+            "chance": 0.0025,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -22115,7 +22222,7 @@
     ]
   },
   "TARANTULA_BROODFATHER_5_BOSS": {
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q1NDE1NDFkYWFmZjUwODk2Y2QyNThiZGJkZDRjZjgwYzNiYTgxNjczNTcyNjA3OGJmZTM5MzkyN2U1N2YxIn19fQ",
+    "texture": "eyJ0aW1lc3RhbXAiOjE0OTg2OTA0NDk5MDIsInByb2ZpbGVJZCI6IjVhZDU1ZjM0NDFiNjRiZDI5YzMyMTg5ODNjNjM1OTM2IiwicHJvZmlsZU5hbWUiOiJNSEZfU3BpZGVyIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jZDU0MTU0MWRhYWZmNTA4OTZjZDI1OGJkYmRkNGNmODBjM2JhODE2NzM1NzI2MDc4YmZlMzkzOTI3ZTU3ZjEifX19",
     "itemId": "minecraft:player_head",
     "name": "Tarantula Broodfather V",
     "type": "Boss",
@@ -22883,44 +22990,32 @@
         "combatXp": 0,
         "drops": [
           {
-            "id": "ENCHANTED_CLAY_BALL",
-            "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 2
-          },
-          {
-            "id": "ENCHANTED_RAW_SALMON",
-            "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
-            "id": "ENCHANTED_PUFFERFISH",
-            "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
-            "id": "ENCHANTED_RAW_FISH",
-            "chance": 1,
-            "minAmount": 1,
-            "maxAmount": 1
-          },
-          {
             "id": "ENCHANTED_WATER_LILY",
             "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 4
+          },
+          {
+            "id": "CONDENSED_WATER_LILY",
+            "chance": 0.01,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
-            "id": "ENCHANTED_CLAY_BLOCK",
-            "chance": 0.005,
+            "id": "SNAKE_EYES",
+            "chance": 0.0011,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "BOBBIN_SCRIPTURES",
+            "chance": 0.01,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
             "id": "TITANOBOA_SHED",
-            "chance": 0.002,
+            "chance": 0.0022,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -24026,7 +24121,42 @@
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3MzMyOTEwMDI3OCwKICAicHJvZmlsZUlkIiA6ICIzOTg5OGFiODFmMjU0NmQxOGIyY2ExMTE1MDRkZGU1MCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YjJjYTExMTUwNGRkZTUwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzliZjlkM2JkNGMzZGNjYTM1MGE0Mzg4MDRkZDQyZmFlMmIzNDc0ZGMwOTI4ZmEwYWQ1NDdhZDQwNzAyYWNmNzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
     "itemId": "minecraft:player_head",
     "name": "Volcanic Snail",
-    "type": "Sea Creature"
+    "type": "Sea Creature",
+    "lootTables": [
+      {
+        "name": "Volcanic Snail",
+        "mobLevel": 90,
+        "coins": 90,
+        "xp": 108,
+        "combatXp": 0,
+        "drops": [
+          {
+            "id": "MAGMA_FISH",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 4
+          },
+          {
+            "id": "SEARED_ESCARGOT",
+            "chance": 0.04,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "MAGMA_FISH_SILVER",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_CARMINE",
+            "chance": 2.0000000000000002e-7,
+            "minAmount": 1,
+            "maxAmount": 1
+          }
+        ]
+      }
+    ]
   },
   "VOLT_MONSTER": {
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY3MzYzNzQ1OTAwOCwKICAicHJvZmlsZUlkIiA6ICJmMTA0NzMxZjljYTU0NmI0OTkzNjM4NTlkZWY5N2NjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6aWFkODciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2FlYTYyNTFlNThlM2QyMDU1MmEwMzVkNDI0NTYxZWFlZTA4M2ZlYWNkMWU2Y2IzYzJhNWNmOTQ1Y2U2ZDc2ZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
