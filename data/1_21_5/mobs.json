@@ -9112,10 +9112,6 @@
     "name": "Iron Forger",
     "type": "NPC"
   },
-  "ISLAND_NPC": {
-    "itemId": "minecraft:wandering_trader_spawn_egg",
-    "name": "Island NPC"
-  },
   "IVAN_NPC": {
     "island": "mining_3",
     "position": {

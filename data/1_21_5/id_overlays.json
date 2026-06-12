@@ -20339,6 +20339,14 @@
   },
   {
     "type": "item",
+    "id": "ISLAND_NPC",
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Island_NPC",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Island_NPC"
+    }
+  },
+  {
+    "type": "item",
     "id": "ITEM_FRAME",
     "vanilla": true
   },
@@ -50180,14 +50188,6 @@
     "wiki": {
       "official": "https://wiki.hypixel.net/Iron_Forger",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Iron_Forger"
-    }
-  },
-  {
-    "type": "mob",
-    "id": "ISLAND_NPC",
-    "wiki": {
-      "official": "https://wiki.hypixel.net/Island_NPC",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Island_NPC"
     }
   },
   {
