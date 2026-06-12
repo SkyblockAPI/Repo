@@ -48,11 +48,12 @@ const parseForgeRecipe = (item, recipe) => {
     }
 }
 
-const parseNpcRecipe = (recipe) => {
+const parseNpcRecipe = (item, recipe) => {
     const [outputId, outputAmount] = recipe.result.split(":")
 
     return {
         type: "shop",
+        npc: item.internalname,
         inputs: recipe.cost.map(key => key.split(":")).map(([id, amount]) => getInputs(id, parseInt(amount))),
         result: getInputs(outputId, parseInt(outputAmount))
     }
@@ -85,7 +86,7 @@ export const Recipes = {
                 } else if (recipe.type === "forge") {
                     recipesFile.push(parseForgeRecipe(item, recipe));
                 } else if (recipe.type === "npc_shop") {
-                    recipesFile.push(parseNpcRecipe(recipe));
+                    recipesFile.push(parseNpcRecipe(item, recipe));
                 } else if (recipe.type === "katgrade") {
                     recipesFile.push(parseKatRecipe(recipe))
                 } else if (!recipe.type && craftingRecipesKeys.filter(it => Object.hasOwn(recipe, it)).length === 9) {
