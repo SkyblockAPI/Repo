@@ -119,7 +119,7 @@ export const Mobs = {
             island: item.island,
             position: item.x && item.y && item.z ? {x: item.x, y: item.y, z: item.z} : undefined,
             texture: item.nbt.SkullOwner?.Properties?.textures[0]?.Value,
-            itemId: getItemId(item.itemid, item.damage),
+            itemId: item.nbt.ItemModel ?? getItemId(item.itemid, item.damage),
             name: realName,
             type: type,
             lootTables: lootTables.length === 0 ? undefined : lootTables,
