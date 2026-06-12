@@ -13,6 +13,7 @@ import {Attributes} from "./1_21_5/attributes.mjs";
 const specialItems = JSON.parse(fs.readFileSync(".github/scripts/data/special_items.json", "utf-8"));
 
 const isEntity = (file) => {
+    if (file === "ISLAND_NPC.json") return false;
     if (file.startsWith("PET_SKIN_")) return false;
     if (file.endsWith("_NPC.json")) return true;
     if (file.endsWith("_MONSTER.json")) return true;
