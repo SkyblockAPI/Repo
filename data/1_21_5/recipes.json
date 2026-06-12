@@ -721,6 +721,7 @@
   },
   {
     "type": "shop",
+    "npc": "ADVENTURER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -735,6 +736,7 @@
   },
   {
     "type": "shop",
+    "npc": "ADVENTURER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -749,6 +751,7 @@
   },
   {
     "type": "shop",
+    "npc": "ADVENTURER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -763,6 +766,7 @@
   },
   {
     "type": "shop",
+    "npc": "ADVENTURER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -777,6 +781,7 @@
   },
   {
     "type": "shop",
+    "npc": "ADVENTURER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -791,6 +796,7 @@
   },
   {
     "type": "shop",
+    "npc": "ADVENTURER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -805,6 +811,7 @@
   },
   {
     "type": "shop",
+    "npc": "ADVENTURER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -819,6 +826,7 @@
   },
   {
     "type": "shop",
+    "npc": "ADVENTURER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -833,6 +841,7 @@
   },
   {
     "type": "shop",
+    "npc": "ADVENTURER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -847,6 +856,7 @@
   },
   {
     "type": "shop",
+    "npc": "ADVENTURER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -861,6 +871,7 @@
   },
   {
     "type": "shop",
+    "npc": "ADVENTURER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -1063,6 +1074,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGATHA_NPC",
     "inputs": [
       {
         "id": "AGATHA_COUPON",
@@ -1078,6 +1090,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGATHA_NPC",
     "inputs": [
       {
         "id": "AGATHA_COUPON",
@@ -1091,6 +1104,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGATHA_NPC",
     "inputs": [
       {
         "id": "AGATHA_COUPON",
@@ -1104,6 +1118,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGATHA_NPC",
     "inputs": [
       {
         "id": "AGATHA_COUPON",
@@ -1118,6 +1133,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGATHA_NPC",
     "inputs": [
       {
         "id": "AGATHA_COUPON",
@@ -1132,6 +1148,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGATHA_NPC",
     "inputs": [
       {
         "id": "AGATHA_COUPON",
@@ -1145,6 +1162,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGATHA_NPC",
     "inputs": [
       {
         "id": "AGATHA_COUPON",
@@ -1158,6 +1176,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGATHA_NPC",
     "inputs": [
       {
         "id": "AGATHA_COUPON",
@@ -1171,6 +1190,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGATHA_NPC",
     "inputs": [
       {
         "id": "AGATHA_COUPON",
@@ -1184,6 +1204,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGATHA_NPC",
     "inputs": [
       {
         "id": "AGATHA_COUPON",
@@ -1199,6 +1220,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGATHA_NPC",
     "inputs": [
       {
         "id": "AGATHA_COUPON",
@@ -1212,6 +1234,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGATHA_NPC",
     "inputs": [
       {
         "id": "AGATHA_COUPON",
@@ -1229,6 +1252,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGATHA_NPC",
     "inputs": [
       {
         "id": "AGATHA_COUPON",
@@ -1246,6 +1270,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGATHA_NPC",
     "inputs": [
       {
         "id": "STARLYN_PRIZE",
@@ -1259,6 +1284,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGNES_NPC",
     "inputs": [
       {
         "id": "FESTERING_FLY",
@@ -1272,6 +1298,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGNES_NPC",
     "inputs": [
       {
         "id": "WITCH_TALISMAN",
@@ -1293,6 +1320,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGNES_NPC",
     "inputs": [
       {
         "id": "WITCH_RING",
@@ -1318,6 +1346,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGNES_NPC",
     "inputs": [
       {
         "id": "SPIDER_EGG",
@@ -1335,6 +1364,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGNES_NPC",
     "inputs": [
       {
         "id": "WATERBORNE_LICE",
@@ -1356,6 +1386,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGNES_NPC",
     "inputs": [
       {
         "id": "SMOLDERING_EMBERS",
@@ -1381,6 +1412,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGNES_NPC",
     "inputs": [
       {
         "id": "SHIELD_DUST",
@@ -1410,6 +1442,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGNES_NPC",
     "inputs": [
       {
         "id": "FESTERING_FLY",
@@ -1427,6 +1460,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGNES_NPC",
     "inputs": [
       {
         "id": "FROG_LEGS",
@@ -1440,6 +1474,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGNES_NPC",
     "inputs": [
       {
         "id": "WATERBORNE_LICE",
@@ -1453,6 +1488,7 @@
   },
   {
     "type": "shop",
+    "npc": "AGNES_NPC",
     "inputs": [
       {
         "id": "FESTERING_FLY",
@@ -1468,6 +1504,7 @@
   },
   {
     "type": "shop",
+    "npc": "ALBERT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -1486,6 +1523,7 @@
   },
   {
     "type": "shop",
+    "npc": "ALBERT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -1512,6 +1550,7 @@
   },
   {
     "type": "shop",
+    "npc": "ALCHEMIST_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -1526,6 +1565,7 @@
   },
   {
     "type": "shop",
+    "npc": "ALCHEMIST_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -1540,6 +1580,7 @@
   },
   {
     "type": "shop",
+    "npc": "ALCHEMIST_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -1554,6 +1595,7 @@
   },
   {
     "type": "shop",
+    "npc": "ALCHEMIST_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -1568,6 +1610,7 @@
   },
   {
     "type": "shop",
+    "npc": "ALCHEMIST_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -1582,6 +1625,7 @@
   },
   {
     "type": "shop",
+    "npc": "ALCHEMIST_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -1596,6 +1640,7 @@
   },
   {
     "type": "shop",
+    "npc": "ALCHEMIST_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -1610,6 +1655,7 @@
   },
   {
     "type": "shop",
+    "npc": "ALCHEMIST_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -1624,6 +1670,7 @@
   },
   {
     "type": "shop",
+    "npc": "ALCHEMIST_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -1638,6 +1685,7 @@
   },
   {
     "type": "shop",
+    "npc": "ALCHEMIST_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -1652,6 +1700,7 @@
   },
   {
     "type": "shop",
+    "npc": "ALCHEMIST_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -1666,6 +1715,7 @@
   },
   {
     "type": "shop",
+    "npc": "ALCHEMIST_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -1680,6 +1730,7 @@
   },
   {
     "type": "shop",
+    "npc": "ALCHEMIST_RIFT_NPC",
     "inputs": [
       {
         "id": "RIFT_BUCKET",
@@ -1705,6 +1756,7 @@
   },
   {
     "type": "shop",
+    "npc": "ALDA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -1899,6 +1951,7 @@
   },
   {
     "type": "shop",
+    "npc": "AMAURY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -1913,6 +1966,7 @@
   },
   {
     "type": "shop",
+    "npc": "AMAURY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -1927,6 +1981,7 @@
   },
   {
     "type": "shop",
+    "npc": "AMAURY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -1941,6 +1996,7 @@
   },
   {
     "type": "shop",
+    "npc": "AMAURY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -1955,6 +2011,7 @@
   },
   {
     "type": "shop",
+    "npc": "AMAURY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -1969,6 +2026,7 @@
   },
   {
     "type": "shop",
+    "npc": "AMAURY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2080,6 +2138,7 @@
   },
   {
     "type": "shop",
+    "npc": "AMELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2094,6 +2153,7 @@
   },
   {
     "type": "shop",
+    "npc": "AMELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2108,6 +2168,7 @@
   },
   {
     "type": "shop",
+    "npc": "AMELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2122,6 +2183,7 @@
   },
   {
     "type": "shop",
+    "npc": "AMELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2136,6 +2198,7 @@
   },
   {
     "type": "shop",
+    "npc": "AMELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2150,6 +2213,7 @@
   },
   {
     "type": "shop",
+    "npc": "AMELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2164,6 +2228,7 @@
   },
   {
     "type": "shop",
+    "npc": "AMELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2178,6 +2243,7 @@
   },
   {
     "type": "shop",
+    "npc": "AMELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2192,6 +2258,7 @@
   },
   {
     "type": "shop",
+    "npc": "AMELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2206,6 +2273,7 @@
   },
   {
     "type": "shop",
+    "npc": "AMELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2404,6 +2472,7 @@
   },
   {
     "type": "shop",
+    "npc": "ANITA_NPC",
     "inputs": [
       {
         "id": "JACOBS_TICKET",
@@ -2417,6 +2486,7 @@
   },
   {
     "type": "shop",
+    "npc": "ANITA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2435,6 +2505,7 @@
   },
   {
     "type": "shop",
+    "npc": "ANITA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2453,6 +2524,7 @@
   },
   {
     "type": "shop",
+    "npc": "ANITA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2471,6 +2543,7 @@
   },
   {
     "type": "shop",
+    "npc": "ANITA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2489,6 +2562,7 @@
   },
   {
     "type": "shop",
+    "npc": "ANITA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2507,6 +2581,7 @@
   },
   {
     "type": "shop",
+    "npc": "ANITA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2525,6 +2600,7 @@
   },
   {
     "type": "shop",
+    "npc": "ANITA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2545,6 +2621,7 @@
   },
   {
     "type": "shop",
+    "npc": "ANITA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2563,6 +2640,7 @@
   },
   {
     "type": "shop",
+    "npc": "ANITA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2577,6 +2655,7 @@
   },
   {
     "type": "shop",
+    "npc": "ANITA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2591,6 +2670,7 @@
   },
   {
     "type": "shop",
+    "npc": "ANITA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2613,6 +2693,7 @@
   },
   {
     "type": "shop",
+    "npc": "ANITA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2635,6 +2716,7 @@
   },
   {
     "type": "shop",
+    "npc": "ANITA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2650,6 +2732,7 @@
   },
   {
     "type": "shop",
+    "npc": "ANITA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2665,6 +2748,7 @@
   },
   {
     "type": "shop",
+    "npc": "ANITA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2680,6 +2764,7 @@
   },
   {
     "type": "shop",
+    "npc": "ANITA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2695,6 +2780,7 @@
   },
   {
     "type": "shop",
+    "npc": "ANITA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2709,6 +2795,7 @@
   },
   {
     "type": "shop",
+    "npc": "ANITA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2723,6 +2810,7 @@
   },
   {
     "type": "shop",
+    "npc": "ANITA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2886,6 +2974,7 @@
   },
   {
     "type": "shop",
+    "npc": "AN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2900,6 +2989,7 @@
   },
   {
     "type": "shop",
+    "npc": "AN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2914,6 +3004,7 @@
   },
   {
     "type": "shop",
+    "npc": "AN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2928,6 +3019,7 @@
   },
   {
     "type": "shop",
+    "npc": "AN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2942,6 +3034,7 @@
   },
   {
     "type": "shop",
+    "npc": "AN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -2956,6 +3049,7 @@
   },
   {
     "type": "shop",
+    "npc": "AN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -3042,6 +3136,7 @@
   },
   {
     "type": "shop",
+    "npc": "ARGOFAY_BUGHUNTER_RIFT_NPC",
     "inputs": [
       {
         "id": "BOTTLED_ODONATA",
@@ -3055,6 +3150,7 @@
   },
   {
     "type": "shop",
+    "npc": "ARGOFAY_BUGHUNTER_RIFT_NPC",
     "inputs": [
       {
         "id": "LARVA_SILK",
@@ -3068,6 +3164,7 @@
   },
   {
     "type": "shop",
+    "npc": "ARGOFAY_BUGSHOPPER_RIFT_NPC",
     "inputs": [
       {
         "id": "SHAME_CRUX",
@@ -3081,6 +3178,7 @@
   },
   {
     "type": "shop",
+    "npc": "ARGOFAY_BUGSHOPPER_RIFT_NPC",
     "inputs": [
       {
         "id": "SHAME_CRUX",
@@ -3099,6 +3197,7 @@
   },
   {
     "type": "shop",
+    "npc": "ARGOFAY_BUGSHOPPER_RIFT_NPC",
     "inputs": [
       {
         "id": "BOTTLED_ODONATA",
@@ -3117,6 +3216,7 @@
   },
   {
     "type": "shop",
+    "npc": "ARGOFAY_SERIALBATHER_RIFT_NPC",
     "inputs": [
       {
         "id": "SHAME_CRUX",
@@ -3130,6 +3230,7 @@
   },
   {
     "type": "shop",
+    "npc": "ARGOFAY_THREEBROTHER_1_RIFT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -3148,6 +3249,7 @@
   },
   {
     "type": "shop",
+    "npc": "ARGOFAY_THREEBROTHER_2_RIFT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -3166,6 +3268,7 @@
   },
   {
     "type": "shop",
+    "npc": "ARGOFAY_THREEBROTHER_3_RIFT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -3184,6 +3287,7 @@
   },
   {
     "type": "shop",
+    "npc": "ARGOFAY_TRAFFICKER_1_RIFT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -3198,6 +3302,7 @@
   },
   {
     "type": "shop",
+    "npc": "ARGOFAY_TRAFFICKER_2_RIFT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -3212,6 +3317,7 @@
   },
   {
     "type": "shop",
+    "npc": "ARGOFAY_TRAFFICKER_3_RIFT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -3226,6 +3332,7 @@
   },
   {
     "type": "shop",
+    "npc": "ARGOFAY_TRAFFICKER_4_RIFT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -4133,6 +4240,7 @@
   },
   {
     "type": "shop",
+    "npc": "BAKER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -4618,6 +4726,7 @@
   },
   {
     "type": "shop",
+    "npc": "BARBARIAN_EMISSARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -4640,6 +4749,7 @@
   },
   {
     "type": "shop",
+    "npc": "BARBARIAN_EMISSARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -4654,6 +4764,7 @@
   },
   {
     "type": "shop",
+    "npc": "BARBARIAN_EMISSARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -4676,6 +4787,7 @@
   },
   {
     "type": "shop",
+    "npc": "BARBARIAN_EMISSARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -4698,6 +4810,7 @@
   },
   {
     "type": "shop",
+    "npc": "BARBARIAN_EMISSARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -4720,6 +4833,7 @@
   },
   {
     "type": "shop",
+    "npc": "BARBARIAN_EMISSARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -4774,6 +4888,7 @@
   },
   {
     "type": "shop",
+    "npc": "BARTENDER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -4788,6 +4903,7 @@
   },
   {
     "type": "shop",
+    "npc": "BARTENDER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -4802,6 +4918,7 @@
   },
   {
     "type": "shop",
+    "npc": "BARTENDER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -4816,6 +4933,7 @@
   },
   {
     "type": "shop",
+    "npc": "BARTENDER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -4830,6 +4948,7 @@
   },
   {
     "type": "shop",
+    "npc": "BARTENDER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -4844,6 +4963,7 @@
   },
   {
     "type": "shop",
+    "npc": "BARTENDER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -4858,6 +4978,7 @@
   },
   {
     "type": "shop",
+    "npc": "BARTENDER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -4876,6 +4997,7 @@
   },
   {
     "type": "shop",
+    "npc": "BARTENDER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -4894,6 +5016,7 @@
   },
   {
     "type": "shop",
+    "npc": "BARTENDER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -4908,6 +5031,7 @@
   },
   {
     "type": "shop",
+    "npc": "BARTENDER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -4922,6 +5046,7 @@
   },
   {
     "type": "shop",
+    "npc": "BARTENDER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -4936,6 +5061,7 @@
   },
   {
     "type": "shop",
+    "npc": "BARTENDER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -4950,6 +5076,7 @@
   },
   {
     "type": "shop",
+    "npc": "BARTENDER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -5774,6 +5901,7 @@
   },
   {
     "type": "shop",
+    "npc": "BEA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -5798,6 +5926,7 @@
   },
   {
     "type": "shop",
+    "npc": "BEA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -5822,6 +5951,7 @@
   },
   {
     "type": "shop",
+    "npc": "BEA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -5846,6 +5976,7 @@
   },
   {
     "type": "shop",
+    "npc": "BEA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -6251,6 +6382,7 @@
   },
   {
     "type": "shop",
+    "npc": "BINGO_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -6265,6 +6397,7 @@
   },
   {
     "type": "shop",
+    "npc": "BINGO_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -6279,6 +6412,7 @@
   },
   {
     "type": "shop",
+    "npc": "BINGO_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -6293,6 +6427,7 @@
   },
   {
     "type": "shop",
+    "npc": "BINGO_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -6307,6 +6442,7 @@
   },
   {
     "type": "shop",
+    "npc": "BINGO_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -6321,6 +6457,7 @@
   },
   {
     "type": "shop",
+    "npc": "BINGO_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -6335,6 +6472,7 @@
   },
   {
     "type": "shop",
+    "npc": "BINGO_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -6349,6 +6487,7 @@
   },
   {
     "type": "shop",
+    "npc": "BINGO_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -6363,6 +6502,7 @@
   },
   {
     "type": "shop",
+    "npc": "BINGO_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -6381,6 +6521,7 @@
   },
   {
     "type": "shop",
+    "npc": "BINGO_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -6399,6 +6540,7 @@
   },
   {
     "type": "shop",
+    "npc": "BINGO_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -6417,6 +6559,7 @@
   },
   {
     "type": "shop",
+    "npc": "BINGO_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -6431,6 +6574,7 @@
   },
   {
     "type": "shop",
+    "npc": "BINGO_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -8588,6 +8732,7 @@
   },
   {
     "type": "shop",
+    "npc": "BRYNMOR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -8602,6 +8747,7 @@
   },
   {
     "type": "shop",
+    "npc": "BRYNMOR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -8616,6 +8762,7 @@
   },
   {
     "type": "shop",
+    "npc": "BRYNMOR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -8658,6 +8805,7 @@
   },
   {
     "type": "shop",
+    "npc": "BUBU_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -8672,6 +8820,7 @@
   },
   {
     "type": "shop",
+    "npc": "BUBU_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_MITHRIL",
@@ -8689,6 +8838,7 @@
   },
   {
     "type": "shop",
+    "npc": "BUBU_NPC",
     "inputs": [
       {
         "id": "RUSTY_TITANIUM_PICKAXE",
@@ -8710,6 +8860,7 @@
   },
   {
     "type": "shop",
+    "npc": "BUBU_NPC",
     "inputs": [
       {
         "id": "TITANIUM_PICKAXE",
@@ -8727,6 +8878,7 @@
   },
   {
     "type": "shop",
+    "npc": "BUBU_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -8741,6 +8893,7 @@
   },
   {
     "type": "shop",
+    "npc": "BUBU_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -8755,6 +8908,7 @@
   },
   {
     "type": "shop",
+    "npc": "BUBU_NPC",
     "inputs": [
       {
         "id": "MITHRIL_PICKAXE",
@@ -8772,6 +8926,7 @@
   },
   {
     "type": "shop",
+    "npc": "BUBU_NPC",
     "inputs": [
       {
         "id": "BANDAGED_MITHRIL_PICKAXE",
@@ -8907,6 +9062,7 @@
   },
   {
     "type": "shop",
+    "npc": "BULVAR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -8929,6 +9085,7 @@
   },
   {
     "type": "shop",
+    "npc": "BULVAR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -8951,6 +9108,7 @@
   },
   {
     "type": "shop",
+    "npc": "BULVAR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -8973,6 +9131,7 @@
   },
   {
     "type": "shop",
+    "npc": "BULVAR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -8995,6 +9154,7 @@
   },
   {
     "type": "shop",
+    "npc": "BULVAR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -9017,6 +9177,7 @@
   },
   {
     "type": "shop",
+    "npc": "BULVAR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -9039,6 +9200,7 @@
   },
   {
     "type": "shop",
+    "npc": "BULVAR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -9061,6 +9223,7 @@
   },
   {
     "type": "shop",
+    "npc": "BULVAR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -9083,6 +9246,7 @@
   },
   {
     "type": "shop",
+    "npc": "BULVAR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -9105,6 +9269,7 @@
   },
   {
     "type": "shop",
+    "npc": "BULVAR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -9127,6 +9292,7 @@
   },
   {
     "type": "shop",
+    "npc": "BULVAR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -9953,6 +10119,7 @@
   },
   {
     "type": "shop",
+    "npc": "CARPENTER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -9967,6 +10134,7 @@
   },
   {
     "type": "shop",
+    "npc": "CARPENTER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -9981,6 +10149,7 @@
   },
   {
     "type": "shop",
+    "npc": "CARPENTER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -9995,6 +10164,7 @@
   },
   {
     "type": "shop",
+    "npc": "CARPENTER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -10009,6 +10179,7 @@
   },
   {
     "type": "shop",
+    "npc": "CARPENTER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -10023,6 +10194,7 @@
   },
   {
     "type": "shop",
+    "npc": "CARPENTER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -10037,6 +10209,7 @@
   },
   {
     "type": "shop",
+    "npc": "CARPENTER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -10051,6 +10224,7 @@
   },
   {
     "type": "shop",
+    "npc": "CARPENTER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -10065,6 +10239,7 @@
   },
   {
     "type": "shop",
+    "npc": "CARPENTER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -10079,6 +10254,7 @@
   },
   {
     "type": "shop",
+    "npc": "CARPENTER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -12209,6 +12385,7 @@
   },
   {
     "type": "shop",
+    "npc": "CHIPPER_MCPICKAXE_RIFT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -12251,6 +12428,7 @@
   },
   {
     "type": "shop",
+    "npc": "CHUNK_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -15535,6 +15713,7 @@
   },
   {
     "type": "shop",
+    "npc": "CRYPTOSIS_RIFT_NPC",
     "inputs": [
       {
         "id": "SCRIBE_CRUX",
@@ -16429,6 +16608,7 @@
   },
   {
     "type": "shop",
+    "npc": "DAVID_HUNTERBOROUGH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -16755,6 +16935,7 @@
   },
   {
     "type": "shop",
+    "npc": "DESPERATE_ENGINEER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18214,6 +18395,7 @@
   },
   {
     "type": "shop",
+    "npc": "DOUG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18228,6 +18410,7 @@
   },
   {
     "type": "shop",
+    "npc": "DOUG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18242,6 +18425,7 @@
   },
   {
     "type": "shop",
+    "npc": "DOUG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18256,6 +18440,7 @@
   },
   {
     "type": "shop",
+    "npc": "DOUG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18270,6 +18455,7 @@
   },
   {
     "type": "shop",
+    "npc": "DOUG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18284,6 +18470,7 @@
   },
   {
     "type": "shop",
+    "npc": "DOUG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18298,6 +18485,7 @@
   },
   {
     "type": "shop",
+    "npc": "DOUG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18480,6 +18668,7 @@
   },
   {
     "type": "shop",
+    "npc": "DRAKUU_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18619,6 +18808,7 @@
   },
   {
     "type": "shop",
+    "npc": "DUNCAN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18743,6 +18933,7 @@
   },
   {
     "type": "shop",
+    "npc": "EINARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18757,6 +18948,7 @@
   },
   {
     "type": "shop",
+    "npc": "EINARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18775,6 +18967,7 @@
   },
   {
     "type": "shop",
+    "npc": "EINARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18793,6 +18986,7 @@
   },
   {
     "type": "shop",
+    "npc": "EINARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18811,6 +19005,7 @@
   },
   {
     "type": "shop",
+    "npc": "EINARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18833,6 +19028,7 @@
   },
   {
     "type": "shop",
+    "npc": "EINARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18849,6 +19045,7 @@
   },
   {
     "type": "shop",
+    "npc": "EINARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18863,6 +19060,7 @@
   },
   {
     "type": "shop",
+    "npc": "EINARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18877,6 +19075,7 @@
   },
   {
     "type": "shop",
+    "npc": "EINARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18891,6 +19090,7 @@
   },
   {
     "type": "shop",
+    "npc": "EINARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18905,6 +19105,7 @@
   },
   {
     "type": "shop",
+    "npc": "EINARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18932,6 +19133,7 @@
   },
   {
     "type": "shop",
+    "npc": "EINARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18959,6 +19161,7 @@
   },
   {
     "type": "shop",
+    "npc": "EINARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18979,6 +19182,7 @@
   },
   {
     "type": "shop",
+    "npc": "EINARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -18997,6 +19201,7 @@
   },
   {
     "type": "shop",
+    "npc": "EINARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19015,6 +19220,7 @@
   },
   {
     "type": "shop",
+    "npc": "EINARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19031,6 +19237,7 @@
   },
   {
     "type": "shop",
+    "npc": "EINARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19047,6 +19254,7 @@
   },
   {
     "type": "shop",
+    "npc": "EINARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19158,6 +19366,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19172,6 +19381,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19186,6 +19396,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19200,6 +19411,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19214,6 +19426,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19228,6 +19441,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19242,6 +19456,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19256,6 +19471,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19270,6 +19486,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19284,6 +19501,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19298,6 +19516,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19312,6 +19531,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19326,6 +19546,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19340,6 +19561,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19354,6 +19576,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19368,6 +19591,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19382,6 +19606,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19396,6 +19621,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19410,6 +19636,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19424,6 +19651,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19438,6 +19666,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19452,6 +19681,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19466,6 +19696,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19480,6 +19711,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19494,6 +19726,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19508,6 +19741,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19522,6 +19756,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19536,6 +19771,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19550,6 +19786,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19564,6 +19801,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19578,6 +19816,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19592,6 +19831,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19606,6 +19846,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19620,6 +19861,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19634,6 +19876,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19648,6 +19891,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19662,6 +19906,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19678,6 +19923,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19694,6 +19940,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19710,6 +19957,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19726,6 +19974,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19742,6 +19991,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19758,6 +20008,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19772,6 +20023,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19786,6 +20038,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19800,6 +20053,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19814,6 +20068,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19828,6 +20083,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19842,6 +20098,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19856,6 +20113,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19870,6 +20128,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19884,6 +20143,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19898,6 +20158,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19912,6 +20173,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -19926,6 +20188,7 @@
   },
   {
     "type": "shop",
+    "npc": "ELIZABETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -25893,6 +26156,7 @@
   },
   {
     "type": "shop",
+    "npc": "EZEKIEL_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -25907,6 +26171,7 @@
   },
   {
     "type": "shop",
+    "npc": "EZEKIEL_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -25921,6 +26186,7 @@
   },
   {
     "type": "shop",
+    "npc": "EZEKIEL_NPC",
     "inputs": [
       {
         "id": "MUSHROOM_SPORE",
@@ -25939,6 +26205,7 @@
   },
   {
     "type": "shop",
+    "npc": "EZEKIEL_NPC",
     "inputs": [
       {
         "id": "MUSHROOM_SPORE",
@@ -25957,6 +26224,7 @@
   },
   {
     "type": "shop",
+    "npc": "FAIRYLOSOPHER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -25976,6 +26244,7 @@
   },
   {
     "type": "shop",
+    "npc": "FANN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -26352,6 +26621,7 @@
   },
   {
     "type": "shop",
+    "npc": "FARM_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -26366,6 +26636,7 @@
   },
   {
     "type": "shop",
+    "npc": "FARM_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -26380,6 +26651,7 @@
   },
   {
     "type": "shop",
+    "npc": "FARM_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -26394,6 +26666,7 @@
   },
   {
     "type": "shop",
+    "npc": "FARM_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -26408,6 +26681,7 @@
   },
   {
     "type": "shop",
+    "npc": "FARM_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -26422,6 +26696,7 @@
   },
   {
     "type": "shop",
+    "npc": "FARM_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -26436,6 +26711,7 @@
   },
   {
     "type": "shop",
+    "npc": "FARM_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -26450,6 +26726,7 @@
   },
   {
     "type": "shop",
+    "npc": "FARM_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -26464,6 +26741,7 @@
   },
   {
     "type": "shop",
+    "npc": "FARM_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -26478,6 +26756,7 @@
   },
   {
     "type": "shop",
+    "npc": "FARM_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -26492,6 +26771,7 @@
   },
   {
     "type": "shop",
+    "npc": "FARM_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -26506,6 +26786,7 @@
   },
   {
     "type": "shop",
+    "npc": "FARM_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -26520,6 +26801,7 @@
   },
   {
     "type": "shop",
+    "npc": "FARM_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -26630,6 +26912,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAR_MONGERER_NPC",
     "inputs": [
       {
         "id": "GREEN_CANDY",
@@ -26643,6 +26926,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAR_MONGERER_NPC",
     "inputs": [
       {
         "id": "GREEN_CANDY",
@@ -26658,6 +26942,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAR_MONGERER_NPC",
     "inputs": [
       {
         "id": "GREEN_CANDY",
@@ -26671,6 +26956,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAR_MONGERER_NPC",
     "inputs": [
       {
         "id": "GREEN_CANDY",
@@ -26686,6 +26972,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAR_MONGERER_NPC",
     "inputs": [
       {
         "id": "BAT_TALISMAN",
@@ -26703,6 +26990,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAR_MONGERER_NPC",
     "inputs": [
       {
         "id": "CANDY_TALISMAN",
@@ -26720,6 +27008,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAR_MONGERER_NPC",
     "inputs": [
       {
         "id": "GREEN_CANDY",
@@ -26733,6 +27022,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAR_MONGERER_NPC",
     "inputs": [
       {
         "id": "INTIMIDATION_TALISMAN",
@@ -26750,6 +27040,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAR_MONGERER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -26770,6 +27061,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAR_MONGERER_NPC",
     "inputs": [
       {
         "id": "PURPLE_CANDY",
@@ -26783,6 +27075,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAR_MONGERER_NPC",
     "inputs": [
       {
         "id": "CANDY_RING",
@@ -26800,6 +27093,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAR_MONGERER_NPC",
     "inputs": [
       {
         "id": "PURPLE_CANDY",
@@ -26813,6 +27107,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAR_MONGERER_NPC",
     "inputs": [
       {
         "id": "PURPLE_CANDY",
@@ -26826,6 +27121,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAR_MONGERER_NPC",
     "inputs": [
       {
         "id": "PURPLE_CANDY",
@@ -26839,6 +27135,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAR_MONGERER_NPC",
     "inputs": [
       {
         "id": "PURPLE_CANDY",
@@ -26852,6 +27149,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAR_MONGERER_NPC",
     "inputs": [
       {
         "id": "BAT_RING",
@@ -26869,6 +27167,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAR_MONGERER_NPC",
     "inputs": [
       {
         "id": "INTIMIDATION_RING",
@@ -26886,6 +27185,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAR_MONGERER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -26906,6 +27206,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAR_MONGERER_NPC",
     "inputs": [
       {
         "id": "PURPLE_CANDY",
@@ -26921,6 +27222,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAR_MONGERER_NPC",
     "inputs": [
       {
         "id": "CANDY_ARTIFACT",
@@ -26938,6 +27240,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAR_MONGERER_NPC",
     "inputs": [
       {
         "id": "GREEN_CANDY",
@@ -26951,6 +27254,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAST_BAKER_SCOTT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -26965,6 +27269,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAST_BAKER_SCOTT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -26983,6 +27288,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAST_BAKER_SCOTT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -27001,6 +27307,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAST_BAKER_SCOTT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -27019,6 +27326,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAST_BAKER_SCOTT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -27037,6 +27345,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAST_BAKER_SCOTT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -27051,6 +27360,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAST_BAKER_SCOTT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -27067,6 +27377,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAST_BAKER_SCOTT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -27081,6 +27392,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAST_BAKER_SCOTT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -27095,6 +27407,7 @@
   },
   {
     "type": "shop",
+    "npc": "FEAST_BAKER_SCOTT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -28213,6 +28526,7 @@
   },
   {
     "type": "shop",
+    "npc": "FINPLEX_RIFT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -28871,6 +29185,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISHING_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -28885,6 +29200,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISHING_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -28899,6 +29215,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISHING_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -28913,6 +29230,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISHING_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -28927,6 +29245,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISHING_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -28941,6 +29260,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISHING_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -28955,6 +29275,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISHING_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -28969,6 +29290,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISHING_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -28983,6 +29305,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISHING_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -28997,6 +29320,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISHING_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -29011,6 +29335,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISHING_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -29025,6 +29350,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISHING_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -29119,6 +29445,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISH_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -29133,6 +29460,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISH_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -29147,6 +29475,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISH_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -29161,6 +29490,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISH_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -29175,6 +29505,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISH_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -29189,6 +29520,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISH_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -29203,6 +29535,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISH_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -29217,6 +29550,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISH_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -29231,6 +29565,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISH_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -29245,6 +29580,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISH_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -29259,6 +29595,7 @@
   },
   {
     "type": "shop",
+    "npc": "FISH_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -31062,6 +31399,7 @@
   },
   {
     "type": "shop",
+    "npc": "FROZEN_ALEX_NPC",
     "inputs": [
       {
         "id": "ESSENCE_ICE",
@@ -31596,6 +31934,7 @@
   },
   {
     "type": "shop",
+    "npc": "GEMMA_NPC",
     "inputs": [
       {
         "id": "ESSENCE_DIAMOND",
@@ -33527,6 +33866,7 @@
   },
   {
     "type": "shop",
+    "npc": "GOLDEN_DRAGON_EGG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -33786,6 +34126,7 @@
   },
   {
     "type": "shop",
+    "npc": "GOLD_FORGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -33800,6 +34141,7 @@
   },
   {
     "type": "shop",
+    "npc": "GOLD_FORGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -33814,6 +34156,7 @@
   },
   {
     "type": "shop",
+    "npc": "GOLD_FORGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -33828,6 +34171,7 @@
   },
   {
     "type": "shop",
+    "npc": "GOLD_FORGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -33842,6 +34186,7 @@
   },
   {
     "type": "shop",
+    "npc": "GOLD_FORGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -33856,6 +34201,7 @@
   },
   {
     "type": "shop",
+    "npc": "GOLD_FORGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -33870,6 +34216,7 @@
   },
   {
     "type": "shop",
+    "npc": "GOLD_FORGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -33884,6 +34231,7 @@
   },
   {
     "type": "shop",
+    "npc": "GOLD_FORGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -33898,6 +34246,7 @@
   },
   {
     "type": "shop",
+    "npc": "GOLD_FORGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -35175,6 +35524,7 @@
   },
   {
     "type": "shop",
+    "npc": "GREGORY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -35189,6 +35539,7 @@
   },
   {
     "type": "shop",
+    "npc": "GREGORY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -35510,6 +35861,7 @@
   },
   {
     "type": "shop",
+    "npc": "GROG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -35524,6 +35876,7 @@
   },
   {
     "type": "shop",
+    "npc": "GROG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -35538,6 +35891,7 @@
   },
   {
     "type": "shop",
+    "npc": "GROG_NPC",
     "inputs": [
       {
         "id": "RED_THORNLEAF",
@@ -35556,6 +35910,7 @@
   },
   {
     "type": "shop",
+    "npc": "GROG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -35666,6 +36021,7 @@
   },
   {
     "type": "shop",
+    "npc": "GRUMBLEFOOT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -37399,6 +37755,7 @@
   },
   {
     "type": "shop",
+    "npc": "HILDA_NPC",
     "inputs": [
       {
         "id": "GHAST_GENERATOR_11",
@@ -37421,6 +37778,7 @@
   },
   {
     "type": "shop",
+    "npc": "HILDA_NPC",
     "inputs": [
       {
         "id": "QUARTZ_GENERATOR_11",
@@ -37443,6 +37801,7 @@
   },
   {
     "type": "shop",
+    "npc": "HILDA_NPC",
     "inputs": [
       {
         "id": "GLOWSTONE_GENERATOR_11",
@@ -37465,6 +37824,7 @@
   },
   {
     "type": "shop",
+    "npc": "HILDA_NPC",
     "inputs": [
       {
         "id": "BLAZE_GENERATOR_11",
@@ -37487,6 +37847,7 @@
   },
   {
     "type": "shop",
+    "npc": "HILDA_NPC",
     "inputs": [
       {
         "id": "MAGMA_CUBE_GENERATOR_11",
@@ -37509,6 +37870,7 @@
   },
   {
     "type": "shop",
+    "npc": "HILDA_NPC",
     "inputs": [
       {
         "id": "MYCELIUM_GENERATOR_11",
@@ -40795,6 +41157,7 @@
   },
   {
     "type": "shop",
+    "npc": "IRON_FORGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -40809,6 +41172,7 @@
   },
   {
     "type": "shop",
+    "npc": "IRON_FORGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -40823,6 +41187,7 @@
   },
   {
     "type": "shop",
+    "npc": "IRON_FORGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -40837,6 +41202,7 @@
   },
   {
     "type": "shop",
+    "npc": "IRON_FORGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -40851,6 +41217,7 @@
   },
   {
     "type": "shop",
+    "npc": "IRON_FORGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -40865,6 +41232,7 @@
   },
   {
     "type": "shop",
+    "npc": "IRON_FORGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -41522,6 +41890,7 @@
   },
   {
     "type": "shop",
+    "npc": "JADE_DRAGON_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -41550,6 +41919,7 @@
   },
   {
     "type": "shop",
+    "npc": "JAKE_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -41564,6 +41934,7 @@
   },
   {
     "type": "shop",
+    "npc": "JAKE_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -41578,6 +41949,7 @@
   },
   {
     "type": "shop",
+    "npc": "JAKE_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -41592,6 +41964,7 @@
   },
   {
     "type": "shop",
+    "npc": "JAKE_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -41606,6 +41979,7 @@
   },
   {
     "type": "shop",
+    "npc": "JAKE_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -41620,6 +41994,7 @@
   },
   {
     "type": "shop",
+    "npc": "JAKE_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -41634,6 +42009,7 @@
   },
   {
     "type": "shop",
+    "npc": "JAKE_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -41648,6 +42024,7 @@
   },
   {
     "type": "shop",
+    "npc": "JAKE_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -41718,6 +42095,7 @@
   },
   {
     "type": "shop",
+    "npc": "JAX_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -41732,6 +42110,7 @@
   },
   {
     "type": "shop",
+    "npc": "JAX_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -41746,6 +42125,7 @@
   },
   {
     "type": "shop",
+    "npc": "JAX_NPC",
     "inputs": [
       {
         "id": "IRON_INGOT",
@@ -41759,6 +42139,7 @@
   },
   {
     "type": "shop",
+    "npc": "JAX_NPC",
     "inputs": [
       {
         "id": "GOLD_INGOT",
@@ -41772,6 +42153,7 @@
   },
   {
     "type": "shop",
+    "npc": "JAX_NPC",
     "inputs": [
       {
         "id": "REDSTONE_BLOCK",
@@ -41785,6 +42167,7 @@
   },
   {
     "type": "shop",
+    "npc": "JAX_NPC",
     "inputs": [
       {
         "id": "EMERALD_BLOCK",
@@ -41798,6 +42181,7 @@
   },
   {
     "type": "shop",
+    "npc": "JAX_NPC",
     "inputs": [
       {
         "id": "SLIME_BLOCK",
@@ -41811,6 +42195,7 @@
   },
   {
     "type": "shop",
+    "npc": "JAX_NPC",
     "inputs": [
       {
         "id": "PACKED_ICE",
@@ -41824,6 +42209,7 @@
   },
   {
     "type": "shop",
+    "npc": "JAX_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_SAND",
@@ -41837,6 +42223,7 @@
   },
   {
     "type": "shop",
+    "npc": "JAX_NPC",
     "inputs": [
       {
         "id": "COAL_BLOCK",
@@ -41850,6 +42237,7 @@
   },
   {
     "type": "shop",
+    "npc": "JAX_NPC",
     "inputs": [
       {
         "id": "TARANTULA_WEB",
@@ -41863,6 +42251,7 @@
   },
   {
     "type": "shop",
+    "npc": "JAX_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_CACTUS_GREEN",
@@ -42116,6 +42505,7 @@
   },
   {
     "type": "shop",
+    "npc": "JOYFUL_VIKING_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -42130,6 +42520,7 @@
   },
   {
     "type": "shop",
+    "npc": "JOYFUL_VIKING_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -42144,6 +42535,7 @@
   },
   {
     "type": "shop",
+    "npc": "JOYFUL_VIKING_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -42158,6 +42550,7 @@
   },
   {
     "type": "shop",
+    "npc": "JOYFUL_VIKING_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -42762,6 +43155,7 @@
   },
   {
     "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -42776,6 +43170,7 @@
   },
   {
     "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
         "id": "RUSTY_COIN",
@@ -42789,6 +43184,7 @@
   },
   {
     "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
         "id": "FISHING_ROD",
@@ -42806,6 +43202,7 @@
   },
   {
     "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
         "id": "ANGLER_HELMET",
@@ -42823,6 +43220,7 @@
   },
   {
     "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
         "id": "ANGLER_CHESTPLATE",
@@ -42840,6 +43238,7 @@
   },
   {
     "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
         "id": "ANGLER_LEGGINGS",
@@ -42857,6 +43256,7 @@
   },
   {
     "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
         "id": "ANGLER_BOOTS",
@@ -42874,6 +43274,7 @@
   },
   {
     "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
         "id": "RUSTY_COIN",
@@ -42887,6 +43288,7 @@
   },
   {
     "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
         "id": "JUNK_TALISMAN",
@@ -42904,6 +43306,7 @@
   },
   {
     "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
         "id": "JUNK_RING",
@@ -42921,6 +43324,7 @@
   },
   {
     "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
         "id": "ANGLER_NECKLACE",
@@ -42938,6 +43342,7 @@
   },
   {
     "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
         "id": "ANGLER_CLOAK",
@@ -42955,6 +43360,7 @@
   },
   {
     "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
         "id": "ANGLER_BELT",
@@ -42972,6 +43378,7 @@
   },
   {
     "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
         "id": "ANGLER_BRACELET",
@@ -42989,6 +43396,7 @@
   },
   {
     "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
         "id": "RUSTY_COIN",
@@ -43002,6 +43410,7 @@
   },
   {
     "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
         "id": "BUSTED_BELT_BUCKLE",
@@ -43015,6 +43424,7 @@
   },
   {
     "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
         "id": "RUSTY_COIN",
@@ -43032,6 +43442,7 @@
   },
   {
     "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
         "id": "RUSTY_COIN",
@@ -43053,6 +43464,7 @@
   },
   {
     "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
         "id": "BUSTED_BELT_BUCKLE",
@@ -43066,6 +43478,7 @@
   },
   {
     "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
         "id": "BAYOU_WATER_ORB",
@@ -43091,6 +43504,7 @@
   },
   {
     "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
         "id": "RUSTY_COIN",
@@ -43106,6 +43520,7 @@
   },
   {
     "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
         "id": "RUSTY_COIN",
@@ -43121,6 +43536,7 @@
   },
   {
     "type": "shop",
+    "npc": "KAT_RIFT_NPC",
     "inputs": [
       {
         "id": "SHADOW_CRUX",
@@ -43149,6 +43565,7 @@
   },
   {
     "type": "shop",
+    "npc": "KAT_RIFT_NPC",
     "inputs": [
       {
         "id": "LEECH_BELT",
@@ -43167,6 +43584,7 @@
   },
   {
     "type": "shop",
+    "npc": "KAT_RIFT_NPC",
     "inputs": [
       {
         "id": "RIFTWART_ROOTS",
@@ -43197,6 +43615,7 @@
   },
   {
     "type": "shop",
+    "npc": "KAT_RIFT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -43211,6 +43630,7 @@
   },
   {
     "type": "shop",
+    "npc": "KAT_RIFT_NPC",
     "inputs": [
       {
         "id": "VOLT_CRUX",
@@ -43248,6 +43668,7 @@
   },
   {
     "type": "shop",
+    "npc": "KAY_RIFT_NPC",
     "inputs": [
       {
         "id": "LIL_PAD",
@@ -43262,6 +43683,7 @@
   },
   {
     "type": "shop",
+    "npc": "KIARA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -43277,6 +43699,7 @@
   },
   {
     "type": "shop",
+    "npc": "KIARA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -43292,6 +43715,7 @@
   },
   {
     "type": "shop",
+    "npc": "KIARA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -43307,6 +43731,7 @@
   },
   {
     "type": "shop",
+    "npc": "KIARA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -45250,6 +45675,7 @@
   },
   {
     "type": "shop",
+    "npc": "LIBRARIAN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -45264,6 +45690,7 @@
   },
   {
     "type": "shop",
+    "npc": "LIBRARIAN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -45278,6 +45705,7 @@
   },
   {
     "type": "shop",
+    "npc": "LIBRARIAN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -45294,6 +45722,7 @@
   },
   {
     "type": "shop",
+    "npc": "LIBRARIAN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -45310,6 +45739,7 @@
   },
   {
     "type": "shop",
+    "npc": "LIBRARIAN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -45326,6 +45756,7 @@
   },
   {
     "type": "shop",
+    "npc": "LIBRARIAN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -45342,6 +45773,7 @@
   },
   {
     "type": "shop",
+    "npc": "LIBRARIAN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -45358,6 +45790,7 @@
   },
   {
     "type": "shop",
+    "npc": "LIBRARIAN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -45374,6 +45807,7 @@
   },
   {
     "type": "shop",
+    "npc": "LIBRARIAN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -45390,6 +45824,7 @@
   },
   {
     "type": "shop",
+    "npc": "LIBRARIAN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -45941,6 +46376,7 @@
   },
   {
     "type": "shop",
+    "npc": "LIZ_NPC",
     "inputs": [
       {
         "id": "STOCK_OF_STONKS",
@@ -45954,6 +46390,7 @@
   },
   {
     "type": "shop",
+    "npc": "LIZ_NPC",
     "inputs": [
       {
         "id": "STOCK_OF_STONKS",
@@ -45967,6 +46404,7 @@
   },
   {
     "type": "shop",
+    "npc": "LIZ_NPC",
     "inputs": [
       {
         "id": "STOCK_OF_STONKS",
@@ -45980,6 +46418,7 @@
   },
   {
     "type": "shop",
+    "npc": "LIZ_NPC",
     "inputs": [
       {
         "id": "STOCK_OF_STONKS",
@@ -46089,6 +46528,7 @@
   },
   {
     "type": "shop",
+    "npc": "LONELY_PHILOSOPHER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46163,6 +46603,7 @@
   },
   {
     "type": "shop",
+    "npc": "LOTUS_EATER_NPC",
     "inputs": [
       {
         "id": "LOTUS_DIAMOND",
@@ -46292,6 +46733,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUCIUS_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46306,6 +46748,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUCIUS_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46324,6 +46767,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUCIUS_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46372,6 +46816,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUDLETH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46417,6 +46862,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUKAS_THE_AQUARIST_NPC",
     "inputs": [
       {
         "id": "FISHY_TREAT",
@@ -46430,6 +46876,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUKAS_THE_AQUARIST_NPC",
     "inputs": [
       {
         "id": "FISHY_TREAT",
@@ -46443,6 +46890,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUKAS_THE_AQUARIST_NPC",
     "inputs": [
       {
         "id": "SEAL_TALISMAN",
@@ -46460,6 +46908,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUKAS_THE_AQUARIST_NPC",
     "inputs": [
       {
         "id": "FISHY_TREAT",
@@ -46475,6 +46924,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUKAS_THE_AQUARIST_NPC",
     "inputs": [
       {
         "id": "FISHY_TREAT",
@@ -46488,6 +46938,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUKAS_THE_AQUARIST_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_COOKED_FISH",
@@ -46510,6 +46961,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUKAS_THE_AQUARIST_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_CLAY_BLOCK",
@@ -46532,6 +46984,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUKAS_THE_AQUARIST_NPC",
     "inputs": [
       {
         "id": "FISHY_TREAT",
@@ -46545,6 +46998,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUKAS_THE_AQUARIST_NPC",
     "inputs": [
       {
         "id": "FISHY_TREAT",
@@ -46560,6 +47014,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUKAS_THE_AQUARIST_NPC",
     "inputs": [
       {
         "id": "FISHY_TREAT",
@@ -46573,6 +47028,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUKAS_THE_AQUARIST_NPC",
     "inputs": [
       {
         "id": "FISHY_TREAT",
@@ -46586,6 +47042,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUKAS_THE_AQUARIST_NPC",
     "inputs": [
       {
         "id": "FISHY_TREAT",
@@ -46599,6 +47056,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUKAS_THE_AQUARIST_NPC",
     "inputs": [
       {
         "id": "FISHY_TREAT",
@@ -46612,6 +47070,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUMBER_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46626,6 +47085,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUMBER_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46640,6 +47100,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUMBER_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46654,6 +47115,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUMBER_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46668,6 +47130,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUMBER_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46682,6 +47145,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUMBER_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46696,6 +47160,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUMBER_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46710,6 +47175,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUMBER_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46724,6 +47190,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUMBER_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46738,6 +47205,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUMBER_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46752,6 +47220,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUMBER_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46766,6 +47235,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUMBER_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46780,6 +47250,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUMBER_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46794,6 +47265,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUMBER_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46808,6 +47280,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUMBER_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46822,6 +47295,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUMBER_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46836,6 +47310,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUMINA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46850,6 +47325,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUMINA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -46864,6 +47340,7 @@
   },
   {
     "type": "shop",
+    "npc": "LUMINA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47014,6 +47491,7 @@
   },
   {
     "type": "shop",
+    "npc": "LYS_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47028,6 +47506,7 @@
   },
   {
     "type": "shop",
+    "npc": "LYS_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47042,6 +47521,7 @@
   },
   {
     "type": "shop",
+    "npc": "LYS_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47056,6 +47536,7 @@
   },
   {
     "type": "shop",
+    "npc": "LYS_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47070,6 +47551,7 @@
   },
   {
     "type": "shop",
+    "npc": "LYS_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47084,6 +47566,7 @@
   },
   {
     "type": "shop",
+    "npc": "LYS_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47098,6 +47581,7 @@
   },
   {
     "type": "shop",
+    "npc": "LYS_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47112,6 +47596,7 @@
   },
   {
     "type": "shop",
+    "npc": "LYS_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47126,6 +47611,7 @@
   },
   {
     "type": "shop",
+    "npc": "LYS_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47140,6 +47626,7 @@
   },
   {
     "type": "shop",
+    "npc": "LYS_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47154,6 +47641,7 @@
   },
   {
     "type": "shop",
+    "npc": "LYS_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47168,6 +47656,7 @@
   },
   {
     "type": "shop",
+    "npc": "LYS_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47182,6 +47671,7 @@
   },
   {
     "type": "shop",
+    "npc": "LYS_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47196,6 +47686,7 @@
   },
   {
     "type": "shop",
+    "npc": "LYS_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47210,6 +47701,7 @@
   },
   {
     "type": "shop",
+    "npc": "LYS_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47224,6 +47716,7 @@
   },
   {
     "type": "shop",
+    "npc": "LYS_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47238,6 +47731,7 @@
   },
   {
     "type": "shop",
+    "npc": "LYS_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47252,6 +47746,7 @@
   },
   {
     "type": "shop",
+    "npc": "LYS_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47266,6 +47761,7 @@
   },
   {
     "type": "shop",
+    "npc": "MADAME_ELEANOR_Q_GOLDSWORTH_X_RIFT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47300,6 +47796,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAD_REDSTONE_ENGINEER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47314,6 +47811,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAD_REDSTONE_ENGINEER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47328,6 +47826,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAD_REDSTONE_ENGINEER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47342,6 +47841,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAD_REDSTONE_ENGINEER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47356,6 +47856,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAD_REDSTONE_ENGINEER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47370,6 +47871,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAD_REDSTONE_ENGINEER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47384,6 +47886,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAD_REDSTONE_ENGINEER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47398,6 +47901,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAD_REDSTONE_ENGINEER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47412,6 +47916,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAD_REDSTONE_ENGINEER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47426,6 +47931,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAD_REDSTONE_ENGINEER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47440,6 +47946,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAD_REDSTONE_ENGINEER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47454,6 +47961,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAD_REDSTONE_ENGINEER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47468,6 +47976,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAD_REDSTONE_ENGINEER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47482,6 +47991,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAGE_EMISSARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47496,6 +48006,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAGE_EMISSARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47510,6 +48021,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAGE_EMISSARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47524,6 +48036,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAGE_EMISSARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47542,6 +48055,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAGE_EMISSARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47560,6 +48074,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAGE_EMISSARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47582,6 +48097,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAGE_EMISSARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47604,6 +48120,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAGE_EMISSARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47626,6 +48143,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAGE_EMISSARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -47648,6 +48166,7 @@
   },
   {
     "type": "shop",
+    "npc": "MAGE_EMISSARY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -48507,6 +49026,7 @@
   },
   {
     "type": "shop",
+    "npc": "MALIK_NPC",
     "inputs": [
       {
         "id": "ESSENCE_WITHER",
@@ -48520,6 +49040,7 @@
   },
   {
     "type": "shop",
+    "npc": "MALIK_NPC",
     "inputs": [
       {
         "id": "ESSENCE_WITHER",
@@ -48533,6 +49054,7 @@
   },
   {
     "type": "shop",
+    "npc": "MALIK_NPC",
     "inputs": [
       {
         "id": "ESSENCE_UNDEAD",
@@ -48795,6 +49317,7 @@
   },
   {
     "type": "shop",
+    "npc": "MARTHOS_NPC",
     "inputs": [
       {
         "id": "GHAST_GENERATOR_11",
@@ -48817,6 +49340,7 @@
   },
   {
     "type": "shop",
+    "npc": "MARTHOS_NPC",
     "inputs": [
       {
         "id": "QUARTZ_GENERATOR_11",
@@ -48839,6 +49363,7 @@
   },
   {
     "type": "shop",
+    "npc": "MARTHOS_NPC",
     "inputs": [
       {
         "id": "GLOWSTONE_GENERATOR_11",
@@ -48861,6 +49386,7 @@
   },
   {
     "type": "shop",
+    "npc": "MARTHOS_NPC",
     "inputs": [
       {
         "id": "BLAZE_GENERATOR_11",
@@ -48883,6 +49409,7 @@
   },
   {
     "type": "shop",
+    "npc": "MARTHOS_NPC",
     "inputs": [
       {
         "id": "MAGMA_CUBE_GENERATOR_11",
@@ -48905,6 +49432,7 @@
   },
   {
     "type": "shop",
+    "npc": "MARTHOS_NPC",
     "inputs": [
       {
         "id": "RED_SAND_GENERATOR_11",
@@ -49071,6 +49599,7 @@
   },
   {
     "type": "shop",
+    "npc": "MASTER_TACTICIAN_FINK_RIFT_NPC",
     "inputs": [
       {
         "id": "LEECH_SWORD",
@@ -49089,6 +49618,7 @@
   },
   {
     "type": "shop",
+    "npc": "MASTER_TACTICIAN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -49103,6 +49633,7 @@
   },
   {
     "type": "shop",
+    "npc": "MASTER_TACTICIAN_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_OAK_LOG",
@@ -50719,6 +51250,7 @@
   },
   {
     "type": "shop",
+    "npc": "MINE_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -50733,6 +51265,7 @@
   },
   {
     "type": "shop",
+    "npc": "MINE_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -50747,6 +51280,7 @@
   },
   {
     "type": "shop",
+    "npc": "MINE_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -50761,6 +51295,7 @@
   },
   {
     "type": "shop",
+    "npc": "MINE_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -50775,6 +51310,7 @@
   },
   {
     "type": "shop",
+    "npc": "MINE_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -50789,6 +51325,7 @@
   },
   {
     "type": "shop",
+    "npc": "MINE_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -50803,6 +51340,7 @@
   },
   {
     "type": "shop",
+    "npc": "MINE_MERCHANT_NPC",
     "inputs": [
       {
         "id": "GOLD_INGOT",
@@ -50816,6 +51354,7 @@
   },
   {
     "type": "shop",
+    "npc": "MINE_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -50830,6 +51369,7 @@
   },
   {
     "type": "shop",
+    "npc": "MINE_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -50844,6 +51384,7 @@
   },
   {
     "type": "shop",
+    "npc": "MINE_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -50858,6 +51399,7 @@
   },
   {
     "type": "shop",
+    "npc": "MINE_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -50872,6 +51414,7 @@
   },
   {
     "type": "shop",
+    "npc": "MINE_MERCHANT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -51933,6 +52476,7 @@
   },
   {
     "type": "shop",
+    "npc": "MOBY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -51951,6 +52495,7 @@
   },
   {
     "type": "shop",
+    "npc": "MOBY_NPC",
     "inputs": [
       {
         "id": "FULL_CHUM_BUCKET",
@@ -51968,6 +52513,7 @@
   },
   {
     "type": "shop",
+    "npc": "MOBY_NPC",
     "inputs": [
       {
         "id": "FULL_CHUM_BUCKET",
@@ -51985,6 +52531,7 @@
   },
   {
     "type": "shop",
+    "npc": "MOBY_NPC",
     "inputs": [
       {
         "id": "FULL_CHUM_BUCKET",
@@ -52002,6 +52549,7 @@
   },
   {
     "type": "shop",
+    "npc": "MOBY_NPC",
     "inputs": [
       {
         "id": "FULL_CHUM_BUCKET",
@@ -52019,6 +52567,7 @@
   },
   {
     "type": "shop",
+    "npc": "MOBY_NPC",
     "inputs": [
       {
         "id": "FULL_CHUM_BUCKET",
@@ -52036,6 +52585,7 @@
   },
   {
     "type": "shop",
+    "npc": "MOBY_NPC",
     "inputs": [
       {
         "id": "FULL_CHUM_BUCKET",
@@ -52053,6 +52603,7 @@
   },
   {
     "type": "shop",
+    "npc": "MOBY_NPC",
     "inputs": [
       {
         "id": "FULL_CHUM_BUCKET",
@@ -52066,6 +52617,7 @@
   },
   {
     "type": "shop",
+    "npc": "MOBY_NPC",
     "inputs": [
       {
         "id": "FULL_CHUM_BUCKET",
@@ -54196,6 +54748,7 @@
   },
   {
     "type": "shop",
+    "npc": "NEMO_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -54210,6 +54763,7 @@
   },
   {
     "type": "shop",
+    "npc": "NEMO_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -54224,6 +54778,7 @@
   },
   {
     "type": "shop",
+    "npc": "NEMO_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -54238,6 +54793,7 @@
   },
   {
     "type": "shop",
+    "npc": "NEMO_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -54252,6 +54808,7 @@
   },
   {
     "type": "shop",
+    "npc": "NEMO_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -55938,6 +56495,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODAWA_NPC",
     "inputs": [
       {
         "id": "SLUDGE_JUICE",
@@ -55955,6 +56513,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODAWA_NPC",
     "inputs": [
       {
         "id": "SLUDGE_JUICE",
@@ -55972,6 +56531,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODAWA_NPC",
     "inputs": [
       {
         "id": "SLUDGE_JUICE",
@@ -55989,6 +56549,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODAWA_NPC",
     "inputs": [
       {
         "id": "SLUDGE_JUICE",
@@ -56002,6 +56563,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODAWA_NPC",
     "inputs": [
       {
         "id": "SLUDGE_JUICE",
@@ -56015,6 +56577,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56029,6 +56592,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56043,6 +56607,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56057,6 +56622,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56071,6 +56637,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56085,6 +56652,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56099,6 +56667,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56113,6 +56682,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56127,6 +56697,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56141,6 +56712,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56155,6 +56727,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56169,6 +56742,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56183,6 +56757,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56197,6 +56772,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56211,6 +56787,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56225,6 +56802,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56239,6 +56817,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56253,6 +56832,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56267,6 +56847,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56281,6 +56862,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56295,6 +56877,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56309,6 +56892,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56323,6 +56907,7 @@
   },
   {
     "type": "shop",
+    "npc": "ODGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56433,6 +57018,7 @@
   },
   {
     "type": "shop",
+    "npc": "OLD_ELECTION_BOX_RIFT_NPC",
     "inputs": [
       {
         "id": "BARRY_PEN",
@@ -56450,6 +57036,7 @@
   },
   {
     "type": "shop",
+    "npc": "OLD_SHAMAN_NYKO_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56464,6 +57051,7 @@
   },
   {
     "type": "shop",
+    "npc": "OLD_SHAMAN_NYKO_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56532,6 +57120,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56548,6 +57137,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56564,6 +57154,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56580,6 +57171,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56596,6 +57188,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56612,6 +57205,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56628,6 +57222,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56644,6 +57239,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56662,6 +57258,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56680,6 +57277,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56698,6 +57296,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56712,6 +57311,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56730,6 +57330,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56748,6 +57349,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56762,6 +57364,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56776,6 +57379,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56794,6 +57398,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56812,6 +57417,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56826,6 +57432,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56844,6 +57451,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56862,6 +57470,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56876,6 +57485,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56890,6 +57500,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56908,6 +57519,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56926,6 +57538,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "id": "ESSENCE_WITHER",
@@ -56939,6 +57552,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56953,6 +57567,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -56971,6 +57586,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "id": "ESSENCE_GOLD",
@@ -56984,6 +57600,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "id": "ESSENCE_GOLD",
@@ -56997,6 +57614,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "id": "ESSENCE_GOLD",
@@ -57010,6 +57628,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "id": "ESSENCE_GOLD",
@@ -57023,6 +57642,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "id": "ESSENCE_GOLD",
@@ -57036,6 +57656,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "id": "ESSENCE_GOLD",
@@ -57049,6 +57670,7 @@
   },
   {
     "type": "shop",
+    "npc": "OPHELIA_NPC",
     "inputs": [
       {
         "id": "ESSENCE_GOLD",
@@ -57090,6 +57712,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "LOG_2",
@@ -57110,6 +57733,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_ACACIA_LOG",
@@ -57130,6 +57754,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_ACACIA_LOG",
@@ -57150,6 +57775,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_ACACIA_LOG",
@@ -57170,6 +57796,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_ACACIA_LOG",
@@ -57190,6 +57817,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "RAW_FISH",
@@ -57210,6 +57838,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_RAW_FISH",
@@ -57230,6 +57859,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_RAW_FISH",
@@ -57250,6 +57880,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_COOKED_FISH",
@@ -57270,6 +57901,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_COOKED_FISH",
@@ -57290,6 +57922,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "RAW_CHICKEN",
@@ -57310,6 +57943,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_RAW_CHICKEN",
@@ -57330,6 +57964,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_RAW_CHICKEN",
@@ -57350,6 +57985,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_RAW_CHICKEN",
@@ -57370,6 +58006,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_RAW_CHICKEN",
@@ -57390,6 +58027,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "RAW_BEEF",
@@ -57410,6 +58048,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_RAW_BEEF",
@@ -57430,6 +58069,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_RAW_BEEF",
@@ -57450,6 +58090,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_RAW_BEEF",
@@ -57470,6 +58111,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_RAW_BEEF",
@@ -57490,6 +58132,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "LOG_2",
@@ -57510,6 +58153,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_JUNGLE_LOG",
@@ -57530,6 +58174,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_JUNGLE_LOG",
@@ -57550,6 +58195,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_JUNGLE_LOG",
@@ -57570,6 +58216,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_JUNGLE_LOG",
@@ -57590,6 +58237,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "LOG_2",
@@ -57610,6 +58258,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_DARK_OAK_LOG",
@@ -57630,6 +58279,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_DARK_OAK_LOG",
@@ -57650,6 +58300,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_DARK_OAK_LOG",
@@ -57670,6 +58321,7 @@
   },
   {
     "type": "shop",
+    "npc": "ORINGO_NPC",
     "inputs": [
       {
         "id": "ENCHANTED_DARK_OAK_LOG",
@@ -57889,6 +58541,7 @@
   },
   {
     "type": "shop",
+    "npc": "PAT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -57903,6 +58556,7 @@
   },
   {
     "type": "shop",
+    "npc": "PAT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -57917,6 +58571,7 @@
   },
   {
     "type": "shop",
+    "npc": "PEARL_DEALER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -57931,6 +58586,7 @@
   },
   {
     "type": "shop",
+    "npc": "PEARL_DEALER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -57945,6 +58601,7 @@
   },
   {
     "type": "shop",
+    "npc": "PEARL_DEALER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -57959,6 +58616,7 @@
   },
   {
     "type": "shop",
+    "npc": "PEARL_DEALER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -57973,6 +58631,7 @@
   },
   {
     "type": "shop",
+    "npc": "PEARL_DEALER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -57987,6 +58646,7 @@
   },
   {
     "type": "shop",
+    "npc": "PEARL_DEALER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -58003,6 +58663,7 @@
   },
   {
     "type": "shop",
+    "npc": "PEARL_DEALER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -59925,6 +60586,7 @@
   },
   {
     "type": "shop",
+    "npc": "PESTHUNTER_PHILLIP_NPC",
     "inputs": [
       {
         "id": "MUSHROOM_HELMET",
@@ -59943,6 +60605,7 @@
   },
   {
     "type": "shop",
+    "npc": "PESTHUNTER_PHILLIP_NPC",
     "inputs": [
       {
         "id": "MUSHROOM_CHESTPLATE",
@@ -59961,6 +60624,7 @@
   },
   {
     "type": "shop",
+    "npc": "PESTHUNTER_PHILLIP_NPC",
     "inputs": [
       {
         "id": "MUSHROOM_LEGGINGS",
@@ -59979,6 +60643,7 @@
   },
   {
     "type": "shop",
+    "npc": "PESTHUNTER_PHILLIP_NPC",
     "inputs": [
       {
         "id": "MUSHROOM_BOOTS",
@@ -59997,6 +60662,7 @@
   },
   {
     "type": "shop",
+    "npc": "PESTHUNTER_PHILLIP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -60011,6 +60677,7 @@
   },
   {
     "type": "shop",
+    "npc": "PESTHUNTER_PHILLIP_NPC",
     "inputs": [
       {
         "id": "PEST_TRAP",
@@ -60029,6 +60696,7 @@
   },
   {
     "type": "shop",
+    "npc": "PESTHUNTER_PHILLIP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -60051,6 +60719,7 @@
   },
   {
     "type": "shop",
+    "npc": "PESTHUNTER_PHILLIP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -60065,6 +60734,7 @@
   },
   {
     "type": "shop",
+    "npc": "PESTHUNTER_PHILLIP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -60079,6 +60749,7 @@
   },
   {
     "type": "shop",
+    "npc": "PESTHUNTER_PHILLIP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -60093,6 +60764,7 @@
   },
   {
     "type": "shop",
+    "npc": "PESTHUNTER_PHILLIP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -60107,6 +60779,7 @@
   },
   {
     "type": "shop",
+    "npc": "PESTHUNTER_PHILLIP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -60121,6 +60794,7 @@
   },
   {
     "type": "shop",
+    "npc": "PESTHUNTER_PHILLIP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -60135,6 +60809,7 @@
   },
   {
     "type": "shop",
+    "npc": "PESTHUNTER_PHILLIP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -60151,6 +60826,7 @@
   },
   {
     "type": "shop",
+    "npc": "PESTHUNTER_PHILLIP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -60165,6 +60841,7 @@
   },
   {
     "type": "shop",
+    "npc": "PESTHUNTER_PHILLIP_NPC",
     "inputs": [
       {
         "id": "PESTHUNTER_BADGE",
@@ -60183,6 +60860,7 @@
   },
   {
     "type": "shop",
+    "npc": "PESTHUNTER_PHILLIP_NPC",
     "inputs": [
       {
         "id": "PESTHUNTER_RING",
@@ -60201,6 +60879,7 @@
   },
   {
     "type": "shop",
+    "npc": "PESTHUNTER_PHILLIP_NPC",
     "inputs": [
       {
         "id": "PESTHUNTER_ARTIFACT",
@@ -61031,6 +61710,7 @@
   },
   {
     "type": "shop",
+    "npc": "PIG_SHOP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -61045,6 +61725,7 @@
   },
   {
     "type": "shop",
+    "npc": "PIG_SHOP_NPC",
     "inputs": [
       {
         "id": "SHINY_SHARD",
@@ -61058,6 +61739,7 @@
   },
   {
     "type": "shop",
+    "npc": "PIG_SHOP_NPC",
     "inputs": [
       {
         "id": "SHINY_SHARD",
@@ -61077,6 +61759,7 @@
   },
   {
     "type": "shop",
+    "npc": "PIG_SHOP_NPC",
     "inputs": [
       {
         "id": "SHINY_SHARD",
@@ -61094,6 +61777,7 @@
   },
   {
     "type": "shop",
+    "npc": "PIG_SHOP_NPC",
     "inputs": [
       {
         "id": "SHINY_SHARD",
@@ -61111,6 +61795,7 @@
   },
   {
     "type": "shop",
+    "npc": "PIG_SHOP_NPC",
     "inputs": [
       {
         "id": "SHINY_SHARD",
@@ -61128,6 +61813,7 @@
   },
   {
     "type": "shop",
+    "npc": "PIG_SHOP_NPC",
     "inputs": [
       {
         "id": "SHINY_SHARD",
@@ -61145,6 +61831,7 @@
   },
   {
     "type": "shop",
+    "npc": "PIG_SHOP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -61163,6 +61850,7 @@
   },
   {
     "type": "shop",
+    "npc": "PIG_SHOP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -61341,6 +62029,7 @@
   },
   {
     "type": "shop",
+    "npc": "PLUMBER_JOE_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -61355,6 +62044,7 @@
   },
   {
     "type": "shop",
+    "npc": "PLUMBER_JOE_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -61369,6 +62059,7 @@
   },
   {
     "type": "shop",
+    "npc": "PLUMBER_JOE_RIFT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -61383,6 +62074,7 @@
   },
   {
     "type": "shop",
+    "npc": "PLUMBER_JOE_RIFT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -66751,6 +67443,7 @@
   },
   {
     "type": "shop",
+    "npc": "RESEARCHER_BERYL_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -66765,6 +67458,7 @@
   },
   {
     "type": "shop",
+    "npc": "RESEARCHER_BERYL_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -66779,6 +67473,7 @@
   },
   {
     "type": "shop",
+    "npc": "RESEARCHER_RIBERY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -66793,6 +67488,7 @@
   },
   {
     "type": "shop",
+    "npc": "RESEARCHER_RIBERY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -66807,6 +67503,7 @@
   },
   {
     "type": "shop",
+    "npc": "RESEARCHER_RIBERY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -66821,6 +67518,7 @@
   },
   {
     "type": "shop",
+    "npc": "RESEARCHER_RIBERY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -66835,6 +67533,7 @@
   },
   {
     "type": "shop",
+    "npc": "RESEARCHER_RIBERY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -66849,6 +67548,7 @@
   },
   {
     "type": "shop",
+    "npc": "RESEARCHER_RIBERY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -66863,6 +67563,7 @@
   },
   {
     "type": "shop",
+    "npc": "RESEARCHER_RIBERY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -66877,6 +67578,7 @@
   },
   {
     "type": "shop",
+    "npc": "RESEARCHER_RIBERY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -66891,6 +67593,7 @@
   },
   {
     "type": "shop",
+    "npc": "RESEARCHER_RIBERY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68033,6 +68736,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROGER_RIFT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68103,6 +68807,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68117,6 +68822,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68131,6 +68837,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68145,6 +68852,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68159,6 +68867,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68173,6 +68882,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68187,6 +68897,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68201,6 +68912,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68215,6 +68927,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68229,6 +68942,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68243,6 +68957,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68257,6 +68972,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68271,6 +68987,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68285,6 +69002,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68299,6 +69017,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68313,6 +69032,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68327,6 +69047,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68341,6 +69062,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68355,6 +69077,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68369,6 +69092,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68383,6 +69107,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68397,6 +69122,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68411,6 +69137,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68425,6 +69152,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68439,6 +69167,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68453,6 +69182,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68467,6 +69197,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68481,6 +69212,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROSETTA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -68551,6 +69283,7 @@
   },
   {
     "type": "shop",
+    "npc": "ROY_RIFT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -69423,6 +70156,7 @@
   },
   {
     "type": "shop",
+    "npc": "SAWYER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -69595,6 +70329,7 @@
   },
   {
     "type": "shop",
+    "npc": "SCOOP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -70162,6 +70897,7 @@
   },
   {
     "type": "shop",
+    "npc": "SERAPHINE_RIFT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -70212,6 +70948,7 @@
   },
   {
     "type": "shop",
+    "npc": "SEYMOUR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -70226,6 +70963,7 @@
   },
   {
     "type": "shop",
+    "npc": "SEYMOUR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -70240,6 +70978,7 @@
   },
   {
     "type": "shop",
+    "npc": "SEYMOUR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -70254,6 +70993,7 @@
   },
   {
     "type": "shop",
+    "npc": "SEYMOUR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -70268,6 +71008,7 @@
   },
   {
     "type": "shop",
+    "npc": "SEYMOUR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -70282,6 +71023,7 @@
   },
   {
     "type": "shop",
+    "npc": "SEYMOUR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -70296,6 +71038,7 @@
   },
   {
     "type": "shop",
+    "npc": "SEYMOUR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -70310,6 +71053,7 @@
   },
   {
     "type": "shop",
+    "npc": "SEYMOUR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -70324,6 +71068,7 @@
   },
   {
     "type": "shop",
+    "npc": "SEYMOUR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -70338,6 +71083,7 @@
   },
   {
     "type": "shop",
+    "npc": "SEYMOUR_RIFT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -70356,6 +71102,7 @@
   },
   {
     "type": "shop",
+    "npc": "SHAGGY_NPC",
     "inputs": [
       {
         "id": "ARACHNE_FRAGMENT",
@@ -71115,6 +71862,7 @@
   },
   {
     "type": "shop",
+    "npc": "SHERRY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -71129,6 +71877,7 @@
   },
   {
     "type": "shop",
+    "npc": "SHERRY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -71143,6 +71892,7 @@
   },
   {
     "type": "shop",
+    "npc": "SHERRY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -71157,6 +71907,7 @@
   },
   {
     "type": "shop",
+    "npc": "SHERRY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -71171,6 +71922,7 @@
   },
   {
     "type": "shop",
+    "npc": "SHERRY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -71185,6 +71937,7 @@
   },
   {
     "type": "shop",
+    "npc": "SHERRY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -71199,6 +71952,7 @@
   },
   {
     "type": "shop",
+    "npc": "SHERRY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -71213,6 +71967,7 @@
   },
   {
     "type": "shop",
+    "npc": "SHIFTED_RIFT_NPC",
     "inputs": [
       {
         "id": "SHAME_CRUX",
@@ -71231,6 +71986,7 @@
   },
   {
     "type": "shop",
+    "npc": "SHIFTED_RIFT_NPC",
     "inputs": [
       {
         "id": "SHAME_CRUX",
@@ -71249,6 +72005,7 @@
   },
   {
     "type": "shop",
+    "npc": "SHIFTED_RIFT_NPC",
     "inputs": [
       {
         "id": "SHAME_CRUX",
@@ -71267,6 +72024,7 @@
   },
   {
     "type": "shop",
+    "npc": "SHIFTY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -71281,6 +72039,7 @@
   },
   {
     "type": "shop",
+    "npc": "SHIFTY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -71295,6 +72054,7 @@
   },
   {
     "type": "shop",
+    "npc": "SHIFTY_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72452,6 +73212,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72466,6 +73227,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72480,6 +73242,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72498,6 +73261,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72512,6 +73276,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72528,6 +73293,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72544,6 +73310,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72560,6 +73327,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72574,6 +73342,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72588,6 +73357,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72602,6 +73372,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72616,6 +73387,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72630,6 +73402,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72644,6 +73417,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72658,6 +73432,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "id": "LOTUS_BRACELET",
@@ -72676,6 +73451,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "id": "LOTUS_BELT",
@@ -72694,6 +73470,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "id": "LOTUS_NECKLACE",
@@ -72712,6 +73489,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "id": "LOTUS_CLOAK",
@@ -72730,6 +73508,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72748,6 +73527,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72766,6 +73546,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72780,6 +73561,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72794,6 +73576,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72812,6 +73595,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72830,6 +73614,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72844,6 +73629,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72858,6 +73644,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72872,6 +73659,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "id": "SUNFLOWER_GENERATOR_11",
@@ -72889,6 +73677,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72903,6 +73692,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "id": "HYDRO_CAN_1000",
@@ -72921,6 +73711,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "id": "HYDRO_CAN_TURBO_2000",
@@ -72939,6 +73730,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "id": "HYDRO_CAN_ULTRA_3000",
@@ -72957,6 +73749,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "id": "AQUAMASTER_X",
@@ -72979,6 +73772,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -72993,6 +73787,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73007,6 +73802,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73021,6 +73817,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73035,6 +73832,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73049,6 +73847,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73063,6 +73862,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73077,6 +73877,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73091,6 +73892,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73105,6 +73907,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73119,6 +73922,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73133,6 +73937,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73147,6 +73952,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73161,6 +73967,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73175,6 +73982,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73189,6 +73997,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73203,6 +74012,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73217,6 +74027,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73231,6 +74042,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73245,6 +74057,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73259,6 +74072,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73273,6 +74087,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73287,6 +74102,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73301,6 +74117,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73315,6 +74132,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73329,6 +74147,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73343,6 +74162,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73357,6 +74177,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73371,6 +74192,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73385,6 +74207,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73399,6 +74222,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73413,6 +74237,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73431,6 +74256,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73449,6 +74275,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73467,6 +74294,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73489,6 +74317,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73503,6 +74332,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -73517,6 +74347,7 @@
   },
   {
     "type": "shop",
+    "npc": "SKYMART_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -74390,6 +75221,7 @@
   },
   {
     "type": "shop",
+    "npc": "SMITHMONGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -74404,6 +75236,7 @@
   },
   {
     "type": "shop",
+    "npc": "SMITHMONGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -74418,6 +75251,7 @@
   },
   {
     "type": "shop",
+    "npc": "SMITHMONGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -74432,6 +75266,7 @@
   },
   {
     "type": "shop",
+    "npc": "SMITHMONGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -74446,6 +75281,7 @@
   },
   {
     "type": "shop",
+    "npc": "SMITHMONGER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -76566,6 +77402,7 @@
   },
   {
     "type": "shop",
+    "npc": "SPIDER_TAMER_NPC",
     "inputs": [
       {
         "id": "ESSENCE_SPIDER",
@@ -81533,6 +82370,7 @@
   },
   {
     "type": "shop",
+    "npc": "SUN_GECKO_ESSENCE_SHOP_NPC",
     "inputs": [
       {
         "id": "ESSENCE_SUN_GECKO",
@@ -81546,6 +82384,7 @@
   },
   {
     "type": "shop",
+    "npc": "SUN_GECKO_ESSENCE_SHOP_NPC",
     "inputs": [
       {
         "id": "ESSENCE_SUN_GECKO",
@@ -81559,6 +82398,7 @@
   },
   {
     "type": "shop",
+    "npc": "SUN_GECKO_ESSENCE_SHOP_NPC",
     "inputs": [
       {
         "id": "ESSENCE_SUN_GECKO",
@@ -81572,6 +82412,7 @@
   },
   {
     "type": "shop",
+    "npc": "SUN_GECKO_ESSENCE_SHOP_NPC",
     "inputs": [
       {
         "id": "ESSENCE_SUN_GECKO",
@@ -81585,6 +82426,7 @@
   },
   {
     "type": "shop",
+    "npc": "SUN_GECKO_ESSENCE_SHOP_NPC",
     "inputs": [
       {
         "id": "ESSENCE_SUN_GECKO",
@@ -82093,6 +82935,7 @@
   },
   {
     "type": "shop",
+    "npc": "TALBOT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -82107,6 +82950,7 @@
   },
   {
     "type": "shop",
+    "npc": "TALBOT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -82121,6 +82965,7 @@
   },
   {
     "type": "shop",
+    "npc": "TALBOT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -82135,6 +82980,7 @@
   },
   {
     "type": "shop",
+    "npc": "TALBOT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -82149,6 +82995,7 @@
   },
   {
     "type": "shop",
+    "npc": "TALBOT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -83027,6 +83874,7 @@
   },
   {
     "type": "shop",
+    "npc": "TERRY_NPC",
     "inputs": [
       {
         "id": "ICE_HUNK",
@@ -83040,6 +83888,7 @@
   },
   {
     "type": "shop",
+    "npc": "TERRY_NPC",
     "inputs": [
       {
         "id": "BLUE_ICE_HUNK",
@@ -83053,6 +83902,7 @@
   },
   {
     "type": "shop",
+    "npc": "TERRY_NPC",
     "inputs": [
       {
         "id": "ICE_HUNK",
@@ -83070,6 +83920,7 @@
   },
   {
     "type": "shop",
+    "npc": "TERRY_NPC",
     "inputs": [
       {
         "id": "ICE_HUNK",
@@ -84644,6 +85495,7 @@
   },
   {
     "type": "shop",
+    "npc": "TOMIOKA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -84660,6 +85512,7 @@
   },
   {
     "type": "shop",
+    "npc": "TOMIOKA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -84676,6 +85529,7 @@
   },
   {
     "type": "shop",
+    "npc": "TOMIOKA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -84692,6 +85546,7 @@
   },
   {
     "type": "shop",
+    "npc": "TONY_SHOP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -84714,6 +85569,7 @@
   },
   {
     "type": "shop",
+    "npc": "TONY_SHOP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -84736,6 +85592,7 @@
   },
   {
     "type": "shop",
+    "npc": "TONY_SHOP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -84758,6 +85615,7 @@
   },
   {
     "type": "shop",
+    "npc": "TONY_SHOP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -84784,6 +85642,7 @@
   },
   {
     "type": "shop",
+    "npc": "TONY_SHOP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -84806,6 +85665,7 @@
   },
   {
     "type": "shop",
+    "npc": "TONY_SHOP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -84828,6 +85688,7 @@
   },
   {
     "type": "shop",
+    "npc": "TONY_SHOP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -84850,6 +85711,7 @@
   },
   {
     "type": "shop",
+    "npc": "TONY_SHOP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -84872,6 +85734,7 @@
   },
   {
     "type": "shop",
+    "npc": "TONY_SHOP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -84894,6 +85757,7 @@
   },
   {
     "type": "shop",
+    "npc": "TONY_SHOP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -84916,6 +85780,7 @@
   },
   {
     "type": "shop",
+    "npc": "TONY_SHOP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -84938,6 +85803,7 @@
   },
   {
     "type": "shop",
+    "npc": "TONY_SHOP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -84960,6 +85826,7 @@
   },
   {
     "type": "shop",
+    "npc": "TONY_SHOP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -84982,6 +85849,7 @@
   },
   {
     "type": "shop",
+    "npc": "TONY_SHOP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -85004,6 +85872,7 @@
   },
   {
     "type": "shop",
+    "npc": "TONY_SHOP_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -85364,6 +86233,7 @@
   },
   {
     "type": "shop",
+    "npc": "TTEMME_RD_RIFT_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -85382,6 +86252,7 @@
   },
   {
     "type": "shop",
+    "npc": "TTEMME_RD_RIFT_NPC",
     "inputs": [
       {
         "id": "WYLD_CHESTPLATE",
@@ -85399,6 +86270,7 @@
   },
   {
     "type": "shop",
+    "npc": "TTEMME_RD_RIFT_NPC",
     "inputs": [
       {
         "id": "SHADOW_CRUX",
@@ -85597,6 +86469,7 @@
   },
   {
     "type": "shop",
+    "npc": "TYASHOI_ALCHEMIST_NPC",
     "inputs": [
       {
         "id": "WET_PUMPKIN",
@@ -85610,6 +86483,7 @@
   },
   {
     "type": "shop",
+    "npc": "TYASHOI_ALCHEMIST_NPC",
     "inputs": [
       {
         "id": "DECAYED_BAT",
@@ -85623,6 +86497,7 @@
   },
   {
     "type": "shop",
+    "npc": "TYASHOI_ALCHEMIST_NPC",
     "inputs": [
       {
         "id": "POISONED_CANDY",
@@ -85636,6 +86511,7 @@
   },
   {
     "type": "shop",
+    "npc": "TYASHOI_ALCHEMIST_NPC",
     "inputs": [
       {
         "id": "SWEET_FLESH",
@@ -85649,6 +86525,7 @@
   },
   {
     "type": "shop",
+    "npc": "TYASHOI_ALCHEMIST_NPC",
     "inputs": [
       {
         "id": "FROZEN_SPIDER",
@@ -85662,6 +86539,7 @@
   },
   {
     "type": "shop",
+    "npc": "TYASHOI_ALCHEMIST_NPC",
     "inputs": [
       {
         "id": "ROGUE_FLESH",
@@ -85675,6 +86553,7 @@
   },
   {
     "type": "shop",
+    "npc": "TYASHOI_ALCHEMIST_NPC",
     "inputs": [
       {
         "id": "PRECIOUS",
@@ -85688,6 +86567,7 @@
   },
   {
     "type": "shop",
+    "npc": "TYASHOI_ALCHEMIST_NPC",
     "inputs": [
       {
         "id": "OBSCURE_ENDING",
@@ -85701,6 +86581,7 @@
   },
   {
     "type": "shop",
+    "npc": "TYASHOI_ALCHEMIST_NPC",
     "inputs": [
       {
         "id": "BETRAYAL_HEAD",
@@ -85714,6 +86595,7 @@
   },
   {
     "type": "shop",
+    "npc": "TYASHOI_ALCHEMIST_NPC",
     "inputs": [
       {
         "id": "DEAD_SEED",
@@ -85727,6 +86609,7 @@
   },
   {
     "type": "shop",
+    "npc": "TYASHOI_ALCHEMIST_NPC",
     "inputs": [
       {
         "id": "FAIRY_WINGS",
@@ -85740,6 +86623,7 @@
   },
   {
     "type": "shop",
+    "npc": "TYASHOI_ALCHEMIST_NPC",
     "inputs": [
       {
         "id": "GREAT_SPOOK_TALISMAN",
@@ -85757,6 +86641,7 @@
   },
   {
     "type": "shop",
+    "npc": "TYASHOI_ALCHEMIST_NPC",
     "inputs": [
       {
         "id": "GREAT_SPOOK_RING",
@@ -85794,6 +86679,7 @@
   },
   {
     "type": "shop",
+    "npc": "TYASHOI_ALCHEMIST_NPC",
     "inputs": [
       {
         "id": "EPHEMERAL_GRATITUDE",
@@ -85809,6 +86695,7 @@
   },
   {
     "type": "shop",
+    "npc": "TYASHOI_ALCHEMIST_NPC",
     "inputs": [
       {
         "id": "SEWER_FISH",
@@ -85822,6 +86709,7 @@
   },
   {
     "type": "shop",
+    "npc": "TYASHOI_ALCHEMIST_NPC",
     "inputs": [
       {
         "id": "NIGHTMARE_NULLIFIER",
@@ -85835,6 +86723,7 @@
   },
   {
     "type": "shop",
+    "npc": "TYASHOI_ALCHEMIST_NPC",
     "inputs": [
       {
         "id": "THE_SOUP_PAINTING",
@@ -85848,6 +86737,7 @@
   },
   {
     "type": "shop",
+    "npc": "TYASHOI_ALCHEMIST_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -85862,6 +86752,7 @@
   },
   {
     "type": "shop",
+    "npc": "TYASHOI_ALCHEMIST_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -85876,6 +86767,7 @@
   },
   {
     "type": "shop",
+    "npc": "TYASHOI_ALCHEMIST_NPC",
     "inputs": [
       {
         "id": "SIRIUS_BOOK",
@@ -85889,6 +86781,7 @@
   },
   {
     "type": "shop",
+    "npc": "TYASHOI_ALCHEMIST_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -85926,6 +86819,7 @@
   },
   {
     "type": "shop",
+    "npc": "UDEL_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -85940,6 +86834,7 @@
   },
   {
     "type": "shop",
+    "npc": "UDEL_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -85954,6 +86849,7 @@
   },
   {
     "type": "shop",
+    "npc": "UDEL_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -85968,6 +86864,7 @@
   },
   {
     "type": "shop",
+    "npc": "UDEL_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -85982,6 +86879,7 @@
   },
   {
     "type": "shop",
+    "npc": "UDEL_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -85996,6 +86894,7 @@
   },
   {
     "type": "shop",
+    "npc": "UDEL_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -86010,6 +86909,7 @@
   },
   {
     "type": "shop",
+    "npc": "UDEL_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -86024,6 +86924,7 @@
   },
   {
     "type": "shop",
+    "npc": "UDEL_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -86038,6 +86939,7 @@
   },
   {
     "type": "shop",
+    "npc": "UDEL_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -86052,6 +86954,7 @@
   },
   {
     "type": "shop",
+    "npc": "UDEL_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -86066,6 +86969,7 @@
   },
   {
     "type": "shop",
+    "npc": "UDEL_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -86080,6 +86984,7 @@
   },
   {
     "type": "shop",
+    "npc": "UDEL_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -86094,6 +86999,7 @@
   },
   {
     "type": "shop",
+    "npc": "UDEL_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -86108,6 +87014,7 @@
   },
   {
     "type": "shop",
+    "npc": "UDEL_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -86122,6 +87029,7 @@
   },
   {
     "type": "shop",
+    "npc": "UDEL_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -86136,6 +87044,7 @@
   },
   {
     "type": "shop",
+    "npc": "UDEL_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -86150,6 +87059,7 @@
   },
   {
     "type": "shop",
+    "npc": "UDEL_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -86338,6 +87248,7 @@
   },
   {
     "type": "shop",
+    "npc": "ULYN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -86352,6 +87263,7 @@
   },
   {
     "type": "shop",
+    "npc": "ULYN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -86366,6 +87278,7 @@
   },
   {
     "type": "shop",
+    "npc": "ULYN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -86380,6 +87293,7 @@
   },
   {
     "type": "shop",
+    "npc": "ULYN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -86394,6 +87308,7 @@
   },
   {
     "type": "shop",
+    "npc": "ULYN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -86408,6 +87323,7 @@
   },
   {
     "type": "shop",
+    "npc": "ULYN_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -87332,6 +88248,7 @@
   },
   {
     "type": "shop",
+    "npc": "VARGUL_NPC",
     "inputs": [
       {
         "id": "DARK_CANDY",
@@ -87345,6 +88262,7 @@
   },
   {
     "type": "shop",
+    "npc": "VARGUL_NPC",
     "inputs": [
       {
         "id": "DARK_CANDY",
@@ -87358,6 +88276,7 @@
   },
   {
     "type": "shop",
+    "npc": "VARGUL_NPC",
     "inputs": [
       {
         "id": "DARK_CANDY",
@@ -87371,6 +88290,7 @@
   },
   {
     "type": "shop",
+    "npc": "VARGUL_NPC",
     "inputs": [
       {
         "id": "DARK_CANDY",
@@ -87384,6 +88304,7 @@
   },
   {
     "type": "shop",
+    "npc": "VARGUL_NPC",
     "inputs": [
       {
         "id": "DARK_CANDY",
@@ -87397,6 +88318,7 @@
   },
   {
     "type": "shop",
+    "npc": "VARGUL_NPC",
     "inputs": [
       {
         "id": "DARK_CANDY",
@@ -88155,6 +89077,7 @@
   },
   {
     "type": "shop",
+    "npc": "WALTER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -88557,6 +89480,7 @@
   },
   {
     "type": "shop",
+    "npc": "WEAPONSMITH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -88571,6 +89495,7 @@
   },
   {
     "type": "shop",
+    "npc": "WEAPONSMITH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -88585,6 +89510,7 @@
   },
   {
     "type": "shop",
+    "npc": "WEAPONSMITH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -88599,6 +89525,7 @@
   },
   {
     "type": "shop",
+    "npc": "WEAPONSMITH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -88613,6 +89540,7 @@
   },
   {
     "type": "shop",
+    "npc": "WEAPONSMITH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -88627,6 +89555,7 @@
   },
   {
     "type": "shop",
+    "npc": "WEAPONSMITH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -88641,6 +89570,7 @@
   },
   {
     "type": "shop",
+    "npc": "WEAPONSMITH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -88655,6 +89585,7 @@
   },
   {
     "type": "shop",
+    "npc": "WEAPONSMITH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -88669,6 +89600,7 @@
   },
   {
     "type": "shop",
+    "npc": "WEAPONSMITH_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -89398,6 +90330,7 @@
   },
   {
     "type": "shop",
+    "npc": "WINDMILL_OPERATOR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -89412,6 +90345,7 @@
   },
   {
     "type": "shop",
+    "npc": "WINDMILL_OPERATOR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -89426,6 +90360,7 @@
   },
   {
     "type": "shop",
+    "npc": "WINDMILL_OPERATOR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -89440,6 +90375,7 @@
   },
   {
     "type": "shop",
+    "npc": "WINDMILL_OPERATOR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -89454,6 +90390,7 @@
   },
   {
     "type": "shop",
+    "npc": "WINDMILL_OPERATOR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -89468,6 +90405,7 @@
   },
   {
     "type": "shop",
+    "npc": "WINDMILL_OPERATOR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -89482,6 +90420,7 @@
   },
   {
     "type": "shop",
+    "npc": "WINDMILL_OPERATOR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -89496,6 +90435,7 @@
   },
   {
     "type": "shop",
+    "npc": "WINDMILL_OPERATOR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -89510,6 +90450,7 @@
   },
   {
     "type": "shop",
+    "npc": "WINDMILL_OPERATOR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -89524,6 +90465,7 @@
   },
   {
     "type": "shop",
+    "npc": "WINDMILL_OPERATOR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -89538,6 +90480,7 @@
   },
   {
     "type": "shop",
+    "npc": "WINDMILL_OPERATOR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -89552,6 +90495,7 @@
   },
   {
     "type": "shop",
+    "npc": "WINDMILL_OPERATOR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -89566,6 +90510,7 @@
   },
   {
     "type": "shop",
+    "npc": "WINDMILL_OPERATOR_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -89580,6 +90525,7 @@
   },
   {
     "type": "shop",
+    "npc": "WINONA_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91298,6 +92244,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91312,6 +92259,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91326,6 +92274,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91340,6 +92289,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91354,6 +92304,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91368,6 +92319,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91382,6 +92334,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91396,6 +92349,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91410,6 +92364,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91424,6 +92379,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91438,6 +92394,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91452,6 +92409,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91466,6 +92424,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91480,6 +92439,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91494,6 +92454,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91508,6 +92469,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91522,6 +92484,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91536,6 +92499,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91550,6 +92514,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91564,6 +92529,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91578,6 +92544,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91592,6 +92559,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91606,6 +92574,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91620,6 +92589,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91634,6 +92604,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91648,6 +92619,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91662,6 +92634,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91676,6 +92649,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91690,6 +92664,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91704,6 +92679,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91718,6 +92694,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91732,6 +92709,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91746,6 +92724,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91760,6 +92739,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91774,6 +92754,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91788,6 +92769,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91802,6 +92784,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91816,6 +92799,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91830,6 +92814,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91844,6 +92829,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91858,6 +92844,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91872,6 +92859,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91886,6 +92874,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91900,6 +92889,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91914,6 +92904,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91928,6 +92919,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91942,6 +92934,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91956,6 +92949,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91970,6 +92964,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91984,6 +92979,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -91998,6 +92994,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92012,6 +93009,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92026,6 +93024,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92040,6 +93039,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92054,6 +93054,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92068,6 +93069,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92082,6 +93084,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92096,6 +93099,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92110,6 +93114,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92124,6 +93129,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92138,6 +93144,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92152,6 +93159,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92166,6 +93174,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92180,6 +93189,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92194,6 +93204,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92208,6 +93219,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92222,6 +93234,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92236,6 +93249,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92250,6 +93264,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92264,6 +93279,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92278,6 +93294,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92292,6 +93309,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92306,6 +93324,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92320,6 +93339,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92334,6 +93354,7 @@
   },
   {
     "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92584,6 +93605,7 @@
   },
   {
     "type": "shop",
+    "npc": "ZODD_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92626,6 +93648,7 @@
   },
   {
     "type": "shop",
+    "npc": "ZOG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92640,6 +93663,7 @@
   },
   {
     "type": "shop",
+    "npc": "ZOG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92654,6 +93678,7 @@
   },
   {
     "type": "shop",
+    "npc": "ZOG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92668,6 +93693,7 @@
   },
   {
     "type": "shop",
+    "npc": "ZOG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92682,6 +93708,7 @@
   },
   {
     "type": "shop",
+    "npc": "ZOG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92696,6 +93723,7 @@
   },
   {
     "type": "shop",
+    "npc": "ZOG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92710,6 +93738,7 @@
   },
   {
     "type": "shop",
+    "npc": "ZOG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92724,6 +93753,7 @@
   },
   {
     "type": "shop",
+    "npc": "ZOG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92738,6 +93768,7 @@
   },
   {
     "type": "shop",
+    "npc": "ZOG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92752,6 +93783,7 @@
   },
   {
     "type": "shop",
+    "npc": "ZOG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92766,6 +93798,7 @@
   },
   {
     "type": "shop",
+    "npc": "ZOG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92780,6 +93813,7 @@
   },
   {
     "type": "shop",
+    "npc": "ZOG_NPC",
     "inputs": [
       {
         "type": "currency",
@@ -92794,6 +93828,7 @@
   },
   {
     "type": "shop",
+    "npc": "ZOG_NPC",
     "inputs": [
       {
         "type": "currency",
