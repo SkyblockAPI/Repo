@@ -9113,7 +9113,7 @@
     "type": "NPC"
   },
   "ISLAND_NPC": {
-    "itemId": "minecraft:polar_bear_spawn_egg",
+    "itemId": "minecraft:wandering_trader_spawn_egg",
     "name": "Island NPC"
   },
   "IVAN_NPC": {
@@ -10681,7 +10681,7 @@
       "y": 68,
       "z": -6
     },
-    "itemId": "minecraft:paper",
+    "itemId": "minecraft:frog_spawn_egg",
     "name": "The Lotus Eater",
     "type": "NPC"
   },
