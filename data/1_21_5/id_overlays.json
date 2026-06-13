@@ -28831,6 +28831,13 @@
   },
   {
     "type": "item",
+    "id": "PET_SKIN_GRIFFIN_MINOAN",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minoan_Griffin_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "PET_SKIN_GRIFFIN_PEAFOWL",
     "wiki": {
       "official": "https://wiki.hypixel.net/Peafowl_Griffin_Skin",
@@ -29792,6 +29799,13 @@
     "wiki": {
       "official": "https://wiki.hypixel.net/Zodiac_Snake_Scatha_Skin",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Zodiac_Snake_Scatha_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PET_SKIN_SEAL_SEA_LEOPARD",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sea_Leopard_Seal_Skin"
     }
   },
   {
@@ -36263,35 +36277,40 @@
     "type": "item",
     "id": "SLICE_OF_BLUEBERRY_CAKE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Slice_Of_Blueberry_Cake"
+      "official": "https://wiki.hypixel.net/Slice_Of_Blueberry_Cake",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Slice_of_Blueberry_Cake"
     }
   },
   {
     "type": "item",
     "id": "SLICE_OF_CHEESECAKE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Slice_Of_Lemon_Cheesecake"
+      "official": "https://wiki.hypixel.net/Slice_Of_Lemon_Cheesecake",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Slice_of_Lemon_Cheesecake"
     }
   },
   {
     "type": "item",
     "id": "SLICE_OF_GREEN_VELVET_CAKE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Slice_Of_Matcha_Cake"
+      "official": "https://wiki.hypixel.net/Slice_Of_Matcha_Cake",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Slice_of_Matcha_Cake"
     }
   },
   {
     "type": "item",
     "id": "SLICE_OF_RED_VELVET_CAKE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Slice_Of_Red_Velvet_Cake"
+      "official": "https://wiki.hypixel.net/Slice_Of_Red_Velvet_Cake",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Slice_of_Red_Velvet_Cake"
     }
   },
   {
     "type": "item",
     "id": "SLICE_OF_STRAWBERRY_SHORTCAKE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Slice_Of_Strawberry_Shortcake"
+      "official": "https://wiki.hypixel.net/Slice_Of_Strawberry_Shortcake",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Slice_of_Strawberry_Shortcake"
     }
   },
   {
