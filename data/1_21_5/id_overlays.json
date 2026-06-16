@@ -38711,7 +38711,8 @@
     "type": "item",
     "id": "STARRED_ADAPTIVE_BELT",
     "wiki": {
-      "official": "https://wiki.hypixel.net/⚚_Adaptive_Belt"
+      "official": "https://wiki.hypixel.net/⚚_Adaptive_Belt",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/⚚_Adaptive_Belt"
     }
   },
   {
@@ -38757,14 +38758,16 @@
     "type": "item",
     "id": "STARRED_BONE_BOOMERANG",
     "wiki": {
-      "official": "https://wiki.hypixel.net/⚚_Bonemerang"
+      "official": "https://wiki.hypixel.net/⚚_Bonemerang",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/⚚_Bonemerang"
     }
   },
   {
     "type": "item",
     "id": "STARRED_BONE_NECKLACE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/⚚_Bone_Necklace"
+      "official": "https://wiki.hypixel.net/⚚_Bone_Necklace",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/⚚_Bone_Necklace"
     }
   },
   {
@@ -38787,14 +38790,16 @@
     "type": "item",
     "id": "STARRED_DAEDALUS_AXE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/⚚_Daedalus_Blade"
+      "official": "https://wiki.hypixel.net/⚚_Daedalus_Blade",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/⚚_Daedalus_Blade"
     }
   },
   {
     "type": "item",
     "id": "STARRED_FELTHORN_REAPER",
     "wiki": {
-      "official": "https://wiki.hypixel.net/⚚_Felthorn_Reaper"
+      "official": "https://wiki.hypixel.net/⚚_Felthorn_Reaper",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/⚚_Felthorn_Reaper"
     }
   },
   {
@@ -38815,7 +38820,8 @@
     "type": "item",
     "id": "STARRED_ITEM_SPIRIT_BOW",
     "wiki": {
-      "official": "https://wiki.hypixel.net/⚚_Spirit_Shortbow"
+      "official": "https://wiki.hypixel.net/⚚_Spirit_Shortbow",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/⚚_Spirit_Shortbow"
     }
   },
   {
@@ -38830,14 +38836,16 @@
     "type": "item",
     "id": "STARRED_MIDAS_STAFF",
     "wiki": {
-      "official": "https://wiki.hypixel.net/⚚_Midas_Staff"
+      "official": "https://wiki.hypixel.net/⚚_Midas_Staff",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/⚚_Midas_Staff"
     }
   },
   {
     "type": "item",
     "id": "STARRED_MIDAS_SWORD",
     "wiki": {
-      "official": "https://wiki.hypixel.net/⚚_Midas%27_Sword"
+      "official": "https://wiki.hypixel.net/⚚_Midas%27_Sword",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/⚚_Midas%27_Sword"
     }
   },
   {
@@ -38916,7 +38924,8 @@
     "type": "item",
     "id": "STARRED_THORNS_BOOTS",
     "wiki": {
-      "official": "https://wiki.hypixel.net/⚚_Spirit_Boots"
+      "official": "https://wiki.hypixel.net/⚚_Spirit_Boots",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/⚚_Spirit_Boots"
     }
   },
   {

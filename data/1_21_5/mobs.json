@@ -272,12 +272,6 @@
     "type": "NPC"
   },
   "ANDREW_NPC": {
-    "island": "hub",
-    "position": {
-      "x": 38,
-      "y": 69,
-      "z": -47
-    },
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==",
     "itemId": "minecraft:player_head",
     "name": "Andrew",
@@ -1948,6 +1942,7 @@
       "y": 63,
       "z": -127
     },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==",
     "itemId": "minecraft:player_head",
     "name": "Blacksmith",
     "type": "NPC"
@@ -3742,7 +3737,7 @@
             "type": "pet",
             "pet": "GHOUL",
             "tier": "EPIC",
-            "chance": 0.00001,
+            "chance": 0.00003,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -3750,7 +3745,7 @@
             "type": "pet",
             "pet": "GHOUL",
             "tier": "LEGENDARY",
-            "chance": 0.00003,
+            "chance": 0.00001,
             "minAmount": 1,
             "maxAmount": 1
           }
@@ -4542,12 +4537,6 @@
     "type": "NPC"
   },
   "DUKE_NPC": {
-    "island": "hub",
-    "position": {
-      "x": -7,
-      "y": 71,
-      "z": -90
-    },
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==",
     "itemId": "minecraft:player_head",
     "name": "Duke",
@@ -5569,6 +5558,7 @@
       "y": 69,
       "z": 6
     },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODU2NjQ1NzQ0YmZjYTZhZjAzYzIzZTI5N2U2ZWRlNzliNTI4ZDFkMjRlYzUwZDNhNjRhYmVjM2EwODM0Yjk0NSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIyZGI5YWQ3NDI2ZDkyMDgzYjNmZjcwMmIwNzE0MjEzMiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgxNTMzNzI4NzgxfQ==",
     "itemId": "minecraft:player_head",
     "name": "Fear Mongerer",
     "type": "NPC"
@@ -5598,12 +5588,6 @@
     "type": "NPC"
   },
   "FELIX_NPC": {
-    "island": "hub",
-    "position": {
-      "x": -26,
-      "y": 69,
-      "z": -104
-    },
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==",
     "itemId": "minecraft:player_head",
     "name": "Felix",
@@ -9137,12 +9121,6 @@
     "type": "NPC"
   },
   "JACK_NPC": {
-    "island": "hub",
-    "position": {
-      "x": -1,
-      "y": 71,
-      "z": -55
-    },
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==",
     "itemId": "minecraft:player_head",
     "name": "Jack",
@@ -9215,12 +9193,6 @@
     "type": "NPC"
   },
   "JAMIE_NPC": {
-    "island": "hub",
-    "position": {
-      "x": -36,
-      "y": 69,
-      "z": -39
-    },
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==",
     "itemId": "minecraft:player_head",
     "name": "Jamie",
@@ -10125,24 +10097,12 @@
     ]
   },
   "LEO_NPC": {
-    "island": "hub",
-    "position": {
-      "x": -8,
-      "y": 71,
-      "z": -76
-    },
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==",
     "itemId": "minecraft:player_head",
     "name": "Leo",
     "type": "NPC"
   },
   "LIAM_NPC": {
-    "island": "hub",
-    "position": {
-      "x": 10,
-      "y": 71,
-      "z": -42
-    },
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==",
     "itemId": "minecraft:player_head",
     "name": "Liam",
@@ -10155,6 +10115,7 @@
       "y": 70,
       "z": -80
     },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==",
     "itemId": "minecraft:player_head",
     "name": "Librarian",
     "type": "NPC"
@@ -10818,12 +10779,6 @@
     ]
   },
   "LYNN_NPC": {
-    "island": "hub",
-    "position": {
-      "x": -22,
-      "y": 69,
-      "z": -125
-    },
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==",
     "itemId": "minecraft:player_head",
     "name": "Lynn",
@@ -11688,6 +11643,7 @@
       "y": 70,
       "z": -63
     },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==",
     "itemId": "minecraft:player_head",
     "name": "Maths Enjoyer",
     "type": "NPC"
@@ -16062,6 +16018,7 @@
       "y": 74,
       "z": -39
     },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==",
     "itemId": "minecraft:player_head",
     "name": "Plumber Joe",
     "type": "NPC"
@@ -18032,12 +17989,6 @@
     "type": "NPC"
   },
   "RYU_NPC": {
-    "island": "hub",
-    "position": {
-      "x": 28,
-      "y": 71,
-      "z": -116
-    },
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==",
     "itemId": "minecraft:player_head",
     "name": "Ryu",
@@ -20021,6 +19972,7 @@
       "y": 63,
       "z": -136
     },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==",
     "itemId": "minecraft:player_head",
     "name": "Smithmonger",
     "type": "NPC"
@@ -20703,12 +20655,6 @@
     ]
   },
   "STELLA_NPC": {
-    "island": "hub",
-    "position": {
-      "x": 17,
-      "y": 71,
-      "z": -100
-    },
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==",
     "itemId": "minecraft:player_head",
     "name": "Stella",
@@ -22491,6 +22437,7 @@
       "y": 115,
       "z": -40
     },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTA3ZjE2NTdlYmZlZGQwYzM0NzMwYmU3ZDg2M2M1YWFiNjRmYWE0Mjk4MDhhYTEwZTk1MmYwNGZlYjZhMjdiOCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIyMzA3NjY2MGY1ZjcyZGNkOTA0OThkOWVjOTRiNjA1NSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgxNTMzNzY2MDMzfQ==",
     "itemId": "minecraft:player_head",
     "name": "Teddy",
     "type": "NPC"
@@ -23032,12 +22979,6 @@
     "type": "NPC"
   },
   "TOM_NPC": {
-    "island": "hub",
-    "position": {
-      "x": 28,
-      "y": 70,
-      "z": -58
-    },
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==",
     "itemId": "minecraft:player_head",
     "name": "Tom",
@@ -23631,12 +23572,6 @@
     "type": "NPC"
   },
   "VEX_NPC": {
-    "island": "hub",
-    "position": {
-      "x": -17,
-      "y": 71,
-      "z": -82
-    },
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==",
     "itemId": "minecraft:player_head",
     "name": "Vex",
