@@ -8028,11 +8028,11 @@
   "GUY_NPC": {
     "island": "hub",
     "position": {
-      "x": 52,
-      "y": 80,
-      "z": -13
+      "x": 51,
+      "y": 78,
+      "z": 20
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U5ZTIzYmU3ZjA0NTU2ZmEzMzM1MWE0Yzc3MWEzZjA1ZjRhNmQyN2RlNDEzYTM2ZDAyMzBjNjFmNzE2OTg3OTkifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTllMjNiZTdmMDQ1NTZmYTMzMzUxYTRjNzcxYTNmMDVmNGE2ZDI3ZGU0MTNhMzZkMDIzMGM2MWY3MTY5ODc5OSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJlNmRkMjIxNWQ2ZjAyNmY1Yjg4ZWMwYmM0MTE0NjU3ZCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgxNjYzNTE0MjEwfQ==",
     "itemId": "minecraft:player_head",
     "name": "Guy",
     "type": "NPC"
