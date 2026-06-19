@@ -12469,16 +12469,12 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "CLAY",
-        "count": 10
-      },
-      {
-        "id": "ANGLER_BRACELET",
-        "count": 1
+        "id": "CLAY_BALL",
+        "count": 16
       },
       {
         "id": "ENCHANTED_CLAY_BALL",
-        "count": 4
+        "count": 2
       }
     ],
     "pattern": [
@@ -12489,7 +12485,7 @@
       -1,
       0,
       0,
-      2,
+      1,
       0
     ],
     "result": {
@@ -12869,24 +12865,20 @@
         "count": 1
       },
       {
-        "id": "ANGLER_CLOAK",
-        "count": 1
-      },
-      {
         "id": "RAW_FISH-2",
         "count": 32
       }
     ],
     "pattern": [
       0,
-      1,
       0,
-      2,
+      0,
+      1,
       -1,
-      2,
-      2,
+      1,
+      1,
       -1,
-      2
+      1
     ],
     "result": {
       "id": "CLOWNFISH_CLOAK",
@@ -63642,10 +63634,6 @@
         "count": 1
       },
       {
-        "id": "ANGLER_NECKLACE",
-        "count": 1
-      },
-      {
         "id": "ENCHANTED_PRISMARINE_CRYSTALS",
         "count": 1
       }
@@ -63655,10 +63643,10 @@
       -1,
       0,
       0,
-      1,
+      -1,
       0,
       -1,
-      2,
+      1,
       -1
     ],
     "result": {
@@ -77527,11 +77515,7 @@
       },
       {
         "id": "ENCHANTED_SPONGE",
-        "count": 3
-      },
-      {
-        "id": "ANGLER_BELT",
-        "count": 1
+        "count": 2
       }
     ],
     "pattern": [
@@ -77542,7 +77526,7 @@
       -1,
       0,
       1,
-      2,
+      1,
       1
     ],
     "result": {
