@@ -1377,6 +1377,18 @@
       }
     ]
   },
+  "BANKER_BARRY_NPC": {
+    "island": "winter",
+    "position": {
+      "x": 20,
+      "y": 77,
+      "z": 44
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTkzNjQ3ODEyMWZiNzQ5NGQ0ZDBlNGRmZmYxYjU0ZmE4ODg3ZDUxYmI4OTcyM2E4M2ViMDkyZDQ4NmY5ZWI0IiwibWV0YWRhdGEiOnt9fX0sInByb2ZpbGVJZCI6IjdjMmE0Yjc5YTVhYjIwMTc4MmRmOTQ1MDhmNDZmZTNmIiwicHJvZmlsZU5hbWUiOiJuZWE4OSIsImlzUHVibGljIjp0cnVlLCJ0aW1lc3RhbXAiOjE3ODE2NzgzODQ3ODB9",
+    "itemId": "minecraft:player_head",
+    "name": "Banker Barry",
+    "type": "NPC"
+  },
   "BANKER_BROADJAW_NPC": {
     "island": "mining_3",
     "position": {
@@ -4634,11 +4646,11 @@
   "EINARY_NPC": {
     "island": "winter",
     "position": {
-      "x": -16,
-      "y": 77,
-      "z": 64
+      "x": -17,
+      "y": 76,
+      "z": 63
     },
-    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYwNzY1ODkxMDIyMiwKICAicHJvZmlsZUlkIiA6ICI0ZmFkNjk2NTIxNGI0NGQ4YjAxYzlhZTVjZDQ0MDVjOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJoaXBfYXNpYW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGEwMmY0ZmQyZDY4YTc4YjhkYTNhNDZiM2QwMDRhZDk0NzI0NTNjODA4MjhiNzM1NGEyNTkwYTE3OTQ4YzE5OCIKICAgIH0KICB9Cn0",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2JmNTZkOGI2NjMxMTBmNjBmODA5MGE5NDVkNGY4ZmQxYmI3ODViMWI4MzI2OWNmZGVjZDk0MzljNTc0NmEyNSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI2OWY2ODQzNzgzYmQyMGYyYjQ0YzA3MTFlNmU1NmRhNSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgxNjc4MzM3OTA2fQ==",
     "itemId": "minecraft:player_head",
     "name": "Einary",
     "type": "NPC"
@@ -6319,11 +6331,11 @@
   "FROSTY_NPC": {
     "island": "winter",
     "position": {
-      "x": -1,
-      "y": 77,
-      "z": 93
+      "x": -2,
+      "y": 76,
+      "z": 92
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UxNmY5NmM3NTZkZWZlZTYzOTA4OWI3MDI5MDE0MzEwNzI0ZGYwZWYzMGM3NTEwZjJkNzJhYzllMGRhY2Y3ZDMifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTE2Zjk2Yzc1NmRlZmVlNjM5MDg5YjcwMjkwMTQzMTA3MjRkZjBlZjMwYzc1MTBmMmQ3MmFjOWUwZGFjZjdkMyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJmOTExMjI3Mjg2NGQyYzRiYmQ0ODRhYTAxZjg3M2UwYSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgxNjc4MzcwMDg1fQ==",
     "itemId": "minecraft:player_head",
     "name": "Frosty",
     "type": "NPC"
@@ -8278,6 +8290,18 @@
     "name": "Hendrik",
     "type": "NPC"
   },
+  "HENDRIK_NPC": {
+    "island": "winter",
+    "position": {
+      "x": 16,
+      "y": 62,
+      "z": -31
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjA1ZmIxYmYyMjI1NDE2ODdmMjZkMDBjZGI2NDI4NWVkZDUzOTZjNWUyOWI2NTc2ZTRlYjExZGVhMjgwMjY3ZiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIwMmFiZjlhODA4M2YyNTg0OGI2ZjdmM2MwZmFkNjczMCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgxNjc4NDg2MTE2fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Hendrik",
+    "type": "NPC"
+  },
   "HIDEONLEAF_MONSTER": {
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMzA4Mjc2NzIzNSwKICAicHJvZmlsZUlkIiA6ICI5OWY1MzhjMDhlN2E0NTg3YmU4MGJjNGVmNzU0ZmQyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb2xvV1MyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkwYjNiZGM5ODFiODE3NTRhMjU2MzViZWEyZGVmOTNmOTkyYzA0MDc5ODFjZDdjNTAwYWQ0OWQxY2FkYTA0YWYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
     "itemId": "minecraft:player_head",
@@ -8644,10 +8668,10 @@
     "island": "combat_1",
     "position": {
       "x": -261,
-      "y": 93,
+      "y": 94,
       "z": -285
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTAxMzAyNzFjODE2ZTM2YWIxN2Y4ZWY1ZWYwNjMwNGM4Y2JkYTk1MjMwNzg4Mjg1NDEyYmY1MzQ2NmIwNzAzNCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJlNDJhNWJiY2Q0NjYyYWJhOWFlMzM1ZTNiZDRhYjM4NCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzU0NDM4MjcxOTMzfQ==",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTAxMzAyNzFjODE2ZTM2YWIxN2Y4ZWY1ZWYwNjMwNGM4Y2JkYTk1MjMwNzg4Mjg1NDEyYmY1MzQ2NmIwNzAzNCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJkZmNkNDJkYjRlOWIyZTkyYjc4ZjA1NWZmZjYyYzc3YiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgxNzUyNzUxMDgxfQ==",
     "itemId": "minecraft:player_head",
     "name": "Ike",
     "type": "NPC"
@@ -10796,6 +10820,18 @@
     "name": "Lys",
     "type": "NPC"
   },
+  "MAAIKE_NPC": {
+    "island": "winter",
+    "position": {
+      "x": 49,
+      "y": 81,
+      "z": 50
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmVhODY0N2E2MWRhMjUwOTFlNzE3N2VhZDg4Mjk5ZDdkN2I5NGJiNDM5MjQwNDAxYjJlN2EyZGU4M2Q2OTM4NSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJkMmUyZjdmOGFjNTkyY2ZiYjFhNzFhNDFlY2M3ZWVkNSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgxNjc4Nzg3NjM0fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Maaike",
+    "type": "NPC"
+  },
   "MADAME_ELEANOR_Q_GOLDSWORTH_III_NPC": {
     "island": "hub",
     "position": {
@@ -11792,10 +11828,10 @@
     "island": "combat_1",
     "position": {
       "x": -265,
-      "y": 93,
+      "y": 94,
       "z": -285
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzk0Nzc2ZGM1YzQ2MzA3YjFmMWI3MzBkMzU5NmNjMzM4MzhhZTkwNjM0ZjgxMDBkYTU5OGJjY2ZlMzc0NjZmYSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIyMDRmYmY5NDZmZTMyMjZiOTA4ZWEwMjFjZGRhYmVkYyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzU0NDM4MjcwNjc0fQ==",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzk0Nzc2ZGM1YzQ2MzA3YjFmMWI3MzBkMzU5NmNjMzM4MzhhZTkwNjM0ZjgxMDBkYTU5OGJjY2ZlMzc0NjZmYSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI1N2UyNWE1ZjE1ZjkyZDliODE5ZjE1YjZhZGQ4ZDUwMyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgxNzUyNzQ5OTEwfQ==",
     "itemId": "minecraft:player_head",
     "name": "Michael",
     "type": "NPC"
@@ -21025,11 +21061,11 @@
   "ST_JERRY_NPC": {
     "island": "winter",
     "position": {
-      "x": -22,
-      "y": 77,
-      "z": 93
+      "x": -23,
+      "y": 76,
+      "z": 92
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE2OTJlNjJiNDExMTRjNWIxYTVlOWUzNmMwNjc5ODI3OGViNmE1MTI2ZGMyNmRkYjE2NmQyMDIxZmUwZmEwMGUifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE2OTJlNjJiNDExMTRjNWIxYTVlOWUzNmMwNjc5ODI3OGViNmE1MTI2ZGMyNmRkYjE2NmQyMDIxZmUwZmEwMGUiLCJtZXRhZGF0YSI6e319fSwicHJvZmlsZUlkIjoiZTZiMTg4ZDRlOWE0MjUzOTliYzFhMjM3ZTUzNjA5YjgiLCJwcm9maWxlTmFtZSI6Im5lYTg5IiwiaXNQdWJsaWMiOnRydWUsInRpbWVzdGFtcCI6MTc4MTY3ODM1MzM1N30=",
     "itemId": "minecraft:player_head",
     "name": "St. Jerry",
     "type": "NPC"

@@ -48012,6 +48012,14 @@
   },
   {
     "type": "mob",
+    "id": "BANKER_BARRY_NPC",
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Banker_Barry",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Banker_Barry"
+    }
+  },
+  {
+    "type": "mob",
     "id": "BANKER_BROADJAW_NPC",
     "wiki": {
       "official": "https://wiki.hypixel.net/Banker_Broadjaw",
@@ -50023,6 +50031,14 @@
   },
   {
     "type": "mob",
+    "id": "HENDRIK_NPC",
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Hendrik",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hendrik"
+    }
+  },
+  {
+    "type": "mob",
     "id": "HIDEONLEAF_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Hideonleaf"
@@ -50821,6 +50837,14 @@
     "wiki": {
       "official": "https://wiki.hypixel.net/Lys",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Lys"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "MAAIKE_NPC",
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Maaike",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Maaike"
     }
   },
   {

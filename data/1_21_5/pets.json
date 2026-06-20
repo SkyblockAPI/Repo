@@ -6819,7 +6819,7 @@
         "lore": [
           "§8Combat Pet",
           "",
-          "§7Intelligence: §b+{INTELLIGENCE}",
+          "§7Intelligence: §b-{INTELLIGENCE}",
           "",
           "§6Jerry",
           "§7Gain §a50% §7chance to deal your",
@@ -6834,8 +6834,8 @@
         ],
         "variables": {
           "INTELLIGENCE": [
-            -1,
-            -100
+            1,
+            100
           ]
         }
       },
@@ -6844,7 +6844,7 @@
         "lore": [
           "§8Combat Pet",
           "",
-          "§7Intelligence: §b+{INTELLIGENCE}",
+          "§7Intelligence: §b-{INTELLIGENCE}",
           "",
           "§6Jerry",
           "§7Gain §a50% §7chance to deal your",
@@ -6859,8 +6859,8 @@
         ],
         "variables": {
           "INTELLIGENCE": [
-            -1,
-            -100
+            1,
+            100
           ]
         }
       },
@@ -6869,7 +6869,7 @@
         "lore": [
           "§8Combat Pet",
           "",
-          "§7Intelligence: §b+{INTELLIGENCE}",
+          "§7Intelligence: §b-{INTELLIGENCE}",
           "",
           "§6Jerry",
           "§7Gain §a50% §7chance to deal your",
@@ -6884,8 +6884,8 @@
         ],
         "variables": {
           "INTELLIGENCE": [
-            -1,
-            -100
+            1,
+            100
           ]
         }
       },
@@ -6894,7 +6894,7 @@
         "lore": [
           "§8Combat Pet",
           "",
-          "§7Intelligence: §b+{INTELLIGENCE}",
+          "§7Intelligence: §b-{INTELLIGENCE}",
           "",
           "§6Jerry",
           "§7Gain §a50% §7chance to deal your",
@@ -6909,8 +6909,8 @@
         ],
         "variables": {
           "INTELLIGENCE": [
-            -1,
-            -100
+            1,
+            100
           ]
         }
       },
@@ -6919,7 +6919,7 @@
         "lore": [
           "§8Combat Pet",
           "",
-          "§7Intelligence: §b+{INTELLIGENCE}",
+          "§7Intelligence: §b-{INTELLIGENCE}",
           "",
           "§6Jerry",
           "§7Gain §a50% §7chance to deal your",
@@ -6942,8 +6942,8 @@
             10
           ],
           "INTELLIGENCE": [
-            -1,
-            -100
+            1,
+            100
           ]
         }
       },
@@ -6952,7 +6952,7 @@
         "lore": [
           "§8Combat Pet",
           "",
-          "§7Intelligence: §b+{INTELLIGENCE}",
+          "§7Intelligence: §b-{INTELLIGENCE}",
           "",
           "§6Jerry",
           "§7Gain §a50% §7chance to deal your",
@@ -6978,8 +6978,8 @@
             50
           ],
           "INTELLIGENCE": [
-            -1,
-            -100
+            1,
+            100
           ]
         }
       }
@@ -10093,7 +10093,7 @@
         "lore": [
           "§8Combat Pet",
           "",
-          "§7Intelligence: §b+{INTELLIGENCE}",
+          "§7Intelligence: §b-{INTELLIGENCE}",
           "§7Speed: §f+{SPEED}",
           "",
           "§6Orbs are Fun",
@@ -10109,8 +10109,8 @@
             50
           ],
           "INTELLIGENCE": [
-            -0.02,
-            -2
+            0.02,
+            2
           ]
         }
       }
