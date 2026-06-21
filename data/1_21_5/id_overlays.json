@@ -6325,6 +6325,7 @@
     "type": "item",
     "id": "CLAY_GENERATOR_12",
     "wiki": {
+      "official": "https://wiki.hypixel.net/Clay_Minion",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Clay_Minion"
     }
   },
@@ -13088,7 +13089,7 @@
     "type": "item",
     "id": "FAST_FOOD_BARN_SKIN",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Barn_Skins"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fast_Food_Barn_Skin"
     }
   },
   {
@@ -13943,6 +13944,7 @@
     "type": "item",
     "id": "FISHING_GENERATOR_12",
     "wiki": {
+      "official": "https://wiki.hypixel.net/Fishing_Minion",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Fishing_Minion"
     }
   },
@@ -15937,7 +15939,7 @@
     "type": "item",
     "id": "GINGERBREAD_VILLAGE_BARN_SKIN",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Barn_Skins"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Gingerbread_Village_Barn_Skin"
     }
   },
   {
@@ -38751,7 +38753,8 @@
     "type": "item",
     "id": "STARRED_BAT_WAND",
     "wiki": {
-      "official": "https://wiki.hypixel.net/⚚_Spirit_Sceptre"
+      "official": "https://wiki.hypixel.net/Spirit_Sceptre",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Spirit_Sceptre"
     }
   },
   {
@@ -38806,14 +38809,16 @@
     "type": "item",
     "id": "STARRED_GLACIAL_SCYTHE",
     "wiki": {
-      "official": "https://wiki.hypixel.net/⚚_Glacial_Scythe"
+      "official": "https://wiki.hypixel.net/Glacial_Scythe",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Glacial_Scythe"
     }
   },
   {
     "type": "item",
     "id": "STARRED_ICE_SPRAY_WAND",
     "wiki": {
-      "official": "https://wiki.hypixel.net/⚚_Ice_Spray_Wand"
+      "official": "https://wiki.hypixel.net/Ice_Spray_Wand",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ice_Spray_Wand"
     }
   },
   {
@@ -38940,7 +38945,8 @@
     "type": "item",
     "id": "STARRED_YETI_SWORD",
     "wiki": {
-      "official": "https://wiki.hypixel.net/⚚_Yeti_Sword"
+      "official": "https://wiki.hypixel.net/Yeti_Sword",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Yeti_Sword"
     }
   },
   {
@@ -38992,7 +38998,7 @@
     "type": "item",
     "id": "STEAMED_CHOCOLATE_FISH",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Fish_Chocolat_À_La_Vapeur"
+      "official": "https://wiki.hypixel.net/Fish_Chocolat_%C3%80_La_Vapeur"
     }
   },
   {
@@ -40946,7 +40952,7 @@
     "type": "item",
     "id": "THREE_STONE_JERRIES_BARN_SKIN",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Barn_Skins"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Three_Stone_Jerries_Barn_Skin"
     }
   },
   {
@@ -41709,7 +41715,7 @@
     "type": "item",
     "id": "TURKEY_BARN_SKIN",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Barn_Skins"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turkey_Barn_Skin"
     }
   },
   {
@@ -54033,7 +54039,7 @@
     "id": "BARK_TUNES",
     "tier": 3,
     "wiki": {
-      "official": "https://wiki.hypixel.net/Runes"
+      "official": "https://wiki.hypixel.net/Bark_Tunes_Rune"
     }
   },
   {
@@ -54406,7 +54412,7 @@
     "id": "GRAND_FREEZING",
     "tier": 3,
     "wiki": {
-      "official": "https://wiki.hypixel.net/Runes"
+      "official": "https://wiki.hypixel.net/Grand_Freezing_Rune"
     }
   },
   {
@@ -54653,7 +54659,7 @@
     "id": "MEOW_MUSIC",
     "tier": 3,
     "wiki": {
-      "official": "https://wiki.hypixel.net/Runes"
+      "official": "https://wiki.hypixel.net/Meow_Music_Rune"
     }
   },
   {
@@ -54706,7 +54712,7 @@
     "id": "PRIMAL_FEAR",
     "tier": 3,
     "wiki": {
-      "official": "https://wiki.hypixel.net/Runes"
+      "official": "https://wiki.hypixel.net/Primal_Fear_Rune"
     }
   },
   {
@@ -54957,7 +54963,7 @@
     "id": "SPELLBOUND",
     "tier": 3,
     "wiki": {
-      "official": "https://wiki.hypixel.net/Runes"
+      "official": "https://wiki.hypixel.net/Spellbound_Rune"
     }
   },
   {
@@ -55844,6 +55850,15 @@
     "wiki": {
       "official": "https://wiki.hypixel.net/Corruption_Enchantment",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Corruption"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "COUNTER_STRIKE",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Counter-Strike_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Counter-Strike"
     }
   },
   {
@@ -57637,7 +57652,8 @@
     "id": "LUCK_OF_THE_SEA",
     "level": 1,
     "wiki": {
-      "official": "https://wiki.hypixel.net/Luck_Of_The_Sea_Enchantment"
+      "official": "https://wiki.hypixel.net/Luck_Of_The_Sea_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Luck_of_the_Sea"
     }
   },
   {
@@ -57653,7 +57669,8 @@
     "id": "LUCK_OF_THE_SEA",
     "level": 3,
     "wiki": {
-      "official": "https://wiki.hypixel.net/Luck_Of_The_Sea_Enchantment"
+      "official": "https://wiki.hypixel.net/Luck_Of_The_Sea_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Luck_of_the_Sea"
     }
   },
   {
@@ -59746,6 +59763,24 @@
   },
   {
     "type": "enchantment",
+    "id": "TRIPLE_STRIKE",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Triple-Strike_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Triple-Strike"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TRIPLE_STRIKE",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Triple-Strike_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Triple-Strike"
+    }
+  },
+  {
+    "type": "enchantment",
     "id": "TRUE_PROTECTION",
     "level": 1,
     "wiki": {
@@ -59755,10 +59790,215 @@
   },
   {
     "type": "enchantment",
+    "id": "TURBO_CACTUS",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Turbo-Cacti_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Cacti"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TURBO_CACTUS",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Turbo-Cacti_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Cacti"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TURBO_CANE",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Turbo-Cane_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Cane"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TURBO_CANE",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Turbo-Cane_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Cane"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TURBO_CARROT",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Turbo-Carrot_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Carrot"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TURBO_CARROT",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Turbo-Carrot_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Carrot"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TURBO_COCO",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Turbo-Cocoa_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Cocoa"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TURBO_COCO",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Turbo-Cocoa_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Cocoa"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TURBO_MELON",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Turbo-Melon_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Melon"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TURBO_MELON",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Turbo-Melon_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Melon"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TURBO_MOONFLOWER",
+    "level": 7,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Moonflower"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TURBO_MUSHROOMS",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Turbo-Mushrooms_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Mushrooms"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TURBO_MUSHROOMS",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Turbo-Mushrooms_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Mushrooms"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TURBO_POTATO",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Turbo-Potato_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Potato"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TURBO_POTATO",
+    "level": 7,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Turbo-Potato_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Potato"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TURBO_PUMPKIN",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Turbo-Pumpkin_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Pumpkin"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TURBO_PUMPKIN",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Turbo-Pumpkin_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Pumpkin"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TURBO_ROSE",
+    "level": 5,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Rose"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TURBO_SUNFLOWER",
+    "level": 7,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Sunflower"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TURBO_WARTS",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Turbo-Warts_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Warts"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TURBO_WARTS",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Turbo-Warts_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Warts"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TURBO_WHEAT",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Turbo-Wheat_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Wheat"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "TURBO_WHEAT",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Turbo-Wheat_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turbo-Wheat"
+    }
+  },
+  {
+    "type": "enchantment",
     "id": "ULTIMATE_BANK",
     "level": 1,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Bank_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bank"
     }
   },
   {
@@ -59782,7 +60022,8 @@
     "id": "ULTIMATE_BANK",
     "level": 4,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Bank_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bank"
     }
   },
   {
@@ -59795,6 +60036,24 @@
   },
   {
     "type": "enchantment",
+    "id": "ULTIMATE_BOBBIN_TIME",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Bobbin%27_Time_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bobbin%27_Time"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ULTIMATE_BOBBIN_TIME",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Bobbin%27_Time_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bobbin%27_Time"
+    }
+  },
+  {
+    "type": "enchantment",
     "id": "ULTIMATE_CHIMERA",
     "level": 1,
     "wiki": {
@@ -59814,7 +60073,8 @@
     "id": "ULTIMATE_CHIMERA",
     "level": 3,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Chimera_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Chimera"
     }
   },
   {
@@ -59830,7 +60090,8 @@
     "id": "ULTIMATE_CHIMERA",
     "level": 5,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Chimera_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Chimera"
     }
   },
   {
@@ -59862,7 +60123,8 @@
     "id": "ULTIMATE_COMBO",
     "level": 4,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Combo_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Combo"
     }
   },
   {
@@ -59870,7 +60132,88 @@
     "id": "ULTIMATE_COMBO",
     "level": 5,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Combo_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Combo"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ULTIMATE_CROP_FEVER",
+    "level": 5,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Crop_Fever"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ULTIMATE_FATAL_TEMPO",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Fatal_Tempo_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fatal_Tempo"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ULTIMATE_FATAL_TEMPO",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Fatal_Tempo_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fatal_Tempo"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ULTIMATE_FIRST_IMPRESSION",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/First_Impression_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/First_Impression"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ULTIMATE_FIRST_IMPRESSION",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/First_Impression_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/First_Impression"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ULTIMATE_FLASH",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Flash_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flash"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ULTIMATE_FLASH",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Flash_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flash"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ULTIMATE_FLOWSTATE",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Flowstate_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flowstate"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ULTIMATE_FLOWSTATE",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Flowstate_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flowstate"
     }
   },
   {
@@ -59878,7 +60221,8 @@
     "id": "ULTIMATE_HABANERO_TACTICS",
     "level": 4,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Habanero_Tactics_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Habanero_Tactics"
     }
   },
   {
@@ -59886,7 +60230,26 @@
     "id": "ULTIMATE_HABANERO_TACTICS",
     "level": 5,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Habanero_Tactics_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Habanero_Tactics"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ULTIMATE_INFERNO",
+    "level": 3,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Inferno_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ULTIMATE_INFERNO",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Inferno_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno"
     }
   },
   {
@@ -59947,7 +60310,8 @@
     "id": "ULTIMATE_LAST_STAND",
     "level": 2,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Last_Stand_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Last_Stand"
     }
   },
   {
@@ -59968,6 +60332,15 @@
   },
   {
     "type": "enchantment",
+    "id": "ULTIMATE_LAST_STAND",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Last_Stand_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Last_Stand"
+    }
+  },
+  {
+    "type": "enchantment",
     "id": "ULTIMATE_LEGION",
     "level": 1,
     "wiki": {
@@ -59979,7 +60352,8 @@
     "id": "ULTIMATE_LEGION",
     "level": 2,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Legion_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Legion"
     }
   },
   {
@@ -60003,7 +60377,26 @@
     "id": "ULTIMATE_LEGION",
     "level": 5,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Legion_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Legion"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ULTIMATE_MISSILE",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Missile_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Missile"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ULTIMATE_MISSILE",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Missile_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Missile"
     }
   },
   {
@@ -60011,7 +60404,8 @@
     "id": "ULTIMATE_NO_PAIN_NO_GAIN",
     "level": 1,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/No_Pain_No_Gain_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/No_Pain_No_Gain"
     }
   },
   {
@@ -60035,7 +60429,8 @@
     "id": "ULTIMATE_NO_PAIN_NO_GAIN",
     "level": 4,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/No_Pain_No_Gain_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/No_Pain_No_Gain"
     }
   },
   {
@@ -60051,7 +60446,44 @@
     "id": "ULTIMATE_ONE_FOR_ALL",
     "level": 1,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/One_For_All_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/One_For_All"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ULTIMATE_REFRIGERATE",
+    "level": 1,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Refrigerate_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Refrigerate"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ULTIMATE_REFRIGERATE",
+    "level": 4,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Refrigerate_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Refrigerate"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ULTIMATE_REITERATE",
+    "level": 2,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Duplex_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Duplex"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ULTIMATE_REITERATE",
+    "level": 5,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Duplex_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Duplex"
     }
   },
   {
@@ -60083,7 +60515,8 @@
     "id": "ULTIMATE_REND",
     "level": 4,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Rend_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rend"
     }
   },
   {
@@ -60091,7 +60524,8 @@
     "id": "ULTIMATE_REND",
     "level": 5,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Rend_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rend"
     }
   },
   {
@@ -60107,7 +60541,8 @@
     "id": "ULTIMATE_SOUL_EATER",
     "level": 2,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Soul_Eater_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Soul_Eater"
     }
   },
   {
@@ -60131,7 +60566,16 @@
     "id": "ULTIMATE_SOUL_EATER",
     "level": 5,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Soul_Eater_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Soul_Eater"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "ULTIMATE_SUNSET",
+    "level": 1,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sunset"
     }
   },
   {
@@ -60139,7 +60583,8 @@
     "id": "ULTIMATE_SWARM",
     "level": 1,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Swarm_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Swarm"
     }
   },
   {
@@ -60147,7 +60592,8 @@
     "id": "ULTIMATE_SWARM",
     "level": 2,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Swarm_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Swarm"
     }
   },
   {
@@ -60179,7 +60625,8 @@
     "id": "ULTIMATE_THE_ONE",
     "level": 4,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/The_One_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/The_One"
     }
   },
   {
@@ -60187,7 +60634,8 @@
     "id": "ULTIMATE_THE_ONE",
     "level": 5,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/The_One_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/The_One"
     }
   },
   {
@@ -60195,7 +60643,8 @@
     "id": "ULTIMATE_WISDOM",
     "level": 1,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Wisdom_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wisdom"
     }
   },
   {
@@ -60219,7 +60668,8 @@
     "id": "ULTIMATE_WISDOM",
     "level": 4,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "official": "https://wiki.hypixel.net/Wisdom_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wisdom"
     }
   },
   {
