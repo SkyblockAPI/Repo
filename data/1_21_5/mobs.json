@@ -348,6 +348,17 @@
     "name": "An",
     "type": "NPC"
   },
+  "APPRENTICE_NPC": {
+    "island": "hub",
+    "position": {
+      "x": -153,
+      "y": 63,
+      "z": -34
+    },
+    "itemId": "minecraft:villager_spawn_egg",
+    "name": "Apprentice",
+    "type": "NPC"
+  },
   "ARACHNES_BROOD_MONSTER": {
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q1NDE1NDFkYWFmZjUwODk2Y2QyNThiZGJkZDRjZjgwYzNiYTgxNjczNTcyNjA3OGJmZTM5MzkyN2U1N2YxIn19fQ",
     "itemId": "minecraft:player_head",
@@ -8001,6 +8012,18 @@
     "name": "Guber",
     "type": "NPC"
   },
+  "GUILDFORD_NPC": {
+    "island": "dungeon_hub",
+    "position": {
+      "x": -19,
+      "y": 86,
+      "z": 4
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2VmNDVlMWM3MDUxN2MxMTQ3YTA5YjYzZTRkZWE3ZWNiZTJkYzc4ZTlhNjJlZTc3ODNmN2Q5MWE1Y2FlYzJjZSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIxMjBlYWM3ZDZjMmMyNDlmYjRjZDk1MGNkYzNiZWE2NSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgyMDcxMjI1MzczfQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Guildford",
+    "type": "NPC"
+  },
   "GULLIVER_NPC": {
     "island": "winter",
     "position": {
@@ -10142,6 +10165,18 @@
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==",
     "itemId": "minecraft:player_head",
     "name": "Librarian",
+    "type": "NPC"
+  },
+  "LIFT_OPERATOR_NPC": {
+    "island": "mining_2",
+    "position": {
+      "x": 45,
+      "y": 150,
+      "z": 15
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODY1MmEwNmY3Yjk5ZTQ4MjJiNDk1YmE5YjYwODlkNGQ1MTUxZTgzYmVkOTU2YTdjY2NiODQ3ZWE0NmEyNTcyNSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI3YjBjMWQyMDNhY2QyNjQzYWExYjc1NDE1YTZiNGIyNCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgyMDcxMjQ2OTM2fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Lift Operator",
     "type": "NPC"
   },
   "LITTLEFOOT_MONSTER": {
@@ -12824,6 +12859,13 @@
         ]
       }
     ]
+  },
+  "MORT_NPC": {
+    "island": "dungeon_hub",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWI1Njg5NWI5NjU5ODk2YWQ2NDdmNTg1OTkyMzhhZjUzMmQ0NmRiOWMxYjAzODliOGJiZWI3MDk5OWRhYjMzZCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI2M2YwZTI4ZTM4OGIyMGEyYjA0YzUxMzk1YTA5NjVmMyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgyMDcxMTMzNzU3fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Mort",
+    "type": "NPC"
   },
   "MOTES_GRUBBER_RIFT_NPC": {
     "island": "rift",
@@ -19337,6 +19379,17 @@
     "name": "Shaggy",
     "type": "NPC"
   },
+  "SHANIA_NPC": {
+    "island": "hub",
+    "position": {
+      "x": 59,
+      "y": 72,
+      "z": -145
+    },
+    "itemId": "minecraft:cow_spawn_egg",
+    "name": "Shania",
+    "type": "NPC"
+  },
   "SHANIA_RIFT_NPC": {
     "island": "rift",
     "position": {
@@ -23024,12 +23077,12 @@
     "island": "farming_1",
     "position": {
       "x": 278,
-      "y": 106,
+      "y": 104,
       "z": -545
     },
-    "texture": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjVmMzFjMWMyMTVhNTdlOTM3ZmQ3NWFiMzU3ODJmODVlYzI0MmExYjFmOTUwYTI2YTQyYmI1ZTBhYTVjYmVkYSJ9fX0=",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWQzNGZjZjc3MjYzMWI4MThkMmM2YWZiODc4ZTM5MzM3NjcwN2EyYjU3MDE5YjVmZjg3MGQ2OTUyZmRkZDExYSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIwM2Q0MTY3YzVmYWQyZTI3OGI2NTUzZDFkYmZmMGIyZSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgyMDcxNzk4NjI4fQ==",
     "itemId": "minecraft:player_head",
-    "name": "Tony's Shop",
+    "name": "Tony",
     "type": "NPC"
   },
   "TOXIC_RAIN_SLIME_MONSTER": {
