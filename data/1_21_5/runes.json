@@ -2102,6 +2102,27 @@
       ]
     }
   ],
+  "SUNNY_SPIRAL": [
+    {
+      "tier": 3,
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MTI5MTUwMzA5MSwKICAicHJvZmlsZUlkIiA6ICI0N2U2MjJjNmE1OWU0NmNhOWU3OGNjYzE1ZDliNzhhZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbnRpbGFmTVgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTM4MmMxNzA2YTdmZjRjNjhiMzRmZGEyMThkOGEyYWY4YmQ0YjE5MWJiNjU4NDcxYzE3ZmIzY2UyZjk3OGIzZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+      "name": "§6◆ Sunny Spiral Rune III",
+      "lore": [
+        "§8Requires level 0",
+        "§8Chestplates",
+        "",
+        "§7The heat of the sun orbits you!",
+        "§7Obtained from the Taylor Summer",
+        "§7Bundle.",
+        "",
+        "§7Apply this rune to chestplates or",
+        "§7fuse two together at the Runic",
+        "§7Pedestal!",
+        "",
+        "§6§lLEGENDARY COSMETIC"
+      ]
+    }
+  ],
   "SUPER_PUMPKIN": [
     {
       "tier": 3,
