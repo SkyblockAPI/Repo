@@ -40,9 +40,6 @@ const applyItemOverlay = (itemStack, itemOverlay) => {
         itemStack.id = itemOverlay.id;
     }
 
-    // Delete item_model from .json if .snbt is present since NEU repo abuses it to store the item's modern ID
-    delete itemStack.components["minecraft:item_model"];
-
     if (itemOverlay.components && typeof itemOverlay.components === "object" && !Array.isArray(itemOverlay.components)) {
         for (const [key, value] of Object.entries(itemOverlay.components)) {
             itemStack.components[key] = value;
@@ -59,7 +56,6 @@ export const Items = {
 
         const isUnbreakable = item.nbt?.Unbreakable === true || item.nbt?.Unbreakable === 1;
         const isGlowing = item.nbt?.ench !== undefined;
-        const itemModel = !item.nbt.ItemModel || item.nbt.ItemModel === getItemId(item.itemid, item.damage) ? undefined : item.nbt.ItemModel;
 
         const itemId = getItemId(item.itemid, item.damage);
 
@@ -85,7 +81,6 @@ export const Items = {
                     ]
                 } : undefined,
                 "minecraft:dyed_color": item.nbt?.display?.color ?? undefined,
-                "minecraft:item_model": itemModel,
             }
         }, item.itemOverlay);
 
