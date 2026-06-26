@@ -11,6 +11,7 @@ import {Potions} from "./1_21_5/potions.mjs";
 import {Attributes} from "./1_21_5/attributes.mjs";
 
 const specialItems = JSON.parse(fs.readFileSync(".github/scripts/data/special_items.json", "utf-8"));
+const itemOverlayIndex = buildItemOverlayIndex();
 
 const isEntity = (file) => {
     if (file === "ISLAND_NPC.json") return false;
@@ -30,8 +31,19 @@ for (let file of fs.readdirSync("neu/items")) {
         console.error("[WARN] (Parse) Skipping non-json file found in items directory: " + file);
         continue;
     }
+    const itemId = file.slice(0, -".json".length);
     const data = JSON.parse(fs.readFileSync(`./neu/items/${file}`, "utf-8"));
     data.nbt = decode(data.nbttag);
+    const itemOverlay = itemOverlayIndex.get(itemId);
+    if (itemOverlay) {
+        try {
+            data.itemOverlay = decode(fs.readFileSync(itemOverlay.path, "utf-8"));
+        } catch (error) {
+            throw new Error(`Failed to parse item overlay ${itemOverlay.path}: ${error.message}`, {cause: error});
+        }
+    } else {
+        console.warn(`[WARN] (Parse) Missing item SNBT overlay: ${itemId}`);
+    }
 
     const attributes = data.nbt.ExtraAttributes;
 
@@ -101,3 +113,35 @@ fs.writeFileSync("cloudflare/shas.json", JSON.stringify({
     "1_21_5": Mc1215.shas(),
     ...clone(),
 }, null, 4));
+
+function buildItemOverlayIndex() {
+    const result = new Map();
+    const overlayRoot = "neu/itemsOverlay";
+    if (!fs.existsSync(overlayRoot)) return result;
+
+    for (const dataVersionEntry of fs.readdirSync(overlayRoot, {withFileTypes: true})) {
+        if (!dataVersionEntry.isDirectory()) continue;
+
+        const dataVersion = Number(dataVersionEntry.name);
+        if (!Number.isInteger(dataVersion)) {
+            console.warn(`[WARN] (Parse) Skipping non-numeric itemsOverlay data version: ${dataVersionEntry.name}`);
+            continue;
+        }
+
+        const dataVersionPath = `${overlayRoot}/${dataVersionEntry.name}`;
+        for (const overlayEntry of fs.readdirSync(dataVersionPath, {withFileTypes: true})) {
+            if (!overlayEntry.isFile() || !overlayEntry.name.endsWith(".snbt")) continue;
+
+            const itemId = overlayEntry.name.slice(0, -".snbt".length);
+            const existing = result.get(itemId);
+            if (!existing || dataVersion > existing.dataVersion) {
+                result.set(itemId, {
+                    dataVersion,
+                    path: `${dataVersionPath}/${overlayEntry.name}`,
+                });
+            }
+        }
+    }
+
+    return result;
+}

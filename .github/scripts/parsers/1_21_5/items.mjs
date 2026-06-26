@@ -32,12 +32,28 @@ export const getItemId = (id, damage) => {
     return newId;
 }
 
+const applyItemOverlay = (itemStack, itemOverlay) => {
+    if (!itemOverlay) return itemStack;
+
+    if (typeof itemOverlay.id === "string") {
+        itemStack.id = itemOverlay.id;
+    }
+
+    if (itemOverlay.components && typeof itemOverlay.components === "object" && !Array.isArray(itemOverlay.components)) {
+        for (const [key, value] of Object.entries(itemOverlay.components)) {
+            itemStack.components[key] = value;
+        }
+    }
+
+    return itemStack;
+}
+
 export const Items = {
     /** @param item {Item} */
     parseItem: (item) => {
         if (specialItems.items.includes(item.internalname)) return;
 
-        const isUnbreakable = item.nbt?.Unbreakable === 1;
+        const isUnbreakable = item.nbt?.Unbreakable === true || item.nbt?.Unbreakable === 1;
         const isGlowing = item.nbt?.ench !== undefined;
         const itemModel = !item.nbt.ItemModel || item.nbt.ItemModel === getItemId(item.itemid, item.damage) ? undefined : item.nbt.ItemModel;
 
@@ -48,7 +64,7 @@ export const Items = {
             return;
         }
 
-        itemsFile.push({
+        const itemStack = {
             id: itemId,
             components: {
                 'minecraft:tooltip_display': {
@@ -83,7 +99,9 @@ export const Items = {
                 'minecraft:dyed_color': item.nbt?.display?.color ?? undefined,
                 'minecraft:item_model': itemModel,
             }
-        });
+        };
+
+        itemsFile.push(applyItemOverlay(itemStack, item.itemOverlay));
 
         const overlayProps = getOverlay(item);
         if (overlayProps) {
