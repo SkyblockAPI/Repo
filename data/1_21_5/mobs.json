@@ -24573,13 +24573,17 @@
             "maxAmount": 1
           },
           {
-            "id": "TARNATULA;3",
+            "type": "pet",
+            "pet": "TARANTULA",
+            "tier": "EPIC",
             "chance": 0.00004,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
-            "id": "TARNATULA;4",
+            "type": "pet",
+            "pet": "TARANTULA",
+            "tier": "LEGENDARY",
             "chance": 0.00001,
             "minAmount": 1,
             "maxAmount": 1
@@ -24626,7 +24630,9 @@
             "maxAmount": 1
           },
           {
-            "id": "TARNATULA;4",
+            "type": "pet",
+            "pet": "TARANTULA",
+            "tier": "LEGENDARY",
             "chance": 0.00001,
             "minAmount": 1,
             "maxAmount": 1
