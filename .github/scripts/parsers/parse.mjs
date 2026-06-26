@@ -1,5 +1,6 @@
 import fs from "fs";
-import {decode} from "../utils/snbt.mjs";
+import {decode as decodeLegacy} from "../utils/snbt_legacy.mjs";
+import {decode as decodeModern} from "../utils/snbt_modern.mjs";
 import {clone} from "./copier.mjs";
 import {Mc1215} from "./1_21_5/1215.mjs";
 import {Pets} from "./1_21_5/pets.mjs";
@@ -33,11 +34,11 @@ for (let file of fs.readdirSync("neu/items")) {
     }
     const itemId = file.slice(0, -".json".length);
     const data = JSON.parse(fs.readFileSync(`./neu/items/${file}`, "utf-8"));
-    data.nbt = decode(data.nbttag);
+    data.nbt = decodeLegacy(data.nbttag);
     const itemOverlay = itemOverlayIndex.get(itemId);
     if (itemOverlay) {
         try {
-            data.itemOverlay = decode(fs.readFileSync(itemOverlay.path, "utf-8"));
+            data.itemOverlay = decodeModern(fs.readFileSync(itemOverlay.path, "utf-8"));
         } catch (error) {
             throw new Error(`Failed to parse item overlay ${itemOverlay.path}: ${error.message}`, {cause: error});
         }
