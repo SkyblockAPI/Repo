@@ -86,6 +86,7 @@ export const Items = {
             }
         }, item.itemOverlay);
 
+        delete itemStack.components["minecraft:entity_data"];
         delete itemStack.components["minecraft:jukebox_playable"];
         delete itemStack.components["minecraft:map_id"];
 
