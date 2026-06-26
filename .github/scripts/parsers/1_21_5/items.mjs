@@ -68,12 +68,12 @@ export const Items = {
         const itemStack = applyItemOverlay({
             id: itemId,
             components: {
-                'minecraft:custom_data': item.nbt.ExtraAttributes ?? {},
-                'minecraft:unbreakable': isUnbreakable ? {} : undefined,
-                'minecraft:enchantment_glint_override': isGlowing ? true : undefined,
-                'minecraft:custom_name': {text: item.displayname},
-                'minecraft:lore': item.lore.map(line => ({text: line})),
-                'minecraft:profile': item.nbt.SkullOwner ? {
+                "minecraft:custom_data": item.nbt.ExtraAttributes ?? {},
+                "minecraft:unbreakable": isUnbreakable ? {} : undefined,
+                "minecraft:enchantment_glint_override": isGlowing ? true : undefined,
+                "minecraft:custom_name": {text: item.displayname},
+                "minecraft:lore": item.lore.map(line => ({text: line})),
+                "minecraft:profile": item.nbt.SkullOwner ? {
                     properties: [
                         {
                             name: "textures",
@@ -81,10 +81,13 @@ export const Items = {
                         }
                     ]
                 } : undefined,
-                'minecraft:dyed_color': item.nbt?.display?.color ?? undefined,
-                'minecraft:item_model': itemModel,
+                "minecraft:dyed_color": item.nbt?.display?.color ?? undefined,
+                "minecraft:item_model": itemModel,
             }
         }, item.itemOverlay);
+
+        delete itemStack.components["minecraft:jukebox_playable"];
+        delete itemStack.components["minecraft:map_id"];
 
         for (const [key, value] of Object.entries(itemStack.components ?? {})) {
             if (value == null) continue;
