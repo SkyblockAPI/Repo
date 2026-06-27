@@ -58238,6 +58238,15 @@
   },
   {
     "type": "enchantment",
+    "id": "PESTERMINATOR",
+    "level": 6,
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Pesterminator_Enchantment",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pesterminator"
+    }
+  },
+  {
+    "type": "enchantment",
     "id": "PIERCING",
     "level": 1,
     "wiki": {
