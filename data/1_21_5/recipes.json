@@ -82984,6 +82984,21 @@
       {
         "type": "currency",
         "currency": "PELT",
+        "count": 200
+      }
+    ],
+    "result": {
+      "id": "BROWN_BANDANA",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "TALBOT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "PELT",
         "count": 40
       }
     ],
@@ -82991,6 +83006,21 @@
       "type": "potion",
       "id": "POTION_STINKY_CHEESE",
       "level": 1,
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "TALBOT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "PELT",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "PEST_VEST",
       "count": 1
     }
   },
