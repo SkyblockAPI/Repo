@@ -11526,6 +11526,34 @@
     "keys": [
       {
         "id": "TOKEN_OF_THE_CENTURY",
+        "count": 2
+      },
+      {
+        "id": "CENTURY_RING",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "CENTURY_ARTIFACT",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "TOKEN_OF_THE_CENTURY",
         "count": 1
       },
       {

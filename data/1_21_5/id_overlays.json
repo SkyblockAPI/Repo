@@ -1415,6 +1415,13 @@
   },
   {
     "type": "item",
+    "id": "ASTRONAUT_PERSONALITY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Astronaut_Minion_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "ATMOSPHERIC_FILTER",
     "wiki": {
       "official": "https://wiki.hypixel.net/Atmospheric_Filter",
@@ -2061,8 +2068,8 @@
     "type": "item",
     "id": "BASKETBALL_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Basketball_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Basketball_Minion_Skin"
     }
   },
   {
@@ -2253,8 +2260,8 @@
     "type": "item",
     "id": "BEACH_BALL_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Beach_Ball_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Beach_Ball_Minion_Skin"
     }
   },
   {
@@ -2433,8 +2440,8 @@
     "type": "item",
     "id": "BEE_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Bee_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bee_Minion_Skin"
     }
   },
   {
@@ -3218,6 +3225,34 @@
     "wiki": {
       "official": "https://wiki.hypixel.net/Blessed_Bait",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Blessed_Bait"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BLESSED_FROG_BRONZE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blessed_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BLESSED_FROG_DIAMOND",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blessed_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BLESSED_FROG_GOLD",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blessed_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BLESSED_FROG_SILVER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blessed_Frog"
     }
   },
   {
@@ -4149,6 +4184,34 @@
   },
   {
     "type": "item",
+    "id": "BULLFROG_BRONZE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bullfrog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BULLFROG_DIAMOND",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bullfrog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BULLFROG_GOLD",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bullfrog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BULLFROG_SILVER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bullfrog"
+    }
+  },
+  {
+    "type": "item",
     "id": "BUNDLED_SNOWMAN",
     "wiki": {
       "official": "https://wiki.hypixel.net/Bundled_Snowman",
@@ -4203,8 +4266,8 @@
     "type": "item",
     "id": "BUNNY_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Bunny_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bunny_Minion_Skin"
     }
   },
   {
@@ -5572,6 +5635,34 @@
   },
   {
     "type": "item",
+    "id": "CAVE_FROG_BRONZE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cave_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "CAVE_FROG_DIAMOND",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cave_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "CAVE_FROG_GOLD",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cave_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "CAVE_FROG_SILVER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cave_Frog"
+    }
+  },
+  {
+    "type": "item",
     "id": "CELESTE_BOOTS",
     "wiki": {
       "official": "https://wiki.hypixel.net/Celeste_Boots",
@@ -5897,6 +5988,13 @@
   },
   {
     "type": "item",
+    "id": "CHEF_PERSONALITY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Chef_Minion_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "CHERRY_BLOSSOM_FLUX",
     "wiki": {
       "official": "https://wiki.hypixel.net/Cherry_Blossom_Power_Orb_Skin",
@@ -6170,7 +6268,8 @@
     "type": "item",
     "id": "CHOCO_RABBIT_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Choco_Rabbit_Minion_Skin"
+      "official": "https://wiki.hypixel.net/Choco_Rabbit_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Choco_Rabbit_Minion_Skin"
     }
   },
   {
@@ -6438,8 +6537,8 @@
     "type": "item",
     "id": "CLOWNFISH_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Tropical_Fish_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tropical_Fish_Minion_Skin"
     }
   },
   {
@@ -6911,6 +7010,34 @@
     "id": "COMMEMORATIVE_MASON_JAR",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Commemorative_Mason_Jar"
+    }
+  },
+  {
+    "type": "item",
+    "id": "COMMON_FROG_BRONZE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Common_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "COMMON_FROG_DIAMOND",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Common_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "COMMON_FROG_GOLD",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Common_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "COMMON_FROG_SILVER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Common_Frog"
     }
   },
   {
@@ -7826,8 +7953,8 @@
     "type": "item",
     "id": "CYCLOPS_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Cyclops_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cyclops_Minion_Skin"
     }
   },
   {
@@ -10121,8 +10248,8 @@
     "type": "item",
     "id": "EASTER_EGG_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Easter_Egg_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Easter_Egg_Minion_Skin"
     }
   },
   {
@@ -12738,6 +12865,34 @@
   },
   {
     "type": "item",
+    "id": "EXPLODING_FROG_BRONZE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Exploding_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "EXPLODING_FROG_DIAMOND",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Exploding_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "EXPLODING_FROG_GOLD",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Exploding_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "EXPLODING_FROG_SILVER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Exploding_Frog"
+    }
+  },
+  {
+    "type": "item",
     "id": "EXPLOSIVE_ARROW",
     "wiki": {
       "official": "https://wiki.hypixel.net/Explosive_Arrow",
@@ -13371,8 +13526,8 @@
     "type": "item",
     "id": "FESTIVE_JERRY_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Festive_Jerry_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Festive_Jerry_Minion_Skin"
     }
   },
   {
@@ -13395,16 +13550,16 @@
     "type": "item",
     "id": "FESTIVE_SKELETON_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Festive_Skeleton_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Festive_Skeleton_Minion_Skin"
     }
   },
   {
     "type": "item",
     "id": "FESTIVE_ZOMBIE_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Festive_Zombie_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Festive_Zombie_Minion_Skin"
     }
   },
   {
@@ -14058,6 +14213,13 @@
   },
   {
     "type": "item",
+    "id": "FISHY_PENGUIN_PERSONALITY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fishy_Penguin_Minion_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "FISHY_TREAT",
     "wiki": {
       "official": "https://wiki.hypixel.net/Fishy_Treat",
@@ -14101,7 +14263,7 @@
     "id": "FISH_PERSONALITY",
     "wiki": {
       "official": "https://wiki.hypixel.net/Fish_Minion_Skin",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fish_Minion_Skin"
     }
   },
   {
@@ -14813,6 +14975,13 @@
     "wiki": {
       "official": "https://wiki.hypixel.net/Travel_Scroll_To_The_Dwarven_Forge",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_the_Dwarven_Forge"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FOSSIL_MUNCHER_PERSONALITY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fossil_Muncher_Minion_Skin"
     }
   },
   {
@@ -15551,35 +15720,38 @@
     "type": "item",
     "id": "GENERATOR_UPGRADE_STONE_CLAY_12",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Clay_Minion"
+      "official": "https://wiki.hypixel.net/Clay_Minion_XII_Upgrade_Stone",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Clay_Minion_XII_Upgrade_Stone"
     }
   },
   {
     "type": "item",
     "id": "GENERATOR_UPGRADE_STONE_FISHING_12",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fishing_Minion"
+      "official": "https://wiki.hypixel.net/Fishing_Minion_XII_Upgrade_Stone",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fishing_Minion_XII_Upgrade_Stone"
     }
   },
   {
     "type": "item",
     "id": "GENERATOR_UPGRADE_STONE_LILY_PAD_12",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lily_Pad_Minion"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lily_Pad_Minion_XII_Upgrade_Stone"
     }
   },
   {
     "type": "item",
     "id": "GENERATOR_UPGRADE_STONE_REVENANT_12",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Revenant_Minion"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Revenant_Minion_XII_Upgrade_Stone"
     }
   },
   {
     "type": "item",
     "id": "GENERATOR_UPGRADE_STONE_TARANTULA_12",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tarantula_Minion"
+      "official": "https://wiki.hypixel.net/Tarantula_Minion_XII_Upgrade_Stone",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tarantula_Minion_XII_Upgrade_Stone"
     }
   },
   {
@@ -15729,8 +15901,8 @@
     "type": "item",
     "id": "GHOST_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Ghost_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ghost_Minion_Skin"
     }
   },
   {
@@ -15974,8 +16146,8 @@
     "type": "item",
     "id": "GINGERBREAD_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Gingerbread_Man_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Gingerbread_Man_Minion_Skin"
     }
   },
   {
@@ -17663,8 +17835,8 @@
     "type": "item",
     "id": "GRINCH_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Grinch_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Grinch_Minion_Skin"
     }
   },
   {
@@ -18120,6 +18292,13 @@
   },
   {
     "type": "item",
+    "id": "HEADLESS_PERSONALITY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Beheaded_Minion_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "HEALING_MELON",
     "wiki": {
       "official": "https://wiki.hypixel.net/Healing_Melon",
@@ -18427,8 +18606,8 @@
     "type": "item",
     "id": "HERMIT_CRAB_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Hermit_Crab_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hermit_Crab_Minion_Skin"
     }
   },
   {
@@ -18437,6 +18616,34 @@
     "wiki": {
       "official": "https://wiki.hypixel.net/Herring_The_Fish",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Herring_the_Fish"
+    }
+  },
+  {
+    "type": "item",
+    "id": "HIGHLANDS_FROG_BRONZE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Highlands_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "HIGHLANDS_FROG_DIAMOND",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Highlands_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "HIGHLANDS_FROG_GOLD",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Highlands_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "HIGHLANDS_FROG_SILVER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Highlands_Frog"
     }
   },
   {
@@ -19270,8 +19477,8 @@
     "type": "item",
     "id": "ICE_CREAM_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Ice_Cream_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ice_Cream_Minion_Skin"
     }
   },
   {
@@ -19414,8 +19621,8 @@
     "type": "item",
     "id": "ICE_LOLLY_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Ice_Lolly_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ice_Lolly_Minion_Skin"
     }
   },
   {
@@ -19686,8 +19893,8 @@
     "type": "item",
     "id": "INFERNO_FUEL_BLAZE_ROD",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Inferno_Minion",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion"
+      "official": "https://wiki.hypixel.net/Inferno_Minion_Fuel",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel"
     }
   },
   {
@@ -19702,32 +19909,32 @@
     "type": "item",
     "id": "INFERNO_FUEL_CRUDE_GABAGOOL",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Inferno_Minion",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion"
+      "official": "https://wiki.hypixel.net/Inferno_Minion_Fuel",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel"
     }
   },
   {
     "type": "item",
     "id": "INFERNO_FUEL_GLOWSTONE_DUST",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Inferno_Minion",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion"
+      "official": "https://wiki.hypixel.net/Inferno_Minion_Fuel",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel"
     }
   },
   {
     "type": "item",
     "id": "INFERNO_FUEL_MAGMA_CREAM",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Inferno_Minion",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion"
+      "official": "https://wiki.hypixel.net/Inferno_Minion_Fuel",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel"
     }
   },
   {
     "type": "item",
     "id": "INFERNO_FUEL_NETHER_STALK",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Inferno_Minion",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion"
+      "official": "https://wiki.hypixel.net/Inferno_Minion_Fuel",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel"
     }
   },
   {
@@ -19822,80 +20029,80 @@
     "type": "item",
     "id": "INFERNO_HEAVY_BLAZE_ROD",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Inferno_Minion",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion"
+      "official": "https://wiki.hypixel.net/Inferno_Minion_Fuel",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel"
     }
   },
   {
     "type": "item",
     "id": "INFERNO_HEAVY_CRUDE_GABAGOOL",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Inferno_Minion",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion"
+      "official": "https://wiki.hypixel.net/Inferno_Minion_Fuel",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel"
     }
   },
   {
     "type": "item",
     "id": "INFERNO_HEAVY_GLOWSTONE_DUST",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Inferno_Minion",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion"
+      "official": "https://wiki.hypixel.net/Inferno_Minion_Fuel",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel"
     }
   },
   {
     "type": "item",
     "id": "INFERNO_HEAVY_MAGMA_CREAM",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Inferno_Minion",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion"
+      "official": "https://wiki.hypixel.net/Inferno_Minion_Fuel",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel"
     }
   },
   {
     "type": "item",
     "id": "INFERNO_HEAVY_NETHER_STALK",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Inferno_Minion",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion"
+      "official": "https://wiki.hypixel.net/Inferno_Minion_Fuel",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel"
     }
   },
   {
     "type": "item",
     "id": "INFERNO_HYPERGOLIC_BLAZE_ROD",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Inferno_Minion",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion"
+      "official": "https://wiki.hypixel.net/Inferno_Minion_Fuel",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel"
     }
   },
   {
     "type": "item",
     "id": "INFERNO_HYPERGOLIC_CRUDE_GABAGOOL",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Inferno_Minion",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion"
+      "official": "https://wiki.hypixel.net/Inferno_Minion_Fuel",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel"
     }
   },
   {
     "type": "item",
     "id": "INFERNO_HYPERGOLIC_GLOWSTONE_DUST",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Inferno_Minion",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion"
+      "official": "https://wiki.hypixel.net/Inferno_Minion_Fuel",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel"
     }
   },
   {
     "type": "item",
     "id": "INFERNO_HYPERGOLIC_MAGMA_CREAM",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Inferno_Minion",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion"
+      "official": "https://wiki.hypixel.net/Inferno_Minion_Fuel",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel"
     }
   },
   {
     "type": "item",
     "id": "INFERNO_HYPERGOLIC_NETHER_STALK",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Inferno_Minion",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion"
+      "official": "https://wiki.hypixel.net/Inferno_Minion_Fuel",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel"
     }
   },
   {
@@ -20974,8 +21181,8 @@
     "type": "item",
     "id": "KILLER_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Killer_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Killer_Minion_Skin"
     }
   },
   {
@@ -21206,8 +21413,8 @@
     "type": "item",
     "id": "LADY_BUG_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Lady_Bug_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lady_Bug_Minion_Skin"
     }
   },
   {
@@ -21937,6 +22144,34 @@
     "wiki": {
       "official": "https://wiki.hypixel.net/Leaping_Sword",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Leaping_Sword"
+    }
+  },
+  {
+    "type": "item",
+    "id": "LEAP_FROG_BRONZE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Leap_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "LEAP_FROG_DIAMOND",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Leap_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "LEAP_FROG_GOLD",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Leap_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "LEAP_FROG_SILVER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Leap_Frog"
     }
   },
   {
@@ -23315,7 +23550,7 @@
     "type": "item",
     "id": "MEDIOCRE_FISH_DRAWING",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Mediocre_Drawing_Of_A_Fish"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mediocre_Drawing__A_Fish"
     }
   },
   {
@@ -23710,8 +23945,8 @@
     "type": "item",
     "id": "MELON_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Melon_Minion",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Melon_Minion"
+      "official": "https://wiki.hypixel.net/Melon_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Melon_Minion_Skin"
     }
   },
   {
@@ -24687,8 +24922,8 @@
     "type": "item",
     "id": "MUMMY_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Mummy_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mummy_Minion_Skin"
     }
   },
   {
@@ -26320,6 +26555,13 @@
   },
   {
     "type": "item",
+    "id": "OWL_MAGE_PERSONALITY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Owl_Mage_Minion_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "OXFORD_SHOES",
     "wiki": {
       "official": "https://wiki.hypixel.net/Oxford_Shoes",
@@ -26743,8 +26985,8 @@
     "type": "item",
     "id": "PENGUIN_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Penguin_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Penguin_Minion_Skin"
     }
   },
   {
@@ -30756,16 +30998,16 @@
     "type": "item",
     "id": "PINK_BUNNY_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Pink_Bunny_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pink_Bunny_Minion_Skin"
     }
   },
   {
     "type": "item",
     "id": "PINK_DONUT_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Pink_Donut_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pink_Donut_Minion_Skin"
     }
   },
   {
@@ -30970,6 +31212,13 @@
     "wiki": {
       "official": "https://wiki.hypixel.net/Polarvoid_Book",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Polarvoid_Book"
+    }
+  },
+  {
+    "type": "item",
+    "id": "POLAR_BEAR_PERSONALITY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Polar_Bear_Minion_Skin"
     }
   },
   {
@@ -31403,8 +31652,8 @@
     "type": "item",
     "id": "PRESENT_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Present_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Present_Minion_Skin"
     }
   },
   {
@@ -31709,9 +31958,37 @@
   },
   {
     "type": "item",
+    "id": "PUDDLE_JUMPER_BRONZE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Puddle_Jumper"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PUDDLE_JUMPER_DIAMOND",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Puddle_Jumper"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PUDDLE_JUMPER_GOLD",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Puddle_Jumper"
+    }
+  },
+  {
+    "type": "item",
     "id": "PUDDLE_JUMPER_HOOK",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Puddle_Jumper_Hook"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PUDDLE_JUMPER_SILVER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Puddle_Jumper"
     }
   },
   {
@@ -31741,7 +32018,8 @@
     "type": "item",
     "id": "PUFFERFISH_PERSONALITY",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Pufferfish_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pufferfish_Minion_Skin"
     }
   },
   {
@@ -31964,8 +32242,8 @@
     "type": "item",
     "id": "PUMPKIN_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Pumpkin_Minion",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Minion"
+      "official": "https://wiki.hypixel.net/Pumpkin_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Minion_Skin"
     }
   },
   {
@@ -32595,6 +32873,34 @@
     "wiki": {
       "official": "https://wiki.hypixel.net/Razor-sharp_Shark_Tooth_Necklace",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Razor-sharp_Shark_Tooth_Necklace"
+    }
+  },
+  {
+    "type": "item",
+    "id": "REALITY_HOPPER_BRONZE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Reality_Hopper"
+    }
+  },
+  {
+    "type": "item",
+    "id": "REALITY_HOPPER_DIAMOND",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Reality_Hopper"
+    }
+  },
+  {
+    "type": "item",
+    "id": "REALITY_HOPPER_GOLD",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Reality_Hopper"
+    }
+  },
+  {
+    "type": "item",
+    "id": "REALITY_HOPPER_SILVER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Reality_Hopper"
     }
   },
   {
@@ -33354,8 +33660,8 @@
     "type": "item",
     "id": "REINDEER_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Reindeer_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Reindeer_Minion_Skin"
     }
   },
   {
@@ -33912,6 +34218,13 @@
     "wiki": {
       "official": "https://wiki.hypixel.net/Robotron_Reflector",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Robotron_Reflector"
+    }
+  },
+  {
+    "type": "item",
+    "id": "ROBOT_PERSONALITY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Robot_Minion_Skin"
     }
   },
   {
@@ -34509,8 +34822,8 @@
     "type": "item",
     "id": "SANDCASTLE_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Sandcastle_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sandcastle_Minion_Skin"
     }
   },
   {
@@ -34633,8 +34946,8 @@
     "type": "item",
     "id": "SANTA_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Santa_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Santa_Minion_Skin"
     }
   },
   {
@@ -34759,8 +35072,8 @@
     "type": "item",
     "id": "SCARECROW_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Scarecrow_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Scarecrow_Minion_Skin"
     }
   },
   {
@@ -34971,6 +35284,14 @@
   },
   {
     "type": "item",
+    "id": "SEAL_PERSONALITY",
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Seal_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Seal_Minion_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "SEAL_RING",
     "wiki": {
       "official": "https://wiki.hypixel.net/Seal_Ring",
@@ -35030,6 +35351,34 @@
     "wiki": {
       "official": "https://wiki.hypixel.net/Sea_Creature_Talisman",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Sea_Creature_Talisman"
+    }
+  },
+  {
+    "type": "item",
+    "id": "SEA_FROG_BRONZE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sea_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "SEA_FROG_DIAMOND",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sea_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "SEA_FROG_GOLD",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sea_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "SEA_FROG_SILVER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sea_Frog"
     }
   },
   {
@@ -35328,8 +35677,8 @@
     "type": "item",
     "id": "SHARK_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Shark_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Shark_Minion_Skin"
     }
   },
   {
@@ -36266,8 +36615,8 @@
     "type": "item",
     "id": "SKULL_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Skull_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Skull_Minion_Skin"
     }
   },
   {
@@ -36783,6 +37132,13 @@
   },
   {
     "type": "item",
+    "id": "SMOL_JERRY_PERSONALITY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Smol_Jerry_Minion_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "SMOOTH_BRICK-1",
     "vanilla": true
   },
@@ -36928,6 +37284,7 @@
     "type": "item",
     "id": "SNOWMAN_PERSONALITY",
     "wiki": {
+      "official": "https://wiki.hypixel.net/Snowman_Minion_Skin",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Snowman_Minion_Skin"
     }
   },
@@ -39854,8 +40211,8 @@
     "type": "item",
     "id": "SUN_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Sun_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sun_Minion_Skin"
     }
   },
   {
@@ -41665,6 +42022,34 @@
   },
   {
     "type": "item",
+    "id": "TREE_FROG_BRONZE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tree_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "TREE_FROG_DIAMOND",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tree_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "TREE_FROG_GOLD",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tree_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "TREE_FROG_SILVER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tree_Frog"
+    }
+  },
+  {
+    "type": "item",
     "id": "TREE_THE_FISH",
     "wiki": {
       "official": "https://wiki.hypixel.net/Tree_The_Fish",
@@ -41711,16 +42096,16 @@
     "type": "item",
     "id": "TROPICAL_BIRD_1_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Hyacinth_Tropical_Bird_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hyacinth_Tropical_Bird_Minion_Skin"
     }
   },
   {
     "type": "item",
     "id": "TROPICAL_BIRD_2_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Blue_Gold_Tropical_Bird_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blue_Gold_Tropical_Bird_Minion_Skin"
     }
   },
   {
@@ -41994,8 +42379,8 @@
     "type": "item",
     "id": "UNDEAD_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/Undead_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Undead_Minion_Skin"
     }
   },
   {
@@ -43254,6 +43639,34 @@
   },
   {
     "type": "item",
+    "id": "WETLANDS_FROG_BRONZE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wetlands_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "WETLANDS_FROG_DIAMOND",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wetlands_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "WETLANDS_FROG_GOLD",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wetlands_Frog"
+    }
+  },
+  {
+    "type": "item",
+    "id": "WETLANDS_FROG_SILVER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wetlands_Frog"
+    }
+  },
+  {
+    "type": "item",
     "id": "WET_BOOK",
     "wiki": {
       "official": "https://wiki.hypixel.net/Wet_Book",
@@ -43440,8 +43853,8 @@
     "type": "item",
     "id": "WHITE_TIGER_PERSONALITY",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Minion_Skins",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minion_Skin"
+      "official": "https://wiki.hypixel.net/White_Tiger_Minion_Skin",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/White_Tiger_Minion_Skin"
     }
   },
   {
@@ -47822,6 +48235,14 @@
   },
   {
     "type": "mob",
+    "id": "APPRENTICE_NPC",
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Apprentice",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Apprentice"
+    }
+  },
+  {
+    "type": "mob",
     "id": "ARACHNES_BROOD_MONSTER",
     "wiki": {
       "official": "https://wiki.hypixel.net/Arachne%27s_Brood",
@@ -48237,8 +48658,8 @@
     "type": "mob",
     "id": "BAT_PINATA_MONSTER",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Bat_Piñata",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bat_Piñata"
+      "official": "https://wiki.hypixel.net/Bat_Pi%C3%B1ata",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bat_Pi%C3%B1ata"
     }
   },
   {
@@ -50070,6 +50491,14 @@
   },
   {
     "type": "mob",
+    "id": "GUILDFORD_NPC",
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Guildford",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Guildford"
+    }
+  },
+  {
+    "type": "mob",
     "id": "GULLIVER_NPC",
     "wiki": {
       "official": "https://wiki.hypixel.net/Gulliver",
@@ -50807,6 +51236,14 @@
   },
   {
     "type": "mob",
+    "id": "LIFT_OPERATOR_NPC",
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Lift_Operator",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lift_Operator"
+    }
+  },
+  {
+    "type": "mob",
     "id": "LITTLEFOOT_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Littlefoot"
@@ -51404,6 +51841,14 @@
   },
   {
     "type": "mob",
+    "id": "MORT_NPC",
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Mort",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mort"
+    }
+  },
+  {
+    "type": "mob",
     "id": "MOTES_GRUBBER_RIFT_NPC",
     "wiki": {
       "official": "https://wiki.hypixel.net/Motes_Grubber",
@@ -51542,7 +51987,7 @@
     "id": "NUTCRACKER_SC",
     "wiki": {
       "official": "https://wiki.hypixel.net/Nutcracker",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Nutcracker_(mob)"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Nutcracker"
     }
   },
   {
@@ -51855,7 +52300,7 @@
     "type": "mob",
     "id": "PHANTOM_FISHER_SC",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Phantom_Fisherman",
+      "official": "https://wiki.hypixel.net/Phantom_Fisher",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Phantom_Fisher"
     }
   },
@@ -52670,6 +53115,14 @@
   },
   {
     "type": "mob",
+    "id": "SHANIA_NPC",
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Shania",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Shania"
+    }
+  },
+  {
+    "type": "mob",
     "id": "SHANIA_RIFT_NPC",
     "wiki": {
       "official": "https://wiki.hypixel.net/Shania",
@@ -53412,8 +53865,8 @@
     "type": "mob",
     "id": "TONY_SHOP_NPC",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Tony%27s_Shop",
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tony%27s_Shop"
+      "official": "https://wiki.hypixel.net/Tony",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tony"
     }
   },
   {

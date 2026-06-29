@@ -7056,7 +7056,7 @@
         "lore": [
           "§8Combinable in Anvil",
           "",
-          "§9Magmarizer I",
+          "§9Pyroclasm I",
           "§7Increases damage dealt to §c♆",
           "§cMagmatic §7mobs by §a10%§7.",
           "",
@@ -7067,6 +7067,7 @@
           "§6Applied To:",
           "§7- §fFishing Rod",
           "§7- §fSword",
+          "§7- §fLongsword",
           "§7- §fGauntlet",
           "",
           "§f§lCOMMON"
@@ -7078,7 +7079,7 @@
         "lore": [
           "§8Combinable in Anvil",
           "",
-          "§9Magmarizer II",
+          "§9Pyroclasm II",
           "§7Increases damage dealt to §c♆",
           "§cMagmatic §7mobs by §a20%§7.",
           "",
@@ -7089,6 +7090,7 @@
           "§6Applied To:",
           "§7- §fFishing Rod",
           "§7- §fSword",
+          "§7- §fLongsword",
           "§7- §fGauntlet",
           "",
           "§f§lCOMMON"
@@ -7100,7 +7102,7 @@
         "lore": [
           "§8Combinable in Anvil",
           "",
-          "§9Magmarizer III",
+          "§9Pyroclasm III",
           "§7Increases damage dealt to §c♆",
           "§cMagmatic §7mobs by §a30%§7.",
           "",
@@ -7111,6 +7113,7 @@
           "§6Applied To:",
           "§7- §fFishing Rod",
           "§7- §fSword",
+          "§7- §fLongsword",
           "§7- §fGauntlet",
           "",
           "§f§lCOMMON"
@@ -7122,7 +7125,7 @@
         "lore": [
           "§8Combinable in Anvil",
           "",
-          "§9Magmarizer IV",
+          "§9Pyroclasm IV",
           "§7Increases damage dealt to §c♆",
           "§cMagmatic §7mobs by §a40%§7.",
           "",
@@ -7133,6 +7136,7 @@
           "§6Applied To:",
           "§7- §fFishing Rod",
           "§7- §fSword",
+          "§7- §fLongsword",
           "§7- §fGauntlet",
           "",
           "§f§lCOMMON"
@@ -7144,7 +7148,7 @@
         "lore": [
           "§8Combinable in Anvil",
           "",
-          "§9Magmarizer V",
+          "§9Pyroclasm V",
           "§7Increases damage dealt to §c♆",
           "§cMagmatic §7mobs by §a60%§7.",
           "",
@@ -7155,9 +7159,10 @@
           "§6Applied To:",
           "§7- §fFishing Rod",
           "§7- §fSword",
+          "§7- §fLongsword",
           "§7- §fGauntlet",
           "",
-          "§f§lCOMMON"
+          "§a§lUNCOMMON"
         ]
       },
       {
@@ -7166,9 +7171,9 @@
         "lore": [
           "§8Combinable in Anvil",
           "",
-          "§9Magmarizer VI",
+          "§9Pyroclasm VI",
           "§7Increases damage dealt to §c♆",
-          "§cMagmatic§7 mobs by §a80%§7.",
+          "§cMagmatic §7mobs by §a80%§7.",
           "",
           "§6Source:",
           "§aI-V: §7Enchantment Table",
@@ -7177,13 +7182,14 @@
           "§6Applied To:",
           "§7- §fFishing Rod",
           "§7- §fSword",
+          "§7- §fLongsword",
           "§7- §fGauntlet",
           "",
           "§9§lRARE"
         ]
       }
     ],
-    "name": "Magmarizer",
+    "name": "Pyroclasm",
     "isUltimate": false
   },
   "MAGNET": {
