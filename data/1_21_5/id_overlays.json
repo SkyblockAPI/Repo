@@ -10880,6 +10880,22 @@
   },
   {
     "type": "item",
+    "id": "ENCHANTED_BOOK_BUNDLE_ICE_COLD",
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Enchanted_Book_Bundle",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Book_Bundle"
+    }
+  },
+  {
+    "type": "item",
+    "id": "ENCHANTED_BOOK_BUNDLE_POWER",
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Enchanted_Book_Bundle",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Book_Bundle"
+    }
+  },
+  {
+    "type": "item",
     "id": "ENCHANTED_BOOK_BUNDLE_PRISMATIC",
     "wiki": {
       "official": "https://wiki.hypixel.net/Enchanted_Book_Bundle",
@@ -12564,6 +12580,13 @@
   },
   {
     "type": "item",
+    "id": "EPOCH_CAKE_EXPIRED",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Long-Expired_Century_Cake"
+    }
+  },
+  {
+    "type": "item",
     "id": "EPOCH_CAKE_GRAY",
     "wiki": {
       "official": "https://wiki.hypixel.net/Century_Cake",
@@ -12576,6 +12599,13 @@
     "wiki": {
       "official": "https://wiki.hypixel.net/Pet_Rock_Century_Cake",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Pet_Rock_Century_Cake"
+    }
+  },
+  {
+    "type": "item",
+    "id": "EPOCH_CAKE_HEPHAESTUS",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hephaestus%27_Century_Cake"
     }
   },
   {
@@ -12615,6 +12645,13 @@
     "id": "EPOCH_CAKE_SILVER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Corpse-Flavored_Century_Cake"
+    }
+  },
+  {
+    "type": "item",
+    "id": "EPOCH_CAKE_STARBORN",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Starborn_Century_Cake"
     }
   },
   {
@@ -18556,6 +18593,13 @@
   },
   {
     "type": "item",
+    "id": "HEPHAESTUS_LUCKY_DIP",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hephaestus%27_Lucky_Dip"
+    }
+  },
+  {
+    "type": "item",
     "id": "HEPHAESTUS_PLUSHIE",
     "wiki": {
       "official": "https://wiki.hypixel.net/Hephaestus_Plushie",
@@ -23227,6 +23271,13 @@
     "wiki": {
       "official": "https://wiki.hypixel.net/Magma_Urchin",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Magma_Urchin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "MAGMA_URCHIN_BUNDLE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magma_Urchin_Bundle"
     }
   },
   {
@@ -28073,6 +28124,13 @@
     "wiki": {
       "official": "https://wiki.hypixel.net/Vampire_Fang",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampire_Fang"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PET_SIZED_CUPCAKE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pet-Sized_Cupcake"
     }
   },
   {
@@ -34688,6 +34746,13 @@
   },
   {
     "type": "item",
+    "id": "SAFETY_BADGE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Safety_Badge"
+    }
+  },
+  {
+    "type": "item",
     "id": "SALMON_BOOTS",
     "wiki": {
       "official": "https://wiki.hypixel.net/Salmon_Boots",
@@ -34721,6 +34786,14 @@
   {
     "type": "item",
     "id": "SALMON_HAT",
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Salmon_Hat",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Salmon_Hat"
+    }
+  },
+  {
+    "type": "item",
+    "id": "SALMON_HAT_CELEBRATION",
     "wiki": {
       "official": "https://wiki.hypixel.net/Salmon_Hat",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Salmon_Hat"
@@ -36444,6 +36517,13 @@
     "wiki": {
       "official": "https://wiki.hypixel.net/Skeleton_Key",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Key"
+    }
+  },
+  {
+    "type": "item",
+    "id": "SKELETON_KEYCHAIN",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Keychain"
     }
   },
   {
@@ -58342,7 +58422,7 @@
     "id": "MAGMARIZER",
     "level": 1,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magmarizer"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pyroclasm"
     }
   },
   {
@@ -58350,7 +58430,7 @@
     "id": "MAGMARIZER",
     "level": 2,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magmarizer"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pyroclasm"
     }
   },
   {
@@ -58358,7 +58438,7 @@
     "id": "MAGMARIZER",
     "level": 3,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magmarizer"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pyroclasm"
     }
   },
   {
@@ -58366,7 +58446,7 @@
     "id": "MAGMARIZER",
     "level": 4,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magmarizer"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pyroclasm"
     }
   },
   {
@@ -58374,7 +58454,7 @@
     "id": "MAGMARIZER",
     "level": 5,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magmarizer"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pyroclasm"
     }
   },
   {
@@ -58382,7 +58462,7 @@
     "id": "MAGMARIZER",
     "level": 6,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magmarizer"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pyroclasm"
     }
   },
   {
