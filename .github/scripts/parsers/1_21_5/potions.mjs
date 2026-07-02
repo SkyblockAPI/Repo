@@ -121,6 +121,12 @@ const potionFile = {};
 const potionOverlaysFile = [];
 export const potionIds = []
 
+const stripFormatting = (name) => name.replaceAll(/§[0-9a-fk-or]/ig, "").trim();
+const potionLevelPattern = /\s+([IVXLCDM]+)(?:\s+Splash)?(?:\s+Potion)?$/;
+
+const parsePotionName = (name) => stripFormatting(name).replace(potionLevelPattern, "");
+const parseLiteralLevel = (name) => stripFormatting(name).match(potionLevelPattern)?.[1];
+
 export const Potions = {
     /** @param item {Item} */
     parsePotions: (item) => {
@@ -147,13 +153,13 @@ export const Potions = {
             internal_name: item.nbt.ExtraAttributes.potion_name || undefined,
             type: item.nbt.ExtraAttributes.potion_type || undefined,
             internal_potion: item.nbt.ExtraAttributes.potion || undefined,
-            name: item.displayname.replaceAll(/^(.*) [IV]{1,4}(?: Splash)?(?: Potion)?.*?$/g, "$1").replace(/§[0-9a-f]/ig, ""),
+            name: parsePotionName(item.displayname),
             vanilla_effect: potionTypeMappings[meta & 127] || "water",
         }
 
         potion.levels.push({
             level: potionLevel || undefined,
-            literal_level: item.displayname.replaceAll(/^.*?([IV]{1,4}).*?$/g, "$1"),
+            literal_level: parseLiteralLevel(item.displayname),
             lore: item.lore,
             splash: ((meta & 16384) === 16384) ? true : undefined,
         })
