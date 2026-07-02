@@ -328,7 +328,6 @@
   "POTION_AWKWARD": {
     "levels": [
       {
-        "literal_level": "§fAwkward Potion",
         "lore": [
           "§7Use Awkward Potions in Brewing",
           "§7Stands with items labeled as Brewing",
@@ -1578,7 +1577,7 @@
     "levels": [
       {
         "level": 1,
-        "literal_level": "V",
+        "literal_level": "I",
         "lore": [
           "§5Night Vision I §f(3:00)",
           "§7Grants greater visibility at night.",
@@ -1588,7 +1587,7 @@
       },
       {
         "level": 2,
-        "literal_level": "V",
+        "literal_level": "II",
         "lore": [
           "§5Night Vision II §f(3:00)",
           "§7Grants greater visibility at night.",
@@ -1860,7 +1859,7 @@
       },
       {
         "level": 9,
-        "literal_level": "I",
+        "literal_level": "IX",
         "lore": [
           "§4Regeneration IX §f(2:30)",
           "§7Grants §c+60❣ Health Regen§7.",
@@ -2561,7 +2560,7 @@
     "levels": [
       {
         "level": 1,
-        "literal_level": "V",
+        "literal_level": "I",
         "lore": [
           "§5Venomous I §f(3:00)",
           "§7Grants §c-5 §f✦ Speed §7and deals §c5",
@@ -2572,7 +2571,7 @@
       },
       {
         "level": 2,
-        "literal_level": "V",
+        "literal_level": "II",
         "lore": [
           "§5Venomous II §f(3:00)",
           "§7Grants §c-10 §f✦ Speed §7and deals §c10",
@@ -2583,7 +2582,7 @@
       },
       {
         "level": 3,
-        "literal_level": "V",
+        "literal_level": "III",
         "lore": [
           "§5Venomous III §f(3:00)",
           "§7Grants §c-15 §f✦ Speed §7and deals §c15",
@@ -2594,7 +2593,7 @@
       },
       {
         "level": 4,
-        "literal_level": "V",
+        "literal_level": "IV",
         "lore": [
           "§5Venomous IV §f(3:00)",
           "§7Grants §c-20 §f✦ Speed §7and deals §c20",
@@ -2850,7 +2849,6 @@
   "WATER_BOTTLE": {
     "levels": [
       {
-        "literal_level": "§fWater Bottle",
         "lore": [
           "§f§lCOMMON"
         ]
