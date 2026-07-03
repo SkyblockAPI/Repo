@@ -600,7 +600,7 @@
     "type": "item",
     "id": "ALL_IN_ALOE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/All-in_Aloe"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/All-In_Aloe"
     }
   },
   {
@@ -29309,6 +29309,13 @@
     "wiki": {
       "official": "https://wiki.hypixel.net/Clay_Golem_Skin",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Clay_Golem_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PET_SKIN_JADE_DRAGON_BABY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Baby_Jade_Dragon_Skin"
     }
   },
   {
