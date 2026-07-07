@@ -69,6 +69,16 @@ export const Mobs = {
 
             const drops = [];
 
+            if (recipe.coins >= 1) {
+                drops.push({
+                    type: "currency",
+                    currency: "coin",
+                    chance: 1.0,
+                    minAmount: recipe.coins,
+                    maxAmount: recipe.coins,
+                })
+            }
+
             (recipe.drops || []).forEach(drop => {
                 const {minAmount, maxAmount, chance, condition, extra} =
                     parseDropAmountAndChance(drop.chance, drop.extra || []);
@@ -108,7 +118,6 @@ export const Mobs = {
             lootTables.push({
                 name: stripColorCodes(recipe.name) || realName,
                 mobLevel: recipe.level || 0,
-                coins: recipe.coins || 0,
                 xp: recipe.xp || 0,
                 combatXp: recipe.combat_xp || 0,
                 drops: drops
