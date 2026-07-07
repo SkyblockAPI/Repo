@@ -12511,41 +12511,11 @@
     "type": "Mythological Creature",
     "lootTables": [
       {
-        "name": "Minotaur",
+        "name": "Venerable Minotaur",
         "mobLevel": 45,
         "coins": 150,
         "xp": 5,
         "combatXp": 30,
-        "drops": [
-          {
-            "id": "ANCIENT_CLAW",
-            "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 2
-          }
-        ]
-      },
-      {
-        "name": "Stalwart Minotaur",
-        "mobLevel": 120,
-        "coins": 500,
-        "xp": 8,
-        "combatXp": 60,
-        "drops": [
-          {
-            "id": "ANCIENT_CLAW",
-            "chance": 1,
-            "minAmount": 3,
-            "maxAmount": 3
-          }
-        ]
-      },
-      {
-        "name": "Exalted Minotaur",
-        "mobLevel": 210,
-        "coins": 2000,
-        "xp": 15,
-        "combatXp": 150,
         "drops": [
           {
             "id": "ANCIENT_CLAW",
@@ -12555,31 +12525,85 @@
           },
           {
             "id": "ENCHANTED_GOLD",
+            "chance": 0.5,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DAEDALUS_STICK",
+            "chance": 0.0004,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_MYTHOLOGICAL",
+            "chance": 0.000002,
+            "minAmount": 1,
+            "maxAmount": 1
+          }
+        ]
+      },
+      {
+        "name": "Exalted Minotaur",
+        "mobLevel": 120,
+        "coins": 500,
+        "xp": 8,
+        "combatXp": 60,
+        "drops": [
+          {
+            "id": "ANCIENT_CLAW",
             "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 2
+            "minAmount": 12,
+            "maxAmount": 12
           },
           {
-            "id": "DWARF_TURTLE_SHELMET",
-            "chance": 0.0025,
+            "id": "ENCHANTED_GOLD",
+            "chance": 0.5,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
-            "id": "ANTIQUE_REMEDIES",
-            "chance": 0.0025,
+            "id": "DAEDALUS_STICK",
+            "chance": 0.0006,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
-            "id": "CROCHET_TIGER_PLUSHIE",
-            "chance": 0.0025,
+            "id": "DYE_MYTHOLOGICAL",
+            "chance": 0.000002,
+            "minAmount": 1,
+            "maxAmount": 1
+          }
+        ]
+      },
+      {
+        "name": "Empyrean Minotaur",
+        "mobLevel": 210,
+        "coins": 2000,
+        "xp": 15,
+        "combatXp": 150,
+        "drops": [
+          {
+            "id": "ANCIENT_CLAW",
+            "chance": 1,
+            "minAmount": 14,
+            "maxAmount": 14
+          },
+          {
+            "id": "ENCHANTED_GOLD",
+            "chance": 0.5,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
             "id": "DAEDALUS_STICK",
             "chance": 0.0008,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_MYTHOLOGICAL",
+            "chance": 0.000002,
             "minAmount": 1,
             "maxAmount": 1
           }
