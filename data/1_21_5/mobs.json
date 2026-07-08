@@ -16312,7 +16312,106 @@
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjE1OTE4MzkzMSwKICAicHJvZmlsZUlkIiA6ICIxNzRjZmRiNGEzY2I0M2I1YmZjZGU0MjRjM2JiMmM2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXJhZWwxOCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iZWU0ZmNjNWFhYzI3YmRiYjBiZTIxMGRmMDhiMDViY2E1YWViYzg5YmYyODIxZjYwOGE1NWZkMmNmMDQzNGJlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
     "itemId": "minecraft:player_head",
     "name": "Lunar Moth",
-    "type": "Pest"
+    "type": "Pest",
+    "lootTables": [
+      {
+        "name": "Lunar Moth",
+        "mobLevel": 1,
+        "xp": 10,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
+          {
+            "id": "COMPOST",
+            "chance": 0.1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "HONEY_JAR",
+            "chance": 0.1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DUNG",
+            "chance": 0.1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "PLANT_MATTER",
+            "chance": 0.1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "CHEESE_FUEL",
+            "chance": 0.1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "JELLY",
+            "chance": 0.1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "ENCHANTED_SUNFLOWER",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 2
+          },
+          {
+            "id": "ENCHANTED_MOONFLOWER",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 2
+          },
+          {
+            "id": "ENCHANTED_WILD_ROSE",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 2
+          },
+          {
+            "type": "enchantment",
+            "id": "ULTIMATE_SUNSET",
+            "level": 1,
+            "chance": 0.35,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_DUNG",
+            "chance": 0.000002,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "PEST_LUCK",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Catch with §bLasso§7.",
+              "§7 §7- §7Kill Cricket§7, Fly§7, Beetle§7, Earthworm§7,",
+              "§7Locust§7, Slug§7, Mosquito§7, Moth§7, Rat§7, or",
+              "§7Mite §7while using §cSalts§7."
+            ]
+          }
+        ]
+      }
+    ]
   },
   "PEST_MITE_MONSTER": {
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY5Njg3MDQxOTcyNSwKICAicHJvZmlsZUlkIiA6ICJkYjYzNWE3MWI4N2U0MzQ5YThhYTgwOTMwOWFhODA3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbmdlbHMxNzQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmU2YmFmNjQzMWE5ZGFhMmNhNjA0ZDVhM2MyNmU5YTc2MWQ1OTUyZjA4MTcxNzRhNGZlMGI3NjQ2MTZlMjFmZiIKICAgIH0KICB9Cn0",
