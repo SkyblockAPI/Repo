@@ -41279,7 +41279,7 @@
     "type": "item",
     "id": "THEORETICAL_HOE_SUNFLOWER_1",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Eclipse_Hoe"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Eclipse_Sickle"
     }
   },
   {
@@ -41348,7 +41348,7 @@
     "type": "item",
     "id": "THEORETICAL_HOE_WILD_ROSE_1",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wild_Rose_Hoe"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wild_Rose_Cutter"
     }
   },
   {
@@ -48952,6 +48952,13 @@
   },
   {
     "type": "mob",
+    "id": "BRIGETTE_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Brigette"
+    }
+  },
+  {
+    "type": "mob",
     "id": "BROMM_NPC",
     "wiki": {
       "official": "https://wiki.hypixel.net/Bromm",
@@ -50978,6 +50985,13 @@
     "wiki": {
       "official": "https://wiki.hypixel.net/Jerry",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Candidate_Jerry"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "JIMMY_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Jimmy"
     }
   },
   {
@@ -53139,6 +53153,13 @@
   },
   {
     "type": "mob",
+    "id": "SECURITY_CLERK_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Security_Clerk"
+    }
+  },
+  {
+    "type": "mob",
     "id": "SEFFEA_NPC",
     "wiki": {
       "official": "https://wiki.hypixel.net/Seffea",
@@ -53620,6 +53641,13 @@
     "wiki": {
       "official": "https://wiki.hypixel.net/Super_Tank_Zombie",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Super_Tank_Zombie"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "SUSAN_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Susan"
     }
   },
   {

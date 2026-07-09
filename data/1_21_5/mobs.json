@@ -2618,6 +2618,18 @@
     "name": "Brian",
     "type": "NPC"
   },
+  "BRIGETTE_NPC": {
+    "island": "hub",
+    "position": {
+      "x": -18,
+      "y": 46,
+      "z": -119
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTRlNjBiNzE4MGU0NTE4OGMxM2UxZTUzZjgwOGZjYTY5ZTk1NjdjMjczNzk2MjAzYzE3MGI4ZmEyNjZhMTIwYiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI0ZTQ1NGMzOGFkNjMyMmJlYmUyMDRkNzc4MjFkOGJlZCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgzNTcxMDgxMDQxfQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Brigette",
+    "type": "NPC"
+  },
   "BROMM_NPC": {
     "island": "crimson_isle",
     "position": {
@@ -9959,6 +9971,18 @@
     "itemId": "minecraft:player_head",
     "name": "Jerry",
     "type": "Mayor"
+  },
+  "JIMMY_NPC": {
+    "island": "hub",
+    "position": {
+      "x": -17,
+      "y": 45,
+      "z": -97
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzFmNDc3ZWIxYTdiZWVlNjMxYzJjYTY0ZDA2ZjhmNjhmYTkzYTMzODZkMDQ0NTJhYjI3ZjQzYWNkZjFiNjBjYiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIzZjA5NDMwMjRiMjAzM2Y0YjdiM2FlY2M5MGJmOWUzNyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgzNTcxNDQ4NDA1fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Jimmy",
+    "type": "NPC"
   },
   "JIM_BOB_NPC": {
     "island": "hub",
@@ -20601,6 +20625,18 @@
       }
     ]
   },
+  "SECURITY_CLERK_NPC": {
+    "island": "hub",
+    "position": {
+      "x": -23,
+      "y": 46,
+      "z": -120
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjIzM2M2YTBkMGIwNTdmOTc1MmNlM2FkZWIyMjY5YWRjMzY4NmYzMzMyYjBjNTQ2ZWQ3ZTgwOTcwZGNiYzkwYiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI5NWIxMDY0NzY5NDAyZTViYmVlNmNkMTE5MjE5NThkZCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgzNTcxMDgzMzEyfQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Security Clerk",
+    "type": "NPC"
+  },
   "SEFFEA_NPC": {
     "island": "crimson_isle",
     "position": {
@@ -22958,6 +22994,18 @@
         ]
       }
     ]
+  },
+  "SUSAN_NPC": {
+    "island": "hub",
+    "position": {
+      "x": -2,
+      "y": 79,
+      "z": 25
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWY1MDdiMDc4Mjc0Y2UxNDc1NjVmYmYxNjZiODgyZWI0M2FkNmE0ZDkzYWUxNjAxOGFkOWIwMGEyZWE0YTA4ZiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJlYjVhZDNkZDViZmYyMjM0YjEyNTAyODZiMzNlODdiZSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgzNTcxMDQ0NzcwfQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Susan",
+    "type": "NPC"
   },
   "SUUS_NPC": {
     "island": "crimson_isle",

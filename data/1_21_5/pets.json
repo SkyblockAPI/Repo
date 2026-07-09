@@ -5019,8 +5019,9 @@
           "§7Magic Find: §b+{MAGIC_FIND}",
           "",
           "§6Gold's Power",
-          "§7Adds §c+{0}❁ Strength §7to all §6golden",
-          "§7weapons.",
+          "§7Increase the potency of §6Midas'",
+          "§6Sword§7 and §6Midas Staff's §5Greed Ability",
+          "§7by §a{0}%§7.",
           "",
           "§6Shining Scales",
           "§7Grants §c+11.1❁ Strength §7and §b+2.2✯",
@@ -5046,8 +5047,8 @@
         ],
         "variables": {
           "0": [
-            50,
-            100
+            5.05,
+            10
           ],
           "1": [
             0.25,
@@ -11058,7 +11059,7 @@
           "§7Grants §3+{1}☯ Mining Wisdom§7.",
           "",
           "§6Dexterity",
-          "§7Grants §6+{2}⸕ Mining Speed §7and",
+          "§7Grants §6+{2} Mining Speed §7and",
           "§7permanent §eHaste {3}§7.",
           "",
           "§6§lLEGENDARY"
