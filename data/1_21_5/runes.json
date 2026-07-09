@@ -1009,6 +1009,26 @@
       ]
     }
   ],
+  "HARMONY": [
+    {
+      "tier": 3,
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MTE4MDkzMDAyMiwKICAicHJvZmlsZUlkIiA6ICI0ZWEwN2YwODlmN2U0MWZhYmMwNjRhMjZlNWM1OWU2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhMiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZjFlMjMyNjVhNzlkZjRlZjRmZGE1OTc4MzY2NWEzNDFkOWQxMzI2MmI3NDBhYWUzYjg5Y2Y3YjUwNDU4OTY1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "§d◆ Harmony Rune III",
+      "lore": [
+        "§8Requires level 0",
+        "§8Chestplates",
+        "",
+        "§7Less controversial than §5Stereo",
+        "§5Pants§7.",
+        "",
+        "§7Apply this rune to chestplates or",
+        "§7fuse two together at the Runic",
+        "§7Pedestal!",
+        "",
+        "§6§lLEGENDARY COSMETIC"
+      ]
+    }
+  ],
   "HEARTSPLOSION": [
     {
       "tier": 3,
