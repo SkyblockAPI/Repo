@@ -55132,6 +55132,14 @@
   },
   {
     "type": "rune",
+    "id": "HARMONY",
+    "tier": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Harmony_Rune"
+    }
+  },
+  {
+    "type": "rune",
     "id": "HEARTSPLOSION",
     "tier": 3,
     "wiki": {
