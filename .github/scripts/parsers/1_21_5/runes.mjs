@@ -7,7 +7,7 @@ export const runeIds = []
 
 export const Runes = {
     /** @param item {Item} */
-    parseRune: (item) => {
+    parseRune: async (item) => {
         if (item.itemid !== "minecraft:skull") throw new Error(`Unknown rune: ${item.itemid}:${item.damage}`)
 
         const runes = item.nbt.ExtraAttributes.runes;
@@ -26,7 +26,7 @@ export const Runes = {
         })
         runesFile[rune] = runeInfo;
 
-        const overlayProps = getOverlay(item);
+        const overlayProps = await getOverlay(item);
         if (overlayProps) {
             runeOverlaysFile.push({
                 type: "rune",

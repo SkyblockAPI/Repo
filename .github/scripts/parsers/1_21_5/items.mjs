@@ -34,7 +34,7 @@ export const getItemId = (id, damage) => {
 
 export const Items = {
     /** @param item {Item} */
-    parseItem: (item) => {
+    parseItem: async (item) => {
         if (specialItems.items.includes(item.internalname)) return;
 
         const isUnbreakable = item.nbt?.Unbreakable === 1;
@@ -85,12 +85,12 @@ export const Items = {
             }
         });
 
-        const overlayProps = getOverlay(item);
+        const overlayProps = await getOverlay(item);
         if (overlayProps) {
             itemOverlaysFile.push({
                 type: "item",
                 id: item.nbt.ExtraAttributes.id,
-                ...getOverlay(item),
+                ...overlayProps,
             });
         }
     },
