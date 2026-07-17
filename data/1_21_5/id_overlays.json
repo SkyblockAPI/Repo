@@ -17434,6 +17434,13 @@
   },
   {
     "type": "item",
+    "id": "GORF_THE_FISH",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/HsiF_ehT_gorF"
+    }
+  },
+  {
+    "type": "item",
     "id": "GRANDFATHER_CLOCK",
     "wiki": {
       "official": "https://wiki.hypixel.net/Grandfather_Clock",
@@ -23575,6 +23582,14 @@
   },
   {
     "type": "item",
+    "id": "MAXOR_ENERGY_CRYSTAL",
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Energy_Crystal",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Energy_Crystal"
+    }
+  },
+  {
+    "type": "item",
     "id": "MAXOR_THE_FISH",
     "wiki": {
       "official": "https://wiki.hypixel.net/Maxor_The_Fish",
@@ -29535,6 +29550,13 @@
     "wiki": {
       "official": "https://wiki.hypixel.net/Crystal_Mithril_Golem_Skin",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Crystal_Mithril_Golem_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PET_SKIN_MITHRIL_GOLEM_GEODE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Geode_Mithril_Golem_Skin"
     }
   },
   {
