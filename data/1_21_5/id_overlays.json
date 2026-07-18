@@ -4777,6 +4777,69 @@
   },
   {
     "type": "item",
+    "id": "CAKE_HAT_2026_AQUA",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/7th_Anniversary_Cake_Hat"
+    }
+  },
+  {
+    "type": "item",
+    "id": "CAKE_HAT_2026_BLACK",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/7th_Anniversary_Cake_Hat"
+    }
+  },
+  {
+    "type": "item",
+    "id": "CAKE_HAT_2026_GREEN",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/7th_Anniversary_Cake_Hat"
+    }
+  },
+  {
+    "type": "item",
+    "id": "CAKE_HAT_2026_LIME",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/7th_Anniversary_Cake_Hat"
+    }
+  },
+  {
+    "type": "item",
+    "id": "CAKE_HAT_2026_ORANGE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/7th_Anniversary_Cake_Hat"
+    }
+  },
+  {
+    "type": "item",
+    "id": "CAKE_HAT_2026_PINK",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/7th_Anniversary_Cake_Hat"
+    }
+  },
+  {
+    "type": "item",
+    "id": "CAKE_HAT_2026_PURPLE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/7th_Anniversary_Cake_Hat"
+    }
+  },
+  {
+    "type": "item",
+    "id": "CAKE_HAT_2026_RED",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/7th_Anniversary_Cake_Hat"
+    }
+  },
+  {
+    "type": "item",
+    "id": "CAKE_HAT_2026_YELLOW",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/7th_Anniversary_Cake_Hat"
+    }
+  },
+  {
+    "type": "item",
     "id": "CAKE_SOUL",
     "wiki": {
       "official": "https://wiki.hypixel.net/Cake_Soul",
@@ -23616,7 +23679,8 @@
     "type": "item",
     "id": "MEDIOCRE_FISH_DRAWING",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mediocre_Drawing__A_Fish"
+      "official": "https://wiki.hypixel.net/Mediocre_Drawing_Of_A_Fish",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mediocre_Drawing_of_a_Fish"
     }
   },
   {
@@ -25054,6 +25118,14 @@
     "wiki": {
       "official": "https://wiki.hypixel.net/Mushroom_Chestplate",
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Mushroom_Chestplate"
+    }
+  },
+  {
+    "type": "item",
+    "id": "MUSHROOM_COLLECTION",
+    "wiki": {
+      "official": "https://wiki.hypixel.net/Mushroom",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mushroom"
     }
   },
   {
@@ -34130,7 +34202,8 @@
     "type": "item",
     "id": "RIFT_COMPLETION_MEMENTO",
     "wiki": {
-      "official": "https://wiki.hypixel.net/There_And_Back_Again"
+      "official": "https://wiki.hypixel.net/There_And_Back_Again",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/There_and_Back_Again"
     }
   },
   {
@@ -38499,7 +38572,8 @@
     "type": "item",
     "id": "SPLENDID_FISH_DRAWING",
     "wiki": {
-      "official": "https://wiki.hypixel.net/Splendid_Drawing_Of_A_Fish"
+      "official": "https://wiki.hypixel.net/Splendid_Drawing_Of_A_Fish",
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Splendid_Drawing_of_a_Fish"
     }
   },
   {

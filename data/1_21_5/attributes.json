@@ -1871,7 +1871,7 @@
   {
     "id": "HUNTER",
     "lore": [
-      "§7Grants §3+0.5 α Sea Creature Chance§7.",
+      "§7Grants §3+0.5  Sea Creature Chance§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -2362,7 +2362,7 @@
   {
     "id": "LOTUS_TROPHY",
     "lore": [
-      "§7Grants §6+1 ♔ Trophy Chance§7 while in",
+      "§7Grants §6+1  Trophy Chance§7 while in",
       "§7the §3Lotus Atoll§7.",
       "",
       "§7You can Syphon this shard from",
@@ -3032,7 +3032,7 @@
   {
     "id": "ROTTEN_PICKAXE",
     "lore": [
-      "§7Grants §6+3 ⸕ Mining Speed§7.",
+      "§7Grants §6+3  Mining Speed§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -3390,7 +3390,7 @@
   {
     "id": "TROPHY_HUNTER",
     "lore": [
-      "§7Grants §6+2 ♔ Trophy Chance§7.",
+      "§7Grants §6+2  Trophy Chance§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
