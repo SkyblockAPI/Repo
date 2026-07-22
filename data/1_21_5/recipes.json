@@ -70229,6 +70229,30 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "SALTED_SUNFLOWER_SEEDS",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "SALTY_NOZZLE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "STEP-1",
         "count": 1
       }

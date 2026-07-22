@@ -1835,6 +1835,13 @@
   },
   {
     "type": "item",
+    "id": "BASIC_SHEEP_AXE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Basic_Sheep_Axe"
+    }
+  },
+  {
+    "type": "item",
     "id": "BASKETBALL_PERSONALITY",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Basketball_Minion_Skin"
@@ -3006,6 +3013,13 @@
     "id": "BLOOD_STAINED_COINS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Blood-Stained_Coins"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BLOOMING_THORNS",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blooming_Thorns"
     }
   },
   {
@@ -14206,6 +14220,13 @@
   },
   {
     "type": "item",
+    "id": "GIANT_HONEY_DIPPER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Giant_Honey_Dipper"
+    }
+  },
+  {
+    "type": "item",
     "id": "GIANT_PIG_EAR",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Giant_Pig%27s_Ear"
@@ -18436,6 +18457,20 @@
   },
   {
     "type": "item",
+    "id": "JUICY_NOZZLE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Juicy_Nozzle"
+    }
+  },
+  {
+    "type": "item",
+    "id": "JUICY_SPRAYONATOR",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Juicy_Sprayonator"
+    }
+  },
+  {
+    "type": "item",
     "id": "JUJU_SHORTBOW",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Juju_Shortbow"
@@ -19344,6 +19379,13 @@
   },
   {
     "type": "item",
+    "id": "LARGE_HONEY_DIPPER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Large_Honey_Dipper"
+    }
+  },
+  {
+    "type": "item",
     "id": "LARGE_HUSBANDRY_SACK",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Large_Husbandry_Sack"
@@ -20248,6 +20290,13 @@
   },
   {
     "type": "item",
+    "id": "MAGIC_FOR_PETS",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magic_For_Pets_In_A_Hurry"
+    }
+  },
+  {
+    "type": "item",
     "id": "MAGIC_JELLYBEAN",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Magic_Jellybean"
@@ -20887,6 +20936,13 @@
     "id": "MEDIUM_GEMSTONE_SACK",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Medium_Gemstone_Sack"
+    }
+  },
+  {
+    "type": "item",
+    "id": "MEDIUM_HONEY_DIPPER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Medium_Honey_Dipper"
     }
   },
   {
@@ -30299,6 +30355,13 @@
   },
   {
     "type": "item",
+    "id": "ROOKIE_FARMING_AXE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rookie_Farming_Axe"
+    }
+  },
+  {
+    "type": "item",
     "id": "ROOKIE_HOE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Rookie_Hoe"
@@ -30718,6 +30781,13 @@
     "id": "SALTED_SUNFLOWER_SEEDS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Salted_Sunflower_Seeds"
+    }
+  },
+  {
+    "type": "item",
+    "id": "SALTY_SPRAYONATOR",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Salty_Sprayonator"
     }
   },
   {
@@ -32682,6 +32752,13 @@
     "id": "SMALL_GEMSTONE_SACK",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Small_Gemstone_Sack"
+    }
+  },
+  {
+    "type": "item",
+    "id": "SMALL_HONEY_DIPPER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Small_Honey_Dipper"
     }
   },
   {
@@ -35666,6 +35743,13 @@
     "id": "SUPER_HEAVY_LEGGINGS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Super_Heavy_Leggings"
+    }
+  },
+  {
+    "type": "item",
+    "id": "SUPER_JACOB_SYSTEM",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Super_Jacob_Entertainment_System"
     }
   },
   {
@@ -41599,6 +41683,46 @@
   },
   {
     "type": "pet",
+    "id": "ORCHID_MANTIS",
+    "tier": "COMMON",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Orchid_Mantis_Pet"
+    }
+  },
+  {
+    "type": "pet",
+    "id": "ORCHID_MANTIS",
+    "tier": "UNCOMMON",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Orchid_Mantis_Pet"
+    }
+  },
+  {
+    "type": "pet",
+    "id": "ORCHID_MANTIS",
+    "tier": "RARE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Orchid_Mantis_Pet"
+    }
+  },
+  {
+    "type": "pet",
+    "id": "ORCHID_MANTIS",
+    "tier": "EPIC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Orchid_Mantis_Pet"
+    }
+  },
+  {
+    "type": "pet",
+    "id": "ORCHID_MANTIS",
+    "tier": "LEGENDARY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Orchid_Mantis_Pet"
+    }
+  },
+  {
+    "type": "pet",
     "id": "OWL",
     "tier": "LEGENDARY",
     "wiki": {
@@ -44836,6 +44960,13 @@
     "id": "HUNTER_AVA_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Hunter_Ava"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "HUSBANDRY_MERCHANT_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Husbandry_Merchant"
     }
   },
   {
