@@ -43993,6 +43993,13 @@
   },
   {
     "type": "mob",
+    "id": "ENCHANTMENT_NERD_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Enchantment_Nerd"
+    }
+  },
+  {
+    "type": "mob",
     "id": "ENDERMAN_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Enderman"
