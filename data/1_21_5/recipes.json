@@ -279,7 +279,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-4",
+        "id": "WOOD:4",
         "count": 1
       }
     ],
@@ -303,7 +303,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-4",
+        "id": "WOOD:4",
         "count": 1
       },
       {
@@ -335,7 +335,7 @@
         "count": 1
       },
       {
-        "id": "WOOD-4",
+        "id": "WOOD:4",
         "count": 1
       }
     ],
@@ -667,7 +667,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-4",
+        "id": "WOOD:4",
         "count": 1
       }
     ],
@@ -2983,7 +2983,7 @@
       }
     ],
     "result": {
-      "id": "SAND-1",
+      "id": "SAND:1",
       "count": 1
     }
   },
@@ -4280,7 +4280,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-14",
+        "id": "WOOL:14",
         "count": 1
       },
       {
@@ -4300,7 +4300,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-1",
+      "id": "BANNER:1",
       "count": 1
     }
   },
@@ -4308,7 +4308,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-5",
+        "id": "WOOL:5",
         "count": 1
       },
       {
@@ -4328,7 +4328,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-10",
+      "id": "BANNER:10",
       "count": 1
     }
   },
@@ -4336,7 +4336,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-4",
+        "id": "WOOL:4",
         "count": 1
       },
       {
@@ -4356,7 +4356,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-11",
+      "id": "BANNER:11",
       "count": 1
     }
   },
@@ -4364,7 +4364,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-3",
+        "id": "WOOL:3",
         "count": 1
       },
       {
@@ -4384,7 +4384,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-12",
+      "id": "BANNER:12",
       "count": 1
     }
   },
@@ -4392,7 +4392,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-2",
+        "id": "WOOL:2",
         "count": 1
       },
       {
@@ -4412,7 +4412,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-13",
+      "id": "BANNER:13",
       "count": 1
     }
   },
@@ -4420,7 +4420,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-1",
+        "id": "WOOL:1",
         "count": 1
       },
       {
@@ -4440,7 +4440,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-14",
+      "id": "BANNER:14",
       "count": 1
     }
   },
@@ -4468,7 +4468,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-15",
+      "id": "BANNER:15",
       "count": 1
     }
   },
@@ -4476,7 +4476,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-13",
+        "id": "WOOL:13",
         "count": 1
       },
       {
@@ -4496,7 +4496,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-2",
+      "id": "BANNER:2",
       "count": 1
     }
   },
@@ -4504,7 +4504,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-12",
+        "id": "WOOL:12",
         "count": 1
       },
       {
@@ -4524,7 +4524,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-3",
+      "id": "BANNER:3",
       "count": 1
     }
   },
@@ -4532,7 +4532,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-11",
+        "id": "WOOL:11",
         "count": 1
       },
       {
@@ -4552,7 +4552,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-4",
+      "id": "BANNER:4",
       "count": 1
     }
   },
@@ -4560,7 +4560,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-10",
+        "id": "WOOL:10",
         "count": 1
       },
       {
@@ -4580,7 +4580,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-5",
+      "id": "BANNER:5",
       "count": 1
     }
   },
@@ -4588,7 +4588,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-9",
+        "id": "WOOL:9",
         "count": 1
       },
       {
@@ -4608,7 +4608,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-6",
+      "id": "BANNER:6",
       "count": 1
     }
   },
@@ -4616,7 +4616,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-8",
+        "id": "WOOL:8",
         "count": 1
       },
       {
@@ -4636,7 +4636,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-7",
+      "id": "BANNER:7",
       "count": 1
     }
   },
@@ -4644,7 +4644,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-7",
+        "id": "WOOL:7",
         "count": 1
       },
       {
@@ -4664,7 +4664,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-8",
+      "id": "BANNER:8",
       "count": 1
     }
   },
@@ -4672,7 +4672,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-6",
+        "id": "WOOL:6",
         "count": 1
       },
       {
@@ -4692,7 +4692,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-9",
+      "id": "BANNER:9",
       "count": 1
     }
   },
@@ -4700,7 +4700,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-15",
+        "id": "WOOL:15",
         "count": 1
       },
       {
@@ -6179,7 +6179,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RAW_FISH-3",
+        "id": "RAW_FISH:3",
         "count": 1
       },
       {
@@ -6207,7 +6207,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 1
       },
       {
@@ -6736,7 +6736,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-2",
+        "id": "WOOD:2",
         "count": 1
       }
     ],
@@ -6760,7 +6760,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-2",
+        "id": "WOOD:2",
         "count": 1
       },
       {
@@ -6792,7 +6792,7 @@
         "count": 1
       },
       {
-        "id": "WOOD-2",
+        "id": "WOOD:2",
         "count": 1
       }
     ],
@@ -6816,7 +6816,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LEAVES-2",
+        "id": "LEAVES:2",
         "count": 64
       },
       {
@@ -6844,7 +6844,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 10
       },
       {
@@ -6928,7 +6928,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 20
       },
       {
@@ -6956,7 +6956,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 40
       },
       {
@@ -6984,7 +6984,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 64
       },
       {
@@ -7152,7 +7152,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-2",
+        "id": "WOOD:2",
         "count": 1
       }
     ],
@@ -8863,7 +8863,7 @@
         "count": 1
       },
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 64
       }
     ],
@@ -10480,7 +10480,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-1",
+        "id": "WOOL:1",
         "count": 1
       }
     ],
@@ -10496,7 +10496,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-1",
+      "id": "CARPET:1",
       "count": 3
     }
   },
@@ -10504,7 +10504,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-10",
+        "id": "WOOL:10",
         "count": 1
       }
     ],
@@ -10520,7 +10520,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-10",
+      "id": "CARPET:10",
       "count": 3
     }
   },
@@ -10528,7 +10528,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-11",
+        "id": "WOOL:11",
         "count": 1
       }
     ],
@@ -10544,7 +10544,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-11",
+      "id": "CARPET:11",
       "count": 3
     }
   },
@@ -10552,7 +10552,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-12",
+        "id": "WOOL:12",
         "count": 1
       }
     ],
@@ -10568,7 +10568,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-12",
+      "id": "CARPET:12",
       "count": 3
     }
   },
@@ -10576,7 +10576,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-13",
+        "id": "WOOL:13",
         "count": 1
       }
     ],
@@ -10592,7 +10592,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-13",
+      "id": "CARPET:13",
       "count": 3
     }
   },
@@ -10600,7 +10600,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-14",
+        "id": "WOOL:14",
         "count": 1
       }
     ],
@@ -10616,7 +10616,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-14",
+      "id": "CARPET:14",
       "count": 3
     }
   },
@@ -10624,7 +10624,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-15",
+        "id": "WOOL:15",
         "count": 1
       }
     ],
@@ -10640,7 +10640,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-15",
+      "id": "CARPET:15",
       "count": 3
     }
   },
@@ -10648,7 +10648,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-2",
+        "id": "WOOL:2",
         "count": 1
       }
     ],
@@ -10664,7 +10664,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-2",
+      "id": "CARPET:2",
       "count": 3
     }
   },
@@ -10672,7 +10672,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-3",
+        "id": "WOOL:3",
         "count": 1
       }
     ],
@@ -10688,7 +10688,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-3",
+      "id": "CARPET:3",
       "count": 3
     }
   },
@@ -10696,7 +10696,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-4",
+        "id": "WOOL:4",
         "count": 1
       }
     ],
@@ -10712,7 +10712,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-4",
+      "id": "CARPET:4",
       "count": 3
     }
   },
@@ -10720,7 +10720,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-5",
+        "id": "WOOL:5",
         "count": 1
       }
     ],
@@ -10736,7 +10736,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-5",
+      "id": "CARPET:5",
       "count": 3
     }
   },
@@ -10744,7 +10744,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-6",
+        "id": "WOOL:6",
         "count": 1
       }
     ],
@@ -10760,7 +10760,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-6",
+      "id": "CARPET:6",
       "count": 3
     }
   },
@@ -10768,7 +10768,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-7",
+        "id": "WOOL:7",
         "count": 1
       }
     ],
@@ -10784,7 +10784,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-7",
+      "id": "CARPET:7",
       "count": 3
     }
   },
@@ -10792,7 +10792,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-8",
+        "id": "WOOL:8",
         "count": 1
       }
     ],
@@ -10808,7 +10808,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-8",
+      "id": "CARPET:8",
       "count": 3
     }
   },
@@ -10816,7 +10816,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-9",
+        "id": "WOOL:9",
         "count": 1
       }
     ],
@@ -10832,7 +10832,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-9",
+      "id": "CARPET:9",
       "count": 3
     }
   },
@@ -13070,7 +13070,7 @@
         "count": 1
       },
       {
-        "id": "RAW_FISH-2",
+        "id": "RAW_FISH:2",
         "count": 32
       }
     ],
@@ -13094,7 +13094,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RAW_FISH-2",
+        "id": "RAW_FISH:2",
         "count": 1
       }
     ],
@@ -13822,7 +13822,7 @@
       -1
     ],
     "result": {
-      "id": "COBBLE_WALL-1",
+      "id": "COBBLE_WALL:1",
       "count": 6
     }
   },
@@ -13854,7 +13854,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-3",
+        "id": "INK_SACK:3",
         "count": 10
       },
       {
@@ -13938,7 +13938,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-3",
+        "id": "INK_SACK:3",
         "count": 20
       },
       {
@@ -13966,7 +13966,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-3",
+        "id": "INK_SACK:3",
         "count": 40
       },
       {
@@ -13994,7 +13994,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-3",
+        "id": "INK_SACK:3",
         "count": 64
       },
       {
@@ -14538,7 +14538,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-3",
+        "id": "INK_SACK:3",
         "count": 1
       }
     ],
@@ -16395,7 +16395,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-5",
+        "id": "WOOD:5",
         "count": 1
       }
     ],
@@ -16419,7 +16419,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-5",
+        "id": "WOOD:5",
         "count": 1
       },
       {
@@ -16451,7 +16451,7 @@
         "count": 1
       },
       {
-        "id": "WOOD-5",
+        "id": "WOOD:5",
         "count": 1
       }
     ],
@@ -16475,7 +16475,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 10
       },
       {
@@ -16559,7 +16559,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 20
       },
       {
@@ -16587,7 +16587,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 40
       },
       {
@@ -16615,7 +16615,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 64
       },
       {
@@ -16783,7 +16783,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-5",
+        "id": "WOOD:5",
         "count": 1
       }
     ],
@@ -18128,7 +18128,7 @@
       -1
     ],
     "result": {
-      "id": "DIRT-1",
+      "id": "DIRT:1",
       "count": 4
     }
   },
@@ -21235,7 +21235,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 32
       }
     ],
@@ -21451,7 +21451,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-2",
+        "id": "INK_SACK:2",
         "count": 32
       }
     ],
@@ -21639,7 +21639,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RAW_FISH-2",
+        "id": "RAW_FISH:2",
         "count": 32
       }
     ],
@@ -21759,7 +21759,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-3",
+        "id": "INK_SACK:3",
         "count": 32
       }
     ],
@@ -21951,7 +21951,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 32
       }
     ],
@@ -22887,7 +22887,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 32
       }
     ],
@@ -22911,7 +22911,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 32
       }
     ],
@@ -23563,7 +23563,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RAW_FISH-3",
+        "id": "RAW_FISH:3",
         "count": 32
       }
     ],
@@ -23803,7 +23803,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RAW_FISH-1",
+        "id": "RAW_FISH:1",
         "count": 32
       }
     ],
@@ -23951,7 +23951,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "SAND-1",
+        "id": "SAND:1",
         "count": 32
       }
     ],
@@ -24263,7 +24263,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 32
       }
     ],
@@ -26271,7 +26271,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 1
       },
       {
@@ -26548,7 +26548,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-3",
+        "id": "INK_SACK:3",
         "count": 16
       },
       {
@@ -29616,7 +29616,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RAW_FISH-1",
+        "id": "RAW_FISH:1",
         "count": 1
       },
       {
@@ -31077,7 +31077,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 16
       },
       {
@@ -31105,7 +31105,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 16
       },
       {
@@ -31133,7 +31133,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 16
       },
       {
@@ -31189,7 +31189,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 16
       },
       {
@@ -34025,7 +34025,7 @@
       0
     ],
     "result": {
-      "id": "GOLDEN_APPLE-1",
+      "id": "GOLDEN_APPLE:1",
       "count": 1
     }
   },
@@ -40786,7 +40786,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-1",
+      "id": "INK_SACK:1",
       "count": 1
     }
   },
@@ -40794,7 +40794,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "DOUBLE_PLANT-4",
+        "id": "DOUBLE_PLANT:4",
         "count": 1
       }
     ],
@@ -40810,7 +40810,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-1",
+      "id": "INK_SACK:1",
       "count": 2
     }
   },
@@ -40818,11 +40818,11 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-2",
+        "id": "INK_SACK:2",
         "count": 1
       },
       {
-        "id": "INK_SACK-15",
+        "id": "INK_SACK:15",
         "count": 1
       }
     ],
@@ -40838,7 +40838,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-10",
+      "id": "INK_SACK:10",
       "count": 2
     }
   },
@@ -40862,7 +40862,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-11",
+      "id": "INK_SACK:11",
       "count": 1
     }
   },
@@ -40886,7 +40886,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-11",
+      "id": "INK_SACK:11",
       "count": 2
     }
   },
@@ -40894,7 +40894,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RED_ROSE-1",
+        "id": "RED_ROSE:1",
         "count": 1
       }
     ],
@@ -40910,7 +40910,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-12",
+      "id": "INK_SACK:12",
       "count": 1
     }
   },
@@ -40918,11 +40918,11 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 1
       },
       {
-        "id": "INK_SACK-15",
+        "id": "INK_SACK:15",
         "count": 1
       }
     ],
@@ -40938,7 +40938,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-12",
+      "id": "INK_SACK:12",
       "count": 2
     }
   },
@@ -40946,7 +40946,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RED_ROSE-2",
+        "id": "RED_ROSE:2",
         "count": 1
       }
     ],
@@ -40962,7 +40962,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-13",
+      "id": "INK_SACK:13",
       "count": 1
     }
   },
@@ -40970,7 +40970,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "DOUBLE_PLANT-1",
+        "id": "DOUBLE_PLANT:1",
         "count": 1
       }
     ],
@@ -40986,7 +40986,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-13",
+      "id": "INK_SACK:13",
       "count": 2
     }
   },
@@ -40994,15 +40994,15 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-1",
+        "id": "INK_SACK:1",
         "count": 1
       },
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 1
       },
       {
-        "id": "INK_SACK-9",
+        "id": "INK_SACK:9",
         "count": 1
       }
     ],
@@ -41018,7 +41018,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-13",
+      "id": "INK_SACK:13",
       "count": 3
     }
   },
@@ -41026,15 +41026,15 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-1",
+        "id": "INK_SACK:1",
         "count": 1
       },
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 1
       },
       {
-        "id": "INK_SACK-15",
+        "id": "INK_SACK:15",
         "count": 1
       }
     ],
@@ -41050,7 +41050,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-13",
+      "id": "INK_SACK:13",
       "count": 4
     }
   },
@@ -41058,7 +41058,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RED_ROSE-5",
+        "id": "RED_ROSE:5",
         "count": 1
       }
     ],
@@ -41074,7 +41074,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-14",
+      "id": "INK_SACK:14",
       "count": 1
     }
   },
@@ -41082,11 +41082,11 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-1",
+        "id": "INK_SACK:1",
         "count": 1
       },
       {
-        "id": "INK_SACK-11",
+        "id": "INK_SACK:11",
         "count": 1
       }
     ],
@@ -41102,7 +41102,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-14",
+      "id": "INK_SACK:14",
       "count": 2
     }
   },
@@ -41126,7 +41126,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-15",
+      "id": "INK_SACK:15",
       "count": 1
     }
   },
@@ -41150,7 +41150,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-4",
+      "id": "INK_SACK:4",
       "count": 9
     }
   },
@@ -41158,11 +41158,11 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 1
       },
       {
-        "id": "INK_SACK-1",
+        "id": "INK_SACK:1",
         "count": 1
       }
     ],
@@ -41178,7 +41178,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-5",
+      "id": "INK_SACK:5",
       "count": 1
     }
   },
@@ -41186,11 +41186,11 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 1
       },
       {
-        "id": "INK_SACK-2",
+        "id": "INK_SACK:2",
         "count": 1
       }
     ],
@@ -41206,7 +41206,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-6",
+      "id": "INK_SACK:6",
       "count": 1
     }
   },
@@ -41214,7 +41214,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RED_ROSE-3",
+        "id": "RED_ROSE:3",
         "count": 1
       }
     ],
@@ -41230,7 +41230,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-7",
+      "id": "INK_SACK:7",
       "count": 1
     }
   },
@@ -41238,7 +41238,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RED_ROSE-6",
+        "id": "RED_ROSE:6",
         "count": 1
       }
     ],
@@ -41254,7 +41254,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-7",
+      "id": "INK_SACK:7",
       "count": 1
     }
   },
@@ -41262,7 +41262,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RED_ROSE-8",
+        "id": "RED_ROSE:8",
         "count": 1
       }
     ],
@@ -41278,7 +41278,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-7",
+      "id": "INK_SACK:7",
       "count": 1
     }
   },
@@ -41286,11 +41286,11 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-8",
+        "id": "INK_SACK:8",
         "count": 1
       },
       {
-        "id": "INK_SACK-15",
+        "id": "INK_SACK:15",
         "count": 1
       }
     ],
@@ -41306,7 +41306,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-7",
+      "id": "INK_SACK:7",
       "count": 2
     }
   },
@@ -41318,7 +41318,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-15",
+        "id": "INK_SACK:15",
         "count": 1
       }
     ],
@@ -41334,7 +41334,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-7",
+      "id": "INK_SACK:7",
       "count": 3
     }
   },
@@ -41346,7 +41346,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-15",
+        "id": "INK_SACK:15",
         "count": 1
       }
     ],
@@ -41362,7 +41362,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-8",
+      "id": "INK_SACK:8",
       "count": 2
     }
   },
@@ -41370,7 +41370,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RED_ROSE-7",
+        "id": "RED_ROSE:7",
         "count": 1
       }
     ],
@@ -41386,7 +41386,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-9",
+      "id": "INK_SACK:9",
       "count": 1
     }
   },
@@ -41394,7 +41394,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "DOUBLE_PLANT-5",
+        "id": "DOUBLE_PLANT:5",
         "count": 1
       }
     ],
@@ -41410,7 +41410,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-9",
+      "id": "INK_SACK:9",
       "count": 2
     }
   },
@@ -41418,11 +41418,11 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-1",
+        "id": "INK_SACK:1",
         "count": 1
       },
       {
-        "id": "INK_SACK-15",
+        "id": "INK_SACK:15",
         "count": 1
       }
     ],
@@ -41438,7 +41438,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-9",
+      "id": "INK_SACK:9",
       "count": 2
     }
   },
@@ -43228,7 +43228,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 32
       },
       {
@@ -43256,7 +43256,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LEAVES-3",
+        "id": "LEAVES:3",
         "count": 64
       },
       {
@@ -43284,7 +43284,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-3",
+        "id": "WOOD:3",
         "count": 1
       }
     ],
@@ -43308,7 +43308,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-3",
+        "id": "WOOD:3",
         "count": 1
       },
       {
@@ -43340,7 +43340,7 @@
         "count": 1
       },
       {
-        "id": "WOOD-3",
+        "id": "WOOD:3",
         "count": 1
       }
     ],
@@ -43364,7 +43364,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 10
       },
       {
@@ -43448,7 +43448,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 20
       },
       {
@@ -43476,7 +43476,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 40
       },
       {
@@ -43504,7 +43504,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 64
       },
       {
@@ -43672,7 +43672,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-3",
+        "id": "WOOD:3",
         "count": 1
       }
     ],
@@ -44488,7 +44488,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 1
       }
     ],
@@ -44512,7 +44512,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 32
       },
       {
@@ -44596,7 +44596,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 64
       },
       {
@@ -44820,7 +44820,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 64
       },
       {
@@ -46386,7 +46386,7 @@
         "count": 2
       },
       {
-        "id": "GOLDEN_APPLE-1",
+        "id": "GOLDEN_APPLE:1",
         "count": 2
       }
     ],
@@ -47633,7 +47633,7 @@
       }
     ],
     "result": {
-      "id": "LOG-2",
+      "id": "LOG:2",
       "count": 1
     }
   },
@@ -47648,7 +47648,7 @@
       }
     ],
     "result": {
-      "id": "LOG-1",
+      "id": "LOG:1",
       "count": 1
     }
   },
@@ -47663,7 +47663,7 @@
       }
     ],
     "result": {
-      "id": "LOG_2-1",
+      "id": "LOG_2:1",
       "count": 1
     }
   },
@@ -47693,7 +47693,7 @@
       }
     ],
     "result": {
-      "id": "LOG-3",
+      "id": "LOG:3",
       "count": 1
     }
   },
@@ -47738,7 +47738,7 @@
       }
     ],
     "result": {
-      "id": "DIRT-2",
+      "id": "DIRT:2",
       "count": 1
     }
   },
@@ -56930,7 +56930,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 32
       },
       {
@@ -56972,7 +56972,7 @@
     },
     "items": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 512
       }
     ],
@@ -64199,7 +64199,7 @@
       0
     ],
     "result": {
-      "id": "PRISMARINE-1",
+      "id": "PRISMARINE:1",
       "count": 1
     }
   },
@@ -64227,7 +64227,7 @@
       0
     ],
     "result": {
-      "id": "PRISMARINE-2",
+      "id": "PRISMARINE:2",
       "count": 1
     }
   },
@@ -64613,7 +64613,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RAW_FISH-3",
+        "id": "RAW_FISH:3",
         "count": 1
       }
     ],
@@ -65276,7 +65276,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STEP-7",
+        "id": "STEP:7",
         "count": 1
       }
     ],
@@ -65292,7 +65292,7 @@
       -1
     ],
     "result": {
-      "id": "QUARTZ_BLOCK-1",
+      "id": "QUARTZ_BLOCK:1",
       "count": 1
     }
   },
@@ -65316,7 +65316,7 @@
       -1
     ],
     "result": {
-      "id": "QUARTZ_BLOCK-2",
+      "id": "QUARTZ_BLOCK:2",
       "count": 2
     }
   },
@@ -67354,7 +67354,7 @@
       -1
     ],
     "result": {
-      "id": "RED_SANDSTONE-1",
+      "id": "RED_SANDSTONE:1",
       "count": 1
     }
   },
@@ -67378,7 +67378,7 @@
       -1
     ],
     "result": {
-      "id": "RED_SANDSTONE-2",
+      "id": "RED_SANDSTONE:2",
       "count": 4
     }
   },
@@ -67386,7 +67386,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "SAND-1",
+        "id": "SAND:1",
         "count": 1
       }
     ],
@@ -67434,7 +67434,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "SAND-1",
+        "id": "SAND:1",
         "count": 10
       },
       {
@@ -67518,7 +67518,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "SAND-1",
+        "id": "SAND:1",
         "count": 32
       },
       {
@@ -67546,7 +67546,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "SAND-1",
+        "id": "SAND:1",
         "count": 64
       },
       {
@@ -69426,7 +69426,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LEAVES_2-1",
+        "id": "LEAVES_2:1",
         "count": 64
       },
       {
@@ -69454,7 +69454,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 5
       },
       {
@@ -70157,7 +70157,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RAW_FISH-1",
+        "id": "RAW_FISH:1",
         "count": 1
       }
     ],
@@ -70253,7 +70253,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STEP-1",
+        "id": "STEP:1",
         "count": 1
       }
     ],
@@ -70269,7 +70269,7 @@
       -1
     ],
     "result": {
-      "id": "SANDSTONE-1",
+      "id": "SANDSTONE:1",
       "count": 1
     }
   },
@@ -70293,7 +70293,7 @@
       -1
     ],
     "result": {
-      "id": "SANDSTONE-2",
+      "id": "SANDSTONE:2",
       "count": 4
     }
   },
@@ -70831,7 +70831,7 @@
         "count": 16
       },
       {
-        "id": "GOLDEN_APPLE-1",
+        "id": "GOLDEN_APPLE:1",
         "count": 16
       }
     ],
@@ -71193,7 +71193,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 64
       },
       {
@@ -76112,7 +76112,7 @@
       -1
     ],
     "result": {
-      "id": "SMOOTH_BRICK-1",
+      "id": "SMOOTH_BRICK:1",
       "count": 1
     }
   },
@@ -76120,7 +76120,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STEP-5",
+        "id": "STEP:5",
         "count": 1
       }
     ],
@@ -76136,7 +76136,7 @@
       -1
     ],
     "result": {
-      "id": "SMOOTH_BRICK-3",
+      "id": "SMOOTH_BRICK:3",
       "count": 1
     }
   },
@@ -78212,7 +78212,7 @@
         "count": 1
       },
       {
-        "id": "RAW_FISH-3",
+        "id": "RAW_FISH:3",
         "count": 1
       }
     ],
@@ -78524,7 +78524,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-1",
+        "id": "WOOD:1",
         "count": 1
       }
     ],
@@ -78548,7 +78548,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-1",
+        "id": "WOOD:1",
         "count": 1
       },
       {
@@ -78580,7 +78580,7 @@
         "count": 1
       },
       {
-        "id": "WOOD-1",
+        "id": "WOOD:1",
         "count": 1
       }
     ],
@@ -78604,7 +78604,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 10
       },
       {
@@ -78688,7 +78688,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 20
       },
       {
@@ -78716,7 +78716,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 40
       },
       {
@@ -78744,7 +78744,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 64
       },
       {
@@ -78912,7 +78912,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-1",
+        "id": "WOOD:1",
         "count": 1
       }
     ],
@@ -79217,7 +79217,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-14",
+        "id": "INK_SACK:14",
         "count": 1
       }
     ],
@@ -79233,7 +79233,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-1",
+      "id": "STAINED_CLAY:1",
       "count": 8
     }
   },
@@ -79245,7 +79245,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-5",
+        "id": "INK_SACK:5",
         "count": 1
       }
     ],
@@ -79261,7 +79261,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-10",
+      "id": "STAINED_CLAY:10",
       "count": 8
     }
   },
@@ -79273,7 +79273,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 1
       }
     ],
@@ -79289,7 +79289,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-11",
+      "id": "STAINED_CLAY:11",
       "count": 8
     }
   },
@@ -79301,7 +79301,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-3",
+        "id": "INK_SACK:3",
         "count": 1
       }
     ],
@@ -79317,7 +79317,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-12",
+      "id": "STAINED_CLAY:12",
       "count": 8
     }
   },
@@ -79329,7 +79329,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-2",
+        "id": "INK_SACK:2",
         "count": 1
       }
     ],
@@ -79345,7 +79345,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-13",
+      "id": "STAINED_CLAY:13",
       "count": 8
     }
   },
@@ -79357,7 +79357,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-1",
+        "id": "INK_SACK:1",
         "count": 1
       }
     ],
@@ -79373,7 +79373,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-14",
+      "id": "STAINED_CLAY:14",
       "count": 8
     }
   },
@@ -79401,7 +79401,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-15",
+      "id": "STAINED_CLAY:15",
       "count": 8
     }
   },
@@ -79413,7 +79413,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-13",
+        "id": "INK_SACK:13",
         "count": 1
       }
     ],
@@ -79429,7 +79429,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-2",
+      "id": "STAINED_CLAY:2",
       "count": 8
     }
   },
@@ -79441,7 +79441,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-12",
+        "id": "INK_SACK:12",
         "count": 1
       }
     ],
@@ -79457,7 +79457,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-3",
+      "id": "STAINED_CLAY:3",
       "count": 8
     }
   },
@@ -79469,7 +79469,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-11",
+        "id": "INK_SACK:11",
         "count": 1
       }
     ],
@@ -79485,7 +79485,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-4",
+      "id": "STAINED_CLAY:4",
       "count": 8
     }
   },
@@ -79497,7 +79497,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-10",
+        "id": "INK_SACK:10",
         "count": 1
       }
     ],
@@ -79513,7 +79513,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-5",
+      "id": "STAINED_CLAY:5",
       "count": 8
     }
   },
@@ -79525,7 +79525,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-9",
+        "id": "INK_SACK:9",
         "count": 1
       }
     ],
@@ -79541,7 +79541,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-6",
+      "id": "STAINED_CLAY:6",
       "count": 8
     }
   },
@@ -79553,7 +79553,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-8",
+        "id": "INK_SACK:8",
         "count": 1
       }
     ],
@@ -79569,7 +79569,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-7",
+      "id": "STAINED_CLAY:7",
       "count": 8
     }
   },
@@ -79581,7 +79581,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-7",
+        "id": "INK_SACK:7",
         "count": 1
       }
     ],
@@ -79597,7 +79597,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-8",
+      "id": "STAINED_CLAY:8",
       "count": 8
     }
   },
@@ -79609,7 +79609,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-6",
+        "id": "INK_SACK:6",
         "count": 1
       }
     ],
@@ -79625,7 +79625,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-9",
+      "id": "STAINED_CLAY:9",
       "count": 8
     }
   },
@@ -79637,7 +79637,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-15",
+        "id": "INK_SACK:15",
         "count": 1
       }
     ],
@@ -79665,7 +79665,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-14",
+        "id": "INK_SACK:14",
         "count": 1
       }
     ],
@@ -79681,7 +79681,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-1",
+      "id": "STAINED_GLASS:1",
       "count": 8
     }
   },
@@ -79693,7 +79693,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-5",
+        "id": "INK_SACK:5",
         "count": 1
       }
     ],
@@ -79709,7 +79709,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-10",
+      "id": "STAINED_GLASS:10",
       "count": 8
     }
   },
@@ -79721,7 +79721,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 1
       }
     ],
@@ -79737,7 +79737,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-11",
+      "id": "STAINED_GLASS:11",
       "count": 8
     }
   },
@@ -79749,7 +79749,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-3",
+        "id": "INK_SACK:3",
         "count": 1
       }
     ],
@@ -79765,7 +79765,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-12",
+      "id": "STAINED_GLASS:12",
       "count": 8
     }
   },
@@ -79777,7 +79777,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-2",
+        "id": "INK_SACK:2",
         "count": 1
       }
     ],
@@ -79793,7 +79793,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-13",
+      "id": "STAINED_GLASS:13",
       "count": 8
     }
   },
@@ -79805,7 +79805,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-1",
+        "id": "INK_SACK:1",
         "count": 1
       }
     ],
@@ -79821,7 +79821,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-14",
+      "id": "STAINED_GLASS:14",
       "count": 8
     }
   },
@@ -79849,7 +79849,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-15",
+      "id": "STAINED_GLASS:15",
       "count": 8
     }
   },
@@ -79861,7 +79861,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-13",
+        "id": "INK_SACK:13",
         "count": 1
       }
     ],
@@ -79877,7 +79877,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-2",
+      "id": "STAINED_GLASS:2",
       "count": 8
     }
   },
@@ -79889,7 +79889,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-12",
+        "id": "INK_SACK:12",
         "count": 1
       }
     ],
@@ -79905,7 +79905,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-3",
+      "id": "STAINED_GLASS:3",
       "count": 8
     }
   },
@@ -79917,7 +79917,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-11",
+        "id": "INK_SACK:11",
         "count": 1
       }
     ],
@@ -79933,7 +79933,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-4",
+      "id": "STAINED_GLASS:4",
       "count": 8
     }
   },
@@ -79945,7 +79945,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-10",
+        "id": "INK_SACK:10",
         "count": 1
       }
     ],
@@ -79961,7 +79961,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-5",
+      "id": "STAINED_GLASS:5",
       "count": 8
     }
   },
@@ -79973,7 +79973,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-9",
+        "id": "INK_SACK:9",
         "count": 1
       }
     ],
@@ -79989,7 +79989,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-6",
+      "id": "STAINED_GLASS:6",
       "count": 8
     }
   },
@@ -80001,7 +80001,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-8",
+        "id": "INK_SACK:8",
         "count": 1
       }
     ],
@@ -80017,7 +80017,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-7",
+      "id": "STAINED_GLASS:7",
       "count": 8
     }
   },
@@ -80029,7 +80029,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-7",
+        "id": "INK_SACK:7",
         "count": 1
       }
     ],
@@ -80045,7 +80045,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-8",
+      "id": "STAINED_GLASS:8",
       "count": 8
     }
   },
@@ -80057,7 +80057,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-6",
+        "id": "INK_SACK:6",
         "count": 1
       }
     ],
@@ -80073,7 +80073,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-9",
+      "id": "STAINED_GLASS:9",
       "count": 8
     }
   },
@@ -80085,7 +80085,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-15",
+        "id": "INK_SACK:15",
         "count": 1
       }
     ],
@@ -80109,7 +80109,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-1",
+        "id": "STAINED_GLASS:1",
         "count": 1
       }
     ],
@@ -80125,7 +80125,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-1",
+      "id": "STAINED_GLASS_PANE:1",
       "count": 16
     }
   },
@@ -80133,7 +80133,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-10",
+        "id": "STAINED_GLASS:10",
         "count": 1
       }
     ],
@@ -80149,7 +80149,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-10",
+      "id": "STAINED_GLASS_PANE:10",
       "count": 16
     }
   },
@@ -80157,7 +80157,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-11",
+        "id": "STAINED_GLASS:11",
         "count": 1
       }
     ],
@@ -80173,7 +80173,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-11",
+      "id": "STAINED_GLASS_PANE:11",
       "count": 16
     }
   },
@@ -80181,7 +80181,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-12",
+        "id": "STAINED_GLASS:12",
         "count": 1
       }
     ],
@@ -80197,7 +80197,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-12",
+      "id": "STAINED_GLASS_PANE:12",
       "count": 16
     }
   },
@@ -80205,7 +80205,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-13",
+        "id": "STAINED_GLASS:13",
         "count": 1
       }
     ],
@@ -80221,7 +80221,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-13",
+      "id": "STAINED_GLASS_PANE:13",
       "count": 16
     }
   },
@@ -80229,7 +80229,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-14",
+        "id": "STAINED_GLASS:14",
         "count": 1
       }
     ],
@@ -80245,7 +80245,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-14",
+      "id": "STAINED_GLASS_PANE:14",
       "count": 16
     }
   },
@@ -80253,7 +80253,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-15",
+        "id": "STAINED_GLASS:15",
         "count": 1
       }
     ],
@@ -80269,7 +80269,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-15",
+      "id": "STAINED_GLASS_PANE:15",
       "count": 16
     }
   },
@@ -80277,7 +80277,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-2",
+        "id": "STAINED_GLASS:2",
         "count": 1
       }
     ],
@@ -80293,7 +80293,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-2",
+      "id": "STAINED_GLASS_PANE:2",
       "count": 16
     }
   },
@@ -80301,7 +80301,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-3",
+        "id": "STAINED_GLASS:3",
         "count": 1
       }
     ],
@@ -80317,7 +80317,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-3",
+      "id": "STAINED_GLASS_PANE:3",
       "count": 16
     }
   },
@@ -80325,7 +80325,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-4",
+        "id": "STAINED_GLASS:4",
         "count": 1
       }
     ],
@@ -80341,7 +80341,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-4",
+      "id": "STAINED_GLASS_PANE:4",
       "count": 16
     }
   },
@@ -80349,7 +80349,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-5",
+        "id": "STAINED_GLASS:5",
         "count": 1
       }
     ],
@@ -80365,7 +80365,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-5",
+      "id": "STAINED_GLASS_PANE:5",
       "count": 16
     }
   },
@@ -80373,7 +80373,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-6",
+        "id": "STAINED_GLASS:6",
         "count": 1
       }
     ],
@@ -80389,7 +80389,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-6",
+      "id": "STAINED_GLASS_PANE:6",
       "count": 16
     }
   },
@@ -80397,7 +80397,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-7",
+        "id": "STAINED_GLASS:7",
         "count": 1
       }
     ],
@@ -80413,7 +80413,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-7",
+      "id": "STAINED_GLASS_PANE:7",
       "count": 16
     }
   },
@@ -80421,7 +80421,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-8",
+        "id": "STAINED_GLASS:8",
         "count": 1
       }
     ],
@@ -80437,7 +80437,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-8",
+      "id": "STAINED_GLASS_PANE:8",
       "count": 16
     }
   },
@@ -80445,7 +80445,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-9",
+        "id": "STAINED_GLASS:9",
         "count": 1
       }
     ],
@@ -80461,7 +80461,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-9",
+      "id": "STAINED_GLASS_PANE:9",
       "count": 16
     }
   },
@@ -81442,7 +81442,7 @@
       -1
     ],
     "result": {
-      "id": "STEP-1",
+      "id": "STEP:1",
       "count": 6
     }
   },
@@ -81466,7 +81466,7 @@
       -1
     ],
     "result": {
-      "id": "STEP-3",
+      "id": "STEP:3",
       "count": 6
     }
   },
@@ -81490,7 +81490,7 @@
       -1
     ],
     "result": {
-      "id": "STEP-4",
+      "id": "STEP:4",
       "count": 6
     }
   },
@@ -81514,7 +81514,7 @@
       -1
     ],
     "result": {
-      "id": "STEP-5",
+      "id": "STEP:5",
       "count": 6
     }
   },
@@ -81538,7 +81538,7 @@
       -1
     ],
     "result": {
-      "id": "STEP-6",
+      "id": "STEP:6",
       "count": 6
     }
   },
@@ -81562,7 +81562,7 @@
       -1
     ],
     "result": {
-      "id": "STEP-7",
+      "id": "STEP:7",
       "count": 6
     }
   },
@@ -81650,7 +81650,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STONE-3",
+        "id": "STONE:3",
         "count": 1
       },
       {
@@ -81670,7 +81670,7 @@
       -1
     ],
     "result": {
-      "id": "STONE-1",
+      "id": "STONE:1",
       "count": 1
     }
   },
@@ -81678,7 +81678,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STONE-1",
+        "id": "STONE:1",
         "count": 1
       }
     ],
@@ -81694,7 +81694,7 @@
       -1
     ],
     "result": {
-      "id": "STONE-2",
+      "id": "STONE:2",
       "count": 4
     }
   },
@@ -81722,7 +81722,7 @@
       -1
     ],
     "result": {
-      "id": "STONE-3",
+      "id": "STONE:3",
       "count": 12
     }
   },
@@ -81730,7 +81730,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STONE-3",
+        "id": "STONE:3",
         "count": 1
       }
     ],
@@ -81746,7 +81746,7 @@
       -1
     ],
     "result": {
-      "id": "STONE-4",
+      "id": "STONE:4",
       "count": 4
     }
   },
@@ -81754,7 +81754,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STONE-3",
+        "id": "STONE:3",
         "count": 1
       },
       {
@@ -81774,7 +81774,7 @@
       -1
     ],
     "result": {
-      "id": "STONE-5",
+      "id": "STONE:5",
       "count": 2
     }
   },
@@ -81782,7 +81782,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STONE-5",
+        "id": "STONE:5",
         "count": 1
       }
     ],
@@ -81798,7 +81798,7 @@
       -1
     ],
     "result": {
-      "id": "STONE-6",
+      "id": "STONE:6",
       "count": 4
     }
   },
@@ -83703,7 +83703,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LEAVES-1",
+        "id": "LEAVES:1",
         "count": 64
       },
       {
@@ -90717,7 +90717,7 @@
         "count": 1
       },
       {
-        "id": "RAW_FISH-1",
+        "id": "RAW_FISH:1",
         "count": 1
       },
       {
@@ -91888,7 +91888,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 32
       },
       {
@@ -91930,7 +91930,7 @@
     },
     "items": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 512
       }
     ],
@@ -92042,7 +92042,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 1
       }
     ],
@@ -92058,7 +92058,7 @@
       -1
     ],
     "result": {
-      "id": "WOOD-1",
+      "id": "WOOD:1",
       "count": 4
     }
   },
@@ -92066,7 +92066,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 1
       }
     ],
@@ -92082,7 +92082,7 @@
       -1
     ],
     "result": {
-      "id": "WOOD-2",
+      "id": "WOOD:2",
       "count": 4
     }
   },
@@ -92090,7 +92090,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 1
       }
     ],
@@ -92106,7 +92106,7 @@
       -1
     ],
     "result": {
-      "id": "WOOD-3",
+      "id": "WOOD:3",
       "count": 4
     }
   },
@@ -92130,7 +92130,7 @@
       -1
     ],
     "result": {
-      "id": "WOOD-4",
+      "id": "WOOD:4",
       "count": 4
     }
   },
@@ -92138,7 +92138,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 1
       }
     ],
@@ -92154,7 +92154,7 @@
       -1
     ],
     "result": {
-      "id": "WOOD-5",
+      "id": "WOOD:5",
       "count": 4
     }
   },
@@ -92422,7 +92422,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-1",
+        "id": "WOOD:1",
         "count": 1
       }
     ],
@@ -92438,7 +92438,7 @@
       -1
     ],
     "result": {
-      "id": "WOOD_STEP-1",
+      "id": "WOOD_STEP:1",
       "count": 6
     }
   },
@@ -92446,7 +92446,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-2",
+        "id": "WOOD:2",
         "count": 1
       }
     ],
@@ -92462,7 +92462,7 @@
       -1
     ],
     "result": {
-      "id": "WOOD_STEP-2",
+      "id": "WOOD_STEP:2",
       "count": 6
     }
   },
@@ -92470,7 +92470,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-3",
+        "id": "WOOD:3",
         "count": 1
       }
     ],
@@ -92486,7 +92486,7 @@
       -1
     ],
     "result": {
-      "id": "WOOD_STEP-3",
+      "id": "WOOD_STEP:3",
       "count": 6
     }
   },
@@ -92494,7 +92494,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-4",
+        "id": "WOOD:4",
         "count": 1
       }
     ],
@@ -92510,7 +92510,7 @@
       -1
     ],
     "result": {
-      "id": "WOOD_STEP-4",
+      "id": "WOOD_STEP:4",
       "count": 6
     }
   },
@@ -92518,7 +92518,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-5",
+        "id": "WOOD:5",
         "count": 1
       }
     ],
@@ -92534,7 +92534,7 @@
       -1
     ],
     "result": {
-      "id": "WOOD_STEP-5",
+      "id": "WOOD_STEP:5",
       "count": 6
     }
   },
@@ -92622,7 +92622,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-14",
+        "id": "INK_SACK:14",
         "count": 1
       },
       {
@@ -92642,7 +92642,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-1",
+      "id": "WOOL:1",
       "count": 1
     }
   },
@@ -92650,7 +92650,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-5",
+        "id": "INK_SACK:5",
         "count": 1
       },
       {
@@ -92670,7 +92670,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-10",
+      "id": "WOOL:10",
       "count": 1
     }
   },
@@ -92678,7 +92678,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 1
       },
       {
@@ -92698,7 +92698,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-11",
+      "id": "WOOL:11",
       "count": 1
     }
   },
@@ -92706,7 +92706,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-3",
+        "id": "INK_SACK:3",
         "count": 1
       },
       {
@@ -92726,7 +92726,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-12",
+      "id": "WOOL:12",
       "count": 1
     }
   },
@@ -92734,7 +92734,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-2",
+        "id": "INK_SACK:2",
         "count": 1
       },
       {
@@ -92754,7 +92754,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-13",
+      "id": "WOOL:13",
       "count": 1
     }
   },
@@ -92762,7 +92762,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-1",
+        "id": "INK_SACK:1",
         "count": 1
       },
       {
@@ -92782,7 +92782,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-14",
+      "id": "WOOL:14",
       "count": 1
     }
   },
@@ -92810,7 +92810,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-15",
+      "id": "WOOL:15",
       "count": 1
     }
   },
@@ -92818,7 +92818,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-13",
+        "id": "INK_SACK:13",
         "count": 1
       },
       {
@@ -92838,7 +92838,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-2",
+      "id": "WOOL:2",
       "count": 1
     }
   },
@@ -92846,7 +92846,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-12",
+        "id": "INK_SACK:12",
         "count": 1
       },
       {
@@ -92866,7 +92866,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-3",
+      "id": "WOOL:3",
       "count": 1
     }
   },
@@ -92874,7 +92874,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-11",
+        "id": "INK_SACK:11",
         "count": 1
       },
       {
@@ -92894,7 +92894,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-4",
+      "id": "WOOL:4",
       "count": 1
     }
   },
@@ -92902,7 +92902,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-10",
+        "id": "INK_SACK:10",
         "count": 1
       },
       {
@@ -92922,7 +92922,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-5",
+      "id": "WOOL:5",
       "count": 1
     }
   },
@@ -92930,7 +92930,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-9",
+        "id": "INK_SACK:9",
         "count": 1
       },
       {
@@ -92950,7 +92950,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-6",
+      "id": "WOOL:6",
       "count": 1
     }
   },
@@ -92958,7 +92958,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-8",
+        "id": "INK_SACK:8",
         "count": 1
       },
       {
@@ -92978,7 +92978,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-7",
+      "id": "WOOL:7",
       "count": 1
     }
   },
@@ -92986,7 +92986,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-7",
+        "id": "INK_SACK:7",
         "count": 1
       },
       {
@@ -93006,7 +93006,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-8",
+      "id": "WOOL:8",
       "count": 1
     }
   },
@@ -93014,7 +93014,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-6",
+        "id": "INK_SACK:6",
         "count": 1
       },
       {
@@ -93034,7 +93034,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-9",
+      "id": "WOOL:9",
       "count": 1
     }
   },
@@ -93042,7 +93042,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-15",
+        "id": "INK_SACK:15",
         "count": 1
       },
       {
@@ -93077,7 +93077,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-1",
+      "id": "STAINED_CLAY:1",
       "count": 1
     }
   },
@@ -93092,7 +93092,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-2",
+      "id": "STAINED_CLAY:2",
       "count": 1
     }
   },
@@ -93107,7 +93107,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-3",
+      "id": "STAINED_CLAY:3",
       "count": 1
     }
   },
@@ -93122,7 +93122,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-4",
+      "id": "STAINED_CLAY:4",
       "count": 1
     }
   },
@@ -93137,7 +93137,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-5",
+      "id": "STAINED_CLAY:5",
       "count": 1
     }
   },
@@ -93152,7 +93152,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-6",
+      "id": "STAINED_CLAY:6",
       "count": 1
     }
   },
@@ -93167,7 +93167,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-7",
+      "id": "STAINED_CLAY:7",
       "count": 1
     }
   },
@@ -93182,7 +93182,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-8",
+      "id": "STAINED_CLAY:8",
       "count": 1
     }
   },
@@ -93197,7 +93197,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-9",
+      "id": "STAINED_CLAY:9",
       "count": 1
     }
   },
@@ -93212,7 +93212,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-10",
+      "id": "STAINED_CLAY:10",
       "count": 1
     }
   },
@@ -93227,7 +93227,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-11",
+      "id": "STAINED_CLAY:11",
       "count": 1
     }
   },
@@ -93242,7 +93242,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-12",
+      "id": "STAINED_CLAY:12",
       "count": 1
     }
   },
@@ -93257,7 +93257,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-13",
+      "id": "STAINED_CLAY:13",
       "count": 1
     }
   },
@@ -93272,7 +93272,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-14",
+      "id": "STAINED_CLAY:14",
       "count": 1
     }
   },
@@ -93287,7 +93287,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-15",
+      "id": "STAINED_CLAY:15",
       "count": 1
     }
   },
@@ -93302,7 +93302,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-1",
+      "id": "STAINED_GLASS_PANE:1",
       "count": 1
     }
   },
@@ -93317,7 +93317,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-2",
+      "id": "STAINED_GLASS_PANE:2",
       "count": 1
     }
   },
@@ -93332,7 +93332,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-3",
+      "id": "STAINED_GLASS_PANE:3",
       "count": 1
     }
   },
@@ -93347,7 +93347,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-4",
+      "id": "STAINED_GLASS_PANE:4",
       "count": 1
     }
   },
@@ -93362,7 +93362,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-5",
+      "id": "STAINED_GLASS_PANE:5",
       "count": 1
     }
   },
@@ -93377,7 +93377,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-6",
+      "id": "STAINED_GLASS_PANE:6",
       "count": 1
     }
   },
@@ -93392,7 +93392,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-7",
+      "id": "STAINED_GLASS_PANE:7",
       "count": 1
     }
   },
@@ -93407,7 +93407,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-8",
+      "id": "STAINED_GLASS_PANE:8",
       "count": 1
     }
   },
@@ -93422,7 +93422,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-9",
+      "id": "STAINED_GLASS_PANE:9",
       "count": 1
     }
   },
@@ -93437,7 +93437,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-10",
+      "id": "STAINED_GLASS_PANE:10",
       "count": 1
     }
   },
@@ -93452,7 +93452,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-11",
+      "id": "STAINED_GLASS_PANE:11",
       "count": 1
     }
   },
@@ -93467,7 +93467,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-12",
+      "id": "STAINED_GLASS_PANE:12",
       "count": 1
     }
   },
@@ -93482,7 +93482,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-13",
+      "id": "STAINED_GLASS_PANE:13",
       "count": 1
     }
   },
@@ -93497,7 +93497,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-14",
+      "id": "STAINED_GLASS_PANE:14",
       "count": 1
     }
   },
@@ -93512,7 +93512,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-15",
+      "id": "STAINED_GLASS_PANE:15",
       "count": 1
     }
   },
@@ -93527,7 +93527,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-1",
+      "id": "STAINED_GLASS:1",
       "count": 1
     }
   },
@@ -93542,7 +93542,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-2",
+      "id": "STAINED_GLASS:2",
       "count": 1
     }
   },
@@ -93557,7 +93557,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-3",
+      "id": "STAINED_GLASS:3",
       "count": 1
     }
   },
@@ -93572,7 +93572,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-4",
+      "id": "STAINED_GLASS:4",
       "count": 1
     }
   },
@@ -93587,7 +93587,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-5",
+      "id": "STAINED_GLASS:5",
       "count": 1
     }
   },
@@ -93602,7 +93602,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-6",
+      "id": "STAINED_GLASS:6",
       "count": 1
     }
   },
@@ -93617,7 +93617,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-7",
+      "id": "STAINED_GLASS:7",
       "count": 1
     }
   },
@@ -93632,7 +93632,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-8",
+      "id": "STAINED_GLASS:8",
       "count": 1
     }
   },
@@ -93647,7 +93647,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-9",
+      "id": "STAINED_GLASS:9",
       "count": 1
     }
   },
@@ -93662,7 +93662,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-10",
+      "id": "STAINED_GLASS:10",
       "count": 1
     }
   },
@@ -93677,7 +93677,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-11",
+      "id": "STAINED_GLASS:11",
       "count": 1
     }
   },
@@ -93692,7 +93692,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-12",
+      "id": "STAINED_GLASS:12",
       "count": 1
     }
   },
@@ -93707,7 +93707,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-13",
+      "id": "STAINED_GLASS:13",
       "count": 1
     }
   },
@@ -93722,7 +93722,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-14",
+      "id": "STAINED_GLASS:14",
       "count": 1
     }
   },
@@ -93737,7 +93737,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-15",
+      "id": "STAINED_GLASS:15",
       "count": 1
     }
   },
@@ -93752,7 +93752,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-1",
+      "id": "CARPET:1",
       "count": 1
     }
   },
@@ -93767,7 +93767,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-2",
+      "id": "CARPET:2",
       "count": 1
     }
   },
@@ -93782,7 +93782,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-3",
+      "id": "CARPET:3",
       "count": 1
     }
   },
@@ -93797,7 +93797,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-4",
+      "id": "CARPET:4",
       "count": 1
     }
   },
@@ -93812,7 +93812,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-5",
+      "id": "CARPET:5",
       "count": 1
     }
   },
@@ -93827,7 +93827,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-6",
+      "id": "CARPET:6",
       "count": 1
     }
   },
@@ -93842,7 +93842,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-7",
+      "id": "CARPET:7",
       "count": 1
     }
   },
@@ -93857,7 +93857,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-8",
+      "id": "CARPET:8",
       "count": 1
     }
   },
@@ -93872,7 +93872,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-9",
+      "id": "CARPET:9",
       "count": 1
     }
   },
@@ -93887,7 +93887,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-10",
+      "id": "CARPET:10",
       "count": 1
     }
   },
@@ -93902,7 +93902,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-11",
+      "id": "CARPET:11",
       "count": 1
     }
   },
@@ -93917,7 +93917,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-12",
+      "id": "CARPET:12",
       "count": 1
     }
   },
@@ -93932,7 +93932,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-13",
+      "id": "CARPET:13",
       "count": 1
     }
   },
@@ -93947,7 +93947,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-14",
+      "id": "CARPET:14",
       "count": 1
     }
   },
@@ -93962,7 +93962,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-15",
+      "id": "CARPET:15",
       "count": 1
     }
   },
@@ -93977,7 +93977,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-1",
+      "id": "WOOL:1",
       "count": 1
     }
   },
@@ -93992,7 +93992,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-2",
+      "id": "WOOL:2",
       "count": 1
     }
   },
@@ -94007,7 +94007,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-3",
+      "id": "WOOL:3",
       "count": 1
     }
   },
@@ -94022,7 +94022,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-4",
+      "id": "WOOL:4",
       "count": 1
     }
   },
@@ -94037,7 +94037,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-5",
+      "id": "WOOL:5",
       "count": 1
     }
   },
@@ -94052,7 +94052,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-6",
+      "id": "WOOL:6",
       "count": 1
     }
   },
@@ -94067,7 +94067,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-7",
+      "id": "WOOL:7",
       "count": 1
     }
   },
@@ -94082,7 +94082,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-8",
+      "id": "WOOL:8",
       "count": 1
     }
   },
@@ -94097,7 +94097,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-9",
+      "id": "WOOL:9",
       "count": 1
     }
   },
@@ -94112,7 +94112,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-10",
+      "id": "WOOL:10",
       "count": 1
     }
   },
@@ -94127,7 +94127,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-11",
+      "id": "WOOL:11",
       "count": 1
     }
   },
@@ -94142,7 +94142,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-12",
+      "id": "WOOL:12",
       "count": 1
     }
   },
@@ -94157,7 +94157,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-13",
+      "id": "WOOL:13",
       "count": 1
     }
   },
@@ -94172,7 +94172,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-14",
+      "id": "WOOL:14",
       "count": 1
     }
   },
@@ -94187,7 +94187,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-15",
+      "id": "WOOL:15",
       "count": 1
     }
   },
