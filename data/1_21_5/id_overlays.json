@@ -1814,6 +1814,20 @@
   },
   {
     "type": "item",
+    "id": "BASIC_CHICKEN_AXE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Basic_Chicken_Axe"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BASIC_COW_AXE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Basic_Cow_Axe"
+    }
+  },
+  {
+    "type": "item",
     "id": "BASIC_FISHING_NET",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Basic_Fishing_Net"
@@ -1831,6 +1845,27 @@
     "id": "BASIC_GARDENING_HOE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Basic_Gardening_Hoe"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BASIC_MUSHROOM_COW_AXE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Basic_Mooshroom_Axe"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BASIC_PIG_AXE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Basic_Pig_Axe"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BASIC_RABBIT_AXE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Basic_Rabbit_Axe"
     }
   },
   {
@@ -2172,6 +2207,41 @@
     "id": "BEE_PERSONALITY",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Bee_Minion_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BEGINNER_AGRONOMY_SACK",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Beginner_Agronomy_Sack"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BEGINNER_COMBAT_SACK",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Beginner_Combat_Sack"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BEGINNER_FISHING_SACK",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Beginner_Fishing_Sack"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BEGINNER_FORAGING_SACK",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Beginner_Foraging_Sack"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BEGINNER_HUSBANDRY_SACK",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Beginner_Husbandry_Sack"
     }
   },
   {
@@ -30781,6 +30851,13 @@
     "id": "SALTED_SUNFLOWER_SEEDS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Salted_Sunflower_Seeds"
+    }
+  },
+  {
+    "type": "item",
+    "id": "SALTY_NOZZLE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Salty_Nozzle"
     }
   },
   {

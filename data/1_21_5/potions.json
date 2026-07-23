@@ -1189,8 +1189,8 @@
         "level": 1,
         "literal_level": "I",
         "lore": [
-          "§cHealing I",
-          "§7Instantly heals for §a+20§7.",
+          "§cHealing I §f(0:05)",
+          "§7Heals for §a+5 §7every second.",
           "",
           "§f§lCOMMON"
         ]
@@ -1199,8 +1199,8 @@
         "level": 2,
         "literal_level": "II",
         "lore": [
-          "§cHealing II",
-          "§7Instantly heals for §a+50§7.",
+          "§cHealing II §f(0:05)",
+          "§7Heals for §a+10 §7every second.",
           "",
           "§f§lCOMMON"
         ]
@@ -1209,8 +1209,8 @@
         "level": 3,
         "literal_level": "III",
         "lore": [
-          "§cHealing III",
-          "§7Instantly heals for §a+100§7.",
+          "§cHealing III §f(0:05)",
+          "§7Heals for §a+15 §7every second.",
           "",
           "§a§lUNCOMMON"
         ]
@@ -1219,8 +1219,8 @@
         "level": 4,
         "literal_level": "IV",
         "lore": [
-          "§cHealing IV",
-          "§7Instantly heals for §a+150§7.",
+          "§cHealing IV §f(0:05)",
+          "§7Heals for §a+20 §7every second.",
           "",
           "§a§lUNCOMMON"
         ]
@@ -1229,8 +1229,8 @@
         "level": 5,
         "literal_level": "V",
         "lore": [
-          "§cHealing V",
-          "§7Instantly heals for §a+200§7.",
+          "§cHealing V §f(0:05)",
+          "§7Heals for §a+25 §7every second.",
           "",
           "§9§lRARE"
         ]
@@ -1239,8 +1239,8 @@
         "level": 6,
         "literal_level": "VI",
         "lore": [
-          "§cHealing VI",
-          "§7Instantly heals for §a+300§7.",
+          "§cHealing VI §f(0:05)",
+          "§7Heals for §a+30 §7every second.",
           "",
           "§9§lRARE"
         ]
@@ -1249,8 +1249,8 @@
         "level": 7,
         "literal_level": "VII",
         "lore": [
-          "§cHealing VII",
-          "§7Instantly heals for §a+400§7.",
+          "§cHealing VII §f(0:05)",
+          "§7Heals for §a+35 §7every second.",
           "",
           "§5§lEPIC"
         ]
@@ -1259,8 +1259,8 @@
         "level": 8,
         "literal_level": "VIII",
         "lore": [
-          "§cHealing VIII",
-          "§7Instantly heals for §a+500§7.",
+          "§cHealing VIII §f(0:05)",
+          "§7Heals for §a+40 §7every second.",
           "",
           "§5§lEPIC"
         ]
@@ -1269,7 +1269,7 @@
     "type": "POTION",
     "internal_potion": "healing",
     "name": "Healing",
-    "vanilla_effect": "healing"
+    "vanilla_effect": "water"
   },
   "POTION_INVISIBILITY": {
     "levels": [
@@ -1782,7 +1782,7 @@
         "literal_level": "I",
         "lore": [
           "§4Regeneration I §f(0:45)",
-          "§7Grants §c+5 Health Regen§7.",
+          "§7Grants §c+2.5 Health Regen§7.",
           "",
           "§f§lCOMMON"
         ]
@@ -1792,7 +1792,7 @@
         "literal_level": "II",
         "lore": [
           "§4Regeneration II §f(0:45)",
-          "§7Grants §c+10 Health Regen§7.",
+          "§7Grants §c+5 Health Regen§7.",
           "",
           "§f§lCOMMON"
         ]
@@ -1802,7 +1802,7 @@
         "literal_level": "III",
         "lore": [
           "§4Regeneration III §f(0:45)",
-          "§7Grants §c+15 Health Regen§7.",
+          "§7Grants §c+7.5 Health Regen§7.",
           "",
           "§a§lUNCOMMON"
         ]
@@ -1812,7 +1812,7 @@
         "literal_level": "IV",
         "lore": [
           "§4Regeneration IV §f(0:45)",
-          "§7Grants §c+20 Health Regen§7.",
+          "§7Grants §c+10 Health Regen§7.",
           "",
           "§a§lUNCOMMON"
         ]
@@ -1822,7 +1822,7 @@
         "literal_level": "V",
         "lore": [
           "§4Regeneration V §f(0:45)",
-          "§7Grants §c+25 Health Regen§7.",
+          "§7Grants §c+12.5 Health Regen§7.",
           "",
           "§9§lRARE"
         ]
@@ -1832,7 +1832,7 @@
         "literal_level": "VI",
         "lore": [
           "§4Regeneration VI §f(0:45)",
-          "§7Grants §c+30 Health Regen§7.",
+          "§7Grants §c+15 Health Regen§7.",
           "",
           "§9§lRARE"
         ]
@@ -1842,7 +1842,7 @@
         "literal_level": "VII",
         "lore": [
           "§4Regeneration VII §f(0:45)",
-          "§7Grants §c+40 Health Regen§7.",
+          "§7Grants §c+20 Health Regen§7.",
           "",
           "§5§lEPIC"
         ]
@@ -1852,7 +1852,7 @@
         "literal_level": "VIII",
         "lore": [
           "§4Regeneration VIII §f(0:45)",
-          "§7Grants §c+50 Health Regen§7.",
+          "§7Grants §c+25 Health Regen§7.",
           "",
           "§5§lEPIC"
         ]
@@ -1862,7 +1862,7 @@
         "literal_level": "IX",
         "lore": [
           "§4Regeneration IX §f(2:30)",
-          "§7Grants §c+60 Health Regen§7.",
+          "§7Grants §c+30 Health Regen§7.",
           "",
           "§5§lEPIC"
         ]
@@ -2785,8 +2785,8 @@
         "literal_level": "I",
         "lore": [
           "§bWisp's Ice-Flavored Water I §f(5:00)",
-          "§7Gain §4+10 Vitality §7and §f+25 True",
-          "§fDefense§7.",
+          "§7Gain §c+10 Health Regen §7and §f+25",
+          "§fTrue Defense§7.",
           "",
           "§f§lCOMMON"
         ],
