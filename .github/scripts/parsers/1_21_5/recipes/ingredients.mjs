@@ -110,7 +110,7 @@ export const getResult = (item, count) => {
         throw new Error("Unsupported variant recipe " + item.internalname);
     }
     return {
-        id: item.internalname,
+        id: item.internalname.replace(/-(\d+)$/, ':$1'),
         count: count
     };
 }
@@ -164,7 +164,7 @@ export const getInputs = (item, amount) => {
     }
 
     return {
-        id: item,
+        id: item.replace(/-(\d+)$/, ':$1'),
         count: amount,
     };
 };

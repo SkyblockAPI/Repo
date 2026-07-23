@@ -17,7 +17,10 @@ const parseCraftingRecipe = (item, recipe) => {
         type: "crafting",
         keys: keys
             .map(key => key.split(":"))
-            .map(([id, amount]) => ({id, count: amount ? parseInt(amount) : 1})),
+            .map(([id, amount]) => ({
+                id: id.replace(/-(\d+)$/, ':$1'),
+                count: amount ? parseInt(amount) : 1
+            })),
         pattern: pattern
             .map(key => {
                 if (key === "") return -1;
@@ -35,7 +38,11 @@ const parseForgeRecipe = (item, recipe) => {
     }
 
     const inputs = recipe.inputs.map(key => key.split(":"))
-        .map(([id, amount]) => ({id, count: amount ? parseInt(amount) : 1}));
+        .map(([id, amount]) => ({
+            id: id.replace(/-(\d+)$/, ':$1'),
+            count: amount ? parseInt(amount) : 1
+        }));
+
     const coins = inputs.filter(it => it.id === COINS_ID)
         .reduce((acc, it) => acc + it.count, 0);
 
@@ -46,7 +53,7 @@ const parseForgeRecipe = (item, recipe) => {
         time: recipe.duration ?? 0,
         result: getResult(item, recipe.count || 1),
     }
-}
+};
 
 const parseNpcRecipe = (item, recipe) => {
     const [outputId, outputAmount] = recipe.result.split(":")
