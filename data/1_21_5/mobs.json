@@ -38,10 +38,16 @@
       {
         "name": "Agarimoo",
         "mobLevel": 35,
-        "coins": 60,
         "xp": 32,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 60,
+            "maxAmount": 60
+          },
           {
             "id": "RED_MUSHROOM",
             "chance": 1,
@@ -203,10 +209,16 @@
       {
         "name": "Alligator",
         "mobLevel": 10,
-        "coins": 250,
         "xp": 75,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 250,
+            "maxAmount": 250
+          },
           {
             "id": "ENCHANTED_WATER_LILY",
             "chance": 1,
@@ -298,10 +310,16 @@
       {
         "name": "Angry Archeologist",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 100,
         "combatXp": 100,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "DIAMOND_ATOM",
             "chance": 0.002,
@@ -368,10 +386,16 @@
       {
         "name": "Arachne's Brood",
         "mobLevel": 100,
-        "coins": 800,
         "xp": 10,
         "combatXp": 80,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 800,
+            "maxAmount": 800
+          },
           {
             "id": "SPIDER_EYE",
             "chance": 1,
@@ -389,10 +413,16 @@
       {
         "name": "Arachne's Brood",
         "mobLevel": 200,
-        "coins": 1500,
         "xp": 13,
         "combatXp": 120,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1500,
+            "maxAmount": 1500
+          },
           {
             "id": "SPIDER_EYE",
             "chance": 1,
@@ -418,10 +448,16 @@
       {
         "name": "Arachne's Keeper",
         "mobLevel": 100,
-        "coins": 10,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "ARACHNE_KEEPER_FRAGMENT",
             "chance": 1,
@@ -477,10 +513,16 @@
       {
         "name": "Arachne",
         "mobLevel": 300,
-        "coins": 2000,
         "xp": 15,
         "combatXp": 200,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 2000,
+            "maxAmount": 2000
+          },
           {
             "type": "pet",
             "pet": "TARANTULA",
@@ -572,10 +614,16 @@
       {
         "name": "Arachne",
         "mobLevel": 500,
-        "coins": 8000,
         "xp": 20,
         "combatXp": 400,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 8000,
+            "maxAmount": 8000
+          },
           {
             "type": "pet",
             "pet": "TARANTULA",
@@ -947,10 +995,16 @@
       {
         "name": "Ashfang",
         "mobLevel": 200,
-        "coins": 500,
         "xp": 2500,
         "combatXp": 2000,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 500,
+            "maxAmount": 500
+          },
           {
             "id": "BLAZE_ROD",
             "chance": 1,
@@ -1012,10 +1066,16 @@
       {
         "name": "Atoll Croaker",
         "mobLevel": 45,
-        "coins": 34,
         "xp": 50,
         "combatXp": 338,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 34,
+            "maxAmount": 34
+          },
           {
             "id": "LOTUS",
             "chance": 1,
@@ -1040,7 +1100,6 @@
       {
         "name": "Atoned Champion",
         "mobLevel": 390,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -1062,7 +1121,6 @@
       {
         "name": "Atoned Revenant",
         "mobLevel": 770,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -1085,10 +1143,16 @@
       {
         "name": "Automaton",
         "mobLevel": 100,
-        "coins": 10,
         "xp": 10,
         "combatXp": 40,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "ROUGH_SAPPHIRE_GEM",
             "chance": 1,
@@ -1136,10 +1200,16 @@
       {
         "name": "Automaton",
         "mobLevel": 150,
-        "coins": 10,
         "xp": 10,
         "combatXp": 45,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "ROUGH_SAPPHIRE_GEM",
             "chance": 1,
@@ -1195,7 +1265,6 @@
       {
         "name": "Autonull",
         "mobLevel": 5,
-        "coins": 0,
         "xp": 0,
         "combatXp": 6,
         "drops": [
@@ -1249,7 +1318,6 @@
       {
         "name": "Axolotl",
         "mobLevel": 1,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -1303,7 +1371,6 @@
       {
         "name": "Bal",
         "mobLevel": 100,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -1369,7 +1436,6 @@
       {
         "name": "Bambuleaf",
         "mobLevel": 1,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -1421,10 +1487,16 @@
       {
         "name": "Banshee",
         "mobLevel": 10,
-        "coins": 50,
         "xp": 50,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 50,
+            "maxAmount": 50
+          },
           {
             "id": "WATER_LILY",
             "chance": 1,
@@ -1468,10 +1540,16 @@
       {
         "name": "Barbarian Duke X",
         "mobLevel": 200,
-        "coins": 1000,
         "xp": 5000,
         "combatXp": 4000,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "PORK",
             "chance": 1,
@@ -1558,7 +1636,6 @@
       {
         "name": "Barking Wolf",
         "mobLevel": 2,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -1623,10 +1700,16 @@
       {
         "name": "Batty Witch",
         "mobLevel": 60,
-        "coins": 1,
         "xp": 1,
         "combatXp": 20,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "GREEN_CANDY",
             "chance": 1,
@@ -1652,10 +1735,16 @@
       {
         "name": "Bat",
         "mobLevel": 3,
-        "coins": 100,
         "xp": 100,
         "combatXp": 33,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 100,
+            "maxAmount": 100
+          },
           {
             "id": "BAT_TALISMAN",
             "chance": 0.01,
@@ -1675,10 +1764,16 @@
       {
         "name": "Bat Piñata",
         "mobLevel": 25,
-        "coins": 100,
         "xp": 100,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 100,
+            "maxAmount": 100
+          },
           {
             "id": "GREEN_CANDY",
             "chance": 0.9,
@@ -1710,10 +1805,16 @@
       {
         "name": "Bayou Sludge",
         "mobLevel": 15,
-        "coins": 50,
         "xp": 50,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 50,
+            "maxAmount": 50
+          },
           {
             "id": "WATER_LILY",
             "chance": 1,
@@ -1819,11 +1920,11 @@
   "BETH_NPC": {
     "island": "farming_1",
     "position": {
-      "x": 164,
-      "y": 78,
+      "x": 163,
+      "y": 77,
       "z": -359
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NhYmIyYzA0NjM1YTI5YjA4ZTE2MWQ4NTliMTFiZGFkYjc1YTI5ZDNjNjRkZjdlODRhMTA4YzM3ZjdmODNjMCJ9fX0=",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2FiYjJjMDQ2MzVhMjliMDhlMTYxZDg1OWIxMWJkYWRiNzVhMjlkM2M2NGRmN2U4NGExMDhjMzdmN2Y4M2MwIiwibWV0YWRhdGEiOnt9fX0sInByb2ZpbGVJZCI6ImJkMzlkMDNlZThlZDJmOWRhMDFmZDdhNzBiZmVlNzUyIiwicHJvZmlsZU5hbWUiOiJuZWE4OSIsImlzUHVibGljIjp0cnVlLCJ0aW1lc3RhbXAiOjE3ODQzNTk3NDM1OTZ9",
     "itemId": "minecraft:player_head",
     "name": "Beth",
     "type": "NPC"
@@ -1837,10 +1938,16 @@
       {
         "name": "Bezal",
         "mobLevel": 80,
-        "coins": 20,
         "xp": 60,
         "combatXp": 60,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 20,
+            "maxAmount": 20
+          },
           {
             "id": "BLAZE_ROD",
             "chance": 1,
@@ -1938,7 +2045,6 @@
       {
         "name": "Birries",
         "mobLevel": 5,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -1997,10 +2103,16 @@
       {
         "name": "Bladesoul",
         "mobLevel": 200,
-        "coins": 1000,
         "xp": 5000,
         "combatXp": 4000,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "COAL",
             "chance": 1,
@@ -2062,10 +2174,16 @@
       {
         "name": "Blaze",
         "mobLevel": 25,
-        "coins": 20,
         "xp": 50,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 20,
+            "maxAmount": 20
+          },
           {
             "id": "BLAZE_ROD",
             "chance": 1,
@@ -2083,10 +2201,16 @@
       {
         "name": "Blaze",
         "mobLevel": 70,
-        "coins": 20,
         "xp": 50,
         "combatXp": 50,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 20,
+            "maxAmount": 20
+          },
           {
             "id": "BLAZE_ROD",
             "chance": 1,
@@ -2148,10 +2272,16 @@
       {
         "name": "Blue Ringed Octopus",
         "mobLevel": 15,
-        "coins": 2500,
         "xp": 5000,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 2500,
+            "maxAmount": 2500
+          },
           {
             "id": "ENCHANTED_CLAY_BALL",
             "chance": 1,
@@ -2195,10 +2325,16 @@
       {
         "name": "Blue Shark",
         "mobLevel": 20,
-        "coins": 10,
         "xp": 40,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "SHARK_FIN",
             "chance": 1,
@@ -2242,10 +2378,16 @@
       {
         "name": "Bogged",
         "mobLevel": 1,
-        "coins": 5,
         "xp": 0,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5,
+            "maxAmount": 5
+          },
           {
             "id": "SEA_LUMIES",
             "chance": 1,
@@ -2294,7 +2436,6 @@
       {
         "name": "Bonzo",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -2343,7 +2484,6 @@
       {
         "name": "Bonzo (Master Mode)",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -2422,10 +2562,16 @@
       {
         "name": "Boss Corleone",
         "mobLevel": 200,
-        "coins": 50,
         "xp": 50,
         "combatXp": 150,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 50,
+            "maxAmount": 50
+          },
           {
             "id": "ROUGH_RUBY_GEM",
             "chance": 1,
@@ -2472,6 +2618,18 @@
     "name": "Brian",
     "type": "NPC"
   },
+  "BRIGETTE_NPC": {
+    "island": "hub",
+    "position": {
+      "x": -18,
+      "y": 46,
+      "z": -119
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTRlNjBiNzE4MGU0NTE4OGMxM2UxZTUzZjgwOGZjYTY5ZTk1NjdjMjczNzk2MjAzYzE3MGI4ZmEyNjZhMTIwYiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI0ZTQ1NGMzOGFkNjMyMmJlYmUyMDRkNzc4MjFkOGJlZCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgzNTcxMDgxMDQxfQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Brigette",
+    "type": "NPC"
+  },
   "BROMM_NPC": {
     "island": "crimson_isle",
     "position": {
@@ -2493,10 +2651,16 @@
       {
         "name": "Broodmother",
         "mobLevel": 12,
-        "coins": 10,
         "xp": 30,
         "combatXp": 25,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "SPIDER_EYE",
             "chance": 1,
@@ -2640,7 +2804,6 @@
       {
         "name": "Burningsoul Demon",
         "mobLevel": 2500,
-        "coins": 0,
         "xp": 0,
         "combatXp": 8000,
         "drops": [
@@ -2663,10 +2826,16 @@
       {
         "name": "Butterfly",
         "mobLevel": 100,
-        "coins": 10,
         "xp": 10,
         "combatXp": 50,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "ROUGH_JASPER_GEM",
             "chance": 1,
@@ -2789,10 +2958,16 @@
       {
         "name": "Carrot King",
         "mobLevel": 25,
-        "coins": 30,
         "xp": 30,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 30,
+            "maxAmount": 30
+          },
           {
             "id": "WATER_LILY",
             "chance": 1,
@@ -2867,10 +3042,16 @@
       {
         "name": "Catfish",
         "mobLevel": 23,
-        "coins": 10,
         "xp": 25,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "RAW_FISH-2",
             "chance": 1,
@@ -2934,10 +3115,16 @@
       {
         "name": "Cave Spider",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 1,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "SPIDER_EYE",
             "chance": 1,
@@ -2963,10 +3150,16 @@
       {
         "name": "Cellar Spider",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 30,
         "combatXp": 35,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "ESSENCE_SPIDER",
             "chance": 0.12,
@@ -2998,10 +3191,16 @@
       {
         "name": "Charged Creeper",
         "mobLevel": 50,
-        "coins": 250,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 250,
+            "maxAmount": 250
+          },
           {
             "id": "ENCHANTED_GUNPOWDER",
             "chance": 1,
@@ -3057,7 +3256,6 @@
       {
         "name": "Chicken",
         "mobLevel": 1,
-        "coins": 0,
         "xp": 1,
         "combatXp": 2,
         "drops": [
@@ -3092,10 +3290,16 @@
       {
         "name": "Chickzilla",
         "mobLevel": 100,
-        "coins": 1,
         "xp": 4,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "SULPHUR_ORE",
             "chance": 1,
@@ -3139,10 +3343,16 @@
       {
         "name": "Chillblade",
         "mobLevel": 100,
-        "coins": 10,
         "xp": 10,
         "combatXp": 35,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "BONE",
             "chance": 1,
@@ -3196,10 +3406,16 @@
       {
         "name": "Chillshot",
         "mobLevel": 100,
-        "coins": 10,
         "xp": 10,
         "combatXp": 35,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "BONE",
             "chance": 1,
@@ -3288,10 +3504,16 @@
       {
         "name": "Cinderbat",
         "mobLevel": 90,
-        "coins": 1000,
         "xp": 500,
         "combatXp": 300,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "FLAMES",
             "chance": 0.01,
@@ -3342,7 +3564,6 @@
       {
         "name": "Cod",
         "mobLevel": 5,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -3403,7 +3624,7 @@
       "y": 99,
       "z": -88
     },
-    "itemId": "minecraft:player_head",
+    "itemId": "minecraft:witch_spawn_egg",
     "name": "Coral",
     "type": "NPC"
   },
@@ -3452,7 +3673,6 @@
       {
         "name": "Cow",
         "mobLevel": 1,
-        "coins": 0,
         "xp": 1,
         "combatXp": 3,
         "drops": [
@@ -3493,10 +3713,16 @@
       {
         "name": "Crazy Witch",
         "mobLevel": 60,
-        "coins": 1,
         "xp": 1,
         "combatXp": 20,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "GREEN_CANDY",
             "chance": 1,
@@ -3528,10 +3754,16 @@
       {
         "name": "Blessed Cretan Bull",
         "mobLevel": 40,
-        "coins": 200,
         "xp": 5,
         "combatXp": 15,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 200,
+            "maxAmount": 200
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -3561,10 +3793,16 @@
       {
         "name": "Stalwart Cretan Bull",
         "mobLevel": 70,
-        "coins": 275,
         "xp": 5,
         "combatXp": 20,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 275,
+            "maxAmount": 275
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -3594,10 +3832,16 @@
       {
         "name": "Venerable Cretan Bull",
         "mobLevel": 95,
-        "coins": 350,
         "xp": 5,
         "combatXp": 25,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 350,
+            "maxAmount": 350
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -3627,10 +3871,16 @@
       {
         "name": "Exalted Cretan Bull",
         "mobLevel": 150,
-        "coins": 450,
         "xp": 5,
         "combatXp": 30,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 450,
+            "maxAmount": 450
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -3660,10 +3910,16 @@
       {
         "name": "Empyrean Cretan Bull",
         "mobLevel": 250,
-        "coins": 550,
         "xp": 5,
         "combatXp": 35,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 550,
+            "maxAmount": 550
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -3724,10 +3980,16 @@
       {
         "name": "Crypt Dreadlord",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 30,
         "combatXp": 61,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "CRYPT_DREADLORD_SWORD",
             "chance": 0.05,
@@ -3746,10 +4008,16 @@
       {
         "name": "Crypt Ghoul",
         "mobLevel": 30,
-        "coins": 13,
         "xp": 30,
         "combatXp": 32,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 13,
+            "maxAmount": 13
+          },
           {
             "id": "ROTTEN_FLESH",
             "chance": 1,
@@ -3784,10 +4052,16 @@
       {
         "name": "Crypt Dreadlord",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 30,
         "combatXp": 40,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "PREMIUM_FLESH",
             "chance": 0.001,
@@ -3807,10 +4081,16 @@
       {
         "name": "Crypt Souleater",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 30,
         "combatXp": 45,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "CRYPT_BOW",
             "chance": 0.05,
@@ -3908,10 +4188,16 @@
       {
         "name": "Dasher Spider",
         "mobLevel": 4,
-        "coins": 2,
         "xp": 8,
         "combatXp": 10,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 2
+          },
           {
             "id": "SPIDER_EYE",
             "chance": 0.5,
@@ -3951,10 +4237,16 @@
       {
         "name": "Dasher Spider",
         "mobLevel": 6,
-        "coins": 3,
         "xp": 9,
         "combatXp": 10,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 3,
+            "maxAmount": 3
+          },
           {
             "id": "SPIDER_EYE",
             "chance": 0.5,
@@ -3994,10 +4286,16 @@
       {
         "name": "Dasher Spider",
         "mobLevel": 42,
-        "coins": 10,
         "xp": 10,
         "combatXp": 28,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "SPIDER_EYE",
             "chance": 0.8,
@@ -4043,10 +4341,16 @@
       {
         "name": "Dasher Spider",
         "mobLevel": 45,
-        "coins": 12,
         "xp": 10,
         "combatXp": 30,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 12,
+            "maxAmount": 12
+          },
           {
             "id": "SPIDER_EYE",
             "chance": 0.8,
@@ -4092,10 +4396,16 @@
       {
         "name": "Dasher Spider",
         "mobLevel": 50,
-        "coins": 15,
         "xp": 10,
         "combatXp": 36,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 15,
+            "maxAmount": 15
+          },
           {
             "id": "SPIDER_EYE",
             "chance": 0.8,
@@ -4173,7 +4483,6 @@
       {
         "name": "Deadgehog",
         "mobLevel": 1,
-        "coins": 0,
         "xp": 0,
         "combatXp": 6,
         "drops": [
@@ -4221,10 +4530,16 @@
       {
         "name": "Deep Sea Protector",
         "mobLevel": 60,
-        "coins": 100,
         "xp": 75,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 100,
+            "maxAmount": 100
+          },
           {
             "id": "WATER_LILY",
             "chance": 1,
@@ -4287,7 +4602,6 @@
       {
         "name": "Deformed Revenant",
         "mobLevel": 300,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -4352,10 +4666,16 @@
       {
         "name": "Diamond Goblin",
         "mobLevel": 500,
-        "coins": 250,
         "xp": 100,
         "combatXp": 20,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 250,
+            "maxAmount": 250
+          },
           {
             "id": "ESSENCE_DIAMOND",
             "chance": 1,
@@ -4449,10 +4769,16 @@
       {
         "name": "Dreadwing",
         "mobLevel": 10,
-        "coins": 5,
         "xp": 2,
         "combatXp": 15,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5,
+            "maxAmount": 5
+          },
           {
             "type": "attribute",
             "id": "FOREST_ESSENCE",
@@ -4479,10 +4805,16 @@
       {
         "name": "Drowned Captain",
         "mobLevel": 74,
-        "coins": 11,
         "xp": 111,
         "combatXp": 110,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 11,
+            "maxAmount": 11
+          },
           {
             "id": "LOTUS",
             "chance": 1,
@@ -4586,10 +4918,16 @@
       {
         "name": "Dumpster Diver",
         "mobLevel": 15,
-        "coins": 12,
         "xp": 20,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 12,
+            "maxAmount": 12
+          },
           {
             "id": "WATER_LILY",
             "chance": 1,
@@ -4819,10 +5157,16 @@
       {
         "name": "Emerald Slime",
         "mobLevel": 5,
-        "coins": 5,
         "xp": 20,
         "combatXp": 12,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5,
+            "maxAmount": 5
+          },
           {
             "id": "SLIME_BALL",
             "chance": 1,
@@ -4840,10 +5184,16 @@
       {
         "name": "Emerald Slime",
         "mobLevel": 10,
-        "coins": 8,
         "xp": 30,
         "combatXp": 15,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 8,
+            "maxAmount": 8
+          },
           {
             "id": "SLIME_BALL",
             "chance": 1,
@@ -4968,6 +5318,18 @@
     "name": "Emissary Wilson",
     "type": "NPC"
   },
+  "ENCHANTMENT_NERD_NPC": {
+    "island": "hub",
+    "position": {
+      "x": -74,
+      "y": 71,
+      "z": -81
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjg2N2I2MDE4NjhjOTRhZWJjYzQxMzVlYjc5NTg4N2ZhZjYyYjdlZjRlYmM5NGYzYTZiOTA1OTZlNTljNWRiYSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIzODcwMDE4NGZkM2EyNjMzYjVjYjFmMTRiYTFiNzQ1OSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0NjUwMDQwNTM2fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Enchantment Nerd",
+    "type": "NPC"
+  },
   "ENDERMAN_MONSTER": {
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2E1OWJiMGE3YTMyOTY1YjNkOTBkOGVhZmE4OTlkMTgzNWY0MjQ1MDllYWRkNGU2YjcwOWFkYTUwYjljZiJ9fX0=",
     "itemId": "minecraft:player_head",
@@ -4977,10 +5339,16 @@
       {
         "name": "Enderman",
         "mobLevel": 42,
-        "coins": 10,
         "xp": 12,
         "combatXp": 40,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "ENDER_PEARL",
             "chance": 1,
@@ -5058,10 +5426,16 @@
       {
         "name": "Enderman",
         "mobLevel": 45,
-        "coins": 12,
         "xp": 12,
         "combatXp": 42,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 12,
+            "maxAmount": 12
+          },
           {
             "id": "ENDER_PEARL",
             "chance": 1,
@@ -5139,10 +5513,16 @@
       {
         "name": "Enderman",
         "mobLevel": 50,
-        "coins": 15,
         "xp": 12,
         "combatXp": 44,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 15,
+            "maxAmount": 15
+          },
           {
             "id": "ENDER_PEARL",
             "chance": 1,
@@ -5228,10 +5608,16 @@
       {
         "name": "Endermite",
         "mobLevel": 37,
-        "coins": 10,
         "xp": 8,
         "combatXp": 40,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "ENDER_STONE",
             "chance": 1,
@@ -5249,10 +5635,16 @@
       {
         "name": "Endermite",
         "mobLevel": 40,
-        "coins": 11,
         "xp": 12,
         "combatXp": 40,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 11,
+            "maxAmount": 11
+          },
           {
             "id": "ENDER_STONE",
             "chance": 1,
@@ -5278,10 +5670,16 @@
       {
         "name": "End Stone Protector (Boss)",
         "mobLevel": 100,
-        "coins": 100,
         "xp": 5000,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 100,
+            "maxAmount": 100
+          },
           {
             "id": "ENDSTONE_ROSE",
             "chance": 1,
@@ -5370,10 +5768,16 @@
       {
         "name": "Executive Sebastian",
         "mobLevel": 100,
-        "coins": 10,
         "xp": 10,
         "combatXp": 35,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "ROUGH_RUBY_GEM",
             "chance": 1,
@@ -5405,10 +5809,16 @@
       {
         "name": "Executive Viper",
         "mobLevel": 100,
-        "coins": 10,
         "xp": 10,
         "combatXp": 35,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "ROUGH_RUBY_GEM",
             "chance": 1,
@@ -5440,10 +5850,16 @@
       {
         "name": "Executive Wendy",
         "mobLevel": 100,
-        "coins": 10,
         "xp": 10,
         "combatXp": 35,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "ROUGH_RUBY_GEM",
             "chance": 1,
@@ -5554,7 +5970,7 @@
     "island": "farming_1",
     "position": {
       "x": 144,
-      "y": 74,
+      "y": 73,
       "z": -241
     },
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==",
@@ -5637,10 +6053,16 @@
       {
         "name": "Fiery Scuttler",
         "mobLevel": 475,
-        "coins": 7500,
         "xp": 12500,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 7500,
+            "maxAmount": 7500
+          },
           {
             "id": "SCORCHED_CRAB_STICK",
             "chance": 1,
@@ -5708,10 +6130,16 @@
       {
         "name": "Fireproof Witch",
         "mobLevel": 75,
-        "coins": 1250,
         "xp": 75,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1250,
+            "maxAmount": 1250
+          },
           {
             "id": "MAGMA_FISH",
             "chance": 1,
@@ -5763,10 +6191,16 @@
       {
         "name": "Fire Eel",
         "mobLevel": 240,
-        "coins": 1200,
         "xp": 2000,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1200,
+            "maxAmount": 1200
+          },
           {
             "id": "MAGMA_FISH",
             "chance": 1,
@@ -5880,10 +6314,16 @@
       {
         "name": "Flaming Spider",
         "mobLevel": 80,
-        "coins": 20,
         "xp": 100,
         "combatXp": 120,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 20,
+            "maxAmount": 20
+          },
           {
             "id": "STRING",
             "chance": 1,
@@ -5926,10 +6366,16 @@
       {
         "name": "Flaming Worm",
         "mobLevel": 50,
-        "coins": 10,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "ROUGH_SAPPHIRE_GEM",
             "chance": 1,
@@ -5967,7 +6413,6 @@
       {
         "name": "Flare Demon",
         "mobLevel": 1730,
-        "coins": 0,
         "xp": 0,
         "combatXp": 1200,
         "drops": [
@@ -5990,10 +6435,16 @@
       {
         "name": "Flare",
         "mobLevel": 90,
-        "coins": 20,
         "xp": 100,
         "combatXp": 120,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 20,
+            "maxAmount": 20
+          },
           {
             "id": "BLAZE_ROD",
             "chance": 1,
@@ -6037,7 +6488,6 @@
       {
         "name": "Fledgling",
         "mobLevel": 8,
-        "coins": 0,
         "xp": 0,
         "combatXp": 20,
         "drops": [
@@ -6079,7 +6529,6 @@
       {
         "name": "Flipflopper",
         "mobLevel": 10,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -6183,10 +6632,16 @@
       {
         "name": "Fried Chicken",
         "mobLevel": 30,
-        "coins": 50,
         "xp": 50,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 50,
+            "maxAmount": 50
+          },
           {
             "id": "RAW_CHICKEN",
             "chance": 1,
@@ -6224,11 +6679,11 @@
   "FRIENDLY_HIKER_NPC": {
     "island": "farming_1",
     "position": {
-      "x": 182,
-      "y": 78,
+      "x": 181,
+      "y": 77,
       "z": -381
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MzNWEyMGY1NzgwYzY2N2M1ZjU3NmJhNjMwN2RiNjFiMzVhM2M5ZjNhZGM2YTg2NTQ1NDcyNWY0ZTc3YTExMiJ9fX0=",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzM1YTIwZjU3ODBjNjY3YzVmNTc2YmE2MzA3ZGI2MWIzNWEzYzlmM2FkYzZhODY1NDU0NzI1ZjRlNzdhMTEyIiwibWV0YWRhdGEiOnt9fX0sInByb2ZpbGVJZCI6IjAzYzJkNjVhOTI4NjJjZjk5NDk5NWI4ODc3YTFhNzhmIiwicHJvZmlsZU5hbWUiOiJuZWE4OSIsImlzUHVibGljIjp0cnVlLCJ0aW1lc3RhbXAiOjE3ODQzNTk3NTA0Mjd9",
     "itemId": "minecraft:player_head",
     "name": "Friendly Hiker",
     "type": "NPC"
@@ -6242,7 +6697,6 @@
       {
         "name": "Mossybit",
         "mobLevel": 1,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -6272,10 +6726,16 @@
       {
         "name": "Frog Man",
         "mobLevel": 10,
-        "coins": 40,
         "xp": 40,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 40,
+            "maxAmount": 40
+          },
           {
             "id": "HALF_EATEN_MUSHROOM",
             "chance": 1,
@@ -6307,10 +6767,16 @@
       {
         "name": "Frog Prince",
         "mobLevel": 132,
-        "coins": 660,
         "xp": 1320,
         "combatXp": 3300,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 660,
+            "maxAmount": 660
+          },
           {
             "id": "LOTUS_SILVER",
             "chance": 1,
@@ -6360,10 +6826,16 @@
       {
         "name": "Frosty",
         "mobLevel": 13,
-        "coins": 12,
         "xp": 30,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 12,
+            "maxAmount": 12
+          },
           {
             "id": "ESSENCE_ICE",
             "chance": 1,
@@ -6437,10 +6909,16 @@
       {
         "name": "Frozen Lost Adventurer",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 185,
         "combatXp": 180,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "ENCHANTED_ICE",
             "chance": 1,
@@ -6502,10 +6980,16 @@
       {
         "name": "Frozen Steve",
         "mobLevel": 7,
-        "coins": 5,
         "xp": 20,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5,
+            "maxAmount": 5
+          },
           {
             "id": "ESSENCE_ICE",
             "chance": 1,
@@ -6555,7 +7039,6 @@
       {
         "name": "Frozille",
         "mobLevel": 5,
-        "coins": 0,
         "xp": 0,
         "combatXp": 6,
         "drops": [
@@ -6585,10 +7068,16 @@
       {
         "name": "Stalwart Gaia Construct",
         "mobLevel": 85,
-        "coins": 300,
         "xp": 5,
         "combatXp": 30,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 300,
+            "maxAmount": 300
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -6618,10 +7107,16 @@
       {
         "name": "Venerable Gaia Construct",
         "mobLevel": 140,
-        "coins": 400,
         "xp": 5,
         "combatXp": 45,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 400,
+            "maxAmount": 400
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -6651,10 +7146,16 @@
       {
         "name": "Empyrean Gaia Construct",
         "mobLevel": 325,
-        "coins": 600,
         "xp": 5,
         "combatXp": 75,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 600,
+            "maxAmount": 600
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -6788,10 +7289,16 @@
       {
         "name": "Ghast",
         "mobLevel": 85,
-        "coins": 400,
         "xp": 500,
         "combatXp": 400,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 400,
+            "maxAmount": 400
+          },
           {
             "id": "GHAST_TEAR",
             "chance": 1,
@@ -6815,10 +7322,16 @@
       {
         "name": "Dive Ghast",
         "mobLevel": 90,
-        "coins": 400,
         "xp": 500,
         "combatXp": 400,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 400,
+            "maxAmount": 400
+          },
           {
             "id": "GHAST_TEAR",
             "chance": 1,
@@ -6850,7 +7363,6 @@
       {
         "name": "Ghost",
         "mobLevel": 250,
-        "coins": 0,
         "xp": 0,
         "combatXp": 100,
         "drops": [
@@ -6915,10 +7427,16 @@
       {
         "name": "Glacite Bowman",
         "mobLevel": 165,
-        "coins": 95,
         "xp": 75,
         "combatXp": 60,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 95,
+            "maxAmount": 95
+          },
           {
             "type": "currency",
             "currency": "POWDER_GLACITE",
@@ -6982,10 +7500,16 @@
       {
         "name": "Glacite Mage",
         "mobLevel": 200,
-        "coins": 125,
         "xp": 75,
         "combatXp": 85,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 125,
+            "maxAmount": 125
+          },
           {
             "type": "currency",
             "currency": "POWDER_GLACITE",
@@ -7049,10 +7573,16 @@
       {
         "name": "Glacite Mage",
         "mobLevel": 165,
-        "coins": 100,
         "xp": 80,
         "combatXp": 70,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 100,
+            "maxAmount": 100
+          },
           {
             "type": "currency",
             "currency": "POWDER_GLACITE",
@@ -7116,10 +7646,16 @@
       {
         "name": "Glacite Mutt",
         "mobLevel": 180,
-        "coins": 95,
         "xp": 75,
         "combatXp": 60,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 95,
+            "maxAmount": 95
+          },
           {
             "type": "currency",
             "currency": "POWDER_GLACITE",
@@ -7206,10 +7742,16 @@
       {
         "name": "Goblin",
         "mobLevel": 25,
-        "coins": 10,
         "xp": 5,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "GOBLIN_EGG",
             "chance": 0.01,
@@ -7245,10 +7787,16 @@
       {
         "name": "Fireslinger",
         "mobLevel": 25,
-        "coins": 10,
         "xp": 5,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "GOBLIN_EGG",
             "chance": 0.02,
@@ -7284,10 +7832,16 @@
       {
         "name": "Knifethrower",
         "mobLevel": 25,
-        "coins": 10,
         "xp": 5,
         "combatXp": 28,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "GOBLIN_EGG",
             "chance": 0.005,
@@ -7323,10 +7877,16 @@
       {
         "name": "Goblin Flamethrower",
         "mobLevel": 100,
-        "coins": 10,
         "xp": 10,
         "combatXp": 40,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "GOBLIN_EGG",
             "chance": 0.006,
@@ -7362,10 +7922,16 @@
       {
         "name": "Creeperlobber",
         "mobLevel": 100,
-        "coins": 10,
         "xp": 5,
         "combatXp": 50,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "SULPHUR",
             "chance": 0.5,
@@ -7407,10 +7973,16 @@
       {
         "name": "Murderlover",
         "mobLevel": 200,
-        "coins": 10,
         "xp": 5,
         "combatXp": 60,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "GOBLIN_EGG",
             "chance": 0.006,
@@ -7460,10 +8032,16 @@
       {
         "name": "Golden Ghoul",
         "mobLevel": 60,
-        "coins": 100,
         "xp": 30,
         "combatXp": 50,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 100,
+            "maxAmount": 100
+          },
           {
             "id": "GOLD_INGOT",
             "chance": 1,
@@ -7506,10 +8084,16 @@
       {
         "name": "Golden Goblin",
         "mobLevel": 50,
-        "coins": 100,
         "xp": 50,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 100,
+            "maxAmount": 100
+          },
           {
             "id": "ESSENCE_GOLD",
             "chance": 1,
@@ -7560,10 +8144,16 @@
       {
         "name": "Golem",
         "mobLevel": 1,
-        "coins": 1,
         "xp": 100,
         "combatXp": 4000,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "GOLEM_POPPY",
             "chance": 0.04,
@@ -7575,10 +8165,16 @@
       {
         "name": "Golem (Master Mode)",
         "mobLevel": 1,
-        "coins": 1,
         "xp": 100,
         "combatXp": 6000,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "GOLEM_POPPY",
             "chance": 0.04,
@@ -7627,10 +8223,16 @@
       {
         "name": "Flint Skeleton",
         "mobLevel": 2,
-        "coins": 1,
         "xp": 1,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "BONE",
             "chance": 1,
@@ -7674,10 +8276,16 @@
       {
         "name": "Great White Shark",
         "mobLevel": 180,
-        "coins": 40,
         "xp": 160,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 40,
+            "maxAmount": 40
+          },
           {
             "id": "SHARK_FIN",
             "chance": 1,
@@ -7741,10 +8349,16 @@
       {
         "name": "Grim Reaper",
         "mobLevel": 190,
-        "coins": 5000,
         "xp": 150,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5000,
+            "maxAmount": 5000
+          },
           {
             "id": "PURPLE_CANDY",
             "chance": 1,
@@ -7818,10 +8432,16 @@
       {
         "name": "Grinch",
         "mobLevel": 21,
-        "coins": 10,
         "xp": 25,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "WHITE_GIFT",
             "chance": 1,
@@ -7901,10 +8521,16 @@
       {
         "name": "Grunt",
         "mobLevel": 50,
-        "coins": 2,
         "xp": 2,
         "combatXp": 25,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 2
+          },
           {
             "id": "ROUGH_RUBY_GEM",
             "chance": 1,
@@ -7936,10 +8562,16 @@
       {
         "name": "Guardian Defender",
         "mobLevel": 45,
-        "coins": 50,
         "xp": 50,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 50,
+            "maxAmount": 50
+          },
           {
             "id": "WATER_LILY",
             "chance": 1,
@@ -8105,10 +8737,16 @@
       {
         "name": "Stalwart Harpy",
         "mobLevel": 85,
-        "coins": 300,
         "xp": 5,
         "combatXp": 30,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 300,
+            "maxAmount": 300
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -8138,10 +8776,16 @@
       {
         "name": "Venerable Harpy",
         "mobLevel": 110,
-        "coins": 400,
         "xp": 5,
         "combatXp": 45,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 400,
+            "maxAmount": 400
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -8171,10 +8815,16 @@
       {
         "name": "Exalted Harpy",
         "mobLevel": 95,
-        "coins": 350,
         "xp": 5,
         "combatXp": 25,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 350,
+            "maxAmount": 350
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -8204,10 +8854,16 @@
       {
         "name": "Empyrean Harpy",
         "mobLevel": 325,
-        "coins": 600,
         "xp": 5,
         "combatXp": 75,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 600,
+            "maxAmount": 600
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -8269,10 +8925,16 @@
       {
         "name": "Headless Horseman",
         "mobLevel": 100,
-        "coins": 100,
         "xp": 500,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 100,
+            "maxAmount": 100
+          },
           {
             "id": "GREEN_CANDY",
             "chance": 1,
@@ -8334,7 +8996,6 @@
       {
         "name": "Hideonleaf",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -8385,10 +9046,16 @@
       {
         "name": "Holy Lost Adventurer",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 100,
         "combatXp": 100,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "HOLY_FRAGMENT",
             "chance": 1,
@@ -8468,10 +9135,16 @@
       {
         "name": "Howling Spirit",
         "mobLevel": 35,
-        "coins": 11,
         "xp": 10,
         "combatXp": 22,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 11,
+            "maxAmount": 11
+          },
           {
             "id": "LOG_2",
             "chance": 0.15,
@@ -8531,11 +9204,11 @@
   "HUNGRY_HIKER_NPC": {
     "island": "farming_1",
     "position": {
-      "x": 270,
-      "y": 49,
-      "z": -480
+      "x": 148,
+      "y": 77,
+      "z": -375
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q2ZjliOWI2MjQwNGM1Y2Y5NGMzODVjN2YxYzg2YWRkZTBkOWFlZjlhOWNkMjllMmFiNTgzZmExZGU2M2Y0MjYifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDZmOWI5YjYyNDA0YzVjZjk0YzM4NWM3ZjFjODZhZGRlMGQ5YWVmOWE5Y2QyOWUyYWI1ODNmYTFkZTYzZjQyNiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJjNmU2OTMwMjBmYjEyMDdlOTNkZTY0Nzk0Njk4NDY4ZSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0MzU5NzUzOTIwfQ==",
     "itemId": "minecraft:player_head",
     "name": "Hungry Hiker",
     "type": "NPC"
@@ -8552,6 +9225,12 @@
     "name": "Hunter Ava",
     "type": "NPC"
   },
+  "HUSBANDRY_MERCHANT_NPC": {
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTRkZDcwOGYzZjY0ODFhZDUyMmRhMTg3ODQzMjNhNmM1ZjQwZTI5NWZmM2NkODk4ZjZlZWU2NDFhZjRmNGYxOSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI3NzYzNGM1YjlmNzQyODNiYmQ0M2ZiN2U0NThmNjVmNiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0MTU5MjUzNjQyfQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Husbandry Merchant",
+    "type": "NPC"
+  },
   "HYDROSPEAR_MONSTER": {
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY0MjE3MTI5NzQ5MiwKICAicHJvZmlsZUlkIiA6ICJiNjc3NTgwYzExYmU0ZjNiODI1OGM0YjBkNzNhNzg0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJPZmZpY2lhbGx5SksiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODYyZjQwODMzNzM0ZjdkOWZmYTVlODEwMDVlOWIzMTIzNDgxNTE4ODYyODk4MDA3NzI2N2YxM2MwZTU2MGVjNiIKICAgIH0KICB9Cn0=",
     "itemId": "minecraft:player_head",
@@ -8561,10 +9240,16 @@
       {
         "name": "Hydrospear",
         "mobLevel": 100,
-        "coins": 20,
         "xp": 100,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 20,
+            "maxAmount": 20
+          },
           {
             "id": "GILL_MEMBRANE",
             "chance": 1.4,
@@ -8614,10 +9299,16 @@
       {
         "name": "Glacite Walker",
         "mobLevel": 45,
-        "coins": 8,
         "xp": 8,
         "combatXp": 40,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 8,
+            "maxAmount": 8
+          },
           {
             "id": "GLACITE_JEWEL",
             "chance": 0.005,
@@ -8708,10 +9399,16 @@
       {
         "name": "Inferno Demonlord I",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 1,
         "combatXp": 50,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "DERELICT_ASHE",
             "chance": 1,
@@ -8743,10 +9440,16 @@
       {
         "name": "Inferno Demonlord II",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 1,
         "combatXp": 100,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "DERELICT_ASHE",
             "chance": 1,
@@ -8840,10 +9543,16 @@
       {
         "name": "Inferno Demonlord III",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 1,
         "combatXp": 200,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "DERELICT_ASHE",
             "chance": 1,
@@ -8957,10 +9666,16 @@
       {
         "name": "Inferno Demonlord IV",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 1,
         "combatXp": 500,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "DERELICT_ASHE",
             "chance": 1,
@@ -9275,6 +9990,18 @@
     "name": "Jerry",
     "type": "Mayor"
   },
+  "JIMMY_NPC": {
+    "island": "hub",
+    "position": {
+      "x": -17,
+      "y": 45,
+      "z": -97
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzFmNDc3ZWIxYTdiZWVlNjMxYzJjYTY0ZDA2ZjhmNjhmYTkzYTMzODZkMDQ0NTJhYjI3ZjQzYWNkZjFiNjBjYiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIzZjA5NDMwMjRiMjAzM2Y0YjdiM2FlY2M5MGJmOWUzNyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgzNTcxNDQ4NDA1fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Jimmy",
+    "type": "NPC"
+  },
   "JIM_BOB_NPC": {
     "island": "hub",
     "position": {
@@ -9344,7 +10071,6 @@
       {
         "name": "Joydive",
         "mobLevel": 5,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -9397,10 +10123,16 @@
       {
         "name": "Kada Knight",
         "mobLevel": 90,
-        "coins": 20,
         "xp": 100,
         "combatXp": 90,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 20,
+            "maxAmount": 20
+          },
           {
             "id": "ROTTEN_FLESH",
             "chance": 1,
@@ -9522,10 +10254,16 @@
       {
         "name": "Key Guardian",
         "mobLevel": 100,
-        "coins": 8,
         "xp": 6,
         "combatXp": 60,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 8,
+            "maxAmount": 8
+          },
           {
             "id": "JUNGLE_KEY",
             "chance": 1,
@@ -9569,7 +10307,6 @@
       {
         "name": "Kindleheart Demon",
         "mobLevel": 2500,
-        "coins": 0,
         "xp": 0,
         "combatXp": 2400,
         "drops": [
@@ -9592,7 +10329,6 @@
       {
         "name": "King Midas",
         "mobLevel": 130,
-        "coins": 0,
         "xp": 100,
         "combatXp": 125,
         "drops": [
@@ -9621,10 +10357,16 @@
       {
         "name": "King Minos",
         "mobLevel": 1750,
-        "coins": 5000,
         "xp": 5,
         "combatXp": 1000,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5000,
+            "maxAmount": 5000
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -9758,7 +10500,6 @@
       {
         "name": "Lagoon Leech",
         "mobLevel": 2,
-        "coins": 0,
         "xp": 0,
         "combatXp": 6,
         "drops": [
@@ -9804,10 +10545,16 @@
       {
         "name": "Lapis Zombie",
         "mobLevel": 17,
-        "coins": 5,
         "xp": 10,
         "combatXp": 12,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5,
+            "maxAmount": 5
+          },
           {
             "id": "ROTTEN_FLESH",
             "chance": 1,
@@ -9874,7 +10621,6 @@
       {
         "name": "Larva",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -9909,10 +10655,16 @@
       {
         "name": "Lava Blaze",
         "mobLevel": 100,
-        "coins": 10,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "ROUGH_TOPAZ_GEM",
             "chance": 1,
@@ -9962,10 +10714,16 @@
       {
         "name": "Lava Flame",
         "mobLevel": 230,
-        "coins": 1000,
         "xp": 2000,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "MAGMA_FISH",
             "chance": 1,
@@ -10017,10 +10775,16 @@
       {
         "name": "Lava Leech",
         "mobLevel": 220,
-        "coins": 500,
         "xp": 1000,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 500,
+            "maxAmount": 500
+          },
           {
             "id": "MAGMA_FISH",
             "chance": 1,
@@ -10064,10 +10828,16 @@
       {
         "name": "Lava Pigman",
         "mobLevel": 100,
-        "coins": 10,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "ROUGH_TOPAZ_GEM",
             "chance": 1,
@@ -10129,7 +10899,6 @@
       {
         "name": "Leech Supreme",
         "mobLevel": 10,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -10188,10 +10957,16 @@
       {
         "name": "Littlefoot",
         "mobLevel": 533,
-        "coins": 1333,
         "xp": 1599,
         "combatXp": 3998,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1333,
+            "maxAmount": 1333
+          },
           {
             "id": "ENCHANTED_GLACITE",
             "chance": 1,
@@ -10241,7 +11016,6 @@
       {
         "name": "Livid",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -10350,7 +11124,6 @@
       {
         "name": "Livid (Master Mode)",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -10519,10 +11292,16 @@
       {
         "name": "Lonely Spider",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 30,
         "combatXp": 12,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "ESSENCE_SPIDER",
             "chance": 0.06,
@@ -10566,10 +11345,16 @@
       {
         "name": "Lord Jawbus",
         "mobLevel": 600,
-        "coins": 10000,
         "xp": 10000,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10000,
+            "maxAmount": 10000
+          },
           {
             "id": "MAGMA_FISH_SILVER",
             "chance": 1,
@@ -10620,7 +11405,6 @@
       {
         "name": "Lotum",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -10660,7 +11444,6 @@
       {
         "name": "Lotusfish",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -10710,10 +11493,16 @@
       {
         "name": "Lotus Guardian",
         "mobLevel": 55,
-        "coins": 55,
         "xp": 66,
         "combatXp": 550,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 55,
+            "maxAmount": 55
+          },
           {
             "id": "LOTUS",
             "chance": 1,
@@ -10817,7 +11606,6 @@
       {
         "name": "Lumisquid",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -11009,10 +11797,16 @@
       {
         "name": "MMage OutlawM",
         "mobLevel": 200,
-        "coins": 100,
         "xp": 5000,
         "combatXp": 4000,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 100,
+            "maxAmount": 100
+          },
           {
             "id": "GLOWSTONE_DUST",
             "chance": 1,
@@ -11080,10 +11874,16 @@
       {
         "name": "Magma Cube (Boss)",
         "mobLevel": 500,
-        "coins": 125,
         "xp": 200,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 125,
+            "maxAmount": 125
+          },
           {
             "id": "MAGMA_CREAM",
             "chance": 1,
@@ -11173,10 +11973,16 @@
       {
         "name": "Magma Cube",
         "mobLevel": 75,
-        "coins": 20,
         "xp": 100,
         "combatXp": 60,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 20,
+            "maxAmount": 20
+          },
           {
             "id": "MAGMA_CREAM",
             "chance": 1,
@@ -11240,10 +12046,16 @@
       {
         "name": "Pack Magma Cube",
         "mobLevel": 90,
-        "coins": 20,
         "xp": 55,
         "combatXp": 80,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 20,
+            "maxAmount": 20
+          },
           {
             "id": "MAGMA_CREAM",
             "chance": 1,
@@ -11275,10 +12087,16 @@
       {
         "name": "Magma Cube Rider",
         "mobLevel": 90,
-        "coins": 20,
         "xp": 100,
         "combatXp": 120,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 20,
+            "maxAmount": 20
+          },
           {
             "id": "ROTTEN_FLESH",
             "chance": 1,
@@ -11310,10 +12128,16 @@
       {
         "name": "Magma Pillar",
         "mobLevel": 220,
-        "coins": 330,
         "xp": 330,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 330,
+            "maxAmount": 330
+          },
           {
             "id": "MAGMA_FISH_SILVER",
             "chance": 1,
@@ -11353,10 +12177,16 @@
       {
         "name": "Magma Slug",
         "mobLevel": 200,
-        "coins": 20,
         "xp": 100,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 20,
+            "maxAmount": 20
+          },
           {
             "id": "MAGMA_FISH",
             "chance": 1,
@@ -11400,10 +12230,16 @@
       {
         "name": "Baby Magma Slug",
         "mobLevel": 200,
-        "coins": 20,
         "xp": 100,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 20,
+            "maxAmount": 20
+          },
           {
             "id": "MAGMA_FISH",
             "chance": 1,
@@ -11467,10 +12303,16 @@
       {
         "name": "Manta Ray",
         "mobLevel": 124,
-        "coins": 186,
         "xp": 0,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 186,
+            "maxAmount": 186
+          },
           {
             "id": "CLAY_BALL",
             "chance": 1,
@@ -11514,10 +12356,16 @@
       {
         "name": "Manticore",
         "mobLevel": 1750,
-        "coins": 5000,
         "xp": 5,
         "combatXp": 1000,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5000,
+            "maxAmount": 5000
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -11603,11 +12451,11 @@
   "MASON_NPC": {
     "island": "farming_1",
     "position": {
-      "x": 178,
-      "y": 78,
+      "x": 177,
+      "y": 77,
       "z": -356
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNmY2I0Mjk2Mjg1ZTMzMWE5MzYwMzAwNzJiZTcxNmZjYjRiN2JhM2UzZjU0NDc3OTMyOTRjMDNlZWUxYzkyN2MifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2ZjYjQyOTYyODVlMzMxYTkzNjAzMDA3MmJlNzE2ZmNiNGI3YmEzZTNmNTQ0Nzc5MzI5NGMwM2VlZTFjOTI3YyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI1Mzg3YTU5Y2M0YzEyN2Y0OGYxYWZjZjI1YzY1NDYwNCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0MzU5NzQ2MTE5fQ==",
     "itemId": "minecraft:player_head",
     "name": "Mason",
     "type": "NPC"
@@ -11669,10 +12517,16 @@
       {
         "name": "Matcho",
         "mobLevel": 100,
-        "coins": 300,
         "xp": 100,
         "combatXp": 100,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 300,
+            "maxAmount": 300
+          },
           {
             "id": "SULPHUR_ORE",
             "chance": 0.5,
@@ -11740,7 +12594,6 @@
       {
         "name": "Blue Jerry",
         "mobLevel": 1,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -11763,7 +12616,6 @@
       {
         "name": "Golden Jerry",
         "mobLevel": 1,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -11786,7 +12638,6 @@
       {
         "name": "Green Jerry",
         "mobLevel": 1,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -11809,7 +12660,6 @@
       {
         "name": "Purple Jerry",
         "mobLevel": 1,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -11880,10 +12730,16 @@
       {
         "name": "Millennia-Aged Blaze",
         "mobLevel": 110,
-        "coins": 100,
         "xp": 35,
         "combatXp": 960,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 100,
+            "maxAmount": 100
+          },
           {
             "id": "BLAZE_ROD",
             "chance": 1,
@@ -11935,10 +12791,16 @@
       {
         "name": "Mimic",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 30,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "MIMIC_FRAGMENT",
             "chance": 1,
@@ -11967,10 +12829,16 @@
       {
         "name": "Miner Skeleton",
         "mobLevel": 15,
-        "coins": 12,
         "xp": 30,
         "combatXp": 20,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 12,
+            "maxAmount": 12
+          },
           {
             "id": "BONE",
             "chance": 1,
@@ -12018,10 +12886,16 @@
       {
         "name": "Miner Skeleton",
         "mobLevel": 20,
-        "coins": 15,
         "xp": 40,
         "combatXp": 24,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 15,
+            "maxAmount": 15
+          },
           {
             "id": "BONE",
             "chance": 1,
@@ -12076,10 +12950,16 @@
       {
         "name": "Miner Zombie",
         "mobLevel": 15,
-        "coins": 12,
         "xp": 30,
         "combatXp": 20,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 12,
+            "maxAmount": 12
+          },
           {
             "id": "ROTTEN_FLESH",
             "chance": 1,
@@ -12132,10 +13012,16 @@
       {
         "name": "Miner Zombie",
         "mobLevel": 20,
-        "coins": 15,
         "xp": 40,
         "combatXp": 24,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 15,
+            "maxAmount": 15
+          },
           {
             "id": "ROTTEN_FLESH",
             "chance": 1,
@@ -12220,10 +13106,16 @@
       {
         "name": "Venerale Minos Champion",
         "mobLevel": 175,
-        "coins": 800,
         "xp": 10,
         "combatXp": 80,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 800,
+            "maxAmount": 800
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -12241,10 +13133,16 @@
       {
         "name": "Exalted Minos Champion",
         "mobLevel": 310,
-        "coins": 4000,
         "xp": 20,
         "combatXp": 300,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 4000,
+            "maxAmount": 4000
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -12282,10 +13180,16 @@
       {
         "name": "Minos Hunter",
         "mobLevel": 15,
-        "coins": 50,
         "xp": 5,
         "combatXp": 5,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 50,
+            "maxAmount": 50
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -12309,10 +13213,16 @@
       {
         "name": "Blessed Minos Hunter",
         "mobLevel": 25,
-        "coins": 150,
         "xp": 5,
         "combatXp": 10,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 150,
+            "maxAmount": 150
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -12336,10 +13246,16 @@
       {
         "name": "Stalwart Minos Hunter",
         "mobLevel": 60,
-        "coins": 225,
         "xp": 8,
         "combatXp": 15,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 225,
+            "maxAmount": 225
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -12363,10 +13279,16 @@
       {
         "name": "Venerale Minos Hunter",
         "mobLevel": 80,
-        "coins": 300,
         "xp": 8,
         "combatXp": 20,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 300,
+            "maxAmount": 300
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -12390,10 +13312,16 @@
       {
         "name": "Exalted Minos Hunter",
         "mobLevel": 125,
-        "coins": 400,
         "xp": 5,
         "combatXp": 25,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 400,
+            "maxAmount": 400
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -12417,10 +13345,16 @@
       {
         "name": "Empyrean Minos Hunter",
         "mobLevel": 200,
-        "coins": 500,
         "xp": 5,
         "combatXp": 25,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 500,
+            "maxAmount": 500
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -12452,10 +13386,16 @@
       {
         "name": "Minos Inquisitor",
         "mobLevel": 750,
-        "coins": 35000,
         "xp": 100,
         "combatXp": 500,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 35000,
+            "maxAmount": 35000
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -12511,42 +13451,18 @@
     "type": "Mythological Creature",
     "lootTables": [
       {
-        "name": "Minotaur",
+        "name": "Venerable Minotaur",
         "mobLevel": 45,
-        "coins": 150,
         "xp": 5,
         "combatXp": 30,
         "drops": [
           {
-            "id": "ANCIENT_CLAW",
+            "type": "currency",
+            "currency": "coin",
             "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 2
-          }
-        ]
-      },
-      {
-        "name": "Stalwart Minotaur",
-        "mobLevel": 120,
-        "coins": 500,
-        "xp": 8,
-        "combatXp": 60,
-        "drops": [
-          {
-            "id": "ANCIENT_CLAW",
-            "chance": 1,
-            "minAmount": 3,
-            "maxAmount": 3
-          }
-        ]
-      },
-      {
-        "name": "Exalted Minotaur",
-        "mobLevel": 210,
-        "coins": 2000,
-        "xp": 15,
-        "combatXp": 150,
-        "drops": [
+            "minAmount": 150,
+            "maxAmount": 150
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -12555,31 +13471,97 @@
           },
           {
             "id": "ENCHANTED_GOLD",
+            "chance": 0.5,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DAEDALUS_STICK",
+            "chance": 0.0004,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_MYTHOLOGICAL",
+            "chance": 0.000002,
+            "minAmount": 1,
+            "maxAmount": 1
+          }
+        ]
+      },
+      {
+        "name": "Exalted Minotaur",
+        "mobLevel": 120,
+        "xp": 8,
+        "combatXp": 60,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
             "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 2
+            "minAmount": 500,
+            "maxAmount": 500
           },
           {
-            "id": "DWARF_TURTLE_SHELMET",
-            "chance": 0.0025,
+            "id": "ANCIENT_CLAW",
+            "chance": 1,
+            "minAmount": 12,
+            "maxAmount": 12
+          },
+          {
+            "id": "ENCHANTED_GOLD",
+            "chance": 0.5,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
-            "id": "ANTIQUE_REMEDIES",
-            "chance": 0.0025,
+            "id": "DAEDALUS_STICK",
+            "chance": 0.0006,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
-            "id": "CROCHET_TIGER_PLUSHIE",
-            "chance": 0.0025,
+            "id": "DYE_MYTHOLOGICAL",
+            "chance": 0.000002,
+            "minAmount": 1,
+            "maxAmount": 1
+          }
+        ]
+      },
+      {
+        "name": "Empyrean Minotaur",
+        "mobLevel": 210,
+        "xp": 15,
+        "combatXp": 150,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 2000,
+            "maxAmount": 2000
+          },
+          {
+            "id": "ANCIENT_CLAW",
+            "chance": 1,
+            "minAmount": 14,
+            "maxAmount": 14
+          },
+          {
+            "id": "ENCHANTED_GOLD",
+            "chance": 0.5,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
             "id": "DAEDALUS_STICK",
             "chance": 0.0008,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_MYTHOLOGICAL",
+            "chance": 0.000002,
             "minAmount": 1,
             "maxAmount": 1
           }
@@ -12596,10 +13578,16 @@
       {
         "name": "Mithril Grubber",
         "mobLevel": 15,
-        "coins": 10,
         "xp": 20,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "type": "currency",
             "currency": "POWDER_MITHRIL",
@@ -12636,10 +13624,16 @@
       {
         "name": "Medium Mithril Grubber",
         "mobLevel": 15,
-        "coins": 10,
         "xp": 20,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "type": "currency",
             "currency": "POWDER_MITHRIL",
@@ -12676,10 +13670,16 @@
       {
         "name": "Large Mithril Grubber",
         "mobLevel": 15,
-        "coins": 10,
         "xp": 20,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "type": "currency",
             "currency": "POWDER_MITHRIL",
@@ -12716,10 +13716,16 @@
       {
         "name": "Bloated Mithril Grubber",
         "mobLevel": 15,
-        "coins": 10,
         "xp": 20,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "type": "currency",
             "currency": "POWDER_MITHRIL",
@@ -12776,7 +13782,6 @@
       {
         "name": "Mochibear",
         "mobLevel": 1,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -12828,10 +13833,16 @@
       {
         "name": "Moogma",
         "mobLevel": 1,
-        "coins": 5,
         "xp": 0,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5,
+            "maxAmount": 5
+          },
           {
             "id": "MAGMA_FISH",
             "chance": 1,
@@ -12888,10 +13899,16 @@
       {
         "name": "Mushroom Bull",
         "mobLevel": 80,
-        "coins": 20,
         "xp": 80,
         "combatXp": 80,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 20,
+            "maxAmount": 20
+          },
           {
             "id": "RAW_BEEF",
             "chance": 1,
@@ -12935,7 +13952,6 @@
       {
         "name": "Mushroom Cow",
         "mobLevel": 1,
-        "coins": 0,
         "xp": 1,
         "combatXp": 5,
         "drops": [
@@ -12982,7 +13998,6 @@
       {
         "name": "Mutant Tarantula",
         "mobLevel": 380,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -13005,10 +14020,16 @@
       {
         "name": "Mutated Blaze",
         "mobLevel": 70,
-        "coins": 20,
         "xp": 60,
         "combatXp": 75,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 20,
+            "maxAmount": 20
+          },
           {
             "id": "BLAZE_ROD",
             "chance": 1,
@@ -13051,7 +14072,6 @@
       {
         "name": "Necron",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -13215,7 +14235,6 @@
       {
         "name": "Necron (Master Mode)",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -13458,10 +14477,16 @@
       {
         "name": "Nessie",
         "mobLevel": 302,
-        "coins": 1500,
         "xp": 3000,
         "combatXp": 7500,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1500,
+            "maxAmount": 1500
+          },
           {
             "id": "ENCHANTED_SEA_LUMIES",
             "chance": 1,
@@ -13528,10 +14553,16 @@
       {
         "name": "Nest Endermite",
         "mobLevel": 50,
-        "coins": 22,
         "xp": 24,
         "combatXp": 38,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 22,
+            "maxAmount": 22
+          },
           {
             "id": "ENCHANTED_ENDSTONE",
             "chance": 1,
@@ -13575,10 +14606,16 @@
       {
         "name": "Nightmare",
         "mobLevel": 24,
-        "coins": 500,
         "xp": 20,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 500,
+            "maxAmount": 500
+          },
           {
             "id": "GREEN_CANDY",
             "chance": 1,
@@ -13634,10 +14671,16 @@
       {
         "name": "Night Squid",
         "mobLevel": 6,
-        "coins": 5,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5,
+            "maxAmount": 5
+          },
           {
             "id": "INK_SACK",
             "chance": 1,
@@ -13698,7 +14741,6 @@
       {
         "name": "Not Chicken",
         "mobLevel": 1,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -13724,10 +14766,16 @@
       {
         "name": "Nurse Shark",
         "mobLevel": 6,
-        "coins": 5,
         "xp": 20,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5,
+            "maxAmount": 5
+          },
           {
             "id": "SHARK_FIN",
             "chance": 1,
@@ -13759,7 +14807,6 @@
       {
         "name": "Nutcracker",
         "mobLevel": 50,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -13812,7 +14859,6 @@
       {
         "name": "Oasis Rabbit",
         "mobLevel": 10,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -13865,10 +14911,16 @@
       {
         "name": "Oasis Sheep",
         "mobLevel": 10,
-        "coins": 5,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5,
+            "maxAmount": 5
+          },
           {
             "id": "MUTTON",
             "chance": 1,
@@ -13917,10 +14969,16 @@
       {
         "name": "Obsidian Defender",
         "mobLevel": 55,
-        "coins": 15,
         "xp": 10,
         "combatXp": 40,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 15,
+            "maxAmount": 15
+          },
           {
             "id": "OBSIDIAN",
             "chance": 1,
@@ -14058,10 +15116,16 @@
       {
         "name": "Old Ender Dragon",
         "mobLevel": 100,
-        "coins": 1000,
         "xp": 500,
         "combatXp": 300,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "ENDER_PEARL",
             "chance": 1,
@@ -14191,10 +15255,16 @@
       {
         "name": "Old Wolf",
         "mobLevel": 50,
-        "coins": 40,
         "xp": 30,
         "combatXp": 40,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 40,
+            "maxAmount": 40
+          },
           {
             "id": "BONE",
             "chance": 1,
@@ -14284,7 +15354,6 @@
       {
         "name": "Pack Enforcer",
         "mobLevel": 110,
-        "coins": 0,
         "xp": 0,
         "combatXp": 70,
         "drops": [
@@ -14307,10 +15376,16 @@
       {
         "name": "Pack Spirit",
         "mobLevel": 30,
-        "coins": 11,
         "xp": 10,
         "combatXp": 22,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 11,
+            "maxAmount": 11
+          },
           {
             "id": "BONE",
             "chance": 0.5,
@@ -14418,10 +15493,16 @@
       {
         "name": "Beetle",
         "mobLevel": 1,
-        "coins": 1000,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "ENCHANTED_NETHER_STALK",
             "chance": 1,
@@ -14517,10 +15598,16 @@
       {
         "name": "Cricket",
         "mobLevel": 1,
-        "coins": 1000,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "ENCHANTED_CARROT",
             "chance": 1,
@@ -14614,10 +15701,16 @@
       {
         "name": "Dragonfly",
         "mobLevel": 1,
-        "coins": 1000,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "ENCHANTED_SUNFLOWER",
             "chance": 1,
@@ -14711,10 +15804,16 @@
       {
         "name": "Earthworm",
         "mobLevel": 1,
-        "coins": 1000,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "ENCHANTED_MELON",
             "chance": 1,
@@ -14808,10 +15907,16 @@
       {
         "name": "Field Mouse",
         "mobLevel": 1,
-        "coins": 10000,
         "xp": 50,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10000,
+            "maxAmount": 10000
+          },
           {
             "id": "ENCHANTED_MELON",
             "chance": 1,
@@ -14945,10 +16050,16 @@
       {
         "name": "Firefly",
         "mobLevel": 1,
-        "coins": 1000,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "ENCHANTED_MOONFLOWER",
             "chance": 1,
@@ -15042,10 +16153,16 @@
       {
         "name": "Fly",
         "mobLevel": 1,
-        "coins": 1000,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "ENCHANTED_WHEAT",
             "chance": 1,
@@ -15139,10 +16256,16 @@
       {
         "name": "Locust",
         "mobLevel": 1,
-        "coins": 1000,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "ENCHANTED_POTATO",
             "chance": 1,
@@ -15231,7 +16354,106 @@
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjE1OTE4MzkzMSwKICAicHJvZmlsZUlkIiA6ICIxNzRjZmRiNGEzY2I0M2I1YmZjZGU0MjRjM2JiMmM2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXJhZWwxOCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iZWU0ZmNjNWFhYzI3YmRiYjBiZTIxMGRmMDhiMDViY2E1YWViYzg5YmYyODIxZjYwOGE1NWZkMmNmMDQzNGJlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
     "itemId": "minecraft:player_head",
     "name": "Lunar Moth",
-    "type": "Pest"
+    "type": "Pest",
+    "lootTables": [
+      {
+        "name": "Lunar Moth",
+        "mobLevel": 1,
+        "xp": 10,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
+          {
+            "id": "COMPOST",
+            "chance": 0.1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "HONEY_JAR",
+            "chance": 0.1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DUNG",
+            "chance": 0.1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "PLANT_MATTER",
+            "chance": 0.1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "CHEESE_FUEL",
+            "chance": 0.1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "JELLY",
+            "chance": 0.1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "ENCHANTED_SUNFLOWER",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 2
+          },
+          {
+            "id": "ENCHANTED_MOONFLOWER",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 2
+          },
+          {
+            "id": "ENCHANTED_WILD_ROSE",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 2
+          },
+          {
+            "type": "enchantment",
+            "id": "ULTIMATE_SUNSET",
+            "level": 1,
+            "chance": 0.35,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_DUNG",
+            "chance": 0.000002,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "PEST_LUCK",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 §7- §7Catch with §cPocket Black Hole§7.",
+              "§7 §7- §7Catch with §bLasso§7.",
+              "§7 §7- §7Kill Cricket§7, Fly§7, Beetle§7, Earthworm§7,",
+              "§7Locust§7, Slug§7, Mosquito§7, Moth§7, Rat§7, or",
+              "§7Mite §7while using §cSalts§7."
+            ]
+          }
+        ]
+      }
+    ]
   },
   "PEST_MITE_MONSTER": {
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY5Njg3MDQxOTcyNSwKICAicHJvZmlsZUlkIiA6ICJkYjYzNWE3MWI4N2U0MzQ5YThhYTgwOTMwOWFhODA3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbmdlbHMxNzQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmU2YmFmNjQzMWE5ZGFhMmNhNjA0ZDVhM2MyNmU5YTc2MWQ1OTUyZjA4MTcxNzRhNGZlMGI3NjQ2MTZlMjFmZiIKICAgIH0KICB9Cn0",
@@ -15242,10 +16464,16 @@
       {
         "name": "Mite",
         "mobLevel": 1,
-        "coins": 1000,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "ENCHANTED_CACTUS_GREEN",
             "chance": 1,
@@ -15339,10 +16567,16 @@
       {
         "name": "Mosquito",
         "mobLevel": 1,
-        "coins": 1000,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "ENCHANTED_SUGAR",
             "chance": 1,
@@ -15436,10 +16670,16 @@
       {
         "name": "Moth",
         "mobLevel": 1,
-        "coins": 1000,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "ENCHANTED_COCOA",
             "chance": 1,
@@ -15533,10 +16773,16 @@
       {
         "name": "Praying Mantis",
         "mobLevel": 1,
-        "coins": 1000,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "ENCHANTED_WILD_ROSE",
             "chance": 1,
@@ -15630,10 +16876,16 @@
       {
         "name": "Rat",
         "mobLevel": 1,
-        "coins": 1000,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "ENCHANTED_PUMPKIN",
             "chance": 1,
@@ -15729,10 +16981,16 @@
       {
         "name": "Slug",
         "mobLevel": 1,
-        "coins": 25,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 25,
+            "maxAmount": 25
+          },
           {
             "id": "ENCHANTED_RED_MUSHROOM",
             "chance": 1,
@@ -15828,10 +17086,16 @@
       {
         "name": "Phanflare",
         "mobLevel": 10,
-        "coins": 5,
         "xp": 2,
         "combatXp": 15,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5,
+            "maxAmount": 5
+          },
           {
             "type": "attribute",
             "id": "MOONGLADE_MASTERY",
@@ -15857,10 +17121,16 @@
       {
         "name": "Phanpyre",
         "mobLevel": 10,
-        "coins": 5,
         "xp": 2,
         "combatXp": 15,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5,
+            "maxAmount": 5
+          },
           {
             "type": "attribute",
             "id": "NOCTURNAL_ANIMAL",
@@ -15886,10 +17156,16 @@
       {
         "name": "Phantom Fisherman",
         "mobLevel": 160,
-        "coins": 2000,
         "xp": 100,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 2000,
+            "maxAmount": 2000
+          },
           {
             "id": "PURPLE_CANDY",
             "chance": 1,
@@ -15939,10 +17215,16 @@
       {
         "name": "Phantom Spirit",
         "mobLevel": 35,
-        "coins": 1,
         "xp": 1,
         "combatXp": 20,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "GREEN_CANDY",
             "chance": 1,
@@ -15992,7 +17274,6 @@
       {
         "name": "Pig",
         "mobLevel": 1,
-        "coins": 0,
         "xp": 1,
         "combatXp": 3,
         "drops": [
@@ -16039,10 +17320,16 @@
       {
         "name": "Plhlegblast",
         "mobLevel": 300,
-        "coins": 1000,
         "xp": 300,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "WATER_LILY",
             "chance": 1,
@@ -16122,10 +17409,16 @@
       {
         "name": "Poisoned Water Worm",
         "mobLevel": 25,
-        "coins": 10,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "ROUGH_AMBER_GEM",
             "chance": 1,
@@ -16175,10 +17468,16 @@
       {
         "name": "Pond Squid",
         "mobLevel": 1,
-        "coins": 5,
         "xp": 5,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5,
+            "maxAmount": 5
+          },
           {
             "id": "WATER_LILY",
             "chance": 1,
@@ -16246,7 +17545,6 @@
       {
         "name": "Powder Ghast",
         "mobLevel": 1,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -16285,7 +17583,6 @@
       {
         "name": "The Professor",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -16339,7 +17636,6 @@
       {
         "name": "The Professor (Master Mode)",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -16419,10 +17715,16 @@
       {
         "name": "Protector Ender Dragon",
         "mobLevel": 100,
-        "coins": 1000,
         "xp": 500,
         "combatXp": 300,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "ENDER_PEARL",
             "chance": 1,
@@ -16600,10 +17902,16 @@
       {
         "name": "Puddle Jumper",
         "mobLevel": 85,
-        "coins": 200,
         "xp": 200,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 200,
+            "maxAmount": 200
+          },
           {
             "id": "LOTUS_SILVER",
             "chance": 1,
@@ -16641,7 +17949,6 @@
       {
         "name": "Puff",
         "mobLevel": 7,
-        "coins": 0,
         "xp": 0,
         "combatXp": 6,
         "drops": [
@@ -16683,10 +17990,16 @@
       {
         "name": "Pyroclastic Worm",
         "mobLevel": 240,
-        "coins": 200,
         "xp": 400,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 200,
+            "maxAmount": 200
+          },
           {
             "id": "MAGMA_FISH",
             "chance": 1,
@@ -16750,10 +18063,16 @@
       {
         "name": "Ragnarok",
         "mobLevel": 666,
-        "coins": 7500,
         "xp": 7500,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 7500,
+            "maxAmount": 7500
+          },
           {
             "id": "MAGMA_FISH_SILVER",
             "chance": 1,
@@ -16809,10 +18128,16 @@
       {
         "name": "Rain Slime",
         "mobLevel": 8,
-        "coins": 5,
         "xp": 5,
         "combatXp": 12,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5,
+            "maxAmount": 5
+          },
           {
             "id": "SLIME_BALL",
             "chance": 1,
@@ -16836,10 +18161,16 @@
       {
         "name": "Slimey Slime",
         "mobLevel": 50,
-        "coins": 10,
         "xp": 8,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "SLIME_BALL",
             "chance": 1,
@@ -16883,10 +18214,16 @@
       {
         "name": "Redstone Pigman",
         "mobLevel": 10,
-        "coins": 12,
         "xp": 25,
         "combatXp": 20,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 12,
+            "maxAmount": 12
+          },
           {
             "id": "GOLD_NUGGET",
             "chance": 0.5,
@@ -16936,7 +18273,6 @@
       {
         "name": "Reindrake",
         "mobLevel": 100,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -17113,7 +18449,6 @@
       {
         "name": "Revenant Champion",
         "mobLevel": 150,
-        "coins": 0,
         "xp": 0,
         "combatXp": 600,
         "drops": [
@@ -17136,7 +18471,6 @@
       {
         "name": "Revenant Horror I",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 5,
         "combatXp": 0,
         "drops": [
@@ -17165,7 +18499,6 @@
       {
         "name": "Revenant Horror II",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 25,
         "combatXp": 0,
         "drops": [
@@ -17214,7 +18547,6 @@
       {
         "name": "Revenant Horror III",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 100,
         "combatXp": 0,
         "drops": [
@@ -17283,7 +18615,6 @@
       {
         "name": "Revenant Horror IV",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 500,
         "combatXp": 0,
         "drops": [
@@ -17366,7 +18697,6 @@
       {
         "name": "Revenant Horror V",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 1500,
         "combatXp": 0,
         "drops": [
@@ -17478,7 +18808,6 @@
       {
         "name": "Revenant Sycophant",
         "mobLevel": 80,
-        "coins": 0,
         "xp": 0,
         "combatXp": 360,
         "drops": [
@@ -17561,10 +18890,16 @@
       {
         "name": "Rider of the Deep",
         "mobLevel": 20,
-        "coins": 10,
         "xp": 15,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "DARK_BAIT",
             "chance": 0.5,
@@ -17622,7 +18957,6 @@
       {
         "name": "Riftstalker Bloodfiend I",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 10,
         "combatXp": 0,
         "drops": [
@@ -17651,7 +18985,6 @@
       {
         "name": "Riftstalker Bloodfiend II",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 25,
         "combatXp": 0,
         "drops": [
@@ -17706,7 +19039,6 @@
       {
         "name": "Riftstalker Bloodfiend III",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 60,
         "combatXp": 0,
         "drops": [
@@ -17767,7 +19099,6 @@
       {
         "name": "Riftstalker Bloodfiend IV",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 120,
         "combatXp": 0,
         "drops": [
@@ -17840,7 +19171,6 @@
       {
         "name": "Riftstalker Bloodfiend V",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 150,
         "combatXp": 0,
         "drops": [
@@ -18081,7 +19411,6 @@
       {
         "name": "Sadan",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -18210,7 +19539,6 @@
       {
         "name": "Sadan (Master Mode)",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -18391,7 +19719,6 @@
       {
         "name": "Salmon",
         "mobLevel": 5,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -18459,10 +19786,16 @@
       {
         "name": "Scarecrow",
         "mobLevel": 9,
-        "coins": 100,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 100,
+            "maxAmount": 100
+          },
           {
             "id": "PUMPKIN",
             "chance": 1,
@@ -18505,10 +19838,16 @@
       {
         "name": "Scared Skeleton",
         "mobLevel": 0,
-        "coins": 5,
         "xp": 30,
         "combatXp": 40,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5,
+            "maxAmount": 5
+          },
           {
             "id": "ENCHANTED_BONE",
             "chance": 0.05,
@@ -18540,7 +19879,6 @@
       {
         "name": "Scarf",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -18589,7 +19927,6 @@
       {
         "name": "Scarf (Master Mode)",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -18656,10 +19993,16 @@
       {
         "name": "Scary Jerry",
         "mobLevel": 30,
-        "coins": 1,
         "xp": 1,
         "combatXp": 20,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "GREEN_CANDY",
             "chance": 1,
@@ -18691,10 +20034,16 @@
       {
         "name": "Scatha",
         "mobLevel": 10,
-        "coins": 10,
         "xp": 2,
         "combatXp": 50,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "FINE_TOPAZ_GEM",
             "chance": 1,
@@ -18810,7 +20159,6 @@
       {
         "name": "Scribe",
         "mobLevel": 5,
-        "coins": 0,
         "xp": 0,
         "combatXp": 6,
         "drops": [
@@ -18840,10 +20188,16 @@
       {
         "name": "Seacurse",
         "mobLevel": 100,
-        "coins": 20,
         "xp": 100,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 20,
+            "maxAmount": 20
+          },
           {
             "id": "GILL_MEMBRANE",
             "chance": 1.3,
@@ -18876,7 +20230,6 @@
       {
         "name": "Seashine",
         "mobLevel": 12,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -18914,10 +20267,16 @@
       {
         "name": "Sea Archer",
         "mobLevel": 15,
-        "coins": 10,
         "xp": 20,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "WATER_LILY",
             "chance": 1,
@@ -18967,10 +20326,16 @@
       {
         "name": "The Loch Emperor",
         "mobLevel": 150,
-        "coins": 150,
         "xp": 120,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 150,
+            "maxAmount": 150
+          },
           {
             "id": "SEA_LUMIES",
             "chance": 1,
@@ -19055,10 +20420,16 @@
       {
         "name": "Sea Guardian",
         "mobLevel": 10,
-        "coins": 10,
         "xp": 30,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "WATER_LILY",
             "chance": 1,
@@ -19102,10 +20473,16 @@
       {
         "name": "Sea Leech",
         "mobLevel": 30,
-        "coins": 50,
         "xp": 35,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 50,
+            "maxAmount": 50
+          },
           {
             "id": "WATER_LILY",
             "chance": 1,
@@ -19157,10 +20534,16 @@
       {
         "name": "Sea Walker",
         "mobLevel": 4,
-        "coins": 5,
         "xp": 20,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5,
+            "maxAmount": 5
+          },
           {
             "id": "ROTTEN_FLESH",
             "chance": 1,
@@ -19198,10 +20581,16 @@
       {
         "name": "Sea Witch",
         "mobLevel": 15,
-        "coins": 10,
         "xp": 30,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "WATER_LILY",
             "chance": 1,
@@ -19253,6 +20642,18 @@
         ]
       }
     ]
+  },
+  "SECURITY_CLERK_NPC": {
+    "island": "hub",
+    "position": {
+      "x": -23,
+      "y": 46,
+      "z": -120
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjIzM2M2YTBkMGIwNTdmOTc1MmNlM2FkZWIyMjY5YWRjMzY4NmYzMzMyYjBjNTQ2ZWQ3ZTgwOTcwZGNiYzkwYiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI5NWIxMDY0NzY5NDAyZTViYmVlNmNkMTE5MjE5NThkZCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgzNTcxMDgzMzEyfQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Security Clerk",
+    "type": "NPC"
   },
   "SEFFEA_NPC": {
     "island": "crimson_isle",
@@ -19323,10 +20724,16 @@
       {
         "name": "Shadow Assassin",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 100,
         "combatXp": 115,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "SILENT_DEATH",
             "chance": 0.04,
@@ -19346,7 +20753,6 @@
       {
         "name": "Shadow",
         "mobLevel": 3,
-        "coins": 0,
         "xp": 0,
         "combatXp": 6,
         "drops": [
@@ -19411,7 +20817,6 @@
       {
         "name": "Sheep",
         "mobLevel": 1,
-        "coins": 0,
         "xp": 1,
         "combatXp": 3,
         "drops": [
@@ -19440,7 +20845,6 @@
       {
         "name": "Shellwise",
         "mobLevel": 5,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -19529,7 +20933,6 @@
       {
         "name": "Shy",
         "mobLevel": 1,
-        "coins": 0,
         "xp": 0,
         "combatXp": 6,
         "drops": [
@@ -19559,10 +20962,16 @@
       {
         "name": "Siamese Lynx",
         "mobLevel": 25,
-        "coins": 80,
         "xp": 5,
         "combatXp": 20,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 80,
+            "maxAmount": 80
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -19574,10 +20983,16 @@
       {
         "name": "Stalwart Siamese Lynx",
         "mobLevel": 85,
-        "coins": 250,
         "xp": 8,
         "combatXp": 50,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 250,
+            "maxAmount": 250
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -19589,10 +21004,16 @@
       {
         "name": "Exalted Siamese Lynx",
         "mobLevel": 155,
-        "coins": 1500,
         "xp": 9,
         "combatXp": 70,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1500,
+            "maxAmount": 1500
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -19648,7 +21069,6 @@
       {
         "name": "Silverfish",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 1,
         "combatXp": 0,
         "drops": [
@@ -19695,10 +21115,16 @@
       {
         "name": "Skeleton Grunt",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 30,
         "combatXp": 40,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "ENCHANTED_BONE",
             "chance": 0.02,
@@ -19754,10 +21180,16 @@
       {
         "name": "Skeleton Master",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 30,
         "combatXp": 52,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "ENCHANTED_BONE",
             "chance": 0.02,
@@ -19812,10 +21244,16 @@
       {
         "name": "Skeleton",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 1,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "BONE",
             "chance": 1,
@@ -19835,10 +21273,16 @@
       {
         "name": "Skeleton Soldier",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 30,
         "combatXp": 46,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "ENCHANTED_BONE",
             "chance": 0.02,
@@ -19888,10 +21332,16 @@
       {
         "name": "Skeletor",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 30,
         "combatXp": 80,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "ENCHANTED_BONE",
             "chance": 0.02,
@@ -19953,10 +21403,16 @@
       {
         "name": "Skeletor Prime",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 30,
         "combatXp": 100,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "SKELETOR_HELMET",
             "chance": 0.05,
@@ -20017,10 +21473,16 @@
       {
         "name": "Slime",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 1,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "SLIME_BALL",
             "chance": 1,
@@ -20040,10 +21502,16 @@
       {
         "name": "Sludge",
         "mobLevel": 5,
-        "coins": 1,
         "xp": 1,
         "combatXp": 15,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "SLUDGE_JUICE",
             "chance": 1,
@@ -20075,10 +21543,16 @@
       {
         "name": "Smoldering Blaze",
         "mobLevel": 95,
-        "coins": 25,
         "xp": 10,
         "combatXp": 240,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 25,
+            "maxAmount": 25
+          },
           {
             "id": "BLAZE_ROD",
             "chance": 1,
@@ -20124,10 +21598,16 @@
       {
         "name": "Snapping Turtle",
         "mobLevel": 30,
-        "coins": 100,
         "xp": 30,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 100,
+            "maxAmount": 100
+          },
           {
             "id": "CLAY_BALL",
             "chance": 1,
@@ -20176,10 +21656,16 @@
       {
         "name": "Sneaky Creeper",
         "mobLevel": 3,
-        "coins": 3,
         "xp": 3,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 3,
+            "maxAmount": 3
+          },
           {
             "id": "SULPHUR",
             "chance": 1,
@@ -20205,10 +21691,16 @@
       {
         "name": "Sniper",
         "mobLevel": 123,
-        "coins": 1,
         "xp": 30,
         "combatXp": 100,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "ENCHANTED_BONE",
             "chance": 0.02,
@@ -20258,10 +21750,16 @@
       {
         "name": "Soul of the Alpha",
         "mobLevel": 55,
-        "coins": 50,
         "xp": 15,
         "combatXp": 50,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 50,
+            "maxAmount": 50
+          },
           {
             "id": "LOG-3",
             "chance": 1,
@@ -20328,10 +21826,16 @@
       {
         "name": "Sphinx",
         "mobLevel": 750,
-        "coins": 2500,
         "xp": 5,
         "combatXp": 500,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 2500,
+            "maxAmount": 2500
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -20367,10 +21871,16 @@
       {
         "name": "Sphinx",
         "mobLevel": 1250,
-        "coins": 2500,
         "xp": 5,
         "combatXp": 750,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 2500,
+            "maxAmount": 2500
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -20414,10 +21924,16 @@
       {
         "name": "Spider Jokey",
         "mobLevel": 3,
-        "coins": 2,
         "xp": 4,
         "combatXp": 9,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 2
+          },
           {
             "id": "SPIDER_EYE",
             "chance": 0.1,
@@ -20441,10 +21957,16 @@
       {
         "name": "Spider Jokey",
         "mobLevel": 5,
-        "coins": 2,
         "xp": 5,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 2
+          },
           {
             "id": "SPIDER_EYE",
             "chance": 0.1,
@@ -20468,10 +21990,16 @@
       {
         "name": "Spider Jokey",
         "mobLevel": 42,
-        "coins": 10,
         "xp": 7,
         "combatXp": 32,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "SPIDER_EYE",
             "chance": 0.1,
@@ -20503,10 +22031,16 @@
       {
         "name": "Spider",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 1,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "SPIDER_EYE",
             "chance": 0.5,
@@ -20544,7 +22078,6 @@
       {
         "name": "Spike",
         "mobLevel": 5,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -20575,7 +22108,6 @@
       {
         "name": "Splatter",
         "mobLevel": 6,
-        "coins": 0,
         "xp": 0,
         "combatXp": 30,
         "drops": [
@@ -20611,10 +22143,16 @@
       {
         "name": "Splitter Spider",
         "mobLevel": 3,
-        "coins": 2,
         "xp": 3,
         "combatXp": 9,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 2
+          },
           {
             "id": "SPIDER_EYE",
             "chance": 0.1,
@@ -20654,10 +22192,16 @@
       {
         "name": "Splitter Spider",
         "mobLevel": 42,
-        "coins": 10,
         "xp": 8,
         "combatXp": 28,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "SPIDER_EYE",
             "chance": 0.1,
@@ -20711,10 +22255,16 @@
       {
         "name": "Star Sentry",
         "mobLevel": 50,
-        "coins": 100,
         "xp": 50,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 100,
+            "maxAmount": 100
+          },
           {
             "id": "MITHRIL_ORE",
             "chance": 1,
@@ -20758,10 +22308,16 @@
       {
         "name": "Blessed Stranded Nymph",
         "mobLevel": 40,
-        "coins": 200,
         "xp": 5,
         "combatXp": 15,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 200,
+            "maxAmount": 200
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -20791,10 +22347,16 @@
       {
         "name": "Stalwart Stranded Nymph",
         "mobLevel": 70,
-        "coins": 275,
         "xp": 5,
         "combatXp": 20,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 275,
+            "maxAmount": 275
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -20824,10 +22386,16 @@
       {
         "name": "Venerable Stranded Nymph",
         "mobLevel": 95,
-        "coins": 350,
         "xp": 5,
         "combatXp": 25,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 350,
+            "maxAmount": 350
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -20857,10 +22425,16 @@
       {
         "name": "Exalted Stranded Nymph",
         "mobLevel": 150,
-        "coins": 450,
         "xp": 5,
         "combatXp": 30,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 450,
+            "maxAmount": 450
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -20890,10 +22464,16 @@
       {
         "name": "Empyrean Stranded Nymph",
         "mobLevel": 250,
-        "coins": 550,
         "xp": 5,
         "combatXp": 35,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 550,
+            "maxAmount": 550
+          },
           {
             "id": "ANCIENT_CLAW",
             "chance": 1,
@@ -20931,10 +22511,16 @@
       {
         "name": "Stridersurfer",
         "mobLevel": 20,
-        "coins": 50,
         "xp": 35,
         "combatXp": 100,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 50,
+            "maxAmount": 50
+          },
           {
             "id": "GILL_MEMBRANE",
             "chance": 1,
@@ -20964,10 +22550,16 @@
       {
         "name": "Stridersurfer (Sea Creature)",
         "mobLevel": 21,
-        "coins": 50,
         "xp": 35,
         "combatXp": 800,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 50,
+            "maxAmount": 50
+          },
           {
             "id": "GILL_MEMBRANE",
             "chance": 1,
@@ -21011,10 +22603,16 @@
       {
         "name": "Strong Ender Dragon",
         "mobLevel": 100,
-        "coins": 1000,
         "xp": 500,
         "combatXp": 300,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "ENDER_PEARL",
             "chance": 1,
@@ -21144,10 +22742,16 @@
       {
         "name": "Superior Ender Dragon",
         "mobLevel": 100,
-        "coins": 1000,
         "xp": 500,
         "combatXp": 300,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "ENDER_PEARL",
             "chance": 1,
@@ -21247,10 +22851,16 @@
       {
         "name": "Superior Lost Adventurer",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 100,
         "combatXp": 158,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "SUPERIOR_FRAGMENT",
             "chance": 1,
@@ -21288,10 +22898,16 @@
       {
         "name": "Super Archer",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 30,
         "combatXp": 70,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "BOUNCY_HELMET",
             "chance": 0.03,
@@ -21334,10 +22950,16 @@
       {
         "name": "Super Tank Zombie",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 30,
         "combatXp": 70,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "SUPER_HEAVY_HELMET",
             "chance": 0.025,
@@ -21391,6 +23013,18 @@
       }
     ]
   },
+  "SUSAN_NPC": {
+    "island": "hub",
+    "position": {
+      "x": -2,
+      "y": 79,
+      "z": 25
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWY1MDdiMDc4Mjc0Y2UxNDc1NjVmYmYxNjZiODgyZWI0M2FkNmE0ZDkzYWUxNjAxOGFkOWIwMGEyZWE0YTA4ZiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJlYjVhZDNkZDViZmYyMjM0YjEyNTAyODZiMzNlODdiZSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgzNTcxMDQ0NzcwfQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Susan",
+    "type": "NPC"
+  },
   "SUUS_NPC": {
     "island": "crimson_isle",
     "position": {
@@ -21412,7 +23046,6 @@
       {
         "name": "Sven Alpha",
         "mobLevel": 350,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -21435,7 +23068,6 @@
       {
         "name": "Sven Follower",
         "mobLevel": 170,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -21458,7 +23090,6 @@
       {
         "name": "Sven Packmaster I",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 5,
         "combatXp": 0,
         "drops": [
@@ -21487,7 +23118,6 @@
       {
         "name": "Sven Packmaster II",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 25,
         "combatXp": 0,
         "drops": [
@@ -21530,7 +23160,6 @@
       {
         "name": "Sven Packmaster III",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 100,
         "combatXp": 0,
         "drops": [
@@ -21593,7 +23222,6 @@
       {
         "name": "Sven Packmaster IV",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 500,
         "combatXp": 0,
         "drops": [
@@ -21676,10 +23304,16 @@
       {
         "name": "Tadgang (Frog)",
         "mobLevel": 8,
-        "coins": 5,
         "xp": 5,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5,
+            "maxAmount": 5
+          },
           {
             "id": "SEA_LUMIES",
             "chance": 1,
@@ -21728,10 +23362,16 @@
       {
         "name": "Tadgang (Frog)",
         "mobLevel": 10,
-        "coins": 6,
         "xp": 6,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 6,
+            "maxAmount": 6
+          },
           {
             "id": "SEA_LUMIES",
             "chance": 1,
@@ -21788,10 +23428,16 @@
       {
         "name": "Tadgang",
         "mobLevel": 8,
-        "coins": 5,
         "xp": 5,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5,
+            "maxAmount": 5
+          },
           {
             "id": "DYE_AQUAMARINE",
             "chance": 4.0000000000000003e-7,
@@ -21805,11 +23451,11 @@
   "TALBOT_NPC": {
     "island": "farming_1",
     "position": {
-      "x": 286,
-      "y": 105,
-      "z": -548
+      "x": 285,
+      "y": 104,
+      "z": -549
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlNzhlNGI4ZTk4MGZiODY4YzdkOGJjNWI4YTlhZmQ1MjJlNjVhZmRlNWQ0NWRlMGRkNzU1MDhlYTVkOTE3OGQifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlNzhlNGI4ZTk4MGZiODY4YzdkOGJjNWI4YTlhZmQ1MjJlNjVhZmRlNWQ0NWRlMGRkNzU1MDhlYTVkOTE3OGQiLCJtZXRhZGF0YSI6e319fSwicHJvZmlsZUlkIjoiM2JjOTFiM2QxZGQ5MmExMDg3M2ZiN2RkNTlhOTk3YmMiLCJwcm9maWxlTmFtZSI6Im5lYTg5IiwiaXNQdWJsaWMiOnRydWUsInRpbWVzdGFtcCI6MTc4MjUwNDA4NDgyN30=",
     "itemId": "minecraft:player_head",
     "name": "Talbot",
     "type": "NPC"
@@ -21858,10 +23504,16 @@
       {
         "name": "Tank Zombie",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 30,
         "combatXp": 60,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "HEAVY_HELMET",
             "chance": 0.05,
@@ -21918,7 +23570,6 @@
       {
         "name": "Tarantula Beast",
         "mobLevel": 190,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -21941,10 +23592,16 @@
       {
         "name": "Tarantula Broodfather I",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 1,
         "combatXp": 50,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "TARANTULA_WEB",
             "chance": 1,
@@ -21973,10 +23630,16 @@
       {
         "name": "Tarantula Broodfather II",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 1,
         "combatXp": 50,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "TARANTULA_WEB",
             "chance": 1,
@@ -22034,10 +23697,16 @@
       {
         "name": "Tarantula Broodfather III",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 1,
         "combatXp": 200,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "TARANTULA_WEB",
             "chance": 1,
@@ -22133,7 +23802,6 @@
       {
         "name": "Tarantula Broodfather IV",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 5,
         "combatXp": 0,
         "drops": [
@@ -22261,10 +23929,16 @@
       {
         "name": "Tarantula Broodfather V",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 1,
         "combatXp": 500,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "TARANTULA_WEB",
             "chance": 1,
@@ -22416,7 +24090,6 @@
       {
         "name": "Tarantula Vermin",
         "mobLevel": 120,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -22451,10 +24124,16 @@
       {
         "name": "Taurus",
         "mobLevel": 250,
-        "coins": 2000,
         "xp": 4000,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 2000,
+            "maxAmount": 2000
+          },
           {
             "id": "MAGMA_FISH_SILVER",
             "chance": 1,
@@ -22588,7 +24267,6 @@
       {
         "name": "Thorn",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -22681,7 +24359,6 @@
       {
         "name": "Thorn (Master Mode)",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -22812,7 +24489,6 @@
       {
         "name": "Thrall",
         "mobLevel": 6,
-        "coins": 0,
         "xp": 0,
         "combatXp": 30,
         "drops": [
@@ -22848,10 +24524,16 @@
       {
         "name": "Thunder",
         "mobLevel": 400,
-        "coins": 5000,
         "xp": 10000,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5000,
+            "maxAmount": 5000
+          },
           {
             "id": "MAGMA_FISH_SILVER",
             "chance": 1,
@@ -22891,10 +24573,16 @@
       {
         "name": "Thyst",
         "mobLevel": 20,
-        "coins": 10,
         "xp": 10,
         "combatXp": 15,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "ROUGH_AMETHYST_GEM",
             "chance": 1,
@@ -22938,10 +24626,16 @@
       {
         "name": "Tidetot",
         "mobLevel": 100,
-        "coins": 20,
         "xp": 100,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 20,
+            "maxAmount": 20
+          },
           {
             "id": "GILL_MEMBRANE",
             "chance": 1.2,
@@ -22974,10 +24668,16 @@
       {
         "name": "Tiger Shark",
         "mobLevel": 50,
-        "coins": 20,
         "xp": 80,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 20,
+            "maxAmount": 20
+          },
           {
             "id": "SHARK_FIN",
             "chance": 1,
@@ -23017,10 +24717,16 @@
       {
         "name": "Titanoboa",
         "mobLevel": 240,
-        "coins": 5500,
         "xp": 175,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5500,
+            "maxAmount": 5500
+          },
           {
             "id": "ENCHANTED_WATER_LILY",
             "chance": 1,
@@ -23094,10 +24800,16 @@
       {
         "name": "Toxic Rain Slime",
         "mobLevel": 20,
-        "coins": 20,
         "xp": 5,
         "combatXp": 30,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 20,
+            "maxAmount": 20
+          },
           {
             "id": "SLIME_BALL",
             "chance": 1,
@@ -23141,10 +24853,16 @@
       {
         "name": "Trash Gobbler",
         "mobLevel": 8,
-        "coins": 8,
         "xp": 15,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 8,
+            "maxAmount": 8
+          },
           {
             "id": "WATER_LILY",
             "chance": 1,
@@ -23176,7 +24894,6 @@
       {
         "name": "Treasure Hoarder",
         "mobLevel": 70,
-        "coins": 0,
         "xp": 0,
         "combatXp": 70,
         "drops": [
@@ -23235,10 +24952,16 @@
       {
         "name": "Trick or Treater",
         "mobLevel": 30,
-        "coins": 1,
         "xp": 1,
         "combatXp": 20,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "GREEN_CANDY",
             "chance": 1,
@@ -23378,10 +25101,16 @@
       {
         "name": "Undead",
         "mobLevel": 8,
-        "coins": 1,
         "xp": 30,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "BEATING_HEART",
             "chance": 0.002,
@@ -23393,10 +25122,16 @@
       {
         "name": "Undead (Master)",
         "mobLevel": 4,
-        "coins": 1,
         "xp": 50,
         "combatXp": 225,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "BEATING_HEART",
             "chance": 0.001,
@@ -23415,10 +25150,16 @@
       {
         "name": "Undead Skeleton",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 30,
         "combatXp": 36,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "ENCHANTED_BONE",
             "chance": 0.02,
@@ -23444,10 +25185,16 @@
       {
         "name": "Unstable Ender Dragon",
         "mobLevel": 100,
-        "coins": 1000,
         "xp": 500,
         "combatXp": 300,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "ENDER_PEARL",
             "chance": 1,
@@ -23541,10 +25288,16 @@
       {
         "name": "Unstable Lost Adventurer",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 100,
         "combatXp": 100,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "UNSTABLE_FRAGMENT",
             "chance": 1,
@@ -23611,10 +25364,16 @@
       {
         "name": "Vanquisher",
         "mobLevel": 100,
-        "coins": 100,
         "xp": 50,
         "combatXp": 1000,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 100,
+            "maxAmount": 100
+          },
           {
             "id": "CORRUPTED_NETHER_STAR",
             "chance": 1,
@@ -23687,7 +25446,6 @@
       {
         "name": "Voidcrazed Maniac",
         "mobLevel": 730,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -23710,7 +25468,6 @@
       {
         "name": "Voidgloom Seraph I",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 5,
         "combatXp": 100,
         "drops": [
@@ -23739,7 +25496,6 @@
       {
         "name": "Voidgloom Seraph II",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 25,
         "combatXp": 100,
         "drops": [
@@ -23780,7 +25536,6 @@
       {
         "name": "Voidgloom Seraph III",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 100,
         "combatXp": 200,
         "drops": [
@@ -23855,7 +25610,6 @@
       {
         "name": "Voidgloom Seraph IV",
         "mobLevel": 0,
-        "coins": 0,
         "xp": 500,
         "combatXp": 500,
         "drops": [
@@ -24002,7 +25756,6 @@
       {
         "name": "Voidling Devotee",
         "mobLevel": 730,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -24025,10 +25778,16 @@
       {
         "name": "Voidling Extremist",
         "mobLevel": 100,
-        "coins": 100,
         "xp": 35,
         "combatXp": 750,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 100,
+            "maxAmount": 100
+          },
           {
             "id": "ENDER_PEARL",
             "chance": 1,
@@ -24072,10 +25831,16 @@
       {
         "name": "Voidling Fanatic",
         "mobLevel": 85,
-        "coins": 20,
         "xp": 10,
         "combatXp": 110,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 20,
+            "maxAmount": 20
+          },
           {
             "id": "ENDER_PEARL",
             "chance": 1,
@@ -24123,7 +25888,6 @@
       {
         "name": "Voidgloom Radical",
         "mobLevel": 2500,
-        "coins": 0,
         "xp": 0,
         "combatXp": 0,
         "drops": [
@@ -24146,10 +25910,16 @@
       {
         "name": "Volcanic Snail",
         "mobLevel": 90,
-        "coins": 90,
         "xp": 108,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 90,
+            "maxAmount": 90
+          },
           {
             "id": "MAGMA_FISH",
             "chance": 1,
@@ -24187,7 +25957,6 @@
       {
         "name": "Volt",
         "mobLevel": 4,
-        "coins": 0,
         "xp": 0,
         "combatXp": 6,
         "drops": [
@@ -24217,10 +25986,16 @@
       {
         "name": "Voracious Spider",
         "mobLevel": 10,
-        "coins": 2,
         "xp": 3,
         "combatXp": 10,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 2
+          },
           {
             "id": "SPIDER_EYE",
             "chance": 0.1,
@@ -24250,10 +26025,16 @@
       {
         "name": "Voracious Spider",
         "mobLevel": 42,
-        "coins": 8,
         "xp": 8,
         "combatXp": 28,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 8,
+            "maxAmount": 8
+          },
           {
             "id": "SPIDER_EYE",
             "chance": 0.1,
@@ -24327,10 +26108,16 @@
       {
         "name": "⊙ Seer",
         "mobLevel": 55,
-        "coins": 15,
         "xp": 10,
         "combatXp": 40,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 15,
+            "maxAmount": 15
+          },
           {
             "id": "ARROW",
             "chance": 1,
@@ -24415,10 +26202,16 @@
       {
         "name": "Water Hydra",
         "mobLevel": 100,
-        "coins": 200,
         "xp": 200,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 200,
+            "maxAmount": 200
+          },
           {
             "id": "RAW_FISH",
             "chance": 1,
@@ -24503,10 +26296,16 @@
       {
         "name": "Water Worm",
         "mobLevel": 20,
-        "coins": 10,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "ROUGH_AMBER_GEM",
             "chance": 1,
@@ -24550,10 +26349,16 @@
       {
         "name": "Weaver Spider",
         "mobLevel": 3,
-        "coins": 2,
         "xp": 6,
         "combatXp": 9,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 2
+          },
           {
             "id": "SPIDER_EYE",
             "chance": 0.5,
@@ -24593,10 +26398,16 @@
       {
         "name": "Weaver Spider",
         "mobLevel": 42,
-        "coins": 10,
         "xp": 10,
         "combatXp": 28,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "SPIDER_EYE",
             "chance": 0.8,
@@ -24662,10 +26473,16 @@
       {
         "name": "Werewolf",
         "mobLevel": 50,
-        "coins": 1000,
         "xp": 50,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "WEREWOLF_SKIN",
             "chance": 1,
@@ -24721,10 +26538,16 @@
       {
         "name": "Wet Wing",
         "mobLevel": 18,
-        "coins": 15,
         "xp": 15,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 15,
+            "maxAmount": 15
+          },
           {
             "id": "SEA_LUMIES",
             "chance": 1,
@@ -24762,10 +26585,16 @@
       {
         "name": "Wiki Tiki",
         "mobLevel": 400,
-        "coins": 7500,
         "xp": 7500,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 7500,
+            "maxAmount": 7500
+          },
           {
             "id": "ENCHANTED_JUNGLE_LOG",
             "chance": 1,
@@ -24839,10 +26668,16 @@
       {
         "name": "Wise Ender Dragon",
         "mobLevel": 100,
-        "coins": 1000,
         "xp": 500,
         "combatXp": 300,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "ENDER_PEARL",
             "chance": 1,
@@ -24936,10 +26771,16 @@
       {
         "name": "Witch",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 4,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "GLOWSTONE_DUST",
             "chance": 0.5,
@@ -24970,10 +26811,16 @@
       {
         "name": "Withermancer",
         "mobLevel": 90,
-        "coins": 1,
         "xp": 30,
         "combatXp": 80,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "CONJURING_SWORD",
             "chance": 0.02,
@@ -24991,10 +26838,16 @@
       {
         "name": "Withermancer (Master)",
         "mobLevel": 120,
-        "coins": 1,
         "xp": 50,
         "combatXp": 165,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "CONJURING_SWORD",
             "chance": 0.02,
@@ -25020,10 +26873,16 @@
       {
         "name": "Wither Gourd",
         "mobLevel": 40,
-        "coins": 1,
         "xp": 1,
         "combatXp": 20,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "PUMPKIN_BOMB",
             "chance": 1,
@@ -25054,10 +26913,16 @@
       {
         "name": "Wither Skeleton",
         "mobLevel": 70,
-        "coins": 20,
         "xp": 100,
         "combatXp": 70,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 20,
+            "maxAmount": 20
+          },
           {
             "id": "COAL",
             "chance": 0.5,
@@ -25143,10 +27008,16 @@
       {
         "name": "Wither Spectre",
         "mobLevel": 70,
-        "coins": 20,
         "xp": 100,
         "combatXp": 120,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 20,
+            "maxAmount": 20
+          },
           {
             "id": "SULPHUR",
             "chance": 1,
@@ -25256,10 +27127,16 @@
       {
         "name": "Wolf",
         "mobLevel": 15,
-        "coins": 1,
         "xp": 4,
         "combatXp": 15,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "BONE",
             "chance": 1,
@@ -25307,10 +27184,16 @@
       {
         "name": "Worm",
         "mobLevel": 5,
-        "coins": 5,
         "xp": 1,
         "combatXp": 30,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 5,
+            "maxAmount": 5
+          },
           {
             "id": "ROUGH_TOPAZ_GEM",
             "chance": 1,
@@ -25354,10 +27237,16 @@
       {
         "name": "Wraith",
         "mobLevel": 50,
-        "coins": 1,
         "xp": 1,
         "combatXp": 20,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "GREEN_CANDY",
             "chance": 1,
@@ -25395,10 +27284,16 @@
       {
         "name": "Yeti",
         "mobLevel": 175,
-        "coins": 1,
         "xp": 1,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "ESSENCE_ICE",
             "chance": 1,
@@ -25468,10 +27363,16 @@
       {
         "name": "Yog",
         "mobLevel": 100,
-        "coins": 4,
         "xp": 9,
         "combatXp": 45,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 4,
+            "maxAmount": 4
+          },
           {
             "id": "ROUGH_TOPAZ_GEM",
             "chance": 1,
@@ -25532,10 +27433,16 @@
       {
         "name": "Young Ender Dragon",
         "mobLevel": 100,
-        "coins": 1000,
         "xp": 500,
         "combatXp": 300,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1000,
+            "maxAmount": 1000
+          },
           {
             "id": "ENDER_PEARL",
             "chance": 1,
@@ -25629,10 +27536,16 @@
       {
         "name": "Young Lost Adventurer",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 100,
         "combatXp": 100,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "YOUNG_FRAGMENT",
             "chance": 1,
@@ -25675,10 +27588,16 @@
       {
         "name": "Zealot Bruiser",
         "mobLevel": 100,
-        "coins": 24,
         "xp": 20,
         "combatXp": 78,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 24,
+            "maxAmount": 24
+          },
           {
             "id": "ENDER_PEARL",
             "chance": 1,
@@ -25720,10 +27639,16 @@
       {
         "name": "Zealot",
         "mobLevel": 55,
-        "coins": 15,
         "xp": 10,
         "combatXp": 40,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 15,
+            "maxAmount": 15
+          },
           {
             "id": "ENDER_PEARL",
             "chance": 1,
@@ -25758,10 +27683,16 @@
       {
         "name": "Zealot (Enderchest)",
         "mobLevel": 55,
-        "coins": 15,
         "xp": 10,
         "combatXp": 40,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 15,
+            "maxAmount": 15
+          },
           {
             "id": "ENDER_PEARL",
             "chance": 1,
@@ -25820,10 +27751,16 @@
       {
         "name": "Zealot (Special)",
         "mobLevel": 55,
-        "coins": 15,
         "xp": 10,
         "combatXp": 40,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 15,
+            "maxAmount": 15
+          },
           {
             "id": "ENDER_PEARL",
             "chance": 1,
@@ -25890,10 +27827,16 @@
       {
         "name": "Zombie Commander",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 30,
         "combatXp": 95,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "ZOMBIE_COMMANDER_HELMET",
             "chance": 0.01,
@@ -25954,10 +27897,16 @@
       {
         "name": "Zombie Grunt",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 30,
         "combatXp": 40,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "ROTTEN_HELMET",
             "chance": 0.05,
@@ -26007,10 +27956,16 @@
       {
         "name": "Zombie Knight",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 30,
         "combatXp": 95,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "ZOMBIE_KNIGHT_HELMET",
             "chance": 0.04,
@@ -26078,10 +28033,16 @@
       {
         "name": "Abyssal Miner",
         "mobLevel": 150,
-        "coins": 10,
         "xp": 10,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
           {
             "id": "FLAWED_AMETHYST_GEM",
             "chance": 0.2,
@@ -26150,10 +28111,16 @@
       {
         "name": "Zombie",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 1,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "ROTTEN_FLESH",
             "chance": 1,
@@ -26190,10 +28157,16 @@
       {
         "name": "Zombie Soldier",
         "mobLevel": 0,
-        "coins": 1,
         "xp": 30,
         "combatXp": 52,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "ZOMBIE_SOLDIER_HELMET",
             "chance": 0.04,
@@ -26261,10 +28234,16 @@
       {
         "name": "Zombie Villager",
         "mobLevel": 1,
-        "coins": 1,
         "xp": 2,
         "combatXp": 7,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
           {
             "id": "ROTTEN_FLESH",
             "chance": 1,

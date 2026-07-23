@@ -5906,15 +5906,7 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 4999
-      },
-      {
-        "id": "COAL_BLOCK",
-        "count": 2
-      },
-      {
-        "id": "GOLD_BLOCK",
-        "count": 2
+        "count": 50
       }
     ],
     "result": {
@@ -5931,21 +5923,41 @@
       {
         "type": "currency",
         "currency": "COIN",
+        "count": 500
+      }
+    ],
+    "result": {
+      "id": "SMALL_HONEY_DIPPER",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "BEA_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 5000
+      }
+    ],
+    "result": {
+      "id": "MEDIUM_HONEY_DIPPER",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "BEA_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
         "count": 50000
-      },
-      {
-        "id": "COAL_BLOCK",
-        "count": 128
-      },
-      {
-        "id": "GOLD_BLOCK",
-        "count": 128
       }
     ],
     "result": {
-      "type": "pet",
-      "pet": "BEE",
-      "tier": "RARE",
+      "id": "LARGE_HONEY_DIPPER",
       "count": 1
     }
   },
@@ -5956,46 +5968,11 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 200000
-      },
-      {
-        "id": "ENCHANTED_COAL_BLOCK",
-        "count": 1
-      },
-      {
-        "id": "ENCHANTED_GOLD_BLOCK",
-        "count": 1
+        "count": 500000
       }
     ],
     "result": {
-      "type": "pet",
-      "pet": "BEE",
-      "tier": "EPIC",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "npc": "BEA_NPC",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 650000
-      },
-      {
-        "id": "ENCHANTED_COAL_BLOCK",
-        "count": 8
-      },
-      {
-        "id": "ENCHANTED_GOLD_BLOCK",
-        "count": 8
-      }
-    ],
-    "result": {
-      "type": "pet",
-      "pet": "BEE",
-      "tier": "LEGENDARY",
+      "id": "GIANT_HONEY_DIPPER",
       "count": 1
     }
   },
@@ -6043,12 +6020,12 @@
     },
     "items": [
       {
-        "id": "COAL_BLOCK",
-        "count": 128
+        "id": "SMALL_HONEY_DIPPER",
+        "count": 1
       }
     ],
-    "time": 3600,
-    "coins": 5000
+    "time": 60,
+    "coins": 0
   },
   {
     "type": "kat",
@@ -6066,12 +6043,12 @@
     },
     "items": [
       {
-        "id": "GOLD_BLOCK",
-        "count": 128
+        "id": "MEDIUM_HONEY_DIPPER",
+        "count": 1
       }
     ],
-    "time": 21600,
-    "coins": 40000
+    "time": 3600,
+    "coins": 0
   },
   {
     "type": "kat",
@@ -6089,12 +6066,12 @@
     },
     "items": [
       {
-        "id": "ENCHANTED_COAL_BLOCK",
-        "count": 9
+        "id": "LARGE_HONEY_DIPPER",
+        "count": 1
       }
     ],
     "time": 86400,
-    "coins": 150000
+    "coins": 0
   },
   {
     "type": "kat",
@@ -6112,12 +6089,12 @@
     },
     "items": [
       {
-        "id": "ENCHANTED_GOLD_BLOCK",
-        "count": 9
+        "id": "GIANT_HONEY_DIPPER",
+        "count": 1
       }
     ],
     "time": 259200,
-    "coins": 450000
+    "coins": 0
   },
   {
     "type": "kat",
@@ -6141,6 +6118,174 @@
     ],
     "time": 3600,
     "coins": 10000000
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "WHEAT",
+        "count": 1
+      },
+      {
+        "id": "LEATHER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "BEGINNER_AGRONOMY_SACK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ROTTEN_FLESH",
+        "count": 1
+      },
+      {
+        "id": "LEATHER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "BEGINNER_COMBAT_SACK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "RAW_FISH-3",
+        "count": 1
+      },
+      {
+        "id": "LEATHER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "BEGINNER_FISHING_SACK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "LOG-2",
+        "count": 1
+      },
+      {
+        "id": "LEATHER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "BEGINNER_FORAGING_SACK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "MUTTON",
+        "count": 1
+      },
+      {
+        "id": "LEATHER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "BEGINNER_HUSBANDRY_SACK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "COAL",
+        "count": 1
+      },
+      {
+        "id": "LEATHER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "BEGINNER_MINING_SACK",
+      "count": 1
+    }
   },
   {
     "type": "forge",
@@ -8016,6 +8161,42 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "CACTUS_FLOWER",
+        "count": 6
+      },
+      {
+        "id": "THORN_FRAGMENT",
+        "count": 2
+      },
+      {
+        "id": "THORNSHADE",
+        "count": 2
+      },
+      {
+        "id": "COMPACTED_WILD_ROSE",
+        "count": 6
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      1,
+      2,
+      1,
+      3,
+      3,
+      3
+    ],
+    "result": {
+      "id": "BLOOMING_THORNS",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "BLUE_RING",
         "count": 32
       },
@@ -9449,16 +9630,12 @@
         "count": 1
       },
       {
-        "id": "SALTED_SUNFLOWER_SEEDS",
-        "count": 64
+        "id": "BOTROOT",
+        "count": 16
       },
       {
         "id": "JUKEBOX",
         "count": 1
-      },
-      {
-        "id": "BOTROOT",
-        "count": 32
       }
     ],
     "pattern": [
@@ -9468,9 +9645,9 @@
       1,
       2,
       1,
-      3,
-      3,
-      3
+      1,
+      1,
+      1
     ],
     "result": {
       "id": "BUZZYBEES_FANTABULOUS_DISCO_DESTINATION",
@@ -11518,6 +11695,34 @@
     ],
     "result": {
       "id": "CELESTIAL_MASON_JAR",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "TOKEN_OF_THE_CENTURY",
+        "count": 2
+      },
+      {
+        "id": "CENTURY_RING",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "CENTURY_ARTIFACT",
       "count": 1
     }
   },
@@ -21150,34 +21355,6 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_OAK_LOG",
-        "count": 1
-      },
-      {
-        "id": "ENCHANTED_PAPER",
-        "count": 2
-      }
-    ],
-    "pattern": [
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
-    "result": {
-      "id": "ENCHANTED_BOOKSHELF",
-      "count": 1
-    }
-  },
-  {
-    "type": "crafting",
-    "keys": [
-      {
         "id": "WHEAT",
         "count": 10
       }
@@ -26492,19 +26669,23 @@
     "keys": [
       {
         "id": "ENCHANTED_WHEAT",
-        "count": 8
+        "count": 1
+      },
+      {
+        "id": "FARM_SUIT_BOOTS",
+        "count": 1
       }
     ],
     "pattern": [
       0,
-      -1,
       0,
       0,
-      -1,
       0,
-      -1,
-      -1,
-      -1
+      1,
+      0,
+      0,
+      0,
+      0
     ],
     "result": {
       "id": "FARM_ARMOR_BOOTS",
@@ -26516,15 +26697,19 @@
     "keys": [
       {
         "id": "ENCHANTED_WHEAT",
-        "count": 8
+        "count": 1
+      },
+      {
+        "id": "FARM_SUIT_CHESTPLATE",
+        "count": 1
       }
     ],
     "pattern": [
       0,
-      -1,
       0,
       0,
       0,
+      1,
       0,
       0,
       0,
@@ -26540,7 +26725,11 @@
     "keys": [
       {
         "id": "ENCHANTED_WHEAT",
-        "count": 8
+        "count": 1
+      },
+      {
+        "id": "FARM_SUIT_HELMET",
+        "count": 1
       }
     ],
     "pattern": [
@@ -26548,11 +26737,11 @@
       0,
       0,
       0,
-      -1,
+      1,
       0,
-      -1,
-      -1,
-      -1
+      0,
+      0,
+      0
     ],
     "result": {
       "id": "FARM_ARMOR_HELMET",
@@ -26564,7 +26753,11 @@
     "keys": [
       {
         "id": "ENCHANTED_WHEAT",
-        "count": 8
+        "count": 1
+      },
+      {
+        "id": "FARM_SUIT_LEGGINGS",
+        "count": 1
       }
     ],
     "pattern": [
@@ -26572,10 +26765,10 @@
       0,
       0,
       0,
-      -1,
+      1,
       0,
       0,
-      -1,
+      0,
       0
     ],
     "result": {
@@ -27409,6 +27602,42 @@
     ],
     "result": {
       "id": "BREAD_BOWL",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HAY_BALE",
+        "count": 6
+      },
+      {
+        "id": "DEEPFRIES",
+        "count": 6
+      },
+      {
+        "id": "FEASTFUNGUS",
+        "count": 6
+      },
+      {
+        "id": "CORNUCOPIA",
+        "count": 12
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      1,
+      2,
+      2,
+      1,
+      0,
+      0,
+      3
+    ],
+    "result": {
+      "id": "FEAST_BURGER",
       "count": 1
     }
   },
@@ -31076,7 +31305,7 @@
     "keys": [
       {
         "id": "FEASTFUNGUS",
-        "count": 2
+        "count": 1
       },
       {
         "id": "ENCHANTED_HUGE_MUSHROOM_1",
@@ -31084,15 +31313,15 @@
       }
     ],
     "pattern": [
-      0,
-      0,
+      -1,
+      -1,
+      -1,
       0,
       1,
-      1,
-      1,
       0,
-      0,
-      0
+      -1,
+      -1,
+      -1
     ],
     "result": {
       "id": "FRAGRANCED_BROWN_MUSHROOM_PASTE",
@@ -38748,6 +38977,276 @@
     }
   },
   {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "RAW_BEEF",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "LEATHER",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "PORK",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "RAW_CHICKEN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "FEATHER",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "EGG",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "MUTTON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "WOOL",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "RABBIT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "RABBIT_HIDE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "RABBIT_FOOT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "BASIC_CHICKEN_AXE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "BASIC_COW_AXE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "BASIC_MUSHROOM_COW_AXE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "BASIC_PIG_AXE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "BASIC_SHEEP_AXE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "BASIC_RABBIT_AXE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "BEGINNER_HUSBANDRY_SACK",
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {
@@ -41917,6 +42416,10 @@
         "type": "currency",
         "currency": "COIN",
         "count": 1000
+      },
+      {
+        "id": "BASIC_SHEEP_AXE",
+        "count": 1
       }
     ],
     "result": {
@@ -41932,6 +42435,10 @@
         "type": "currency",
         "currency": "COIN",
         "count": 1000
+      },
+      {
+        "id": "BASIC_MUSHROOM_COW_AXE",
+        "count": 1
       }
     ],
     "result": {
@@ -41947,6 +42454,10 @@
         "type": "currency",
         "currency": "COIN",
         "count": 1000
+      },
+      {
+        "id": "BASIC_COW_AXE",
+        "count": 1
       }
     ],
     "result": {
@@ -41962,6 +42473,10 @@
         "type": "currency",
         "currency": "COIN",
         "count": 1000
+      },
+      {
+        "id": "BASIC_PIG_AXE",
+        "count": 1
       }
     ],
     "result": {
@@ -41977,6 +42492,10 @@
         "type": "currency",
         "currency": "COIN",
         "count": 1000
+      },
+      {
+        "id": "BASIC_RABBIT_AXE",
+        "count": 1
       }
     ],
     "result": {
@@ -41992,6 +42511,10 @@
         "type": "currency",
         "currency": "COIN",
         "count": 1000
+      },
+      {
+        "id": "BASIC_CHICKEN_AXE",
+        "count": 1
       }
     ],
     "result": {
@@ -42582,6 +43105,30 @@
     ],
     "result": {
       "id": "JUICY_HEALING_MELON",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_MELON",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "JUICY_NOZZLE",
       "count": 1
     }
   },
@@ -50404,20 +50951,24 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_MELON_BLOCK",
-        "count": 5
+        "id": "ENCHANTED_POTATO",
+        "count": 32
+      },
+      {
+        "id": "PUMPKIN_BOOTS",
+        "count": 1
       }
     ],
     "pattern": [
       0,
-      -1,
       0,
       0,
-      -1,
       0,
-      -1,
-      -1,
-      -1
+      1,
+      0,
+      0,
+      0,
+      0
     ],
     "result": {
       "id": "MELON_BOOTS",
@@ -50428,16 +50979,20 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_MELON_BLOCK",
-        "count": 5
+        "id": "ENCHANTED_POTATO",
+        "count": 32
+      },
+      {
+        "id": "PUMPKIN_CHESTPLATE",
+        "count": 1
       }
     ],
     "pattern": [
       0,
-      -1,
       0,
       0,
       0,
+      1,
       0,
       0,
       0,
@@ -50824,8 +51379,12 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_MELON_BLOCK",
-        "count": 5
+        "id": "ENCHANTED_POTATO",
+        "count": 32
+      },
+      {
+        "id": "PUMPKIN_HELMET",
+        "count": 1
       }
     ],
     "pattern": [
@@ -50833,11 +51392,11 @@
       0,
       0,
       0,
-      -1,
+      1,
       0,
-      -1,
-      -1,
-      -1
+      0,
+      0,
+      0
     ],
     "result": {
       "id": "MELON_HELMET",
@@ -50880,8 +51439,12 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_MELON_BLOCK",
-        "count": 5
+        "id": "ENCHANTED_POTATO",
+        "count": 32
+      },
+      {
+        "id": "PUMPKIN_LEGGINGS",
+        "count": 1
       }
     ],
     "pattern": [
@@ -50889,10 +51452,10 @@
       0,
       0,
       0,
-      -1,
+      1,
       0,
       0,
-      -1,
+      0,
       0
     ],
     "result": {
@@ -57703,6 +58266,128 @@
     }
   },
   {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "FLORAL_GELATIN",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_EGG",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "type": "pet",
+      "pet": "ORCHID_MANTIS",
+      "tier": "COMMON",
+      "count": 1
+    }
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ORCHID_MANTIS",
+      "tier": "COMMON",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ORCHID_MANTIS",
+      "tier": "UNCOMMON",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "FLORAL_GELATIN",
+        "count": 16
+      }
+    ],
+    "time": 86400,
+    "coins": 250000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ORCHID_MANTIS",
+      "tier": "UNCOMMON",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ORCHID_MANTIS",
+      "tier": "RARE",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "FLORAL_GELATIN",
+        "count": 32
+      }
+    ],
+    "time": 172800,
+    "coins": 500000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ORCHID_MANTIS",
+      "tier": "RARE",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ORCHID_MANTIS",
+      "tier": "EPIC",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "FLORAL_GELATIN",
+        "count": 48
+      }
+    ],
+    "time": 259200,
+    "coins": 1000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ORCHID_MANTIS",
+      "tier": "EPIC",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ORCHID_MANTIS",
+      "tier": "LEGENDARY",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "FLORAL_GELATIN",
+        "count": 64
+      }
+    ],
+    "time": 432000,
+    "coins": 2500000
+  },
+  {
     "type": "shop",
     "npc": "ORINGO_NPC",
     "inputs": [
@@ -58405,11 +59090,11 @@
     "keys": [
       {
         "id": "AGGOURDIAN",
-        "count": 2
+        "count": 8
       },
       {
-        "id": "ENCHANTED_SUGAR",
-        "count": 64
+        "id": "DESIGNER_COFFEE_BEANS",
+        "count": 8
       },
       {
         "id": "GLASS_BOTTLE",
@@ -58417,15 +59102,15 @@
       }
     ],
     "pattern": [
+      -1,
       0,
-      0,
-      0,
-      0,
+      -1,
+      -1,
       1,
-      0,
-      0,
+      -1,
+      -1,
       2,
-      0
+      -1
     ],
     "result": {
       "id": "OVERPRICED_DRINK",
@@ -60353,7 +61038,7 @@
     "keys": [
       {
         "id": "ENCHANTED_REDSTONE",
-        "count": 64
+        "count": 4
       },
       {
         "id": "SUPER_COMPACTOR_3000",
@@ -60380,8 +61065,8 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_REDSTONE_BLOCK",
-        "count": 2
+        "id": "ENCHANTED_REDSTONE",
+        "count": 12
       },
       {
         "id": "PERSONAL_COMPACTOR_4000",
@@ -60409,7 +61094,7 @@
     "keys": [
       {
         "id": "ENCHANTED_REDSTONE_BLOCK",
-        "count": 4
+        "count": 1
       },
       {
         "id": "PERSONAL_COMPACTOR_5000",
@@ -60437,7 +61122,7 @@
     "keys": [
       {
         "id": "ENCHANTED_REDSTONE_BLOCK",
-        "count": 8
+        "count": 3
       },
       {
         "id": "PERSONAL_COMPACTOR_6000",
@@ -64004,20 +64689,24 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "PUMPKIN",
+        "id": "ENCHANTED_CARROT",
+        "count": 8
+      },
+      {
+        "id": "FARM_ARMOR_BOOTS",
         "count": 1
       }
     ],
     "pattern": [
       0,
-      -1,
       0,
       0,
-      -1,
       0,
-      -1,
-      -1,
-      -1
+      1,
+      0,
+      0,
+      0,
+      0
     ],
     "result": {
       "id": "PUMPKIN_BOOTS",
@@ -64028,16 +64717,20 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "PUMPKIN",
+        "id": "ENCHANTED_CARROT",
+        "count": 8
+      },
+      {
+        "id": "FARM_ARMOR_CHESTPLATE",
         "count": 1
       }
     ],
     "pattern": [
       0,
-      -1,
       0,
       0,
       0,
+      1,
       0,
       0,
       0,
@@ -64424,7 +65117,11 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "PUMPKIN",
+        "id": "ENCHANTED_CARROT",
+        "count": 8
+      },
+      {
+        "id": "FARM_ARMOR_HELMET",
         "count": 1
       }
     ],
@@ -64433,11 +65130,11 @@
       0,
       0,
       0,
-      -1,
+      1,
       0,
-      -1,
-      -1,
-      -1
+      0,
+      0,
+      0
     ],
     "result": {
       "id": "PUMPKIN_HELMET",
@@ -64480,7 +65177,11 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "PUMPKIN",
+        "id": "ENCHANTED_CARROT",
+        "count": 8
+      },
+      {
+        "id": "FARM_ARMOR_LEGGINGS",
         "count": 1
       }
     ],
@@ -64489,10 +65190,10 @@
       0,
       0,
       0,
-      -1,
+      1,
       0,
       0,
-      -1,
+      0,
       0
     ],
     "result": {
@@ -65198,21 +65899,17 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_RABBIT_HIDE",
-        "count": 5
-      },
-      {
-        "id": "ENCHANTED_RABBIT_FOOT",
-        "count": 10
+        "id": "RABBIT_HIDE",
+        "count": 1
       }
     ],
     "pattern": [
       0,
       -1,
       0,
-      1,
+      0,
       -1,
-      1,
+      0,
       -1,
       -1,
       -1
@@ -65226,12 +65923,8 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_RABBIT_HIDE",
-        "count": 5
-      },
-      {
-        "id": "ENCHANTED_RABBIT_FOOT",
-        "count": 10
+        "id": "RABBIT_HIDE",
+        "count": 1
       }
     ],
     "pattern": [
@@ -65239,10 +65932,10 @@
       -1,
       0,
       0,
-      1,
       0,
       0,
-      1,
+      0,
+      0,
       0
     ],
     "result": {
@@ -65562,17 +66255,13 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_RABBIT_HIDE",
-        "count": 5
-      },
-      {
-        "id": "ENCHANTED_RABBIT_FOOT",
-        "count": 10
+        "id": "RABBIT_HIDE",
+        "count": 1
       }
     ],
     "pattern": [
       0,
-      1,
+      0,
       0,
       0,
       -1,
@@ -65590,17 +66279,13 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_RABBIT_HIDE",
-        "count": 5
-      },
-      {
-        "id": "ENCHANTED_RABBIT_FOOT",
-        "count": 10
+        "id": "RABBIT_HIDE",
+        "count": 1
       }
     ],
     "pattern": [
       0,
-      1,
+      0,
       0,
       0,
       -1,
@@ -69537,6 +70222,30 @@
     ],
     "result": {
       "id": "SALMON_LEGGINGS_NEW",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "SALTED_SUNFLOWER_SEEDS",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "SALTY_NOZZLE",
       "count": 1
     }
   },
@@ -74228,13 +74937,13 @@
     "npc": "SKYMART_NPC",
     "inputs": [
       {
+        "id": "SKYMART_VACUUM",
+        "count": 1
+      },
+      {
         "type": "currency",
         "currency": "COPPER",
         "count": 200
-      },
-      {
-        "id": "SKYMART_VACUUM",
-        "count": 1
       }
     ],
     "result": {
@@ -74247,13 +74956,13 @@
     "npc": "SKYMART_NPC",
     "inputs": [
       {
+        "id": "SKYMART_TURBO_VACUUM",
+        "count": 1
+      },
+      {
         "type": "currency",
         "currency": "COPPER",
         "count": 500
-      },
-      {
-        "id": "SKYMART_TURBO_VACUUM",
-        "count": 1
       }
     ],
     "result": {
@@ -74266,13 +74975,13 @@
     "npc": "SKYMART_NPC",
     "inputs": [
       {
+        "id": "SKYMART_HYPER_VACUUM",
+        "count": 1
+      },
+      {
         "type": "currency",
         "currency": "COPPER",
         "count": 1000
-      },
-      {
-        "id": "SKYMART_HYPER_VACUUM",
-        "count": 1
       }
     ],
     "result": {
@@ -74285,36 +74994,21 @@
     "npc": "SKYMART_NPC",
     "inputs": [
       {
-        "type": "currency",
-        "currency": "COPPER",
-        "count": 2500
+        "id": "CHIRPING_STEREO",
+        "count": 1
       },
       {
         "id": "INFINI_VACUUM",
         "count": 1
       },
       {
-        "id": "CHIRPING_STEREO",
-        "count": 1
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 2500
       }
     ],
     "result": {
       "id": "INFINI_VACUUM_HOOVERIUS",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "npc": "SKYMART_NPC",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COPPER",
-        "count": 25
-      }
-    ],
-    "result": {
-      "id": "SPRAYONATOR",
       "count": 1
     }
   },
@@ -74338,17 +75032,93 @@
     "npc": "SKYMART_NPC",
     "inputs": [
       {
+        "id": "PEST_REPELLENT",
+        "count": 1
+      },
+      {
         "type": "currency",
         "currency": "COPPER",
         "count": 25
-      },
-      {
-        "id": "PEST_REPELLENT",
-        "count": 1
       }
     ],
     "result": {
       "id": "PEST_REPELLENT_MAX",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "SKYMART_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 25
+      }
+    ],
+    "result": {
+      "id": "SPRAYONATOR",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "SKYMART_NPC",
+    "inputs": [
+      {
+        "id": "SPRAYONATOR",
+        "count": 1
+      },
+      {
+        "id": "JUICY_NOZZLE",
+        "count": 1
+      },
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 1000
+      }
+    ],
+    "result": {
+      "id": "JUICY_SPRAYONATOR",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "SKYMART_NPC",
+    "inputs": [
+      {
+        "id": "JUICY_SPRAYONATOR",
+        "count": 1
+      },
+      {
+        "id": "SALTY_NOZZLE",
+        "count": 1
+      },
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 10000
+      }
+    ],
+    "result": {
+      "id": "SALTY_SPRAYONATOR",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "SKYMART_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 20000
+      }
+    ],
+    "result": {
+      "id": "PORTABLE_WASHER",
       "count": 1
     }
   },
@@ -82607,6 +83377,46 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "CHIRPING_STEREO",
+        "count": 1
+      },
+      {
+        "id": "PLANTBOY_ADVANCE",
+        "count": 1
+      },
+      {
+        "id": "BOTROOT",
+        "count": 32
+      },
+      {
+        "id": "ENCHANTED_PAPER",
+        "count": 32
+      },
+      {
+        "id": "ENCHANTED_IRON_BLOCK",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      4,
+      4,
+      4
+    ],
+    "result": {
+      "id": "SUPER_JACOB_SYSTEM",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_GLOWSTONE_DUST",
         "count": 1
       },
@@ -82984,6 +83794,21 @@
       {
         "type": "currency",
         "currency": "PELT",
+        "count": 200
+      }
+    ],
+    "result": {
+      "id": "BROWN_BANDANA",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "TALBOT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "PELT",
         "count": 40
       }
     ],
@@ -82991,6 +83816,21 @@
       "type": "potion",
       "id": "POTION_STINKY_CHEESE",
       "level": 1,
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "TALBOT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "PELT",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "PEST_VEST",
       "count": 1
     }
   },

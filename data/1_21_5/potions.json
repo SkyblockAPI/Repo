@@ -328,7 +328,6 @@
   "POTION_AWKWARD": {
     "levels": [
       {
-        "literal_level": "§fAwkward Potion",
         "lore": [
           "§7Use Awkward Potions in Brewing",
           "§7Stands with items labeled as Brewing",
@@ -724,20 +723,20 @@
         "literal_level": "I",
         "lore": [
           "§4Regeneration I §f(20:00)",
-          "§7Grants §c+5❣ Health Regen§7.",
+          "§7Grants §c+5 Health Regen§7.",
           "",
           "§4Strength III §f(20:00)",
-          "§7Increases §c❁ Strength §7by §a20§7.",
+          "§7Increases §c Strength §7by §a20§7.",
           "",
           "§4Critical I §f(20:00)",
-          "§7Increases §9☣ Crit Chance §7by §a10% §7and",
-          "§7§9☠ Crit Damage §7by §a10%§7.",
+          "§7Increases §9 Crit Chance §7by §a10% §7and",
+          "§9 Crit Damage §7by §a10%§7.",
           "",
           "§9Speed I §f(20:00)",
-          "§7Grants §a+5 §f✦ Speed§7.",
+          "§7Grants §a+5 §f Speed§7.",
           "",
           "§aResistance I §f(20:00)",
-          "§7Increases §a❈ Defense §7by §a+5§7.",
+          "§7Increases §a Defense §7by §a+5§7.",
           "",
           "§f§lCOMMON"
         ]
@@ -747,20 +746,20 @@
         "literal_level": "II",
         "lore": [
           "§4Regeneration II §f(40:00)",
-          "§7Grants §c+10❣ Health Regen§7.",
+          "§7Grants §c+10 Health Regen§7.",
           "",
           "§4Strength III §f(40:00)",
-          "§7Increases §c❁ Strength §7by §a20§7.",
+          "§7Increases §c Strength §7by §a20§7.",
           "",
           "§4Critical I §f(40:00)",
-          "§7Increases §9☣ Crit Chance §7by §a10% §7and",
-          "§7§9☠ Crit Damage §7by §a10%§7.",
+          "§7Increases §9 Crit Chance §7by §a10% §7and",
+          "§9 Crit Damage §7by §a10%§7.",
           "",
           "§9Speed II §f(40:00)",
-          "§7Grants §a+10 §f✦ Speed§7.",
+          "§7Grants §a+10 §f Speed§7.",
           "",
           "§aResistance I §f(40:00)",
-          "§7Increases §a❈ Defense §7by §a+5§7.",
+          "§7Increases §a Defense §7by §a+5§7.",
           "",
           "§f§lCOMMON"
         ]
@@ -770,20 +769,20 @@
         "literal_level": "III",
         "lore": [
           "§4Regeneration III §f(40:00)",
-          "§7Grants §c+15❣ Health Regen§7.",
+          "§7Grants §c+15 Health Regen§7.",
           "",
           "§4Strength III §f(40:00)",
-          "§7Increases §c❁ Strength §7by §a20§7.",
+          "§7Increases §c Strength §7by §a20§7.",
           "",
           "§4Critical II §f(40:00)",
-          "§7Increases §9☣ Crit Chance §7by §a15% §7and",
-          "§7§9☠ Crit Damage §7by §a20%§7.",
+          "§7Increases §9 Crit Chance §7by §a15% §7and",
+          "§9 Crit Damage §7by §a20%§7.",
           "",
           "§9Speed II §f(40:00)",
-          "§7Grants §a+10 §f✦ Speed§7.",
+          "§7Grants §a+10 §f Speed§7.",
           "",
           "§aResistance II §f(40:00)",
-          "§7Increases §a❈ Defense §7by §a+10§7.",
+          "§7Increases §a Defense §7by §a+10§7.",
           "",
           "§a§lUNCOMMON"
         ]
@@ -793,20 +792,20 @@
         "literal_level": "IV",
         "lore": [
           "§4Regeneration III §f(40:00)",
-          "§7Grants §c+15❣ Health Regen§7.",
+          "§7Grants §c+15 Health Regen§7.",
           "",
           "§4Strength IV §f(40:00)",
-          "§7Increases §c❁ Strength §7by §a30§7.",
+          "§7Increases §c Strength §7by §a30§7.",
           "",
           "§4Critical II §f(40:00)",
-          "§7Increases §9☣ Crit Chance §7by §a15% §7and",
-          "§7§9☠ Crit Damage §7by §a20%§7.",
+          "§7Increases §9 Crit Chance §7by §a15% §7and",
+          "§9 Crit Damage §7by §a20%§7.",
           "",
           "§9Speed II §f(40:00)",
-          "§7Grants §a+10 §f✦ Speed§7.",
+          "§7Grants §a+10 §f Speed§7.",
           "",
           "§aResistance III §f(40:00)",
-          "§7Increases §a❈ Defense §7by §a+15§7.",
+          "§7Increases §a Defense §7by §a+15§7.",
           "",
           "§bArchery I §f(40:00)",
           "§7Increases bow damage by §a12.5%§7.",
@@ -819,20 +818,20 @@
         "literal_level": "V",
         "lore": [
           "§4Regeneration III §f(40:00)",
-          "§7Grants §c+15❣ Health Regen§7.",
+          "§7Grants §c+15 Health Regen§7.",
           "",
           "§4Strength IV §f(40:00)",
-          "§7Increases §c❁ Strength §7by §a30§7.",
+          "§7Increases §c Strength §7by §a30§7.",
           "",
           "§4Critical III §f(40:00)",
-          "§7Increases §9☣ Crit Chance §7by §a20% §7and",
-          "§7§9☠ Crit Damage §7by §a30%§7.",
+          "§7Increases §9 Crit Chance §7by §a20% §7and",
+          "§9 Crit Damage §7by §a30%§7.",
           "",
           "§9Speed II §f(40:00)",
-          "§7Grants §a+10 §f✦ Speed§7.",
+          "§7Grants §a+10 §f Speed§7.",
           "",
           "§aResistance IV §f(40:00)",
-          "§7Increases §a❈ Defense §7by §a+20§7.",
+          "§7Increases §a Defense §7by §a+20§7.",
           "",
           "§bArchery II §f(40:00)",
           "§7Increases bow damage by §a25%§7.",
@@ -845,20 +844,20 @@
         "literal_level": "VI",
         "lore": [
           "§4Regeneration IV §f(40:00)",
-          "§7Grants §c+20❣ Health Regen§7.",
+          "§7Grants §c+20 Health Regen§7.",
           "",
           "§4Strength IV §f(40:00)",
-          "§7Increases §c❁ Strength §7by §a30§7.",
+          "§7Increases §c Strength §7by §a30§7.",
           "",
           "§4Critical III §f(40:00)",
-          "§7Increases §9☣ Crit Chance §7by §a20% §7and",
-          "§7§9☠ Crit Damage §7by §a30%§7.",
+          "§7Increases §9 Crit Chance §7by §a20% §7and",
+          "§9 Crit Damage §7by §a30%§7.",
           "",
           "§9Speed III §f(40:00)",
-          "§7Grants §a+15 §f✦ Speed§7.",
+          "§7Grants §a+15 §f Speed§7.",
           "",
           "§aResistance IV §f(40:00)",
-          "§7Increases §a❈ Defense §7by §a+20§7.",
+          "§7Increases §a Defense §7by §a+20§7.",
           "",
           "§bArchery III §f(40:00)",
           "§7Increases bow damage by §a50%§7.",
@@ -871,20 +870,20 @@
         "literal_level": "VII",
         "lore": [
           "§4Regeneration IV §f(40:00)",
-          "§7Grants §c+20❣ Health Regen§7.",
+          "§7Grants §c+20 Health Regen§7.",
           "",
           "§4Strength V §f(40:00)",
-          "§7Increases §c❁ Strength §7by §a40§7.",
+          "§7Increases §c Strength §7by §a40§7.",
           "",
           "§4Critical III §f(40:00)",
-          "§7Increases §9☣ Crit Chance §7by §a20% §7and",
-          "§7§9☠ Crit Damage §7by §a30%§7.",
+          "§7Increases §9 Crit Chance §7by §a20% §7and",
+          "§9 Crit Damage §7by §a30%§7.",
           "",
           "§9Speed III §f(40:00)",
-          "§7Grants §a+15 §f✦ Speed§7.",
+          "§7Grants §a+15 §f Speed§7.",
           "",
           "§aResistance V §f(40:00)",
-          "§7Increases §a❈ Defense §7by §a+30§7.",
+          "§7Increases §a Defense §7by §a+30§7.",
           "",
           "§bArchery III §f(40:00)",
           "§7Increases bow damage by §a50%§7.",
@@ -897,7 +896,7 @@
     "type": "POTION",
     "internal_potion": "regeneration",
     "name": "Dungeon",
-    "vanilla_effect": "regeneration"
+    "vanilla_effect": "water"
   },
   "POTION_ENCHANTING_XP_BOOST": {
     "levels": [
@@ -1190,8 +1189,8 @@
         "level": 1,
         "literal_level": "I",
         "lore": [
-          "§cHealing I",
-          "§7Instantly heals for §a+20§7.",
+          "§cHealing I §f(0:05)",
+          "§7Heals for §a+5 §7every second.",
           "",
           "§f§lCOMMON"
         ]
@@ -1200,8 +1199,8 @@
         "level": 2,
         "literal_level": "II",
         "lore": [
-          "§cHealing II",
-          "§7Instantly heals for §a+50§7.",
+          "§cHealing II §f(0:05)",
+          "§7Heals for §a+10 §7every second.",
           "",
           "§f§lCOMMON"
         ]
@@ -1210,8 +1209,8 @@
         "level": 3,
         "literal_level": "III",
         "lore": [
-          "§cHealing III",
-          "§7Instantly heals for §a+100§7.",
+          "§cHealing III §f(0:05)",
+          "§7Heals for §a+15 §7every second.",
           "",
           "§a§lUNCOMMON"
         ]
@@ -1220,8 +1219,8 @@
         "level": 4,
         "literal_level": "IV",
         "lore": [
-          "§cHealing IV",
-          "§7Instantly heals for §a+150§7.",
+          "§cHealing IV §f(0:05)",
+          "§7Heals for §a+20 §7every second.",
           "",
           "§a§lUNCOMMON"
         ]
@@ -1230,8 +1229,8 @@
         "level": 5,
         "literal_level": "V",
         "lore": [
-          "§cHealing V",
-          "§7Instantly heals for §a+200§7.",
+          "§cHealing V §f(0:05)",
+          "§7Heals for §a+25 §7every second.",
           "",
           "§9§lRARE"
         ]
@@ -1240,8 +1239,8 @@
         "level": 6,
         "literal_level": "VI",
         "lore": [
-          "§cHealing VI",
-          "§7Instantly heals for §a+300§7.",
+          "§cHealing VI §f(0:05)",
+          "§7Heals for §a+30 §7every second.",
           "",
           "§9§lRARE"
         ]
@@ -1250,8 +1249,8 @@
         "level": 7,
         "literal_level": "VII",
         "lore": [
-          "§cHealing VII",
-          "§7Instantly heals for §a+400§7.",
+          "§cHealing VII §f(0:05)",
+          "§7Heals for §a+35 §7every second.",
           "",
           "§5§lEPIC"
         ]
@@ -1260,8 +1259,8 @@
         "level": 8,
         "literal_level": "VIII",
         "lore": [
-          "§cHealing VIII",
-          "§7Instantly heals for §a+500§7.",
+          "§cHealing VIII §f(0:05)",
+          "§7Heals for §a+40 §7every second.",
           "",
           "§5§lEPIC"
         ]
@@ -1270,7 +1269,7 @@
     "type": "POTION",
     "internal_potion": "healing",
     "name": "Healing",
-    "vanilla_effect": "healing"
+    "vanilla_effect": "water"
   },
   "POTION_INVISIBILITY": {
     "levels": [
@@ -1578,7 +1577,7 @@
     "levels": [
       {
         "level": 1,
-        "literal_level": "V",
+        "literal_level": "I",
         "lore": [
           "§5Night Vision I §f(3:00)",
           "§7Grants greater visibility at night.",
@@ -1588,7 +1587,7 @@
       },
       {
         "level": 2,
-        "literal_level": "V",
+        "literal_level": "II",
         "lore": [
           "§5Night Vision II §f(3:00)",
           "§7Grants greater visibility at night.",
@@ -1783,7 +1782,7 @@
         "literal_level": "I",
         "lore": [
           "§4Regeneration I §f(0:45)",
-          "§7Grants §c+5❣ Health Regen§7.",
+          "§7Grants §c+2.5 Health Regen§7.",
           "",
           "§f§lCOMMON"
         ]
@@ -1793,7 +1792,7 @@
         "literal_level": "II",
         "lore": [
           "§4Regeneration II §f(0:45)",
-          "§7Grants §c+10❣ Health Regen§7.",
+          "§7Grants §c+5 Health Regen§7.",
           "",
           "§f§lCOMMON"
         ]
@@ -1803,7 +1802,7 @@
         "literal_level": "III",
         "lore": [
           "§4Regeneration III §f(0:45)",
-          "§7Grants §c+15❣ Health Regen§7.",
+          "§7Grants §c+7.5 Health Regen§7.",
           "",
           "§a§lUNCOMMON"
         ]
@@ -1813,7 +1812,7 @@
         "literal_level": "IV",
         "lore": [
           "§4Regeneration IV §f(0:45)",
-          "§7Grants §c+20❣ Health Regen§7.",
+          "§7Grants §c+10 Health Regen§7.",
           "",
           "§a§lUNCOMMON"
         ]
@@ -1823,7 +1822,7 @@
         "literal_level": "V",
         "lore": [
           "§4Regeneration V §f(0:45)",
-          "§7Grants §c+25❣ Health Regen§7.",
+          "§7Grants §c+12.5 Health Regen§7.",
           "",
           "§9§lRARE"
         ]
@@ -1833,7 +1832,7 @@
         "literal_level": "VI",
         "lore": [
           "§4Regeneration VI §f(0:45)",
-          "§7Grants §c+30❣ Health Regen§7.",
+          "§7Grants §c+15 Health Regen§7.",
           "",
           "§9§lRARE"
         ]
@@ -1843,7 +1842,7 @@
         "literal_level": "VII",
         "lore": [
           "§4Regeneration VII §f(0:45)",
-          "§7Grants §c+40❣ Health Regen§7.",
+          "§7Grants §c+20 Health Regen§7.",
           "",
           "§5§lEPIC"
         ]
@@ -1853,17 +1852,17 @@
         "literal_level": "VIII",
         "lore": [
           "§4Regeneration VIII §f(0:45)",
-          "§7Grants §c+50❣ Health Regen§7.",
+          "§7Grants §c+25 Health Regen§7.",
           "",
           "§5§lEPIC"
         ]
       },
       {
         "level": 9,
-        "literal_level": "I",
+        "literal_level": "IX",
         "lore": [
           "§4Regeneration IX §f(2:30)",
-          "§7Grants §c+60❣ Health Regen§7.",
+          "§7Grants §c+30 Health Regen§7.",
           "",
           "§5§lEPIC"
         ]
@@ -1872,7 +1871,7 @@
     "type": "POTION",
     "internal_potion": "regeneration",
     "name": "Regeneration",
-    "vanilla_effect": "regeneration"
+    "vanilla_effect": "water"
   },
   "POTION_RESISTANCE": {
     "levels": [
@@ -2350,7 +2349,7 @@
         "literal_level": "I",
         "lore": [
           "§eDouce Pluie de Stinky Cheese I §f(1:00:00)",
-          "§7Gain §2+20ൠ Bonus Pest Chance§7.",
+          "§7Gain §2+20 Bonus Pest Chance§7.",
           "",
           "§f§lCOMMON"
         ]
@@ -2359,7 +2358,7 @@
     "type": "POTION",
     "internal_potion": "stinky_cheese",
     "name": "Douce Pluie de Stinky Cheese",
-    "vanilla_effect": "fire_resistance"
+    "vanilla_effect": "water"
   },
   "POTION_STRENGTH": {
     "levels": [
@@ -2515,8 +2514,8 @@
         "level": 1,
         "literal_level": "I",
         "lore": [
-          "§fTrue Resistance I §f(3:00)",
-          "§7Gain §f+5❂ True Defense§7.",
+          "§fTrue Resistance I (3:00)",
+          "§7Gain §f+5 True Defense§7.",
           "",
           "§f§lCOMMON"
         ]
@@ -2525,8 +2524,8 @@
         "level": 2,
         "literal_level": "II",
         "lore": [
-          "§fTrue Resistance II §f(3:00)",
-          "§7Gain §f+10❂ True Defense§7.",
+          "§fTrue Resistance II (3:00)",
+          "§7Gain §f+10 True Defense§7.",
           "",
           "§f§lCOMMON"
         ]
@@ -2535,8 +2534,8 @@
         "level": 3,
         "literal_level": "III",
         "lore": [
-          "§fTrue Resistance III §f(3:00)",
-          "§7Gain §f+15❂ True Defense§7.",
+          "§fTrue Resistance III (3:00)",
+          "§7Gain §f+15 True Defense§7.",
           "",
           "§a§lUNCOMMON"
         ]
@@ -2545,8 +2544,8 @@
         "level": 4,
         "literal_level": "IV",
         "lore": [
-          "§fTrue Resistance IV §f(3:00)",
-          "§7Gain §f+20❂ True Defense§7.",
+          "§fTrue Resistance IV (3:00)",
+          "§7Gain §f+20 True Defense§7.",
           "",
           "§a§lUNCOMMON"
         ]
@@ -2561,7 +2560,7 @@
     "levels": [
       {
         "level": 1,
-        "literal_level": "V",
+        "literal_level": "I",
         "lore": [
           "§5Venomous I §f(3:00)",
           "§7Grants §c-5 §f✦ Speed §7and deals §c5",
@@ -2572,7 +2571,7 @@
       },
       {
         "level": 2,
-        "literal_level": "V",
+        "literal_level": "II",
         "lore": [
           "§5Venomous II §f(3:00)",
           "§7Grants §c-10 §f✦ Speed §7and deals §c10",
@@ -2583,7 +2582,7 @@
       },
       {
         "level": 3,
-        "literal_level": "V",
+        "literal_level": "III",
         "lore": [
           "§5Venomous III §f(3:00)",
           "§7Grants §c-15 §f✦ Speed §7and deals §c15",
@@ -2594,7 +2593,7 @@
       },
       {
         "level": 4,
-        "literal_level": "V",
+        "literal_level": "IV",
         "lore": [
           "§5Venomous IV §f(3:00)",
           "§7Grants §c-20 §f✦ Speed §7and deals §c20",
@@ -2786,8 +2785,8 @@
         "literal_level": "I",
         "lore": [
           "§bWisp's Ice-Flavored Water I §f(5:00)",
-          "§7Gain §4+10♨Vitality",
-          "§7and §f+25❂ True Defense§7.",
+          "§7Gain §c+10 Health Regen §7and §f+25",
+          "§fTrue Defense§7.",
           "",
           "§f§lCOMMON"
         ],
@@ -2797,7 +2796,7 @@
     "type": "POTION",
     "internal_potion": "wisp_ice",
     "name": "Wisp's Ice-Flavored Water",
-    "vanilla_effect": "water_breathing"
+    "vanilla_effect": "water"
   },
   "POTION_WOUNDED": {
     "levels": [
@@ -2850,7 +2849,6 @@
   "WATER_BOTTLE": {
     "levels": [
       {
-        "literal_level": "§fWater Bottle",
         "lore": [
           "§f§lCOMMON"
         ]

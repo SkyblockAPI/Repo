@@ -11,7 +11,7 @@
           "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}",
           "",
           "§6Heart of the Sea",
-          "§7Grants §3+{0}α Sea Creature Chance",
+          "§7Grants §3+{0} Sea Creature Chance",
           "§7to your pet for each §5Heart of the",
           "§5Mountain §7level.",
           "",
@@ -661,7 +661,7 @@
           "",
           "§6Dispersion",
           "§7While in the §5Crystal Hollows§7, killing",
-          "§7mobs reduces your §c♨ Heat §7by §c{1}§7.",
+          "§7mobs reduces your §c Heat §7by §c{1}§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -699,7 +699,7 @@
           "",
           "§6Dispersion",
           "§7While in the §5Crystal Hollows§7, killing",
-          "§7mobs reduces your §c♨ Heat §7by §c{1}§7.",
+          "§7mobs reduces your §c Heat §7by §c{1}§7.",
           "",
           "§6Chimney",
           "§7Reduce Pickaxe Ability cooldowns by",
@@ -999,7 +999,7 @@
     "name": "Bee",
     "tiers": {
       "COMMON": {
-        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYyODg3Nzg1NTc5NCwKICAicHJvZmlsZUlkIiA6ICI3MzgyZGRmYmU0ODU0NTVjODI1ZjkwMGY4OGZkMzJmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdUlJZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2U5NDE5ODdlODI1YTI0ZWE3YmFhZmFiOTgxOTM0NGI2YzI0N2M3NWM1NGE2OTE5ODdjZDI5NmJjMTYzYzI2MyIKICAgIH0KICB9Cn0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcwMDU5Mjc3MDgzOCwKICAicHJvZmlsZUlkIiA6ICJiMTRiMjY2NzgxOTU0ZGM1OTUzYTRkYWQ5MjRiZGRjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHOWxfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzljNzJjMTMyMDczZWM1YTA1ODIxOGQ2ZmJmYjRhOTk3MDY1MmNlZDkyMTRkNTNmNGY2MTRiMzkwMmZkOTlhN2EiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
         "lore": [
           "§8Farming Pet",
           "",
@@ -1045,7 +1045,7 @@
         }
       },
       "UNCOMMON": {
-        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYyODg3Nzg1NTc5NCwKICAicHJvZmlsZUlkIiA6ICI3MzgyZGRmYmU0ODU0NTVjODI1ZjkwMGY4OGZkMzJmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdUlJZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2U5NDE5ODdlODI1YTI0ZWE3YmFhZmFiOTgxOTM0NGI2YzI0N2M3NWM1NGE2OTE5ODdjZDI5NmJjMTYzYzI2MyIKICAgIH0KICB9Cn0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcwMDU5Mjc3MDgzOCwKICAicHJvZmlsZUlkIiA6ICJiMTRiMjY2NzgxOTU0ZGM1OTUzYTRkYWQ5MjRiZGRjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHOWxfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzljNzJjMTMyMDczZWM1YTA1ODIxOGQ2ZmJmYjRhOTk3MDY1MmNlZDkyMTRkNTNmNGY2MTRiMzkwMmZkOTlhN2EiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
         "lore": [
           "§8Farming Pet",
           "",
@@ -1091,7 +1091,7 @@
         }
       },
       "RARE": {
-        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYyODg3Nzg1NTc5NCwKICAicHJvZmlsZUlkIiA6ICI3MzgyZGRmYmU0ODU0NTVjODI1ZjkwMGY4OGZkMzJmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdUlJZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2U5NDE5ODdlODI1YTI0ZWE3YmFhZmFiOTgxOTM0NGI2YzI0N2M3NWM1NGE2OTE5ODdjZDI5NmJjMTYzYzI2MyIKICAgIH0KICB9Cn0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcwMDU5Mjc3MDgzOCwKICAicHJvZmlsZUlkIiA6ICJiMTRiMjY2NzgxOTU0ZGM1OTUzYTRkYWQ5MjRiZGRjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHOWxfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzljNzJjMTMyMDczZWM1YTA1ODIxOGQ2ZmJmYjRhOTk3MDY1MmNlZDkyMTRkNTNmNGY2MTRiMzkwMmZkOTlhN2EiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
         "lore": [
           "§8Farming Pet",
           "",
@@ -1162,7 +1162,7 @@
         }
       },
       "EPIC": {
-        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYyODg3Nzg1NTc5NCwKICAicHJvZmlsZUlkIiA6ICI3MzgyZGRmYmU0ODU0NTVjODI1ZjkwMGY4OGZkMzJmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdUlJZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2U5NDE5ODdlODI1YTI0ZWE3YmFhZmFiOTgxOTM0NGI2YzI0N2M3NWM1NGE2OTE5ODdjZDI5NmJjMTYzYzI2MyIKICAgIH0KICB9Cn0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcwMDU5Mjc3MDgzOCwKICAicHJvZmlsZUlkIiA6ICJiMTRiMjY2NzgxOTU0ZGM1OTUzYTRkYWQ5MjRiZGRjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHOWxfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzljNzJjMTMyMDczZWM1YTA1ODIxOGQ2ZmJmYjRhOTk3MDY1MmNlZDkyMTRkNTNmNGY2MTRiMzkwMmZkOTlhN2EiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
         "lore": [
           "§8Farming Pet",
           "",
@@ -1233,7 +1233,7 @@
         }
       },
       "LEGENDARY": {
-        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYyODg3Nzg1NTc5NCwKICAicHJvZmlsZUlkIiA6ICI3MzgyZGRmYmU0ODU0NTVjODI1ZjkwMGY4OGZkMzJmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdUlJZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2U5NDE5ODdlODI1YTI0ZWE3YmFhZmFiOTgxOTM0NGI2YzI0N2M3NWM1NGE2OTE5ODdjZDI5NmJjMTYzYzI2MyIKICAgIH0KICB9Cn0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcwMDU5Mjc3MDgzOCwKICAicHJvZmlsZUlkIiA6ICJiMTRiMjY2NzgxOTU0ZGM1OTUzYTRkYWQ5MjRiZGRjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHOWxfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzljNzJjMTMyMDczZWM1YTA1ODIxOGQ2ZmJmYjRhOTk3MDY1MmNlZDkyMTRkNTNmNGY2MTRiMzkwMmZkOTlhN2EiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
         "lore": [
           "§8Farming Pet",
           "",
@@ -1257,10 +1257,11 @@
           "§6☘ Foraging Fortune",
           "§6☘ Mining Fortune",
           "",
-          "§6Weaponized Honey",
-          "§7Gain §a{4}% §7of received damage as §6❤",
-          "§6Absorption§7.",
+          "§6Honey Harvester",
+          "§7You have a §a{4}% §7chance to find a",
+          "§aHoney Jar §7when farming crops.",
           "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -1281,8 +1282,8 @@
             30
           ],
           "4": [
-            5.2,
-            25
+            0.0002,
+            0.02
           ],
           "INTELLIGENCE": [
             0.5,
@@ -1311,7 +1312,7 @@
         }
       },
       "MYTHIC": {
-        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYyODg3Nzg1NTc5NCwKICAicHJvZmlsZUlkIiA6ICI3MzgyZGRmYmU0ODU0NTVjODI1ZjkwMGY4OGZkMzJmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdUlJZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2U5NDE5ODdlODI1YTI0ZWE3YmFhZmFiOTgxOTM0NGI2YzI0N2M3NWM1NGE2OTE5ODdjZDI5NmJjMTYzYzI2MyIKICAgIH0KICB9Cn0=",
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcwMDU5Mjc3MDgzOCwKICAicHJvZmlsZUlkIiA6ICJiMTRiMjY2NzgxOTU0ZGM1OTUzYTRkYWQ5MjRiZGRjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHOWxfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzljNzJjMTMyMDczZWM1YTA1ODIxOGQ2ZmJmYjRhOTk3MDY1MmNlZDkyMTRkNTNmNGY2MTRiMzkwMmZkOTlhN2EiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
         "lore": [
           "§8Farming Pet",
           "",
@@ -1335,9 +1336,9 @@
           "§6☘ Foraging Fortune",
           "§6☘ Mining Fortune",
           "",
-          "§6Weaponized Honey",
-          "§7Gain §a{4}% §7of received damage as §6❤",
-          "§6Absorption§7.",
+          "§6Honey Harvester",
+          "§7You have a §a{4}% §7chance to find a",
+          "§aHoney Jar §7when farming crops.",
           "",
           "§6Powered by Pollen",
           "§7Grants §6+{5}☘ Sunflower§7,",
@@ -1364,8 +1365,8 @@
             40
           ],
           "4": [
-            0.2,
-            25
+            0.0002,
+            0.02
           ],
           "5": [
             1.6,
@@ -1795,7 +1796,7 @@
           "§7cap by §a+{0}§7.",
           "",
           "§6Omen",
-          "§7Grants §d+{1}♣ Pet Luck§7.",
+          "§7Grants §d+{1} Pet Luck§7.",
           "",
           "§6Supernatural",
           "§7Grants §b+{2}✯ Magic Find§7.",
@@ -1849,7 +1850,7 @@
           "§7cap by §a+{0}§7.",
           "",
           "§6Omen",
-          "§7Grants §d+{1}♣ Pet Luck§7.",
+          "§7Grants §d+{1} Pet Luck§7.",
           "",
           "§6Supernatural",
           "§7Grants §b+{2}✯ Magic Find§7.",
@@ -2702,7 +2703,7 @@
           "§7players.",
           "",
           "§6Echolocation",
-          "§7Grants §3+{1}α Sea Creature Chance§7.",
+          "§7Grants §3+{1} Sea Creature Chance§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -2740,7 +2741,7 @@
           "§7players.",
           "",
           "§6Echolocation",
-          "§7Grants §3+{1}α Sea Creature Chance§7.",
+          "§7Grants §3+{1} Sea Creature Chance§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -2778,7 +2779,7 @@
           "§7players.",
           "",
           "§6Echolocation",
-          "§7Grants §3+{1}α Sea Creature Chance§7.",
+          "§7Grants §3+{1} Sea Creature Chance§7.",
           "",
           "§6Splash Surprise",
           "§7Stun §3Sea Creatures §7for §a5s §7after",
@@ -2827,8 +2828,8 @@
           "§6Bulwark",
           "§7Kill Blazes to gain defense against",
           "§7them and demons.",
-          "§7Bonus: §a+0❈ §7& §f+0❂",
-          "§7Next Upgrade: §a+30❈ §7& §f+3❂ §8(§a0§7/§c100§8)",
+          "§7Bonus: §a+0 §7& §f+0",
+          "§7Next Upgrade: §a+30 §7& §f+3 §8(§a0§7/§c100§8)",
           "",
           "§6Blaze Slayer",
           "§7Gain §b{0}x §7Combat XP against §aBlazes§7.",
@@ -2988,7 +2989,7 @@
           "§7Intelligence: §b+{INTELLIGENCE}",
           "",
           "§6Stomp",
-          "§7Gain §a{0}❈ Defense §7for every 100 §f✦",
+          "§7Gain §a{0} Defense §7for every 100 §f",
           "§fSpeed§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -3018,7 +3019,7 @@
           "§7Intelligence: §b+{INTELLIGENCE}",
           "",
           "§6Stomp",
-          "§7Gain §a{0}❈ Defense §7for every 100 §f✦",
+          "§7Gain §a{0} Defense §7for every 100 §f",
           "§fSpeed§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -3048,11 +3049,11 @@
           "§7Intelligence: §b+{INTELLIGENCE}",
           "",
           "§6Stomp",
-          "§7Gain §a{0}❈ Defense §7for every 100 §f✦",
+          "§7Gain §a{0} Defense §7for every 100 §f",
           "§fSpeed§7.",
           "",
           "§6Walking Fortress",
-          "§7Gain §c{1}❤ Health §7for every 10 §a❈",
+          "§7Gain §c{1} Health §7for every 10 §a",
           "§aDefense§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -3086,11 +3087,11 @@
           "§7Intelligence: §b+{INTELLIGENCE}",
           "",
           "§6Stomp",
-          "§7Gain §a{0}❈ Defense §7for every 100 §f✦",
+          "§7Gain §a{0} Defense §7for every 100 §f",
           "§fSpeed§7.",
           "",
           "§6Walking Fortress",
-          "§7Gain §c{1}❤ Health §7for every 10 §a❈",
+          "§7Gain §c{1} Health §7for every 10 §a",
           "§aDefense§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -3124,17 +3125,17 @@
           "§7Intelligence: §b+{INTELLIGENCE}",
           "",
           "§6Stomp",
-          "§7Gain §a{0}❈ Defense §7for every 100 §f✦",
+          "§7Gain §a{0} Defense §7for every 100 §f",
           "§fSpeed§7.",
           "",
           "§6Walking Fortress",
-          "§7Gain §c{1}❤ Health §7for every 10 §a❈",
+          "§7Gain §c{1} Health §7for every 10 §a",
           "§aDefense§7.",
           "",
           "§6Trunk Efficiency",
-          "§7Grants §6+{2} ☘ Farming Fortune§7, which",
-          "§7increases your chance for multiple",
-          "§7drops.",
+          "§7Grants §6+{2} Farming Fortune§7,",
+          "§7which increases your chance for",
+          "§7multiple drops.",
           "",
           "§6§lLEGENDARY"
         ],
@@ -3168,19 +3169,20 @@
           "",
           "§7Health: §c+{HEALTH}",
           "§7Intelligence: §b+{INTELLIGENCE}",
+          "§7Farming Fortune: §6+{FARMING_FORTUNE}",
           "",
           "§6Stomp",
-          "§7Gain §a{0}❈ Defense §7for every 100 §f✦",
+          "§7Gain §a{0} Defense §7for every 100 §f",
           "§fSpeed§7.",
           "",
           "§6Walking Fortress",
-          "§7Gain §c{1}❤ Health §7for every 10 §a❈",
+          "§7Gain §c{1} Health §7for every 10 §a",
           "§aDefense§7.",
           "",
           "§6Trunk Efficiency",
-          "§7Grants §6+{2} ☘ Farming Fortune§7, which",
-          "§7increases your chance for multiple",
-          "§7drops.",
+          "§7Grants §6+{2} Farming Fortune§7,",
+          "§7which increases your chance for",
+          "§7multiple drops.",
           "",
           "§6Abundant Harvest",
           "§7Earn §2+{3}% Sowdust §7while farming.",
@@ -3201,8 +3203,8 @@
             150
           ],
           "3": [
-            0.15,
-            15
+            0.2,
+            20
           ],
           "HEALTH": [
             1,
@@ -3211,6 +3213,10 @@
           "INTELLIGENCE": [
             0.75,
             75
+          ],
+          "FARMING_FORTUNE": [
+            0.5,
+            50
           ]
         }
       }
@@ -3594,7 +3600,7 @@
           "",
           "§6Mite Bait",
           "§7Gain a §a{2}% §7chance to dig up a bonus",
-          "§cNest Endermite §7per §d+1♣ Pet Luck",
+          "§cNest Endermite §7per §d+1 Pet Luck",
           "§8(Stacks above 100%)",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -3642,7 +3648,7 @@
           "",
           "§6Mite Bait",
           "§7Gain a §a{2}% §7chance to dig up a bonus",
-          "§cNest Endermite §7per §d+1♣ Pet Luck",
+          "§cNest Endermite §7per §d+1 Pet Luck",
           "§8(Stacks above 100%)",
           "",
           "§6Sacrificer",
@@ -4321,8 +4327,8 @@
           "§6Bulwark",
           "§7Kill Blazes to gain defense against",
           "§7them and demons.",
-          "§7Bonus: §a+0❈ §7& §f+0❂",
-          "§7Next Upgrade: §a+30❈ §7& §f+3❂ §8(§a0§7/§c100§8)",
+          "§7Bonus: §a+0 §7& §f+0",
+          "§7Next Upgrade: §a+30 §7& §f+3 §8(§a0§7/§c100§8)",
           "",
           "§6Blaze Slayer",
           "§7Gain §b{0}x §7Combat XP against §aBlazes§7.",
@@ -4505,7 +4511,7 @@
           "§7Swing Range: §e+{SWING_RANGE}",
           "",
           "§6Good Heart",
-          "§7Grants §c+{0}❣ Health Regen",
+          "§7Grants §c+{0} Health Regen",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
@@ -4539,7 +4545,7 @@
           "§7Swing Range: §e+{SWING_RANGE}",
           "",
           "§6Good Heart",
-          "§7Grants §c+{0}❣ Health Regen",
+          "§7Grants §c+{0} Health Regen",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
@@ -4573,13 +4579,13 @@
           "§7Swing Range: §e+{SWING_RANGE}",
           "",
           "§6Good Heart",
-          "§7Grants §c+{0}❣ Health Regen",
+          "§7Grants §c+{0} Health Regen",
           "",
           "§6Higher Ground",
-          "§7Increases your §9☠ Crit Damage §7and",
-          "§c❁ Strength §7by §c{1}% §7for every",
-          "§e0.1Ⓢ Swing Range §7over §e3Ⓢ §7(up to",
-          "§e6Ⓢ§7)",
+          "§7Increases your §9 Crit Damage §7and",
+          "§c Strength §7by §c{1}% §7for every",
+          "§e0.1 Swing Range §7over §e3 §7(up to",
+          "§e6§7)",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -4617,13 +4623,13 @@
           "§7Swing Range: §e+{SWING_RANGE}",
           "",
           "§6Good Heart",
-          "§7Grants §c+{0}❣ Health Regen",
+          "§7Grants §c+{0} Health Regen",
           "",
           "§6Higher Ground",
-          "§7Increases your §9☠ Crit Damage §7and",
-          "§c❁ Strength §7by §c{1}% §7for every",
-          "§e0.1Ⓢ Swing Range §7over §e3Ⓢ §7(up to",
-          "§e6Ⓢ§7)",
+          "§7Increases your §9 Crit Damage §7and",
+          "§c Strength §7by §c{1}% §7for every",
+          "§e0.1 Swing Range §7over §e3 §7(up to",
+          "§e6§7)",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -4661,13 +4667,13 @@
           "§7Swing Range: §e+{SWING_RANGE}",
           "",
           "§6Good Heart",
-          "§7Grants §c+{0}❣ Health Regen",
+          "§7Grants §c+{0} Health Regen",
           "",
           "§6Higher Ground",
-          "§7Increases your §9☠ Crit Damage §7and",
-          "§c❁ Strength §7by §c{1}% §7for every",
-          "§e0.1Ⓢ Swing Range §7over §e3Ⓢ §7(up to",
-          "§e6Ⓢ§7)",
+          "§7Increases your §9 Crit Damage §7and",
+          "§c Strength §7by §c{1}% §7for every",
+          "§e0.1 Swing Range §7over §e3 §7(up to",
+          "§e6§7)",
           "",
           "§6Long Neck",
           "§7Increases your melee damage by",
@@ -4727,8 +4733,8 @@
           "§6Bulwark",
           "§7Kill Blazes to gain defense against",
           "§7them and demons.",
-          "§7Bonus: §a+60❈ §7& §f+6❂",
-          "§7Next Upgrade: §a+30❈ §7& §f+3❂ §8(§a0§7/§c100§8)",
+          "§7Bonus: §a+0 §7& §f+0",
+          "§7Next Upgrade: §a+30 §7& §f+3 §8(§a0§7/§c100§8)",
           "",
           "§6Blaze Slayer",
           "§7Gain §b{0}x §7Combat XP against §aBlazes§7.",
@@ -5019,8 +5025,9 @@
           "§7Magic Find: §b+{MAGIC_FIND}",
           "",
           "§6Gold's Power",
-          "§7Adds §c+{0}❁ Strength §7to all §6golden",
-          "§7weapons.",
+          "§7Increase the potency of §6Midas'",
+          "§6Sword§7 and §6Midas Staff's §5Greed Ability",
+          "§7by §a{0}%§7.",
           "",
           "§6Shining Scales",
           "§7Grants §c+11.1❁ Strength §7and §b+2.2✯",
@@ -5046,8 +5053,8 @@
         ],
         "variables": {
           "0": [
-            50,
-            100
+            5.05,
+            10
           ],
           "1": [
             0.25,
@@ -6059,11 +6066,11 @@
           "§7Speed: §f+{SPEED}",
           "",
           "§6Spiky Quills",
-          "§7Deal §a{0}%§7 more damage to §2ൠ Pests§7.",
+          "§7Deal §a{0}%§7 more damage to §2 Pests§7.",
           "",
           "§6Fearsome Farmer",
           "§7Grants §6+{1}☘ Farming Fortune §7and",
-          "§e+{2}☀ Overbloom §7on §2ൠ Pests§7.",
+          "§e+{2}☀ Overbloom §7on §2 Pests§7.",
           "",
           "§6Hunter's Insight",
           "§7Grants §6+0.7☘ Farming Fortune§7 per",
@@ -6269,7 +6276,7 @@
           "§7likely to be §6§lGREAT §7or §d§lOUTSTANDING§7.",
           "",
           "§6Crab Rave",
-          "§7Grants §6+{2}⛃ Treasure Chance",
+          "§7Grants §6+{2} Treasure Chance",
           "§7for each player with a §aHermit Crab",
           "§aPet §7within §a30 §7blocks, up to §a5 §7players.",
           "",
@@ -6321,7 +6328,7 @@
           "§7likely to be §6§lGREAT §7or §d§lOUTSTANDING§7.",
           "",
           "§6Crab Rave",
-          "§7Grants §6+{2}⛃ Treasure Chance",
+          "§7Grants §6+{2} Treasure Chance",
           "§7for each player with a §aHermit Crab",
           "§aPet §7within §a30 §7blocks, up to §a5 §7players.",
           "",
@@ -7152,7 +7159,7 @@
           "§7the §cCrimson Isle§7.",
           "",
           "§6Trophy Bait",
-          "§7Grants §6+{3}♔ Trophy Chance",
+          "§7Grants §6+{3} Trophy Chance",
           "§7while on the §cCrimson Isle§7.",
           "",
           "§8This pet's perks are active even",
@@ -7213,7 +7220,7 @@
           "§7the §cCrimson Isle§7.",
           "",
           "§6Trophy Bait",
-          "§7Grants §6+{3}♔ Trophy Chance",
+          "§7Grants §6+{3} Trophy Chance",
           "§7while on the §cCrimson Isle§7.",
           "",
           "§6Kuudra Specialist",
@@ -8368,21 +8375,21 @@
           "§7Health: §c+{HEALTH}",
           "§7Farming Fortune: §6+{FARMING_FORTUNE}",
           "",
-          "§6Efficient Mushrooms",
-          "§7Mushroom and Mycelium minions work",
-          "§a{0}% §7faster while on your island.",
+          "§6Mushroom Eater",
+          "§7You have a §a{0}% §7chance to drop a",
+          "§7Mushroom when farming crops.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
         "variables": {
           "0": [
-            0.2,
-            20
+            0.5,
+            50
           ],
           "FARMING_FORTUNE": [
-            11,
-            110
+            1,
+            100
           ],
           "HEALTH": [
             1,
@@ -8398,21 +8405,21 @@
           "§7Health: §c+{HEALTH}",
           "§7Farming Fortune: §6+{FARMING_FORTUNE}",
           "",
-          "§6Efficient Mushrooms",
-          "§7Mushroom and Mycelium minions work",
-          "§a{0}% §7faster while on your island.",
+          "§6Mushroom Eater",
+          "§7You have a §a{0}% §7chance to drop a",
+          "§7Mushroom when farming crops.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
         ],
         "variables": {
           "0": [
-            0.2,
-            20
+            1,
+            100
           ],
           "FARMING_FORTUNE": [
-            11,
-            110
+            1,
+            100
           ],
           "HEALTH": [
             1,
@@ -8428,30 +8435,33 @@
           "§7Health: §c+{HEALTH}",
           "§7Farming Fortune: §6+{FARMING_FORTUNE}",
           "",
-          "§6Efficient Mushrooms",
-          "§7Mushroom and Mycelium minions work",
-          "§a{0}% §7faster while on your island.",
-          "",
           "§6Mushroom Eater",
-          "§7When breaking mature crops, there",
-          "§7is a §a{1}% §7chance that a mushroom will",
-          "§7drop.",
+          "§7You have a §a{0}% §7chance to drop a",
+          "§7Mushroom when farming crops.",
+          "",
+          "§6Farming Strength",
+          "§7Grants §6+{1} Farming Fortune §7for",
+          "§7every §c{2}  Strength §7you have.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
         ],
         "variables": {
           "0": [
-            0.3,
-            30
-          ],
-          "1": [
-            2,
+            1,
             100
           ],
+          "1": [
+            0.7,
+            70
+          ],
+          "2": [
+            50,
+            30
+          ],
           "FARMING_FORTUNE": [
-            11,
-            110
+            1,
+            100
           ],
           "HEALTH": [
             1,
@@ -8467,30 +8477,33 @@
           "§7Health: §c+{HEALTH}",
           "§7Farming Fortune: §6+{FARMING_FORTUNE}",
           "",
-          "§6Efficient Mushrooms",
-          "§7Mushroom and Mycelium minions work",
-          "§a{0}% §7faster while on your island.",
-          "",
           "§6Mushroom Eater",
-          "§7When breaking mature crops, there",
-          "§7is a §a{1}% §7chance that a mushroom will",
-          "§7drop.",
+          "§7You have a §a{0}% §7chance to drop a",
+          "§7Mushroom when farming crops.",
+          "",
+          "§6Farming Strength",
+          "§7Grants §6+{1} Farming Fortune §7for",
+          "§7every §c{2}  Strength §7you have.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
         "variables": {
           "0": [
-            0.3,
-            30
-          ],
-          "1": [
-            2,
+            1,
             100
           ],
+          "1": [
+            0.7,
+            70
+          ],
+          "2": [
+            40,
+            20
+          ],
           "FARMING_FORTUNE": [
-            11,
-            110
+            1,
+            100
           ],
           "HEALTH": [
             1,
@@ -8506,37 +8519,41 @@
           "§7Health: §c+{HEALTH}",
           "§7Farming Fortune: §6+{FARMING_FORTUNE}",
           "",
-          "§6Efficient Mushrooms",
-          "§7Mushroom and Mycelium minions work",
-          "§a{0}% §7faster while on your island.",
-          "",
           "§6Mushroom Eater",
-          "§7When breaking mature crops, there",
-          "§7is a §a{1}% §7chance that a mushroom will",
-          "§7drop.",
+          "§7You have a §a{0}% §7chance to drop a",
+          "§7Mushroom when farming crops.",
           "",
           "§6Farming Strength",
-          "§7Gain §6+0.7☘ Farming Fortune §7per",
-          "§7every §c{2} ❁ Strength§7.",
+          "§7Grants §6+{1} Farming Fortune §7for",
+          "§7every §c{2}  Strength §7you have.",
+          "",
+          "§6Bovine Blessing",
+          "§7You have a §a{3}% §7chance to find",
+          "§aTasty Cheese §7or §aDung §7when farming",
+          "§7crops.",
           "",
           "§6§lLEGENDARY"
         ],
         "variables": {
           "0": [
-            0.3,
-            30
-          ],
-          "1": [
-            2,
+            1,
             100
           ],
+          "1": [
+            0.7,
+            70
+          ],
           "2": [
-            39.8,
+            40,
             20
           ],
+          "3": [
+            0.0002,
+            0.02
+          ],
           "FARMING_FORTUNE": [
-            11,
-            110
+            1,
+            100
           ],
           "HEALTH": [
             1,
@@ -8914,6 +8931,192 @@
           "FEROCITY": [
             0.1,
             10
+          ]
+        }
+      }
+    }
+  },
+  "ORCHID_MANTIS": {
+    "id": "ORCHID_MANTIS",
+    "name": "Orchid Mantis",
+    "tiers": {
+      "COMMON": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjE3MjQzMzMyOSwKICAicHJvZmlsZUlkIiA6ICJlOThhZTBlMTI5MDg0ZDA5OTk0MTg4N2Q2YTk0ZTI2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXh5SGF1c2VNYXN0ZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzY5MDNhOTUyMDU2NGMyMmJjNjZiMDVkMjE2MWIyM2U1NGZmOTYxMjg0ZTYzZTY4NDA2NWFlMDc4MWM5Y2Q5NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+        "lore": [
+          "§8Farming Pet",
+          "",
+          "§7Speed: §f+{SPEED}",
+          "§7Overbloom: §e+{OVERBLOOM}",
+          "",
+          "§6Intelligent Specimen",
+          "§7Earn §a+{0}% §7more Farming Tool Exp.",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§f§lCOMMON"
+        ],
+        "variables": {
+          "0": [
+            0.1,
+            10
+          ],
+          "SPEED": [
+            0.3,
+            30
+          ],
+          "OVERBLOOM": [
+            0.15,
+            15
+          ]
+        }
+      },
+      "UNCOMMON": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjE3MjQzMzMyOSwKICAicHJvZmlsZUlkIiA6ICJlOThhZTBlMTI5MDg0ZDA5OTk0MTg4N2Q2YTk0ZTI2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXh5SGF1c2VNYXN0ZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzY5MDNhOTUyMDU2NGMyMmJjNjZiMDVkMjE2MWIyM2U1NGZmOTYxMjg0ZTYzZTY4NDA2NWFlMDc4MWM5Y2Q5NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+        "lore": [
+          "§8Farming Pet",
+          "",
+          "§7Speed: §f+{SPEED}",
+          "§7Overbloom: §e+{OVERBLOOM}",
+          "",
+          "§6Intelligent Specimen",
+          "§7Earn §a+{0}% §7more Farming Tool Exp.",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§a§lUNCOMMON"
+        ],
+        "variables": {
+          "0": [
+            0.2,
+            20
+          ],
+          "SPEED": [
+            0.3,
+            30
+          ],
+          "OVERBLOOM": [
+            0.15,
+            15
+          ]
+        }
+      },
+      "RARE": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjE3MjQzMzMyOSwKICAicHJvZmlsZUlkIiA6ICJlOThhZTBlMTI5MDg0ZDA5OTk0MTg4N2Q2YTk0ZTI2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXh5SGF1c2VNYXN0ZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzY5MDNhOTUyMDU2NGMyMmJjNjZiMDVkMjE2MWIyM2U1NGZmOTYxMjg0ZTYzZTY4NDA2NWFlMDc4MWM5Y2Q5NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+        "lore": [
+          "§8Farming Pet",
+          "",
+          "§7Speed: §f+{SPEED}",
+          "§7Overbloom: §e+{OVERBLOOM}",
+          "",
+          "§6Intelligent Specimen",
+          "§7Earn §a+{0}% §7more Farming Tool Exp.",
+          "",
+          "§6Swift Sickles",
+          "§7Convert every §f3  Speed §7you have",
+          "§7above §f100 §7into §6+{1} Farming",
+          "§6Fortune.",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§9§lRARE"
+        ],
+        "variables": {
+          "0": [
+            0.2,
+            20
+          ],
+          "1": [
+            0.005,
+            0.5
+          ],
+          "SPEED": [
+            0.3,
+            30
+          ],
+          "OVERBLOOM": [
+            0.15,
+            15
+          ]
+        }
+      },
+      "EPIC": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjE3MjQzMzMyOSwKICAicHJvZmlsZUlkIiA6ICJlOThhZTBlMTI5MDg0ZDA5OTk0MTg4N2Q2YTk0ZTI2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXh5SGF1c2VNYXN0ZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzY5MDNhOTUyMDU2NGMyMmJjNjZiMDVkMjE2MWIyM2U1NGZmOTYxMjg0ZTYzZTY4NDA2NWFlMDc4MWM5Y2Q5NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+        "lore": [
+          "§8Farming Pet",
+          "",
+          "§7Speed: §f+{SPEED}",
+          "§7Overbloom: §e+{OVERBLOOM}",
+          "",
+          "§6Intelligent Specimen",
+          "§7Earn §a+{0}% §7more Farming Tool Exp.",
+          "",
+          "§6Swift Sickles",
+          "§7Convert every §f3  Speed §7you have",
+          "§7above §f100 §7into §6+{1} Farming",
+          "§6Fortune.",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§5§lEPIC"
+        ],
+        "variables": {
+          "0": [
+            0.2,
+            20
+          ],
+          "1": [
+            0.01,
+            1
+          ],
+          "SPEED": [
+            0.3,
+            30
+          ],
+          "OVERBLOOM": [
+            0.15,
+            15
+          ]
+        }
+      },
+      "LEGENDARY": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjE3MjQzMzMyOSwKICAicHJvZmlsZUlkIiA6ICJlOThhZTBlMTI5MDg0ZDA5OTk0MTg4N2Q2YTk0ZTI2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXh5SGF1c2VNYXN0ZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzY5MDNhOTUyMDU2NGMyMmJjNjZiMDVkMjE2MWIyM2U1NGZmOTYxMjg0ZTYzZTY4NDA2NWFlMDc4MWM5Y2Q5NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+        "lore": [
+          "§8Farming Pet",
+          "",
+          "§7Speed: §f+{SPEED}",
+          "§7Overbloom: §e+{OVERBLOOM}",
+          "",
+          "§6Intelligent Specimen",
+          "§7Earn §a+{0}% §7more Farming Tool Exp.",
+          "",
+          "§6Swift Sickles",
+          "§7Convert every §f3  Speed §7you have",
+          "§7above §f100 §7into §6+{1} Farming",
+          "§6Fortune.",
+          "",
+          "§6Orchid Nectar",
+          "§7You have a §a{2}% §7chance to find",
+          "§aJelly §7or §aPlant Matter §7when farming",
+          "§7crops.",
+          "",
+          "§6§lLEGENDARY"
+        ],
+        "variables": {
+          "0": [
+            0.2,
+            20
+          ],
+          "1": [
+            0.01,
+            1
+          ],
+          "2": [
+            0.0002,
+            0.02
+          ],
+          "SPEED": [
+            0.3,
+            30
+          ],
+          "OVERBLOOM": [
+            0.15,
+            15
           ]
         }
       }
@@ -10041,7 +10244,7 @@
           "§7Gain §ddouble §7pet §aEXP§7.",
           "",
           "§6Infused",
-          "§7Gives §b+{0}☂ Fishing Speed §7and §6+5⛃",
+          "§7Gives §b+{0}☂ Fishing Speed §7and §6+5",
           "§6Treasure Chance §7while on §cJerry's",
           "§cWorkshop§7.",
           "",
@@ -11058,7 +11261,7 @@
           "§7Grants §3+{1}☯ Mining Wisdom§7.",
           "",
           "§6Dexterity",
-          "§7Grants §6+{2}⸕ Mining Speed §7and",
+          "§7Grants §6+{2} Mining Speed §7and",
           "§7permanent §eHaste {3}§7.",
           "",
           "§6§lLEGENDARY"
@@ -11355,7 +11558,7 @@
           "§aSlugfish §7take §a{0}% §7less time to catch.",
           "",
           "§6Pest Friends",
-          "§7Grants §2+{1}ൠ Bonus Pest Chance§7.",
+          "§7Grants §2+{1} Bonus Pest Chance§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -11392,7 +11595,7 @@
           "§aSlugfish §7take §a{0}% §7less time to catch.",
           "",
           "§6Pest Friends",
-          "§7Grants §2+{1}ൠ Bonus Pest Chance§7.",
+          "§7Grants §2+{1} Bonus Pest Chance§7.",
           "",
           "§6Repugnant Aroma",
           "§7When farming in a plot affected by a",
@@ -12354,8 +12557,8 @@
           "§6Bulwark",
           "§7Kill Blazes to gain defense against",
           "§7them and demons.",
-          "§7Bonus: §a+0❈ §7& §f+0❂",
-          "§7Next Upgrade: §a+30❈ §7& §f+3❂ §8(§a0§7/§c100§8)",
+          "§7Bonus: §a+0 §7& §f+0",
+          "§7Next Upgrade: §a+30 §7& §f+3 §8(§a0§7/§c100§8)",
           "",
           "§6Blaze Slayer",
           "§7Gain §b{0}x §7Combat XP against §aBlazes§7.",
@@ -12800,12 +13003,12 @@
           "§7True Defense: §f+{TRUE_DEFENSE}",
           "",
           "§6Turtle Tactics",
-          "§7Gain §a+{0}% ❈ Defense §7and an",
-          "§7additional §a+10% ❈ Defense §7when",
+          "§7Gain §a+{0}%  Defense §7and an",
+          "§7additional §a+10%  Defense §7when",
           "§7standing still.",
           "",
           "§6Genius Amniote",
-          "§7Grants §a+{1}% ❈ Defense §7to 4",
+          "§7Grants §a+{1}%  Defense §7to 4",
           "§7players within 50 blocks of you.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -12844,12 +13047,12 @@
           "§7True Defense: §f+{TRUE_DEFENSE}",
           "",
           "§6Turtle Tactics",
-          "§7Gain §a+{0}% ❈ Defense §7and an",
-          "§7additional §a+10% ❈ Defense §7when",
+          "§7Gain §a+{0}%  Defense §7and an",
+          "§7additional §a+10%  Defense §7when",
           "§7standing still.",
           "",
           "§6Genius Amniote",
-          "§7Grants §a+{1}% ❈ Defense §7to 4",
+          "§7Grants §a+{1}%  Defense §7to 4",
           "§7players within 50 blocks of you.",
           "",
           "§6Unflippable",
@@ -12857,7 +13060,7 @@
           "",
           "§6Turtle Shell",
           "§7When under §c40% §7maximum HP, you take",
-          "§a{2}% §7less damage. Gain §4+{3}♨",
+          "§a{2}% §7less damage. Gain §4+{3}",
           "§4Vitality §7for 15 seconds after taking",
           "§710 hits.",
           "",
@@ -13005,8 +13208,8 @@
         ],
         "variables": {
           "0": [
-            0.8,
-            80
+            0.75,
+            75
           ],
           "INTELLIGENCE": [
             1,
@@ -13040,8 +13243,8 @@
         ],
         "variables": {
           "0": [
-            0.8,
-            80
+            0.75,
+            75
           ],
           "1": [
             0.4,

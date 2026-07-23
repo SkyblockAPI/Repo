@@ -164,7 +164,7 @@
   {
     "id": "ATTACK_SPEED",
     "lore": [
-      "§7Grants §e+1 ⚔ Attack Speed§7.",
+      "§7Grants §e+1  Attack Speed§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -351,8 +351,8 @@
   {
     "id": "BLAZING",
     "lore": [
-      "§7Grants §a+3% §7more §c❁ Damage §7against",
-      "§4♨ Infernal §7mobs.",
+      "§7Grants §a+3% §7more §c Damage §7against",
+      "§4 Infernal §7mobs.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -391,7 +391,7 @@
   {
     "id": "BLAZING_RESISTANCE",
     "lore": [
-      "§7Grants §a+4 ❈ Defense §7against §4♨",
+      "§7Grants §a+4  Defense §7against §4",
       "§4Infernal §7mobs.",
       "",
       "§7You can Syphon this shard from",
@@ -463,7 +463,7 @@
       "§9§lRARE COMBAT SHARD"
     ],
     "attribute_id": "R39",
-    "shard_name": "Wither Specter Shard",
+    "shard_name": "Wither Spectre Shard",
     "shard_id": "SHARD_WITHER_SPECTER",
     "name": "Breeze",
     "item": "minecraft:player_head",
@@ -619,7 +619,7 @@
   {
     "id": "CLOAK_IMPROVEMENT",
     "lore": [
-      "§7Your §fDavid's Cloak §7gains §f+1 ❂ True",
+      "§7Your §fDavid's Cloak §7gains §f+1  True",
       "§fDefense§7.",
       "",
       "§7You can Syphon this shard from",
@@ -1302,7 +1302,7 @@
   {
     "id": "EXTREME_PRESSURE",
     "lore": [
-      "§7Grants §9+5 ❍ Pressure Resistance§7.",
+      "§7Grants §9+5  Pressure Resistance§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -1810,7 +1810,7 @@
   {
     "id": "GROOVY_RADAR",
     "lore": [
-      "§2ൠ Pests §7have a §a+2.5% §7chance to",
+      "§2 Pests §7have a §a+2.5% §7chance to",
       "§7drop a second Vinyl.",
       "",
       "§7You can Syphon this shard from",
@@ -1871,7 +1871,7 @@
   {
     "id": "HUNTER",
     "lore": [
-      "§7Grants §3+0.5 α Sea Creature Chance§7.",
+      "§7Grants §3+0.5  Sea Creature Chance§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -2073,8 +2073,8 @@
   {
     "id": "INFILTRATION",
     "lore": [
-      "§7Grants §6+3 ☘ Farming Fortune§7 if",
-      "§7your Garden Plot currently has a §2ൠ",
+      "§7Grants §6+3  Farming Fortune§7 if",
+      "§7your Garden Plot currently has a §2",
       "§2Pest §7in it.",
       "",
       "§7You can Syphon this shard from",
@@ -2221,7 +2221,7 @@
   {
     "id": "LIFE_REGENERATION",
     "lore": [
-      "§7Grants §c+1.25 ❣ Health Regen§7.",
+      "§7Grants §c+1.25  Health Regen§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -2362,7 +2362,7 @@
   {
     "id": "LOTUS_TROPHY",
     "lore": [
-      "§7Grants §6+1 ♔ Trophy Chance§7 while in",
+      "§7Grants §6+1  Trophy Chance§7 while in",
       "§7the §3Lotus Atoll§7.",
       "",
       "§7You can Syphon this shard from",
@@ -2589,7 +2589,7 @@
   {
     "id": "MENDING",
     "lore": [
-      "§7Grants §4+2 ♨ Vitality§7.",
+      "§7Grants §4+2  Vitality§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -2827,7 +2827,7 @@
   {
     "id": "PEST_LUCK",
     "lore": [
-      "§7Grants §e+2 ☀ Overbloom §7towards §2ൠ",
+      "§7Grants §e+2  Overbloom §7towards §2",
       "§2Pests§7.",
       "",
       "§7You can Syphon this shard from",
@@ -2972,7 +2972,7 @@
   {
     "id": "RARE_BIRD",
     "lore": [
-      "§7Grants §d+1 ♣ Pet Luck§7.",
+      "§7Grants §d+1  Pet Luck§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -3032,7 +3032,7 @@
   {
     "id": "ROTTEN_PICKAXE",
     "lore": [
-      "§7Grants §6+3 ⸕ Mining Speed§7.",
+      "§7Grants §6+3  Mining Speed§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -3390,7 +3390,7 @@
   {
     "id": "TROPHY_HUNTER",
     "lore": [
-      "§7Grants §6+2 ♔ Trophy Chance§7.",
+      "§7Grants §6+2  Trophy Chance§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -3572,12 +3572,11 @@
   {
     "id": "VEIL",
     "lore": [
-      "§7Grants §f+1 ❂ True Defense§7.",
+      "§7Grants §f+1  True Defense§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
       "",
-      "§4❣ §cRequires §aHunting Skill 15§c.",
       "§5§lEPIC COMBAT SHARD"
     ],
     "attribute_id": "E33",
@@ -3813,7 +3812,7 @@
   {
     "id": "YOG_MEMBRANE",
     "lore": [
-      "§7Grants §c+1 ♨ Heat Resistance§7.",
+      "§7Grants §c+1  Heat Resistance§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
