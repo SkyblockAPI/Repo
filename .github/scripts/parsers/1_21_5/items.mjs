@@ -102,10 +102,12 @@ export const Items = {
                     }
                     break;
                 case "minecraft:custom_data":
-                    for (const [k, v] of Object.entries(value)) {
+                    for (const [k, _] of Object.entries(value)) {
                         if (customDataExclusionList.keys.includes(k)) delete value[k];
-                        if (k === "minecraft:attribute_modifiers" && !(v?.length > 0)) delete value[k];
                     }
+                    break;
+                case "minecraft:attribute_modifiers":
+                    if (!(value?.length > 0)) delete itemStack.components[key];
                     break;
             }
         }
