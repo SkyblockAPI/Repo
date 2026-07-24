@@ -2246,6 +2246,13 @@
   },
   {
     "type": "item",
+    "id": "BEGINNER_MINING_SACK",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Beginner_Mining_Sack"
+    }
+  },
+  {
+    "type": "item",
     "id": "BEHEADED_HORROR",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Beheaded_Horror"
