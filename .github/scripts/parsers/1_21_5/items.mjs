@@ -102,6 +102,9 @@ export const Items = {
                     }
                     break;
                 case "minecraft:custom_data":
+                    // Force use the sbid from nbt and not snbt
+                    value.id = item.nbt.ExtraAttributes.id;
+
                     for (const [k, _] of Object.entries(value)) {
                         if (customDataExclusionList.keys.includes(k)) delete value[k];
                     }
