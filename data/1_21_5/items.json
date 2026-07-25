@@ -210,7 +210,7 @@
           "text": "§7Fishing Wisdom: §3+1.5"
         },
         {
-          "text": "§7Accessory Power: §6+48"
+          "text": "§7Accessory Power: §6+8"
         },
         {
           "text": ""
@@ -282,7 +282,7 @@
           "text": "§7Mining Wisdom: §3+1.5"
         },
         {
-          "text": "§7Accessory Power: §6+48"
+          "text": "§7Accessory Power: §6+8"
         },
         {
           "text": ""
@@ -354,7 +354,7 @@
           "text": "§7Foraging Wisdom: §3+1.5"
         },
         {
-          "text": "§7Accessory Power: §6+48"
+          "text": "§7Accessory Power: §6+8"
         },
         {
           "text": ""
@@ -426,7 +426,7 @@
           "text": "§7Combat Wisdom: §3+1.5"
         },
         {
-          "text": "§7Accessory Power: §6+48"
+          "text": "§7Accessory Power: §6+8"
         },
         {
           "text": ""
@@ -498,7 +498,7 @@
           "text": "§7Farming Wisdom: §3+1.5"
         },
         {
-          "text": "§7Accessory Power: §6+48"
+          "text": "§7Accessory Power: §6+8"
         },
         {
           "text": ""
@@ -567,7 +567,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Accessory Power: §6+48"
+          "text": "§7Accessory Power: §6+8"
         },
         {
           "text": ""
@@ -642,7 +642,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Accessory Power: §6+48"
+          "text": "§7Accessory Power: §6+8"
         },
         {
           "text": ""
@@ -717,7 +717,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Accessory Power: §6+48"
+          "text": "§7Accessory Power: §6+8"
         },
         {
           "text": ""
@@ -5730,7 +5730,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXX§7!"
+          "text": "§4❣ §cRequires §aMining Skill 30§c."
         },
         {
           "text": ""
@@ -5777,10 +5777,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Mining Speed: §6+40"
+          "text": "§7Mining Speed: §6+30"
         },
         {
-          "text": "§7Mining Fortune: §6+12"
+          "text": "§7Mining Fortune: §6+10"
         },
         {
           "text": ""
@@ -5802,6 +5802,12 @@
         },
         {
           "text": "§7the §5Crystal Hollows§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to equip!"
         },
         {
           "text": ""
@@ -6056,6 +6062,12 @@
         },
         {
           "text": "§7the §5Crystal Hollows§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to equip!"
         },
         {
           "text": ""
@@ -8011,7 +8023,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXVI§7!"
+          "text": "§4❣ §cRequires §aMining Skill 26§c."
         },
         {
           "text": ""
@@ -15541,6 +15553,9 @@
           "text": "§7Magic Find: §b+1"
         },
         {
+          "text": "§7Accessory Power: §6+3"
+        },
+        {
           "text": ""
         },
         {
@@ -15621,6 +15636,9 @@
       "minecraft:lore": [
         {
           "text": "§7Magic Find: §b+1"
+        },
+        {
+          "text": "§7Accessory Power: §6+3"
         },
         {
           "text": ""
@@ -19695,7 +19713,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XV§7!"
+          "text": "§4❣ §cRequires §aMining Skill 15§c."
         },
         {
           "text": ""
@@ -21466,10 +21484,10 @@
           "text": "§6Ability: Swhooomp  §e§lRIGHT CLICK"
         },
         {
-          "text": "§7Shoot an arrow. Doesn't deal damage."
+          "text": "§7Shoot an arrow. Doesn't deal damage. Except"
         },
         {
-          "text": "§7Except to chickens."
+          "text": "§7to chickens and Puffs."
         },
         {
           "text": "§8Mana Cost: §b5"
@@ -21481,9 +21499,21 @@
           "text": "§9§lRARE"
         }
       ],
-      "minecraft:dyed_color": 10511680,
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:painting/variant",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:potion_contents",
           "minecraft:dyed_color"
         ]
       },
@@ -25608,7 +25638,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXVII§7!"
+          "text": "§4❣ §cRequires §aMining Skill 27§c."
         },
         {
           "text": ""
@@ -27349,7 +27379,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXIV§7!"
+          "text": "§4❣ §cRequires §aMining Skill 24§c."
         },
         {
           "text": ""
@@ -27935,7 +27965,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXV§7!"
+          "text": "§4❣ §cRequires §aMining Skill 25§c."
         },
         {
           "text": ""
@@ -32496,17 +32526,19 @@
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
-          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
-          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
           "minecraft:dyed_color"
         ]
       },
@@ -35154,7 +35186,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXV§7!"
+          "text": "§4❣ §cRequires §aMining Skill 25§c."
         },
         {
           "text": ""
@@ -41225,6 +41257,9 @@
           "text": "§7Magic Find: §b+1"
         },
         {
+          "text": "§7Accessory Power: §6+3"
+        },
+        {
           "text": ""
         },
         {
@@ -41560,6 +41595,9 @@
       "minecraft:lore": [
         {
           "text": "§7Magic Find: §b+1"
+        },
+        {
+          "text": "§7Accessory Power: §6+3"
         },
         {
           "text": ""
@@ -55514,7 +55552,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XV§7!"
+          "text": "§4❣ §cRequires §aMining Skill 15§c."
         },
         {
           "text": ""
@@ -60160,18 +60198,20 @@
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
-          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
-          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color",
-          "minecraft:charged_projectiles"
+          "minecraft:dyed_color"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -61507,18 +61547,20 @@
       },
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
-          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
-          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color",
-          "minecraft:charged_projectiles"
+          "minecraft:dyed_color"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -67571,7 +67613,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXX§7!"
+          "text": "§4❣ §cRequires §aMining Skill 30§c."
         },
         {
           "text": ""
@@ -72222,7 +72264,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXII§7!"
+          "text": "§4❣ §cRequires §aMining Skill 22§c."
         },
         {
           "text": ""
@@ -74785,7 +74827,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XV§7!"
+          "text": "§4❣ §cRequires §aMining Skill 15§c."
         },
         {
           "text": ""
@@ -78612,7 +78654,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXII§7!"
+          "text": "§4❣ §cRequires §aMining Skill 22§c."
         },
         {
           "text": ""
@@ -78862,7 +78904,7 @@
           "text": "§7Crit Damage: §9+10%"
         },
         {
-          "text": "§7Attack Speed: §e+14%"
+          "text": "§7Attack Speed: §e+4%"
         },
         {
           "text": "§7Intelligence: §b+10"
@@ -78886,7 +78928,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXV§7!"
+          "text": "§4❣ §cRequires §aMining Skill 25§c."
         },
         {
           "text": ""
@@ -79103,7 +79145,7 @@
           "text": "§7Crit Damage: §9+10%"
         },
         {
-          "text": "§7Attack Speed: §e+14%"
+          "text": "§7Attack Speed: §e+4%"
         },
         {
           "text": "§7Intelligence: §b+10"
@@ -79115,7 +79157,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XX§7!"
+          "text": "§4❣ §cRequires §aMining Skill 20§c."
         },
         {
           "text": ""
@@ -80983,6 +81025,9 @@
           "text": ""
         },
         {
+          "text": "§4❣ §cRequires §5Heart of the Mountain Tier 8§c."
+        },
+        {
           "text": "§8Works while in Accessory Bag!"
         },
         {
@@ -81570,7 +81615,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XIV§7!"
+          "text": "§4❣ §cRequires §aMining Skill 14§c."
         },
         {
           "text": ""
@@ -87681,20 +87726,18 @@
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -93598,17 +93641,19 @@
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
-          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
-          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
           "minecraft:dyed_color"
         ]
       },
@@ -99259,7 +99304,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XIV§7!"
+          "text": "§4❣ §cRequires §aMining Skill 14§c."
         },
         {
           "text": ""
@@ -100513,7 +100558,7 @@
           "text": "§9+55 Crit Damage"
         },
         {
-          "text": "§7Deal §62x §7to fire pillars, breaking one grants"
+          "text": "§7Deal §6+1 §7to fire pillars, breaking one grants"
         },
         {
           "text": "§f+30 True Defense §7and §c+1.15x damage §7for §a60s§7."
@@ -100522,7 +100567,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XX§7!"
+          "text": "§4❣ §cRequires §aMining Skill 20§c."
         },
         {
           "text": ""
@@ -118890,6 +118935,12 @@
       },
       "minecraft:lore": [
         {
+          "text": "§8Minion Upgrade"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§7Grants a §a100% §7chance of receiving"
         },
         {
@@ -119294,7 +119345,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XIII§7!"
+          "text": "§4❣ §cRequires §aMining Skill 13§c."
         },
         {
           "text": ""
@@ -120579,23 +120630,28 @@
           "text": ""
         },
         {
+          "text": "§4☠ §cRequires §5Spider Slayer 6§c."
+        },
+        {
           "text": "§5§lEPIC"
         }
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
-          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
-          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color",
-          "minecraft:charged_projectiles"
+          "minecraft:dyed_color"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -123107,7 +123163,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXX§7!"
+          "text": "§4❣ §cRequires §aMining Skill 30§c."
         },
         {
           "text": ""
@@ -124012,7 +124068,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XX§7!"
+          "text": "§4❣ §cRequires §aMining Skill 20§c."
         },
         {
           "text": ""
@@ -128627,7 +128683,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XV§7!"
+          "text": "§4❣ §cRequires §aMining Skill 15§c."
         },
         {
           "text": ""
@@ -130748,7 +130804,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXV§7!"
+          "text": "§4❣ §cRequires §aMining Skill 25§c."
         },
         {
           "text": ""
@@ -133307,7 +133363,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXIV§7!"
+          "text": "§4❣ §cRequires §aMining Skill 24§c."
         },
         {
           "text": ""
@@ -137518,7 +137574,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXX§7!"
+          "text": "§4❣ §cRequires §aMining Skill 30§c."
         },
         {
           "text": ""
@@ -143394,6 +143450,12 @@
           "text": ""
         },
         {
+          "text": "§eRight-click to equip!"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§8This item can be reforged!"
         },
         {
@@ -143420,8 +143482,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -143678,6 +143740,12 @@
           "text": ""
         },
         {
+          "text": "§eRight-click to equip!"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§8This item can be reforged!"
         },
         {
@@ -143704,8 +143772,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -143892,6 +143960,12 @@
         },
         {
           "text": "§7experiments!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to equip!"
         },
         {
           "text": ""
@@ -146570,6 +146644,9 @@
           "text": ""
         },
         {
+          "text": "§4☠ §cRequires §5Enderman Slayer 5§c."
+        },
+        {
           "text": "§8Works while in Accessory Bag!"
         },
         {
@@ -146998,7 +147075,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XII§7!"
+          "text": "§4❣ §cRequires §aMining Skill 12§c."
         },
         {
           "text": ""
@@ -169206,7 +169283,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXX§7!"
+          "text": "§4❣ §cRequires §aMining Skill 30§c."
         },
         {
           "text": ""
@@ -170549,7 +170626,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level I§7!"
+          "text": "§4❣ §cRequires §aMining Skill 1§c."
         },
         {
           "text": ""
@@ -175216,7 +175293,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXXIII§7!"
+          "text": "§4❣ §cRequires §aMining Skill 33§c."
         },
         {
           "text": ""
@@ -177105,7 +177182,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level V§7!"
+          "text": "§4❣ §cRequires §aMining Skill 5§c."
         },
         {
           "text": ""
@@ -180084,7 +180161,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XII§7!"
+          "text": "§4❣ §cRequires §aMining Skill 12§c."
         },
         {
           "text": ""
@@ -182604,6 +182681,9 @@
         },
         {
           "text": ""
+        },
+        {
+          "text": "§4☠ §cRequires §5Enderman Slayer 2§c."
         },
         {
           "text": "§9§lRARE"
@@ -185851,7 +185931,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXIV§7!"
+          "text": "§4❣ §cRequires §aMining Skill 24§c."
         },
         {
           "text": ""
@@ -190452,7 +190532,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXX§7!"
+          "text": "§4❣ §cRequires §aMining Skill 30§c."
         },
         {
           "text": ""
@@ -190875,7 +190955,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXII§7!"
+          "text": "§4❣ §cRequires §aMining Skill 22§c."
         },
         {
           "text": ""
@@ -195903,7 +195983,7 @@
       },
       "minecraft:unbreakable": {},
       "minecraft:custom_name": {
-        "text": "§aMelon Leggings"
+        "text": "§aTater Leggings"
       },
       "minecraft:lore": [
         {
@@ -195952,29 +196032,27 @@
           "text": "§8This item can be reforged!"
         },
         {
-          "text": "§4❣ §cRequires §aFarming Skill 25§c."
+          "text": "§4❣ §cRequires §aFarming Skill 20§c."
         },
         {
           "text": "§a§lUNCOMMON LEGGINGS"
         }
       ],
-      "minecraft:dyed_color": 9018912,
+      "minecraft:dyed_color": 13145914,
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -197074,7 +197152,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXIV§7!"
+          "text": "§4❣ §cRequires §aMining Skill 24§c."
         },
         {
           "text": ""
@@ -197196,7 +197274,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXV§7!"
+          "text": "§4❣ §cRequires §aMining Skill 25§c."
         },
         {
           "text": ""
@@ -198843,18 +198921,20 @@
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
-          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
-          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color",
-          "minecraft:charged_projectiles"
+          "minecraft:dyed_color"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -202484,7 +202564,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XX§7!"
+          "text": "§4❣ §cRequires §aMining Skill 20§c."
         },
         {
           "text": ""
@@ -203029,7 +203109,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XII§7!"
+          "text": "§4❣ §cRequires §aMining Skill 12§c."
         },
         {
           "text": ""
@@ -203277,7 +203357,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XI§7!"
+          "text": "§4❣ §cRequires §aMining Skill 11§c."
         },
         {
           "text": ""
@@ -208244,7 +208324,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XIX§7!"
+          "text": "§4❣ §cRequires §aMining Skill 19§c."
         },
         {
           "text": ""
@@ -216351,17 +216431,19 @@
       "minecraft:item_model": "minecraft:ghast_spawn_egg",
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
-          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
-          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
           "minecraft:dyed_color"
         ]
       },
@@ -216421,7 +216503,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level II§7!"
+          "text": "§4❣ §cRequires §aMining Skill 2§c."
         },
         {
           "text": ""
@@ -216739,7 +216821,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXII§7!"
+          "text": "§4❣ §cRequires §aMining Skill 22§c."
         },
         {
           "text": ""
@@ -217393,7 +217475,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level III§7!"
+          "text": "§4❣ §cRequires §aMining Skill 3§c."
         },
         {
           "text": ""
@@ -217601,7 +217683,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXIII§7!"
+          "text": "§4❣ §cRequires §aMining Skill 23§c."
         },
         {
           "text": ""
@@ -225767,18 +225849,20 @@
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
-          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
-          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color",
-          "minecraft:charged_projectiles"
+          "minecraft:dyed_color"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -225834,18 +225918,20 @@
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
-          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
-          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color",
-          "minecraft:charged_projectiles"
+          "minecraft:dyed_color"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -225901,18 +225987,20 @@
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
-          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
-          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color",
-          "minecraft:charged_projectiles"
+          "minecraft:dyed_color"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -225968,18 +226056,20 @@
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
-          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
-          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color",
-          "minecraft:charged_projectiles"
+          "minecraft:dyed_color"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -227266,7 +227356,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXVI§7!"
+          "text": "§4❣ §cRequires §aMining Skill 26§c."
         },
         {
           "text": ""
@@ -245354,6 +245444,314 @@
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
+        "id": "PET_SKIN_MOOSHROOM_COW_HIGHLAND_BLACK"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Highland Black Mooshroom Cow Skin"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Consumed on use"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Pet skins change the look and"
+        },
+        {
+          "text": "§7particle trail of your pet but only"
+        },
+        {
+          "text": "§7one skin can be active at a time!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This skin can only be applied to"
+        },
+        {
+          "text": "§aMooshroom Cow§7 pets."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click on your summoned pet to"
+        },
+        {
+          "text": "§eapply this skin!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC COSMETIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDcyNTc1MzM0OCwKICAicHJvZmlsZUlkIiA6ICI1NjExYmE1MjFmNDM0OWYwOWE0MTI5ZTM0NjQzMDM1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHdXlOYW1lZEthaW5lIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JiMWJkODg1MDEyYWRkMDA4M2RlNzgzNjJkYWE2M2VjOGQzNzhmMWFhZTgxMmZmZGI0OGM5NmZhZDVmZTA3MzAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "PET_SKIN_MOOSHROOM_COW_HIGHLAND_ORANGE"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Highland Orange Mooshroom Cow Skin"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Consumed on use"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Pet skins change the look and"
+        },
+        {
+          "text": "§7particle trail of your pet but only"
+        },
+        {
+          "text": "§7one skin can be active at a time!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This skin can only be applied to"
+        },
+        {
+          "text": "§aMooshroom Cow§7 pets."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click on your summoned pet to"
+        },
+        {
+          "text": "§eapply this skin!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC COSMETIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDcyNTc1NTMxMywKICAicHJvZmlsZUlkIiA6ICI2OTY0OGJkMDMwMDU0MDRlOTk4YTI5OTRhNGE4NmY1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJxd2VycmllcXVhcnJpZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZDAyYTYxZGUzMTYxOWI5YjE5MGZlMzRkY2E2ZDA3NzZiYjhmNjBjZjgyNjY4MGI1Nzg1NTFlODFmNDczYTllIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "PET_SKIN_MOOSHROOM_COW_HIGHLAND_SANDY"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Highland Sandy Mooshroom Cow Skin"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Consumed on use"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Pet skins change the look and"
+        },
+        {
+          "text": "§7particle trail of your pet but only"
+        },
+        {
+          "text": "§7one skin can be active at a time!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This skin can only be applied to"
+        },
+        {
+          "text": "§aMooshroom Cow§7 pets."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click on your summoned pet to"
+        },
+        {
+          "text": "§eapply this skin!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC COSMETIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDcyNTc1NTY0NCwKICAicHJvZmlsZUlkIiA6ICJmZDJlZDMzMzI0Mjk0ZThmOWVlZGNiN2RhMWJiNzlkZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkcmFtYWdnIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E4NWZlNmM0ZWQzYTVmYTE5Y2IyMmQyNjQ2ZjMzZmE3MzJiNzZjYmNjNTI3NzQ4Yjc3Y2IxNTIxNzYzMDc0YWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "PET_SKIN_MOOSHROOM_COW_HIGHLAND_WHITE"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Highland White Mooshroom Cow Skin"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Consumed on use"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Pet skins change the look and"
+        },
+        {
+          "text": "§7particle trail of your pet but only"
+        },
+        {
+          "text": "§7one skin can be active at a time!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This skin can only be applied to"
+        },
+        {
+          "text": "§aMooshroom Cow§7 pets."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click on your summoned pet to"
+        },
+        {
+          "text": "§eapply this skin!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC COSMETIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDcyNTc1NjE2MCwKICAicHJvZmlsZUlkIiA6ICJiZDI3NmE5YjU1NWU0MWE1OWZhMmRiMzEzMWFkNzE1OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFZ2dUYW1hZ290Y2hpIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VjMDg5YTQ1ZTY2ZWQ2OGJkNjNjMjgxMTlmYzZmODk1NzRmZTUyZTBjYzY5MzI5NmM3NmI3YzRhZmU0ZTc0YmYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
         "id": "PET_SKIN_MOOSHROOM_COW_LUNAR_OX"
       },
       "minecraft:custom_name": {
@@ -259726,7 +260124,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XVIII§7!"
+          "text": "§4❣ §cRequires §aMining Skill 18§c."
         },
         {
           "text": ""
@@ -260483,6 +260881,9 @@
           "text": ""
         },
         {
+          "text": "§4☠ §cRequires §5Enderman Slayer 4§c."
+        },
+        {
           "text": "§8Works while in Accessory Bag!"
         },
         {
@@ -260576,6 +260977,9 @@
         },
         {
           "text": ""
+        },
+        {
+          "text": "§4❣ §cRequires §aMining Skill 25§c."
         },
         {
           "text": "§5§lEPIC REFORGE STONE"
@@ -264526,9 +264930,6 @@
           "text": "§7Crit Chance: §9+12%"
         },
         {
-          "text": "§7Crit Damage: §9+50%"
-        },
-        {
           "text": "§7Intelligence: §b+20"
         },
         {
@@ -264547,7 +264948,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXX§7!"
+          "text": "§4❣ §cRequires §aMining Skill 30§c."
         },
         {
           "text": ""
@@ -264722,7 +265123,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XVI§7!"
+          "text": "§4❣ §cRequires §aMining Skill 16§c."
         },
         {
           "text": ""
@@ -265175,16 +265576,19 @@
           "text": "§9Blood-Soaked Bonus"
         },
         {
-          "text": "§7Heal §a1.15x §7more from §9Vampirism §7and"
+          "text": "§7Increase the enchantment effects"
         },
         {
-          "text": "§9Lifesteal§7."
+          "text": "§7of §9Life Steal§7, §9Vampirism§7 and §9Drain §7by"
+        },
+        {
+          "text": "§a1 §7level."
         },
         {
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXIV§7!"
+          "text": "§4❣ §cRequires §aMining Skill 24§c."
         },
         {
           "text": ""
@@ -270238,7 +270642,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XVIII§7!"
+          "text": "§4❣ §cRequires §aMining Skill 18§c."
         },
         {
           "text": ""
@@ -274427,7 +274831,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level VIII§7!"
+          "text": "§4❣ §cRequires §aMining Skill 8§c."
         },
         {
           "text": ""
@@ -278400,6 +278804,9 @@
           "text": ""
         },
         {
+          "text": "§4☠ §cRequires §5Wolf Slayer 1§c."
+        },
+        {
           "text": "§8Works while in Accessory Bag!"
         },
         {
@@ -278586,7 +278993,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XVII§7!"
+          "text": "§4❣ §cRequires §aMining Skill 17§c."
         },
         {
           "text": ""
@@ -280007,7 +280414,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXI§7!"
+          "text": "§4❣ §cRequires §aMining Skill 21§c."
         },
         {
           "text": ""
@@ -280369,7 +280776,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXV§7!"
+          "text": "§4❣ §cRequires §aMining Skill 25§c."
         },
         {
           "text": ""
@@ -286209,7 +286616,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXI§7!"
+          "text": "§4❣ §cRequires §aMining Skill 21§c."
         },
         {
           "text": ""
@@ -289694,7 +290101,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXV§7!"
+          "text": "§4❣ §cRequires §aMining Skill 25§c."
         },
         {
           "text": ""
@@ -290721,7 +291128,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XV§7!"
+          "text": "§4❣ §cRequires §aMining Skill 15§c."
         },
         {
           "text": ""
@@ -300534,7 +300941,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXIV§7!"
+          "text": "§4❣ §cRequires §aMining Skill 24§c."
         },
         {
           "text": ""
@@ -301075,7 +301482,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXVI§7!"
+          "text": "§4❣ §cRequires §aMining Skill 26§c."
         },
         {
           "text": ""
@@ -306484,7 +306891,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level IX§7!"
+          "text": "§4❣ §cRequires §aMining Skill 9§c."
         },
         {
           "text": ""
@@ -314580,6 +314987,9 @@
           "text": ""
         },
         {
+          "text": "§4☠ §cRequires §5Enderman Slayer 5§c."
+        },
+        {
           "text": "§5§lEPIC"
         }
       ],
@@ -320453,7 +320863,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXIV§7!"
+          "text": "§4❣ §cRequires §aMining Skill 24§c."
         },
         {
           "text": ""
@@ -324042,7 +324452,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXI§7!"
+          "text": "§4❣ §cRequires §aMining Skill 21§c."
         },
         {
           "text": ""
@@ -335555,7 +335965,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XI§7!"
+          "text": "§4❣ §cRequires §aMining Skill 11§c."
         },
         {
           "text": ""
@@ -335644,6 +336054,12 @@
           "text": ""
         },
         {
+          "text": "§eRight-click to equip!"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§8This item can be reforged!"
         },
         {
@@ -335670,8 +336086,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -336614,18 +337030,20 @@
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
-          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
-          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color",
-          "minecraft:charged_projectiles"
+          "minecraft:dyed_color"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -337041,18 +337459,20 @@
       "minecraft:item_model": "hypixel_skyblock:item/uncategorized/super_jacob_system",
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
-          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
-          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color",
-          "minecraft:charged_projectiles"
+          "minecraft:dyed_color"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -337823,7 +338243,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXIII§7!"
+          "text": "§4❣ §cRequires §aMining Skill 23§c."
         },
         {
           "text": ""
@@ -343541,7 +343961,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XV§7!"
+          "text": "§4❣ §cRequires §aMining Skill 15§c."
         },
         {
           "text": ""
@@ -349288,6 +349708,9 @@
           "text": ""
         },
         {
+          "text": "§4❣ §cRequires §5Heart of the Mountain Tier 5§c."
+        },
+        {
           "text": "§8Works while in Accessory Bag!"
         },
         {
@@ -349341,6 +349764,9 @@
           "text": ""
         },
         {
+          "text": "§4❣ §cRequires §5Heart of the Mountain Tier 3§c."
+        },
+        {
           "text": "§8Works while in Accessory Bag!"
         },
         {
@@ -349392,6 +349818,9 @@
         },
         {
           "text": ""
+        },
+        {
+          "text": "§4❣ §cRequires §5Heart of the Mountain Tier 2§c."
         },
         {
           "text": "§8Works while in Accessory Bag!"
@@ -349480,7 +349909,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XX§7!"
+          "text": "§4❣ §cRequires §aMining Skill 20§c."
         },
         {
           "text": ""
@@ -369012,7 +369441,7 @@
           "text": "§9Withered §7(§6Legendary§7):"
         },
         {
-          "text": "§7Strength: §c+185"
+          "text": "§7Strength: §c+135"
         },
         {
           "text": ""
@@ -369030,7 +369459,7 @@
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level XXX§7!"
+          "text": "§4❣ §cRequires §aMining Skill 30§c."
         },
         {
           "text": ""

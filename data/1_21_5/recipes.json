@@ -885,6 +885,21 @@
     }
   },
   {
+    "type": "shop",
+    "npc": "ADVENTURER_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "BEGINNER_COMBAT_SACK",
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {

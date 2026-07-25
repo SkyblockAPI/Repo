@@ -26273,6 +26273,34 @@
   },
   {
     "type": "item",
+    "id": "PET_SKIN_MOOSHROOM_COW_HIGHLAND_BLACK",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Highland_Black_Mooshroom_Cow_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PET_SKIN_MOOSHROOM_COW_HIGHLAND_ORANGE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Highland_Orange_Mooshroom_Cow_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PET_SKIN_MOOSHROOM_COW_HIGHLAND_SANDY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Highland_Sandy_Mooshroom_Cow_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PET_SKIN_MOOSHROOM_COW_HIGHLAND_WHITE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Highland_White_Mooshroom_Cow_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "PET_SKIN_MOOSHROOM_COW_LUNAR_OX",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Lunar_Ox_Mooshroom_Cow_Skin"
@@ -42712,7 +42740,7 @@
     "type": "mob",
     "id": "ADVENTURER_NPC",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Adventurer"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Combat_Merchant"
     }
   },
   {
