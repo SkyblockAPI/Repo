@@ -8440,8 +8440,8 @@
           "§7Mushroom when farming crops.",
           "",
           "§6Farming Strength",
-          "§7Grants §6+{1} Farming Fortune §7for",
-          "§7every §c{2}  Strength §7you have.",
+          "§7Grants §6+0.7 Farming Fortune §7for",
+          "§7every §c{1}  Strength §7you have.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -8452,10 +8452,6 @@
             100
           ],
           "1": [
-            0.7,
-            70
-          ],
-          "2": [
             50,
             30
           ],
@@ -8482,8 +8478,8 @@
           "§7Mushroom when farming crops.",
           "",
           "§6Farming Strength",
-          "§7Grants §6+{1} Farming Fortune §7for",
-          "§7every §c{2}  Strength §7you have.",
+          "§7Grants §6+0.7 Farming Fortune §7for",
+          "§7every §c{1}  Strength §7you have.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -8494,10 +8490,6 @@
             100
           ],
           "1": [
-            0.7,
-            70
-          ],
-          "2": [
             40,
             20
           ],
@@ -8524,11 +8516,11 @@
           "§7Mushroom when farming crops.",
           "",
           "§6Farming Strength",
-          "§7Grants §6+{1} Farming Fortune §7for",
-          "§7every §c{2}  Strength §7you have.",
+          "§7Grants §6+0.7 Farming Fortune §7for",
+          "§7every §c{1}  Strength §7you have.",
           "",
           "§6Bovine Blessing",
-          "§7You have a §a{3}% §7chance to find",
+          "§7You have a §a{2}% §7chance to find",
           "§aTasty Cheese §7or §aDung §7when farming",
           "§7crops.",
           "",
@@ -8540,14 +8532,10 @@
             100
           ],
           "1": [
-            0.7,
-            70
-          ],
-          "2": [
             40,
             20
           ],
-          "3": [
+          "2": [
             0.0002,
             0.02
           ],

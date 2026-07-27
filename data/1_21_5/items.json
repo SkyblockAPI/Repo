@@ -180208,49 +180208,34 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Item pickups go directly into your"
+          "text": "§7Holds items commonly found on"
         },
         {
-          "text": "§7sacks."
+          "text": "§cJerry's Workshop§7! Items you pickup"
         },
         {
-          "text": ""
-        },
-        {
-          "text": "§7Items: §aEnchanted Ice§7, §aEnchanted Packed Ice§7, §aEnchanted"
-        },
-        {
-          "text": "§aSnow Block§7, §aGlacial Fragment§7, §aGreen Gift§7, §aHunk of Blue"
-        },
-        {
-          "text": "§aIce§7, §aHunk of Ice§7, §aIce§7, §aPacked Ice§7, §aParty Gift§7, §aSnow Block§7,"
-        },
-        {
-          "text": "§aSnowball§7, §aWalnut§7, §aWhite Gift§7, §aWinter Fragment§7, §cRed Gift§7,"
-        },
-        {
-          "text": "§cVolcanic Rock"
+          "text": "§7go directly into your sacks."
         },
         {
           "text": ""
         },
         {
-          "text": "§7Capacity: §e20,160 per item"
+          "text": "§7Capacity: §e20,160 of each item"
         },
         {
-          "text": "§8Sacks sum their capacity."
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§eRight Click to open sack!"
+          "text": "§8Multiple sacks sum their capacity!"
         },
         {
           "text": ""
         },
         {
-          "text": "§9§lRARE"
+          "text": "§eRight Click to open!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE SACK"
         }
       ],
       "minecraft:profile": {
@@ -193538,52 +193523,34 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Item pickups go directly into your"
+          "text": "§7Holds Lava Fishing items commonly"
         },
         {
-          "text": "§7sacks."
+          "text": "§7found in the §cCrimson Isle§7! Items you"
         },
         {
-          "text": ""
-        },
-        {
-          "text": "§7Items: §aBlaze Powder§7, §aCoal§7, §aCup of Blood§7, §aFlaming Heart§7,"
-        },
-        {
-          "text": "§aFried Feather§7, §aGold Magmafish§7, §aHorn of Taurus§7, §aLava"
-        },
-        {
-          "text": "§aShell§7, §aLump of Magma§7, §aMagma Cream§7, §aMagmafish§7, §aMoogma"
-        },
-        {
-          "text": "§aPelt§7, §aNetherrack§7, §aOrb of Energy§7, §aPyroclastic Scale§7,"
-        },
-        {
-          "text": "§aScorched Crab Stick§7, §aSeared Escargot§7, §aSilver"
-        },
-        {
-          "text": "§aMagmafish§7, §aSinged Powder§7, §aThunder Fragment"
+          "text": "§7pickup go directly into your sacks."
         },
         {
           "text": ""
         },
         {
-          "text": "§7Capacity: §e6,720 per item"
+          "text": "§7Capacity: §e6,720 of each item"
         },
         {
-          "text": "§8Sacks sum their capacity."
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§eRight Click to open sack!"
+          "text": "§8Multiple sacks sum their capacity!"
         },
         {
           "text": ""
         },
         {
-          "text": "§9§lRARE"
+          "text": "§eRight Click to open!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE SACK"
         }
       ],
       "minecraft:profile": {
@@ -310364,58 +310331,34 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Item pickups go directly into your"
+          "text": "§7Holds items commonly dropped by"
         },
         {
-          "text": "§7sacks."
+          "text": "§cSlayers§7! Items you pickup go directly"
         },
         {
-          "text": ""
-        },
-        {
-          "text": "§7Items: §aBlaze Rod Distillate§7, §aCrude Gabagool§7, §aDerelict"
-        },
-        {
-          "text": "§aAshe§7, §aGabagool Distillate§7, §aGlowstone Distillate§7, §aGolden"
-        },
-        {
-          "text": "§aTooth§7, §aMagma Cream Distillate§7, §aMolten Powder§7, §aNether"
-        },
-        {
-          "text": "§aWart Distillate§7, §aNull Atom§7, §aNull Ovoid§7, §aNull Sphere§7, §aRaw"
-        },
-        {
-          "text": "§aSoulflow§7, §aRevenant Catalyst§7, §aRevenant Flesh§7, §aRevenant"
-        },
-        {
-          "text": "§aViscera§7, §aSoulflow§7, §aSpider Catalyst§7, §aTarantula Catalyst§7,"
-        },
-        {
-          "text": "§aTarantula Silk§7, §aTarantula Web§7, §aToxic Arrow Poison§7,"
-        },
-        {
-          "text": "§aTwilight Arrow Poison§7, §aUndead Catalyst§7, §aWolf Tooth"
+          "text": "§7into your sacks."
         },
         {
           "text": ""
         },
         {
-          "text": "§7Capacity: §e2,240 per item"
+          "text": "§7Capacity: §e2,240 of each item"
         },
         {
-          "text": "§8Sacks sum their capacity."
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§eRight Click to open sack!"
+          "text": "§8Multiple sacks sum their capacity!"
         },
         {
           "text": ""
         },
         {
-          "text": "§a§lUNCOMMON"
+          "text": "§eRight Click to open!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON SACK"
         }
       ],
       "minecraft:profile": {
@@ -369053,52 +368996,34 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Item pickups go directly into your"
+          "text": "§7Holds items found during the §5Year of"
         },
         {
-          "text": "§7sacks."
+          "text": "§5the Witch§7! Items you pickup go"
         },
         {
-          "text": ""
-        },
-        {
-          "text": "§7Items: §aBrittle Powder§7, §aConsole Panel§7, §aDirty Fingernails§7,"
-        },
-        {
-          "text": "§aFestering Fly§7, §aFrog Legs§7, §aFunny Bone§7, §aGelatinous Gloop§7,"
-        },
-        {
-          "text": "§aGlaciated Brains§7, §aJawbreaker§7, §aNever-Melt Ice§7, §aPixie Dust§7,"
-        },
-        {
-          "text": "§aRotted Leaf§7, §aRuffled Feather§7, §aShield Dust§7, §aSmoldering"
-        },
-        {
-          "text": "§aEmbers§7, §aSpell Soot§7, §aSpider Egg§7, §aVoid Ooze§7, §aWarmed"
-        },
-        {
-          "text": "§aFlakes§7, §aWaterbourne Lice"
+          "text": "§7directly into your sacks."
         },
         {
           "text": ""
         },
         {
-          "text": "§7Capacity: §e20,160 per item"
+          "text": "§7Capacity: §e20,160 of each item"
         },
         {
-          "text": "§8Sacks sum their capacity."
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§eRight Click to open sack!"
+          "text": "§8Multiple sacks sum their capacity!"
         },
         {
           "text": ""
         },
         {
-          "text": "§5§lEPIC"
+          "text": "§eRight Click to open!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC SACK"
         }
       ],
       "minecraft:profile": {
