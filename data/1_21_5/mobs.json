@@ -23612,6 +23612,15 @@
             ]
           },
           {
+            "id": "TOXIC_ARROW_POISON",
+            "chance": 0.15254,
+            "minAmount": 4,
+            "maxAmount": 8,
+            "extraLore": [
+              "§eWeight: 1,800"
+            ]
+          },
+          {
             "id": "DYE_BRICK_RED",
             "chance": 1.0000000000000001e-7,
             "minAmount": 1,
@@ -23652,8 +23661,8 @@
           {
             "id": "TOXIC_ARROW_POISON",
             "chance": 0.15094,
-            "minAmount": 16,
-            "maxAmount": 16,
+            "minAmount": 6,
+            "maxAmount": 8,
             "extraLore": [
               "§eWeight: 1,800"
             ]
@@ -23719,8 +23728,8 @@
           {
             "id": "TOXIC_ARROW_POISON",
             "chance": 0.14845,
-            "minAmount": 24,
-            "maxAmount": 30,
+            "minAmount": 16,
+            "maxAmount": 32,
             "extraLore": [
               "§eWeight: 1,800"
             ]
@@ -23816,9 +23825,9 @@
           },
           {
             "id": "TOXIC_ARROW_POISON",
-            "chance": 0.14973,
-            "minAmount": 60,
-            "maxAmount": 64,
+            "chance": 0.14966,
+            "minAmount": 32,
+            "maxAmount": 48,
             "extraLore": [
               "§eWeight: 1,800"
             ]
@@ -23950,7 +23959,7 @@
           },
           {
             "id": "TOXIC_ARROW_POISON",
-            "chance": 0.12818,
+            "chance": 0.12808999999999998,
             "minAmount": 64,
             "maxAmount": 64,
             "extraLore": [

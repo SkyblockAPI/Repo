@@ -6182,19 +6182,25 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Consume this feather to grant"
-        },
-        {
-          "text": "§7yourself progress in the §dRNG Meter"
-        },
-        {
-          "text": "§7of your choice."
+          "text": "§8Consumable"
         },
         {
           "text": ""
         },
         {
-          "text": "§eRight-click to open!"
+          "text": "§7Consume this delicate feather to add"
+        },
+        {
+          "text": "§7a large amount of progress to an"
+        },
+        {
+          "text": "§dRNG Meter §7of your choosing."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to consume!"
         },
         {
           "text": ""
@@ -6215,8 +6221,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -69686,22 +69692,7 @@
           "text": "§7Health: §c+50"
         },
         {
-          "text": "§7Magic Find: §a+2"
-        },
-        {
-          "text": "§7Foraging Fortune: §a+11"
-        },
-        {
-          "text": "§7Foraging Wisdom: §a+1"
-        },
-        {
-          "text": "§7Hunting Wisdom: §a+1"
-        },
-        {
-          "text": "§7Hunter Fortune: §a+12"
-        },
-        {
-          "text": "§7Sweep: §a+9"
+          "text": "§7Magic Find: §b+2"
         },
         {
           "text": ""
@@ -69717,6 +69708,12 @@
         },
         {
           "text": "§7Talk to §bDavid §7to view your progress!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to equip!"
         },
         {
           "text": ""
@@ -69751,8 +69748,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -111684,8 +111681,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -121600,8 +121597,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -193922,8 +193919,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -306008,8 +306005,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:special"
@@ -310148,8 +310145,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -338349,7 +338346,7 @@
           "text": ""
         },
         {
-          "text": "§7Grants §2∮ Sweep§7."
+          "text": "§7Grants §2 Sweep§7."
         },
         {
           "text": ""
@@ -338378,8 +338375,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:common"
