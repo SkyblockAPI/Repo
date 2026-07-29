@@ -8522,13 +8522,19 @@
           "text": "§8Tiered Bonus: Arachne's Faithful (0/8)"
         },
         {
-          "text": "§7Grants §c+5❤ Health §7and §a+5❈ Defense§7."
+          "text": "§7Grants §c+5 Health §7and §a+5 Defense§7."
         },
         {
           "text": ""
         },
         {
-          "text": "§4This item is Arachnal Ж!"
+          "text": "§4This item is Arachnal !"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to equip!"
         },
         {
           "text": ""
@@ -8563,8 +8569,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -8727,13 +8733,19 @@
           "text": "§8Tiered Bonus: Arachne's Faithful (0/8)"
         },
         {
-          "text": "§7Grants §c+5❤ Health §7and §a+5❈ Defense§7."
+          "text": "§7Grants §c+5 Health §7and §a+5 Defense§7."
         },
         {
           "text": ""
         },
         {
-          "text": "§4This item is Arachnal Ж!"
+          "text": "§4This item is Arachnal !"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to equip!"
         },
         {
           "text": ""
@@ -8768,8 +8780,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -8946,13 +8958,19 @@
           "text": "§8Tiered Bonus: Arachne's Faithful (0/8)"
         },
         {
-          "text": "§7Grants §c+5❤ Health §7and §a+5❈ Defense§7."
+          "text": "§7Grants §c+5 Health §7and §a+5 Defense§7."
         },
         {
           "text": ""
         },
         {
-          "text": "§4This item is Arachnal Ж!"
+          "text": "§4This item is Arachnal !"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to equip!"
         },
         {
           "text": ""
@@ -8987,8 +9005,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -9206,13 +9224,19 @@
           "text": "§8Tiered Bonus: Arachne's Faithful (0/8)"
         },
         {
-          "text": "§7Grants §c+5❤ Health §7and §a+5❈ Defense§7."
+          "text": "§7Grants §c+5 Health §7and §a+5 Defense§7."
         },
         {
           "text": ""
         },
         {
-          "text": "§4This item is Arachnal Ж!"
+          "text": "§4This item is Arachnal !"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to equip!"
         },
         {
           "text": ""
@@ -9247,8 +9271,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -42016,7 +42040,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Heal §c4❤ §7per second while burning."
+          "text": "§7Accessory Power: §6+3"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Gain §c+2 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -42078,7 +42108,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Heal §c22❤ §7per second while burning."
+          "text": "§7Accessory Power: §6+8"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Gain §c+11 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -42140,7 +42176,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Heal §c24❤ §7per second while burning."
+          "text": "§7Accessory Power: §6+8"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Gain §c+12 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -42202,7 +42244,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Heal §c26❤ §7per second while burning."
+          "text": "§7Accessory Power: §6+8"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Gain §c+13 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -42264,7 +42312,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Heal §c28❤ §7per second while burning."
+          "text": "§7Accessory Power: §6+12"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Gain §c+14 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -42326,7 +42380,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Heal §c30❤ §7per second while burning."
+          "text": "§7Accessory Power: §6+12"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Gain §c+15 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -42388,7 +42448,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Heal §c32❤ §7per second while burning."
+          "text": "§7Accessory Power: §6+12"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Gain §c+16 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -42450,7 +42516,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Heal §c34❤ §7per second while burning."
+          "text": "§7Accessory Power: §6+12"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Gain §c+17 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -42512,7 +42584,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Heal §c36❤ §7per second while burning."
+          "text": "§7Accessory Power: §6+12"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Gain §c+18 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -42574,7 +42652,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Heal §c38❤ §7per second while burning."
+          "text": "§7Accessory Power: §6+12"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Gain §c+19 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -42636,7 +42720,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Heal §c40❤ §7per second while burning."
+          "text": "§7Accessory Power: §6+12"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Gain §c+20 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -42698,7 +42788,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Heal §c6❤ §7per second while burning."
+          "text": "§7Accessory Power: §6+3"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Gain §c+3 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -42760,7 +42856,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Heal §c42❤ §7per second while burning."
+          "text": "§7Accessory Power: §6+12"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Gain §c+21 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -42825,10 +42927,13 @@
           "text": "§7Health Regen: §c+1"
         },
         {
+          "text": "§7Accessory Power: §6+16"
+        },
+        {
           "text": ""
         },
         {
-          "text": "§7Heal §c44❤ §7per second while burning."
+          "text": "§7Gain §c+22 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -42893,10 +42998,13 @@
           "text": "§7Health Regen: §c+1.5"
         },
         {
+          "text": "§7Accessory Power: §6+16"
+        },
+        {
           "text": ""
         },
         {
-          "text": "§7Heal §c46❤ §7per second while burning."
+          "text": "§7Gain §c+23 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -42961,10 +43069,13 @@
           "text": "§7Health Regen: §c+2"
         },
         {
+          "text": "§7Accessory Power: §6+16"
+        },
+        {
           "text": ""
         },
         {
-          "text": "§7Heal §c48❤ §7per second while burning."
+          "text": "§7Gain §c+24 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -43029,10 +43140,13 @@
           "text": "§7Health Regen: §c+2.5"
         },
         {
+          "text": "§7Accessory Power: §6+16"
+        },
+        {
           "text": ""
         },
         {
-          "text": "§7Heal §c50❤ §7per second while burning."
+          "text": "§7Gain §c+25 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -43097,10 +43211,13 @@
           "text": "§7Health Regen: §c+3"
         },
         {
+          "text": "§7Accessory Power: §6+16"
+        },
+        {
           "text": ""
         },
         {
-          "text": "§7Heal §c52❤ §7per second while burning."
+          "text": "§7Gain §c+26 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -43165,10 +43282,13 @@
           "text": "§7Health Regen: §c+3.5"
         },
         {
+          "text": "§7Accessory Power: §6+16"
+        },
+        {
           "text": ""
         },
         {
-          "text": "§7Heal §c54❤ §7per second while burning."
+          "text": "§7Gain §c+27 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -43233,10 +43353,13 @@
           "text": "§7Health Regen: §c+4"
         },
         {
+          "text": "§7Accessory Power: §6+16"
+        },
+        {
           "text": ""
         },
         {
-          "text": "§7Heal §c56❤ §7per second while burning."
+          "text": "§7Gain §c+28 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -43301,10 +43424,13 @@
           "text": "§7Health Regen: §c+4.5"
         },
         {
+          "text": "§7Accessory Power: §6+16"
+        },
+        {
           "text": ""
         },
         {
-          "text": "§7Heal §c58❤ §7per second while burning."
+          "text": "§7Gain §c+29 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -43437,7 +43563,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Heal §c8❤ §7per second while burning."
+          "text": "§7Accessory Power: §6+3"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Gain §c+4 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -43499,7 +43631,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Heal §c10❤ §7per second while burning."
+          "text": "§7Accessory Power: §6+5"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Gain §c+5 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -43561,7 +43699,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Heal §c12❤ §7per second while burning."
+          "text": "§7Accessory Power: §6+5"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Gain §c+6 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -43623,7 +43767,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Heal §c14❤ §7per second while burning."
+          "text": "§7Accessory Power: §6+5"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Gain §c+7 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -43685,7 +43835,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Heal §c16❤ §7per second while burning."
+          "text": "§7Accessory Power: §6+5"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Gain §c+8 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -43747,7 +43903,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Heal §c18❤ §7per second while burning."
+          "text": "§7Accessory Power: §6+8"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Gain §c+9 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -43809,7 +43971,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Heal §c20❤ §7per second while burning."
+          "text": "§7Accessory Power: §6+8"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Gain §c+10 Health Regen §7while burning."
         },
         {
           "text": ""
@@ -75741,6 +75909,12 @@
           "text": ""
         },
         {
+          "text": "§eRight-click to equip!"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§9§lRARE GLOVES"
         }
       ],
@@ -75764,8 +75938,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -77264,6 +77438,12 @@
           "text": ""
         },
         {
+          "text": "§eRight-click to equip!"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§8This item can be reforged!"
         },
         {
@@ -77283,20 +77463,18 @@
       },
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -77323,6 +77501,12 @@
         },
         {
           "text": "§7Reduces damage taken by §c4%§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to equip!"
         },
         {
           "text": ""
@@ -77392,6 +77576,12 @@
           "text": ""
         },
         {
+          "text": "§eRight-click to equip!"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§8This item can be reforged!"
         },
         {
@@ -77451,6 +77641,12 @@
         },
         {
           "text": "§7Reduces damage taken by §c3%§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to equip!"
         },
         {
           "text": ""
@@ -77520,6 +77716,12 @@
           "text": ""
         },
         {
+          "text": "§eRight-click to equip!"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§8This item can be reforged!"
         },
         {
@@ -77579,6 +77781,12 @@
         },
         {
           "text": "§7Reduces damage taken by §c1%§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to equip!"
         },
         {
           "text": ""
@@ -100222,6 +100430,12 @@
         },
         {
           "text": "§7You found: §d§k0§5/42 Souls"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to equip!"
         },
         {
           "text": ""
@@ -137633,7 +137847,7 @@
           "text": "§6Ability: Gravity Falls "
         },
         {
-          "text": "§7Increases your total §aф Rift Time §7by"
+          "text": "§7Increases your total §a Rift Time §7by"
         },
         {
           "text": "§a5%§7 but it goes down §c3% §7faster."
@@ -137645,7 +137859,13 @@
           "text": "§7Monster melee attacks reduce §a1 §7less"
         },
         {
-          "text": "§aф Rift Time§7."
+          "text": "§a Rift Time§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to equip!"
         },
         {
           "text": ""
@@ -137674,8 +137894,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -174252,6 +174472,12 @@
           "text": ""
         },
         {
+          "text": "§eRight-click to equip!"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§8This item can be reforged!"
         },
         {
@@ -182057,7 +182283,13 @@
           "text": "§7Monster melee attacks reduce §a1 §7less"
         },
         {
-          "text": "§aф Rift Time§7."
+          "text": "§a Rift Time§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to equip!"
         },
         {
           "text": ""
@@ -182076,20 +182308,18 @@
       },
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -278547,7 +278777,13 @@
           "text": ""
         },
         {
-          "text": "§8This item §r§lCANNOT§8 be reforged!"
+          "text": "§eRight-click to equip!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8This item §8§lCANNOT§8 be reforged!"
         },
         {
           "text": "§c§lSPECIAL BELT"
@@ -278573,8 +278809,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:special"
@@ -285019,7 +285255,22 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Rift Time: §a+60s"
+          "text": "§7Rift Time: §a+380s"
+        },
+        {
+          "text": "§7Hearts: §c+1"
+        },
+        {
+          "text": "§7Rift Damage: §5+1"
+        },
+        {
+          "text": "§7Intelligence: §b+10"
+        },
+        {
+          "text": "§7Speed: §f+6"
+        },
+        {
+          "text": "§7Mana Regen: §b+25%"
         },
         {
           "text": ""
@@ -285028,7 +285279,7 @@
           "text": "§7The most powerful necklace ever"
         },
         {
-          "text": "§7created by §dElise MDCCLXXIV§7."
+          "text": "§7created by §dElise MDCCCII§7."
         },
         {
           "text": ""
@@ -285040,7 +285291,13 @@
           "text": "§7the §dRift Gallery§7."
         },
         {
-          "text": "§7Secured: §c1/8 Timecharms"
+          "text": "§7Secured: §c8/8 Timecharms"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to equip!"
         },
         {
           "text": ""
@@ -285072,8 +285329,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:mythic"
@@ -285086,17 +285343,17 @@
         "id": "RIFT_NECKLACE_OUTSIDE"
       },
       "minecraft:custom_name": {
-        "text": "§6§dRift Necklace"
+        "text": "§dRift Necklace"
       },
       "minecraft:lore": [
-        {
-          "text": "§7Strength: §c+25"
-        },
         {
           "text": "§7Health: §c+150"
         },
         {
           "text": "§7Defense: §a+30"
+        },
+        {
+          "text": "§7Strength: §c+25"
         },
         {
           "text": "§7Intelligence: §b+85"
@@ -285138,7 +285395,13 @@
           "text": ""
         },
         {
-          "text": "§7§8This item can be reforged!"
+          "text": "§eRight-click to equip!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8This item can be reforged!"
         },
         {
           "text": "§8§l* §8Soulbound §8§l*"
@@ -285157,7 +285420,18 @@
       },
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:dyed_color"
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -300283,6 +300557,12 @@
           "text": ""
         },
         {
+          "text": "§eRight-click to equip!"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§8§l* §8Soulbound §8§l*"
         },
         {
@@ -300309,8 +300589,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -301856,7 +302136,13 @@
           "text": "§7Monster melee attacks reduce §a1 §7less"
         },
         {
-          "text": "§aф Rift Time§7."
+          "text": "§a Rift Time§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to equip!"
         },
         {
           "text": ""
@@ -301885,8 +302171,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -315324,7 +315610,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Grants §a+4❈ Defense §7while burning."
+          "text": "§7Accessory Power: §6+3"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §a+2 Defense §7while burning."
         },
         {
           "text": ""
@@ -315386,7 +315678,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Grants §a+22❈ Defense §7while burning."
+          "text": "§7Accessory Power: §6+8"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §a+11 Defense §7while burning."
         },
         {
           "text": ""
@@ -315448,7 +315746,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Grants §a+24❈ Defense §7while burning."
+          "text": "§7Accessory Power: §6+8"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §a+12 Defense §7while burning."
         },
         {
           "text": ""
@@ -315510,7 +315814,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Grants §a+26❈ Defense §7while burning."
+          "text": "§7Accessory Power: §6+8"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §a+13 Defense §7while burning."
         },
         {
           "text": ""
@@ -315572,7 +315882,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Grants §a+28❈ Defense §7while burning."
+          "text": "§7Accessory Power: §6+12"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §a+14 Defense §7while burning."
         },
         {
           "text": ""
@@ -315634,7 +315950,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Grants §a+30❈ Defense §7while burning."
+          "text": "§7Accessory Power: §6+12"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §a+15 Defense §7while burning."
         },
         {
           "text": ""
@@ -315696,7 +316018,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Grants §a+32❈ Defense §7while burning."
+          "text": "§7Accessory Power: §6+12"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §a+16 Defense §7while burning."
         },
         {
           "text": ""
@@ -315758,7 +316086,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Grants §a+34❈ Defense §7while burning."
+          "text": "§7Accessory Power: §6+12"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §a+17 Defense §7while burning."
         },
         {
           "text": ""
@@ -315820,7 +316154,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Grants §a+36❈ Defense §7while burning."
+          "text": "§7Accessory Power: §6+12"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §a+18 Defense §7while burning."
         },
         {
           "text": ""
@@ -315882,7 +316222,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Grants §a+38❈ Defense §7while burning."
+          "text": "§7Accessory Power: §6+12"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §a+19 Defense §7while burning."
         },
         {
           "text": ""
@@ -315944,7 +316290,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Grants §a+40❈ Defense §7while burning."
+          "text": "§7Accessory Power: §6+12"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §a+20 Defense §7while burning."
         },
         {
           "text": ""
@@ -316006,7 +316358,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Grants §a+6❈ Defense §7while burning."
+          "text": "§7Accessory Power: §6+3"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §a+3 Defense §7while burning."
         },
         {
           "text": ""
@@ -316068,7 +316426,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Grants §a+42❈ Defense §7while burning."
+          "text": "§7Accessory Power: §6+12"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §a+21 Defense §7while burning."
         },
         {
           "text": ""
@@ -316133,10 +316497,13 @@
           "text": "§7Mending: §a+2"
         },
         {
+          "text": "§7Accessory Power: §6+16"
+        },
+        {
           "text": ""
         },
         {
-          "text": "§7Grants §a+44❈ Defense §7while burning."
+          "text": "§7Grants §a+22 Defense §7while burning."
         },
         {
           "text": ""
@@ -316201,10 +316568,13 @@
           "text": "§7Mending: §a+3"
         },
         {
+          "text": "§7Accessory Power: §6+16"
+        },
+        {
           "text": ""
         },
         {
-          "text": "§7Grants §a+46❈ Defense §7while burning."
+          "text": "§7Grants §a+23 Defense §7while burning."
         },
         {
           "text": ""
@@ -316269,10 +316639,13 @@
           "text": "§7Mending: §a+4"
         },
         {
+          "text": "§7Accessory Power: §6+16"
+        },
+        {
           "text": ""
         },
         {
-          "text": "§7Grants §a+48❈ Defense §7while burning."
+          "text": "§7Grants §a+24 Defense §7while burning."
         },
         {
           "text": ""
@@ -316337,10 +316710,13 @@
           "text": "§7Mending: §a+5"
         },
         {
+          "text": "§7Accessory Power: §6+16"
+        },
+        {
           "text": ""
         },
         {
-          "text": "§7Grants §a+50❈ Defense §7while burning."
+          "text": "§7Grants §a+25 Defense §7while burning."
         },
         {
           "text": ""
@@ -316405,10 +316781,13 @@
           "text": "§7Mending: §a+6"
         },
         {
+          "text": "§7Accessory Power: §6+16"
+        },
+        {
           "text": ""
         },
         {
-          "text": "§7Grants §a+52❈ Defense §7while burning."
+          "text": "§7Grants §a+26 Defense §7while burning."
         },
         {
           "text": ""
@@ -316473,10 +316852,13 @@
           "text": "§7Mending: §a+7"
         },
         {
+          "text": "§7Accessory Power: §6+16"
+        },
+        {
           "text": ""
         },
         {
-          "text": "§7Grants §a+54❈ Defense §7while burning."
+          "text": "§7Grants §a+27 Defense §7while burning."
         },
         {
           "text": ""
@@ -316541,10 +316923,13 @@
           "text": "§7Mending: §a+8"
         },
         {
+          "text": "§7Accessory Power: §6+16"
+        },
+        {
           "text": ""
         },
         {
-          "text": "§7Grants §a+56❈ Defense §7while burning."
+          "text": "§7Grants §a+28 Defense §7while burning."
         },
         {
           "text": ""
@@ -316609,10 +316994,13 @@
           "text": "§7Mending: §a+9"
         },
         {
+          "text": "§7Accessory Power: §6+16"
+        },
+        {
           "text": ""
         },
         {
-          "text": "§7Grants §a+58❈ Defense §7while burning."
+          "text": "§7Grants §a+29 Defense §7while burning."
         },
         {
           "text": ""
@@ -316745,7 +317133,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Grants §a+8❈ Defense §7while burning."
+          "text": "§7Accessory Power: §6+3"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §a+4 Defense §7while burning."
         },
         {
           "text": ""
@@ -316807,7 +317201,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Grants §a+10❈ Defense §7while burning."
+          "text": "§7Accessory Power: §6+5"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §a+5 Defense §7while burning."
         },
         {
           "text": ""
@@ -316869,7 +317269,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Grants §a+12❈ Defense §7while burning."
+          "text": "§7Accessory Power: §6+5"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §a+6 Defense §7while burning."
         },
         {
           "text": ""
@@ -316931,7 +317337,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Grants §a+14❈ Defense §7while burning."
+          "text": "§7Accessory Power: §6+5"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §a+7 Defense §7while burning."
         },
         {
           "text": ""
@@ -316993,7 +317405,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Grants §a+16❈ Defense §7while burning."
+          "text": "§7Accessory Power: §6+5"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §a+8 Defense §7while burning."
         },
         {
           "text": ""
@@ -317117,7 +317535,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Grants §a+20❈ Defense §7while burning."
+          "text": "§7Accessory Power: §6+8"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §a+10 Defense §7while burning."
         },
         {
           "text": ""
@@ -357940,7 +358364,13 @@
           "text": "§7Monster melee attacks reduce §a1 §7less"
         },
         {
-          "text": "§aф Rift Time§7."
+          "text": "§a Rift Time§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to equip!"
         },
         {
           "text": ""
@@ -357969,8 +358399,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
