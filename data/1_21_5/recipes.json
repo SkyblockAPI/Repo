@@ -26471,12 +26471,8 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_PUMPKIN",
-        "count": 1
-      },
-      {
-        "id": "ENCHANTED_GLOWSTONE",
-        "count": 1
+        "id": "PUMPKIN",
+        "count": 12
       }
     ],
     "pattern": [
@@ -26484,7 +26480,7 @@
       0,
       0,
       0,
-      1,
+      -1,
       0,
       0,
       0,
@@ -26655,12 +26651,12 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WHEAT",
-        "count": 8
+        "id": "ENCHANTED_WHEAT",
+        "count": 16
       },
       {
-        "id": "SEEDS",
-        "count": 1
+        "id": "ENCHANTED_SEEDS",
+        "count": 4
       }
     ],
     "pattern": [

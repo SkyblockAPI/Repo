@@ -16469,7 +16469,7 @@
     "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
-        "id": "BANNER-15"
+        "id": "BANNER:15"
       },
       "minecraft:custom_name": {
         "text": "§fWhite Banner"
@@ -56117,7 +56117,7 @@
     "id": "minecraft:charcoal",
     "components": {
       "minecraft:custom_data": {
-        "id": "COAL-1"
+        "id": "COAL:1"
       },
       "minecraft:custom_name": {
         "text": "§fCharcoal"
@@ -61040,7 +61040,7 @@
     "id": "minecraft:cooked_salmon",
     "components": {
       "minecraft:custom_data": {
-        "id": "COOKED_FISH-1"
+        "id": "COOKED_FISH:1"
       },
       "minecraft:custom_name": {
         "text": "§fCooked Salmon"
@@ -150223,10 +150223,16 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Counts for twice the §6Magical Power §7in"
+          "text": "§7Accessory Power: §6+32"
         },
         {
-          "text": "§7your §aAccessory Bag§7."
+          "text": ""
+        },
+        {
+          "text": "§7Counts for twice the §6Accessory"
+        },
+        {
+          "text": "§6Power §7in your §aAccessory Bag§7."
         },
         {
           "text": ""
@@ -166508,7 +166514,7 @@
     "id": "minecraft:red_dye",
     "components": {
       "minecraft:custom_data": {
-        "id": "INK_SACK-1"
+        "id": "INK_SACK:1"
       },
       "minecraft:custom_name": {
         "text": "§fRose Red"
@@ -166541,7 +166547,7 @@
     "id": "minecraft:lime_dye",
     "components": {
       "minecraft:custom_data": {
-        "id": "INK_SACK-10"
+        "id": "INK_SACK:10"
       },
       "minecraft:custom_name": {
         "text": "§fLime Dye"
@@ -166574,7 +166580,7 @@
     "id": "minecraft:yellow_dye",
     "components": {
       "minecraft:custom_data": {
-        "id": "INK_SACK-11"
+        "id": "INK_SACK:11"
       },
       "minecraft:custom_name": {
         "text": "§fDandelion Yellow"
@@ -166607,7 +166613,7 @@
     "id": "minecraft:light_blue_dye",
     "components": {
       "minecraft:custom_data": {
-        "id": "INK_SACK-12"
+        "id": "INK_SACK:12"
       },
       "minecraft:custom_name": {
         "text": "§fLight Blue Dye"
@@ -166640,7 +166646,7 @@
     "id": "minecraft:magenta_dye",
     "components": {
       "minecraft:custom_data": {
-        "id": "INK_SACK-13"
+        "id": "INK_SACK:13"
       },
       "minecraft:custom_name": {
         "text": "§fMagenta Dye"
@@ -166673,7 +166679,7 @@
     "id": "minecraft:orange_dye",
     "components": {
       "minecraft:custom_data": {
-        "id": "INK_SACK-14"
+        "id": "INK_SACK:14"
       },
       "minecraft:custom_name": {
         "text": "§fOrange Dye"
@@ -166706,7 +166712,7 @@
     "id": "minecraft:bone_meal",
     "components": {
       "minecraft:custom_data": {
-        "id": "INK_SACK-15"
+        "id": "INK_SACK:15"
       },
       "minecraft:custom_name": {
         "text": "§fBone Meal"
@@ -166739,7 +166745,7 @@
     "id": "minecraft:green_dye",
     "components": {
       "minecraft:custom_data": {
-        "id": "INK_SACK-2"
+        "id": "INK_SACK:2"
       },
       "minecraft:custom_name": {
         "text": "§fCactus Green"
@@ -166772,7 +166778,7 @@
     "id": "minecraft:cocoa_beans",
     "components": {
       "minecraft:custom_data": {
-        "id": "INK_SACK-3"
+        "id": "INK_SACK:3"
       },
       "minecraft:custom_name": {
         "text": "§fCocoa Beans"
@@ -166814,7 +166820,7 @@
     "id": "minecraft:lapis_lazuli",
     "components": {
       "minecraft:custom_data": {
-        "id": "INK_SACK-4"
+        "id": "INK_SACK:4"
       },
       "minecraft:custom_name": {
         "text": "§fLapis Lazuli"
@@ -166856,7 +166862,7 @@
     "id": "minecraft:purple_dye",
     "components": {
       "minecraft:custom_data": {
-        "id": "INK_SACK-5"
+        "id": "INK_SACK:5"
       },
       "minecraft:custom_name": {
         "text": "§fPurple Dye"
@@ -166889,7 +166895,7 @@
     "id": "minecraft:cyan_dye",
     "components": {
       "minecraft:custom_data": {
-        "id": "INK_SACK-6"
+        "id": "INK_SACK:6"
       },
       "minecraft:custom_name": {
         "text": "§fCyan Dye"
@@ -166922,7 +166928,7 @@
     "id": "minecraft:light_gray_dye",
     "components": {
       "minecraft:custom_data": {
-        "id": "INK_SACK-7"
+        "id": "INK_SACK:7"
       },
       "minecraft:custom_name": {
         "text": "§fLight Gray Dye"
@@ -166955,7 +166961,7 @@
     "id": "minecraft:gray_dye",
     "components": {
       "minecraft:custom_data": {
-        "id": "INK_SACK-8"
+        "id": "INK_SACK:8"
       },
       "minecraft:custom_name": {
         "text": "§fGray Dye"
@@ -166988,7 +166994,7 @@
     "id": "minecraft:pink_dye",
     "components": {
       "minecraft:custom_data": {
-        "id": "INK_SACK-9"
+        "id": "INK_SACK:9"
       },
       "minecraft:custom_name": {
         "text": "§fPink Dye"
@@ -275232,7 +275238,7 @@
     "id": "minecraft:salmon",
     "components": {
       "minecraft:custom_data": {
-        "id": "RAW_FISH-1"
+        "id": "RAW_FISH:1"
       },
       "minecraft:custom_name": {
         "text": "§fRaw Salmon"
@@ -275274,7 +275280,7 @@
     "id": "minecraft:tropical_fish",
     "components": {
       "minecraft:custom_data": {
-        "id": "RAW_FISH-2"
+        "id": "RAW_FISH:2"
       },
       "minecraft:custom_name": {
         "text": "§fTropical Fish"
@@ -275313,7 +275319,7 @@
     "id": "minecraft:pufferfish",
     "components": {
       "minecraft:custom_data": {
-        "id": "RAW_FISH-3"
+        "id": "RAW_FISH:3"
       },
       "minecraft:custom_name": {
         "text": "§fPufferfish"
@@ -291760,7 +291766,7 @@
     "id": "minecraft:red_sand",
     "components": {
       "minecraft:custom_data": {
-        "id": "SAND-1"
+        "id": "SAND:1"
       },
       "minecraft:custom_name": {
         "text": "§fRed Sand"
@@ -360092,16 +360098,16 @@
           "text": "§7Combine §a99,999,999x §7of this stone at"
         },
         {
-          "text": "§7the Maxwell to permanently unlock"
+          "text": "§7Maxwell to permanently unlock the"
         },
         {
-          "text": "§7the §cUnhealthy §7power."
+          "text": "§cUnhealthy §7power."
         },
         {
           "text": ""
         },
         {
-          "text": "§7At §6250 Magical Power§7:"
+          "text": "§7At §6250 Accessory Power§7:"
         },
         {
           "text": "§c-324 Health"
@@ -360145,10 +360151,20 @@
           }
         ]
       },
-      "minecraft:dyed_color": 10511680,
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:dyed_color"
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:special"
