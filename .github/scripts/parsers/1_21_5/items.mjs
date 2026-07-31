@@ -102,8 +102,15 @@ export const Items = {
                     }
                     break;
                 case "minecraft:custom_data":
-                    // Force use the sbid from nbt and not snbt
-                    value.id = item.nbt.ExtraAttributes.id;
+                    // Force use the sbid from nbt and not snbt for abicases & cakehat and similar
+                    if (
+                        item.internalname.startsWith("CAKE_HAT") ||
+                        item.internalname.startsWith("PARTY_HAT") ||
+                        item.internalname.startsWith("BALLOON_HAT") ||
+                        item.internalname.startsWith("ABICASE")
+                    ) {
+                        value.id = item.nbt.ExtraAttributes.id;
+                    }
 
                     for (const [k, _] of Object.entries(value)) {
                         if (customDataExclusionList.keys.includes(k)) delete value[k];
