@@ -45874,6 +45874,13 @@
   },
   {
     "type": "mob",
+    "id": "MARTIN_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Martin"
+    }
+  },
+  {
+    "type": "mob",
     "id": "MASON_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Mason"

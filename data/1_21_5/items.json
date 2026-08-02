@@ -114545,20 +114545,18 @@
       "minecraft:item_model": "hypixel_skyblock:item/uncategorized/fire_freeze_staff",
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -128475,10 +128473,10 @@
           "text": ""
         },
         {
-          "text": "§7Counter: §a14,800"
+          "text": "§7Counter: §a0"
         },
         {
-          "text": "§7Bonus: §a+5%"
+          "text": "§7Bonus: §a+0%"
         },
         {
           "text": ""
@@ -141963,7 +141961,7 @@
           "text": "§7Punch the ground, damaging enemies in a"
         },
         {
-          "text": "§7hexagon around you for §a253.8§7 base Magic"
+          "text": "§7hexagon around you for §a250§7 base Magic"
         },
         {
           "text": "§7Damage."
@@ -141987,20 +141985,18 @@
       "minecraft:item_model": "hypixel_skyblock:item/uncategorized/golem_sword",
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -170740,7 +170736,7 @@
           "text": "§6Ability: Rapid-fire  §e§lRIGHT CLICK"
         },
         {
-          "text": "§7Shoots a Jerry bullet, dealing §c503.5"
+          "text": "§7Shoots a Jerry bullet, dealing §c500"
         },
         {
           "text": "§7damage on impact and knocking you"
