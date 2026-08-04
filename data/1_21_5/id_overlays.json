@@ -364,6 +364,27 @@
   },
   {
     "type": "item",
+    "id": "ACCRETION_ARTIFACT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Accretion_Artifact"
+    }
+  },
+  {
+    "type": "item",
+    "id": "ACCRETION_RING",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Accretion_Ring"
+    }
+  },
+  {
+    "type": "item",
+    "id": "ACCRETION_TALISMAN",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Accretion_Talisman"
+    }
+  },
+  {
+    "type": "item",
     "id": "ACTIVATOR_RAIL",
     "vanilla": true
   },
@@ -2211,6 +2232,13 @@
   },
   {
     "type": "item",
+    "id": "BEE_SALIVA",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bee_Saliva"
+    }
+  },
+  {
+    "type": "item",
     "id": "BEGINNER_AGRONOMY_SACK",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Beginner_Agronomy_Sack"
@@ -3348,6 +3376,13 @@
     "id": "BOTROOT",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Botroot"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BOTTLED_MISCHIEF",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bottled_Mischief"
     }
   },
   {
@@ -6493,6 +6528,13 @@
   },
   {
     "type": "item",
+    "id": "CONDENSED_HONEYCOMB",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Condensed_Honeycomb"
+    }
+  },
+  {
+    "type": "item",
     "id": "CONDENSED_WATER_LILY",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Condensed_Lily_Pad"
@@ -6916,6 +6958,13 @@
     "id": "CRIMSON_LEGGINGS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Crimson_Leggings"
+    }
+  },
+  {
+    "type": "item",
+    "id": "CRITTER_CAPSULE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Critter_Capsule"
     }
   },
   {
@@ -8168,6 +8217,13 @@
     "id": "DISPLACED_LEECH",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Displaced_Leech"
+    }
+  },
+  {
+    "type": "item",
+    "id": "DISTANT_ECHO",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Distant_Echo"
     }
   },
   {
@@ -10204,6 +10260,27 @@
   },
   {
     "type": "item",
+    "id": "ENCHANTED_HELIX_LOG",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Helix_Log"
+    }
+  },
+  {
+    "type": "item",
+    "id": "ENCHANTED_HONEYCOMB",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Honeycomb"
+    }
+  },
+  {
+    "type": "item",
+    "id": "ENCHANTED_HONEYCOMB_BLOCK",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Honeycomb_Block"
+    }
+  },
+  {
+    "type": "item",
     "id": "ENCHANTED_HOPPER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Hopper"
@@ -10578,6 +10655,13 @@
     "id": "ENCHANTED_ROTTEN_FLESH",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Rotten_Flesh"
+    }
+  },
+  {
+    "type": "item",
+    "id": "ENCHANTED_RUBY_VEILSHROOM",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Ruby_Veilshroom"
     }
   },
   {
@@ -11408,6 +11492,13 @@
   },
   {
     "type": "item",
+    "id": "ESSENCE_SAFARI",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Safari_Essence"
+    }
+  },
+  {
+    "type": "item",
     "id": "ESSENCE_SPIDER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Spider_Essence"
@@ -11626,6 +11717,13 @@
     "id": "EXTRA_LARGE_GEMSTONE_SACK",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Gemstone"
+    }
+  },
+  {
+    "type": "item",
+    "id": "EXTREMELY_MILD_ADHESIVE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Extremely_Mild_Adhesive"
     }
   },
   {
@@ -14054,9 +14152,30 @@
   },
   {
     "type": "item",
+    "id": "GENERATOR_UPGRADE_STONE_ACACIA_12",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Acacia_Minion_XII_Upgrade_Stone"
+    }
+  },
+  {
+    "type": "item",
+    "id": "GENERATOR_UPGRADE_STONE_BIRCH_12",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Birch_Minion_XII_Upgrade_Stone"
+    }
+  },
+  {
+    "type": "item",
     "id": "GENERATOR_UPGRADE_STONE_CLAY_12",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Clay_Minion_XII_Upgrade_Stone"
+    }
+  },
+  {
+    "type": "item",
+    "id": "GENERATOR_UPGRADE_STONE_DARK_OAK_12",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dark_Oak_Minion_XII_Upgrade_Stone"
     }
   },
   {
@@ -14068,6 +14187,13 @@
   },
   {
     "type": "item",
+    "id": "GENERATOR_UPGRADE_STONE_JUNGLE_12",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Jungle_Minion_XII_Upgrade_Stone"
+    }
+  },
+  {
+    "type": "item",
     "id": "GENERATOR_UPGRADE_STONE_LILY_PAD_12",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Lily_Pad_Minion_XII_Upgrade_Stone"
@@ -14075,9 +14201,23 @@
   },
   {
     "type": "item",
+    "id": "GENERATOR_UPGRADE_STONE_OAK_12",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Oak_Minion_XII_Upgrade_Stone"
+    }
+  },
+  {
+    "type": "item",
     "id": "GENERATOR_UPGRADE_STONE_REVENANT_12",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Revenant_Minion_XII_Upgrade_Stone"
+    }
+  },
+  {
+    "type": "item",
+    "id": "GENERATOR_UPGRADE_STONE_SPRUCE_12",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Spruce_Minion_XII_Upgrade_Stone"
     }
   },
   {
@@ -14318,6 +14458,13 @@
   },
   {
     "type": "item",
+    "id": "GIANT_SLOTH_CLAW",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Giant_Sloth_Claw"
+    }
+  },
+  {
+    "type": "item",
     "id": "GIANT_TOOTH",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Giant_Tooth"
@@ -14398,6 +14545,13 @@
     "id": "GIFT_WHITE_BACKPACK",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/White_Gift_Backpack_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "GIGANTIC_FISHING_NET",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Gigantic_Fishing_Net"
     }
   },
   {
@@ -16489,6 +16643,55 @@
   },
   {
     "type": "item",
+    "id": "HELIXIS",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Helixis"
+    }
+  },
+  {
+    "type": "item",
+    "id": "HELIX_ARMOR_BOOTS",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Helix_Boots"
+    }
+  },
+  {
+    "type": "item",
+    "id": "HELIX_ARMOR_CHESTPLATE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Helix_Chestplate"
+    }
+  },
+  {
+    "type": "item",
+    "id": "HELIX_ARMOR_HELMET",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Helix_Helmet"
+    }
+  },
+  {
+    "type": "item",
+    "id": "HELIX_ARMOR_LEGGINGS",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Helix_Leggings"
+    }
+  },
+  {
+    "type": "item",
+    "id": "HELIX_CHOPPER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Helix_Chopper"
+    }
+  },
+  {
+    "type": "item",
+    "id": "HELIX_LOG",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Helix_Log"
+    }
+  },
+  {
+    "type": "item",
     "id": "HELLFIRE_ROD",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Hellfire_Rod"
@@ -16849,6 +17052,41 @@
     "id": "HONED_SHARK_TOOTH_NECKLACE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Honed_Shark_Tooth_Necklace"
+    }
+  },
+  {
+    "type": "item",
+    "id": "HONEYCOMB",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Honeycomb"
+    }
+  },
+  {
+    "type": "item",
+    "id": "HONEYCOMB_ARTIFACT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Honeycomb_Artifact"
+    }
+  },
+  {
+    "type": "item",
+    "id": "HONEYCOMB_NECKLACE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Honeycomb_Necklace"
+    }
+  },
+  {
+    "type": "item",
+    "id": "HONEYCOMB_RING",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Honeycomb_Ring"
+    }
+  },
+  {
+    "type": "item",
+    "id": "HONEYCOMB_TALISMAN",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Honeycomb_Talisman"
     }
   },
   {
@@ -17234,6 +17472,13 @@
   },
   {
     "type": "item",
+    "id": "HUNTING_WISDOM_BOOSTER_COMMON",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Common_Hunting_Wisdom_Booster"
+    }
+  },
+  {
+    "type": "item",
     "id": "HURRICANE_BOW",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Hurricane_Bow"
@@ -17320,6 +17565,13 @@
     "type": "item",
     "id": "ICE",
     "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "ICEBREAKER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Icebreaker"
+    }
   },
   {
     "type": "item",
@@ -18282,6 +18534,13 @@
     "id": "ISLAND_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Island_NPC"
+    }
+  },
+  {
+    "type": "item",
+    "id": "ISOPOD_HUSK",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Isopod_Husk"
     }
   },
   {
@@ -19505,6 +19764,13 @@
   },
   {
     "type": "item",
+    "id": "LARGE_POCKET_BLACK_HOLE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Large_Pocket_Black_Hole"
+    }
+  },
+  {
+    "type": "item",
     "id": "LARGE_SCAFFOLDING",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Large_Scaffolding"
@@ -19522,6 +19788,13 @@
     "id": "LARGE_SLAYER_SACK",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Large_Slayer_Sack"
+    }
+  },
+  {
+    "type": "item",
+    "id": "LARGE_SLOTH_CLAW",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Large_Sloth_Claw"
     }
   },
   {
@@ -19960,6 +20233,13 @@
   },
   {
     "type": "item",
+    "id": "LIME_GEM",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lime_Gem"
+    }
+  },
+  {
+    "type": "item",
     "id": "LITTLEFOOT_FLUFF",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Littlefoot_Fluff"
@@ -20234,6 +20514,27 @@
   },
   {
     "type": "item",
+    "id": "LUMBERJACK_ARTIFACT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lumberjack_Artifact"
+    }
+  },
+  {
+    "type": "item",
+    "id": "LUMBERJACK_RING",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lumberjack_Ring"
+    }
+  },
+  {
+    "type": "item",
+    "id": "LUMBERJACK_TALISMAN",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lumberjack_Talisman"
+    }
+  },
+  {
+    "type": "item",
     "id": "LUMINOUS_BRACELET",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Luminous_Bracelet"
@@ -20293,6 +20594,13 @@
     "id": "LUSH_BERBERIS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Lush_Berberis"
+    }
+  },
+  {
+    "type": "item",
+    "id": "LUSH_LILY_PAD",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lush_Lily_Pad"
     }
   },
   {
@@ -20786,6 +21094,13 @@
   },
   {
     "type": "item",
+    "id": "MASTERFUL_CRITTER_CAPSULE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Masterful_Critter_Capsule"
+    }
+  },
+  {
+    "type": "item",
     "id": "MASTER_SKULL_TIER_1",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Master_Skull_-_Tier_1"
@@ -21097,6 +21412,13 @@
     "id": "MEDIUM_SLAYER_SACK",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Medium_Slayer_Sack"
+    }
+  },
+  {
+    "type": "item",
+    "id": "MEDIUM_SLOTH_CLAW",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Medium_Sloth_Claw"
     }
   },
   {
@@ -21636,6 +21958,20 @@
   },
   {
     "type": "item",
+    "id": "MIRIA_COUPON",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Miria%27s_Coupon"
+    }
+  },
+  {
+    "type": "item",
+    "id": "MIRIA_PRIZE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Miria%27s_Prize"
+    }
+  },
+  {
+    "type": "item",
     "id": "MIRRORED_BOW",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/woB"
@@ -22109,6 +22445,13 @@
     "id": "MOON_GREENHOUSE_SKIN",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Moon_Greenhouse_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "MORNING_DEW",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Morning_Dew"
     }
   },
   {
@@ -23496,6 +23839,13 @@
     "id": "ORANGE_CHESTPLATE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Orange_Chestplate"
+    }
+  },
+  {
+    "type": "item",
+    "id": "ORANGE_GEM",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Orange_Gem"
     }
   },
   {
@@ -28712,6 +29062,13 @@
   },
   {
     "type": "item",
+    "id": "PURPLE_GEM",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Purple_Gem"
+    }
+  },
+  {
+    "type": "item",
     "id": "PURPLE_GIFT_TALISMAN",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Purple_Gift_Talisman"
@@ -29086,6 +29443,13 @@
     "type": "item",
     "id": "RAILS",
     "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "RAINBOW_FEATHER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rainbow_Feather"
+    }
   },
   {
     "type": "item",
@@ -29921,6 +30285,13 @@
   },
   {
     "type": "item",
+    "id": "REINFORCED_NETTING",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Reinforced_Netting"
+    }
+  },
+  {
+    "type": "item",
     "id": "REINFORCED_SCALES",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Reinforced_Scales"
@@ -30668,6 +31039,13 @@
   },
   {
     "type": "item",
+    "id": "RUBBER_SNORKEL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rubber_Snorkel"
+    }
+  },
+  {
+    "type": "item",
     "id": "RUBY_CRYSTAL",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Ruby_Crystal"
@@ -30685,6 +31063,13 @@
     "id": "RUBY_POWER_SCROLL",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Ruby_Power_Scroll"
+    }
+  },
+  {
+    "type": "item",
+    "id": "RUBY_VEILSHROOM",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ruby_Veilshroom"
     }
   },
   {
@@ -30789,6 +31174,13 @@
     "type": "item",
     "id": "SADDLE",
     "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "SAFARI_BELT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Safari_Belt"
+    }
   },
   {
     "type": "item",
@@ -31945,6 +32337,13 @@
   },
   {
     "type": "item",
+    "id": "SHINING_COIN",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Shining_Coin"
+    }
+  },
+  {
+    "type": "item",
     "id": "SHINY_ORB",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Shiny_Orb"
@@ -32550,6 +32949,13 @@
   },
   {
     "type": "item",
+    "id": "SKYBLOCK_DESERT_WHISPERS",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Forest_Whispers"
+    }
+  },
+  {
+    "type": "item",
     "id": "SKYBLOCK_MENU",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/SkyBlock_Menu"
@@ -32952,6 +33358,13 @@
   },
   {
     "type": "item",
+    "id": "SMALL_SLOTH_CLAW",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Small_Sloth_Claw"
+    }
+  },
+  {
+    "type": "item",
     "id": "SMALL_WITCH_CAULDRON",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Small_Witch_Cauldron"
@@ -33342,6 +33755,13 @@
   },
   {
     "type": "item",
+    "id": "SOOTHING_INCENSE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Soothing_Incense"
+    }
+  },
+  {
+    "type": "item",
     "id": "SORROW",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Sorrow"
@@ -33714,6 +34134,13 @@
     "id": "SOWLEDGE_GARDEN_CHIP",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Sowledge_Chip"
+    }
+  },
+  {
+    "type": "item",
+    "id": "SPARKLING_AMULET",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sparkling_Amulet"
     }
   },
   {
@@ -35421,6 +35848,13 @@
     "id": "STURDY_BONE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Sturdy_Bone"
+    }
+  },
+  {
+    "type": "item",
+    "id": "SUBLIME_SILK",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sublime_Silk"
     }
   },
   {
@@ -37204,6 +37638,34 @@
   },
   {
     "type": "item",
+    "id": "TORRHUS_ARTIFACT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Torrhus_Artifact"
+    }
+  },
+  {
+    "type": "item",
+    "id": "TORRHUS_BELT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Torrhus_Belt"
+    }
+  },
+  {
+    "type": "item",
+    "id": "TORRHUS_RING",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Torrhus_Ring"
+    }
+  },
+  {
+    "type": "item",
+    "id": "TORRHUS_TALISMAN",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Torrhus_Talisman"
+    }
+  },
+  {
+    "type": "item",
     "id": "TOTEM_OF_CORRUPTION",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Totem_of_Corruption"
@@ -37975,6 +38437,20 @@
   },
   {
     "type": "item",
+    "id": "VEILSHROOM_BRACELET",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Veilshroom_Bracelet"
+    }
+  },
+  {
+    "type": "item",
+    "id": "VEILSHROOM_BUNCH",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Veilshroom_Bunch"
+    }
+  },
+  {
+    "type": "item",
     "id": "VELVET_TOP_HAT",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Velvet_Top_Hat"
@@ -38557,6 +39033,13 @@
   },
   {
     "type": "item",
+    "id": "WATER_HYACINTH",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Water_Hyacinth"
+    }
+  },
+  {
+    "type": "item",
     "id": "WATER_HYDRA_BABY",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Baby_Hydra_Skin"
@@ -38964,6 +39447,13 @@
   },
   {
     "type": "item",
+    "id": "WHOLESALE_WHEAT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wholesale_Wheat"
+    }
+  },
+  {
+    "type": "item",
     "id": "WIKI_JOURNAL",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Wiki_Journal"
@@ -39002,6 +39492,13 @@
     "id": "WILTED_BERBERIS_BUNCH",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Wilted_Berberis_Bunch"
+    }
+  },
+  {
+    "type": "item",
+    "id": "WINDING_IVY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Winding_Ivy"
     }
   },
   {
@@ -39667,6 +40164,13 @@
   },
   {
     "type": "item",
+    "id": "WRIGGLEWORM",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wriggleworm"
+    }
+  },
+  {
+    "type": "item",
     "id": "WRIGGLING_LARVA",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Wriggling_Larva"
@@ -39785,6 +40289,13 @@
     "id": "YOGGIE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Yoggie"
+    }
+  },
+  {
+    "type": "item",
+    "id": "YOGI_BERRY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Yogi_Berry"
     }
   },
   {
@@ -42291,6 +42802,46 @@
   },
   {
     "type": "pet",
+    "id": "SLOTH",
+    "tier": "COMMON",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sloth_Pet"
+    }
+  },
+  {
+    "type": "pet",
+    "id": "SLOTH",
+    "tier": "UNCOMMON",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sloth_Pet"
+    }
+  },
+  {
+    "type": "pet",
+    "id": "SLOTH",
+    "tier": "RARE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sloth_Pet"
+    }
+  },
+  {
+    "type": "pet",
+    "id": "SLOTH",
+    "tier": "EPIC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sloth_Pet"
+    }
+  },
+  {
+    "type": "pet",
+    "id": "SLOTH",
+    "tier": "LEGENDARY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sloth_Pet"
+    }
+  },
+  {
+    "type": "pet",
     "id": "SLUG",
     "tier": "EPIC",
     "wiki": {
@@ -42864,6 +43415,13 @@
   },
   {
     "type": "mob",
+    "id": "ANDREA_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Andrea"
+    }
+  },
+  {
+    "type": "mob",
     "id": "ANDREW_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Andrew"
@@ -42888,6 +43446,13 @@
     "id": "ANITA_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Anita"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "ANT_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ant"
     }
   },
   {
@@ -42951,6 +43516,13 @@
     "id": "ARCHAEOLOGIST_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Archaeologist"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "ARCHIE_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Archie"
     }
   },
   {
@@ -43298,6 +43870,13 @@
   },
   {
     "type": "mob",
+    "id": "BEEKEEPER_BARTHOLOMEW_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Beekeeper_Bartholomew"
+    }
+  },
+  {
+    "type": "mob",
     "id": "BELANOR_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Belanor"
@@ -43343,6 +43922,13 @@
     "id": "BINGO_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Bingo"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "BIRDWATCHER_TIM_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Birdwatcher_Tim"
     }
   },
   {
@@ -44026,6 +44612,13 @@
   },
   {
     "type": "mob",
+    "id": "DORY_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dory"
+    }
+  },
+  {
+    "type": "mob",
     "id": "DOUG_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Doug"
@@ -44502,6 +45095,20 @@
   },
   {
     "type": "mob",
+    "id": "FORAGER_DANIEL_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Forager_Daniel"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "FORAGER_ROWAN_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Forager_Rowan"
+    }
+  },
+  {
+    "type": "mob",
     "id": "FORGE_FOREMAN_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Forge_Foreman"
@@ -44533,6 +45140,13 @@
     "id": "FRAGILIS_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Fragilis"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "FREDDY_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Freddy"
     }
   },
   {
@@ -44978,6 +45592,13 @@
   },
   {
     "type": "mob",
+    "id": "HELIA_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Helia"
+    }
+  },
+  {
+    "type": "mob",
     "id": "HENDRICK_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Hendrik"
@@ -45016,6 +45637,20 @@
     "id": "HOLY_LOST_ADVENTURER_MINIBOSS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Lost_Adventurer"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "HONEY_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Honey"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "HOODED_OCCULTIST_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hooded_Occultist"
     }
   },
   {
@@ -45072,6 +45707,62 @@
     "id": "HUNTER_AVA_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Hunter_Ava"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "HUNTER_BILLY_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hunter_Billy"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "HUNTER_DENNIS_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hunter_Dennis"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "HUNTER_HARRY_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hunter_Harry"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "HUNTER_JEAN_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hunter_Jean"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "HUNTER_LENNARD_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hunter_Lennard"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "HUNTER_REEVES_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hunter_Reeves"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "HUNTRESS_ALISSA_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Huntress_Alissa"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "HUNTRESS_MELISSA_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Huntress_Melissa"
     }
   },
   {
@@ -45930,6 +46621,13 @@
   },
   {
     "type": "mob",
+    "id": "MAXIM_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Maxim"
+    }
+  },
+  {
+    "type": "mob",
     "id": "MAXWELL_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Maxwell"
@@ -46059,6 +46757,13 @@
     "id": "MINOTAUR_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Minotaur"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "MIRIA_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Miria"
     }
   },
   {
@@ -46924,6 +47629,27 @@
   },
   {
     "type": "mob",
+    "id": "SAFARI_MANAGER_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Safari_Manager"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "SAFARI_RECEPTIONIST_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Safari_Receptionist"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "SAFARI_SHILL_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Safari_Shill"
+    }
+  },
+  {
+    "type": "mob",
     "id": "SALESMAN_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Salesman"
@@ -46941,6 +47667,13 @@
     "id": "SALVAGE_OLD_ATTRIBUTES_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Salvage_Old_Attributes"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "SANGER_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sanger"
     }
   },
   {
@@ -47830,6 +48563,13 @@
     "id": "TREASURE_HUNTER_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Treasure_Hunter"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "TREEHUGGER_TIMOTHY_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Treehugger_Timothy"
     }
   },
   {
@@ -51340,6 +52080,46 @@
   },
   {
     "type": "enchantment",
+    "id": "KARMA",
+    "level": 1,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Karma"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "KARMA",
+    "level": 2,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Karma"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "KARMA",
+    "level": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Karma"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "KARMA",
+    "level": 4,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Karma"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "KARMA",
+    "level": 5,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Karma"
+    }
+  },
+  {
+    "type": "enchantment",
     "id": "KNOCKBACK",
     "level": 1,
     "wiki": {
@@ -52000,6 +52780,46 @@
     "level": 6,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Pesterminator"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PETALFALL",
+    "level": 1,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Petalfall"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PETALFALL",
+    "level": 2,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Petalfall"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PETALFALL",
+    "level": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Petalfall"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PETALFALL",
+    "level": 4,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Petalfall"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PETALFALL",
+    "level": 5,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Petalfall"
     }
   },
   {

@@ -283,6 +283,18 @@
     "name": "Amelia",
     "type": "NPC"
   },
+  "ANDREA_NPC": {
+    "island": "foraging_3",
+    "position": {
+      "x": -712,
+      "y": 108,
+      "z": 178
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjYxNGY2MjdjNWI0NDk5ZTU0NmIyNjdjYjE3NzdmMmU5YmQ4NmZlN2RlMmVjYTY3ODg0ZWIwMjY2MmU5YzNhNSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI0M2JmMTM1MDdiODQyZWEzYmIxOGJmZmMwM2JhMjM0OCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0Nzg1MDEyMDkyfQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Andrea",
+    "type": "NPC"
+  },
   "ANDREW_NPC": {
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==",
     "itemId": "minecraft:player_head",
@@ -352,6 +364,18 @@
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGQ0ZTlkMmE4Yzg4ZDBlZmQ3NTBlODUyNzMyYmEwNWZhM2YzMDJlMjA0ZTJiZGM4OGRhZDYwNWUyNTU3ZTJhNiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI5ZTI5ZjdlNmIxMTYyZTAxYjcyMmYzNGE0NDNjZGY5MiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzcxOTU3MTg4MTExfQ==",
     "itemId": "minecraft:player_head",
     "name": "Anita",
+    "type": "NPC"
+  },
+  "ANT_NPC": {
+    "island": "foraging_3",
+    "position": {
+      "x": -616,
+      "y": 75,
+      "z": 208
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODE1YWUzODI5ZDUwNmE3YTk2NGMyZDFlZTRhYmRiOTg0ZjA3ZWVlOWY0MGIwMGE0YmQxNTczYmIwNzQwOGI5OSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIyMDI4OTQ4YTE1MWYyNWJhOGFmNmVjYjM3ZWQyZGQ4YSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0NzkzMzU1ODExfQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Ant",
     "type": "NPC"
   },
   "AN_NPC": {
@@ -749,6 +773,18 @@
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY4NWU4M2EwOTk1MWEyYzJkYjc4MzYwYmM5NTQ2YmIwZDQ1NDk3NWI1ZTVhMzQ0Y2ExZGFmZjQwOGE2N2U5ZjEifX19",
     "itemId": "minecraft:player_head",
     "name": "Archaeologist",
+    "type": "NPC"
+  },
+  "ARCHIE_NPC": {
+    "island": "foraging_3",
+    "position": {
+      "x": -707,
+      "y": 108,
+      "z": 165
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmVkM2I0MzUzMjA0ZjY5MDdmOTcwM2IwMjIxOWYzY2MzMmY3OWM0ZjE2NGZkNGI1YjMzMzNhMzAxNmIzZjY5YiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIyMTI4NjNhZTk4YzUyZmQzYWRhNzg2NDFhNzUyN2U5YyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0Nzg0OTc1Nzk1fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Archie",
     "type": "NPC"
   },
   "ARCH_NPC": {
@@ -1893,6 +1929,18 @@
     "name": "Bednom",
     "type": "NPC"
   },
+  "BEEKEEPER_BARTHOLOMEW_NPC": {
+    "island": "foraging_3",
+    "position": {
+      "x": -667,
+      "y": 95,
+      "z": 166
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjM1YjE1YWViMmIzMWI4MDIyYTMxMWQ4YjVmZmVhZWU3ZTcyNzc3ZWI2MDU1MWY5YzAyODFkZDBjYWRmNDg2IiwibWV0YWRhdGEiOnt9fX0sInByb2ZpbGVJZCI6IjI0ZTQ0MGI2OWRkYTJlOGQ4MTk4MmZjZmU1ZjUwNmZmIiwicHJvZmlsZU5hbWUiOiJuZWE4OSIsImlzUHVibGljIjp0cnVlLCJ0aW1lc3RhbXAiOjE3ODQ3OTA3NjQxODR9",
+    "itemId": "minecraft:player_head",
+    "name": "Beekeeper Bartholomew",
+    "type": "NPC"
+  },
   "BELANOR_NPC": {
     "island": "crimson_isle",
     "position": {
@@ -2034,6 +2082,18 @@
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDRjZDljNzA3YzcwOTJkNDc1OWZlMmIyYjZhNzEzMjE1YjZlMzk5MTllYzRlN2FmYjFhZTJiNmY4NTc2Njc0YyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI5NjQxNWUyNGQzNzEyMGQzOGEzYmNjOTI4MTQyMjlmYSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgwOTc3MTQ0OTczfQ==",
     "itemId": "minecraft:player_head",
     "name": "Bingo",
+    "type": "NPC"
+  },
+  "BIRDWATCHER_TIM_NPC": {
+    "island": "safari",
+    "position": {
+      "x": 7,
+      "y": 88,
+      "z": 46
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTFmYTNlZjhkMzUxNTkxOWU3Yjk0ZWQ2NTEyMzEyYzk4NWVjMTY3MWE3MzYzNTk5NzExYTllOWVmZDAxNzg5ZCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI1YTA3MjQyNzNkOGYyYjQ0YTI4NmE4YjAyYzBiMjU5MCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0NzgzODY3NjMzfQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Birdwatcher Tim",
     "type": "NPC"
   },
   "BIRRIES_MONSTER": {
@@ -4736,6 +4796,18 @@
     "name": "Disinfestor",
     "type": "Rift NPC"
   },
+  "DORY_NPC": {
+    "island": "foraging_3",
+    "position": {
+      "x": -646,
+      "y": 161,
+      "z": 194
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDZhY2QwNmU4NDgzYjE3NmU4ZWEzOWZjMTJmZTEwNWViM2EyYTQ5NzBmNTEwMDA1N2U5ZDg0ZDRiNjBiZGZhNyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI0Nzc2ZGE3ODQxNmYyYTRmYmRiZWIxYTA5ZWZjNzlmZiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0Nzg3NzAwNjY2fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Dory",
+    "type": "NPC"
+  },
   "DOUG_NPC": {
     "island": "hub",
     "position": {
@@ -6558,6 +6630,30 @@
       }
     ]
   },
+  "FORAGER_DANIEL_NPC": {
+    "island": "foraging_3",
+    "position": {
+      "x": -640,
+      "y": 95,
+      "z": 246
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmZkNTRlMjFmYjFkNDE4ZGVmNWE2N2IzMTE0YzJkZGNhZGJmYjhkZGY2ZGI5ZGIyYzNhMGIyYmYxZDViYTAzNyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJhNzNlNGFjYjE2NDQyNDgwYTZmZmE4ZjI1YjdhNWEzZiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0Nzg3NjIyNDU0fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Forager Daniel",
+    "type": "NPC"
+  },
+  "FORAGER_ROWAN_NPC": {
+    "island": "foraging_3",
+    "position": {
+      "x": -726,
+      "y": 137,
+      "z": 228
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmJlOTUzYjE5ZDYwYTRmZWRmOTMzYTU0ZmFlNDJmOGUzZjU2YzY3MTA2MWRiYTg1MzcxNThiMTcxNDJiZGY3ZSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIzYTgwMTcyMzhlYWIyYzczYTFkOTJhMzIyOTY2NTNhYiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0Nzg4MDE2NzU2fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Forager Rowan",
+    "type": "NPC"
+  },
   "FORGE_FOREMAN_NPC": {
     "island": "mining_3",
     "position": {
@@ -6610,6 +6706,18 @@
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMwNzIyYzAwMGFlZTBiYmEzMDU4YjQyNWZlNWVlYWM3NjZlMGEwYzNjM2E3ZWRmNDI5YWQxNGUxNTI5N2RkMzMifX19",
     "itemId": "minecraft:player_head",
     "name": "Fragilis",
+    "type": "NPC"
+  },
+  "FREDDY_NPC": {
+    "island": "foraging_3",
+    "position": {
+      "x": -695,
+      "y": 94,
+      "z": 200
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdmN2ExOTdlZjI3M2QwNDk3NDlkNTJiY2QwNDZlMDNhZWIyMWJjNWQ1NWY0YjViOWQ5NDRjY2YyZGVmZDU0ZiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJiMjI3NzllMWJhYjIyNGEwOTAxMTE1MjQyMjc5ZjA0ZiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg1Mzc1MDYxODI4fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Freddy",
     "type": "NPC"
   },
   "FRED_NPC": {
@@ -8963,6 +9071,18 @@
       }
     ]
   },
+  "HELIA_NPC": {
+    "island": "foraging_3",
+    "position": {
+      "x": -691,
+      "y": 93,
+      "z": 155
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWM5ZGQ3Y2M3ZWM0YWYyM2RlMWVhOTM4YjFkMmJmMjA5NDJhZTlhNjQ5YWEzMDRkNWQ4N2IxZWFlZDBjYjJhZiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJkZWViMTk5NWY1NzcyMzI3YWFiZDdhMGM2YjMxM2RjZSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0Nzg3NjU1NDA1fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Helia",
+    "type": "NPC"
+  },
   "HENDRICK_NPC": {
     "island": "winter",
     "position": {
@@ -9077,6 +9197,25 @@
         ]
       }
     ]
+  },
+  "HONEY_NPC": {
+    "island": "foraging_3",
+    "position": {
+      "x": -628,
+      "y": 99,
+      "z": 226
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOThiYjlmOTMxZjcwNWRlOWZlZGFkYWMyNTJkZjY1MTllZWY2NmE1ZjFjY2YxZGYwMTgxNjBiYzY2NGM0ZDFmNSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIxZjdlOGYxOTc0MzAyZGQ3YTUzYmJiYTFkOTc4ZDE4NiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0Nzg3NTI4NDIzfQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Honey",
+    "type": "NPC"
+  },
+  "HOODED_OCCULTIST_NPC": {
+    "island": "foraging_3",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODU5OTEyZDM2NzhhMWViY2MwN2U5ZGU3M2YxMGViYjRmNTYxMzY2M2U3NjU0NmM0MTYxYTVmMjliYjE2ODI4OCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIzMDJhZDU4YjQ1OTIyYjY5OTMzODFhMDIyZTIzMjdmYyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg1NDg5NzA4NDIzfQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Hooded Occultist",
+    "type": "NPC"
   },
   "HOOTIE_NPC": {
     "island": "hub",
@@ -9223,6 +9362,91 @@
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E3ZGM5NGZiNzE2NWY3NDcwZmYyNTU3YmQzYmNkYTU3OThkZDNmYWZiOTk5MTUwNGZjY2ZhZDcyMWNjNDIyNjIifX19",
     "itemId": "minecraft:player_head",
     "name": "Hunter Ava",
+    "type": "NPC"
+  },
+  "HUNTER_BILLY_NPC": {
+    "island": "safari",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGU2MGU1OTA5YTVmMTJiMjVmMjMwMjA1MmU5ZTVlZmQ2ZDE2OTRmNTZiYmQzNjI3Zjc2ZDIzMjJiMDUxYWZlYyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI5Yjc3MTZhM2M2ZjYyNDJhOGNkY2NlZGRjZWRiN2I5OSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0Nzg0NjYzMDYyfQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Hunter Billy",
+    "type": "NPC"
+  },
+  "HUNTER_DENNIS_NPC": {
+    "island": "safari",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTkzNTkwMWVlOTMxZmZlYTg5NWE1ZjFlM2Y5ZjE3OWM0ZmIwMzJmMTVlMmJlMWI0MjEyZDkzYjg2ODY1OTA2MSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJkYjMxYjRiMGY0NWUyMzBjOGFkNmU5ODZhMjUxZjIzZiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0NzgzNDQ4Nzg5fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Hunter Dennis",
+    "type": "NPC"
+  },
+  "HUNTER_HARRY_NPC": {
+    "island": "safari",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzU3ZWE5NDgxZjJmNTUxOWE4NWNlODgzNGU2MjM3ZWI5NmNmMmZiMzJmNGU4YTYwYWE1OWExZjMwNzczNzBiNSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI0NzE2NDEwMTgzY2EyYmRlOGMyYWI4NTc4YjRmZWMxMyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0Nzg0MDM5NjM1fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Hunter Harry",
+    "type": "NPC"
+  },
+  "HUNTER_JEAN_NPC": {
+    "island": "foraging_3",
+    "position": {
+      "x": -666,
+      "y": 145,
+      "z": 170
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjEyNTUwZWQzNDUwNTViMTE5NTkyYWZjYzg5MDRjNzNhOTllYWFkY2FjNzk4MWE3NDgxZGMyNWJlOGIxNzk0MCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJlYTNmNmE1ZDZjOTIyY2FmYmEzNzJhZmJhNGQxMDVhYyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0Nzg3NjcyMjUxfQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Hunter Jean",
+    "type": "NPC"
+  },
+  "HUNTER_LENNARD_NPC": {
+    "island": "safari",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWU3ZGExYTNiOTNjYjYyY2QxN2YxZWYxM2VlZDAwYjQ2NzViMGE1YzljNjRmMmU5OTFhZjllNzM0MzQ3MjUxNyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI1YWYzOWU4MmViYzEyYTE0OGUwMDM2NjBhMzE5NTI5MCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg1MDQyODk4MjM4fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Hunter Lennard",
+    "type": "NPC"
+  },
+  "HUNTER_MCNEIL_NPC": {
+    "island": "foraging_3",
+    "position": {
+      "x": -653,
+      "y": 103,
+      "z": 167
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjBiMWJjYWEzMzFhMmY4ZjE4NWVjODlkMmQ3NWYxNDQ5ZGQ5M2M5NTU1MmQxODdlODRhMjdiYmQyNzhlYTU2YiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJhM2M0OTRkM2M1MDEyMDAxYjc4MDA0YmIyMmFiYWI0MCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0NzkwMzQ2NTgwfQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Hunter McNeil",
+    "type": "NPC"
+  },
+  "HUNTER_REEVES_NPC": {
+    "island": "safari",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWFjZDIxNWNjZGUyZjY3N2M3YzE0NGUyYjY5OGZmMzNlYTA2YTg3YWFmNDY4ZDA1ZDFmMGRjNWVjMmJkYmZlOCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI4MDE5MTFlNTUzM2IyZDNjODYzZTAyM2Y3MmJkYjgzZSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0NzgyOTQxMjI4fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Hunter Reeves",
+    "type": "NPC"
+  },
+  "HUNTER_TOBIAS_NPC": {
+    "island": "safari",
+    "position": {
+      "x": -50,
+      "y": 66,
+      "z": 2
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTg0ZWUxNzRmZjI2MDdlNDYyMGZiYjIzMzBiZWMxOGQxMTkwYWFlNGIwYjRjZDVhY2EwMDEwZGJjNWE1MmYwNSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJiNzY3MDFiM2U0ZjUyZjBkYTkxNzUzNGI4ZTJjZTNiNiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0NzgzMTU3Nzk0fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "\"Hunter\" Tobias",
+    "type": "NPC"
+  },
+  "HUNTRESS_ALISSA_NPC": {
+    "island": "safari",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzg2N2VlMjhhOWUyNDA0ZWY0M2Q1NTMzYzljZTAyYjAwNzM2ZjQ2MjAwMDBjNjc3YzY0YjFlZWEyNjdjYmEyNiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI0YmI2MmEyNjk2MDYyNTQ4OGU0YTAxNTY4OTVlMDI0OSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0NzgzNjg3MzE3fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Huntress Alissa",
+    "type": "NPC"
+  },
+  "HUNTRESS_MELISSA_NPC": {
+    "island": "safari",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjViNWYyNTkwZjEwZGMzMzYzZDJjZDEyZGRiYTM3ODUyNmZhMjhlMWJmOGFkY2YzZDM0MGYwODQ4NmY4ZmFkZiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJmMDdmMWZjN2IxNTMyODViODZiZjhlMjRiMzQ3MThmOCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0NzgzNzM5OTg0fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Huntress Melissa",
     "type": "NPC"
   },
   "HUSBANDRY_MERCHANT_NPC": {
@@ -12585,6 +12809,18 @@
     "name": "Maths Enjoyer",
     "type": "NPC"
   },
+  "MAXIM_NPC": {
+    "island": "foraging_3",
+    "position": {
+      "x": -575,
+      "y": 153,
+      "z": 248
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmZTdlZmE4ZTljMzU0MzRjNTUzNDQ4ZGNlZjc3ZDhkZGVmNGMwMjAxNjc0ZjQwODFjMjlmZWMwYmQzYTdlNCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJhZTZjNmI4ZjhhMTcyZjYyYTliYTI2MjMzOWI2NGE0NyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg1MzczNzQ0NjM2fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Maxim",
+    "type": "NPC"
+  },
   "MAXWELL_NPC": {
     "island": "hub",
     "position": {
@@ -13580,6 +13816,18 @@
         ]
       }
     ]
+  },
+  "MIRIA_NPC": {
+    "island": "foraging_3",
+    "position": {
+      "x": -655,
+      "y": 98,
+      "z": 220
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzg4YWI5NTE0YzExY2JlMGU4YzM5ZDYzMzg3ZThjYzZjMWU5NDU5NGYxZGMyYmQ2MjI3ODljNzNkNjc5NWQzZCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI4NWY4ZGNjNGMzNzAyNGNhYWUxNjU4ODZiZjFkOGFjMSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0Nzg3MzgzNjAzfQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Miria",
+    "type": "NPC"
   },
   "MITHRIL_GRUBBER_SC": {
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjMyMTY5Njk3MSwKICAicHJvZmlsZUlkIiA6ICJlNzkzYjJjYTdhMmY0MTI2YTA5ODA5MmQ3Yzk5NDE3YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVfSG9zdGVyX01hbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MTFhMTE3M2FmM2JlYWQzMDVlNjMzOWY1NTU2NjJlOTkwZDVmYWFkYjg3ZTA3Mjk5ZmE2OGNhODI4YTZkMmZiIgogICAgfQogIH0KfQ==",
@@ -19710,6 +19958,42 @@
     "name": "Sad Jacquelle",
     "type": "Rift NPC"
   },
+  "SAFARI_MANAGER_NPC": {
+    "island": "foraging_3",
+    "position": {
+      "x": -733,
+      "y": 99,
+      "z": 185
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmM5NWE3NzA3ZTJiNTcxYWU3MmMzMTVlNzMyYWQ4MWU3MjlmODM1MDNkNzU5NDIwNGQwNTA1MTMzMGM0ZGMzNyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIzOGRlYzZiNDI0OGYyNzVlODExYjNmMjQ4MmVlNDAwOSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0Nzg0OTMwNjY3fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Safari Manager",
+    "type": "NPC"
+  },
+  "SAFARI_RECEPTIONIST_NPC": {
+    "island": "foraging_3",
+    "position": {
+      "x": -720,
+      "y": 99,
+      "z": 178
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjI4MDY1MGFhNzgxOTBjNWE5MjkyMmRmNDRiYTE1NWEzY2YwYmFmZTRiMzU2YTNmMjQ2NGI4YTA5OTFhM2UyZSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIxYzYwYTc5ODNiNTAyYjA4ODYyYjJmYWYyMmYwZDcwNCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0Nzg0OTQ3NDM4fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Safari Receptionist",
+    "type": "NPC"
+  },
+  "SAFARI_SHILL_NPC": {
+    "island": "foraging_3",
+    "position": {
+      "x": -697,
+      "y": 94,
+      "z": 178
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGUwY2E0MGRkMjEwZDhiOGUwZWE4MTg3NWRlNTFiYTg4Mzc2NDk0YWIxMjQzYmFjZThiM2MyNTA4YTEyMTE3ZiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJmNDNiMDE3NjNlMWYyMTgwYWNiNzRjMmRlNzBmY2NhNyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0Nzg1ODQzMzIyfQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Safari Shill",
+    "type": "NPC"
+  },
   "SALESMAN_NPC": {
     "island": "hub",
     "position": {
@@ -19764,6 +20048,13 @@
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWFjNjZhZjc3ZTU4YmE5Yjg5MTc1ODMxZjk2ZDEwMGYwNTYyYzIzMjZiYjJkZDQzMTg0OTQyYWRhZmJmODI1YSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJiYjQ4MmVkMjcyZDgyMzEwYTg5YjVkZjIxOTUzZjE4MiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzUwNjkzODc5MzI0fQ==",
     "itemId": "minecraft:player_head",
     "name": "Salvage Old Attributes",
+    "type": "NPC"
+  },
+  "SANGER_NPC": {
+    "island": "foraging_3",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzYwODEyNTI3ZWJiMmQ3MmU2MTE5ZWZmZDBjY2U1ZjFmMjk2NmFkNDVlZGJiNzA1ZWQwNDk0OGFiYTZmMWI3NCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIyOTk1YWJlM2FkZTEyNGQ4OGYzN2YzODgyMGNkZTkwNiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg0Nzg3ODQyMTM0fQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Sanger",
     "type": "NPC"
   },
   "SARGWYN_NPC": {
@@ -24950,6 +25241,18 @@
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VlYWY0M2M3NDc0OTdlMjBmZTA2NjdkNjc4MTBhYTFmM2NiMGFlYjk2ZmNjOTRiN2NlMThmNWQxNjVjODI4NGQifX19",
     "itemId": "minecraft:player_head",
     "name": "Treasure Hunter",
+    "type": "NPC"
+  },
+  "TREEHUGGER_TIMOTHY_NPC": {
+    "island": "foraging_3",
+    "position": {
+      "x": -542,
+      "y": 110,
+      "z": 276
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjNjN2E4YzUyODJhMjg1MWExZDljMzcxZDU1NzU3ZmViMDQxNWU0NjJkZWUwNzVjMmY0NTE2ZTA0YzEzZjg0IiwibWV0YWRhdGEiOnt9fX0sInByb2ZpbGVJZCI6ImRjMzEzMDhmMzQwNDI2Y2E5NDdhMmM0YTM2MjY4MzExIiwicHJvZmlsZU5hbWUiOiJuZWE4OSIsImlzUHVibGljIjp0cnVlLCJ0aW1lc3RhbXAiOjE3ODQ3ODc1NTgwMzJ9",
+    "itemId": "minecraft:player_head",
+    "name": "Treehugger Timothy",
     "type": "NPC"
   },
   "TREVOR_NPC": {

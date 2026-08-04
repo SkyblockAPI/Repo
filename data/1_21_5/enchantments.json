@@ -5991,6 +5991,118 @@
     "name": "Infinite Quiver",
     "isUltimate": false
   },
+  "KARMA": {
+    "id": "KARMA",
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Karma I",
+          "§7Grants a §a1% §7chance for §2Tree Gifts",
+          "§7to contain double loot.",
+          "",
+          "§6Sources:",
+          "§aI: §7Tree Gifts",
+          "§aI-V: §7Bazaar",
+          "§aVI: §7Distant Echo",
+          "",
+          "§6Applied To:",
+          "§7- §fAxe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Karma II",
+          "§7Grants a §a2% §7chance for §2Tree Gifts",
+          "§7to contain double loot.",
+          "",
+          "§6Sources:",
+          "§aI: §7Tree Gifts",
+          "§aI-V: §7Bazaar",
+          "§aVI: §7Distant Echo",
+          "",
+          "§6Applied To:",
+          "§7- §fAxe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Karma III",
+          "§7Grants a §a3% §7chance for §2Tree Gifts",
+          "§7to contain double loot.",
+          "",
+          "§6Sources:",
+          "§aI: §7Tree Gifts",
+          "§aI-V: §7Bazaar",
+          "§aVI: §7Distant Echo",
+          "",
+          "§6Applied To:",
+          "§7- §fAxe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Karma IV",
+          "§7Grants a §a4% §7chance for §2Tree Gifts",
+          "§7to contain double loot.",
+          "",
+          "§6Sources:",
+          "§aI: §7Tree Gifts",
+          "§aI-V: §7Bazaar",
+          "§aVI: §7Distant Echo",
+          "",
+          "§6Applied To:",
+          "§7- §fAxe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Karma V",
+          "§7Grants a §a5% §7chance for §2Tree Gifts",
+          "§7to contain double loot.",
+          "",
+          "§6Sources:",
+          "§aI: §7Tree Gifts",
+          "§aI-V: §7Bazaar",
+          "§aVI: §7Distant Echo",
+          "",
+          "§6Applied To:",
+          "§7- §fAxe",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "name": "Karma",
+    "isUltimate": false
+  },
   "KNOCKBACK": {
     "id": "KNOCKBACK",
     "levels": [
@@ -8047,6 +8159,113 @@
       }
     ],
     "name": "Pesterminator",
+    "isUltimate": false
+  },
+  "PETALFALL": {
+    "id": "PETALFALL",
+    "levels": [
+      {
+        "level": 1,
+        "literal_level": "I",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Petalfall I",
+          "§7Grants a §a0.2% §7chance to fell the",
+          "§7entire tree!",
+          "",
+          "§6Sources:",
+          "§aI: §7Miria's Shop (Level 3+)",
+          "§aI-V: §7Bazaar",
+          "",
+          "§6Applied To:",
+          "§7- Axe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Petalfall II",
+          "§7Grants a §a0.4% §7chance to fell the",
+          "§7entire tree!",
+          "",
+          "§6Sources:",
+          "§aI: §7Miria's Shop (Level 3+)",
+          "§aI-V: §7Bazaar",
+          "",
+          "§6Applied To:",
+          "§7- Axe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Petalfall III",
+          "§7Grants a §a0.6% §7chance to fell the",
+          "§7entire tree!",
+          "",
+          "§6Sources:",
+          "§aI: §7Miria's Shop (Level 3+)",
+          "§aI-V: §7Bazaar",
+          "",
+          "§6Applied To:",
+          "§7- Axe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Petalfall IV",
+          "§7Grants a §a0.8% §7chance to fell the",
+          "§7entire tree!",
+          "",
+          "§6Sources:",
+          "§aI: §7Miria's Shop (Level 3+)",
+          "§aI-V: §7Bazaar",
+          "",
+          "§6Applied To:",
+          "§7- Axe",
+          "",
+          "§f§lCOMMON"
+        ]
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Petalfall V",
+          "§7Grants a §a1% §7chance to fell the",
+          "§7entire tree!",
+          "",
+          "§6Sources:",
+          "§aI: §7Miria's Shop (Level 3+)",
+          "§aI-V: §7Bazaar",
+          "",
+          "§6Applied To:",
+          "§7- Axe",
+          "",
+          "§a§lUNCOMMON"
+        ]
+      }
+    ],
+    "name": "Petalfall",
     "isUltimate": false
   },
   "PIERCING": {

@@ -4037,6 +4037,8 @@
           "§7Speed: §f+{SPEED}",
           "§7Fishing Speed: §b+{FISHING_SPEED}",
           "§7Respiration: §3+{RESPIRATION}",
+          "§7Sweep: §2+{SWEEP}",
+          "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
           "",
           "§6Hunting Enjoyer",
           "§7Increases your chance to catch",
@@ -4061,6 +4063,14 @@
           "RESPIRATION": [
             0.1,
             10
+          ],
+          "SWEEP": [
+            0.1,
+            10
+          ],
+          "FORAGING_FORTUNE": [
+            0.1,
+            10
           ]
         }
       },
@@ -4073,6 +4083,8 @@
           "§7Speed: §f+{SPEED}",
           "§7Fishing Speed: §b+{FISHING_SPEED}",
           "§7Respiration: §3+{RESPIRATION}",
+          "§7Sweep: §2+{SWEEP}",
+          "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
           "",
           "§6Hunting Enjoyer",
           "§7Increases your chance to catch",
@@ -4097,6 +4109,14 @@
           "RESPIRATION": [
             0.1,
             10
+          ],
+          "SWEEP": [
+            0.1,
+            10
+          ],
+          "FORAGING_FORTUNE": [
+            0.1,
+            10
           ]
         }
       },
@@ -4109,6 +4129,8 @@
           "§7Speed: §f+{SPEED}",
           "§7Fishing Speed: §b+{FISHING_SPEED}",
           "§7Respiration: §3+{RESPIRATION}",
+          "§7Sweep: §2+{SWEEP}",
+          "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
           "",
           "§6Hunting Enjoyer",
           "§7Increases your chance to catch",
@@ -4134,6 +4156,14 @@
           "RESPIRATION": [
             0.1,
             10
+          ],
+          "SWEEP": [
+            0.1,
+            10
+          ],
+          "FORAGING_FORTUNE": [
+            0.1,
+            10
           ]
         }
       },
@@ -4146,6 +4176,8 @@
           "§7Speed: §f+{SPEED}",
           "§7Fishing Speed: §b+{FISHING_SPEED}",
           "§7Respiration: §3+{RESPIRATION}",
+          "§7Sweep: §2+{SWEEP}",
+          "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
           "",
           "§6Hunting Enjoyer",
           "§7Increases your chance to catch",
@@ -4179,6 +4211,14 @@
           "RESPIRATION": [
             0.1,
             10
+          ],
+          "SWEEP": [
+            0.1,
+            10
+          ],
+          "FORAGING_FORTUNE": [
+            0.1,
+            10
           ]
         }
       },
@@ -4191,6 +4231,8 @@
           "§7Speed: §f+{SPEED}",
           "§7Fishing Speed: §b+{FISHING_SPEED}",
           "§7Respiration: §3+{RESPIRATION}",
+          "§7Sweep: §2+{SWEEP}",
+          "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
           "",
           "§6Hunting Enjoyer",
           "§7Increases your chance to catch",
@@ -4233,6 +4275,14 @@
           "RESPIRATION": [
             0.1,
             10
+          ],
+          "SWEEP": [
+            0.1,
+            10
+          ],
+          "FORAGING_FORTUNE": [
+            0.1,
+            10
           ]
         }
       },
@@ -4246,6 +4296,8 @@
           "§7Fishing Speed: §b+{FISHING_SPEED}",
           "§7Trophy Chance: §6+{TROPHY_CHANCE}%",
           "§7Respiration: §3+{RESPIRATION}",
+          "§7Sweep: §2+{SWEEP}",
+          "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
           "",
           "§6Hunting Enjoyer",
           "§7Increases your chance to catch",
@@ -4303,6 +4355,14 @@
             5
           ],
           "RESPIRATION": [
+            0.1,
+            10
+          ],
+          "SWEEP": [
+            0.1,
+            10
+          ],
+          "FORAGING_FORTUNE": [
             0.1,
             10
           ]
@@ -11529,6 +11589,230 @@
           "SPEED": [
             1.5,
             150
+          ]
+        }
+      }
+    }
+  },
+  "SLOTH": {
+    "id": "SLOTH",
+    "name": "Sloth",
+    "tiers": {
+      "COMMON": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY5MzIzNzg5MSwKICAicHJvZmlsZUlkIiA6ICI4YmM3MjdlYThjZjA0YWUzYTI4MDVhY2YzNjRjMmQyNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJub3RpbnZlbnRpdmUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTQ2ODUzN2UxZTk5MDQwYjc2MGM4M2U1MzA5NmM4Njg3MGNkY2Q5Mjg1ZDUzMzAwNzYxZDBlMzZmZjllMTkyZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+        "lore": [
+          "§8Foraging Pet",
+          "",
+          "§7Sweep: §2+{SWEEP}",
+          "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
+          "",
+          "§6Slow Start",
+          "§7Every §a60s§7, your next cut gains",
+          "§2+{0} Sweep §7and §6+{1} Foraging",
+          "§6Fortune§7.",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§f§lCOMMON"
+        ],
+        "variables": {
+          "0": [
+            0.15,
+            15
+          ],
+          "1": [
+            0.3,
+            30
+          ],
+          "SWEEP": [
+            0.25,
+            25
+          ],
+          "FORAGING_FORTUNE": [
+            0.25,
+            25
+          ]
+        }
+      },
+      "UNCOMMON": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY5MzIzNzg5MSwKICAicHJvZmlsZUlkIiA6ICI4YmM3MjdlYThjZjA0YWUzYTI4MDVhY2YzNjRjMmQyNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJub3RpbnZlbnRpdmUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTQ2ODUzN2UxZTk5MDQwYjc2MGM4M2U1MzA5NmM4Njg3MGNkY2Q5Mjg1ZDUzMzAwNzYxZDBlMzZmZjllMTkyZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+        "lore": [
+          "§8Foraging Pet",
+          "",
+          "§7Sweep: §2+{SWEEP}",
+          "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
+          "",
+          "§6Slow Start",
+          "§7Every §a60s§7, your next cut gains",
+          "§2+{0} Sweep §7and §6+{1} Foraging",
+          "§6Fortune§7.",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§a§lUNCOMMON"
+        ],
+        "variables": {
+          "0": [
+            0.2,
+            20
+          ],
+          "1": [
+            0.4,
+            40
+          ],
+          "SWEEP": [
+            0.25,
+            25
+          ],
+          "FORAGING_FORTUNE": [
+            0.25,
+            25
+          ]
+        }
+      },
+      "RARE": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY5MzIzNzg5MSwKICAicHJvZmlsZUlkIiA6ICI4YmM3MjdlYThjZjA0YWUzYTI4MDVhY2YzNjRjMmQyNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJub3RpbnZlbnRpdmUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTQ2ODUzN2UxZTk5MDQwYjc2MGM4M2U1MzA5NmM4Njg3MGNkY2Q5Mjg1ZDUzMzAwNzYxZDBlMzZmZjllMTkyZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+        "lore": [
+          "§8Foraging Pet",
+          "",
+          "§7Sweep: §2+{SWEEP}",
+          "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
+          "",
+          "§6Slow Start",
+          "§7Every §a60s§7, your next cut gains",
+          "§2+{0} Sweep §7and §6+{1} Foraging",
+          "§6Fortune§7.",
+          "",
+          "§6Stronk Arm",
+          "§7Gains §2+{2} Sweep §7and §6+{3}",
+          "§6Foraging Fortune §7on §2Axe §7throws.",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§9§lRARE"
+        ],
+        "variables": {
+          "0": [
+            0.2,
+            20
+          ],
+          "1": [
+            0.4,
+            40
+          ],
+          "2": [
+            0.2,
+            20
+          ],
+          "3": [
+            0.5,
+            50
+          ],
+          "SWEEP": [
+            0.25,
+            25
+          ],
+          "FORAGING_FORTUNE": [
+            0.25,
+            25
+          ]
+        }
+      },
+      "EPIC": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY5MzIzNzg5MSwKICAicHJvZmlsZUlkIiA6ICI4YmM3MjdlYThjZjA0YWUzYTI4MDVhY2YzNjRjMmQyNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJub3RpbnZlbnRpdmUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTQ2ODUzN2UxZTk5MDQwYjc2MGM4M2U1MzA5NmM4Njg3MGNkY2Q5Mjg1ZDUzMzAwNzYxZDBlMzZmZjllMTkyZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+        "lore": [
+          "§8Foraging Pet",
+          "",
+          "§7Sweep: §2+{SWEEP}",
+          "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
+          "",
+          "§6Slow Start",
+          "§7Every §a60s§7, your next cut gains",
+          "§2+{0} Sweep §7and §6+{1} Foraging",
+          "§6Fortune§7.",
+          "",
+          "§6Stronk Arm",
+          "§7Gains §2+{2} Sweep §7and §6+{3}",
+          "§6Foraging Fortune §7on §2Axe §7throws.",
+          "",
+          "§8Can be upgraded at Kat in The Hub!",
+          "§5§lEPIC"
+        ],
+        "variables": {
+          "0": [
+            0.25,
+            25
+          ],
+          "1": [
+            0.5,
+            50
+          ],
+          "2": [
+            0.4,
+            40
+          ],
+          "3": [
+            1,
+            100
+          ],
+          "SWEEP": [
+            0.25,
+            25
+          ],
+          "FORAGING_FORTUNE": [
+            0.25,
+            25
+          ]
+        }
+      },
+      "LEGENDARY": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY5MzIzNzg5MSwKICAicHJvZmlsZUlkIiA6ICI4YmM3MjdlYThjZjA0YWUzYTI4MDVhY2YzNjRjMmQyNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJub3RpbnZlbnRpdmUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTQ2ODUzN2UxZTk5MDQwYjc2MGM4M2U1MzA5NmM4Njg3MGNkY2Q5Mjg1ZDUzMzAwNzYxZDBlMzZmZjllMTkyZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+        "lore": [
+          "§8Foraging Pet",
+          "",
+          "§7Sweep: §2+{SWEEP}",
+          "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
+          "",
+          "§6Slow Start",
+          "§7Every §a60s§7, your next cut gains",
+          "§2+{0} Sweep §7and §6+{1} Foraging",
+          "§6Fortune§7.",
+          "",
+          "§6Stronk Arm",
+          "§7Gains §2+{2} Sweep §7and §6+{3}",
+          "§6Foraging Fortune §7on §2Axe §7throws.",
+          "",
+          "§6Starlyn's Favorite",
+          "§7Cutting §aTrees §7give §a+{4}% §7more points",
+          "§7towards §dStarlyn Contests§7.",
+          "",
+          "§6§lLEGENDARY"
+        ],
+        "variables": {
+          "0": [
+            0.25,
+            25
+          ],
+          "1": [
+            0.5,
+            50
+          ],
+          "2": [
+            0.4,
+            40
+          ],
+          "3": [
+            1,
+            100
+          ],
+          "4": [
+            0.2,
+            20
+          ],
+          "SWEEP": [
+            0.25,
+            25
+          ],
+          "FORAGING_FORTUNE": [
+            0.25,
+            25
           ]
         }
       }

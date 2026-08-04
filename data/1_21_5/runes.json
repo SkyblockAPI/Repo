@@ -19,6 +19,62 @@
       ]
     }
   ],
+  "AXE_FADING_BLUE": [
+    {
+      "tier": 1,
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1NTc1NTE0MTI0OCwKICAicHJvZmlsZUlkIiA6ICJmNTBjOGRkN2FiN2Y0ZmUyYWI4ZGI1M2NjYzRiYWQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYWNoYWRvVF9UIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI1MTExNzk1YzE4ZTJkOTEwMjQwZGFiZmNiYmFiNjU1YzAwZTViYzFjNzEwYzMwYjZmMmQyZjk1ZTdmNzVmNzciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "§9◆ Fading Blue Rune I",
+      "lore": [
+        "§8Requires level 7",
+        "§8Throwing Axe",
+        "",
+        "§7Your axe fades into beautiful blue",
+        "§7particles!",
+        "",
+        "§7Apply this rune to throwing axe or",
+        "§7fuse two together at the Runic",
+        "§7Pedestal!",
+        "",
+        "§9§lRARE COSMETIC"
+      ]
+    },
+    {
+      "tier": 2,
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1NTc1NTE0MTI0OCwKICAicHJvZmlsZUlkIiA6ICJmNTBjOGRkN2FiN2Y0ZmUyYWI4ZGI1M2NjYzRiYWQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYWNoYWRvVF9UIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI1MTExNzk1YzE4ZTJkOTEwMjQwZGFiZmNiYmFiNjU1YzAwZTViYzFjNzEwYzMwYjZmMmQyZjk1ZTdmNzVmNzciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "§9◆ Fading Blue Rune II",
+      "lore": [
+        "§8Requires level 7",
+        "§8Throwing Axe",
+        "",
+        "§7Your axe fades into beautiful blue",
+        "§7particles!",
+        "",
+        "§7Apply this rune to throwing axe or",
+        "§7fuse two together at the Runic",
+        "§7Pedestal!",
+        "",
+        "§9§lRARE COSMETIC"
+      ]
+    },
+    {
+      "tier": 3,
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1NTc1NTE0MTI0OCwKICAicHJvZmlsZUlkIiA6ICJmNTBjOGRkN2FiN2Y0ZmUyYWI4ZGI1M2NjYzRiYWQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYWNoYWRvVF9UIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI1MTExNzk1YzE4ZTJkOTEwMjQwZGFiZmNiYmFiNjU1YzAwZTViYzFjNzEwYzMwYjZmMmQyZjk1ZTdmNzVmNzciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "§9◆ Fading Blue Rune III",
+      "lore": [
+        "§8Requires level 7",
+        "§8Throwing Axe",
+        "",
+        "§7Your axe fades into beautiful blue",
+        "§7particles!",
+        "",
+        "§7Apply this rune to throwing axe or",
+        "§7fuse two together at the Runic",
+        "§7Pedestal!",
+        "",
+        "§9§lRARE COSMETIC"
+      ]
+    }
+  ],
   "AXE_FADING_GREEN": [
     {
       "tier": 1,

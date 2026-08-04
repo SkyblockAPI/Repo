@@ -691,6 +691,98 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "HELIXIS",
+        "count": 8
+      },
+      {
+        "id": "VEILSHROOM_BUNCH",
+        "count": 8
+      },
+      {
+        "id": "ACCRETION_RING",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      1,
+      2,
+      1,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "ACCRETION_ARTIFACT",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_RUBY_VEILSHROOM",
+        "count": 8
+      },
+      {
+        "id": "ACCRETION_TALISMAN",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      1,
+      2,
+      1,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "ACCRETION_RING",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_RUBY_VEILSHROOM",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      1,
+      -1,
+      1,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "ACCRETION_TALISMAN",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "IRON_INGOT",
         "count": 1
       },
@@ -2960,6 +3052,120 @@
     }
   },
   {
+    "type": "shop",
+    "npc": "ANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 2000000
+      },
+      {
+        "id": "ENCHANTED_ACACIA_LOG",
+        "count": 1024
+      }
+    ],
+    "result": {
+      "id": "GENERATOR_UPGRADE_STONE_ACACIA_12",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "ANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 2000000
+      },
+      {
+        "id": "ENCHANTED_BIRCH_LOG",
+        "count": 1024
+      }
+    ],
+    "result": {
+      "id": "GENERATOR_UPGRADE_STONE_BIRCH_12",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "ANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 2000000
+      },
+      {
+        "id": "ENCHANTED_DARK_OAK_LOG",
+        "count": 1024
+      }
+    ],
+    "result": {
+      "id": "GENERATOR_UPGRADE_STONE_DARK_OAK_12",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "ANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 2000000
+      },
+      {
+        "id": "ENCHANTED_JUNGLE_LOG",
+        "count": 1024
+      }
+    ],
+    "result": {
+      "id": "GENERATOR_UPGRADE_STONE_JUNGLE_12",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "ANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 2000000
+      },
+      {
+        "id": "ENCHANTED_OAK_LOG",
+        "count": 1024
+      }
+    ],
+    "result": {
+      "id": "GENERATOR_UPGRADE_STONE_OAK_12",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "ANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 2000000
+      },
+      {
+        "id": "ENCHANTED_SPRUCE_LOG",
+        "count": 1024
+      }
+    ],
+    "result": {
+      "id": "GENERATOR_UPGRADE_STONE_SPRUCE_12",
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {
@@ -3146,6 +3352,20 @@
     ],
     "result": {
       "id": "ARCHAIC_SPADE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "ARCHIE_NPC",
+    "inputs": [
+      {
+        "id": "ESSENCE_SAFARI",
+        "count": 2500
+      }
+    ],
+    "result": {
+      "id": "MORNING_DEW",
       "count": 1
     }
   },
@@ -3997,6 +4217,105 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_FEATHER",
+        "count": 4
+      },
+      {
+        "id": "ENCHANTED_EGG",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "HELIX_COLLECTOR",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HONEYCOMB",
+        "count": 4
+      },
+      {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_EGG",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "HONEY_REFILL",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_HONEYCOMB",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_EGG",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "HONEY_SERENDIPITY",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_MANGROVE_LOG",
         "count": 8
       },
@@ -4023,6 +4342,39 @@
     "result": {
       "type": "attribute",
       "id": "MANGROVE_COLLECTOR",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_RUBY_VEILSHROOM",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_EGG",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "TICKET_DISCOUNT",
       "count": 1
     }
   },
@@ -6133,6 +6485,34 @@
     ],
     "time": 3600,
     "coins": 10000000
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_HONEYCOMB_BLOCK",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      1,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "BEE_SALIVA",
+      "count": 1
+    }
   },
   {
     "type": "crafting",
@@ -22678,6 +23058,78 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "HELIX_LOG",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "ENCHANTED_HELIX_LOG",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HONEYCOMB",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "ENCHANTED_HONEYCOMB",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HONEYCOMB",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "ENCHANTED_HONEYCOMB_BLOCK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_IRON_BLOCK",
         "count": 1
       },
@@ -24031,6 +24483,30 @@
     ],
     "result": {
       "id": "ENCHANTED_ROTTEN_FLESH",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "RUBY_VEILSHROOM",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "ENCHANTED_RUBY_VEILSHROOM",
       "count": 1
     }
   },
@@ -26423,6 +26899,34 @@
     "result": {
       "type": "currency",
       "currency": "ENIGMA_SOUL",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HONEYCOMB",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "FAMILY_SIZED_POT_OF_HONEYCOMB",
       "count": 1
     }
   },
@@ -32048,6 +32552,34 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "HONEYCOMB",
+        "count": 64
+      },
+      {
+        "id": "HELIX_LOG",
+        "count": 64
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "FUN_SIZED_POT_OF_HONEYCOMB",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "COBBLESTONE",
         "count": 1
       }
@@ -32839,6 +33371,46 @@
     ],
     "result": {
       "id": "GHOUL_BUSTER",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_SEA_LUMIES",
+        "count": 32
+      },
+      {
+        "id": "REINFORCED_NETTING",
+        "count": 1
+      },
+      {
+        "id": "SUBLIME_SILK",
+        "count": 16
+      },
+      {
+        "id": "TURBO_FISHING_NET",
+        "count": 1
+      },
+      {
+        "id": "FLEXBONE",
+        "count": 64
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      0,
+      4,
+      0
+    ],
+    "result": {
+      "id": "GIGANTIC_FISHING_NET",
       "count": 1
     }
   },
@@ -37534,6 +38106,174 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "HELIXIS",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HELIXIS",
+        "count": 1
+      },
+      {
+        "id": "FIG_BOOTS",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      0,
+      -1,
+      0,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "HELIX_ARMOR_BOOTS",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HELIXIS",
+        "count": 1
+      },
+      {
+        "id": "FIG_CHESTPLATE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "HELIX_ARMOR_CHESTPLATE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HELIXIS",
+        "count": 1
+      },
+      {
+        "id": "FIG_HELMET",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "HELIX_ARMOR_HELMET",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HELIXIS",
+        "count": 1
+      },
+      {
+        "id": "FIG_LEGGINGS",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      0,
+      -1,
+      0,
+      0,
+      -1,
+      0
+    ],
+    "result": {
+      "id": "HELIX_ARMOR_LEGGINGS",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HELIXIS",
+        "count": 1
+      },
+      {
+        "id": "FIGSTONE_AXE",
+        "count": 1
+      },
+      {
+        "id": "FLEXBONE",
+        "count": 8
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      -1,
+      1,
+      0,
+      -1,
+      2,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "HELIX_CHOPPER",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "MAGMA_FISH_GOLD",
         "count": 10
       },
@@ -38304,6 +39044,122 @@
     ],
     "result": {
       "id": "HONED_SHARK_TOOTH_NECKLACE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HONEYCOMB",
+        "count": 8
+      },
+      {
+        "id": "HONEYCOMB_RING",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      1,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "HONEYCOMB_ARTIFACT",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HELIXIS",
+        "count": 2
+      },
+      {
+        "id": "ENCHANTED_HONEYCOMB_BLOCK",
+        "count": 1
+      },
+      {
+        "id": "MANGROVE_LOCKET",
+        "count": 1
+      },
+      {
+        "id": "VIAL_OF_SPRING_WATER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      0,
+      1,
+      2,
+      1,
+      -1,
+      3,
+      -1
+    ],
+    "result": {
+      "id": "HONEYCOMB_NECKLACE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HONEYCOMB",
+        "count": 1
+      },
+      {
+        "id": "HONEYCOMB_TALISMAN",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      1,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "HONEYCOMB_RING",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HONEYCOMB",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      -1,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "HONEYCOMB_TALISMAN",
       "count": 1
     }
   },
@@ -42437,11 +43293,15 @@
       },
       {
         "id": "FIGSTONE",
-        "count": 100
+        "count": 64
       },
       {
         "id": "MANGCORE",
-        "count": 100
+        "count": 64
+      },
+      {
+        "id": "HELIXIS",
+        "count": 64
       }
     ],
     "result": {
@@ -43264,6 +44124,34 @@
     ],
     "result": {
       "id": "JUMBO_BACKPACK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HONEYCOMB",
+        "count": 16
+      },
+      {
+        "id": "HELIXIS",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "JUMBO_POT_OF_HONEYCOMB",
       "count": 1
     }
   },
@@ -45559,6 +46447,42 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "VEILSHROOM_BUNCH",
+        "count": 1
+      },
+      {
+        "id": "BOTTLED_MISCHIEF",
+        "count": 8
+      },
+      {
+        "id": "HELIXIS",
+        "count": 1
+      },
+      {
+        "id": "MEDIUM_POCKET_BLACK_HOLE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      2,
+      2,
+      2
+    ],
+    "result": {
+      "id": "LARGE_POCKET_BLACK_HOLE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_FIG_LOG",
         "count": 32
       },
@@ -47647,6 +48571,94 @@
     ],
     "result": {
       "id": "GIANT_SEAL_PLUSHIE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "VINESAP",
+        "count": 32
+      },
+      {
+        "id": "HELIXIS",
+        "count": 1
+      },
+      {
+        "id": "LUMBERJACK_RING",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "LUMBERJACK_ARTIFACT",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "TENDER_WOOD",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 16
+      },
+      {
+        "id": "LUMBERJACK_TALISMAN",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "LUMBERJACK_RING",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "LUMBERJACK_TALISMAN",
       "count": 1
     }
   },
@@ -50441,6 +51453,116 @@
     }
   },
   {
+    "type": "shop",
+    "npc": "MAXIM_NPC",
+    "inputs": [
+      {
+        "id": "FIGSTONE",
+        "count": 1
+      },
+      {
+        "id": "MANGCORE",
+        "count": 1
+      },
+      {
+        "id": "HELIXIS",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "SWEEP_BOOSTER_UNCOMMON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MAXIM_NPC",
+    "inputs": [
+      {
+        "id": "FIGSTONE",
+        "count": 1
+      },
+      {
+        "id": "MANGCORE",
+        "count": 1
+      },
+      {
+        "id": "HELIXIS",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "FIGHTING_BOOSTER_UNCOMMON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MAXIM_NPC",
+    "inputs": [
+      {
+        "id": "FIGSTONE",
+        "count": 1
+      },
+      {
+        "id": "MANGCORE",
+        "count": 1
+      },
+      {
+        "id": "HELIXIS",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "FORAGING_FORTUNE_BOOSTER_UNCOMMON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MAXIM_NPC",
+    "inputs": [
+      {
+        "id": "FIGSTONE",
+        "count": 1
+      },
+      {
+        "id": "MANGCORE",
+        "count": 1
+      },
+      {
+        "id": "HELIXIS",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "FORAGING_WISDOM_BOOSTER_UNCOMMON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MAXIM_NPC",
+    "inputs": [
+      {
+        "id": "FIGSTONE",
+        "count": 1
+      },
+      {
+        "id": "MANGCORE",
+        "count": 1
+      },
+      {
+        "id": "HELIXIS",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "HUNTING_WISDOM_BOOSTER_UNCOMMON",
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {
@@ -52202,6 +53324,230 @@
     ],
     "result": {
       "id": "MINNOW_BAIT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 25
+      }
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "HELIX_SHARPENING",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 15
+      }
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "FOREST_FELLING",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 20
+      }
+    ],
+    "result": {
+      "type": "pet",
+      "pet": "SLOTH",
+      "tier": "COMMON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 30
+      }
+    ],
+    "result": {
+      "id": "SMALL_SLOTH_CLAW",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 40
+      }
+    ],
+    "result": {
+      "id": "MEDIUM_SLOTH_CLAW",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 50
+      }
+    ],
+    "result": {
+      "id": "LARGE_SLOTH_CLAW",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 60
+      }
+    ],
+    "result": {
+      "id": "GIANT_SLOTH_CLAW",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 20
+      }
+    ],
+    "result": {
+      "type": "enchantment",
+      "id": "PETALFALL",
+      "level": 1,
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 30
+      }
+    ],
+    "result": {
+      "id": "TORRHUS_TALISMAN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 30
+      },
+      {
+        "id": "TORRHUS_TALISMAN",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "TORRHUS_RING",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 30
+      },
+      {
+        "id": "TORRHUS_RING",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "TORRHUS_ARTIFACT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "EXTREMELY_MILD_ADHESIVE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 125
+      }
+    ],
+    "result": {
+      "id": "RUBBER_SNORKEL",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "WINDING_IVY",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_PRIZE",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "VIAL_OF_SPRING_WATER",
       "count": 1
     }
   },
@@ -69523,6 +70869,20 @@
   },
   {
     "type": "shop",
+    "npc": "ROSEMARY_NPC",
+    "inputs": [
+      {
+        "id": "ESSENCE_FOREST",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "HUNTING_WISDOM_BOOSTER_COMMON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
     "npc": "ROSETTA_NPC",
     "inputs": [
       {
@@ -70693,6 +72053,86 @@
     ],
     "result": {
       "id": "SAND_GENERATOR_9",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "SANGER_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 250000
+      }
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "VISITOR_PLANT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "SANGER_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 250000
+      }
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "FLEXIBLE_FISHER",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "SANGER_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 500000
+      }
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "ARTHROPOD_FORTUNE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "SANGER_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 500000
+      }
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "BATTLE_TRACKER",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "SANGER_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 750000
+      }
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "SLAYER_PROGRESS",
       "count": 1
     }
   },
@@ -75572,6 +77012,98 @@
       "id": "SLIME_HAT",
       "count": 1
     }
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SLOTH",
+      "tier": "COMMON",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SLOTH",
+      "tier": "UNCOMMON",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "SMALL_SLOTH_CLAW",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 25000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SLOTH",
+      "tier": "UNCOMMON",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SLOTH",
+      "tier": "RARE",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "MEDIUM_SLOTH_CLAW",
+        "count": 1
+      }
+    ],
+    "time": 14400,
+    "coins": 100000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SLOTH",
+      "tier": "RARE",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SLOTH",
+      "tier": "EPIC",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "LARGE_SLOTH_CLAW",
+        "count": 1
+      }
+    ],
+    "time": 43200,
+    "coins": 250000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SLOTH",
+      "tier": "EPIC",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SLOTH",
+      "tier": "LEGENDARY",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "GIANT_SLOTH_CLAW",
+        "count": 1
+      }
+    ],
+    "time": 86400,
+    "coins": 1000000
   },
   {
     "type": "kat",
@@ -86792,6 +88324,126 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "HELIXIS",
+        "count": 1
+      },
+      {
+        "id": "BOTTLED_MISCHIEF",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_RUBY_VEILSHROOM",
+        "count": 8
+      },
+      {
+        "id": "MANGROVE_VINE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      2,
+      2,
+      2
+    ],
+    "result": {
+      "id": "TORRHUS_BELT",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_ENDER_PEARL",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "TORRHUS_CANYON_PORTAL",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HELIX_LOG",
+        "count": 64
+      },
+      {
+        "id": "ENCHANTED_ENDER_PEARL",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "TORRHUS_CANYON_TRAVEL_SCROLL",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "RUBY_VEILSHROOM",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_ENDER_PEARL",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "TORRHUS_SPRINGS_TRAVEL_SCROLL",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_SULPHUR",
         "count": 10
       },
@@ -89201,6 +90853,66 @@
       "type": "enchantment",
       "id": "SYPHON",
       "level": 5,
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HELIXIS",
+        "count": 2
+      },
+      {
+        "id": "VEILSHROOM_BUNCH",
+        "count": 1
+      },
+      {
+        "id": "MANGROVE_GRIPPERS",
+        "count": 1
+      },
+      {
+        "id": "VIAL_OF_SPRING_WATER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      0,
+      1,
+      2,
+      1,
+      -1,
+      3,
+      -1
+    ],
+    "result": {
+      "id": "VEILSHROOM_BRACELET",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_RUBY_VEILSHROOM",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "VEILSHROOM_BUNCH",
       "count": 1
     }
   },

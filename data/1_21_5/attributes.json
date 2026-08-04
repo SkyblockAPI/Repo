@@ -21,6 +21,46 @@
     "max": 48
   },
   {
+    "id": "AIRBORNE_RESISTANCE",
+    "lore": [
+      "§7Grants §a+4  Defense §7against ",
+      "§7Airborne mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "C58",
+    "shard_name": "Blue Jay Shard",
+    "shard_id": "SHARD_BLUE_JAY",
+    "name": "Airborne Resistance",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTk4NzcxMywKICAicHJvZmlsZUlkIiA6ICI0YTQ1ZmY3NDM2Njk0YTNiYTc3OTdhYTgyN2IwNDM1NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YThjNDA1Y2ExN2Y4YTk2ZDdhMDg4MTRmMDJmMGE3YzcyZGNiMGUzZjY2MDVmYmJjZDkwZTU2Y2MxYzI4NjUwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "COMMON",
+    "max": 96
+  },
+  {
+    "id": "AIRBORNE_RULER",
+    "lore": [
+      "§7Grants §a+3% §7more §c Damage §7against",
+      "§7 Airborne mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§a§lUNCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "U46",
+    "shard_name": "Bluebird Shard",
+    "shard_id": "SHARD_BLUEBIRD",
+    "name": "Airborne Ruler",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjgzMjk2OTE2OSwKICAicHJvZmlsZUlkIiA6ICIwNDg0N2ZjNWM5YjY0NTQ1YjI1ZWJkYmJiNzdjNjg2NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYXFsdWEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmJkYjI3YjM1YTVlYWI1MjEzNGExYTMzN2VmNTE4Njc2NDE1YjllZDg0MDE4MzE3NWQwNTliYzE1N2JlYTcyYiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
     "id": "ALMIGHTY",
     "lore": [
       "§7Your \"Unlimited\" Attributes are §a+5%",
@@ -35,7 +75,7 @@
     "attribute_id": "L42",
     "shard_name": "Molthorn Shard",
     "shard_id": "SHARD_MOLTHORN",
-    "name": "Almighty",
+    "name": "Almighty Echo",
     "item": "minecraft:player_head",
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyOTcwOTQzMjI1NCwKICAicHJvZmlsZUlkIiA6ICI1NjQ4ZTA1Njg4NWU0NGQyYTVhYTBkYmVkMjZhZmFlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaX2ZseSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ZWExODEyOGRkZmY4MDc4MTUwNWEwYjUwNWQzYTliZGFlNWI3OTYwMzJiMWFiY2VmNTQyOWE1NWVjNjM4ZmI3IgogICAgfQogIH0KfQ==",
     "rarity": "LEGENDARY",
@@ -44,7 +84,7 @@
   {
     "id": "ANIMAL_EXPERTISE",
     "lore": [
-      "§7Grants §6+10 ☘ Foraging Fortune§7.",
+      "§7Grants §6+10  Foraging Fortune§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -62,10 +102,113 @@
     "max": 48
   },
   {
+    "id": "ANIMAL_FORTUNE",
+    "lore": [
+      "§7Grants §b+0.5  Magic Find §7against §a",
+      "§aAnimal §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE FOREST SHARD"
+    ],
+    "attribute_id": "R46",
+    "shard_name": "Wild Hog Shard",
+    "shard_id": "SHARD_WILD_HOG",
+    "name": "Animal Fortune",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjYyMzkxMCwKICAicHJvZmlsZUlkIiA6ICJlOThhZTBlMTI5MDg0ZDA5OTk0MTg4N2Q2YTk0ZTI2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXh5SGF1c2VNYXN0ZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTExM2FkNjJiODJmNzg4MzZiYTczN2YzYTBmYWM1MGIzNDUzNDk3YjJkOWQ1ZDA5Y2I0NjVkMzBjMmM3NzQxOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
+    "id": "ANIMAL_RESISTANCE",
+    "lore": [
+      "§7Grants §a+4  Defense §7against §a",
+      "§aAnimal §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON COMBAT SHARD"
+    ],
+    "attribute_id": "C6",
+    "shard_name": "Howling Spirit Shard",
+    "shard_id": "SHARD_HOWLING_SPIRIT",
+    "name": "Animal Resistance",
+    "item": "minecraft:player_head",
+    "texture": "eyJ0aW1lc3RhbXAiOjE1ODUzMjA2MTMwOTcsInByb2ZpbGVJZCI6IjRkNzA0ODZmNTA5MjRkMzM4NmJiZmM5YzEyYmFiNGFlIiwicHJvZmlsZU5hbWUiOiJzaXJGYWJpb3pzY2hlIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNGNiN2E2YmY2YzMyYzQ5ZjI1ODkxNDdlNmYwZjg4OGU5ZTM1ODc1ZGQxZWEyYThhZjM3OWNhNzEwNTg5ZTZiIn19fQ==",
+    "rarity": "COMMON",
+    "max": 96
+  },
+  {
+    "id": "ANIMAL_RULER",
+    "lore": [
+      "§7Grants §a+3% §7more §c Damage §7against",
+      "§a Animal §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON WATER SHARD"
+    ],
+    "attribute_id": "U71",
+    "shard_name": "Sprawl Shard",
+    "shard_id": "SHARD_SPRAWL",
+    "name": "Animal Ruler",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjYyNzI0NywKICAicHJvZmlsZUlkIiA6ICI4ODYyYjU4ZWI4YjE0MTg5OGY3MWE0YjI2MDA3ZWVkNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHYWJyaWV3RiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82YmJlNmE3OGI4YjliMWJlZTQ0NThmYWU2MzNkZWNhN2RjOWRhMzE1ODliOTg5MDNjOWU4NzFlZmNiNDE2YWVhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "AQUATIC_FORTUNE",
+    "lore": [
+      "§7Grants §b+0.5  Magic Find §7against §9",
+      "§9Aquatic §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE WATER SHARD"
+    ],
+    "attribute_id": "R89",
+    "shard_name": "Giant Water Bug Shard",
+    "shard_id": "SHARD_GIANT_WATER_BUG",
+    "name": "Aquatic Fortune",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNjQ1OTQ0MCwKICAicHJvZmlsZUlkIiA6ICI0OThjYTc2ZGYwODM0NzhmOGY0NjdjOGY1OTQwMjk1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHdWx0cm8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTEwNDRjODAzOTI0N2IxNDIxMDgxYmM1ZjBkZDE1Y2M1Y2NhNjZmYzI1NWNiY2IxOWQyZjI1N2U1OWU5MzgwYSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
+    "id": "AQUATIC_RESISTANCE",
+    "lore": [
+      "§7Grants §a+4  Defense §7against §9",
+      "§9Aquatic §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON WATER SHARD"
+    ],
+    "attribute_id": "C8",
+    "shard_name": "Dumpster Diver Shard",
+    "shard_id": "SHARD_DUMPSTER_DIVER",
+    "name": "Aquatic Resistance",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc0MDkxNjY1NzY2MiwKICAicHJvZmlsZUlkIiA6ICI0ZThjZjYxNzVhMzg0MmMxYjhkZjcyMmUxODdjZGY1ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdGl0ZV9MaWNvcm5lXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNWM1ZWI1ZWUwNzJjMDY1ODA5ODZkMTJhMDI5ZTI4MDEwYzEyOTA4NzU1MzQ4MTBjNTMxNDBiYzc2ZGFiZmViIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "COMMON",
+    "max": 96
+  },
+  {
     "id": "ARACHNO",
     "lore": [
-      "§7Grants §a+3% §7more §c❁ Damage §7against §4Ж",
-      "§4Arthropod §7mobs.",
+      "§7Grants §a+3% §7more §c Damage §7against",
+      "§4 Arthropod §7mobs.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -84,7 +227,7 @@
   {
     "id": "ARACHNO_RESISTANCE",
     "lore": [
-      "§7Grants §a+4 ❈ Defense §7against §4Ж",
+      "§7Grants §a+4  Defense §7against §4",
       "§4Arthropod §7mobs.",
       "",
       "§7You can Syphon this shard from",
@@ -102,6 +245,89 @@
     "max": 96
   },
   {
+    "id": "ARCANE_FORTUNE",
+    "lore": [
+      "§7Grants §b+0.5  Magic Find §7on §5",
+      "§5Arcane §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE FOREST SHARD"
+    ],
+    "attribute_id": "R79",
+    "shard_name": "Hideonwall Shard",
+    "shard_id": "SHARD_HIDEONWALL",
+    "name": "Arcane Fortune",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjgzMjk3MDI4NiwKICAicHJvZmlsZUlkIiA6ICIxMTM0OTAxMTU3ZTE0Yzg0OTE1YTNjMGY3M2RmYzM0NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJab2xlZWV5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY4MmY2NTBmY2YxNjU3YjU1MTUyMTRiMDk3MzE0NGVmOTgwOWM4OWJjNjhmNTRhNzZiOWEyZjg5MzFmMGYxNzYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
+    "id": "ARCANE_RESISTANCE",
+    "lore": [
+      "§7Grants §a+4  Defense §7against §5",
+      "§5Arcane §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON WATER SHARD"
+    ],
+    "attribute_id": "C47",
+    "shard_name": "Brineling Shard",
+    "shard_id": "SHARD_BRINELING",
+    "name": "Arcane Resistance",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjkyOTIyOCwKICAicHJvZmlsZUlkIiA6ICI0YzZhZTVkNzc0ZDE0MjBkYmJiNThjNDMzZGM3NjNlMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJKdXN0VHJhbnNHaXJsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE4ZGRmNDVmMmExNmU2NjJjNjY3NTQxNDIyY2JiZDk0NDM5OGIxYTkwYzUwMGIwMzMwOGIxYzk5YzEwMDAzZDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "COMMON",
+    "max": 96
+  },
+  {
+    "id": "ARCANE_RULER",
+    "lore": [
+      "§7Grants §a+3% §7more §c Damage §7against",
+      "§5 Arcane §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON COMBAT SHARD"
+    ],
+    "attribute_id": "U48",
+    "shard_name": "Duplico Shard",
+    "shard_id": "SHARD_DUPLICO",
+    "name": "Arcane Ruler",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA1MjM5NiwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82OTdiYjk0ZDUxMWY0MTJmYjY4M2Q1YzczOTI0ZGQ3YzlkYzhkZmM2NGI0MzlmNTA0NjZmNWExMGM5YWVkMzkzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "ARTHROPOD_FORTUNE",
+    "lore": [
+      "§7Grants §b+0.5  Magic Find §7against §4",
+      "§4Arthropod §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE COMBAT SHARD"
+    ],
+    "attribute_id": "R87",
+    "shard_name": "Black Widow Shard",
+    "shard_id": "SHARD_BLACK_WIDOW",
+    "name": "Arthropod Fortune",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNjQ2MTcwOCwKICAicHJvZmlsZUlkIiA6ICI0ZmNlNWJhYjJmMjI0MTdjYTk1YWVlYzA4OTRhMTY3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWYWF0d2FzdGFibGV0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JhMDZiMGY0OTExZGNlYTEzN2ZiOGI0ZTRkYTJlMmFjMThlMzlhZTdiNzQ2NWMyYWNiNGQ2MDhjYjY0ODAzNDciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
     "id": "ATOMIZED_CRYSTALS",
     "lore": [
       "§7Gain §a+1% §7extra §dGemstone Powder§7.",
@@ -110,7 +336,7 @@
       "§7your §aHunting Box§7.",
       "",
       "§4❣ §cRequires §aHunting Skill 10§c.",
-      "§9§lRARE COMBAT SHARD"
+      "§9§lRARE FOREST SHARD"
     ],
     "attribute_id": "R31",
     "shard_name": "Thyst Shard",
@@ -162,6 +388,26 @@
     "max": 48
   },
   {
+    "id": "ATOMIZED_WHISPERS",
+    "lore": [
+      "§7Gain §a+1% §7extra §3Whispers§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE FOREST SHARD"
+    ],
+    "attribute_id": "R88",
+    "shard_name": "Pangolin Shard",
+    "shard_id": "SHARD_PANGOLIN",
+    "name": "Atomized Whispers",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MjE3OSwKICAicHJvZmlsZUlkIiA6ICI1ZTI1YzI0ZmIxMGI0MTlmOWIzYTQzMWIyOTYzYjQ2YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2NHIxbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MzgwYzEwMTVhMTlhNGI2ZjJmNDVjMmJjNzhlODc4NzUyZWRhMmZjMjYzYTY4ZGEzOTg3NmFmZGQwYjA0OWRkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
     "id": "ATTACK_SPEED",
     "lore": [
       "§7Grants §e+1  Attack Speed§7.",
@@ -172,7 +418,7 @@
       "§4❣ §cRequires §aHunting Skill 15§c.",
       "§5§lEPIC COMBAT SHARD"
     ],
-    "attribute_id": "E29",
+    "attribute_id": "E48",
     "shard_name": "Inferno Demonlord Shard",
     "shard_id": "SHARD_BURNINGSOUL",
     "name": "Attack Speed",
@@ -180,6 +426,69 @@
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTczMDMyMTMyNTgxNiwKICAicHJvZmlsZUlkIiA6ICJhZWNkODIxZTQyYzE0ZDJlOThmNTA1OTg1MWI5OWMzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb2RyaVgyMDc1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE4MDQ2ZDM4YTk3YzkxZjU5OTQ5ZWE3NDJlZmQ3NDgyN2NjZWRlZmU5ODUyODU1MmNkMzI3YjRiNjFjMzliNWYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
     "rarity": "EPIC",
     "max": 32
+  },
+  {
+    "id": "AXE_COOLDOWN",
+    "lore": [
+      "§7Reduces the cooldown of throwing",
+      "§7your §2Axe §7by §a+1%§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE FOREST SHARD"
+    ],
+    "attribute_id": "R97",
+    "shard_name": "Drybark Shard",
+    "shard_id": "SHARD_DRYBARK",
+    "name": "Axe Cooldown",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjAwNDU3OSwKICAicHJvZmlsZUlkIiA6ICI1MTAwZGZmZDI0NDI0M2I0OGQxMmVkZTVkMjgxMzk2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGVjdHJvbmljU2V4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZiYWQ2OTJmYWY2MDQ1MDllOGNlMzQ2YmU5Nzk4MTYyYzEzNjk2ZGJiZTAzZWZmN2M2ZjQ0MmIyOWQxNGM3NzYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
+    "id": "BARTENDER_DISCOUNT",
+    "lore": [
+      "§7Reduces the cost of items in the",
+      "§7Bartender's Shop by §a+1%§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "U64",
+    "shard_name": "Bloodbat Shard",
+    "shard_id": "SHARD_BLOODBAT",
+    "name": "Bartender Discount",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA0OTEzNiwKICAicHJvZmlsZUlkIiA6ICI3YmFiY2ExNGU2MDI0MTJlYTM3YjU5NjU1MGZkOWRiYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWthX05vZWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODhkOWU5OGVkYTZlMjA4N2JlNmEzNjhhODc1NGU1MDUyNjg4Zjc3MDI2OGUwODNmYjQ3MDY2ZDNmZjU1MTljNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "BATTLE_ARACHNID",
+    "lore": [
+      "§7Your Spider Pet and Tarantula Pet",
+      "§7gain §9+2  Crit Damage§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON COMBAT SHARD"
+    ],
+    "attribute_id": "U45",
+    "shard_name": "Areita Shard",
+    "shard_id": "SHARD_AREITA",
+    "name": "Battle Arachnid",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY4NzM1MzMyOSwKICAicHJvZmlsZUlkIiA6ICIwZWQ2MDFlMDhjZTM0YjRkYWUxZmI4MDljZmEwNTM5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZWVkTW9yZUFjY291bnRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MzOGNjMTBjZTJmMTE4NWYzZDIxZWIxZjAxMDZmZWZhYzUwZGQ4MGJlMDk2N2Y5MzRhZDcxYTEwN2UwNGNiZjQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "UNCOMMON",
+    "max": 64
   },
   {
     "id": "BATTLE_EXPERIENCE",
@@ -204,7 +513,7 @@
   {
     "id": "BATTLE_FROG",
     "lore": [
-      "§7Your Frog Pet gains §c+3 ❁ Strength§7.",
+      "§7Your Frog Pet gains §c+3  Strength§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -222,9 +531,30 @@
     "max": 64
   },
   {
+    "id": "BATTLE_TRACKER",
+    "lore": [
+      "§7Grants §d+0.5  Tracking§7 while on",
+      "§cCombat Islands§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE FOREST SHARD"
+    ],
+    "attribute_id": "R40",
+    "shard_name": "Badger Shard",
+    "shard_id": "SHARD_BADGER",
+    "name": "Battle Tracker",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNjQ2MTA3MSwKICAicHJvZmlsZUlkIiA6ICJmZDJlZDMzMzI0Mjk0ZThmOWVlZGNiN2RhMWJiNzlkZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkcmFtYWdnIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M5NDIxMTc1Y2IyZDZmOTczMWNjOTlkNDhjMjc1ZWViODUzYzRmYjMyYjU3OTQyMGExZmFiMjJmYmIwZjA1ZTAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
     "id": "BAYOU_BITER",
     "lore": [
-      "§7Grants §9+0.5 ⚓ Double Hook Chance",
+      "§7Grants §9+0.5  Double Hook Chance",
       "§7while on §bFishing Islands§7.",
       "",
       "§7You can Syphon this shard from",
@@ -242,16 +572,38 @@
     "max": 24
   },
   {
-    "id": "BEACON_ZEALOT",
+    "id": "BAYOU_TREASURE",
     "lore": [
-      "§7The effects of §2Galatea's §7beacons",
-      "§7are §a10% §7stronger on you. Gain a §a0.1%",
-      "§7chance to find §6Signal Enhancers §7in",
-      "§2Tree Gifts§7.",
+      "§7Grants §6+0.1  Treasure Chance",
+      "§7while in the §2Backwater Bayou§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
       "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON COMBAT SHARD"
+    ],
+    "attribute_id": "U69",
+    "shard_name": "Cheeky Tiki Shard",
+    "shard_id": "SHARD_CHEEKY_TIKI",
+    "name": "Bayou Treasure",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDMzNjY4MTU3NCwKICAicHJvZmlsZUlkIiA6ICIxMzEzZGFmMDc2OGQ0YmQ5Yjc1ODJkMGI1NWUwZGQxNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMZW50aWNjaGllIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JiMTllNWI3MjE2N2RiNTE3ZmY4YjllMmRkMDczNTk5NjY0MWJkYjZiNjI2N2E3NThhZDI4NjQwMjIwMjNjYjciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "BEACON_ZEALOT",
+    "lore": [
+      "§7The effects of §2Galatea's §7beacons",
+      "§7are §a+10% §7stronger on you. Gain a",
+      "§a+0.1% §7chance to find §6Signal",
+      "§6Enhancers §7in §2Tree Gifts§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
       "§9§lRARE FOREST SHARD"
     ],
     "attribute_id": "R7",
@@ -276,7 +628,7 @@
       "§4❣ §cRequires §aHunting Skill 10§c.",
       "§9§lRARE WATER SHARD"
     ],
-    "attribute_id": "R46",
+    "attribute_id": "R47",
     "shard_name": "Bullfrog Shard",
     "shard_id": "SHARD_BULLFROG",
     "name": "Berry Enjoyer",
@@ -294,7 +646,7 @@
       "§7your §aHunting Box§7.",
       "",
       "§4❣ §cRequires §aHunting Skill 15§c.",
-      "§5§lEPIC WATER SHARD"
+      "§5§lEPIC FOREST SHARD"
     ],
     "attribute_id": "E7",
     "shard_name": "Fenlord Shard",
@@ -330,7 +682,7 @@
   {
     "id": "BIG_GAME_HUNTER",
     "lore": [
-      "§7Grants §d+0.5 ❃ Tracking §7on §eGriffin",
+      "§7Grants §d+0.5  Tracking §7on §eGriffin",
       "§eBurrows§7.",
       "",
       "§7You can Syphon this shard from",
@@ -371,7 +723,7 @@
   {
     "id": "BLAZING_FORTUNE",
     "lore": [
-      "§7Grants §b+1 ✯ Magic Find §7on §c♆",
+      "§7Grants §b+1  Magic Find §7on §c",
       "§cMagmatic §7mobs.",
       "",
       "§7You can Syphon this shard from",
@@ -431,6 +783,26 @@
     "max": 48
   },
   {
+    "id": "BONUS_PEST_CHANCE",
+    "lore": [
+      "§7Grants §2+1  Bonus Pest Chance§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "U94",
+    "shard_name": "Keeled Slug Shard",
+    "shard_id": "SHARD_KEELED_SLUG",
+    "name": "Bonus Pest Chance",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjgzMjk3MjU4OCwKICAicHJvZmlsZUlkIiA6ICIyM2RjZjc3NWQ5YzQ0MGE1ODc3MjE4ZjU3NzNlMTUzNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZWx1c2lvblNrZXRjaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMTg2YmZhZDc3ZmQ4MzA2ZDI5MzdlZjQ0ZTkyYmQ2YzQzM2NkY2M2ZDdjNzVlZGE4NWM2MjFkNmQ5NGJmYWFmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
     "id": "BOOK_WISDOM",
     "lore": [
       "§7Grants §3+0.5 ☯ Enchanting Wisdom§7.",
@@ -449,6 +821,27 @@
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyNTM3ODMxMTMxNCwKICAicHJvZmlsZUlkIiA6ICIyYjcyZWYyYWUzMmQ0Zjc1OGEyMThlMDI4MTViYmNjZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2b2xrb2RhZl82MyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YjcyNzNhYzc1OGNkZGY3NjE1MTI1OTBhMTFjZGZmNDVjNWNjNDM3ZDk0NWI5YTFiYjI0MDgwZDkzMmVhYjE5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
     "rarity": "LEGENDARY",
     "max": 24
+  },
+  {
+    "id": "BOOT_FISHER",
+    "lore": [
+      "§2Junk§7 catches are §a+1%§7 more likely to",
+      "§7be §d§lOUTSTANDING§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE WATER SHARD"
+    ],
+    "attribute_id": "R65",
+    "shard_name": "Maggot Shard",
+    "shard_id": "SHARD_MAGGOT",
+    "name": "Boot Fisher",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY4NzM3MTQwOCwKICAicHJvZmlsZUlkIiA6ICIzODY2ZTk1MmIxZWE0M2E4OGE3NGI1NzAxZDVjYTAwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGYWtlTWFybG93IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I0M2M0M2EwNzIwOWI1YzM0MmM0MTY2ZTViNjYwYTQxN2Y3ODhhMDZmNmQ3Y2Y1NDhjMDk4ZjI2NjQxZmI4OTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "RARE",
+    "max": 48
   },
   {
     "id": "BREEZE",
@@ -472,6 +865,27 @@
     "max": 48
   },
   {
+    "id": "BUCKET_GREED",
+    "lore": [
+      "§7Your Chums give §a+10%§7 extra §6Coins",
+      "§7when deposited into any bucket.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON WATER SHARD"
+    ],
+    "attribute_id": "U56",
+    "shard_name": "Sepialot Shard",
+    "shard_id": "SHARD_SEPIALOT",
+    "name": "Bucket Greed",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMTgyMjg4ODg3OSwKICAicHJvZmlsZUlkIiA6ICJjMzI3NDg4ZmRlOTg0MzMyYjljMzNjNzRkN2IyNWNkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBTVlfVXdVMTQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzZhZTFkOWZlN2I2YWM1MGVhNDY1NDFmYTAxZDZmZjc1YTIzNmYyYTMzN2Q4NDU2NWU5MTg3OGYyZTc5ZmVkZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
     "id": "BUCKET_LOVER",
     "lore": [
       "§7You have a §a+5% §7chance to gain extra",
@@ -492,6 +906,68 @@
     "max": 96
   },
   {
+    "id": "BUCKLE_FISHER",
+    "lore": [
+      "§2Junk§7 catches are §a+1%§7 more likely to",
+      "§7be §6§lGREAT§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "U49",
+    "shard_name": "Litterbug Shard",
+    "shard_id": "SHARD_LITTERBUG",
+    "name": "Buckle Fisher",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjgzMjk3NDYwNywKICAicHJvZmlsZUlkIiA6ICJjODVhZTlmOWJkNTU0YzFmYjk1ZTg3ZDI2Zjg2MGFmNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdGV2ZW4xNzUzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q4NzhjNTc5NzcxYjgwMjQ3MDMwYzBmZWExMjIxMWYzZTAwNmEyZDllNjVkNGVkODk2YmE2ZTVhMWVkOTYxZGEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "BUILDER_DISCOUNT",
+    "lore": [
+      "§7Reduces the cost of items in the",
+      "§6Builder's Shop§7 by §a+1%§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "U61",
+    "shard_name": "Woodchucker Shard",
+    "shard_id": "SHARD_WOODCHUCKER",
+    "name": "Builder Discount",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA3MDAyNSwKICAicHJvZmlsZUlkIiA6ICJlODE1MGY1MjlmZGU0YzdkYjI3OTAyZjJjNmU3NTc5ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcmFkQm90XzIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTJhMmI0Njc0YzQ3MzVhY2VlYWY1NmJjMWM4MzIzMDZjY2I3ZDU4YzBhM2Q2ZDIzYTA5NTIxY2NhNGY2NzhmYyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "CATACOMBS_EXPLORER",
+    "lore": [
+      "§7Grants §a+1% §7more §cCatacombs XP§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 15§c.",
+      "§5§lEPIC COMBAT SHARD"
+    ],
+    "attribute_id": "E51",
+    "shard_name": "Bonzo Shard",
+    "shard_id": "SHARD_BONZO",
+    "name": "Catacombs Explorer",
+    "item": "minecraft:player_head",
+    "texture": "eyJ0aW1lc3RhbXAiOjE1NzUwNjcxNjI5OTgsInByb2ZpbGVJZCI6IjIzZjFhNTlmNDY5YjQzZGRiZGI1MzdiZmVjMTA0NzFmIiwicHJvZmlsZU5hbWUiOiIyODA3Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MWU3OWY3ZTYyOGYyMWY0Mjc2MTBjYzZjZWQwZmYxNTNlMjE4ODBkNjFjYmFjNjczYmY4NjJiMWQ0ZTQ0MjZiIn19fQ==",
+    "rarity": "EPIC",
+    "max": 32
+  },
+  {
     "id": "CATACOMBS_GRADUATE",
     "lore": [
       "§7Gain §a+2% §7more §cDungeons §7class",
@@ -500,17 +976,17 @@
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
       "",
-      "§4❣ §cRequires §aHunting Skill 20§c.",
-      "§6§lLEGENDARY COMBAT SHARD"
+      "§4❣ §cRequires §aHunting Skill 15§c.",
+      "§5§lEPIC COMBAT SHARD"
     ],
-    "attribute_id": "L51",
+    "attribute_id": "E54",
     "shard_name": "Scarf Shard",
     "shard_id": "SHARD_SCARF",
     "name": "Catacombs Graduate",
     "item": "minecraft:player_head",
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTU4OTc5MzA2ODgzOSwKICAicHJvZmlsZUlkIiA6ICIyYzEwNjRmY2Q5MTc0MjgyODRlM2JmN2ZhYTdlM2UxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYWVtZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ZGU3YmJiZGYyMmJmZTE3OTgwZDRlMjA2ODdlMzg2ZjExZDU5ZWUxZGI2ZjhiNDc2MjM5MWI3OWE1YWM1MzJkIgogICAgfQogIH0KfQ==",
-    "rarity": "LEGENDARY",
-    "max": 24
+    "rarity": "EPIC",
+    "max": 32
   },
   {
     "id": "CATACOMB_BOX",
@@ -530,6 +1006,27 @@
     "name": "Catacombs Box",
     "item": "minecraft:player_head",
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMzA4MzMzMDMwNiwKICAicHJvZmlsZUlkIiA6ICI1OTgyOWY1ZGY3MmM0ZmFlOTBmOGVhYmM0MjFjMzJkYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQZXBwZXJEcmlua2VyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ0NzE2NmRmNGJiY2IxOTE0NDUyZDBkZDU5NmFmZjlhOWU5ZTVhYmMzNDYyYzg3ZTFjNzA2ZGY2MWQyN2YyYTAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
+    "id": "CAVERNOUS_TRACKER",
+    "lore": [
+      "§7Grants §d+0.5  Tracking§7 while on",
+      "§6Mining Islands§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE COMBAT SHARD"
+    ],
+    "attribute_id": "R69",
+    "shard_name": "Rockmite Shard",
+    "shard_id": "SHARD_ROCKMITE",
+    "name": "Cavernous Tracker",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjgzMjk3Nzg1MSwKICAicHJvZmlsZUlkIiA6ICI3MDYwMDk0OTgyZDc0MTczYTNjZjg1Zjc1NjQ3MGE5YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJpbmV4YWN0b3N0ZW50YXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWRiYWFiNzRkMWFjZDBhYmU5ZDA0YWJlOTkyODcyNWRlNWQ0NDk1ZmNiNjNiNjQ3MjI4Y2FmNjk0NGMyMDgwMCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
     "rarity": "RARE",
     "max": 48
   },
@@ -554,10 +1051,29 @@
     "max": 32
   },
   {
+    "id": "CAVE_FISHING",
+    "lore": [
+      "§7Grants §b+3  Fishing Speed§7 while on",
+      "§6Mining Islands§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON WATER SHARD"
+    ],
+    "attribute_id": "C41",
+    "shard_name": "Cavernfish Shard",
+    "shard_id": "SHARD_CAVERNFISH",
+    "name": "Cave Fishing",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA0OTk5OCwKICAicHJvZmlsZUlkIiA6ICIxNzNkZTMxZjIzODE0YzY1YjVmZWMyMTAyYmIxZjExNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCSVROVyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mMTFlYjUxYzQ0ZjIwYTY2NDg2NzlmZTllZjk4NDBkZWNjZTQzMjMxYTZhYTIxNjNmMGIzYTExMWIwOTdjY2M2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "COMMON",
+    "max": 96
+  },
+  {
     "id": "CHARMED",
     "lore": [
-      "§7Grants a §a+0.05% §7chance to charm the",
-      "§9Shard §7of monsters you kill.",
+      "§7Grants §b+0.05 ❣ Charm Chance§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -595,6 +1111,26 @@
     "max": 96
   },
   {
+    "id": "CHOCOLATE_SPEED",
+    "lore": [
+      "§7Increases your §6Chocolate Factory",
+      "§7speed by §a+0.25%§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "C61",
+    "shard_name": "Bunbun Shard",
+    "shard_id": "SHARD_BUNBUN",
+    "name": "Chocolate Speed",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTk4NzIyMSwKICAicHJvZmlsZUlkIiA6ICI0MmU4MDAxM2I3ZWE0Y2FkYmE1NDJhZWJmNDVhNjBkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYW1hcmlpaWlpaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MzE4N2E3NzRmNzQ2YjU5ZjE0M2JjMDVjNDY4NDUxMTdhNjk1NDAyYWI2YTkwMWNkYjY2MmJkNTNhZWM5MThmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "COMMON",
+    "max": 96
+  },
+  {
     "id": "CHOP",
     "lore": [
       "§7Grants a §a+10% §7chance to Chop §aan",
@@ -607,7 +1143,7 @@
       "§4❣ §cRequires §aHunting Skill 10§c.",
       "§9§lRARE FOREST SHARD"
     ],
-    "attribute_id": "R64",
+    "attribute_id": "R37",
     "shard_name": "Hummingbird Shard",
     "shard_id": "SHARD_HUMMINGBIRD",
     "name": "Chop",
@@ -638,9 +1174,72 @@
     "max": 24
   },
   {
+    "id": "COCOON_CHANCE",
+    "lore": [
+      "§7Increases the chance of §6The",
+      "§6Primordial §7cocooning §cSlayer Bosses",
+      "§7and §cSlayer Minibosses §7by §a+0.5%§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 20§c.",
+      "§6§lLEGENDARY COMBAT SHARD"
+    ],
+    "attribute_id": "L45",
+    "shard_name": "Primordial Shard",
+    "shard_id": "SHARD_PRIMORDIAL",
+    "name": "Cocoon Chance",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTc1MzIxMSwKICAicHJvZmlsZUlkIiA6ICI0OWIzODUyNDdhMWY0NTM3YjBmN2MwZTFmMTVjMTc2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiY2QyMDMzYzYzZWM0YmY4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVjODViYTg5ZTVhZDQ2YTliNWE5ZjVjNWUxOTJjOTU1YzVlYTMxZWE1NDIyY2M1YTRiMjdiNjQ3OTNmZTUxY2QiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "LEGENDARY",
+    "max": 24
+  },
+  {
+    "id": "COLD_RESISTANCE",
+    "lore": [
+      "§7Grants §b+0.5  Cold Resistance§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 20§c.",
+      "§6§lLEGENDARY COMBAT SHARD"
+    ],
+    "attribute_id": "L60",
+    "shard_name": "Wumpa Shard",
+    "shard_id": "SHARD_WUMPA",
+    "name": "Cold Resistance",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA3MDM1NiwKICAicHJvZmlsZUlkIiA6ICI2NGY0MGFiNzFmM2E0NGZiYjg0N2I5ZWFhOWZjNDRlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJvZGF2aWRjZXNhciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MWY5OWUwNWIyMzc1NmRjMDQ0YThiYzIyODk2NWY1OTk1ZDFlZjQ5NzUwMjI3ZDVlNDgxNjM2Y2FhYjY5M2IxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "LEGENDARY",
+    "max": 24
+  },
+  {
+    "id": "COMBAT_TRAP",
+    "lore": [
+      "§cCombat Shards §7get caught by Traps",
+      "§a+1%§7 faster.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON WATER SHARD"
+    ],
+    "attribute_id": "U65",
+    "shard_name": "Dustybit Shard",
+    "shard_id": "SHARD_DUSTYBIT",
+    "name": "Combat Trap",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMTc0MDEwODY2OCwKICAicHJvZmlsZUlkIiA6ICJkNzJlNGJjZDIyZGI0NjQ4OTUxNTc0M2UyYTRmMWFjMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJhdnZheSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85YmNiNjU0MDg2OTIxMmMwZjk2MjYxZjcxYzZmMTk5Njc1YjIyMzQ0NzM4NWEyNjU0YTExZjQxZGM1NmEzNzdlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
     "id": "COMBO",
     "lore": [
-      "§7Deal §a+0.1% §7more §c❁ Damage §7per",
+      "§7Deal §a+0.1% §7more §c Damage §7per",
       "§7Grandma Wolf pet combo. §8(Max 50",
       "§8combo)",
       "",
@@ -655,6 +1254,68 @@
     "name": "Combo",
     "item": "minecraft:player_head",
     "texture": "eyJ0aW1lc3RhbXAiOjE1MDkyODc2NzY4MDIsInByb2ZpbGVJZCI6ImMyMWYwNjliMTM3YzQ5OTI4ZWRjZTFhMTI5OTVmZjBmIiwicHJvZmlsZU5hbWUiOiJXZXJld29sZiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDM1OTUzN2MxNTUzNGY2MWMxY2Q4ODZiYzExODc3NGVkMjIyODBlN2NkYWI2NjEzODcwMTYwYWFkNGNhMzkifX19",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "COMPOST_SPEED",
+    "lore": [
+      "§7Your §2Composter §7works §a+1% §7faster.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON WATER SHARD"
+    ],
+    "attribute_id": "U44",
+    "shard_name": "Bayou Sludge Shard",
+    "shard_id": "SHARD_BAYOU_SLUDGE",
+    "name": "Compost Speed",
+    "item": "minecraft:player_head",
+    "texture": "eyJ0aW1lc3RhbXAiOjE0OTU5ODU3MzEzOTcsInByb2ZpbGVJZCI6ImIwZDRiMjhiYzFkNzQ4ODlhZjBlODY2MWNlZTk2YWFiIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg5NWFlZWM2Yjg0MmFkYTg2NjlmODQ2ZDY1YmM0OTc2MjU5NzgyNGFiOTQ0ZjIyZjQ1YmYzYmJiOTQxYWJlNmMifX19",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "CONSTRUCT_FORTUNE",
+    "lore": [
+      "§7Grants §b+0.5  Magic Find §7against ",
+      "§7Construct mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE WATER SHARD"
+    ],
+    "attribute_id": "R62",
+    "shard_name": "Wiki Tiki Shard",
+    "shard_id": "SHARD_WIKI_TIKI",
+    "name": "Construct Fortune",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTczOTYzMjQ0MDEyOCwKICAicHJvZmlsZUlkIiA6ICJjNmViMzdjNmE4YjM0MDI3OGJjN2FmZGE3ZjMxOWJmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbFJleUNhbGFiYXphbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mM2M4MDJlNTgwYmZlZmMxOGM0YWY5NGNjZWI4Mjk2OGI1YjRhZWFiMGQ4MzIzNDZhNjMzYTc0NzNhNDFkZmFjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
+    "id": "CONSTRUCT_RULER",
+    "lore": [
+      "§7Grants §a+3% §7more §c Damage §7against",
+      "§7 Construct mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON COMBAT SHARD"
+    ],
+    "attribute_id": "U75",
+    "shard_name": "Shrieky Tiki Shard",
+    "shard_id": "SHARD_SHRIEKY_TIKI",
+    "name": "Construct Ruler",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDMzNjgzMDI4OSwKICAicHJvZmlsZUlkIiA6ICI2OTU3YjQyOTZiOTI0NGJkOGQzNWJiZGU4M2JiZDI3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjb2xpblBBUEEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjYyYmVmOGNhNThkODM3NjZjN2UyNmY5ZmI0ZmUwNmMxMWI5MzU0MmE5YzEwZjM2ZjQ2MGEzYjQyNzc0ODIyMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
     "rarity": "UNCOMMON",
     "max": 64
   },
@@ -680,6 +1341,26 @@
     "max": 48
   },
   {
+    "id": "CRIMSON_ESSENCE",
+    "lore": [
+      "§7Gain §a+1% §7more §cCrimson Essence§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE WATER SHARD"
+    ],
+    "attribute_id": "R26",
+    "shard_name": "Lava Leech Shard",
+    "shard_id": "SHARD_LAVA_LEECH",
+    "name": "Essence of Crimson",
+    "item": "minecraft:player_head",
+    "texture": "eyJ0aW1lc3RhbXAiOjE1ODQzODU5MzM1MTIsInByb2ZpbGVJZCI6IjRkNzA0ODZmNTA5MjRkMzM4NmJiZmM5YzEyYmFiNGFlIiwicHJvZmlsZU5hbWUiOiJzaXJGYWJpb3pzY2hlIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xOGFlNzA0NmRhOThkY2IzM2YzZWQ0MmYxZGM0MWQwOGFjOGRmYTVkYjNhMzg2MGRlNWIxYjVjMDU2ODA0MTg3In19fQ==",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
     "id": "CRIMSON_SERENDIPITY",
     "lore": [
       "§7Increase the odds of finding a",
@@ -701,9 +1382,30 @@
     "max": 48
   },
   {
+    "id": "CRITTER_FORTUNE",
+    "lore": [
+      "§7Grants §b+0.5  Magic Find §7against §a",
+      "§aCritter §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE FOREST SHARD"
+    ],
+    "attribute_id": "R55",
+    "shard_name": "Hewver Shard",
+    "shard_id": "SHARD_HEWVER",
+    "name": "Critter Fortune",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MDU4NCwKICAicHJvZmlsZUlkIiA6ICI1OGZmZWI5NTMxNGQ0ODcwYTQwYjVjYjQyZDRlYTU5OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa2luREJuZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTNhMDM0ZTdlZDI2OWZiNGI3ZDNjZDg2NjJjZDk5N2JlODQ2MDVlMDI5YjllNzBjMTg0YjdlNTk3ZWI0MWIzNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
     "id": "CROP_BUG",
     "lore": [
-      "§7Grants §e+1 ☀ Overbloom§7 which",
+      "§7Grants §e+1  Overbloom§7 which",
       "§7increases your chances of dropping",
       "§6§lRARE CROPS§7.",
       "",
@@ -714,13 +1416,33 @@
       "§9§lRARE FOREST SHARD"
     ],
     "attribute_id": "R16",
-    "shard_name": "Cropeetle Shard",
+    "shard_name": "Beetle Shard",
     "shard_id": "SHARD_CROPEETLE",
     "name": "Crop Bug",
     "item": "minecraft:player_head",
-    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyOTY0MzE5NTI2OCwKICAicHJvZmlsZUlkIiA6ICI3MzE4MWQxZDRjYWQ0ZmU0YTcxNWNjNmUxOGNjYzVkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaZmVybjRuZGl0byIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lZTNhNDBjNGI4ZDY1ZWUzZjEzMzc2OTJiMmI0NzgzOWViYzc4MzQwMTgwYzkyOGIzNmNiYjc1MjRlYzI1MjYwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMzE3OTc4OTkzNCwKICAicHJvZmlsZUlkIiA6ICJlMjc5NjliODYyNWY0NDg1YjkyNmM5NTBhMDljMWMwMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLRVZJTktFTE9LRSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MGExZTgzNmJmMTk2OGIyZWFhNDgzNzIyN2ExOTIwNGYxNzI5NWQ4NzBlZTllNzU0YmQ2YjZkNjBkZGJlZDNjIgogICAgfQogIH0KfQ==",
     "rarity": "RARE",
     "max": 48
+  },
+  {
+    "id": "CROP_SPEED",
+    "lore": [
+      "§7Grants §a+1 §2Crop Growth§7 while in §aThe",
+      "§aGarden§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "C28",
+    "shard_name": "Locust Shard",
+    "shard_id": "SHARD_LOCUST",
+    "name": "Crop Speed",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY5NzU1NzA3NzAzNywKICAicHJvZmlsZUlkIiA6ICI0YjJlMGM1ODliZjU0ZTk1OWM1ZmJlMzg5MjQ1MzQzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJfTmVvdHJvbl8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGIyNGE0ODJhMzJkYjFlYTc4ZmI5ODA2MGIwYzJmYTRhMzczY2JkMThhNjhlZGRkZWI3NDE5NDU1YTU5Y2RhOSIKICAgIH0KICB9Cn0=",
+    "rarity": "COMMON",
+    "max": 96
   },
   {
     "id": "CRYSTAL_SERENDIPITY",
@@ -741,6 +1463,27 @@
     "name": "Crystal Serendipity",
     "item": "minecraft:player_head",
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyOTY0Mjc5OTgyOSwKICAicHJvZmlsZUlkIiA6ICI3YTVkYmRlNDk0NWU0YTE4Yjg2OWY1MGY1NTJjNjlkYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdWtraXRBUEkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmU1ZjJhMzhmYmJlMDRhZjA2ZWNjNzIyYjMzNjQ3YjZlZWQ5NGUyYjM5YmU0OTQxNDA5MTM3ODNhMDNmNDQ3NiIKICAgIH0KICB9Cn0=",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
+    "id": "CUBIC_FORTUNE",
+    "lore": [
+      "§7Grants §b+0.5  Magic Find §7against §a",
+      "§aCubic §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE FOREST SHARD"
+    ],
+    "attribute_id": "R64",
+    "shard_name": "Hivethief Shard",
+    "shard_id": "SHARD_HIVETHIEF",
+    "name": "Cubic Fortune",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MjM3NCwKICAicHJvZmlsZUlkIiA6ICJjOWZkZjFiMThhZGI0MGE3OTQwMzMyMTg3NThhZDJkMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJfc3BhY2VfODAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjBjN2FhZTIxZWY4ODA3ZjY5YTdlYzhlMjk0NWU2MmVhZTI0OTY5MmJiYmU5M2IzM2M4ZGFlMTUwMGI5Mzg1NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
     "rarity": "RARE",
     "max": 48
   },
@@ -767,7 +1510,7 @@
   {
     "id": "DECENT_KARMA",
     "lore": [
-      "§7Grants §d+2 ☘ Hunter Fortune",
+      "§7Grants §d+2  Hunting Fortune",
       "§7towards §f§lCOMMON §7Attributes.",
       "",
       "§7You can Syphon this shard from",
@@ -787,7 +1530,7 @@
   {
     "id": "DEEP_DIVING",
     "lore": [
-      "§7Grants §3+5 ⚶ Respiration§7.",
+      "§7Grants §3+1  Respiration§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -808,7 +1551,7 @@
     "id": "DEEP_TECHNIQUE",
     "lore": [
       "§7Each block you mine has a §a+1%",
-      "§7chance to grant 1 extra §5✧ Pristine",
+      "§7chance to grant 1 extra §5 Pristine",
       "§7for that block.",
       "",
       "§7You can Syphon this shard from",
@@ -827,6 +1570,26 @@
     "max": 32
   },
   {
+    "id": "DEVOURING_SPREAD",
+    "lore": [
+      "§7Grants §e+0.25  Gemstone Spread§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 15§c.",
+      "§5§lEPIC COMBAT SHARD"
+    ],
+    "attribute_id": "E45",
+    "shard_name": "Gemzie Shard",
+    "shard_id": "SHARD_GEMZIE",
+    "name": "Devouring Spread",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA1OTM1NywKICAicHJvZmlsZUlkIiA6ICJhMzExN2YyMzg3MWM0YzM5OTQ5M2I0OGMwYTliZmZlNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJhY2luNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mMmMwZmZmZWE2NTU5ZTIyZDgzNTUzNWI3YWMxYjQwNDUwNzczODg5YjJlNDg0M2Y0MmJmM2I1NzY4N2ViMDUxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "EPIC",
+    "max": 32
+  },
+  {
     "id": "DIAMOND_FROG",
     "lore": [
       "§2Trophy Frogs §7are §a+0.5% §7more likely",
@@ -835,6 +1598,7 @@
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
       "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
       "§9§lRARE WATER SHARD"
     ],
     "attribute_id": "R32",
@@ -847,29 +1611,70 @@
     "max": 48
   },
   {
+    "id": "DIURNAL_ANIMAL",
+    "lore": [
+      "§7Grants §2+1  Sweep§7 during the day.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "C55",
+    "shard_name": "Groundhog Shard",
+    "shard_id": "SHARD_GROUNDHOG",
+    "name": "Diurnal Animal",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjAwNTc3NSwKICAicHJvZmlsZUlkIiA6ICI3NzQ3ODc3M2ExZTE0NzUxODE0M2Q5ZDA5YTc1NmQ2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3aGF0YXJlZmVycmV0cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YzcxYWQxNzQyYTUxMzc4NTU5YjA1MjFlNDRkZGJkNWM3ODhjNzM0YWU1ZmJkZDU4ZDEwNDQzY2YwOTY3N2M4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "COMMON",
+    "max": 96
+  },
+  {
+    "id": "DIVINE_RABBIT_LUCK",
+    "lore": [
+      "§7Increases your chance of finding",
+      "§b§lDIVINE §7Rabbits during §dHoppity's",
+      "§dHunt §7by §a+1%§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 15§c.",
+      "§5§lEPIC FOREST SHARD"
+    ],
+    "attribute_id": "E46",
+    "shard_name": "Rabbit Godmother Shard",
+    "shard_id": "SHARD_RABBIT_GODMOTHER",
+    "name": "Divine Rabbit Luck",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNjIzMTk1MiwKICAicHJvZmlsZUlkIiA6ICJjMWU1NzlmZjc0NjI0OTkzYTI5NTdlNjNjZGU5NDY1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lU2tpbl8xNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMTg1YzExODhjNDhlNzU5NDczNWRmYjNmZmEyN2NhZTkwZjRiNjc2NDIyMjFmMGUzNmQwOTJjYThjYTllY2JmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "EPIC",
+    "max": 32
+  },
+  {
     "id": "DOMINANCE",
     "lore": [
-      "§7Gain §a+1.5% §7more §c❁ Damage §7when at",
+      "§7Gain §a+1.5% §7more §c Damage §7when at",
       "§7full health.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
       "",
-      "§6§lLEGENDARY COMBAT SHARD"
+      "§5§lEPIC COMBAT SHARD"
     ],
-    "attribute_id": "L48",
+    "attribute_id": "E57",
     "shard_name": "Thorn Shard",
     "shard_id": "SHARD_THORN",
     "name": "Dominance",
     "item": "minecraft:player_head",
     "texture": "eyJ0aW1lc3RhbXAiOjE1MDQ5OTc3NjA1NzYsInByb2ZpbGVJZCI6IjA2MzA4NWE2Nzk3ZjQ3ODViZTFhMjFjZDc1ODBmNzUyIiwicHJvZmlsZU5hbWUiOiJNSEZfR2hhc3QiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhiNmE3MjEzOGQ2OWZiYmQyZmVhM2ZhMjUxY2FiZDg3MTUyZTRmMWM5N2U1Zjk4NmJmNjg1NTcxZGIzY2MwIn19fQ==",
-    "rarity": "LEGENDARY",
-    "max": 24
+    "rarity": "EPIC",
+    "max": 32
   },
   {
     "id": "DOUBLE_HOOK",
     "lore": [
-      "§7Grants §9+0.5 ⚓ Double Hook Chance",
+      "§7Grants §9+0.5  Double Hook Chance",
       "§7while on §cCombat Islands§7.",
       "",
       "§7You can Syphon this shard from",
@@ -910,7 +1715,7 @@
     "id": "DRAGON_SHORTBOW_IMPROVEMENT",
     "lore": [
       "§7Your §5Dragon Shortbow §7gains §a+2%",
-      "§7more §c❁ Damage §7while in §dThe End§7.",
+      "§7more §c Damage §7while in §dThe End§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -949,9 +1754,30 @@
     "max": 48
   },
   {
+    "id": "DWARVEN_TRAINING",
+    "lore": [
+      "§7Gain §a+1% §7more §5Heart of the Mountain",
+      "§5Exp§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON WATER SHARD"
+    ],
+    "attribute_id": "U26",
+    "shard_name": "Treasure Hoarder Shard",
+    "shard_id": "SHARD_TREASURE_HOARDER",
+    "name": "Dwarven Training",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzYzNjQzOTcwOSwKICAicHJvZmlsZUlkIiA6ICI1ZjU5NmViY2JlOTQ0NmQxYmI0M2JlNGYzZjRiOGJlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZWlsMHNzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM3NGM2YjkwY2VlZGJhM2Q4YmIxZDFhODRkZmY0MDIxMTU5NjRlZjMzM2RlNTYzYmNkNjc5OWYzNzM4YmVkMDYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
     "id": "EARTH_ELEMENTAL",
     "lore": [
-      "§7Grants §c+2 ❤ Health§7.",
+      "§7Grants §c+2  Health§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -1011,9 +1837,30 @@
     "max": 64
   },
   {
+    "id": "ECHO_OF_BUCKETS",
+    "lore": [
+      "§7Your \"Bucket\" Attributes are §a+2%",
+      "§7stronger.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE WATER SHARD"
+    ],
+    "attribute_id": "R92",
+    "shard_name": "Goldolot Shard",
+    "shard_id": "SHARD_GOLDOLOT",
+    "name": "Echo of Buckets",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMTgyMjg2ODE0NywKICAicHJvZmlsZUlkIiA6ICI0MmIwOTMyZDUwMWI0MWQ1YTM4YjEwOTcxYTYwYmYxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBaXJib2x0MDc4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ0MjM1ZGE3YjNhMGFhY2NjZGJhM2Q4ZTEzYzYxZWNjODc0YzdhZWZhNDk0MzM5MDNiOGNmNDM3NGE5YmY1NmEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
     "id": "ECHO_OF_ECHOES",
     "lore": [
-      "§7Your Echo Attributes are §a+5%",
+      "§7Your \"Echo\" Attributes are §a+5%",
       "§7stronger.",
       "",
       "§7You can Syphon this shard from",
@@ -1041,7 +1888,7 @@
       "§7your §aHunting Box§7.",
       "",
       "§4❣ §cRequires §aHunting Skill 20§c.",
-      "§6§lLEGENDARY COMBAT SHARD"
+      "§6§lLEGENDARY WATER SHARD"
     ],
     "attribute_id": "L44",
     "shard_name": "Starborn Shard",
@@ -1158,6 +2005,27 @@
     "max": 48
   },
   {
+    "id": "ECHO_OF_TRACKING",
+    "lore": [
+      "§7Your \"Tracker\" Attributes are §a+2%",
+      "§7stronger.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 20§c.",
+      "§6§lLEGENDARY COMBAT SHARD"
+    ],
+    "attribute_id": "L21",
+    "shard_name": "Doomspiral Shard",
+    "shard_id": "SHARD_DOOMSPIRAL",
+    "name": "Echo of Tracking",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA1MTA5NywKICAicHJvZmlsZUlkIiA6ICI2NGYzZjJjNzk4YTk0YWFjOTdiNWM5Yjc2YmNhN2VlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbGF6ZV9XYXNUYWtlbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zYTFiYTZiMmI0OWYzYzEyYmFlMjIzNTEzYmU4YThlOTYwNTVlMzhlYzY4YWIxM2ZiODlkYjFiMmVmNjY0MzIxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "LEGENDARY",
+    "max": 24
+  },
+  {
     "id": "ECHO_OF_WISDOM",
     "lore": [
       "§7Your Wisdom Attributes are §a+2%",
@@ -1200,9 +2068,30 @@
     "max": 48
   },
   {
+    "id": "EGG_FINDER",
+    "lore": [
+      "§7Finds a §cHitman Egg §7every §a750s",
+      "§7during §dHoppity's Hunt§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 20§c.",
+      "§6§lLEGENDARY FOREST SHARD"
+    ],
+    "attribute_id": "L10",
+    "shard_name": "Rabbit Godfather Shard",
+    "shard_id": "SHARD_RABBIT_GODFATHER",
+    "name": "Egg Finder",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNjYwMDM2NCwKICAicHJvZmlsZUlkIiA6ICJmODY0ZjY3ZGJlN2Y0OTBlYTZlODQzMjg2M2NkZWMxOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb3lmcmllbmQ1MDY1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk4NmE4NGZiZDQxZDU3NDk1ZDc0ZWRkZTRiZWE1OTAyODI3ZDNiYWE5ZGUwYmZmOTJiYWU5Njc4OWVhODVmNTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "LEGENDARY",
+    "max": 24
+  },
+  {
     "id": "ELITE",
     "lore": [
-      "§7Grants §a+3% §7more §c❁ Damage §7against",
+      "§7Grants §a+3% §7more §c Damage §7against",
       "§abosses §7and §amini-bosses§7.",
       "",
       "§7You can Syphon this shard from",
@@ -1220,10 +2109,73 @@
     "max": 24
   },
   {
+    "id": "ELUSIVE_FORTUNE",
+    "lore": [
+      "§7Grants §b+0.5  Magic Find §7on §d",
+      "§dElusive §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE FOREST SHARD"
+    ],
+    "attribute_id": "R73",
+    "shard_name": "Hideyho Shard",
+    "shard_id": "SHARD_HIDEYHO",
+    "name": "Elusive Fortune",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjgzMjk3MDkzNywKICAicHJvZmlsZUlkIiA6ICJmZDIwMGYwMDE4OTI0NzgxODI5OWIzZjE5Yzc4Y2E3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0dXNnIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM1MDRmMWYyMzI3YTUxMTBlNjQzYmI4NjY3MDgyNTEyODE1ZmE0MzRhMjllZDM3ZjRjYTgzYmIxNmQyZGI1MzMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
+    "id": "ELUSIVE_RULER",
+    "lore": [
+      "§7Grants §a+3% §7more §c Damage §7against",
+      "§d Elusive §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "U79",
+    "shard_name": "Queen Ant Shard",
+    "shard_id": "SHARD_QUEEN_ANT",
+    "name": "Elusive Ruler",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA0NDYwNSwKICAicHJvZmlsZUlkIiA6ICI0N2U2MjJjNmE1OWU0NmNhOWU3OGNjYzE1ZDliNzhhZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbnRpbGFmTVgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzIxZmNmOTBkOTA5MGRlOGZkNzIwY2IyODE3YTRkZmRjMjI4M2U4MjhmZDQ0ZjhiZmRjN2ZmOWE4NTA1Y2MiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "ENCHANTED_FARMER",
+    "lore": [
+      "§7Grants a §a+0.001% §7chance to find an",
+      "§aEnchanted Crop §7while §6Farming§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "U103",
+    "shard_name": "Mosquito Shard",
+    "shard_id": "SHARD_MOSQUITO",
+    "name": "Enchanted Farmer",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY5Njk0NTAyOTQ2MSwKICAicHJvZmlsZUlkIiA6ICI3NTE0NDQ4MTkxZTY0NTQ2OGM5NzM5YTZlMzk1N2JlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFua3NNb2phbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTJhOWZlMDViYzY2M2VmY2QxMmU1NmEzY2NjNWVjMDM1YmY1NzdiNzg3MDg1NDhiNmY0ZmZjZjFkMzBlY2NmZSIKICAgIH0KICB9Cn0=",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
     "id": "ENDER",
     "lore": [
-      "§7Grants §a+3% §7more §c❁ Damage §7against",
-      "§5⊙ Ender §7mobs.",
+      "§7Grants §a+3% §7more §c Damage §7against",
+      "§5 Ender §7mobs.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -1231,7 +2183,7 @@
       "§a§lUNCOMMON COMBAT SHARD"
     ],
     "attribute_id": "U36",
-    "shard_name": "Bruiser Shard",
+    "shard_name": "Zealot Bruiser Shard",
     "shard_id": "SHARD_BRUISER",
     "name": "Ender Ruler",
     "item": "minecraft:player_head",
@@ -1242,7 +2194,7 @@
   {
     "id": "ENDER_RESISTANCE",
     "lore": [
-      "§7Grants §a+4 ❈ Defense §7against §5⊙",
+      "§7Grants §a+4  Defense §7against §5",
       "§5Ender §7mobs.",
       "",
       "§7You can Syphon this shard from",
@@ -1260,9 +2212,29 @@
     "max": 96
   },
   {
+    "id": "ESSENCE_OF_FOSSILS",
+    "lore": [
+      "§7Gain §a+1% §7more §6Fossil Essence§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE WATER SHARD"
+    ],
+    "attribute_id": "R86",
+    "shard_name": "Troodon Shard",
+    "shard_id": "SHARD_TROODON",
+    "name": "Essence of Fossils",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA2OTI3MywKICAicHJvZmlsZUlkIiA6ICI5OGQxYTQyNmRlMmU0NjBkYjdjNWExMmY5MGNhODg0OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLdWJpbm9TSyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81M2RlNDEzNWEzYjE5YTIxODcwMjljODZhMDAyMGU1OGM5MDdjN2JkZDRlMzdiNzY0M2YxMjBlMTZhMGFhOWFiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
     "id": "EXCELLENT_KARMA",
     "lore": [
-      "§7Grants §d+1 ☘ Hunter Fortune",
+      "§7Grants §d+1  Hunting Fortune",
       "§7towards §5§lEPIC §7Attributes.",
       "",
       "§7You can Syphon this shard from",
@@ -1302,7 +2274,7 @@
   {
     "id": "EXTREME_PRESSURE",
     "lore": [
-      "§7Grants §9+5  Pressure Resistance§7.",
+      "§7Grants §9+1  Pressure Resistance§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -1364,7 +2336,7 @@
   {
     "id": "FIG_COLLECTOR",
     "lore": [
-      "§7Grants §6+1 ☘ Fig Fortune§7 for every",
+      "§7Grants §6+1  Fig Fortune§7 for every",
       "§7digit in your Fig Log collection. §8(Max",
       "§810M collection)",
       "",
@@ -1386,7 +2358,7 @@
   {
     "id": "FIG_SHARPENING",
     "lore": [
-      "§7Grants §2+5 ∮ Sweep §7towards Fig",
+      "§7Grants §2+5  Sweep §7towards Fig",
       "§7Trees.",
       "",
       "§7You can Syphon this shard from",
@@ -1402,6 +2374,48 @@
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDcwMjkwNzE3OSwKICAicHJvZmlsZUlkIiA6ICI5MGQ1NDY0OGEzNWE0YmExYTI2Yjg1YTg4NTU4OGJlOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFdW4wbWlhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RkZDg5MzUwYzJkZTRlYjk5MDk5MjI0YjYyNmY1YWFhODFjYTdmY2VhNWIwMzg1MjA0M2IxOWQ3MmIwMWEyN2UiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
     "rarity": "COMMON",
     "max": 96
+  },
+  {
+    "id": "FILTER_UPGRADE",
+    "lore": [
+      "§7Increases the effects of your",
+      "§9Atmospheric Filter §7by §a+2%§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "U97",
+    "shard_name": "Mite Shard",
+    "shard_id": "SHARD_MITE",
+    "name": "Filter Upgrade",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY5Njg3MDQxOTcyNSwKICAicHJvZmlsZUlkIiA6ICJkYjYzNWE3MWI4N2U0MzQ5YThhYTgwOTMwOWFhODA3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbmdlbHMxNzQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmU2YmFmNjQzMWE5ZGFhMmNhNjA0ZDVhM2MyNmU5YTc2MWQ1OTUyZjA4MTcxNzRhNGZlMGI3NjQ2MTZlMjFmZiIKICAgIH0KICB9Cn0=",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "FIRST_SWEEP",
+    "lore": [
+      "§7Your first §2 Sweep §7on each §aTree §7is",
+      "§2+1% §7more effective.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE WATER SHARD"
+    ],
+    "attribute_id": "R95",
+    "shard_name": "Torrid Shard",
+    "shard_id": "SHARD_TORRID",
+    "name": "First Sweep",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjgwMjE1MCwKICAicHJvZmlsZUlkIiA6ICI2YmU4ODdiZmRmZTk0OWQ0OGViZTcyYzA3OWM3ZGEyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGcmFuY3l2b2wiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWRhMTQ1MjU0YTU5ZWZjZTU3MTg2ZTZjOTliNjRiYTBlODY4MDNhNDQ5NmNkYmU4Yzk2Y2MxM2RkYTcxYWEyNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "RARE",
+    "max": 48
   },
   {
     "id": "FISHERMAN",
@@ -1422,6 +2436,27 @@
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMTc1MTU3NTc5OCwKICAicHJvZmlsZUlkIiA6ICI4YzQwMGUyYTNiNjI0YTkzODBkYzdlZWNkMmE3NDNhNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJaemVydnluIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M2YmU0MGI3MGQ3MzljZjgyMWIwMzJkNzkwMDBiY2YxN2Y4MzNkYzRlY2M0YTMwMzBkOWFjZjY3YzkyMDI5NGUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
     "rarity": "COMMON",
     "max": 96
+  },
+  {
+    "id": "FISHERS_FORTUNE",
+    "lore": [
+      "§7Grants §b+0.5  Magic Find§7 while on",
+      "§2Fishing Islands§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 15§c.",
+      "§5§lEPIC WATER SHARD"
+    ],
+    "attribute_id": "E47",
+    "shard_name": "Giant Isopod Shard",
+    "shard_id": "SHARD_GIANT_ISOPOD",
+    "name": "Fisher's Fortune",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzYxNDI3ODk3MSwKICAicHJvZmlsZUlkIiA6ICI3Mjc2ZThmYzVkNjE0ODNjYmMwN2IxYjIzNjI3MDA4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJXYWJvV2ViaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zZmNiMjAzYjAyOWFhYzQ5NTg0MDdkYWY0MDcyYTAxYTM1MzEwNTE2MjM3M2NlN2U1NTljNjY5ZDc4MzI1YmNiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "EPIC",
+    "max": 32
   },
   {
     "id": "FISHING_EXPERIENCE",
@@ -1445,7 +2480,7 @@
   {
     "id": "FISHING_SPEED",
     "lore": [
-      "§7Grants §b+3 ☂ Fishing Speed§7.",
+      "§7Grants §b+3  Fishing Speed§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -1462,9 +2497,73 @@
     "max": 32
   },
   {
+    "id": "FLEXIBLE_FISHER",
+    "lore": [
+      "§7Increases your chance of catching",
+      "§aFlexbones §7by §a+2.5% §7while in the §cTomb",
+      "§cFloodway§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON WATER SHARD"
+    ],
+    "attribute_id": "U47",
+    "shard_name": "Osedax Shard",
+    "shard_id": "SHARD_OSEDAX",
+    "name": "Flexible Fisher",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNjczMzYyOCwKICAicHJvZmlsZUlkIiA6ICJkMTQ4NjFiM2UwZmM0Njk5OTFlMTcyNTllMzdiZjZhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJyYXhpdG9jbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MzhhOTYzYmQwNzMyMjlkODE0OGY5ZWRhZGM1Y2QxODQxYTFlMTUxZTc1OTk0ZWMwNGFmMjMxNzIyNjEwYjFjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "FLOOR_FORTUNE",
+    "lore": [
+      "§7Grants a §a+0.1% §7chance to gain",
+      "§7double loot from §6Floor Drops§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE FOREST SHARD"
+    ],
+    "attribute_id": "R70",
+    "shard_name": "Anteater Shard",
+    "shard_id": "SHARD_ANTEATER",
+    "name": "Floor Fortune",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTc1MTQxNywKICAicHJvZmlsZUlkIiA6ICI4NzA1MzkxMDBlOGQ0MzU2YjJiYjlmZGI1NjFhOGU3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsb3R1c3pmYWxsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VkZDc4MDY3MTUxNjA2NjVjNjliZTQzYmMxZGU4YTI3ZWJhYzI5MTYxMTc0Y2FkZjc1NTBiMzZmOWI2OWY2NDkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
+    "id": "FLYING_FORTUNE",
+    "lore": [
+      "§7Grants §b+0.5  Magic Find §7on ",
+      "§7Airborne mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE FOREST SHARD"
+    ],
+    "attribute_id": "R67",
+    "shard_name": "Parakeet Shard",
+    "shard_id": "SHARD_PARAKEET",
+    "name": "Flying Fortune",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjgzMjk3NTkyNCwKICAicHJvZmlsZUlkIiA6ICI5OGQxYTQyNmRlMmU0NjBkYjdjNWExMmY5MGNhODg0OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLdWJpbm9TSyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ZjM5YzNjZDk2NzcyYzRlZWQzY2NiNWRkMGZjZDFmYzk2NjRhOTJmNWIyMjI4M2FlMDVhYWFlYmFmNzdmMjU0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
     "id": "FOG_ELEMENTAL",
     "lore": [
-      "§7Grants §b+1 ✎ Intelligence§7.",
+      "§7Grants §b+1  Intelligence§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -1479,6 +2578,89 @@
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyNjUxMTIxMTY4NCwKICAicHJvZmlsZUlkIiA6ICI2NGRiNmMwNTliOTk0OTM2YTY0M2QwODEwODE0ZmJkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVTaWx2ZXJEcmVhbXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzA0NmNkZWI1YzY0N2NkMTc3Y2JjODJhNzEyNTgyMTk5MjIyZGZjNGRhYzQ5ZWY0ZjQ0ZjBiOTViMDYyYmFmMCIKICAgIH0KICB9Cn0=",
     "rarity": "COMMON",
     "max": 96
+  },
+  {
+    "id": "FORAGERS_FORTUNE",
+    "lore": [
+      "§7Grants §b+0.5  Magic Find§7 while on",
+      "§2Foraging Islands§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 15§c.",
+      "§5§lEPIC WATER SHARD"
+    ],
+    "attribute_id": "E44",
+    "shard_name": "Silkbreeze Shard",
+    "shard_id": "SHARD_SILKBREEZE",
+    "name": "Forager's Fortune",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTk4ODQ1MywKICAicHJvZmlsZUlkIiA6ICIxMTM0OTAxMTU3ZTE0Yzg0OTE1YTNjMGY3M2RmYzM0NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJab2xlZWV5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI2MzBjMzE3MWM0MDI4NTQ0ZmY5NzliYTg3ZmEwMzEwMmFhY2JjMWU5MTdhY2U5OTg0ZDhlZTUxYTliYmQ1YmEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "EPIC",
+    "max": 32
+  },
+  {
+    "id": "FORAGING_FROG",
+    "lore": [
+      "§7Your Frog Pet gains §6+1  Foraging",
+      "§6Fortune§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "U43",
+    "shard_name": "Treefrog Shard",
+    "shard_id": "SHARD_TREEFROG",
+    "name": "Foraging Frog",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjgzMzYxMTc1MywKICAicHJvZmlsZUlkIiA6ICI0MjJlMzdiNjc4ZGU0OTA2YWFiMWU5NGY0N2E5NGM0OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhOSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lZTg5NWE3NTZjNzEzODFhNDBiOTQ5MjNhY2M5YzY4Njg3YzlhNDFhMzRjOTUzMDY1NWM0ZTRiMGMyNDk0YzE5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "FORAGING_SPEED",
+    "lore": [
+      "§7Grants §f+3  Speed§7 while on",
+      "§2Foraging Islands§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "C49",
+    "shard_name": "Foxtrot Shard",
+    "shard_id": "SHARD_FOXTROT",
+    "name": "Foraging Speed",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA1Mjk3NSwKICAicHJvZmlsZUlkIiA6ICJlZDUzZGQ4MTRmOWQ0YTNjYjRlYjY1MWRjYmE3N2U2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICI0MTQxNDE0MWgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGYxYTZhZmJmNjVhODcxNzQyNWY4MDRjOTVmOWRlNTAzZDk1YjQzZGJlNDk3NDYxM2JmNDI3ODhlM2NkY2FkNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "COMMON",
+    "max": 96
+  },
+  {
+    "id": "FORAGING_TRACKER",
+    "lore": [
+      "§7Grants §d+0.5  Tracking§7 while on",
+      "§2Foraging Islands§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE FOREST SHARD"
+    ],
+    "attribute_id": "R82",
+    "shard_name": "Fluffling Shard",
+    "shard_id": "SHARD_FLUFFLING",
+    "name": "Foraging Tracker",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjgzMjk3MDQyNywKICAicHJvZmlsZUlkIiA6ICIxMGUzZmY0NDQ4NDA0MjM4OWY3ZmNjZGY5MzYwYzA0ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBSV9BZ2VudCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMGJlMjFjYTE3NDEzMzQ2ZjI2YmMwZTI2NTlmNmY5NTdkOWZhMzdjNmU4MDhjNzkzOGVmNDcxZjRlNmUzZjRmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "RARE",
+    "max": 48
   },
   {
     "id": "FORAGING_WISDOM",
@@ -1503,7 +2685,7 @@
   {
     "id": "FOREST_ELEMENTAL",
     "lore": [
-      "§7Grants §c+2 ❤ Health§7.",
+      "§7Grants §c+2  Health§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -1541,9 +2723,30 @@
     "max": 48
   },
   {
+    "id": "FOREST_FELLING",
+    "lore": [
+      "§7Grants §a+0.1% §7chance to fell an",
+      "§7entire tree!",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "U76",
+    "shard_name": "Woodpecker Shard",
+    "shard_id": "SHARD_WOODPECKER",
+    "name": "Forest Felling",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjYyNTY2MiwKICAicHJvZmlsZUlkIiA6ICJhODEzMzJmNjA5MmE0NDQ1Yjk1YzVhZGFjNDA2OTQzYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbmFwcHliM2FzdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iZmYzYTFmZThkMDc5MTMyNWNjZWJlYmE0NWQ4NTM5NmFmYmU5YWNhNDVhN2U3MmNiNzZiOGM1MmMwNDAwYjAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
     "id": "FOREST_FISHING",
     "lore": [
-      "§7Grants §b+3 ☂ Fishing Speed§7 while on",
+      "§7Grants §b+3  Fishing Speed§7 while on",
       "§2Foraging Islands§7.",
       "",
       "§7You can Syphon this shard from",
@@ -1561,9 +2764,30 @@
     "max": 96
   },
   {
+    "id": "FOREST_SERENDIPITY",
+    "lore": [
+      "§7Grants a §a+0.1% §7chance for §2Tree",
+      "§2Gifts §7to contain double loot.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE FOREST SHARD"
+    ],
+    "attribute_id": "R85",
+    "shard_name": "Puck Shard",
+    "shard_id": "SHARD_PUCK",
+    "name": "Forest Serendipity",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjgwMTU0NSwKICAicHJvZmlsZUlkIiA6ICIwNWU0OTczZTk5ZDk0NGY2YjczNjY3ZTEzMzdiY2IzOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lX1NraW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDY5MDJhYmJmNTI2N2U5ODVlM2UwZDRlYmEwMzU4MDkzMTMzNDQxYmIwOGNlZTQ0ZWQzMTM2ODc4ZDMwN2FmOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
     "id": "FOREST_STRENGTH",
     "lore": [
-      "§7Grants §c+5 ❁ Strength§7 while on",
+      "§7Grants §c+5  Strength§7 while on",
       "§2Foraging Islands§7.",
       "",
       "§7You can Syphon this shard from",
@@ -1604,7 +2828,7 @@
   {
     "id": "FORTITUDE",
     "lore": [
-      "§7Your §a❈ Defense §7is increased by",
+      "§7Your §a Defense §7is increased by",
       "§a+0.2%§7.",
       "",
       "§7You can Syphon this shard from",
@@ -1622,18 +2846,57 @@
     "max": 24
   },
   {
+    "id": "FORTUNATE_FARMER",
+    "lore": [
+      "§7Grants §6+2.5  Farming Fortune§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "C13",
+    "shard_name": "Fly Shard",
+    "shard_id": "SHARD_FLY",
+    "name": "Fortunate Farmer",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY5Njk0NTA2MzI4MSwKICAicHJvZmlsZUlkIiA6ICJjN2FmMWNkNjNiNTE0Y2YzOGY4NWQ2ZDUxNzhjYThlNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJtb25zdGVyZ2FtZXIzMTUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWQ5MGU3Nzc4MjZhNTI0NjEzNjhlMjZkMWIyZTE5YmZhMWJhNTgyZDYwMjQ4M2U1NDVmNDEyNGQwZjczMTg0MiIKICAgIH0KICB9Cn0=",
+    "rarity": "COMMON",
+    "max": 96
+  },
+  {
+    "id": "FORTUNATE_MINER",
+    "lore": [
+      "§7Grants §6+2.5  Mining Fortune§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "C37",
+    "shard_name": "Flitter Shard",
+    "shard_id": "SHARD_FLITTER",
+    "name": "Fortunate Miner",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA3MjczNCwKICAicHJvZmlsZUlkIiA6ICI5MDczN2E1N2RlYjk0MWYxYTEyMzE1MmJkZmZjMTBmYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lU2tpbl8xNCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hODlhNzZkZWVkZDQyYjQxMDM0NDEwMGRmMmZhNzliNmVlYWM3ZTZmMjg3NzQ1ZDY1NjE3OTM2ODM0MGZmYWRlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "COMMON",
+    "max": 96
+  },
+  {
     "id": "FREEZING_SPREAD",
     "lore": [
-      "§7Grants §e+0.5▚ Gemstone Spread §7for",
-      "§7every §b29❄ Cold Resistance §7you",
+      "§7Grants §e+0.5  Gemstone Spread §7for",
+      "§7every §b+29  Cold Resistance §7you",
       "§7have while in the §bGlacite Mineshafts§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
       "",
+      "§4❣ §cRequires §aHunting Skill 15§c.",
       "§5§lEPIC COMBAT SHARD"
     ],
-    "attribute_id": "E45",
+    "attribute_id": "E66",
     "shard_name": "Littlefoot Shard",
     "shard_id": "SHARD_LITTLEFOOT",
     "name": "Freezing Spread",
@@ -1666,7 +2929,7 @@
   {
     "id": "FROST_ELEMENTAL",
     "lore": [
-      "§7Grants §b+1 ✎ Intelligence§7.",
+      "§7Grants §b+1  Intelligence§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -1681,6 +2944,68 @@
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyNjUxMTE2NjA5NSwKICAicHJvZmlsZUlkIiA6ICI5MWYwNGZlOTBmMzY0M2I1OGYyMGUzMzc1Zjg2ZDM5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdG9ybVN0b3JteSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jOGE0YzQwMjc0ZTUzOTZmYWI5OTQwMzVjM2E4ZDMzMDI2MGJiMDM5NGFkNjU2YWE3ZDQyN2VjOGY0MGQ1MzM2IgogICAgfQogIH0KfQ==",
     "rarity": "EPIC",
     "max": 32
+  },
+  {
+    "id": "FROZEN_FORTUNE",
+    "lore": [
+      "§7Grants §b+0.5  Magic Find §7on §f",
+      "§fFrozen §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE COMBAT SHARD"
+    ],
+    "attribute_id": "R78",
+    "shard_name": "Billygoat Shard",
+    "shard_id": "SHARD_BILLYGOAT",
+    "name": "Frozen Fortune",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA0NjYzMCwKICAicHJvZmlsZUlkIiA6ICJiOWIzY2RlZmIyZmQ0YWY1ODQxMGViZWZjY2ZmYTBhYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJpbnRlcnNlY2F0byIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mMTk3OGIwZTc3YjJhNjZlNGE5NDIwZGRmMWZjMzkxMTM4MWVjN2IyY2Q5NjAwNzQ1NDVmNDkyNmE5ZDUwZGZiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
+    "id": "FROZEN_RESISTANCE",
+    "lore": [
+      "§7Grants §a+4  Defense §7against §f",
+      "§fFrozen §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON COMBAT SHARD"
+    ],
+    "attribute_id": "C42",
+    "shard_name": "Strongarm Shard",
+    "shard_id": "SHARD_STRONGARM",
+    "name": "Frozen Resistance",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA2NzcwMywKICAicHJvZmlsZUlkIiA6ICIyNDY1ODI2NWVjMjg0NTY4YTg3MDJkOTVlYzdlYTc4MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcmdvc1oxMiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82Y2QyNjVjNGI5YTEzMjYyNTNlNjZiM2Y5Y2YxZTBiOGRlOGQwNzdlYjVjYmRhODc2NTRjNmRiYWM4NzVjOGRiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "COMMON",
+    "max": 96
+  },
+  {
+    "id": "FROZEN_RULER",
+    "lore": [
+      "§7Grants §a+3% §7more §c Damage §7against",
+      "§f Frozen §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON COMBAT SHARD"
+    ],
+    "attribute_id": "U42",
+    "shard_name": "Polaris Shard",
+    "shard_id": "SHARD_POLARIS",
+    "name": "Frozen Ruler",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjgzMjk3Njc5OSwKICAicHJvZmlsZUlkIiA6ICIyZmI1ZGJhYTY2NTA0OGEyYjZhYzU5YWE2Nzk5MDYzNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkcmFnbG9uZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTQxNDU4ZGIyNzIxMGU4OTA1Nzk1YjBmMzM2ODAxNWNkMGYyN2Y2ODhmYjBhMTRmNThiN2E0NDcwNzlhZWQ4ZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "UNCOMMON",
+    "max": 64
   },
   {
     "id": "FUNGY_LUCK",
@@ -1705,6 +3030,27 @@
     "max": 48
   },
   {
+    "id": "GALATEA_TRAINING",
+    "lore": [
+      "§7Gain §a+1% §7more §aHeart of the Forest",
+      "§aExp§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON WATER SHARD"
+    ],
+    "attribute_id": "U68",
+    "shard_name": "Ember Shard",
+    "shard_id": "SHARD_EMBER",
+    "name": "Galatea Training",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzcwMzI2MDgyNSwKICAicHJvZmlsZUlkIiA6ICJlODE1MGY1MjlmZGU0YzdkYjI3OTAyZjJjNmU3NTc5ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcmFkQm90XzIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmY1MWRjNDhmMTQxMDcyMzVkYTQwNjAxODc2MmU4YjMxOWMxMDM2Yzc4NThhYjc0NTk5ZWZiOTNkM2FmNzBlZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
     "id": "GARDEN_WISDOM",
     "lore": [
       "§7Grants §3+0.5 ☯ Farming Wisdom§7.",
@@ -1720,7 +3066,54 @@
     "shard_id": "SHARD_DRAGONFLY",
     "name": "Garden Wisdom",
     "item": "minecraft:player_head",
-    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyOTY0MjkwODY5NiwKICAicHJvZmlsZUlkIiA6ICJhYzI2NjllOWRlNzg0MDVjOTYzZGU0YzM0ZGYwZGU1MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdXBGZWRlcmljaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNTRhZmY0YzBiMmRjZTNhNjcyMzQ5Y2MwZWU5ZTZmM2E5ZGVlYmU0YjM1NTZlODQ2MTFlY2EyNTBhNzgyMWJmIgogICAgfQogIH0KfQ==",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2MDQ1MDQxODQzNywKICAicHJvZmlsZUlkIiA6ICIwNjY5Y2E1MGYyZWU0NTQxODhlYWQ3YTM3NTkzNDRlMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcjR6eWNsb3duVFYiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjU0YWZmNGMwYjJkY2UzYTY3MjM0OWNjMGVlOWU2ZjNhOWRlZWJlNGIzNTU2ZTg0NjExZWNhMjUwYTc4MjFiZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "EPIC",
+    "max": 32
+  },
+  {
+    "id": "GHASTLY_DISTRACTION",
+    "lore": [
+      "§7Pacifies enemies for §a+1s§7 after mining",
+      "§fOpal Gemstones §7in the §cSmoldering",
+      "§cTomb§7.",
+      "§8Does not work on Slayer Bosses,",
+      "§8Slayer Minibosses. Attacking an",
+      "§8enemy ends effect early.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 15§c.",
+      "§5§lEPIC FOREST SHARD"
+    ],
+    "attribute_id": "E43",
+    "shard_name": "Dive Ghast Shard",
+    "shard_id": "SHARD_DIVE_GHAST",
+    "name": "Ghastly Distraction",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjAwNjYwMywKICAicHJvZmlsZUlkIiA6ICIxNDgxNzQxN2VhNWI0OGM1OTMzNzA5YjZjMTcxZTc3YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJJdHNtZV90byIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YjMyNGY5OWVjYWNiZDk4NDZmNTlkOGJiNDBlZjBjMjY3MGJmMDIzNDI2MmI4M2E1YjBmOWNiM2YwY2JiM2Q1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "EPIC",
+    "max": 32
+  },
+  {
+    "id": "GLOSSY_FORTUNE",
+    "lore": [
+      "§7Increases your chance of finding",
+      "§5Glossy Gemstones §7during §6Mining",
+      "§6Fiestas §7by §a+1%§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 15§c.",
+      "§5§lEPIC COMBAT SHARD"
+    ],
+    "attribute_id": "E60",
+    "shard_name": "Scatha Shard",
+    "shard_id": "SHARD_SCATHA",
+    "name": "Glossy Fortune",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYyMDQ0NTc2NDQ1MSwKICAicHJvZmlsZUlkIiA6ICJmNDY0NTcxNDNkMTU0ZmEwOTkxNjBlNGJmNzI3ZGNiOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWxhcGFnbzA1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RmMDNhZDk2MDkyZjNmNzg5OTAyNDM2NzA5Y2RmNjlkZTZiNzI3YzEyMWIzYzJkYWVmOWZmYTFjY2FlZDE4NmMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
     "rarity": "EPIC",
     "max": 32
   },
@@ -1733,6 +3126,7 @@
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
       "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
       "§a§lUNCOMMON WATER SHARD"
     ],
     "attribute_id": "U41",
@@ -1766,9 +3160,28 @@
     "max": 64
   },
   {
+    "id": "GOLD_BOX",
+    "lore": [
+      "§7Grants §6+5  Ore Fortune§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "C43",
+    "shard_name": "Hideonsun Shard",
+    "shard_id": "SHARD_HIDEONSUN",
+    "name": "Gold Box",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMzA4Mjg0NzA3NywKICAicHJvZmlsZUlkIiA6ICI4NDIzMzM5MTYwMjY0NjBiOWQ1MGFjZWU3MThiMjkxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmaXJlc2xpbmdlciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MzM3ODFkYTUzYmUwNGNkN2I0ODMzNWRlNzIxMTIxNWQ3OTk2OGRjNzYyMjcwYWFhOTkyYzNlMzU0ZDcwNDUxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "COMMON",
+    "max": 96
+  },
+  {
     "id": "GOOD_KARMA",
     "lore": [
-      "§7Grants §d+2 ☘ Hunter Fortune",
+      "§7Grants §d+2  Hunting Fortune",
       "§7towards §a§lUNCOMMON §7Attributes.",
       "",
       "§7You can Syphon this shard from",
@@ -1789,7 +3202,7 @@
   {
     "id": "GREAT_KARMA",
     "lore": [
-      "§7Grants §d+1 ☘ Hunter Fortune",
+      "§7Grants §d+1  Hunting Fortune",
       "§7towards §9§lRARE §7Attributes.",
       "",
       "§7You can Syphon this shard from",
@@ -1808,6 +3221,69 @@
     "max": 48
   },
   {
+    "id": "GREAT_TREASURE",
+    "lore": [
+      "§6Treasure§7 catches are §a+1%§7 more",
+      "§7likely to be §6§lGREAT§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE WATER SHARD"
+    ],
+    "attribute_id": "R74",
+    "shard_name": "Mantis Shrimp Shard",
+    "shard_id": "SHARD_MANTIS_SHRIMP",
+    "name": "Great Treasure",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA2MjE5NCwKICAicHJvZmlsZUlkIiA6ICI0YTQ1ZmY3NDM2Njk0YTNiYTc3OTdhYTgyN2IwNDM1NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85OTI0YzEwNWFhNDMxZGFiZDQ3OTUyZGMxZGRkZDZmNzUxZjg4MzQyM2Y0ZGIxNDg3ZDliYWNjMmNmZTk5YzdhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
+    "id": "GREEDY_GOBLIN",
+    "lore": [
+      "§7Your Goblin Pet gains §6+1  Ore",
+      "§6Fortune§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE WATER SHARD"
+    ],
+    "attribute_id": "R77",
+    "shard_name": "Gimmiegold Shard",
+    "shard_id": "SHARD_GIMMIEGOLD",
+    "name": "Greedy Goblin",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA2MTkzOCwKICAicHJvZmlsZUlkIiA6ICI1MTAwZGZmZDI0NDI0M2I0OGQxMmVkZTVkMjgxMzk2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGVjdHJvbmljU2V4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhiMzI5ZTEwOGFjMjhiMGJlYzhkNDdiN2NkY2UyNTNkZjFkYjgwYjQ2MDUyYjU5MTVkOTYzZTFiY2JhYjBkYjQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
+    "id": "GREENHOUSE_SPEED",
+    "lore": [
+      "§7Grants §a+0.5% Growth Speed§7 in your",
+      "§2Greenhouse§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 20§c.",
+      "§6§lLEGENDARY COMBAT SHARD"
+    ],
+    "attribute_id": "L57",
+    "shard_name": "Timestalk Clone Shard",
+    "shard_id": "SHARD_TIMESTALK_CLONE",
+    "name": "Greenhouse Speed",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY4NzM4MTYyMiwKICAicHJvZmlsZUlkIiA6ICJkODBlMGYyNjU2M2U0NzI3YWNiZDNlMmRlNDkxYzFiZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLQmVsb3plcm92X18iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDFkZTdjNTNiMTVjNjM5ZDJiOTEwMDIwNDM1Y2ZlOTdjMjMzZWJkOWYwNGJjZDRmMzM2ZmQwMzJjOGE5OTM0NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "LEGENDARY",
+    "max": 24
+  },
+  {
     "id": "GROOVY_RADAR",
     "lore": [
       "§2 Pests §7have a §a+2.5% §7chance to",
@@ -1816,6 +3292,7 @@
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
       "",
+      "§4❣ §cRequires §aHunting Skill 20§c.",
       "§6§lLEGENDARY FOREST SHARD"
     ],
     "attribute_id": "L46",
@@ -1848,10 +3325,177 @@
     "max": 96
   },
   {
+    "id": "HELIX_COLLECTOR",
+    "lore": [
+      "§7Grants §6+1  Helix Fortune§7 for",
+      "§7every digit in your Helix Log",
+      "§7collection. §8(Max 10M collection)",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "U82",
+    "shard_name": "Hawk Shard",
+    "shard_id": "SHARD_HAWK",
+    "name": "Helix Collector",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTc1MjE0OCwKICAicHJvZmlsZUlkIiA6ICJhZDEwM2FhODMzNWM0ZDA4YjNlZWI2ZDI2NjNkMzA0MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJJY2hpaW5uIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YyMDIxNjQ0MjdhZDJkYWRmMTc1ZTNmZDhjODEzMzVhMzBiMmM3ZTFkNWUyZjkzYTU3YjgxNTcwZDFjNDYxZGIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "HELIX_SHARPENING",
+    "lore": [
+      "§7Grants §2+15  Sweep §7towards Helix",
+      "§7Trees.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE FOREST SHARD"
+    ],
+    "attribute_id": "R19",
+    "shard_name": "Vulture Shard",
+    "shard_id": "SHARD_VULTURE",
+    "name": "Helix Sharpening",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTc1MDc4MCwKICAicHJvZmlsZUlkIiA6ICI3NzQ3ODc3M2ExZTE0NzUxODE0M2Q5ZDA5YTc1NmQ2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3aGF0YXJlZmVycmV0cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MDIwYjQ5MzE5YTZiN2RiMjk3MzA3NDRkYmI5NDhhMGU1NDBjYmE2YTY2ZGY2OWM2MDEwMzc4ZjFjYWE4Yjk2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
+    "id": "HITMAN_COOLDOWN",
+    "lore": [
+      "§7The cooldown of the §cRabbit Hitman §7is",
+      "§7reduced by §a+2.5%§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "C22",
+    "shard_name": "Rabbit Mafioso Shard",
+    "shard_id": "SHARD_RABBIT_MAFIOSO",
+    "name": "Hitman Cooldown",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNjYwMjc5OSwKICAicHJvZmlsZUlkIiA6ICJkM2VmYjJmMThjMDU0YmRhYTE0OTVlZTY0ZDgxZjdlOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNTEsxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MDNkNTQ3NTBhOGE3OGQyNTg5NzlhNmZjMjA2YjY2OGM0NjhlZjY3YTBiMTYyMmQ1ZjU4MTYxNjVmZjMyMzIzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "COMMON",
+    "max": 96
+  },
+  {
+    "id": "HONEY_HAUL",
+    "lore": [
+      "§6Honeyhives §7have a §a+2.5% §7chance to",
+      "§7contain double the §6Honeycomb§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "C64",
+    "shard_name": "Honeybuzz Shard",
+    "shard_id": "SHARD_HONEYBUZZ",
+    "name": "Honey Haul",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3NjgwNDIzOTU2NywKICAicHJvZmlsZUlkIiA6ICJkNGUwNTFjZGRhNDU0NTUxYjk1ZWRiZjdkNTM1ZTA3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGVtZW50YWxfTWF4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg5MGVmYzhhYTVhYWMyNzQyYWIwNDU2NDUwMWM0ZjU2ZTljNzE2OWIyNzJkMDUzMGY3OGMyMDk4NjU1Nzc5MjgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "COMMON",
+    "max": 96
+  },
+  {
+    "id": "HONEY_LUCK",
+    "lore": [
+      "§aTrees §7lathered with §6Honeycomb §7have",
+      "§7a §a+5% §7chance to attract a second",
+      "§7mob.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "C67",
+    "shard_name": "Pollendart Shard",
+    "shard_id": "SHARD_POLLENDART",
+    "name": "Honey Luck",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjgwMzc4OCwKICAicHJvZmlsZUlkIiA6ICI4OGQ1NDUxYjFlZjg0MjdlYWZmMmVlNDEwZjMzNDJmMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEb25hbGRUcnVtcDQyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgxNTBhYmExMDY5NDQ4MDRjMzkwZTdkYzcwMmRhMzY0NTVlZmRjMDE2OTZmMzNkZjE0ZDdmMTQ0NjY5YWIxYTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "COMMON",
+    "max": 96
+  },
+  {
+    "id": "HONEY_REFILL",
+    "lore": [
+      "§6Honeyhives §7have a §a+0.5% §7chance to",
+      "§7refill instantly.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 15§c.",
+      "§5§lEPIC FOREST SHARD"
+    ],
+    "attribute_id": "E49",
+    "shard_name": "Queen Bee Shard",
+    "shard_id": "SHARD_QUEEN_BEE",
+    "name": "Honey Refill",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNjIzNDkyNCwKICAicHJvZmlsZUlkIiA6ICIyOGQyZDFmZDEyNGY0NGMyOGYxZDgwNDY4NGFkOTA2ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhNyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNWZhZWIyYWZmMzI0ZDk0NTE3NDJmZWQ0ZGU3YTk2ZTk0YmJlZmM3NjYzMTc5NjNlNWQ0ZjQzMGRhYjc3MjIzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "EPIC",
+    "max": 32
+  },
+  {
+    "id": "HONEY_SERENDIPITY",
+    "lore": [
+      "§7Grants a §a+0.5% §7chance to instantly",
+      "§7attract a mob when lathering a §aTree",
+      "§7with §6Honeycomb§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON COMBAT SHARD"
+    ],
+    "attribute_id": "U57",
+    "shard_name": "Honey Badger Shard",
+    "shard_id": "SHARD_HONEY_BADGER",
+    "name": "Honey Serendipity",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNjQ2MDgwNSwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNTE3YWE5ZDJkYWVlYTQxMTVhMGM3OTcwMjY5OWQwZWY3YTUwZTlkYjAwMmUyNjk3ZGFmYjdjMjg5NDU4MjA1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "HONEY_SPEED",
+    "lore": [
+      "§aTrees §7lathered with §6Honeycomb",
+      "§7attract mobs §a+1% §7faster.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON COMBAT SHARD"
+    ],
+    "attribute_id": "C45",
+    "shard_name": "Honeyhog Shard",
+    "shard_id": "SHARD_HONEYHOG",
+    "name": "Honey Speed",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MTg0MiwKICAicHJvZmlsZUlkIiA6ICI1MTAwZGZmZDI0NDI0M2I0OGQxMmVkZTVkMjgxMzk2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGVjdHJvbmljU2V4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI4N2JlNDVlNDUzYjgzMmY5YWNjZWU1NzA5Yjk0MzEzZjcxNjU1NGU5M2JmYWRiNmQzNjdhODNlNDNhZDZkOTciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "COMMON",
+    "max": 96
+  },
+  {
     "id": "HUMANOID_RULER",
     "lore": [
-      "§7Grants §a+3% §7more §c❁ Damage §7against",
-      "§e✰ Humanoid §7mobs.",
+      "§7Grants §b+0.5  Magic Find §7against §2",
+      "§2Undead §7mobs.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -1862,11 +3506,11 @@
     "attribute_id": "R18",
     "shard_name": "Drowned Shard",
     "shard_id": "SHARD_DROWNED",
-    "name": "Humanoid Ruler",
+    "name": "Undead Fortune",
     "item": "minecraft:player_head",
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY0MjE3MTI5NzQ5MiwKICAicHJvZmlsZUlkIiA6ICJiNjc3NTgwYzExYmU0ZjNiODI1OGM0YjBkNzNhNzg0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJPZmZpY2lhbGx5SksiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODYyZjQwODMzNzM0ZjdkOWZmYTVlODEwMDVlOWIzMTIzNDgxNTE4ODYyODk4MDA3NzI2N2YxM2MwZTU2MGVjNiIKICAgIH0KICB9Cn0=",
-    "rarity": "RARE",
-    "max": 48
+    "rarity": "UNCOMMON",
+    "max": 64
   },
   {
     "id": "HUNTER",
@@ -1911,7 +3555,7 @@
   {
     "id": "HUNTERS_GRASP",
     "lore": [
-      "§7Your Black Holes gain §d+1% ☘ Hunter",
+      "§7Your Black Holes gain §d+1%  Hunting",
       "§dFortune§7.",
       "",
       "§7You can Syphon this shard from",
@@ -1973,7 +3617,7 @@
   {
     "id": "HUNTER_KARMA",
     "lore": [
-      "§7Grants §d+1 ☘ Hunter Fortune§7.",
+      "§7Grants §d+1  Hunting Fortune§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -2084,19 +3728,19 @@
       "§a§lUNCOMMON FOREST SHARD"
     ],
     "attribute_id": "U40",
-    "shard_name": "Termite Shard",
+    "shard_name": "Earthworm Shard",
     "shard_id": "SHARD_TERMITE",
     "name": "Infiltration",
     "item": "minecraft:player_head",
-    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyOTY0Mjc1MjM0NiwKICAicHJvZmlsZUlkIiA6ICI3MjU1MDA3NjQzYzQ0YTZiYjM3MjJlNzc3OTk5OTFkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4M250YW55IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzliZGQ1ODdiY2MyNTQyODkyYjk4YzAyODhhMzU3MzA3ODg4ZTlkODdjZDA2NTFlMGFhMDM1YTk1ZjhlMzZiNDUiCiAgICB9CiAgfQp9",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY5NzQ3MDQ1OTc0NywKICAicHJvZmlsZUlkIiA6ICIyNTBlNzc5MjZkNDM0ZDIyYWM2MTQ4N2EyY2M3YzAwNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMdW5hMTIxMDUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjQwM2JhNDAyN2EzMzNkOGQyZmQzMmFiNTlkMWNmZGJhYTdkOTA4ZDgwZDIzODFkYjJhNjljYmU2NTQ1MGFkOCIKICAgIH0KICB9Cn0=",
     "rarity": "UNCOMMON",
     "max": 64
   },
   {
     "id": "INSECT_POWER",
     "lore": [
-      "§7Your Vacuum deals §a+10% §7extra §c❁",
-      "§cDamage§7.",
+      "§7Grants §a+3% §7more §c Damage §7against",
+      "§2 Pest §7mobs.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -2107,9 +3751,9 @@
     "attribute_id": "U22",
     "shard_name": "Praying Mantis Shard",
     "shard_id": "SHARD_PRAYING_MANTIS",
-    "name": "Insect Power",
+    "name": "Pest Ruler",
     "item": "minecraft:player_head",
-    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcxMzgyNTI5NjI4OCwKICAicHJvZmlsZUlkIiA6ICJkOWYxNTlhYWYxZjY0NGZlOTEwOTg0NzI2ZDBjMWJjMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYW5vbmFtaXNzaW9uRyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNGY0MTMyNGMyMmUyNDdkZDI3NzdhOTVhZDZjZjIwNTg1NGNlZGNlMzczMzMwM2QwOGE5YzE3NmNjMzFkZTc3IgogICAgfQogIH0KfQ==",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2MDQ1MDQxOTYxMiwKICAicHJvZmlsZUlkIiA6ICI0OWIzODUyNDdhMWY0NTM3YjBmN2MwZTFmMTVjMTc2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiY2QyMDMzYzYzZWM0YmY4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFlMDRiYjYzNjdjYWE0ZTg4ZjVmZDBlZTgwZjA3NDVkMTM3YTYwNjAyMjNkYmJjNDJhMTY0NzFmZGY2NGJiODMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
     "rarity": "UNCOMMON",
     "max": 64
   },
@@ -2138,11 +3782,12 @@
     "id": "KING_OF_GREED",
     "lore": [
       "§7Increases §6Coin §7gain from §eGriffin",
-      "§eBurrows §7by §a+1§7.",
+      "§eBurrows §7by §a+1%§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
       "",
+      "§4❣ §cRequires §aHunting Skill 15§c.",
       "§5§lEPIC COMBAT SHARD"
     ],
     "attribute_id": "E42",
@@ -2177,10 +3822,74 @@
     "max": 48
   },
   {
+    "id": "LAKE_FISHING",
+    "lore": [
+      "§7Grants §b+3  Fishing Speed§7 while on",
+      "§bFishing Islands§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON WATER SHARD"
+    ],
+    "attribute_id": "C38",
+    "shard_name": "Tepid Shard",
+    "shard_id": "SHARD_TEPID",
+    "name": "Lake Fishing",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjgzMzYxMTM0OSwKICAicHJvZmlsZUlkIiA6ICI4MDQ2MzdjMTA1ZGY0MzM0ODE3YTNmMDcxMTMyOTYyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQcmluY2VDUiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85YTQyOTNmMmE4YTdhYWYyZmYwZmQ1ZTg4ZWYzZjUzNDlmZDY1OTQwMTVkNWY5NzU4NjJhMmE5YjU4NTZiMjVhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "COMMON",
+    "max": 96
+  },
+  {
+    "id": "LATHERING_GREED",
+    "lore": [
+      "§7Gain §a+10% §7more §6Honeycomb §7from",
+      "§7hunting mobs spawned from §aTrees",
+      "§7lathered with §6Honeycomb§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 15§c.",
+      "§5§lEPIC FOREST SHARD"
+    ],
+    "attribute_id": "E52",
+    "shard_name": "Beeheemoth Shard",
+    "shard_id": "SHARD_BEEHEEMOTH",
+    "name": "Lathering Greed",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTk4NzI4NSwKICAicHJvZmlsZUlkIiA6ICJjODVhZTlmOWJkNTU0YzFmYjk1ZTg3ZDI2Zjg2MGFmNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdGV2ZW4xNzUzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdhOTYzMmMxOGJmZTViZGIwMjA1MzY2YjViMDhlYzFiMmM5YTk2OGFhNmNkYjg4YmI3ZjgzZTg4OThlM2FhZDAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "EPIC",
+    "max": 32
+  },
+  {
+    "id": "LEGENDARY_RABBIT_LUCK",
+    "lore": [
+      "§7Increases your chance of finding",
+      "§6§lLEGENDARY §7Rabbits during",
+      "§dHoppity's Hunt §7by §a+1%§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "U106",
+    "shard_name": "Rabbit Cat Shard",
+    "shard_id": "SHARD_RABBIT_CAT",
+    "name": "Legendary Rabbit Luck",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNjIzMTUwMSwKICAicHJvZmlsZUlkIiA6ICI2N2M1NzUxMzY1Mzg0MWJjYTQ1MTkwY2IyZGFiMWEwOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJuaXRlc3RhbGtlcjg3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNkYmViZGFlMDA2ZmJlZGYwM2VmOTRlMWE1MTgxYTJmMDkwMDQzODdmODNjZGRlZGE0MDFmZmZkYzk4ZjU5MjQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
     "id": "LIFELINE",
     "lore": [
-      "§7When under §c20% §7maximum HP, your §c❁",
-      "§cDamage §7and §a❈ Defense §7increase by",
+      "§7When under §c20% §7maximum HP, your §c",
+      "§cDamage §7and §a Defense §7increase by",
       "§a+2.5%§7.",
       "",
       "§7You can Syphon this shard from",
@@ -2240,7 +3949,7 @@
   {
     "id": "LIGHTNING_ELEMENTAL",
     "lore": [
-      "§7Grants §c+1 ❁ Strength§7.",
+      "§7Grants §c+1  Strength§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -2260,7 +3969,7 @@
   {
     "id": "LIGHT_ELEMENTAL",
     "lore": [
-      "§7Grants §c+1 ❁ Strength§7.",
+      "§7Grants §c+1  Strength§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -2300,7 +4009,7 @@
   {
     "id": "LILY_TRACKER",
     "lore": [
-      "§7Grants §a+1 §d❃ Tracking §7on §2Exploding",
+      "§7Grants §a+1 §d Tracking §7on §2Exploding",
       "§2Lily Pads§7.",
       "",
       "§7You can Syphon this shard from",
@@ -2321,12 +4030,13 @@
   {
     "id": "LOCH_HOOK",
     "lore": [
-      "§7Grants §9+0.5 ⚓ Double Hook Chance",
+      "§7Grants §9+0.5  Double Hook Chance",
       "§7while on §2Foraging Islands§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
       "",
+      "§4❣ §cRequires §aHunting Skill 20§c.",
       "§6§lLEGENDARY WATER SHARD"
     ],
     "attribute_id": "L5",
@@ -2403,7 +4113,7 @@
   {
     "id": "LUNAR_POWER",
     "lore": [
-      "§7Grants §6+5 ☘ Farming Fortune§7 during",
+      "§7Grants §6+5  Farming Fortune§7 during",
       "§7the Night.",
       "",
       "§7You can Syphon this shard from",
@@ -2417,14 +4127,14 @@
     "shard_id": "SHARD_LUNAR_MOTH",
     "name": "Lunar Power",
     "item": "minecraft:player_head",
-    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyOTY0Mjg1MzczNiwKICAicHJvZmlsZUlkIiA6ICJlNGUxYmY5NzMwZWI0NDRhYmIyOGIxODgxN2Q0M2YzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW1vQlQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjlmN2UwMDQwZGY0MGUzZDE5NmY0OGM1MDBmOGY4NjIyMWE4NWQ5YjYzMmMwZGQ1N2EyNGJiZTA0M2U1MzJhYSIKICAgIH0KICB9Cn0=",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3MjE1OTE4MzkzMSwKICAicHJvZmlsZUlkIiA6ICIxNzRjZmRiNGEzY2I0M2I1YmZjZGU0MjRjM2JiMmM2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXJhZWwxOCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iZWU0ZmNjNWFhYzI3YmRiYjBiZTIxMGRmMDhiMDViY2E1YWViYzg5YmYyODIxZjYwOGE1NWZkMmNmMDQzNGJlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
     "rarity": "EPIC",
     "max": 32
   },
   {
     "id": "MAGIC_FIND",
     "lore": [
-      "§7Grants §b+0.5 ✯ Magic Find§7.",
+      "§7Grants §b+0.5  Magic Find§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -2443,8 +4153,8 @@
   {
     "id": "MAGMATIC_RULER",
     "lore": [
-      "§7Grants §a+3% §7more §c❁ Damage §7against",
-      "§c♆ Magmatic §7mobs.",
+      "§7Grants §a+3% §7more §c Damage §7against",
+      "§c Magmatic §7mobs.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -2486,6 +4196,7 @@
     "lore": [
       "§7Regain §a+0.5 §7Mana every time you hit a",
       "§7monster.",
+      "§8Cooldown: 0.5s",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -2504,7 +4215,7 @@
   {
     "id": "MANGROVE_COLLECTOR",
     "lore": [
-      "§7Grants §6+1 ☘ Mangrove Fortune§7 for",
+      "§7Grants §6+1  Mangrove Fortune§7 for",
       "§7every digit in your Mangrove Log",
       "§7collection. §8(Max 10M collection)",
       "",
@@ -2526,7 +4237,7 @@
   {
     "id": "MANGROVE_SHARPENING",
     "lore": [
-      "§7Grants §2+10 ∮ Sweep §7towards",
+      "§7Grants §2+10  Sweep §7towards",
       "§7Mangrove Trees.",
       "",
       "§7You can Syphon this shard from",
@@ -2568,7 +4279,7 @@
   {
     "id": "MAXIMAL_TORMENT",
     "lore": [
-      "§7Your §b✎ Intelligence §7is increased by",
+      "§7Your §b Intelligence §7is increased by",
       "§b+0.1%§7.",
       "",
       "§7You can Syphon this shard from",
@@ -2589,7 +4300,7 @@
   {
     "id": "MENDING",
     "lore": [
-      "§7Grants §4+2  Vitality§7.",
+      "§7Grants §4+1  Vitality§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -2625,10 +4336,32 @@
     "max": 96
   },
   {
+    "id": "MITE_SPAWNER",
+    "lore": [
+      "§7Grants a §a+2.5% §7chance to spawn an",
+      "§7additional §dNest Endermite §7when mining",
+      "§5Ender Nodes§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON COMBAT SHARD"
+    ],
+    "attribute_id": "U78",
+    "shard_name": "Honeymite Shard",
+    "shard_id": "SHARD_HONEYMITE",
+    "name": "Mite Spawner",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MjA4NSwKICAicHJvZmlsZUlkIiA6ICI3NzQ3ODc3M2ExZTE0NzUxODE0M2Q5ZDA5YTc1NmQ2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3aGF0YXJlZmVycmV0cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMjE5MjA3MGIwOWRkODVmNzY2MDk2NWE3MDQ3NGY2MjhjODc3YzA3YWZmMTRkZjU2ZjM3YmQ2MWRmMmUwOGMyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
     "id": "MOONGLADE_MASTERY",
     "lore": [
-      "§7Grants §6+10 ☘ Fig Fortune §7and §6+10",
-      "§6☘ Mangrove Fortune§7.",
+      "§7Grants §6+10  Fig Fortune §7and §6+10",
+      "§6 Mangrove Fortune§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -2669,7 +4402,7 @@
   {
     "id": "MOSSY_BOX",
     "lore": [
-      "§7Grants §6+5 ☘ Block Fortune§7.",
+      "§7Grants §6+5  Block Fortune§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -2706,14 +4439,59 @@
     "max": 64
   },
   {
+    "id": "MUTATION_SERENDIPITY",
+    "lore": [
+      "§7Mutations have a §a+0.5% §7chance to",
+      "§7instantly re-mutate at their first",
+      "§7growth phase when harvested.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE COMBAT SHARD"
+    ],
+    "attribute_id": "R84",
+    "shard_name": "Zombuddy Shard",
+    "shard_id": "SHARD_ZOMBUDDY",
+    "name": "Mutation Serendipity",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY4NzM4MTg3OSwKICAicHJvZmlsZUlkIiA6ICJiZmQ3MjMxMGNmYWY0Yjc5OTNlYzhiYzU3ODg3YzU5ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHBoYVNwQW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzdjNjgzYTk4YjdkNjJjMTA5Y2EzY2Q0Mjg0NTlkZTU3MDg1MzY2YzJlNGU1OTQzNmUxNjFmZjc0YzBiMGQ0YSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
+    "id": "MYTHIC_RABBIT_LUCK",
+    "lore": [
+      "§7Increases your chance of finding",
+      "§d§lMYTHIC §7Rabbits during §dHoppity's",
+      "§dHunt §7by §a+1%§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE FOREST SHARD"
+    ],
+    "attribute_id": "R94",
+    "shard_name": "Rabbit Neighbor Shard",
+    "shard_id": "SHARD_RABBIT_NEIGHBOR",
+    "name": "Mythic Rabbit Luck",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNjYwMTk0MCwKICAicHJvZmlsZUlkIiA6ICIxNDgxNzQxN2VhNWI0OGM1OTMzNzA5YjZjMTcxZTc3YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJJdHNtZV90byIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYjAyNWEyOTM1NTViNzhlODI0MzI2NDkxMTY5MDBiZmRiNjZlOTg2NzM2Mzk4OTE5YTE1YTBjM2Y0NTk4ZTAxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
     "id": "MYTHOLOGICAL_FORTUNE",
     "lore": [
-      "§7Grants §b+0.5 ✯ Magic Find §7against §2✿",
+      "§7Grants §b+0.5  Magic Find §7against §2",
       "§2Mythological §7mobs.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
       "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
       "§9§lRARE COMBAT SHARD"
     ],
     "attribute_id": "R63",
@@ -2728,7 +4506,7 @@
   {
     "id": "MYTHOLOGICAL_RESISTANCE",
     "lore": [
-      "§7Grants §a+4 ❈ Defense §7against §2✿",
+      "§7Grants §a+4  Defense §7against §2✿",
       "§2Mythological §7mobs.",
       "",
       "§7You can Syphon this shard from",
@@ -2746,9 +4524,30 @@
     "max": 96
   },
   {
+    "id": "MYTHOLOGICAL_RULER",
+    "lore": [
+      "§7Grants §a+3% §7more §c Damage §7against",
+      "§2 Mythological §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON COMBAT SHARD"
+    ],
+    "attribute_id": "U60",
+    "shard_name": "Minos Hunter Shard",
+    "shard_id": "SHARD_MINOS_HUNTER",
+    "name": "Mythological Ruler",
+    "item": "minecraft:player_head",
+    "texture": "eyJ0aW1lc3RhbXAiOjE1MzAzNzczMzc2NDYsInByb2ZpbGVJZCI6ImIwZDRiMjhiYzFkNzQ4ODlhZjBlODY2MWNlZTk2YWFiIiwicHJvZmlsZU5hbWUiOiJ4RmFpaUxlUiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGU3YWI1ZmE3Y2U3NGUzNGZhMGJkYmI3ODNkOTA1YmE5MWEzMzAwZDI0ZmUxNWExNTZjMDZkODIzN2FjNTJhOSJ9fX0=",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
     "id": "NATURE_ELEMENTAL",
     "lore": [
-      "§7Grants §c+2 ❤ Health§7.",
+      "§7Grants §c+2  Health§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -2767,7 +4566,7 @@
   {
     "id": "NOCTURNAL_ANIMAL",
     "lore": [
-      "§7Grants §2+1 ∮ Sweep§7 during the night.",
+      "§7Grants §2+1  Sweep§7 during the night.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -2782,6 +4581,27 @@
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNzcwMjMwNSwKICAicHJvZmlsZUlkIiA6ICJiOThjNGFkOGM2MjY0NGYxOWUzYzhhZTE0ZThhMDI1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5cnRlZGR5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UzMWNjNzExOGU0YzQwYjM5OGZmODBkMjNmNWVlNTA3OTdmYzRjMjYwOWZlZDkwM2ZlNWViNzUyOGJhYmExMTAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
     "rarity": "COMMON",
     "max": 96
+  },
+  {
+    "id": "OUTSTANDING_FISHER",
+    "lore": [
+      "§6Treasure§7 catches are §a+1%§7 more",
+      "§7likely to be §d§lOUTSTANDING§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 15§c.",
+      "§5§lEPIC WATER SHARD"
+    ],
+    "attribute_id": "E23",
+    "shard_name": "Blue Crab Shard",
+    "shard_id": "SHARD_BLUE_CRAB",
+    "name": "Outstanding Fisher",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA1MDM0NiwKICAicHJvZmlsZUlkIiA6ICIxNDgxNzQxN2VhNWI0OGM1OTMzNzA5YjZjMTcxZTc3YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJJdHNtZV90byIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lODM0ZTNhYWY2YjM5ZWI5MzdmNzAxNDgwNTdhMDBhYmEwMGMxNjEwZmY0ZWQ5MTE1ZDJlZjllZWE3MWVmZmQxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "EPIC",
+    "max": 32
   },
   {
     "id": "OWL_FRIEND",
@@ -2825,9 +4645,30 @@
     "max": 24
   },
   {
-    "id": "PEST_LUCK",
+    "id": "PEST_COOLDOWN",
     "lore": [
-      "§7Grants §e+2  Overbloom §7towards §2",
+      "§7Reduces the spawn cooldown of §2",
+      "§2Pests §7by §a0.5s§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "U100",
+    "shard_name": "Moth Shard",
+    "shard_id": "SHARD_MOTH",
+    "name": "Pest Cooldown",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY5Njg3MDQwNTk1NCwKICAicHJvZmlsZUlkIiA6ICJiMTUyZDlhZTE1MTM0OWNmOWM2NmI0Y2RjMTA5NTZjOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaXNxdW90aCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82NTQ4NWM0YjM0ZTViNTQ3MGJlOTRkZTEwMGU2MWY3ODE2ZjgxYmM1YTExZGZkZjBlY2NmODkwMTcyZGE1ZDBhIgogICAgfQogIH0KfQ==",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "PEST_FORTUNE",
+    "lore": [
+      "§7Grants §6+5  Farming Fortune §7on §2",
       "§2Pests§7.",
       "",
       "§7You can Syphon this shard from",
@@ -2836,12 +4677,32 @@
       "§4❣ §cRequires §aHunting Skill 5§c.",
       "§a§lUNCOMMON FOREST SHARD"
     ],
+    "attribute_id": "U19",
+    "shard_name": "Cricket Shard",
+    "shard_id": "SHARD_CRICKET",
+    "name": "Pest Fortune",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMzE3OTgxMTI2NCwKICAicHJvZmlsZUlkIiA6ICJjZjc4YzFkZjE3ZTI0Y2Q5YTIxYmU4NWQ0NDk5ZWE4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXR0c0FybW9yU3RhbmRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EyNGM2OWY5NmNlNTU2MjIxZTE5NWM4ZWYyYmZhZDcxZWJmN2Y5NWY1YWU5MTRhNDg0YThkMGVjMjE2NzI2NzQiCiAgICB9CiAgfQp9",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "PEST_LUCK",
+    "lore": [
+      "§7Grants §e+0.5  Overbloom §7on §2 Pests§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD"
+    ],
     "attribute_id": "U10",
-    "shard_name": "Pest Shard",
+    "shard_name": "Field Mouse Shard",
     "shard_id": "SHARD_PEST",
     "name": "Pest Luck",
     "item": "minecraft:player_head",
-    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY5Njg3MDQwNTk1NCwKICAicHJvZmlsZUlkIiA6ICJiMTUyZDlhZTE1MTM0OWNmOWM2NmI0Y2RjMTA5NTZjOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaXNxdW90aCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82NTQ4NWM0YjM0ZTViNTQ3MGJlOTRkZTEwMGU2MWY3ODE2ZjgxYmM1YTExZGZkZjBlY2NmODkwMTcyZGE1ZDBhIgogICAgfQogIH0KfQ==",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyNzkwNDc5NzQ1OSwKICAicHJvZmlsZUlkIiA6ICI0MmIwOTMyZDUwMWI0MWQ1YTM4YjEwOTcxYTYwYmYxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBaXJib2x0MDc4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YzNzllMDkyNTI4MTczMTRiZDBiNjk0ZjdkNTNiNDhhZjJjN2ZhODQ5OTEwOTgwMmE0MWJiMjk0ZDJmOTNlM2UiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
     "rarity": "UNCOMMON",
     "max": 64
   },
@@ -2864,6 +4725,27 @@
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyOTY0MjkyMzA2NCwKICAicHJvZmlsZUlkIiA6ICJhYWMxYjA2OWNkMjE0NWE2ODNlNzQxNzE4MDcxMGU4MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJqdXNhbXUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWU0M2U5YmUxYTc1YjliMWI2ZTYwMDA4MzBlYmUwYTQ0Mzg3NmJhMjIxNGMwY2IzZDk0ODVlOGJiOGI3MGEwMyIKICAgIH0KICB9Cn0=",
     "rarity": "LEGENDARY",
     "max": 24
+  },
+  {
+    "id": "PICKAXE_COOLDOWN",
+    "lore": [
+      "§7Reduces the cooldown of your",
+      "§ePickaxe Ability §7by §a+1%§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 15§c.",
+      "§5§lEPIC WATER SHARD"
+    ],
+    "attribute_id": "E8",
+    "shard_name": "Abyssal Miner Shard",
+    "shard_id": "SHARD_ABYSSAL_MINER",
+    "name": "Pickaxe Cooldown",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYyMDM0NDMxMzcxNCwKICAicHJvZmlsZUlkIiA6ICI0NWY3YTJlNjE3ODE0YjJjODAwODM5MmRmN2IzNWY0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfSnVzdERvSXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNThiZTA1Y2ZhZTJjNmE3ZDQ3ZGEyY2U4OGIzZTAwYzcyYTE0NWNjMzIxOGYwNDFiM2RkNWJkNWZhNWNhODI3IgogICAgfQogIH0KfQ==",
+    "rarity": "EPIC",
+    "max": 32
   },
   {
     "id": "PITY",
@@ -2900,7 +4782,7 @@
     "attribute_id": "R43",
     "shard_name": "Ladybug Shard",
     "shard_id": "SHARD_LADYBUG",
-    "name": "Pretty Clothes",
+    "name": "Visitor Copper",
     "item": "minecraft:player_head",
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTczMDMyMTkyMTIyMSwKICAicHJvZmlsZUlkIiA6ICIzY2I3YTA3YWY3ZjM0ZWZiYTlkNGI4ODQ3NDM4Mzc0ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVMZXlmaV8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGZjNmZjMmFmMmM0MTFmYTY5ODg0MGRjNDYzMTFmZjI2ZTkyMTUzYWUyZjRmNjE4N2I3NjVkZTIzMjNiZTJjOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
     "rarity": "RARE",
@@ -2930,8 +4812,8 @@
   {
     "id": "QUARTZ_SPEED",
     "lore": [
-      "§6⸕ Mining Speed §7from events is",
-      "§7increased by §a+10%§7.",
+      "§6 Mining Speed §7from events is",
+      "§7increased by §6+10%§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -2947,6 +4829,47 @@
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyNjUxMjA4MzU3OSwKICAicHJvZmlsZUlkIiA6ICJhZTg3MzEyNjBmMzY0ZWE2YjU3YTRkYjI5Mjk1YTA1OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJGdW50aW1lX0ZveHlfMTkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2RhMTg4NzQ1ZDk5Njg0YTJhMDQ3NDA0MTJkZjE4M2I4MTRjOWYwZTJhNmYxM2NjNTY0YWJjY2MwNjlkOGJlMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
     "rarity": "RARE",
     "max": 48
+  },
+  {
+    "id": "QUEENLY_ECHO",
+    "lore": [
+      "§7Your \"Visitor\" Attributes are §a+5%",
+      "§7stronger.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 20§c.",
+      "§6§lLEGENDARY WATER SHARD"
+    ],
+    "attribute_id": "L35",
+    "shard_name": "Queen Snake Shard",
+    "shard_id": "SHARD_QUEEN_SNAKE",
+    "name": "Queenly Echo",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNjIzMDgzNCwKICAicHJvZmlsZUlkIiA6ICI5MTU1ZmYzNTNlMzc0ZmZlYjE0MmE5NmU2MzU2ZjA4NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJlbG5hZFhCIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk3MDk0NWYyY2E4ZWI3YmE3ZjdhMWJlM2FiMDg1YjlhNDE5NmRiNDk3NWJmNWE4ZjcxYzU3NmFhODU0MmEyMGMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "LEGENDARY",
+    "max": 24
+  },
+  {
+    "id": "QUEEN_TRACKER",
+    "lore": [
+      "§7Grants §d+0.5  Tracking§7 towards",
+      "§5Queen Ants§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "C40",
+    "shard_name": "Ant Shard",
+    "shard_id": "SHARD_ANT",
+    "name": "Queen Tracker",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA0Mzk0OCwKICAicHJvZmlsZUlkIiA6ICIzN2VhNTQ5MTE3MTU0NDgzYmY0N2VmNGM3MzMwMWIzYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSeXV6bG4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODhhNTEyMDg4ODU1NDhmYmJlMDgyNzExNDhkYjM2OTFmNTllMjc1YThkNzIzYmUwOTRiNDRkMzRjY2ZkOWM4NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "COMMON",
+    "max": 96
   },
   {
     "id": "RABBIT_CREW",
@@ -2972,7 +4895,7 @@
   {
     "id": "RARE_BIRD",
     "lore": [
-      "§7Grants §d+1  Pet Luck§7.",
+      "§7Grants §d+0.5  Tracking§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -2983,7 +4906,7 @@
     "attribute_id": "L34",
     "shard_name": "Dodo Shard",
     "shard_id": "SHARD_DODO",
-    "name": "Rare Bird",
+    "name": "Tracking",
     "item": "minecraft:player_head",
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTczMDMyMTA3MDY3MywKICAicHJvZmlsZUlkIiA6ICJmZjQ3NzI5YmQwZDI0YWYwOThiMTFjMGE3ZTFiMGVlZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXRzY2FuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRiYmM3Mjg0ZWE0MmFmMTg0NTM2MjdkN2RiMzZlNDZkNzg5ODllY2YwZDBjOGYxM2IzMDkwNjE3ZmUyYmRmOWMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
     "rarity": "LEGENDARY",
@@ -2995,6 +4918,7 @@
       "§7Killing a Prince has a §a+10%§7 chance to",
       "§7add 1 Bonus Score to your Dungeon",
       "§7Run.",
+      "§8Limit of +1 Score per run",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -3012,11 +4936,56 @@
     "max": 32
   },
   {
+    "id": "REFINED_LUCK",
+    "lore": [
+      "§7Increases your chance of finding",
+      "§9Refined Minerals §7during §6Mining",
+      "§6Fiestas §7by §a+1%§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE COMBAT SHARD"
+    ],
+    "attribute_id": "R81",
+    "shard_name": "Stoneworm Shard",
+    "shard_id": "SHARD_STONEWORM",
+    "name": "Refined Luck",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzYxMzUwNTQ5MiwKICAicHJvZmlsZUlkIiA6ICIzN2VhNTQ5MTE3MTU0NDgzYmY0N2VmNGM3MzMwMWIzYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSeXV6bG4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODE4MDdmZDA2NjYwMDI5MDg0MmFmYzMwZjAxNTJhYjlkODUyODMxMjQ2M2M2YjU3YzhkYjY1MDNhOWQ5NTM5NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
+    "id": "REKINDLE",
+    "lore": [
+      "§7Killing a Bat has a §a+10% §7chance to",
+      "§7add 1 Bonus Score to your Dungeon",
+      "§7Run.",
+      "§8Limit of +1 Score per run",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE FOREST SHARD"
+    ],
+    "attribute_id": "R91",
+    "shard_name": "Murkbat Shard",
+    "shard_id": "SHARD_MURKBAT",
+    "name": "Rekindle",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjgwMzA3NywKICAicHJvZmlsZUlkIiA6ICI3MjU1MDA3NjQzYzQ0YTZiYjM3MjJlNzc3OTk5OTFkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4ZW50YW55IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FlYTNiMDAyMGQwM2EzYWVmNzJiYTE4ZjliMTkwOTM5NjgzYTZhNWEwMmMxMzAyM2VlYTY3ZmFmYWFlNjZkNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
     "id": "REPTILOID",
     "lore": [
       "§7Fusing a Chameleon with a Shard",
       "§7grants the next 3 Shards from that",
-      "§7Shard’s ID line as a result.",
+      "§7Shard's ID line as a result.",
       "",
       "§6§lLEGENDARY FOREST SHARD"
     ],
@@ -3048,6 +5017,28 @@
     "max": 96
   },
   {
+    "id": "ROYAL_RICHES",
+    "lore": [
+      "§7Grants §6+5  Mining Speed §7and §6+2.5",
+      "§6 Ore Fortune§7 while in the §2Mines of",
+      "§2Divan§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 15§c.",
+      "§5§lEPIC COMBAT SHARD"
+    ],
+    "attribute_id": "E63",
+    "shard_name": "Nilbog Shard",
+    "shard_id": "SHARD_NILBOG",
+    "name": "Royal Riches",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA2MzAzNCwKICAicHJvZmlsZUlkIiA6ICJhYTUwNjRmMDUzOWQ0YmFhYTVkOGMzODllY2JiNGFlMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4WF9FbXBsb3ltZW50X1h4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q2OGQxNzQyMWZlN2Y3NWY2ZmJkNDAxOTI0NTQzNjFiZTRjN2MxMWUxNTg1MzNhMDAyNmVjMTJlZjQ5MTFlZTIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "EPIC",
+    "max": 32
+  },
+  {
     "id": "SACK_SIZE",
     "lore": [
       "§7Your sacks can hold §a+1% §7more items.",
@@ -3068,9 +5059,31 @@
     "max": 32
   },
   {
+    "id": "SCRAP_CHANCE",
+    "lore": [
+      "§7Increases your chance of finding a",
+      "§9Suspicious Scrap §7while mining in the",
+      "§bGlacite Mineshafts §7by §a+1%§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE COMBAT SHARD"
+    ],
+    "attribute_id": "R72",
+    "shard_name": "Scrappy Shard",
+    "shard_id": "SHARD_SCRAPPY",
+    "name": "Scrap Chance",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjgzMzYwODY3MywKICAicHJvZmlsZUlkIiA6ICI2NWI5NTU1YWQyMGU0NWM5YjFkNmU3MjQwNjU0NTBkNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNSEZfTWVybCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYzA0MTJmZTA4MTA1OGI2N2M3MGJhZTFhNTQzYjUzYTVmZWVlYjM0ZjZkNzg2MWY2ZTM0ODdmMDc3ZDBhZmFkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
     "id": "SHADOW_ELEMENTAL",
     "lore": [
-      "§7Grants §c+2 ❤ Health§7.",
+      "§7Grants §c+2  Health§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -3109,10 +5122,30 @@
     "max": 32
   },
   {
+    "id": "SKELETAL_RESISTANCE",
+    "lore": [
+      "§7Grants §a+4  Defense §7against §f",
+      "§fSkeletal §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON WATER SHARD"
+    ],
+    "attribute_id": "C44",
+    "shard_name": "Haggard Shard",
+    "shard_id": "SHARD_HAGGARD",
+    "name": "Skeletal Resistance",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjAwNjAwMywKICAicHJvZmlsZUlkIiA6ICIxZjk0OTQzN2RlYmQ0ODgyYTlhYzZhZmZmN2RhNDcxMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWlra2FLIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgzN2JlNzc4MWEzYWU0NDU0ZjQ2NzBlMTY4NmRjMTdhMDdkZDMyMWQ2ZjY3MGJhODBmOTFlMzkxZjA3NjMzMjEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "COMMON",
+    "max": 96
+  },
+  {
     "id": "SKELETAL_RULER",
     "lore": [
-      "§7Increase damage to §f🦴 Skeletal",
-      "§7mobs by §a+3%§7.",
+      "§7Increase damage to §f Skeletal §7mobs",
+      "§7by §a+3%§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -3129,9 +5162,92 @@
     "max": 96
   },
   {
+    "id": "SKY_HIGH",
+    "lore": [
+      "§7Increases the distance you can fall",
+      "§7before taking fall damage by §a+0.5",
+      "§7blocks.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 15§c.",
+      "§5§lEPIC FOREST SHARD"
+    ],
+    "attribute_id": "E19",
+    "shard_name": "Murderwing Shard",
+    "shard_id": "SHARD_MURDERWING",
+    "name": "Sky High",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDMzNDc1ODE0MSwKICAicHJvZmlsZUlkIiA6ICIwNWU0OTczZTk5ZDk0NGY2YjczNjY3ZTEzMzdiY2IzOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lX1NraW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmVmOTlkZDllNmVmMDFkOWIzZmJmZDIxOWY5MzBlNzQ2OWEzY2VhYjBmZmJiYzc1YzEyOGYwNjQ3ZGY5OTcwOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "EPIC",
+    "max": 32
+  },
+  {
+    "id": "SLAYER_DISCOUNT",
+    "lore": [
+      "§7Grants a §a+0.5%§7 discount on starting",
+      "§4Slayer Quests§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 20§c.",
+      "§6§lLEGENDARY COMBAT SHARD"
+    ],
+    "attribute_id": "L54",
+    "shard_name": "Paragon Shard",
+    "shard_id": "SHARD_PARAGON",
+    "name": "Slayer Discount",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjgzMjk3MzE1NCwKICAicHJvZmlsZUlkIiA6ICJmNjhhMmE2NTNkNjU0NTQ1ODE0ZDg0OWI5NmU0MDllOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMdWdhdHR1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc1YjQ0OTQyMGYzYzE4OTFiZjY2M2MwNjIzZjEyMTBiYmJlMDY2ODY2Y2RjNGM4ZGExY2QxZjljYmZhMWVlZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "LEGENDARY",
+    "max": 24
+  },
+  {
+    "id": "SLAYER_PROGRESS",
+    "lore": [
+      "§4Slayer Quests §7start §a+1% §7complete.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 15§c.",
+      "§5§lEPIC FOREST SHARD"
+    ],
+    "attribute_id": "E25",
+    "shard_name": "Wolverine Shard",
+    "shard_id": "SHARD_WOLVERINE",
+    "name": "Slayer Progress",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTc1MTM4NywKICAicHJvZmlsZUlkIiA6ICI0ZmNlNWJhYjJmMjI0MTdjYTk1YWVlYzA4OTRhMTY3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWYWF0d2FzdGFibGV0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I0ZGY4MDliMmJiMGM4MGM3NTA5ZGM4NmI3YjVjMDI2ZmUzMDEyNjZjMzZjNTRjNzVmZTFiZTc0ZDllN2Y4YjIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "EPIC",
+    "max": 32
+  },
+  {
+    "id": "SLEEPY_SPREAD",
+    "lore": [
+      "§7Grants §e+1  Mining Spread§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE COMBAT SHARD"
+    ],
+    "attribute_id": "R66",
+    "shard_name": "Snoozle Shard",
+    "shard_id": "SHARD_SNOOZLE",
+    "name": "Sleepy Spread",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjgzMzYwOTc1MCwKICAicHJvZmlsZUlkIiA6ICIxODEzOTc2N2Q2YjU0N2E5OWY3M2M0ZjRmZjEzOTZhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJVc2FXaW1hIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZmMWEzZTY5OTA4MWQ2M2RmNzFjNWNiMWZhMGNkNDM1NzkzNWQ4MGM2OWUwN2YxMmYxODEwODkzMWZmYzY0ZWYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
     "id": "SNOW_ELEMENTAL",
     "lore": [
-      "§7Grants §b+1 ✎ Intelligence§7.",
+      "§7Grants §b+1  Intelligence§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -3148,9 +5264,29 @@
     "max": 24
   },
   {
+    "id": "SOCIAL_WISDOM",
+    "lore": [
+      "§7Grants §3+0.5 ☯ Social Wisdom§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 15§c.",
+      "§5§lEPIC FOREST SHARD"
+    ],
+    "attribute_id": "E58",
+    "shard_name": "Mountain Goat Shard",
+    "shard_id": "SHARD_MOUNTAIN_GOAT",
+    "name": "Social Wisdom",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNjIzNDI0MSwKICAicHJvZmlsZUlkIiA6ICI2YmU4ODdiZmRmZTk0OWQ0OGViZTcyYzA3OWM3ZGEyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGcmFuY3l2b2wiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmI0ZGRmZTZiOGI1Y2ZiMDNiZTZhMTczYmJiN2RmYzRhZDVkYzliN2ZkMzRkYzhlODRmYTdmNzFjMWI4NWEwMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "EPIC",
+    "max": 32
+  },
+  {
     "id": "SOLAR_POWER",
     "lore": [
-      "§7Grants §6+5 ☘ Farming Fortune§7 during",
+      "§7Grants §6+5  Farming Fortune§7 during",
       "§7the day.",
       "",
       "§7You can Syphon this shard from",
@@ -3164,14 +5300,59 @@
     "shard_id": "SHARD_FIREFLY",
     "name": "Solar Power",
     "item": "minecraft:player_head",
-    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyOTY0Mjg5NDQ1MSwKICAicHJvZmlsZUlkIiA6ICIwNDg0N2ZjNWM5YjY0NTQ1YjI1ZWJkYmJiNzdjNjg2NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJuYXFsdWEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZThkMTYxODBmYTRjODAyYWI2YjI2NTdjNDhkMGExMWM5M2IzYTNlNTI3MGFkZDk1NDVmZWIzNzhmNjMwMmRiYiIKICAgIH0KICB9Cn0=",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2MDQ1MDQyMjEzNiwKICAicHJvZmlsZUlkIiA6ICIzNDY4Y2VjMWFlOTY0YWRmYWQyNjEzMGEwZGQ0NjRkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzdXJlZWxta18iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGNlNzllOTBhZGYzNDcxOGYzMTNlYzI0ZDZjNjEzNWI2OWIzNzg4YzYxODQ5ODQ0NmNjYzgzY2E2NDBjMGIxNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "EPIC",
+    "max": 32
+  },
+  {
+    "id": "SOUL_SNATCHER",
+    "lore": [
+      "§7Mobs are §a+1%§7 more likely to drop",
+      "§7their soul when killed.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "U55",
+    "shard_name": "Solsnatcher Shard",
+    "shard_id": "SHARD_SOLSNATCHER",
+    "name": "Soul Snatcher",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjgzMzYxMDUzNiwKICAicHJvZmlsZUlkIiA6ICIxMTM0OTAxMTU3ZTE0Yzg0OTE1YTNjMGY3M2RmYzM0NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJab2xlZWV5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE5NWQ4NThjYTk0NjM0ZTUxNWIxMDVkNWVlNDUyNjlmN2M0Njc1ZDg3N2IzMzhhYzVjMWMzODE1OGU1NDcwNTgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "SPECIAL_UPGRADES",
+    "lore": [
+      "§5Summoning Eyes §7you drop have a",
+      "§a+0.5% §7chance to be recombobulated.",
+      "§8Placing recombobulated Summoning",
+      "§8Eyes increases your chance of",
+      "§8spawning a Superior Dragon.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 15§c.",
+      "§5§lEPIC COMBAT SHARD"
+    ],
+    "attribute_id": "E12",
+    "shard_name": "Special Zealot Shard",
+    "shard_id": "SHARD_SPECIAL_ZEALOT",
+    "name": "Special Upgrades",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYwOTM1MzkwODE3MSwKICAicHJvZmlsZUlkIiA6ICI4MmM2MDZjNWM2NTI0Yjc5OGI5MWExMmQzYTYxNjk3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3ROb3RvcmlvdXNOZW1vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q1MjhiMDg2YWM0NDJjMmFkZDQ1OTM3ZjY1NGVkZTcwZWI0NWMwYTU2NjdmMjM5N2E4M2I3YmQ5OTRmMmI1NjQiCiAgICB9CiAgfQp9",
     "rarity": "EPIC",
     "max": 32
   },
   {
     "id": "SPEED",
     "lore": [
-      "§7Grants §f+1 ✦ Speed§7.",
+      "§7Grants §f+1  Speed§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -3209,12 +5390,13 @@
   {
     "id": "SPIRIT_AXE",
     "lore": [
-      "§7Grants §a+3% §7more §c❁ Damage §7against",
-      "§2⸙ Woodland §7mobs.",
+      "§7Grants §a+3% §7more §c Damage §7against",
+      "§2 Woodland §7mobs.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
       "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
       "§a§lUNCOMMON WATER SHARD"
     ],
     "attribute_id": "U29",
@@ -3223,6 +5405,50 @@
     "name": "Woodland Ruler",
     "item": "minecraft:player_head",
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTU4ODM0OTY2NTM0OCwKICAicHJvZmlsZUlkIiA6ICIyM2YxYTU5ZjQ2OWI0M2RkYmRiNTM3YmZlYzEwNDcxZiIsCiAgInByb2ZpbGVOYW1lIiA6ICIyODA3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMwNTE5Zjc5ZTU4MjkxMzZjM2RmMTBiNmJkNzI3ZGIyNTU3MTdjODdlNWMxMDI4OTJlZjY3ZTdmNDY5Mjk1MTUiCiAgICB9CiAgfQp9",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "SPLENDOR",
+    "lore": [
+      "§7Grants a §6+2.5%§7 chance to get a",
+      "§7bonus §5Rainbow Feather§7 when §ehunting",
+      "§7a §6§lSPARKLING §a Critter§7 in the",
+      "§2Critter Safari§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 20§c.",
+      "§6§lLEGENDARY FOREST SHARD"
+    ],
+    "attribute_id": "L22",
+    "shard_name": "Macaw Shard",
+    "shard_id": "SHARD_MACAW",
+    "name": "Splendor",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjgzMjk3Mzg2NCwKICAicHJvZmlsZUlkIiA6ICI1Y2YzMDFmZDdkM2I0MGI5YjliMjYyNDQxN2Y4ZDZkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJIZXl6ZXluIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FkN2FjYmQ5Y2Q2ZmQ2ZWM3NWViZTJlN2MyYjQyZDRiYjBkZWRmOWZiYmQzYzZmNWEyYTkzM2RiMzg3MGUwZDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "LEGENDARY",
+    "max": 24
+  },
+  {
+    "id": "SPRAYONATOR_SERENDIPITY",
+    "lore": [
+      "§7Grants a §a+1% §7chance for §2 Pests §7to",
+      "§7drop an extra §2Sprayonator Material§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "U91",
+    "shard_name": "Rat Shard",
+    "shard_id": "SHARD_RAT",
+    "name": "Sprayonator Serendipity",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYxODQxOTcwMTc1MywKICAicHJvZmlsZUlkIiA6ICI3MzgyZGRmYmU0ODU0NTVjODI1ZjkwMGY4OGZkMzJmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdUlJZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYThhYmI0NzFkYjBhYjc4NzAzMDExOTc5ZGM4YjQwNzk4YTk0MWYzYTRkZWMzZWM2MWNiZWVjMmFmOGNmZmU4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
     "rarity": "UNCOMMON",
     "max": 64
   },
@@ -3236,7 +5462,7 @@
       "§7your §aHunting Box§7.",
       "",
       "§4❣ §cRequires §aHunting Skill 20§c.",
-      "§6§lLEGENDARY COMBAT SHARD"
+      "§6§lLEGENDARY WATER SHARD"
     ],
     "attribute_id": "L32",
     "shard_name": "Sun Fish Shard",
@@ -3246,6 +5472,27 @@
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyNjUxMDU4MTU0NiwKICAicHJvZmlsZUlkIiA6ICJmMjc0YzRkNjI1MDQ0ZTQxOGVmYmYwNmM3NWIyMDIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJIeXBpZ3NlbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ZjUxZGM0OGYxNDEwNzIzNWRhNDA2MDE4NzYyZThiMzE5YzEwMzZjNzg1OGFiNzQ1OTllZmI5M2QzYWY3MGVmIgogICAgfQogIH0KfQ==",
     "rarity": "LEGENDARY",
     "max": 24
+  },
+  {
+    "id": "STARLYN_TRAINING",
+    "lore": [
+      "§7Gain §a+0.5% §7more points in §dStarlyn",
+      "§dContests§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON WATER SHARD"
+    ],
+    "attribute_id": "U62",
+    "shard_name": "Solar Shard",
+    "shard_id": "SHARD_SOLAR",
+    "name": "Starlyn Training",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMTc2NDkxMTE5MiwKICAicHJvZmlsZUlkIiA6ICJiZWNlZGU1YmRkODY0YTkwOTc3MTRmODk0ZWUxNmE3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYW1hQ29tcG9zZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2I2YjE4N2RmNjc0MTRiNWU5MjJiMzRmMGIwZjdhYTU4MDFjMzFhYzZlMjExMjM0Y2VmMDlmYzZlYzg5MjYyOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "UNCOMMON",
+    "max": 64
   },
   {
     "id": "STAR_BAIT",
@@ -3271,7 +5518,7 @@
   {
     "id": "STONE_ELEMENTAL",
     "lore": [
-      "§7Grants §c+1 ❁ Strength§7.",
+      "§7Grants §c+1  Strength§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -3291,7 +5538,7 @@
   {
     "id": "STORM_ELEMENTAL",
     "lore": [
-      "§7Grants §c+1 ❁ Strength§7.",
+      "§7Grants §c+1  Strength§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -3310,7 +5557,7 @@
   {
     "id": "STRONG_ARMS",
     "lore": [
-      "§7Your Axe gains §2+3 ∮ Sweep§7 on",
+      "§7Your Axe gains §2+3  Sweep§7 on",
       "§7throws.",
       "",
       "§7You can Syphon this shard from",
@@ -3331,7 +5578,7 @@
   {
     "id": "STRONG_LEGS",
     "lore": [
-      "§7Your Axe gains §2+3 ∮ Sweep§7 on melee.",
+      "§7Your Axe gains §2+3  Sweep§7 on melee.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -3349,9 +5596,156 @@
     "max": 64
   },
   {
+    "id": "SUBTERRANEAN_FORTUNE",
+    "lore": [
+      "§7Grants §b+0.5  Magic Find §7on §6",
+      "§6Subterranean §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE COMBAT SHARD"
+    ],
+    "attribute_id": "R75",
+    "shard_name": "Chuckwalla Shard",
+    "shard_id": "SHARD_CHUCKWALLA",
+    "name": "Subterranean Fortune",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA2MDY1OCwKICAicHJvZmlsZUlkIiA6ICIzZDU1OGQ3Y2NmZjk0ODdkYWE1MzhkMjM4NGE3OWFkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnlwdGljTG9zZXIxMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYzYzY2QwZDQ4MDk3MWE3YmVhZTVmZDUwM2U1ZDUxNjU4Y2Q5MDYzMzA4NDNjYmFkOTIwMThmNWI5OGI0ZmU1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
+    "id": "SUBTERRANEAN_RESISTANCE",
+    "lore": [
+      "§7Grants §a+4  Defense §7against §6",
+      "§6Subterranean §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "C46",
+    "shard_name": "Shyworm Shard",
+    "shard_id": "SHARD_SHYWORM",
+    "name": "Subterranean Resistance",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzODQwMDA4NCwKICAicHJvZmlsZUlkIiA6ICIzYzBkZWU0NzE5MDM0OTc5OWE1ZmJlYTE2NTgwZmRmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZXF1YXJpIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I0Mjg3YjhhMGE2NDJkYWM1MzVhNmVlMjk0NTllZmQxN2Q1Y2VlMWViMzU5ZTQzNmJjOGU3YWJiYTNkYTE0YjciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "COMMON",
+    "max": 96
+  },
+  {
+    "id": "SUBTERRANEAN_RULER",
+    "lore": [
+      "§7Grants §a+3% §7more §c Damage §7against",
+      "§6 Subterranean §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "U58",
+    "shard_name": "Driftling Shard",
+    "shard_id": "SHARD_DRIFTLING",
+    "name": "Subterranean Ruler",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA1MjgyNiwKICAicHJvZmlsZUlkIiA6ICJlY2ExZDJjMWU4ODg0ZjA3OGQxZTBlZGU2ODE4MGRhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICI0MDRDb3NtaWNhbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNGM0ZjhlNWZjZTFlYzJkMjk5Y2I4YTM5NTc5MmVjZGRjNDk3YTFkOGFmODZmYWFhNWUyMDM3MzAxNmM3MjI1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "THUNDER_SPEED",
+    "lore": [
+      "§7Your §5Thunder§7, §5Storm§7, and §6Hurricane",
+      "§7Bottles fill §a+1% §7faster.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE WATER SHARD"
+    ],
+    "attribute_id": "R68",
+    "shard_name": "Thunder Shard",
+    "shard_id": "SHARD_THUNDER",
+    "name": "Thunder Speed",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjQzNTE1MjY3MCwKICAicHJvZmlsZUlkIiA6ICJiMGQ0YjI4YmMxZDc0ODg5YWYwZTg2NjFjZWU5NmFhYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lU2tpbl9vcmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTNmOTI1ZDI3NGVjNjVlMDAyMDI4Yzg5OGUxMWFhOWI3NmQ2ZDY3YWEzMDVhZDljN2M2OWZlNjFjZWM1ZTY2NCIKICAgIH0KICB9Cn0=",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
+    "id": "TICKET_DISCOUNT",
+    "lore": [
+      "§7Upgrading §2Safari Tickets §7at the",
+      "§2Safari Manager §7costs §a+1% §7less",
+      "§2Forest Essence§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "U85",
+    "shard_name": "June Bug Shard",
+    "shard_id": "SHARD_JUNE_BUG",
+    "name": "Ticket Discount",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY4NzM2ODE1MywKICAicHJvZmlsZUlkIiA6ICJiMzMwZWE4OWE3MTY0OWZjYTMwZmI5ZjU5MTQ5ZjNjMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUQUxLX0FMT1RfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk3MjEwNGU1MDllNmE1ZTY1ZDAyYTViMWQ5ZmY4OGFkNWQ2NWZjNmExMTkyMGNlMmU2MTUyOTNhMGY0NmRmZjEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "TIKI_TRACKER",
+    "lore": [
+      "§7Grants §d+0.5  Tracking§7 towards §dWiki",
+      "§dTiki§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON COMBAT SHARD"
+    ],
+    "attribute_id": "U72",
+    "shard_name": "Sneaky Tiki Shard",
+    "shard_id": "SHARD_SNEAKY_TIKI",
+    "name": "Tiki Tracker",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNzcyNzQ3NiwKICAicHJvZmlsZUlkIiA6ICIyM2RjZjc3NWQ5YzQ0MGE1ODc3MjE4ZjU3NzNlMTUzNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZWx1c2lvblNrZXRjaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMGZhZDBjMWViNDI2MzM2MTBkZjdlM2YyN2Q3YzM4Y2E5YzNlNjUzMGJmZTFiYWI1YTNkNTIzODgyNGE3MzA3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "TITANOBOA_TRACKER",
+    "lore": [
+      "§7Grants §d+0.5  Tracking§7 towards",
+      "§dTitanoboa§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON WATER SHARD"
+    ],
+    "attribute_id": "U50",
+    "shard_name": "Water Snake Shard",
+    "shard_id": "SHARD_WATER_SNAKE",
+    "name": "Titanoboa Tracker",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY4OTcwNjk0NywKICAicHJvZmlsZUlkIiA6ICI2NmRmYzFmNTRlNTU0ZTZmODJjNTA5ZjM1NTJiYTkwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJadWFyaWciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWIwNmQxNTE1NWM2MGQwZjBmMjY3YmUwNWM4NDM2YzVhMWU3NjRhOGM4YWNhMjM2YmIzNzIyM2Y0OWQ5YTFkMCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
     "id": "TORRENT_ELEMENTAL",
     "lore": [
-      "§7Grants §b+1 ✎ Intelligence§7.",
+      "§7Grants §b+1  Intelligence§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -3366,6 +5760,108 @@
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyNjUxMTE0OTU3NywKICAicHJvZmlsZUlkIiA6ICIzY2I3YTA3YWY3ZjM0ZWZiYTlkNGI4ODQ3NDM4Mzc0ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVfUmVubmllX1lUIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzMzQzMTg1OGQzZjgzNzM1N2E1ZmUzMWRmMDFmMWI0ZDJmZjQ1NWM3NmU0MTAxNDBkYTcwM2Q3NzJjMGEwNDAiCiAgICB9CiAgfQp9",
     "rarity": "RARE",
     "max": 48
+  },
+  {
+    "id": "TORRHUS_DIVER",
+    "lore": [
+      "§7Grants §9+0.5  Pressure Resistance",
+      "§7while on §6Torrhus Canyon§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON WATER SHARD"
+    ],
+    "attribute_id": "C56",
+    "shard_name": "Timil Shard",
+    "shard_id": "SHARD_TIMIL",
+    "name": "Torrhus Diver",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3ODY1NjE5OTQ1OSwKICAicHJvZmlsZUlkIiA6ICIyYmQyZTAxNGI5YWE0YzRjYmRmMzdmZjc5MzE2NDE5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdXRvU2tpbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNWMwMjRhZWVjMWM4ZGM5OGYyYjQyYWRkNWIwZjAyMDc4OGMzZjk4MGRmZjVlODYzNjM2NzYxZTYwYzVlZmZlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "COMMON",
+    "max": 96
+  },
+  {
+    "id": "TORRHUS_MASTERY",
+    "lore": [
+      "§7Grants §6+10  Helix Fortune§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "C52",
+    "shard_name": "Firefox Shard",
+    "shard_id": "SHARD_FIREFOX",
+    "name": "Torrhus Mastery",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjAwNTIwMywKICAicHJvZmlsZUlkIiA6ICJhYzY1NDYwOWVkZjM0ODhmOTM0ZWNhMDRmNjlkNGIwMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGFjZUd1cmxTa3kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzIyZmMwMjQ4MTAxNjQ1ODhmYzE1M2E4ZTUxNjBlMWQwM2M3NTA5ZGJiZjg4Yjg3MGFkZGJlNmY1YTI5MjY0NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "COMMON",
+    "max": 96
+  },
+  {
+    "id": "TORRHUS_SERENDIPITY",
+    "lore": [
+      "§7Increases the odds of finding rare",
+      "§7items in §2Tree Gifts §7at §6Torrhus",
+      "§6Canyon §7by §a+2%§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE WATER SHARD"
+    ],
+    "attribute_id": "R83",
+    "shard_name": "Stingray Shard",
+    "shard_id": "SHARD_STINGRAY",
+    "name": "Torrhus Serendipity",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyOTY5Nzg4NjE0MiwKICAicHJvZmlsZUlkIiA6ICJmYmFkNTg0ZmEyYTA0MjZhODZmMzgyMGFhZGEwOWVkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb2xpZFRvYXN0ZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNmQxZGMyYTg4NmRhYTljNzY3ZjA3NTQzN2NjNzY2ZTNjN2I0NzliNjI2NWJlYWY1NzVlOGM3NWY3N2I0MjZmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
+    "id": "TOUGH_CLAWS",
+    "lore": [
+      "§7Whenever you cut a §aTree §7with an",
+      "§7Axe, reduce its §cToughness §7by §a+0.1§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 20§c.",
+      "§6§lLEGENDARY FOREST SHARD"
+    ],
+    "attribute_id": "L40",
+    "shard_name": "Grizzly Bear Shard",
+    "shard_id": "SHARD_GRIZZLY_BEAR",
+    "name": "Tough Claws",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTk4ODIzNiwKICAicHJvZmlsZUlkIiA6ICIwNTljODIxYzhhODU0NGJiOWJiODVhOGMxNjVhYTc5YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJoZWxsc3RydWNrZWR6IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzczNjIxYmIwMmI4NmJmMzU4MzRjOWM0NzU3ZDNmNWUwYzNmODcwYTNjMjMwMDQ0YWEyMTMwNGNlODlkNDY3YTAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "LEGENDARY",
+    "max": 24
+  },
+  {
+    "id": "TREASURE_FISHER",
+    "lore": [
+      "§7Grants §6+0.1  Treasure Chance§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 20§c.",
+      "§6§lLEGENDARY WATER SHARD"
+    ],
+    "attribute_id": "L38",
+    "shard_name": "Ghost Crab Shard",
+    "shard_id": "SHARD_GHOST_CRAB",
+    "name": "Treasure Fisher",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA2MDk3OCwKICAicHJvZmlsZUlkIiA6ICJiMGQ0YjI4YmMxZDc0ODg5YWYwZTg2NjFjZWU5NmFhYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lU2tpbl9vcmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmZhMmE2MjAxZTQwMDY2MTc0MDc2MTNiYzg4OGU0ZTEzMGUzOWMwMTM0NTc3ZDg0OGJiNjQ3NTYyNDc4OGM2MyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "LEGENDARY",
+    "max": 24
   },
   {
     "id": "TREE_LURKER",
@@ -3429,8 +5925,8 @@
   {
     "id": "ULTIMATE_DNA",
     "lore": [
-      "§7Grants §6+1 ☘ Mining Fortune§7, §6☘",
-      "§6Farming Fortune§7, and §6☘ Foraging",
+      "§7Grants §6+1  Mining Fortune§7, §6",
+      "§6Farming Fortune§7, and §6 Foraging",
       "§6Fortune§7.",
       "",
       "§7You can Syphon this shard from",
@@ -3451,8 +5947,8 @@
   {
     "id": "UNDEAD",
     "lore": [
-      "§7Grants §a+3% §7more §c❁ Damage §7against",
-      "§2༕ Undead §7mobs.",
+      "§7Grants §a+3% §7more §c Damage §7against",
+      "§2 Undead §7mobs.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -3490,7 +5986,7 @@
   {
     "id": "UNDEAD_RESISTANCE",
     "lore": [
-      "§7Grants §a+4 ❈ Defense §7against §2༕",
+      "§7Grants §a+4  Defense §7against §2",
       "§2Undead §7mobs.",
       "",
       "§7You can Syphon this shard from",
@@ -3508,9 +6004,30 @@
     "max": 96
   },
   {
+    "id": "UNDERWATER_TRACKER",
+    "lore": [
+      "§7Grants §d+0.5  Tracking§7 while on",
+      "§bFishing Islands§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE WATER SHARD"
+    ],
+    "attribute_id": "R80",
+    "shard_name": "Nozzlenose Shard",
+    "shard_id": "SHARD_NOZZLENOSE",
+    "name": "Underwater Tracker",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA2NTQ0MSwKICAicHJvZmlsZUlkIiA6ICJlOThhZTBlMTI5MDg0ZDA5OTk0MTg4N2Q2YTk0ZTI2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXh5SGF1c2VNYXN0ZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTYwODgzZmQ4ZjliNWU4ZjQyMWEzYThiMDkxOGFjMGRkN2U2YTNkZWRiMzFhM2IyODgzMjdkNmRhODk2YzBjOSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
     "id": "UNITY_IS_STRENGTH",
     "lore": [
-      "§7Grants §2+0.02 ∮ Sweep §7for each",
+      "§7Grants §2+0.02  Sweep §7for each",
       "§7unique §f§lCommon §7Attribute you own.",
       "",
       "§7You can Syphon this shard from",
@@ -3530,7 +6047,7 @@
   {
     "id": "UNLIMITED_ENERGY",
     "lore": [
-      "§7Your §9☠ Crit Damage §7is increased by",
+      "§7Your §9 Crit Damage §7is increased by",
       "§9+0.1%§7.",
       "",
       "§7You can Syphon this shard from",
@@ -3551,7 +6068,7 @@
   {
     "id": "UNLIMITED_POWER",
     "lore": [
-      "§7Your §c❁ Strength §7is increased by",
+      "§7Your §c Strength §7is increased by",
       "§c+0.1%§7.",
       "",
       "§7You can Syphon this shard from",
@@ -3577,6 +6094,7 @@
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
       "",
+      "§4❣ §cRequires §aHunting Skill 15§c.",
       "§5§lEPIC COMBAT SHARD"
     ],
     "attribute_id": "E33",
@@ -3620,11 +6138,116 @@
     "attribute_id": "C25",
     "shard_name": "Mudworm Shard",
     "shard_id": "SHARD_MUDWORM",
-    "name": "Visitor Bait",
+    "name": "Visitor Speed",
     "item": "minecraft:player_head",
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNTUxOTczMCwKICAicHJvZmlsZUlkIiA6ICJiMmM5ZTUyZjNhODU0YzQ4YmJjMmMwM2JjM2U0NzdiMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJJU05FRVpFREFUWU9VIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FlZDAyYzYzMjlhODlmMDFhN2I4NTIzZjY3ZGM0YjA5NmJmZmY4OTYxZjExYmEzMzg0Y2QyZmQ2MGMyYzE4OWYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
     "rarity": "COMMON",
     "max": 96
+  },
+  {
+    "id": "VISITOR_CHEESE",
+    "lore": [
+      "§aGarden Visitors§7 have a §a+0.25%",
+      "§7chance to bring §aTasty Cheese§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "U67",
+    "shard_name": "Woodlouse Shard",
+    "shard_id": "SHARD_WOODLOUSE",
+    "name": "Visitor Cheese",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzcwODg2OTg0MywKICAicHJvZmlsZUlkIiA6ICJjMjVlMWMxZTE1YTQ0N2IwOTQ2Zjg2YzYzYzhjYjZkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiaWdpYm9zMzIxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcwNTU2ZDQ0YzFhOWNiNWU0OWFiZTRkYjgxZDViNzc1MGQ4ZjAxOGYzYWJkMTZlZmVjYjllNzJlYThlOGE3YzgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "VISITOR_COMPOST",
+    "lore": [
+      "§aGarden Visitors§7 have a §a+0.25%",
+      "§7chance to bring §aCompost§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON COMBAT SHARD"
+    ],
+    "attribute_id": "U63",
+    "shard_name": "Parched Shard",
+    "shard_id": "SHARD_PARCHED",
+    "name": "Visitor Compost",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MDk2OCwKICAicHJvZmlsZUlkIiA6ICJhYzY1NDYwOWVkZjM0ODhmOTM0ZWNhMDRmNjlkNGIwMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGFjZUd1cmxTa3kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2JhYjI2ZWExZTk1NDY4MWU1ZmQ4MmY3M2QwMTVjNTM3MDIxMjFjYzFjYzIxOGViYTUxY2I3Y2ZiMTA2MWFiYyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "VISITOR_DUNG",
+    "lore": [
+      "§aGarden Visitors§7 have a §a+0.25%",
+      "§7chance to bring §aDung§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "U88",
+    "shard_name": "Dung Beetle Shard",
+    "shard_id": "SHARD_DUNG_BEETLE",
+    "name": "Visitor Dung",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNjYwMjE3NiwKICAicHJvZmlsZUlkIiA6ICJkMWU5ODViZGYyMTg0OWQwYmFlZTNlYjBiNDM2ZmExYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb3NleUNoYW40MjAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWQyYTVkOTFjYzg0ZjI0ZWQzNTRhZDlmZjZjYzMzZjA2YzQ3MTI4YmUwM2ZiMDg5NmZiOTk1ZjdhODE1NDBhZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "VISITOR_HONEY",
+    "lore": [
+      "§aGarden Visitors§7 have a §a+0.25%",
+      "§7chance to bring §aHoney Jar§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "U52",
+    "shard_name": "Honeybug Shard",
+    "shard_id": "SHARD_HONEYBUG",
+    "name": "Visitor Honey",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA2MTg5MywKICAicHJvZmlsZUlkIiA6ICIwMzBlMDA1OWQwY2M0YTZhODY3N2RkZWU3MjEzMjg1MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbXVnRm9vZGllIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc2M2FjNjU2ZTJhZDQ3N2U4MTIxNWQ1MGNmNTc4MzQxOTg1YjllZTQwNzNlZTdmMWQzZWQ1YThhNmY0ZTZmYzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "VISITOR_PLANT",
+    "lore": [
+      "§aGarden Visitors§7 have a §a+0.25%",
+      "§7chance to bring §aPlant Matter§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "U70",
+    "shard_name": "Red Panda Shard",
+    "shard_id": "SHARD_RED_PANDA",
+    "name": "Visitor Plant",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNjQ2MTc4NywKICAicHJvZmlsZUlkIiA6ICI2YTQ3NjRhZWEwNWY0MTE1OTc0NzFlZjNjYWU4ZTdmZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJiYWRlZW5kamVoIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM0YWYwYTcwN2U2NDllNzBiMWQ3MWEzYzE5NjUwZDIzY2I2YjhmYTRhZWJkYWIzOTYwYzA0NjRiYWI0NjNkM2YiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "UNCOMMON",
+    "max": 64
   },
   {
     "id": "WARRIOR",
@@ -3670,7 +6293,7 @@
   {
     "id": "WATER_ELEMENTAL",
     "lore": [
-      "§7Grants §b+1 ✎ Intelligence§7.",
+      "§7Grants §b+1  Intelligence§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -3711,7 +6334,7 @@
   {
     "id": "WIND_ELEMENTAL",
     "lore": [
-      "§7Grants §c+1 ❁ Strength§7.",
+      "§7Grants §c+1  Strength§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -3771,6 +6394,28 @@
     "max": 48
   },
   {
+    "id": "WITCHS_FORTUNE",
+    "lore": [
+      "§7Increases your chance of dropping",
+      "§6Ingredients §7during the §5Year of the",
+      "§5Witch§7 by §a+1%§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON WATER SHARD"
+    ],
+    "attribute_id": "U17",
+    "shard_name": "Sea Witch Shard",
+    "shard_id": "SHARD_SEA_WITCH",
+    "name": "Witch's Fortune",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY1ODA3MzI4MDM2MywKICAicHJvZmlsZUlkIiA6ICI1MjhlYzVmMmEzZmM0MDA0YjYwY2IwOTA5Y2JiMjdjYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdWxpenppIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZjZTY2MDQxNTdmYzRhYjU1OTFlNGJjZjUwN2E3NDk5MThlZTljNDFlMzU3ZDQ3Mzc2ZTBlZTczNDIwNzRjOTAiCiAgICB9CiAgfQp9",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
     "id": "WITHER_ESSENCE",
     "lore": [
       "§7Gain §a+1% §7more §8Wither Essence§7.",
@@ -3790,9 +6435,50 @@
     "max": 48
   },
   {
+    "id": "WOODLAND_FORTUNE",
+    "lore": [
+      "§7Grants §b+0.5  Magic Find §7on §2",
+      "§2Woodland §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE FOREST SHARD"
+    ],
+    "attribute_id": "R76",
+    "shard_name": "Hideonfloor Shard",
+    "shard_id": "SHARD_HIDEONFLOOR",
+    "name": "Woodland Fortune",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjgzMjk3MDQ0OCwKICAicHJvZmlsZUlkIiA6ICJlNzM4MTYzZTYwM2M0MTFkOTg4MzNiYzkyZTI4Y2IyYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJYZW5va3JhdGVzUml0dmEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjVkYjBhNmQwY2JkNzg4ZjhmNzMzMmE2NjBkODg5Y2NmODhlMmEwM2Y1MDhkM2Y5MGQ5MzUzOTE5NTY5NjBiMCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "RARE",
+    "max": 48
+  },
+  {
+    "id": "WOODLAND_RESISTANCE",
+    "lore": [
+      "§7Grants §a+4  Defense §7against §2",
+      "§2Woodland §7mobs.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "C31",
+    "shard_name": "Stag Beetle Shard",
+    "shard_id": "SHARD_STAG_BEETLE",
+    "name": "Woodland Resistance",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzcwODg3MTA0MiwKICAicHJvZmlsZUlkIiA6ICI5MTU1ZmYzNTNlMzc0ZmZlYjE0MmE5NmU2MzU2ZjA4NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJlbG5hZFhCIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc1NGI1NGU1YmZmZmU3MjUwYWEzYTA5MWI2OGYxZGQzZjUxZmZjNzY5N2QyZTNmMjFhZDAzOTI1ODllYjYxMzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "rarity": "COMMON",
+    "max": 96
+  },
+  {
     "id": "WOOD_ELEMENTAL",
     "lore": [
-      "§7Grants §c+2 ❤ Health§7.",
+      "§7Grants §c+2  Health§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -3806,6 +6492,26 @@
     "name": "Wood Elemental",
     "item": "minecraft:player_head",
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyNjUxMTEzMjE0MCwKICAicHJvZmlsZUlkIiA6ICJhNTdmZDE5MGZmM2U0YjBkYTEzMmY2OGUzOTU3ZjViMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4Y2VwdGlvbl9udWxsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJmNGQ4NWYwYWRkMDUzMGM4ZjY5YzZiN2ZjNmI5YTE4MzMzZDIxMTcxMDc0NDc0MzI1MTViMWZkMmM5MTVmNjkiCiAgICB9CiAgfQp9",
+    "rarity": "UNCOMMON",
+    "max": 64
+  },
+  {
+    "id": "YETI_TRACKER",
+    "lore": [
+      "§7Grants §d+0.5  Tracking §7towards §6Yeti§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON WATER SHARD"
+    ],
+    "attribute_id": "U53",
+    "shard_name": "Shuddersquid Shard",
+    "shard_id": "SHARD_SHUDDERSQUID",
+    "name": "Yeti Tracker",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjgzMzYwOTQwMiwKICAicHJvZmlsZUlkIiA6ICJjMWU1NzlmZjc0NjI0OTkzYTI5NTdlNjNjZGU5NDY1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lU2tpbl8xNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YTRkZmIwYjZjYTdlYTEyZWJmNDA2YzI5MTAxY2NlNjE4N2ZiOGZhZGZlNGU4MjY2NGEyMjVmNDU3NGUyOWU5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
     "rarity": "UNCOMMON",
     "max": 64
   },
@@ -3847,5 +6553,26 @@
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY1ODE3MzI0NDIxNywKICAicHJvZmlsZUlkIiA6ICIwYWMwY2IxMTI1MWE0ZjAwOTJjNjIyNzM2NjczMDNmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDbG91Y2wiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg3MDM1ZjUzNTIzMzRjMmNiYTZhYzRjNjVjMmI5MDU5NzM5ZDZkMGU4MzljMWRkOThkNzVkMmU3Nzk1Nzg0NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
     "rarity": "COMMON",
     "max": 96
+  },
+  {
+    "id": "ZEALOT_TRACKER",
+    "lore": [
+      "§7Grants §d+0.5§7 §d Tracking§7 towards",
+      "§dSpecial Zealots§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON COMBAT SHARD"
+    ],
+    "attribute_id": "U51",
+    "shard_name": "Gazer Shard",
+    "shard_id": "SHARD_GAZER",
+    "name": "Zealot Tracker",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA1NDA0NiwKICAicHJvZmlsZUlkIiA6ICIzMzU3MWJiY2UyMDE0MTRiYmNkMDYyMjEyZTI4MjBlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFkb21JbmF0b3I0NzgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDA3YjNjM2QyYzNmZTI1OWQ2OTIwN2ExNGNhNWNkOTk3MTNjNzA5NmJhMTIyYmI0MDMyNmYzNDg5ZTVkMGQ2YyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "UNCOMMON",
+    "max": 64
   }
 ]

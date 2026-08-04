@@ -3670,6 +3670,162 @@
     }
   },
   {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "ACCRETION_ARTIFACT"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Accretion Artifact"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Accessory Power: §6+8"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Increases the speed of your §5Pocket"
+        },
+        {
+          "text": "§5Black Holes §7by §a15%§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8Works while in Accessory Bag!"
+        },
+        {
+          "text": "§9§lRARE ACCESSORY"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/accelerative/accelerative_artifact",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "ACCRETION_RING"
+      },
+      "minecraft:custom_name": {
+        "text": "§aAccretion Ring"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Accessory Power: §6+5"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Increases the speed of your §5Pocket"
+        },
+        {
+          "text": "§5Black Holes §7by §a10%§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8Works while in Accessory Bag!"
+        },
+        {
+          "text": "§a§lUNCOMMON ACCESSORY"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/accelerative/accelerative_ring",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "ACCRETION_TALISMAN"
+      },
+      "minecraft:custom_name": {
+        "text": "§fAccretion Talisman"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Accessory Power: §6+3"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Increases the speed of your §5Pocket"
+        },
+        {
+          "text": "§5Black Holes §7by §a5%§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8Works while in Accessory Bag!"
+        },
+        {
+          "text": "§f§lCOMMON ACCESSORY"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/accelerative/accelerative_talisman",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
     "id": "minecraft:activator_rail",
     "components": {
       "minecraft:custom_data": {
@@ -14391,6 +14547,76 @@
     }
   },
   {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "BAG_OF_SEEDS"
+      },
+      "minecraft:custom_name": {
+        "text": "§eBag of Seeds"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Quest Item"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Can be placed in the §eBirdfeeder§7 to"
+        },
+        {
+          "text": "§7attract §eBirds§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§oA small bag containing a large"
+        },
+        {
+          "text": "§8§oamount of birdseed."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6This item will vanish from your"
+        },
+        {
+          "text": "§6inventory after leaving the §2Safari"
+        },
+        {
+          "text": "§2Zone§6!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§c§lSPECIAL"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/safari/quest/bag_of_seeds",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:special"
+    }
+  },
+  {
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
@@ -17101,7 +17327,7 @@
     }
   },
   {
-    "id": "minecraft:cobweb",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "BASIC_FISHING_NET"
@@ -20928,6 +21154,76 @@
     }
   },
   {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "BEE_SALIVA"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Bee Saliva"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Consumable"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Consume this item to permanently"
+        },
+        {
+          "text": "§7gain §6+1 Foraging Fortune§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7You can only consume §a5 §7of this item"
+        },
+        {
+          "text": "§7before the scratching at the back"
+        },
+        {
+          "text": "§7of your throat becomes too much to"
+        },
+        {
+          "text": "§7ignore."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to consume!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/bee_saliva",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
@@ -21380,6 +21676,79 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "BEHEMOTH_POT_OF_HONEYCOMB"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Behemoth Pot of Honeycomb"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Use on a §aTree §7with an active §2Tree"
+        },
+        {
+          "text": "§2Protection Order §7to lather it with"
+        },
+        {
+          "text": "§6Honeycomb§7!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Upon use, a unique §a Critter §7will"
+        },
+        {
+          "text": "§a§lINSTANTLY §7be attracted to the"
+        },
+        {
+          "text": "§6Honeycomb§7!"
+        },
+        {
+          "text": "§8Type of mob depends upon type of"
+        },
+        {
+          "text": "§8tree lathered."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Uses: §a10§7/§a10"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§4❣ §cRequires §aForaging Skill 30§c."
+        },
+        {
+          "text": "§6§lLEGENDARY"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_behemoth",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
     }
   },
   {
@@ -31306,6 +31675,67 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "BOTTLED_MISCHIEF"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Bottled Mischief"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Dropped by the §9Puck §7in §6Torrhus"
+        },
+        {
+          "text": "§6Canyon§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§oThe very essence of a Puck is"
+        },
+        {
+          "text": "§8§omischief. Though it seldom means"
+        },
+        {
+          "text": "§8§oharm, it should never be trusted."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/bottled_mischief",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
     }
   },
   {
@@ -44166,16 +44596,10 @@
           "text": ""
         },
         {
-          "text": "§7Grants you a §a+1.375% §7chance to"
+          "text": "§7Grants §b1.25❣ Charm Chance §7towards"
         },
         {
-          "text": "§7charm the mobs you defeat inside"
-        },
-        {
-          "text": "§7the Catacombs and capture their"
-        },
-        {
-          "text": "§9Shards§7."
+          "text": "§7mobs inside §cThe Catacombs§7."
         },
         {
           "text": "§7Duration: §612h"
@@ -60669,6 +61093,65 @@
     }
   },
   {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "CONDENSED_HONEYCOMB"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Condensed Honeycomb"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7A solid chunk of sweet-smelling"
+        },
+        {
+          "text": "§7honey. Its smell attracts all sorts of"
+        },
+        {
+          "text": "§7critters."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNzM3OTAxNCwKICAicHJvZmlsZUlkIiA6ICIxMzEzZGFmMDc2OGQ0YmQ5Yjc1ODJkMGI1NWUwZGQxNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMZW50aWNjaGllIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE3NmRmZWFhYjIwMDY2Mzk2YTM5YWRjYThlYmVlZDM2NzMwMGM0NDVhMTRkNDM1NDgxMDZiNGRjYWU2MWNiNTUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
     "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
@@ -64511,6 +64994,82 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "CRITTER_CAPSULE"
+      },
+      "minecraft:custom_name": {
+        "text": "§cCritter Capsule"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Hunting Tool"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6Ability: Capture  §e§lRIGHT CLICK"
+        },
+        {
+          "text": "§7Throw your §cCritter Capsule§7 in the"
+        },
+        {
+          "text": "§7direction you're facing. If it hits a §a"
+        },
+        {
+          "text": "§aCritter§7, the capsule will attempt to"
+        },
+        {
+          "text": "§7catch them. Critters that drop a"
+        },
+        {
+          "text": "§7more valuable §3Shard§7 are less likely"
+        },
+        {
+          "text": "§7to be caught."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6This item will vanish from your"
+        },
+        {
+          "text": "§6inventory after leaving the §2Safari"
+        },
+        {
+          "text": "§2Zone§6!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§c§lSPECIAL CAPSULE"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/safari/critter_capsule",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:special"
     }
   },
   {
@@ -76065,6 +76624,73 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "DISTANT_ECHO"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Distant Echo"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Combinable in Anvil"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7When applied to an item, increases its"
+        },
+        {
+          "text": "§9Karma §7level by §a1§7!"
+        },
+        {
+          "text": "§8Can be applied once."
+        },
+        {
+          "text": "§8Requires Karma V!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§oThe Silkbreeze passes through the"
+        },
+        {
+          "text": "§8§oforest at such speed that, in most"
+        },
+        {
+          "text": "§8§ocases, it can only be heard, not seen."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6§lLEGENDARY"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/enchantmentupgrades/distant_echo",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
     }
   },
   {
@@ -92563,7 +93189,7 @@
       },
       "minecraft:enchantment_glint_override": true,
       "minecraft:custom_name": {
-        "text": "§9Enchanted Fig Log"
+        "text": "§aEnchanted Fig Log"
       },
       "minecraft:lore": [
         {
@@ -92573,7 +93199,7 @@
           "text": ""
         },
         {
-          "text": "§9§lRARE"
+          "text": "§a§lUNCOMMON"
         }
       ],
       "minecraft:profile": {
@@ -92597,11 +93223,11 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
     }
   },
   {
@@ -93239,6 +93865,179 @@
           "text": "§a§lUNCOMMON"
         }
       ]
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "ENCHANTED_HELIX_LOG"
+      },
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:custom_name": {
+        "text": "§aEnchanted Helix Log"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Collection Item"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7A hardened mass of helix logs all"
+        },
+        {
+          "text": "§7wrapped around each other in a"
+        },
+        {
+          "text": "§7spiral."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON"
+        }
+      ],
+      "minecraft:item_model": "minecraft:stripped_mangrove_log",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "ENCHANTED_HONEYCOMB"
+      },
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:custom_name": {
+        "text": "§aEnchanted Honeycomb"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Collection Item"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7A block of sparkling honey. It smells"
+        },
+        {
+          "text": "§7incredible."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON"
+        }
+      ],
+      "minecraft:item_model": "minecraft:honeycomb",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:honeycomb_block",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "ENCHANTED_HONEYCOMB_BLOCK"
+      },
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:custom_name": {
+        "text": "§9Enchanted Honeycomb Block"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Collection Item"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7A solid chunk of sweet-smelling"
+        },
+        {
+          "text": "§7honey. Its smell attracts all sorts of"
+        },
+        {
+          "text": "§7critters."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE"
+        }
+      ],
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
     }
   },
   {
@@ -93927,7 +94726,7 @@
       },
       "minecraft:enchantment_glint_override": true,
       "minecraft:custom_name": {
-        "text": "§9Enchanted Mangrove Log"
+        "text": "§aEnchanted Mangrove Log"
       },
       "minecraft:lore": [
         {
@@ -93943,7 +94742,7 @@
           "text": ""
         },
         {
-          "text": "§9§lRARE"
+          "text": "§a§lUNCOMMON"
         }
       ],
       "minecraft:profile": {
@@ -93967,11 +94766,11 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
     }
   },
   {
@@ -95532,6 +96331,70 @@
           "minecraft:trim",
           "minecraft:potion_contents",
           "minecraft:block_entity_data",
+          "minecraft:dyed_color"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "ENCHANTED_RUBY_VEILSHROOM"
+      },
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:custom_name": {
+        "text": "§aEnchanted Ruby Veilshroom"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Collection Item"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Ruby Veilshrooms only grow in"
+        },
+        {
+          "text": "§7Torrhus Canyon, nurtured by the"
+        },
+        {
+          "text": "§7relentless heat of the blazing sun"
+        },
+        {
+          "text": "§7beating down upon them."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/resources/ruby_veilshroom",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:painting/variant",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:potion_contents",
           "minecraft:dyed_color"
         ]
       },
@@ -100687,7 +101550,19 @@
           "text": ""
         },
         {
-          "text": "§7Creatures lose stamina §240% §7faster."
+          "text": "§a Critters §7lose stamina §240% §7faster."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6Ability: Tug "
+        },
+        {
+          "text": "§7Grants §d+2.5 Hunting Fortune §7on"
+        },
+        {
+          "text": "§2Forest Shards §7caught with this Lasso."
         },
         {
           "text": ""
@@ -100699,20 +101574,18 @@
       "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_2/hunting/entangler_lasso",
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -102597,10 +103470,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7§oSmoke is rising from the"
-        },
-        {
-          "text": "§7§ohouses."
+          "text": "§7§oSmoke is rising from the houses."
         }
       ],
       "minecraft:profile": {
@@ -102631,10 +103501,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7§oSo pristine...so"
-        },
-        {
-          "text": "§7§omagnificent!"
+          "text": "§7§oSo pristine...so magnificent!"
         }
       ],
       "minecraft:profile": {
@@ -102665,10 +103532,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7§oIs it glowing? And"
-        },
-        {
-          "text": "§7§opulsating?!"
+          "text": "§7§oIs it glowing? And pulsating?!"
         }
       ],
       "minecraft:profile": {
@@ -102699,10 +103563,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7§oSmells of fig..."
+          "text": "§7§oNature's hidden treasure, radiant"
         },
         {
-          "text": "§7§oand Phanflares..."
+          "text": "§7§oand precious."
         }
       ],
       "minecraft:profile": {
@@ -102762,10 +103626,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7§oThere's something dirty"
+          "text": "§7§oThere's something dirty about this"
         },
         {
-          "text": "§7§oabout this gold..."
+          "text": "§7§ogold..."
         }
       ],
       "minecraft:profile": {
@@ -102796,10 +103660,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7§oIce cold, yet warm to the"
-        },
-        {
-          "text": "§7§otouch."
+          "text": "§7§oIce cold, yet warm to the touch."
         }
       ],
       "minecraft:profile": {
@@ -102814,6 +103675,48 @@
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
+          "minecraft:dyed_color"
+        ]
+      }
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "ESSENCE_SAFARI"
+      },
+      "minecraft:custom_name": {
+        "text": "§dSafari Essence"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7§oThe sweet smell of the safari."
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjgzMjk3ODIzMCwKICAicHJvZmlsZUlkIiA6ICJkM2VmYjJmMThjMDU0YmRhYTE0OTVlZTY0ZDgxZjdlOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNTEsxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yZDllYjE5NTM2YTQ4MmZkZmZiYTNkY2Q4OWRjYmJkNWRhYTk0MTgwZDY5ZTE1NmQwNTIwNjFlMzc2MzczYWVhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:painting/variant",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:potion_contents",
           "minecraft:dyed_color"
         ]
       }
@@ -102894,10 +103797,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7§oIs this thing rotten? And"
+          "text": "§7§oIs this thing rotten? And the smell,"
         },
         {
-          "text": "§7§othe smell, yikes..."
+          "text": "§7§oyikes..."
         }
       ],
       "minecraft:profile": {
@@ -102928,10 +103831,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7§oWhy are we still here? Just"
+          "text": "§7§oWhy are we still here? Just to"
         },
         {
-          "text": "§7§oto suffer..."
+          "text": "§7§osuffer..."
         }
       ],
       "minecraft:profile": {
@@ -103497,7 +104400,19 @@
           "text": ""
         },
         {
-          "text": "§7Creatures lose stamina §260% §7faster."
+          "text": "§a Critters §7lose stamina §260% §7faster."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6Ability: Wrangle "
+        },
+        {
+          "text": "§7Grants §d+5 Hunting Fortune §7on"
+        },
+        {
+          "text": "§2Forest Shards §7caught with this Lasso."
         },
         {
           "text": ""
@@ -103509,20 +104424,18 @@
       "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_2/hunting/everstretch_lasso",
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -103545,13 +104458,7 @@
           "text": ""
         },
         {
-          "text": "§7Grants you a §a+1.1% §7chance to charm"
-        },
-        {
-          "text": "§7the mobs you defeat and capture"
-        },
-        {
-          "text": "§7their §9Shards§7."
+          "text": "§7Grants §b1❣ Charm Chance§7."
         },
         {
           "text": "§7Duration: §624h"
@@ -104562,6 +105469,85 @@
     "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
+        "id": "EXTREMELY_MILD_ADHESIVE"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Extremely Mild Adhesive"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Reforge Stone"
+        },
+        {
+          "text": "§8Combinable in Anvil"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Applies the §9Sticky §7reforge when"
+        },
+        {
+          "text": "§7combined with a fishing net."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9Sticky §7(§6Legendary§7):"
+        },
+        {
+          "text": "§7Pull: §b+15"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9Sticky Bonus"
+        },
+        {
+          "text": "§7Grants §d+2.5 Hunting Fortune §7on"
+        },
+        {
+          "text": "§9Water Shards§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§4❣ §cRequires §aMining Skill 10§c."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE REFORGE STONE"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/reforge_stones/extremely_mild_adhesive",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
         "id": "EXTREME_BINGO_CARD"
       },
       "minecraft:enchantment_glint_override": true,
@@ -105354,6 +106340,76 @@
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:dyed_color"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "FAMILY_SIZED_POT_OF_HONEYCOMB"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Family-Sized Pot of Honeycomb"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Use on a §aTree §7with an active §2Tree"
+        },
+        {
+          "text": "§2Protection Order §7to lather it with"
+        },
+        {
+          "text": "§6Honeycomb§7!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7After §a30m§7, a unique §a Critter §7will be"
+        },
+        {
+          "text": "§7attracted to the §6Honeycomb§7!"
+        },
+        {
+          "text": "§8Type of mob depends upon type of"
+        },
+        {
+          "text": "§8tree lathered."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Uses: §a3§7/§a3"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§4❣ §cRequires §aHoneycomb Collection III§c."
+        },
+        {
+          "text": "§9§lRARE"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_family_sized",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -111866,13 +112922,13 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "FIGHTING_BOOSTER"
       },
       "minecraft:custom_name": {
-        "text": "§fFighting Booster"
+        "text": "§fCommon Fighting Booster"
       },
       "minecraft:lore": [
         {
@@ -111909,14 +112965,7 @@
           "text": "§f§lCOMMON BOOSTER"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjc0MDkxMywKICAicHJvZmlsZUlkIiA6ICI1ZTEwYjc5MTY2ZTA0MTNkYjI2MThkMzE3MTc2M2Y4NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJPTUZfQmxvY2tCdXN0ZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWE2YmI4YTJlZjYxNDQxMTNiODdjMmRhNWQwNzAzOGM2Y2Y3NThlZDVhZTQxNzNlMmIwMWEwZDQwYTVmMmU1MCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/boosters/common/booster_fighting",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:jukebox_playable",
@@ -111937,13 +112986,77 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "FIGHTING_BOOSTER_UNCOMMON"
+      },
+      "minecraft:custom_name": {
+        "text": "§aUncommon Fighting Booster"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Booster"
+        },
+        {
+          "text": "§8Combinable in Anvil"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Applies the §b४ Fighting §7booster when"
+        },
+        {
+          "text": "§7combined with Foraging Armor,"
+        },
+        {
+          "text": "§7Equipment, or Axes."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Increases damage against Foraging"
+        },
+        {
+          "text": "§7Island creatures."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON BOOSTER"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/boosters/uncommon/booster_fighting_upgraded",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "FIGSTONE"
       },
       "minecraft:custom_name": {
-        "text": "§5Figstone"
+        "text": "§9Figstone"
       },
       "minecraft:lore": [
         {
@@ -111962,17 +113075,10 @@
           "text": ""
         },
         {
-          "text": "§5§lEPIC"
+          "text": "§9§lRARE"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNTc4MTU3OCwKICAicHJvZmlsZUlkIiA6ICIzZDU1OGQ3Y2NmZjk0ODdkYWE1MzhkMjM4NGE3OWFkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnlwdGljTG9zZXIxMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ODYxMjU1ZjM3MjRmYzc3ZTdhODI2MDBhN2MzZDA4Y2Q2MWQ2NWUwYTdiOTdkYjVjMjRlNTk2MzBjM2FiNTE0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_2/logs/stacked/figstone",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:jukebox_playable",
@@ -111985,11 +113091,11 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
     }
   },
   {
@@ -112000,7 +113106,7 @@
       },
       "minecraft:unbreakable": {},
       "minecraft:custom_name": {
-        "text": "§5Figstone Splitter"
+        "text": "§9Figstone Splitter"
       },
       "minecraft:lore": [
         {
@@ -112010,7 +113116,7 @@
           "text": "§7Strength: §c+15"
         },
         {
-          "text": "§7Sweep: §2+24"
+          "text": "§7Sweep: §2+25"
         },
         {
           "text": "§7Foraging Fortune: §6+35"
@@ -112052,7 +113158,7 @@
           "text": "§4❣ §cRequires §aForaging Skill 15§c."
         },
         {
-          "text": "§5§lEPIC AXE"
+          "text": "§9§lRARE AXE"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_2/axes/figstone_splitter",
@@ -112072,7 +113178,7 @@
           "minecraft:charged_projectiles"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
     }
   },
   {
@@ -112083,7 +113189,7 @@
       },
       "minecraft:unbreakable": {},
       "minecraft:custom_name": {
-        "text": "§9Fig Hew"
+        "text": "§aFig Hew"
       },
       "minecraft:lore": [
         {
@@ -112093,7 +113199,7 @@
           "text": "§7Strength: §c+10"
         },
         {
-          "text": "§7Sweep: §2+7"
+          "text": "§7Sweep: §2+15"
         },
         {
           "text": "§7Foraging Fortune: §6+20"
@@ -112135,7 +113241,7 @@
           "text": "§4❣ §cRequires §aForaging Skill 12§c."
         },
         {
-          "text": "§9§lRARE AXE"
+          "text": "§a§lUNCOMMON AXE"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_2/axes/fig_hew",
@@ -112155,7 +113261,7 @@
           "minecraft:charged_projectiles"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
     }
   },
   {
@@ -112176,7 +113282,7 @@
           "text": "§7Defense: §a+25"
         },
         {
-          "text": "§7Sweep: §2+6"
+          "text": "§7Sweep: §2+10"
         },
         {
           "text": "§7Foraging Fortune: §6+30"
@@ -112200,20 +113306,18 @@
       "minecraft:dyed_color": 1873753,
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -112237,7 +113341,7 @@
           "text": "§7Defense: §a+45"
         },
         {
-          "text": "§7Sweep: §2+6"
+          "text": "§7Sweep: §2+10"
         },
         {
           "text": "§7Foraging Fortune: §6+30"
@@ -112261,20 +113365,18 @@
       "minecraft:dyed_color": 1873753,
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -112297,7 +113399,7 @@
           "text": "§7Defense: §a+30"
         },
         {
-          "text": "§7Sweep: §2+6"
+          "text": "§7Sweep: §2+10"
         },
         {
           "text": "§7Foraging Fortune: §6+30"
@@ -112328,20 +113430,18 @@
       },
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -112365,7 +113465,7 @@
           "text": "§7Defense: §a+35"
         },
         {
-          "text": "§7Sweep: §2+6"
+          "text": "§7Sweep: §2+10"
         },
         {
           "text": "§7Foraging Fortune: §6+30"
@@ -112389,20 +113489,18 @@
       "minecraft:dyed_color": 1873753,
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -117447,6 +118545,75 @@
     }
   },
   {
+    "id": "minecraft:cod",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "FLAVOR_PACKED_FISH"
+      },
+      "minecraft:custom_name": {
+        "text": "§bFlavor-packed Fish"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Quest Item"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Looks flavorsome. Perhaps a certain"
+        },
+        {
+          "text": "§a Critter§7 would like it?"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§oIts use is unclear. Perhaps some of"
+        },
+        {
+          "text": "§8§othe other Hunters might know?"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6This item will vanish from your"
+        },
+        {
+          "text": "§6inventory after leaving the §2Safari"
+        },
+        {
+          "text": "§2Zone§6!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§c§lSPECIAL"
+        }
+      ],
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:special"
+    }
+  },
+  {
     "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
@@ -121715,13 +122882,13 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "FORAGING_FORTUNE_BOOSTER"
       },
       "minecraft:custom_name": {
-        "text": "§fForaging Fortune Booster"
+        "text": "§fCommon Foraging Fortune Booster"
       },
       "minecraft:lore": [
         {
@@ -121755,14 +122922,7 @@
           "text": "§f§lCOMMON BOOSTER"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjY3MjExNywKICAicHJvZmlsZUlkIiA6ICJjYzU2NjAzYmZiZjg0OGJmOTM3MzY1N2VjYzUyNGI4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJpc2FhYWFhYV8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmY2ZWQ4ZGI0YzgxZDM5YmQyNzA1ZGU0YjE0Y2Q4NTBlNjBhMWI4MDhmMzY2OGQwYTVhZjA0MTcwZDc0NmJlOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/boosters/common/booster_foraging_fortune",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:jukebox_playable",
@@ -121783,13 +122943,74 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "FORAGING_FORTUNE_BOOSTER_UNCOMMON"
+      },
+      "minecraft:custom_name": {
+        "text": "§aUncommon Foraging Fortune Booster"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Booster"
+        },
+        {
+          "text": "§8Combinable in Anvil"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Applies the §b⎋ Foraging Fortune"
+        },
+        {
+          "text": "§7booster when combined with Foraging"
+        },
+        {
+          "text": "§7Armor, Equipment, or Axes."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6 Foraging Fortune§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON BOOSTER"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/boosters/uncommon/booster_foraging_fortune_upgraded",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "FORAGING_WISDOM_BOOSTER"
       },
       "minecraft:custom_name": {
-        "text": "§fForaging Wisdom Booster"
+        "text": "§fCommon Foraging Wisdom Booster"
       },
       "minecraft:lore": [
         {
@@ -121823,14 +123044,7 @@
           "text": "§f§lCOMMON BOOSTER"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjcwOTUwMywKICAicHJvZmlsZUlkIiA6ICJlNGUxYmY5NzMwZWI0NDRhYmIyOGIxODgxN2Q0M2YzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNSU1PR0FNRVMwMzIxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgxZjQ5MTBlZWI2NjcwZGYxM2Q5YTEyMzM4MzI0MTkwZTYyZWUzZGI0ODNhYjNlN2YyYjRjYTkzYjUzYjBlNzkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/boosters/common/booster_foraging_wisdom",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:jukebox_playable",
@@ -121848,6 +123062,67 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "FORAGING_WISDOM_BOOSTER_UNCOMMON"
+      },
+      "minecraft:custom_name": {
+        "text": "§aUncommon Foraging Wisdom Booster"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Booster"
+        },
+        {
+          "text": "§8Combinable in Anvil"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Applies the §b⸙ Foraging Wisdom"
+        },
+        {
+          "text": "§7booster when combined with Foraging"
+        },
+        {
+          "text": "§7Armor, Equipment, or Axes."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §3☯ Foraging Wisdom§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON BOOSTER"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/boosters/uncommon/booster_foraging_wisdom_upgraded",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
     }
   },
   {
@@ -126121,6 +127396,76 @@
     }
   },
   {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "FUN_SIZED_POT_OF_HONEYCOMB"
+      },
+      "minecraft:custom_name": {
+        "text": "§aFun-Sized Pot of Honeycomb"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Use on a §aTree §7with an active §2Tree"
+        },
+        {
+          "text": "§2Protection Order §7to lather it with"
+        },
+        {
+          "text": "§6Honeycomb§7!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7After §a60m§7, a unique §a Critter §7will be"
+        },
+        {
+          "text": "§7attracted to the §6Honeycomb§7!"
+        },
+        {
+          "text": "§8Type of mob depends upon type of"
+        },
+        {
+          "text": "§8tree lathered."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Uses: §a1§7/§a1"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§4❣ §cRequires §aHoneycomb Collection I§c."
+        },
+        {
+          "text": "§a§lUNCOMMON"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_fun_sized",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
@@ -128562,6 +129907,124 @@
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
+        "id": "GENERATOR_UPGRADE_STONE_ACACIA_12"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Acacia Minion XII Upgrade Stone"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Use this item to upgrade a §bAcacia"
+        },
+        {
+          "text": "§bMinion §7from §aTier XI §7to §aTier XII§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Purchased from §2Ant §7in §bTorrhus"
+        },
+        {
+          "text": "§bSprings§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6§lLEGENDARY"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NTI3ODEwODMxMCwKICAicHJvZmlsZUlkIiA6ICI0MmU4MDAxM2I3ZWE0Y2FkYmE1NDJhZWJmNDVhNjBkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYW1hcmlpaWlpaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NWI3YTQyZTRjMWQ2NWQzMWQ2NDY3MDk4MTE2NjBkOThkNmI0ZjhlMGYwYWY2ODBhNmFhNDM2OTlkMzhjNTA2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "GENERATOR_UPGRADE_STONE_BIRCH_12"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Birch Minion XII Upgrade Stone"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Use this item to upgrade a §bBirch"
+        },
+        {
+          "text": "§bMinion §7from §aTier XI §7to §aTier XII§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Purchased from §2Ant §7in §bTorrhus"
+        },
+        {
+          "text": "§bSprings§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6§lLEGENDARY"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NTI3ODEwODk4MCwKICAicHJvZmlsZUlkIiA6ICIxN2Q0ODA1ZDRmMTA0YTA5OWRiYzJmNzYzMDNjYmRkZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJnaWZ0bWV0b25uZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWQwNDFkNWZhNzliNjk3ODE1YjY5NmMyZDZjMzliODQzMzkxZDRjZDMwYTAwMTBiZTI3YjdmYTZiNWRkYmQ4NCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
         "id": "GENERATOR_UPGRADE_STONE_CLAY_12"
       },
       "minecraft:custom_name": {
@@ -128616,6 +130079,65 @@
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
+        "id": "GENERATOR_UPGRADE_STONE_DARK_OAK_12"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Dark Oak Minion XII Upgrade Stone"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Use this item to upgrade a §bDark Oak"
+        },
+        {
+          "text": "§bMinion §7from §aTier XI §7to §aTier XII§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Purchased from §2Ant §7in §bTorrhus"
+        },
+        {
+          "text": "§bSprings§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6§lLEGENDARY"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NTI3ODEwOTM4NCwKICAicHJvZmlsZUlkIiA6ICI2OTE1MGMxMTk3M2E0MGViOGExNjZiNTY5OThmNWEzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdXJtYWFqYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83OWI3Zjk4NjUyNzgxZDc1MDg0ODI2ZjMwYmZlYjdmMjFkYTVmZjA3NmEwOWFjMTgxZDc2Yjk1NjJjYzdmMDllIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
         "id": "GENERATOR_UPGRADE_STONE_FISHING_12"
       },
       "minecraft:custom_name": {
@@ -128661,6 +130183,65 @@
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:dyed_color"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "GENERATOR_UPGRADE_STONE_JUNGLE_12"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Jungle Minion XII Upgrade Stone"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Use this item to upgrade a §bJungle"
+        },
+        {
+          "text": "§bMinion §7from §aTier XI §7to §aTier XII§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Purchased from §2Ant §7in §bTorrhus"
+        },
+        {
+          "text": "§bSprings§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6§lLEGENDARY"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NTI3ODExMDA0MiwKICAicHJvZmlsZUlkIiA6ICJmNThkZWJkNTlmNTA0MjIyOGY2MDIyMjExZDRjMTQwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ1bnZlbnRpdmV0YWxlbnQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGRhYTY2N2Y0M2JjODcxMzdlNDhkYzc3OThlMGU5ZDQzZjE4ZmNhYzVjYmM1MTA2NGMxYzQyNmFkMmZmNDBlMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -128735,6 +130316,65 @@
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
+        "id": "GENERATOR_UPGRADE_STONE_OAK_12"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Oak Minion XII Upgrade Stone"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Use this item to upgrade a §bOak Minion"
+        },
+        {
+          "text": "§7from §aTier XI §7to §aTier XII§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Purchased from §2Ant §7in §bTorrhus"
+        },
+        {
+          "text": "§bSprings§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6§lLEGENDARY"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NTI3ODEwOTgwNywKICAicHJvZmlsZUlkIiA6ICI1MGVlNDc2NGY0ODA0ZTAwYjQxM2I2MTA2MmU4YmFjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbmRyZU1lc3NpIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IyMzc2ZjZhYzZlMjAwZTU4YjM1ZmY1MDQ0ODIxNTI0M2ZjMmNhNTBlMzYyYmIyMzQ2YWJlY2Y2YWQyMzk5NTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
         "id": "GENERATOR_UPGRADE_STONE_REVENANT_12"
       },
       "minecraft:custom_name": {
@@ -128788,6 +130428,65 @@
           "minecraft:potion_contents",
           "minecraft:block_entity_data",
           "minecraft:dyed_color"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "GENERATOR_UPGRADE_STONE_SPRUCE_12"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Spruce Minion XII Upgrade Stone"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Use this item to upgrade a §bSpruce"
+        },
+        {
+          "text": "§bMinion §7from §aTier XI §7to §aTier XII§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Purchased from §2Ant §7in §bTorrhus"
+        },
+        {
+          "text": "§bSprings§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6§lLEGENDARY"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NTI3ODExMDIzNSwKICAicHJvZmlsZUlkIiA6ICI0OWIzODUyNDdhMWY0NTM3YjBmN2MwZTFmMTVjMTc2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiY2QyMDMzYzYzZWM0YmY4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFlOTE5Yzk3YzE2ZGRkNGY3OTMwZGIxMmQxODA5YjQ1YzYzNjM1ZjEzMWZkZTAzNWFhMGQzMzMwMmY4YmY4YjkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -130773,10 +132472,7 @@
           "text": ""
         },
         {
-          "text": "§8§l* §8Soulbound §8§l*"
-        },
-        {
-          "text": "§6§lLEGENDARY PET ITEM"
+          "text": "§6§lLEGENDARY"
         }
       ],
       "minecraft:profile": {
@@ -130799,8 +132495,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -130944,6 +132640,49 @@
           "minecraft:potion_contents",
           "minecraft:block_entity_data",
           "minecraft:dyed_color"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "GIANT_SLOTH_CLAW"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Giant Sloth Claw"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Use at §bKat §7to upgrade §eSloth Pets"
+        },
+        {
+          "text": "§7from §5Epic §7to §6Legendary."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6§lLEGENDARY PET ITEM"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/petupgrades/sloth_claw_giant",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -131732,6 +133471,88 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "GIGANTIC_FISHING_NET"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Gigantic Fishing Net"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Hunting Tool"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Pull: §b+100"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6Ability: Yoink  §e§lRIGHT CLICK"
+        },
+        {
+          "text": "§7Throw your fishing net at swimming"
+        },
+        {
+          "text": "§7fish to catch them!"
+        },
+        {
+          "text": "§8Mana Cost: §b10"
+        },
+        {
+          "text": "§8Cooldown: §a0.5s"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Throw Distance: §a+150%"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6Ability: Overhaul "
+        },
+        {
+          "text": "§7Grants §d+10 Hunting Fortune §7on"
+        },
+        {
+          "text": "§9Water Shards §7caught with this net."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6§lLEGENDARY FISHING NET"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/nets/gigantic_fishing_net",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
     }
   },
   {
@@ -150884,6 +152705,449 @@
     }
   },
   {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "HELIXIS"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Helixis"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Collection Item"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7§oPerhaps even the trees of Galatea"
+        },
+        {
+          "text": "§7§ohave something to say about its"
+        },
+        {
+          "text": "§7§otechnological intricacies."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/logs/helixis",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:leather_boots",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "HELIX_ARMOR_BOOTS"
+      },
+      "minecraft:unbreakable": {},
+      "minecraft:custom_name": {
+        "text": "§5Helix Boots"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Health: §c+85"
+        },
+        {
+          "text": "§7Defense: §a+30"
+        },
+        {
+          "text": "§7Sweep: §2+20"
+        },
+        {
+          "text": "§7Foraging Fortune: §6+45"
+        },
+        {
+          "text": "§7Gemstones: §8[] []"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8This item can be reforged!"
+        },
+        {
+          "text": "§4❣ §cRequires §aForaging Skill 25§c."
+        },
+        {
+          "text": "§5§lEPIC BOOTS"
+        }
+      ],
+      "minecraft:dyed_color": 14834198,
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:leather_chestplate",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "HELIX_ARMOR_CHESTPLATE"
+      },
+      "minecraft:unbreakable": {},
+      "minecraft:custom_name": {
+        "text": "§5Helix Chestplate"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Health: §c+190"
+        },
+        {
+          "text": "§7Defense: §a+55"
+        },
+        {
+          "text": "§7Sweep: §2+20"
+        },
+        {
+          "text": "§7Foraging Fortune: §6+45"
+        },
+        {
+          "text": "§7Gemstones: §8[] []"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8This item can be reforged!"
+        },
+        {
+          "text": "§4❣ §cRequires §aForaging Skill 25§c."
+        },
+        {
+          "text": "§5§lEPIC CHESTPLATE"
+        }
+      ],
+      "minecraft:dyed_color": 14834198,
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "HELIX_ARMOR_HELMET"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Helix Helmet"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Health: §c+100"
+        },
+        {
+          "text": "§7Defense: §a+35"
+        },
+        {
+          "text": "§7Sweep: §2+20"
+        },
+        {
+          "text": "§7Foraging Fortune: §6+45"
+        },
+        {
+          "text": "§7Gemstones: §8[] []"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8This item can be reforged!"
+        },
+        {
+          "text": "§4❣ §cRequires §aForaging Skill 25§c."
+        },
+        {
+          "text": "§5§lEPIC HELMET"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjkyODQwNiwKICAicHJvZmlsZUlkIiA6ICJkODYwY2JiYWM0Njg0ODhjOWI4MTY3MGVjZjQ5OGRmMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDb2FzdGxpbmVDcmVhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IyYWQyMzViOTQ1OGNjMjZjOWRkNzk0YTM1YzExMDBlMWI1YmJlNGEwYzZjM2RhNmZmZDQ4MzAwMDY2ODNjYjkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:leather_leggings",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "HELIX_ARMOR_LEGGINGS"
+      },
+      "minecraft:unbreakable": {},
+      "minecraft:custom_name": {
+        "text": "§5Helix Leggings"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Health: §c+165"
+        },
+        {
+          "text": "§7Defense: §a+45"
+        },
+        {
+          "text": "§7Sweep: §2+20"
+        },
+        {
+          "text": "§7Foraging Fortune: §6+45"
+        },
+        {
+          "text": "§7Gemstones: §8[] []"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8This item can be reforged!"
+        },
+        {
+          "text": "§4❣ §cRequires §aForaging Skill 25§c."
+        },
+        {
+          "text": "§5§lEPIC LEGGINGS"
+        }
+      ],
+      "minecraft:dyed_color": 14834198,
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "HELIX_CHOPPER"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Helix Chopper"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Damage: §c+75"
+        },
+        {
+          "text": "§7Strength: §c+25"
+        },
+        {
+          "text": "§7Sweep: §2+50"
+        },
+        {
+          "text": "§7Foraging Fortune: §6+50"
+        },
+        {
+          "text": "§7Gemstones: §8[] []"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6Ability: Mega Frenzy "
+        },
+        {
+          "text": "§7Gains §21 Sweep §7every §a20,000 Logs"
+        },
+        {
+          "text": "§7cut on §2Galatea§7. §8(max 40)"
+        },
+        {
+          "text": "§7Current Bonus: §2+0"
+        },
+        {
+          "text": "§7Next Upgrade: §2+1 §8(§a0§7/§c20,000§8)"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Logs Cut: §b0"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8This item can be reforged!"
+        },
+        {
+          "text": "§4❣ §cRequires §aForaging Skill 20§c."
+        },
+        {
+          "text": "§5§lEPIC AXE"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/axes/helix_chopper",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "HELIX_LOG"
+      },
+      "minecraft:custom_name": {
+        "text": "§fHelix Log"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Collection Item"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7A particularly resilient type of log"
+        },
+        {
+          "text": "§7that, should they not know the"
+        },
+        {
+          "text": "§7secret to cutting it, will outlast most"
+        },
+        {
+          "text": "§7foragers."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON"
+        }
+      ],
+      "minecraft:item_model": "minecraft:stripped_mangrove_log",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
     "id": "minecraft:fishing_rod",
     "components": {
       "minecraft:custom_data": {
@@ -154325,6 +156589,272 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "HONEYCOMB"
+      },
+      "minecraft:custom_name": {
+        "text": "§fHoneycomb"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Collection Item"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7The famed, sweet-smelling produce"
+        },
+        {
+          "text": "§7of Torrhus Canyon."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON"
+        }
+      ],
+      "minecraft:item_model": "minecraft:honeycomb",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "HONEYCOMB_ARTIFACT"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Honeycomb Artifact"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Accessory Power: §6+8"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§aTrees §7smeared with §6Honeycomb"
+        },
+        {
+          "text": "§7attract mobs §a15% §7faster."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8Works while in Accessory Bag!"
+        },
+        {
+          "text": "§9§lRARE ACCESSORY"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/honey/honeycomb_artifact",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "HONEYCOMB_NECKLACE"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Honeycomb Necklace"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Sweep: §2+5"
+        },
+        {
+          "text": "§7Foraging Fortune: §6+25"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to equip!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8This item can be reforged!"
+        },
+        {
+          "text": "§4❣ §cRequires §aForaging Skill 30§c."
+        },
+        {
+          "text": "§5§lEPIC NECKLACE"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/equipment/honeycomb_necklace",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "HONEYCOMB_RING"
+      },
+      "minecraft:custom_name": {
+        "text": "§aHoneycomb Ring"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Accessory Power: §6+5"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§aTrees §7smeared with §6Honeycomb"
+        },
+        {
+          "text": "§7attract mobs §a10% §7faster."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8Works while in Accessory Bag!"
+        },
+        {
+          "text": "§a§lUNCOMMON ACCESSORY"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/honey/honeycomb_ring",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "HONEYCOMB_TALISMAN"
+      },
+      "minecraft:custom_name": {
+        "text": "§fHoneycomb Talisman"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Accessory Power: §6+3"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§aTrees §7smeared with §6Honeycomb"
+        },
+        {
+          "text": "§7attract mobs §a5% §7faster."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8Works while in Accessory Bag!"
+        },
+        {
+          "text": "§f§lCOMMON ACCESSORY"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/honey/honeycomb_talisman",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
     }
   },
   {
@@ -158445,6 +160975,128 @@
     }
   },
   {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "HUNTING_WISDOM_BOOSTER_COMMON"
+      },
+      "minecraft:custom_name": {
+        "text": "§fCommon Hunting Wisdom Booster"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Booster"
+        },
+        {
+          "text": "§8Combinable in Anvil"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Applies the §b☯ Common Hunting Wisdom"
+        },
+        {
+          "text": "§7booster when combined with Foraging"
+        },
+        {
+          "text": "§7Armor, Equipment, or Axes."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §3☯ Hunting Wisdom§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON BOOSTER"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/boosters/common/booster_hunting_wisdom",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "HUNTING_WISDOM_BOOSTER_UNCOMMON"
+      },
+      "minecraft:custom_name": {
+        "text": "§aUncommon Hunting Wisdom Booster"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Booster"
+        },
+        {
+          "text": "§8Combinable in Anvil"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Applies the §b☯ Hunting Wisdom"
+        },
+        {
+          "text": "§7booster when combined with Foraging"
+        },
+        {
+          "text": "§7Armor, Equipment, or Axes."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §3☯ Hunting Wisdom§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON BOOSTER"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/boosters/uncommon/booster_hunting_wisdom_upgraded",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
     "id": "minecraft:bow",
     "components": {
       "minecraft:custom_data": {
@@ -159468,6 +162120,71 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:diamond_pickaxe",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "ICEBREAKER"
+      },
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:custom_name": {
+        "text": "§cIcebreaker"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Quest Item"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Found in the §9Icy Biome§7. Perhaps it"
+        },
+        {
+          "text": "§7has a use there?"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6This item will vanish from your"
+        },
+        {
+          "text": "§6inventory after leaving the §2Safari"
+        },
+        {
+          "text": "§2Zone§6!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8This item can be reforged!"
+        },
+        {
+          "text": "§c§lSPECIAL PICKAXE"
+        }
+      ],
+      "minecraft:damage": 1560,
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:special"
     }
   },
   {
@@ -166299,7 +169016,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Damage: §c+200"
+          "text": "§7Damage: §c+300"
         },
         {
           "text": "§7Farming Fortune: §6+20"
@@ -166320,7 +169037,7 @@
           "text": "§6Ability: Vacuum  §e§lHOLD RIGHT CLICK"
         },
         {
-          "text": "§7Deals §c200  Damage §7per second to"
+          "text": "§7Deals §c300  Damage §7per second to"
         },
         {
           "text": "§7nearby §2 Pests§7."
@@ -166345,6 +169062,12 @@
         },
         {
           "text": "§7Vacuum Bag: §20 Pests"
+        },
+        {
+          "text": "§8Vacuum  Pests in your Garden to"
+        },
+        {
+          "text": "§8increase!"
         },
         {
           "text": ""
@@ -166387,7 +169110,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Damage: §c+250"
+          "text": "§7Damage: §c+400"
         },
         {
           "text": "§7Farming Fortune: §6+25"
@@ -166408,7 +169131,7 @@
           "text": "§6Ability: Vacuum  §e§lHOLD RIGHT CLICK"
         },
         {
-          "text": "§7Deals §c250  Damage §7per second to"
+          "text": "§7Deals §c400  Damage §7per second to"
         },
         {
           "text": "§7nearby §2 Pests§7."
@@ -166457,6 +169180,12 @@
         },
         {
           "text": "§7Vacuum Bag: §20 Pests"
+        },
+        {
+          "text": "§8Vacuum  Pests in your Garden to"
+        },
+        {
+          "text": "§8increase!"
         },
         {
           "text": ""
@@ -169175,6 +171904,76 @@
     }
   },
   {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "ISOPOD_HUSK"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Isopod Husk"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Consumable"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Consume this item to permanently"
+        },
+        {
+          "text": "§7gain §3+1 Respiration§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7You can only consume §a5 §7of this item"
+        },
+        {
+          "text": "§7before the scratching at the back"
+        },
+        {
+          "text": "§7of your throat becomes too much to"
+        },
+        {
+          "text": "§7ignore."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to consume!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/isopod_husk",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
     "id": "minecraft:item_frame",
     "components": {
       "minecraft:custom_data": {
@@ -171699,6 +174498,76 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:special"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "JUMBO_POT_OF_HONEYCOMB"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Jumbo Pot of Honeycomb"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Use on a §aTree §7with an active §2Tree"
+        },
+        {
+          "text": "§2Protection Order §7to lather it with"
+        },
+        {
+          "text": "§6Honeycomb§7!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7After §a15m§7, a unique §a Critter §7will be"
+        },
+        {
+          "text": "§7attracted to the §6Honeycomb§7!"
+        },
+        {
+          "text": "§8Type of mob depends upon type of"
+        },
+        {
+          "text": "§8tree lathered."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Uses: §a10§7/§a10"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§4❣ §cRequires §aHoneycomb Collection V§c."
+        },
+        {
+          "text": "§5§lEPIC"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_jumbo",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
@@ -179643,10 +182512,7 @@
           "text": ""
         },
         {
-          "text": "§8§l* §8Soulbound §8§l*"
-        },
-        {
-          "text": "§5§lEPIC PET ITEM"
+          "text": "§5§lEPIC"
         }
       ],
       "minecraft:profile": {
@@ -179669,8 +182535,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -180193,6 +183059,104 @@
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
+        "id": "LARGE_POCKET_BLACK_HOLE"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Large Pocket Black Hole"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Hunting Tool"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6Ability: Black Hole  §e§lRIGHT CLICK"
+        },
+        {
+          "text": "§7Place the Black Hole for §a180s§7, and"
+        },
+        {
+          "text": "§7it'll start pulling §clow HP §7monsters"
+        },
+        {
+          "text": "§7towards it."
+        },
+        {
+          "text": "§8Cooldown: §a2s"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§oHarness the power of Gravity... and"
+        },
+        {
+          "text": "§8§oMushrooms!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Monsters below §a10% §7HP can even get"
+        },
+        {
+          "text": "§7their §9Shard §7captured!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6Ability: Blessing from the Void "
+        },
+        {
+          "text": "§7Grants §d5 Hunting Fortune §7on"
+        },
+        {
+          "text": "§cCombat Shards §7caught with this Black"
+        },
+        {
+          "text": "§7Hole!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC DEPLOYABLE"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDMzNTk5NjMyNywKICAicHJvZmlsZUlkIiA6ICJjNGRiNjkxZDNkYmU0ZWI5YThiNjgzM2I4ODNkYmM0NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJmb3NzaW5hbHQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzRiZDM3ODI3ZjNmNTViODM4YjY0YWZlN2Y5MGMwZDc3ZWI0MDBkNTBkZGZlYTcwZmYzNWMyOTg2OGZlOGM0NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
         "id": "LARGE_SCAFFOLDING"
       },
       "minecraft:enchantment_glint_override": true,
@@ -180365,6 +183329,49 @@
           "minecraft:banner_patterns",
           "minecraft:potion_contents",
           "minecraft:dyed_color"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "LARGE_SLOTH_CLAW"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Large Sloth Claw"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Use at §bKat §7to upgrade §eSloth Pets"
+        },
+        {
+          "text": "§7from §9Rare §7to §5Epic."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC PET ITEM"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/petupgrades/sloth_claw_large",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -184019,6 +187026,83 @@
     }
   },
   {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "LIME_GEM"
+      },
+      "minecraft:custom_name": {
+        "text": "§aLime Gem"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Quest Item"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Found in the §6Cavern Biome§7. Perhaps"
+        },
+        {
+          "text": "§7it has a use there?"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8A fabulous lime gem. It reminds you"
+        },
+        {
+          "text": "§8of a meadow."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6This item will vanish from your"
+        },
+        {
+          "text": "§6inventory after leaving the §2Safari"
+        },
+        {
+          "text": "§2Zone§6!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§c§lSPECIAL"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA1NTE5MSwKICAicHJvZmlsZUlkIiA6ICJkM2VmYjJmMThjMDU0YmRhYTE0OTVlZTY0ZDgxZjdlOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNTEsxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ZmI5OGY1YjkyNzY4NjI3ZTlmM2U0MjYwOTU2MWNjYjQ2MzhhZDlkNzZkZjk3NjE2NzRiMjdmNjgyMGZkYzA5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:special"
+    }
+  },
+  {
     "id": "minecraft:light_gray_dye",
     "components": {
       "minecraft:custom_data": {
@@ -186264,6 +189348,162 @@
     }
   },
   {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "LUMBERJACK_ARTIFACT"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Lumberjack Artifact"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Accessory Power: §6+8"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Reduces the cooldown for throwing"
+        },
+        {
+          "text": "§7your §2Foraging Axe §7by §a15%§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8Works while in Accessory Bag!"
+        },
+        {
+          "text": "§9§lRARE ACCESSORY"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/lumberjack/lumberjack_artifact",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "LUMBERJACK_RING"
+      },
+      "minecraft:custom_name": {
+        "text": "§aLumberjack Ring"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Accessory Power: §6+5"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Reduces the cooldown for throwing"
+        },
+        {
+          "text": "§7your §2Foraging Axe §7by §a10%§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8Works while in Accessory Bag!"
+        },
+        {
+          "text": "§a§lUNCOMMON ACCESSORY"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/lumberjack/lumberjack_ring",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "LUMBERJACK_TALISMAN"
+      },
+      "minecraft:custom_name": {
+        "text": "§fLumberjack Talisman"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Accessory Power: §6+3"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Reduces the cooldown for throwing"
+        },
+        {
+          "text": "§7your §2Foraging Axe §7by §a5%§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8Works while in Accessory Bag!"
+        },
+        {
+          "text": "§f§lCOMMON ACCESSORY"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/lumberjack/lumberjack_talisman",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
@@ -186564,13 +189804,7 @@
           "text": ""
         },
         {
-          "text": "§7Grants you a §a+0.55% §7chance to"
-        },
-        {
-          "text": "§7charm the mobs you defeat and"
-        },
-        {
-          "text": "§7capture their §9Shards§7."
+          "text": "§7Grants §b0.5❣ Charm Chance§7."
         },
         {
           "text": "§7Duration: §68h"
@@ -186631,13 +189865,7 @@
           "text": ""
         },
         {
-          "text": "§7Grants you a §a+0.688% §7chance to"
-        },
-        {
-          "text": "§7charm the mobs you defeat and"
-        },
-        {
-          "text": "§7capture their §9Shards§7."
+          "text": "§7Grants §b0.62❣ Charm Chance§7."
         },
         {
           "text": "§7Duration: §612h"
@@ -186766,6 +189994,75 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:lily_pad",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "LUSH_LILY_PAD"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Lush Lily Pad"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Quest Item"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Looks scrumptious. Perhaps a"
+        },
+        {
+          "text": "§7certain §a Critter§7 would like it?"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§oIts use is unclear. Perhaps some of"
+        },
+        {
+          "text": "§8§othe other Hunters might know?"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6This item will vanish from your"
+        },
+        {
+          "text": "§6inventory after leaving the §2Safari"
+        },
+        {
+          "text": "§2Zone§6!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§c§lSPECIAL"
+        }
+      ],
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:special"
     }
   },
   {
@@ -190694,7 +193991,7 @@
         "id": "MANGCORE"
       },
       "minecraft:custom_name": {
-        "text": "§5Mangcore"
+        "text": "§9Mangcore"
       },
       "minecraft:lore": [
         {
@@ -190716,7 +194013,7 @@
           "text": ""
         },
         {
-          "text": "§5§lEPIC"
+          "text": "§9§lRARE"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_2/logs/stacked/mangcore",
@@ -190736,7 +194033,7 @@
           "minecraft:charged_projectiles"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
     }
   },
   {
@@ -191011,7 +194308,7 @@
         "id": "MANGROVE_VINE"
       },
       "minecraft:custom_name": {
-        "text": "§9Mangrove Vine"
+        "text": "§9Moonglade Belt"
       },
       "minecraft:lore": [
         {
@@ -191019,6 +194316,15 @@
         },
         {
           "text": "§7Foraging Fortune: §6+5"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §a+5% §7more points towards"
+        },
+        {
+          "text": "§dStarlyn Contests§7."
         },
         {
           "text": ""
@@ -191049,20 +194355,18 @@
       },
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -191380,6 +194684,76 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "MASTERFUL_CRITTER_CAPSULE"
+      },
+      "minecraft:custom_name": {
+        "text": "§cMasterful Critter Capsule"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Hunting Tool"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6Ability: Certain Capture  §e§lRIGHT CLICK"
+        },
+        {
+          "text": "§7Throw your §cMasterful Critter"
+        },
+        {
+          "text": "§cCapsule§7 in the direction you're"
+        },
+        {
+          "text": "§7facing. If it hits a §a Critter§7, it will"
+        },
+        {
+          "text": "§7catch them."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6This item will vanish from your"
+        },
+        {
+          "text": "§6inventory after leaving the §2Safari"
+        },
+        {
+          "text": "§2Zone§6!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§c§lSPECIAL CAPSULE"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/safari/masterful_critter_capsule",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:special"
     }
   },
   {
@@ -193266,7 +196640,7 @@
     }
   },
   {
-    "id": "minecraft:cobweb",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "MEDIUM_FISHING_NET"
@@ -193307,6 +196681,18 @@
         },
         {
           "text": "§7Throw Distance: §a+50%"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6Ability: Grab "
+        },
+        {
+          "text": "§7Grants §d+2.5 Hunting Fortune §7on"
+        },
+        {
+          "text": "§9Water Shards §7caught with this net."
         },
         {
           "text": ""
@@ -193556,10 +196942,7 @@
           "text": ""
         },
         {
-          "text": "§8§l* §8Soulbound §8§l*"
-        },
-        {
-          "text": "§9§lRARE PET ITEM"
+          "text": "§9§lRARE"
         }
       ],
       "minecraft:profile": {
@@ -193582,8 +196965,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -194150,10 +197533,16 @@
           "text": ""
         },
         {
-          "text": "§7Grant §a10% §7chance to gain a second"
+          "text": "§6Ability: Blessing from the Dark "
         },
         {
-          "text": "§7shard from the monster!"
+          "text": "§7Grants §d2.5 Hunting Fortune §7on"
+        },
+        {
+          "text": "§cCombat Shards §7caught with this Black"
+        },
+        {
+          "text": "§7Hole!"
         },
         {
           "text": ""
@@ -194420,6 +197809,49 @@
           "minecraft:banner_patterns",
           "minecraft:potion_contents",
           "minecraft:dyed_color"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "MEDIUM_SLOTH_CLAW"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Medium Sloth Claw"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Use at §bKat §7to upgrade §eSloth Pets"
+        },
+        {
+          "text": "§7from §aUncommon §7to §9Rare."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE PET ITEM"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/petupgrades/sloth_claw_medium",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -199465,6 +202897,88 @@
     }
   },
   {
+    "id": "minecraft:name_tag",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "MIRIA_COUPON"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Miria's Coupon"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Can be spent in §bMiria's Shop§7!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE"
+        }
+      ],
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "MIRIA_PRIZE"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Miria's Prize"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Used to purchase certain items from"
+        },
+        {
+          "text": "§bMiria's Shop§7!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/starlyn/mirias_prize",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
     "id": "minecraft:bow",
     "components": {
       "minecraft:custom_data": {
@@ -203806,6 +207320,97 @@
     }
   },
   {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "MORNING_DEW"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Morning Dew"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Reforge Stone"
+        },
+        {
+          "text": "§8Combinable in Anvil"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Applies the §9Majestic §7reforge when"
+        },
+        {
+          "text": "§7combined with §fSafari Belt§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§oThat, too, soon fades away, along"
+        },
+        {
+          "text": "§8§owith a single tear, like morning dew."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9Majestic §7(§6Legendary§7):"
+        },
+        {
+          "text": "§7Sweep: §2+3"
+        },
+        {
+          "text": "§7Foraging Fortune: §6+12"
+        },
+        {
+          "text": "§7Hunting Fortune: §d+3"
+        },
+        {
+          "text": "§7Hunting Wisdom: §3+3"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9Majestic Bonus"
+        },
+        {
+          "text": "§7Grants §f+50 Speed §7while in the"
+        },
+        {
+          "text": "§2Critter Safari§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC REFORGE STONE"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/safari/morning_dew",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
     "id": "minecraft:bow",
     "components": {
       "minecraft:custom_data": {
@@ -204292,7 +207897,7 @@
           "text": ""
         },
         {
-          "text": "§7Island: §aGalatea"
+          "text": "§7Island: §aMoonglade Marsh"
         },
         {
           "text": "§7Teleport: §eMurkwater Loch"
@@ -204316,8 +207921,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -215589,13 +219194,10 @@
           "text": ""
         },
         {
-          "text": "§7Grants you a §a+1.375% §7chance to"
+          "text": "§7Grants §b1.25❣ Charm Chance §7towards"
         },
         {
-          "text": "§7charm the §aSea Creatures §7you defeat"
-        },
-        {
-          "text": "§7and capture their §9Shards§7."
+          "text": "§aSea Creatures§7."
         },
         {
           "text": "§7Duration: §612h"
@@ -215616,18 +219218,20 @@
       "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_2/salts/oceandy",
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
-          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
-          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color",
-          "minecraft:charged_projectiles"
+          "minecraft:dyed_color"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -217130,6 +220734,80 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "ORANGE_GEM"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Orange Gem"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Quest Item"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Found in the §6Cavern Biome§7. Perhaps"
+        },
+        {
+          "text": "§7it has a use there?"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8A shiny orange gem that glows faintly."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6This item will vanish from your"
+        },
+        {
+          "text": "§6inventory after leaving the §2Safari"
+        },
+        {
+          "text": "§2Zone§6!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§c§lSPECIAL"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA1NjE4OSwKICAicHJvZmlsZUlkIiA6ICJjYmNkNDQzZGE1NTI0OGU3ODM3NWNmZjYwMmQzZWI0NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJPX1JlaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lZmI2MDMwM2E4OGYxYTJhMDg4MTBiYTVhNjhlNTFhYTA4MDM2MjQwMDRiY2U2MGY0MzE0YTYxY2FjZjcyNThmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:special"
     }
   },
   {
@@ -266105,13 +269783,7 @@
           "text": ""
         },
         {
-          "text": "§7Grants you a §a+0.825% §7chance to"
-        },
-        {
-          "text": "§7charm the mobs you defeat and"
-        },
-        {
-          "text": "§7capture their §9Shards§7."
+          "text": "§7Grants §b0.75❣ Charm Chance§7."
         },
         {
           "text": "§7Duration: §618h"
@@ -271027,6 +274699,83 @@
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
+        "id": "PURPLE_GEM"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Purple Gem"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Quest Item"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Found in the §6Cavern Biome§7. Perhaps"
+        },
+        {
+          "text": "§7it has a use there?"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8A brilliant purple gem glowing like a"
+        },
+        {
+          "text": "§8crystal from the depths."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6This item will vanish from your"
+        },
+        {
+          "text": "§6inventory after leaving the §2Safari"
+        },
+        {
+          "text": "§2Zone§6!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§c§lSPECIAL"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA1NjU5NywKICAicHJvZmlsZUlkIiA6ICJjNGU0ZDY2MWRkMDQ0MDE3ODNhZDM5NGEzMDBjOTFjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSNTBrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg1N2I1NzhlN2U2NzM2ZGVkOWI0ZWMwNTE2MjU1NjA1MzMyMzljZWY4MThkZDI4ZDZhNGM0OTYwNGFiMjViNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:special"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
         "id": "PURPLE_GIFT_TALISMAN"
       },
       "minecraft:custom_name": {
@@ -274493,6 +278242,65 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "RAINBOW_FEATHER"
+      },
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:custom_name": {
+        "text": "§5Rainbow Feather"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Consumed on use"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Use on a §ePet§7 to increase its current"
+        },
+        {
+          "text": "§7level by §a1§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click on your summoned pet to"
+        },
+        {
+          "text": "§euse!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/safari/rainbow_feather",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
@@ -282130,6 +285938,80 @@
     }
   },
   {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "REINFORCED_NETTING"
+      },
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:custom_name": {
+        "text": "§6Reinforced Netting"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Dropped by the §5Giant Isopod §3Sea"
+        },
+        {
+          "text": "§3Creature §7in §6Torrhus Canyon§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§oA massive, sturdy piece of netting"
+        },
+        {
+          "text": "§8§othat would be more than strong"
+        },
+        {
+          "text": "§8§oenough to catch most critters when"
+        },
+        {
+          "text": "§8§oused as a net. Unfortunately, for"
+        },
+        {
+          "text": "§8§owhoever owned it, the Giant Isopod is"
+        },
+        {
+          "text": "§8§oa bit larger than your average"
+        },
+        {
+          "text": "§8§ocritter."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6§lLEGENDARY"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/reinforced_netting",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
     "id": "minecraft:prismarine_crystals",
     "components": {
       "minecraft:custom_data": {
@@ -289269,6 +293151,82 @@
     "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
+        "id": "RUBBER_SNORKEL"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Rubber Snorkel"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Consumed on use"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§aPet Items §7can boost pets in many"
+        },
+        {
+          "text": "§7powerful ways! A pet can only hold"
+        },
+        {
+          "text": "§7one §aPet Item§7, but you can §eswap §7it at"
+        },
+        {
+          "text": "§7any time!"
+        },
+        {
+          "text": "§8The pet must be visible to apply the item!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §35 Respiration§7, doubled while"
+        },
+        {
+          "text": "§7on §2Foraging Islands§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click on your summoned pet to"
+        },
+        {
+          "text": "§egive it this item!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE PET ITEM"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/petitems/rubber_snorkel",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
         "id": "RUBY_CRYSTAL"
       },
       "minecraft:custom_name": {
@@ -289446,6 +293404,64 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "RUBY_VEILSHROOM"
+      },
+      "minecraft:custom_name": {
+        "text": "§fRuby Veilshroom"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Collection Item"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Having absorbed the heat of the sun"
+        },
+        {
+          "text": "§7to gain its blazing red coloring, it"
+        },
+        {
+          "text": "§7now exudes a unique warmth."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/resources/ruby_veilshroom",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
     }
   },
   {
@@ -290448,6 +294464,71 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "SAFARI_BELT",
+        "upgraded_rarity": "COMMON"
+      },
+      "minecraft:custom_name": {
+        "text": "§fSafari Belt"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7The more §2Safari Milestones§7 you have,"
+        },
+        {
+          "text": "§7the stronger this belt gets!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Talk to §aAndrea§7 to view your"
+        },
+        {
+          "text": "§7progress!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to equip!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8This item can be reforged!"
+        },
+        {
+          "text": "§8§l* §8Soulbound §8§l*"
+        },
+        {
+          "text": "§f§lCOMMON BELT"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/safari/safari_belt_common",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
     }
   },
   {
@@ -296914,7 +300995,7 @@
           "text": "§7Damage: §c+10"
         },
         {
-          "text": "§7Sweep: §2+7"
+          "text": "§7Sweep: §2+10"
         },
         {
           "text": "§7Foraging Fortune: §6+5"
@@ -301072,16 +305153,22 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Its vibrant green glow perfectly"
+          "text": "§7Purchased from §bAgatha's Shop§7!"
         },
         {
-          "text": "§7matches the scales of the Jade"
+          "text": ""
         },
         {
-          "text": "§7Dragon. A symbol of new beginnings"
+          "text": "§8§oIts vibrant green glow perfectly"
         },
         {
-          "text": "§7and unimaginable power."
+          "text": "§8§omatches the scales of the Jade"
+        },
+        {
+          "text": "§8§oDragon. A symbol of new beginnings"
+        },
+        {
+          "text": "§8§oand unimaginable power."
         },
         {
           "text": ""
@@ -301115,6 +305202,79 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "SHINING_COIN"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Shining Coin"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Quest Item"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Found in the §5Haunted Biome§7. Perhaps"
+        },
+        {
+          "text": "§7it has a use there?"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§oThrowing coins into fountains and"
+        },
+        {
+          "text": "§8§oother bodies of water it said to"
+        },
+        {
+          "text": "§8§obring good luck in some cultures."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6This item will vanish from your"
+        },
+        {
+          "text": "§6inventory after leaving the §2Safari"
+        },
+        {
+          "text": "§2Zone§6!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§c§lSPECIAL"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/safari/shining_coin",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:special"
     }
   },
   {
@@ -307044,6 +311204,71 @@
     }
   },
   {
+    "id": "minecraft:orange_dye",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "SKYBLOCK_DESERT_WHISPERS"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Desert Whispers"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Used for NEU Recipes"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§c§l§ka§r §c§lSPECIAL §c§l§ka"
+        }
+      ],
+      "minecraft:dyed_color": 10511680,
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:dyed_color"
+        ]
+      }
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "SKYBLOCK_HELIX_TREE_GIFTS"
+      },
+      "minecraft:custom_name": {
+        "text": "§cHelix Tree Gifts"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Used for NEU Recipes"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§c§l§ka§r §c§lSPECIAL §c§l§ka"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzcwMzY3MTE1NiwKICAicHJvZmlsZUlkIiA6ICI2MjgwNTgwYzhkYzg0MWM5YjYyZjY0NTZjMWVjNWJjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJPMnRoZUMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmU4M2VkYmZhODVlNDVjZGRhNjNjODI4MzEzODkzOGUyZjBmMTM1YTE1NWEyZWM0NmQ2NWE5ZDYxNzdmOGYzZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9ewogICJ0aW1lc3RhbXAiIDogMTc4MzcwMzY3MTE1NiwKICAicHJvZmlsZUlkIiA6ICI2MjgwNTgwYzhkYzg0MWM5YjYyZjY0NTZjMWVjNWJjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJPMnRoZUMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmU4M2VkYmZhODVlNDVjZGRhNjNjODI4MzEzODkzOGUyZjBmMTM1YTE1NWEyZWM0NmQ2NWE5ZDYxNzdmOGYzZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:dyed_color": 10511680,
+      "minecraft:item_model": "minecraft:stripped_mangrove_wood",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:dyed_color"
+        ]
+      }
+    }
+  },
+  {
     "id": "minecraft:nether_star",
     "components": {
       "minecraft:custom_data": {
@@ -307226,7 +311451,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Damage: §c+150"
+          "text": "§7Damage: §c+200"
         },
         {
           "text": "§7Farming Fortune: §6+15"
@@ -307244,7 +311469,7 @@
           "text": "§6Ability: Vacuum  §e§lHOLD RIGHT CLICK"
         },
         {
-          "text": "§7Deals §c150  Damage §7per second to"
+          "text": "§7Deals §c200  Damage §7per second to"
         },
         {
           "text": "§7nearby §2 Pests§7."
@@ -307269,6 +311494,12 @@
         },
         {
           "text": "§7Vacuum Bag: §20 Pests"
+        },
+        {
+          "text": "§8Vacuum  Pests in your Garden to"
+        },
+        {
+          "text": "§8increase!"
         },
         {
           "text": ""
@@ -307311,7 +311542,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Damage: §c+120"
+          "text": "§7Damage: §c+150"
         },
         {
           "text": "§7Farming Fortune: §6+10"
@@ -307329,7 +311560,7 @@
           "text": "§6Ability: Vacuum  §e§lHOLD RIGHT CLICK"
         },
         {
-          "text": "§7Deals §c120  Damage §7per second to"
+          "text": "§7Deals §c150  Damage §7per second to"
         },
         {
           "text": "§7nearby §2 Pests§7."
@@ -307354,6 +311585,12 @@
         },
         {
           "text": "§7Vacuum Bag: §20 Pests"
+        },
+        {
+          "text": "§8Vacuum  Pests in your Garden to"
+        },
+        {
+          "text": "§8increase!"
         },
         {
           "text": ""
@@ -307439,6 +311676,12 @@
         },
         {
           "text": "§7Vacuum Bag: §20 Pests"
+        },
+        {
+          "text": "§8Vacuum  Pests in your Garden to"
+        },
+        {
+          "text": "§8increase!"
         },
         {
           "text": ""
@@ -309850,10 +314093,7 @@
           "text": ""
         },
         {
-          "text": "§8§l* §8Soulbound §8§l*"
-        },
-        {
-          "text": "§a§lUNCOMMON PET ITEM"
+          "text": "§a§lUNCOMMON"
         }
       ],
       "minecraft:profile": {
@@ -309876,8 +314116,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -310704,6 +314944,49 @@
           "minecraft:potion_contents",
           "minecraft:block_entity_data",
           "minecraft:dyed_color"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "SMALL_SLOTH_CLAW"
+      },
+      "minecraft:custom_name": {
+        "text": "§aSmall Sloth Claw"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Use at §bKat §7to upgrade §eSloth Pets"
+        },
+        {
+          "text": "§7from §fCommon §7to §aUncommon."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON PET ITEM"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/petupgrades/sloth_claw_small",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -314468,6 +318751,76 @@
     }
   },
   {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "SOOTHING_INCENSE"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Soothing Incense"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Quest Item"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Found in the §5Haunted Biome§7. Perhaps"
+        },
+        {
+          "text": "§7it has a use there?"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§oA stick of a sweet-smelling incense."
+        },
+        {
+          "text": "§8§oIt makes you feel at ease."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6This item will vanish from your"
+        },
+        {
+          "text": "§6inventory after leaving the §2Safari"
+        },
+        {
+          "text": "§2Zone§6!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§c§lSPECIAL"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/safari/soothing_incense",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:special"
+    }
+  },
+  {
     "id": "minecraft:ghast_tear",
     "components": {
       "minecraft:custom_data": {
@@ -318175,6 +322528,52 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "SPARKLING_AMULET"
+      },
+      "minecraft:custom_name": {
+        "text": "§bSparkling Amulet"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Increases your chance of finding"
+        },
+        {
+          "text": "§6§lSPARKLING §a Critters§7 by §a2x§7."
+        },
+        {
+          "text": "§bSparkling Amulet §8bonuses do not stack."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§c§lSPECIAL NECKLACE"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/safari/sparkling_amulet",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:special"
     }
   },
   {
@@ -327503,9 +331902,18 @@
         "id": "STARLYN_PRIZE"
       },
       "minecraft:custom_name": {
-        "text": "§9Starlyn Prize"
+        "text": "§9Agatha's Prize"
       },
       "minecraft:lore": [
+        {
+          "text": "§7Used to purchase certain items from"
+        },
+        {
+          "text": "§bAgatha's Shop§7!"
+        },
+        {
+          "text": ""
+        },
         {
           "text": "§9§lRARE"
         }
@@ -333616,6 +338024,62 @@
     "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
+        "id": "SUBLIME_SILK"
+      },
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:custom_name": {
+        "text": "§5Sublime Silk"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7A type of silk woven by the"
+        },
+        {
+          "text": "§7Silkbreeze. It's so soft that it"
+        },
+        {
+          "text": "§7practically trickles through your"
+        },
+        {
+          "text": "§7fingers as you hold it."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/sublime_silk",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
         "id": "SUBZERO_INVERTER"
       },
       "minecraft:custom_name": {
@@ -338788,13 +343252,13 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "SWEEP_BOOSTER"
       },
       "minecraft:custom_name": {
-        "text": "§fSweep Booster"
+        "text": "§fCommon Sweep Booster"
       },
       "minecraft:lore": [
         {
@@ -338828,14 +343292,7 @@
           "text": "§f§lCOMMON BOOSTER"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjU3ODg5OCwKICAicHJvZmlsZUlkIiA6ICJlY2Q0ZTI4NjdkMmE0MTE2OTljYzlkMjMzYmM1YmEyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYXRlZEtub3QiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmQ2YTA2MjRiNDQwNDQ5YTU3MTk1MTgzOTJmYTE4MmE5MWNiODkwZGIzNWFkNDQxMGFhZTQ3Zjg1YzJkNjE5YiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/boosters/common/booster_sweep",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:jukebox_playable",
@@ -338853,6 +343310,67 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "SWEEP_BOOSTER_UNCOMMON"
+      },
+      "minecraft:custom_name": {
+        "text": "§aUncommon Sweep Booster"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Booster"
+        },
+        {
+          "text": "§8Combinable in Anvil"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Applies the §bꕮ Sweep §7booster when"
+        },
+        {
+          "text": "§7combined with Foraging Armor,"
+        },
+        {
+          "text": "§7Equipment, or Axes."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §2 Sweep§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON BOOSTER"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/boosters/uncommon/booster_sweep_upgraded",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
     }
   },
   {
@@ -351018,6 +355536,446 @@
     }
   },
   {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "TORRHUS_ARTIFACT"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Torrhus Artifact"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Helix Fortune: §6+15"
+        },
+        {
+          "text": "§7Accessory Power: §6+8"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8Works while in Accessory Bag!"
+        },
+        {
+          "text": "§9§lRARE ACCESSORY"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/torrhus/torrhus_artifact",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "TORRHUS_BELT"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Torrhus Belt"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Sweep: §2+2"
+        },
+        {
+          "text": "§7Foraging Fortune: §6+10"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §a+10% §7more points towards"
+        },
+        {
+          "text": "§dStarlyn Contests§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to equip!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8This item can be reforged!"
+        },
+        {
+          "text": "§4❣ §cRequires §aForaging Skill 24§c."
+        },
+        {
+          "text": "§5§lEPIC BELT"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/equipment/torrhus_belt",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "TORRHUS_CANYON_PORTAL"
+      },
+      "minecraft:custom_name": {
+        "text": "§fPortal to the Torrhus Canyon"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Placing this item on your private"
+        },
+        {
+          "text": "§7island will create a portal to"
+        },
+        {
+          "text": "§6Torrhus Canyon§7 for you to use"
+        },
+        {
+          "text": "§7whenever you want!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8The portal will spawn facing you on"
+        },
+        {
+          "text": "§8the block you click on."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON PORTAL"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NTI3ODgzODYxNywKICAicHJvZmlsZUlkIiA6ICJiYTllNWY4YTc0Yzg0MzQ5YjY3ZTg2MzBlMDRmMTI2ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJhbW9ndXNwYWRvdyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xYzNiZTBjNmE1YTZmY2E3N2I0NTA0YzJjZjkzNTlkYTgzNTE2Y2Y1ODA4NjQyZjQ0MDdiYTEyZmU5NDA3NDY0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:map",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "TORRHUS_CANYON_TRAVEL_SCROLL"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Travel Scroll to Torrhus Canyon"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Consume this item to add its"
+        },
+        {
+          "text": "§7destination to your Fast Travel"
+        },
+        {
+          "text": "§7options."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Island: §aTorrhus Canyon"
+        },
+        {
+          "text": "§7Teleport: §eSpawn"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE TRAVEL SCROLL"
+        }
+      ],
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "TORRHUS_RING"
+      },
+      "minecraft:custom_name": {
+        "text": "§aTorrhus Ring"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Helix Fortune: §6+10"
+        },
+        {
+          "text": "§7Accessory Power: §6+5"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8Works while in Accessory Bag!"
+        },
+        {
+          "text": "§a§lUNCOMMON ACCESSORY"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/torrhus/torrhus_ring",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "TORRHUS_SPRINGS_PORTAL"
+      },
+      "minecraft:custom_name": {
+        "text": "§fPortal to the Torrhus Springs"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Placing this item on your private"
+        },
+        {
+          "text": "§7island will create a portal to"
+        },
+        {
+          "text": "§bTorrhus Springs§7 for you to use"
+        },
+        {
+          "text": "§7whenever you want!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8The portal will spawn facing you on"
+        },
+        {
+          "text": "§8the block you click on."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON PORTAL"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTczMDMyMTgxNDIxMywKICAicHJvZmlsZUlkIiA6ICI5OWY1MzhjMDhlN2E0NTg3YmU4MGJjNGVmNzU0ZmQyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb2xvV1MyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI5YzFmYjkyM2UzNjNiMDI5MjlkZTgyMDdjODAxM2VhM2M3ZTRiMzkzMzA0N2ZjOWNhMmJiMDhiOGRjMDcyNTQiCiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:map",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "TORRHUS_SPRINGS_TRAVEL_SCROLL"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Travel Scroll to Torrhus Springs"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Consume this item to add its"
+        },
+        {
+          "text": "§7destination to your Fast Travel"
+        },
+        {
+          "text": "§7options."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Island: §aTorrhus Canyon"
+        },
+        {
+          "text": "§7Teleport: §eTorrhus Springs"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE TRAVEL SCROLL"
+        }
+      ],
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "TORRHUS_TALISMAN"
+      },
+      "minecraft:custom_name": {
+        "text": "§fTorrhus Talisman"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Helix Fortune: §6+5"
+        },
+        {
+          "text": "§7Accessory Power: §6+3"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8Works while in Accessory Bag!"
+        },
+        {
+          "text": "§f§lCOMMON ACCESSORY"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/accessories/torrhus/torrhus_talisman",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
@@ -353489,7 +358447,7 @@
     }
   },
   {
-    "id": "minecraft:cobweb",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "TURBO_FISHING_NET"
@@ -353530,6 +358488,18 @@
         },
         {
           "text": "§7Throw Distance: §a+100%"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6Ability: Haul "
+        },
+        {
+          "text": "§7Grants §d+5 Hunting Fortune §7on"
+        },
+        {
+          "text": "§9Water Shards §7caught with this net."
         },
         {
           "text": ""
@@ -358196,6 +363166,123 @@
     }
   },
   {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "VEILSHROOM_BRACELET"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Veilshroom Bracelet"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Sweep: §2+5"
+        },
+        {
+          "text": "§7Foraging Fortune: §6+25"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to equip!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8This item can be reforged!"
+        },
+        {
+          "text": "§4❣ §cRequires §aForaging Skill 30§c."
+        },
+        {
+          "text": "§5§lEPIC BRACELET"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/equipment/veilshroom_bracelet",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "VEILSHROOM_BUNCH"
+      },
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:custom_name": {
+        "text": "§9Veilshroom Bunch"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Collection Item"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7A bouquet of ruby veilshrooms. The"
+        },
+        {
+          "text": "§7heat emanating from them can be felt"
+        },
+        {
+          "text": "§7even through the wrapping - best to"
+        },
+        {
+          "text": "§7handle with care."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/resources/veilshroom_bunch",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
     "id": "minecraft:leather_helmet",
     "components": {
       "minecraft:custom_data": {
@@ -358810,6 +363897,67 @@
     }
   },
   {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "VIAL_OF_SPRING_WATER"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Vial of Spring Water"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7A vial of particularly clear water,"
+        },
+        {
+          "text": "§7gathered from Torrhus Spring by"
+        },
+        {
+          "text": "§7Miria herself. It exudes a faint"
+        },
+        {
+          "text": "§7warmth when pressed against your"
+        },
+        {
+          "text": "§7chest, reminding you of fond"
+        },
+        {
+          "text": "§7memories of days gone by."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6§lLEGENDARY"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/vial_of_spring_water",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
@@ -359260,7 +364408,7 @@
           "text": ""
         },
         {
-          "text": "§7Creatures lose stamina §220% §7faster."
+          "text": "§a Critters §7lose stamina §220% §7faster."
         },
         {
           "text": ""
@@ -359272,20 +364420,18 @@
       "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_2/hunting/vinerip_lasso",
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -363702,6 +368848,70 @@
     }
   },
   {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "WATER_HYACINTH"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Water Hyacinth"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Combinable in Anvil"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7When applied to armor, increases its"
+        },
+        {
+          "text": "§9Forest Pledge §7level by §a1§7!"
+        },
+        {
+          "text": "§8Can be applied once."
+        },
+        {
+          "text": "§8Requires Forest Pledge V!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§oThe Torrid is born when a water"
+        },
+        {
+          "text": "§8§ohyacinth blooms for the first time."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6§lLEGENDARY"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/enchantmentupgrades/water_hyacinth",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
@@ -367340,6 +372550,75 @@
     }
   },
   {
+    "id": "minecraft:wheat",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "WHOLESALE_WHEAT"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Wholesale Wheat"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Quest Item"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Looks delicious. Perhaps a certain §a"
+        },
+        {
+          "text": "§aCritter§7 would like it?"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§oIts use is unclear. Perhaps some of"
+        },
+        {
+          "text": "§8§othe other Hunters might know?"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6This item will vanish from your"
+        },
+        {
+          "text": "§6inventory after leaving the §2Safari"
+        },
+        {
+          "text": "§2Zone§6!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§c§lSPECIAL"
+        }
+      ],
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:special"
+    }
+  },
+  {
     "id": "minecraft:book",
     "components": {
       "minecraft:custom_data": {
@@ -367685,6 +372964,79 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "WINDING_IVY"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Winding Ivy"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Consumed on use"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§aPet Items §7can boost pets in many"
+        },
+        {
+          "text": "§7powerful ways! A pet can only hold"
+        },
+        {
+          "text": "§7one §aPet Item§7, but you can §eswap §7it at"
+        },
+        {
+          "text": "§7any time!"
+        },
+        {
+          "text": "§8The pet must be visible to apply the item!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §2+10 Sweep§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click on your summoned pet to"
+        },
+        {
+          "text": "§egive it this item!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE PET ITEM"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/petitems/winding_ivy",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
     }
   },
   {
@@ -372612,7 +377964,10 @@
           "text": "§7while held in the §2Forest§7, §cGraveyard§7,"
         },
         {
-          "text": "§2Wilderness§7, §aThe Park§7, and §2Galatea§7."
+          "text": "§2Wilderness§7, §aThe Park§7, §2Moonglade"
+        },
+        {
+          "text": "§2Marsh§7, and §6Torrhus Canyon§7."
         },
         {
           "text": ""
@@ -373475,6 +378830,76 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "WRIGGLEWORM"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Wriggleworm"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Quest Item"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Can be placed in the §eBirdfeeder§7 to"
+        },
+        {
+          "text": "§7attract §eBirds§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§oSome odd-looking worm, and it's still"
+        },
+        {
+          "text": "§8§oalive!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6This item will vanish from your"
+        },
+        {
+          "text": "§6inventory after leaving the §2Safari"
+        },
+        {
+          "text": "§2Zone§6!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§c§lSPECIAL"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/safari/quest/wriggleworm",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:special"
     }
   },
   {
@@ -374404,6 +379829,79 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "YOGI_BERRY"
+      },
+      "minecraft:custom_name": {
+        "text": "§bYogi Berry"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Quest Item"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Can be placed in the §eBirdfeeder§7 to"
+        },
+        {
+          "text": "§7attract §eBirds§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§oA large, tasty berry. Whatever"
+        },
+        {
+          "text": "§8§ocritter eats this won't be hungry"
+        },
+        {
+          "text": "§8§oanytime soon."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6This item will vanish from your"
+        },
+        {
+          "text": "§6inventory after leaving the §2Safari"
+        },
+        {
+          "text": "§2Zone§6!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§c§lSPECIAL"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/safari/quest/yogi_berry",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:special"
     }
   },
   {
