@@ -65626,7 +65626,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Accessory Power: §6+3"
+          "text": "§7Rift Time: §a+10s"
         },
         {
           "text": ""
@@ -65702,10 +65702,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Intelligence: §b+2"
+          "text": "§7Rift Time: §a+20s"
         },
         {
-          "text": "§7Accessory Power: §6+5"
+          "text": "§7Intelligence: §b+2"
         },
         {
           "text": ""
@@ -65781,10 +65781,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Intelligence: §b+5"
+          "text": "§7Rift Time: §a+35s"
         },
         {
-          "text": "§7Accessory Power: §6+8"
+          "text": "§7Intelligence: §b+5"
         },
         {
           "text": ""
@@ -65860,10 +65860,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Intelligence: §b+7"
+          "text": "§7Rift Time: §a+55s"
         },
         {
-          "text": "§7Accessory Power: §6+12"
+          "text": "§7Intelligence: §b+7"
         },
         {
           "text": ""
@@ -65939,13 +65939,13 @@
       },
       "minecraft:lore": [
         {
+          "text": "§7Rift Time: §a+70s"
+        },
+        {
           "text": "§7Intelligence: §b+10"
         },
         {
           "text": "§7Speed: §f+1"
-        },
-        {
-          "text": "§7Accessory Power: §6+16"
         },
         {
           "text": ""
@@ -66020,6 +66020,9 @@
         "text": "§dCrux Chronomicon"
       },
       "minecraft:lore": [
+        {
+          "text": "§7Rift Time: §a+100s"
+        },
         {
           "text": "§7Intelligence: §b+15"
         },
@@ -75192,8 +75195,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -77117,13 +77120,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7§8Combinable in Anvil"
+          "text": "§8Combinable in Anvil"
         },
         {
           "text": ""
         },
         {
-          "text": "§7§7Item skins give your gear a fresh"
+          "text": "§7Item skins give your gear a fresh"
         },
         {
           "text": "§7new look! Apply them just like an"
@@ -77135,10 +77138,10 @@
           "text": ""
         },
         {
-          "text": "§7§7This skin can be applied to §6Diver's"
+          "text": "§7This skin can be applied to §5Diver's"
         },
         {
-          "text": "§6Mask§7."
+          "text": "§5Mask§7 and §6Abyssal Helmet§7."
         },
         {
           "text": ""
@@ -77157,7 +77160,18 @@
       },
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:dyed_color"
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -106744,23 +106758,28 @@
           "text": "§8This item can be reforged!"
         },
         {
+          "text": "§4❣ §cRequires §aFarming Skill 3§c."
+        },
+        {
           "text": "§f§lCOMMON BOOTS"
         }
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
-          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
-          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color",
-          "minecraft:charged_projectiles"
+          "minecraft:dyed_color"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -106802,24 +106821,29 @@
           "text": "§8This item can be reforged!"
         },
         {
+          "text": "§4❣ §cRequires §aFarming Skill 3§c."
+        },
+        {
           "text": "§f§lCOMMON CHESTPLATE"
         }
       ],
       "minecraft:dyed_color": 15467551,
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
-          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
-          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color",
-          "minecraft:charged_projectiles"
+          "minecraft:dyed_color"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -106861,24 +106885,29 @@
           "text": "§8This item can be reforged!"
         },
         {
+          "text": "§4❣ §cRequires §aFarming Skill 3§c."
+        },
+        {
           "text": "§f§lCOMMON HELMET"
         }
       ],
       "minecraft:dyed_color": 16640098,
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
-          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
-          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color",
-          "minecraft:charged_projectiles"
+          "minecraft:dyed_color"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -106920,24 +106949,29 @@
           "text": "§8This item can be reforged!"
         },
         {
+          "text": "§4❣ §cRequires §aFarming Skill 3§c."
+        },
+        {
           "text": "§f§lCOMMON LEGGINGS"
         }
       ],
       "minecraft:dyed_color": 4868228,
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
-          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
-          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color",
-          "minecraft:charged_projectiles"
+          "minecraft:dyed_color"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -129837,13 +129871,10 @@
           "text": ""
         },
         {
-          "text": "§7Restores §a1%§7 of your maximum"
+          "text": "§7Restores §c+5 Health §7every second"
         },
         {
-          "text": "§7§c❤ Health §7every second while"
-        },
-        {
-          "text": "§7worn"
+          "text": "§7while worn."
         },
         {
           "text": ""
@@ -276589,6 +276620,9 @@
           "text": ""
         },
         {
+          "text": "§4☠ §cRequires §5Zombie Slayer 8§c."
+        },
+        {
           "text": "§8Works while in Accessory Bag!"
         },
         {
@@ -276605,18 +276639,20 @@
       },
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
-          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
-          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color",
-          "minecraft:charged_projectiles"
+          "minecraft:dyed_color"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -336674,13 +336710,24 @@
         "properties": [
           {
             "name": "textures",
-            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTJhNzcwNDU5ZmE2ZDY1ZTIyYWE5NTY3OWQ5M2EyODcwYWFmZWE3MGY5ZjFjNmEwZjc4ZWI2NDFlOTI4OTAifX19Cg"
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NjUxODA3NDgwOCwKICAicHJvZmlsZUlkIiA6ICIyYzEwNjRmY2Q5MTc0MjgyODRlM2JmN2ZhYTdlM2UxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYWVtZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MmE3NzA0NTlmYTZkNjVlMjJhYTk1Njc5ZDkzYTI4NzBhYWZlYTcwZjlmMWM2YTBmNzhlYjY0MWU5Mjg5MCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
           }
         ]
       },
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:dyed_color"
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -343085,6 +343132,9 @@
         },
         {
           "text": ""
+        },
+        {
+          "text": "§4☠ §cRequires §5Spider Slayer 6§c."
         },
         {
           "text": "§8Works while in Accessory Bag!"
@@ -351689,28 +351739,25 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Placing this item on your"
+          "text": "§7Placing this item on your private"
         },
         {
-          "text": "§7private island will create a"
+          "text": "§7island will create a portal to the"
         },
         {
-          "text": "§7portal to §bthe Trapper's Den§7"
+          "text": "§bTrapper's Den§7 for you to use"
         },
         {
-          "text": "§7for you to use whenever you"
-        },
-        {
-          "text": "§7want!"
+          "text": "§7whenever you want!"
         },
         {
           "text": ""
         },
         {
-          "text": "§7§8The portal will spawn facing"
+          "text": "§8The portal will spawn facing you on"
         },
         {
-          "text": "§8you on the block you click on."
+          "text": "§8the block you click on."
         },
         {
           "text": ""
@@ -351723,10 +351770,27 @@
         "properties": [
           {
             "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxODI2MzEwNDI4NywKICAicHJvZmlsZUlkIiA6ICI3NTE0NDQ4MTkxZTY0NTQ2OGM5NzM5YTZlMzk1N2JlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFua3NNb2phbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjEwMmY4MjE0ODQ2MWNlZDFmN2I2MmUzMjZlYjJkYjNhOTRhMzNjYmE4MWQ0MjgxNDUyYWY0ZDhhZWNhNDk5MSIKICAgIH0KICB9Cn0="
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzgxMTUyOTk0MCwKICAicHJvZmlsZUlkIiA6ICJhMjk1ODZmYmU1ZDk0Nzk2OWZjOGQ4ZGE0NzlhNDNlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaWVydGVsdG9hc3RpaWUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjEwMmY4MjE0ODQ2MWNlZDFmN2I2MmUzMjZlYjJkYjNhOTRhMzNjYmE4MWQ0MjgxNDUyYWY0ZDhhZWNhNDk5MSIKICAgIH0KICB9Cn0="
           }
         ]
-      }
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
     }
   },
   {
@@ -358938,9 +359002,6 @@
           "text": " §3+10☯ Combat Wisdom"
         },
         {
-          "text": " §c+10❤ §7per second."
-        },
-        {
           "text": ""
         },
         {
@@ -358967,8 +359028,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"

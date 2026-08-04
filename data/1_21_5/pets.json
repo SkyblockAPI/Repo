@@ -13054,8 +13054,7 @@
           "§6Turtle Shell",
           "§7When under §c40% §7maximum HP, you take",
           "§a{2}% §7less damage. Gain §4+{3}",
-          "§4Vitality §7for 15 seconds after taking",
-          "§710 hits.",
+          "§4Vitality §7after taking 10 hits.",
           "",
           "§6§lLEGENDARY"
         ],
