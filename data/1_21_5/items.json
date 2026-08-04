@@ -93983,7 +93983,7 @@
     }
   },
   {
-    "id": "minecraft:honeycomb_block",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "ENCHANTED_HONEYCOMB_BLOCK"
