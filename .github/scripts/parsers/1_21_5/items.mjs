@@ -28,7 +28,11 @@ export const getItemId = (id, damage) => {
         if (Object.values(lookup).includes(id)) {
             return id;
         }
-        throw new Error(`Unknown item: ${id}:${damage}`);
+        if (damage === 0) {
+            return id
+        } else {
+            throw new Error(`Unknown item: ${id}:${damage}`);
+        }
     }
     return newId;
 }
