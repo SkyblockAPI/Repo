@@ -3072,6 +3072,79 @@
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
+        "id": "ACACIA_GENERATOR_12"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Acacia Minion XII"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Place this minion and it will start"
+        },
+        {
+          "text": "§7generating and chopping acacia logs!"
+        },
+        {
+          "text": "§7Requires an open area to place"
+        },
+        {
+          "text": "§7trees. Minions also work when you"
+        },
+        {
+          "text": "§7are offline!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Time Between Actions: §a23s"
+        },
+        {
+          "text": "§7Max Storage: §e960"
+        },
+        {
+          "text": "§7Resources Generated: §b0"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3NTA1MDYzMTA2NSwKICAicHJvZmlsZUlkIiA6ICJiMzMwZWE4OWE3MTY0OWZjYTMwZmI5ZjU5MTQ5ZjNjMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUQUxLX0FMT1RfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZiMGE5ODJmZDc3ZmQ5OWE0NmVlNzE0YWExOGNiYWZmNDQ2YjI2OWE4MTQ3ZTBjMzlhYWVlYzU2ODQyMWFlZWQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:painting/variant",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
         "id": "ACACIA_GENERATOR_2"
       },
       "minecraft:custom_name": {
@@ -24838,6 +24911,79 @@
           "minecraft:trim",
           "minecraft:potion_contents",
           "minecraft:block_entity_data",
+          "minecraft:dyed_color"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "BIRCH_GENERATOR_12"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Birch Minion XII"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Place this minion and it will start"
+        },
+        {
+          "text": "§7generating and chopping birch logs!"
+        },
+        {
+          "text": "§7Requires an open area to place"
+        },
+        {
+          "text": "§7trees. Minions also work when you"
+        },
+        {
+          "text": "§7are offline!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Time Between Actions: §a23s"
+        },
+        {
+          "text": "§7Max Storage: §e960"
+        },
+        {
+          "text": "§7Resources Generated: §b0"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3NTA1MDYxMzc0NSwKICAicHJvZmlsZUlkIiA6ICI1MTAwZGZmZDI0NDI0M2I0OGQxMmVkZTVkMjgxMzk2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGVjdHJvbmljU2V4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E0M2RjMzNkNjIxY2QyNDk1ZTc5ZTU5YTdmZjM4ZjgzMjY5NjUxNTVjZDIzYjhkMTJjYjFmM2Y0NWRjYzg1OTMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:painting/variant",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:potion_contents",
           "minecraft:dyed_color"
         ]
       },
@@ -69091,10 +69237,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Consume to boost your §6 Global"
+          "text": "§7Consume to boost your §6 Cocoa"
         },
         {
-          "text": "§6Fortune §7for §a60m§7."
+          "text": "§6Beans Fortune §7for §a60m§7."
         },
         {
           "text": ""
@@ -69103,19 +69249,19 @@
           "text": "§7Keep this item in your inventory to"
         },
         {
-          "text": "§7increase the bonus up to §6+30"
+          "text": "§7increase the bonus up to §6+30"
         },
         {
-          "text": "§6Global Fortune§7, at which point the"
+          "text": "§6Cocoa Beans Fortune§7, at which point"
         },
         {
-          "text": "§7item §c§oevolves§7!"
+          "text": "§7the item §c§oevolves§7!"
         },
         {
           "text": ""
         },
         {
-          "text": "§7Current Bonus: §6+0 Global Fortune"
+          "text": "§7Current Bonus: §6+0 Cocoa Beans Fortune"
         },
         {
           "text": ""
@@ -69645,6 +69791,79 @@
           "minecraft:trim",
           "minecraft:potion_contents",
           "minecraft:block_entity_data",
+          "minecraft:dyed_color"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "DARK_OAK_GENERATOR_12"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Dark Oak Minion XII"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Place this minion and it will start"
+        },
+        {
+          "text": "§7generating and chopping dark oak"
+        },
+        {
+          "text": "§7logs! Requires an open area to place"
+        },
+        {
+          "text": "§7trees. Minions also work when you"
+        },
+        {
+          "text": "§7are offline!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Time Between Actions: §a23s"
+        },
+        {
+          "text": "§7Max Storage: §e960"
+        },
+        {
+          "text": "§7Resources Generated: §b0"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3NTA1MDY1MDg4NywKICAicHJvZmlsZUlkIiA6ICIyY2Y2MzExZjUyMTM0NTE2YTEyNTY3NWUwMzk3NmU2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJmaWdodHN0b2NrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JhMDc4M2JlMTRjMmEyMzAyOGRjMmQzYjYyNTViMzJkMmM1NTIyM2ExYzM2YjExYTVmMzc1YmY3M2UwMmU3ZGUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:painting/variant",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:potion_contents",
           "minecraft:dyed_color"
         ]
       },
@@ -94021,6 +94240,7 @@
           "text": "§9§lRARE"
         }
       ],
+      "minecraft:item_model": "minecraft:honeycomb_block",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:jukebox_playable",
@@ -103263,7 +103483,7 @@
           "text": "§7of cake! Eating this cake grants §d+1"
         },
         {
-          "text": "§dHunter Fortune §7for 48 hours."
+          "text": "§dHunting Fortune §7for 48 hours."
         },
         {
           "text": ""
@@ -175315,6 +175535,79 @@
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
+        "id": "JUNGLE_GENERATOR_12"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Jungle Minion XII"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Place this minion and it will start"
+        },
+        {
+          "text": "§7generating and chopping jungle logs!"
+        },
+        {
+          "text": "§7Requires an open area to place"
+        },
+        {
+          "text": "§7trees. Minions also work when you"
+        },
+        {
+          "text": "§7are offline!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Time Between Actions: §a23s"
+        },
+        {
+          "text": "§7Max Storage: §e960"
+        },
+        {
+          "text": "§7Resources Generated: §b0"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3NTA1MDU5OTI5NCwKICAicHJvZmlsZUlkIiA6ICIwMTIxYzFjZDUxOTM0M2NmYWM4YzgyZThiNjVjYTFjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfVmV4X1RWIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzljNzUyNzIwN2ZmZTE0NzVkYjhiMzQ1ZTc3NDlhMzRhOGMzZDdhZDMzZGQ3ZDI0YjJmMjllZWZlZDQ2ZmQ4ZjgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:painting/variant",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
         "id": "JUNGLE_GENERATOR_2"
       },
       "minecraft:custom_name": {
@@ -216740,6 +217033,79 @@
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
+        "id": "OAK_GENERATOR_12"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Oak Minion XII"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Place this minion and it will start"
+        },
+        {
+          "text": "§7generating and chopping oak logs!"
+        },
+        {
+          "text": "§7Requires an open area to place"
+        },
+        {
+          "text": "§7trees. Minions also work when you"
+        },
+        {
+          "text": "§7are offline!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Time Between Actions: §a23s"
+        },
+        {
+          "text": "§7Max Storage: §e960"
+        },
+        {
+          "text": "§7Resources Generated: §b0"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3NTA1MDYyMjEzNSwKICAicHJvZmlsZUlkIiA6ICJjY2MxNGM2ZDUwMDE0MjBmYmMxYjkyMTM2Y2JmOWU4MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJab25lX1gwODE1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkxMjQ1MDE1NDE3ZDBhNjMzYmM4YzcxNGI3Njc2MDY3YzBhYzBiZjk0MDZlZGZhYzg1MmJiOTRhYzM4NGJlNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:painting/variant",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
         "id": "OAK_GENERATOR_2"
       },
       "minecraft:custom_name": {
@@ -232903,6 +233269,154 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:iron_axe",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "PET_ITEM_FORAGING_SKILL_BOOST_RARE"
+      },
+      "minecraft:unbreakable": {},
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:custom_name": {
+        "text": "§9Foraging Exp Boost"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Consumed on use"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§aPet Items §7can boost pets in many"
+        },
+        {
+          "text": "§7powerful ways! A pet can only hold"
+        },
+        {
+          "text": "§7one §aPet Item§7, but you can §eswap §7it at"
+        },
+        {
+          "text": "§7any time!"
+        },
+        {
+          "text": "§8The pet must be visible to apply the item!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Gives §a+40% §7pet exp for §aForaging§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click on your summoned pet to"
+        },
+        {
+          "text": "§egive it this item!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE PET ITEM"
+        }
+      ],
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:iron_axe",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "PET_ITEM_FORAGING_SKILL_BOOST_UNCOMMON"
+      },
+      "minecraft:unbreakable": {},
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:custom_name": {
+        "text": "§aForaging Exp Boost"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Consumed on use"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§aPet Items §7can boost pets in many"
+        },
+        {
+          "text": "§7powerful ways! A pet can only hold"
+        },
+        {
+          "text": "§7one §aPet Item§7, but you can §eswap §7it at"
+        },
+        {
+          "text": "§7any time!"
+        },
+        {
+          "text": "§8The pet must be visible to apply the item!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Gives §a+30% §7pet exp for §aForaging§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click on your summoned pet to"
+        },
+        {
+          "text": "§egive it this item!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON PET ITEM"
+        }
+      ],
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
     }
   },
   {
@@ -284933,7 +285447,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Consume to gain §6+30 Global"
+          "text": "§7Consume to gain §6+30 Cocoa Beans"
         },
         {
           "text": "§6Fortune §7for §a60m§7!"
@@ -284948,7 +285462,7 @@
           "text": "§7Consuming this grants permanent"
         },
         {
-          "text": "§6+1 Global Fortune§7."
+          "text": "§6+1 Cocoa Beans Fortune§7."
         },
         {
           "text": ""
@@ -286766,7 +287280,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Respiration: §3+30"
+          "text": "§7Respiration: §3+15"
         },
         {
           "text": "§7Accessory Power: §6+8"
@@ -286836,7 +287350,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Respiration: §3+20"
+          "text": "§7Respiration: §3+10"
         },
         {
           "text": "§7Accessory Power: §6+5"
@@ -286906,7 +287420,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Respiration: §3+10"
+          "text": "§7Respiration: §3+5"
         },
         {
           "text": "§7Accessory Power: §6+3"
@@ -286946,18 +287460,20 @@
       },
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
-          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
-          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color",
-          "minecraft:charged_projectiles"
+          "minecraft:dyed_color"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -328023,6 +328539,79 @@
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
+        "id": "SPRUCE_GENERATOR_12"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Spruce Minion XII"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Place this minion and it will start"
+        },
+        {
+          "text": "§7generating and chopping spruce"
+        },
+        {
+          "text": "§7logs! Requires an open area to place"
+        },
+        {
+          "text": "§7trees. Minions also work when you"
+        },
+        {
+          "text": "§7are offline!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Time Between Actions: §a23s"
+        },
+        {
+          "text": "§7Max Storage: §e960"
+        },
+        {
+          "text": "§7Resources Generated: §b0"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3NTA1MDY0MDM1NCwKICAicHJvZmlsZUlkIiA6ICI3YjE3NjBiYmVkNTk0Mjc1YmU3ZjhjMGFlYmQzMmRiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdmVuTmlqaHVpczQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTY0ODVjMWIzODVmNmRmZGUwODc1ZmE4MzViNzJmNjU3MWUzNGQ2Nzk4ZDM4NmMwMjczNWE5ZWRmZmQwOTc2NCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:painting/variant",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:enchantments",
+          "minecraft:stored_enchantments",
+          "minecraft:trim",
+          "minecraft:charged_projectiles",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
         "id": "SPRUCE_GENERATOR_2"
       },
       "minecraft:custom_name": {
@@ -355808,6 +356397,60 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:map",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "TORRHUS_SAFARI_ENTRANCE_TRAVEL_SCROLL"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Travel Scroll to Critter Safari Entrance"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Consume this item to add its"
+        },
+        {
+          "text": "§7destination to your Fast Travel"
+        },
+        {
+          "text": "§7options."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Island: §aTorrhus Canyon"
+        },
+        {
+          "text": "§7Teleport: §eCritter Safari Entrance"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE TRAVEL SCROLL"
+        }
+      ],
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
     }
   },
   {

@@ -3526,7 +3526,7 @@
     ],
     "attribute_id": "U14",
     "shard_name": "Wetwing Shard",
-    "shard_id": "SHARD_DROWNED",
+    "shard_id": "SHARD_WETWING",
     "name": "Humanoid Ruler",
     "item": "minecraft:player_head",
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyNjUxMTMwNDIyNCwKICAicHJvZmlsZUlkIiA6ICIzYjBmNTM5MmRlNzM0YmZjYmJkOTMxYzMxYmFkODMxMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJjYXRhbmRCIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U0NjU0MDk1NzU1ZmE1ZmI5OTRlNjlkNTY2MWIwY2EyMjg2ODE1YjAwNmY4ZDNkMTg5MzNmMmFhN2VjNDRmNTYiCiAgICB9CiAgfQp9",

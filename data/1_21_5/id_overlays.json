@@ -303,6 +303,13 @@
   },
   {
     "type": "item",
+    "id": "ACACIA_GENERATOR_12",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Acacia_Minion"
+    }
+  },
+  {
+    "type": "item",
     "id": "ACACIA_GENERATOR_2",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Acacia_Minion"
@@ -2640,6 +2647,13 @@
   {
     "type": "item",
     "id": "BIRCH_GENERATOR_11",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Birch_Minion"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BIRCH_GENERATOR_12",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Birch_Minion"
     }
@@ -7447,6 +7461,13 @@
   {
     "type": "item",
     "id": "DARK_OAK_GENERATOR_11",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dark_Oak_Minion"
+    }
+  },
+  {
+    "type": "item",
+    "id": "DARK_OAK_GENERATOR_12",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Dark_Oak_Minion"
     }
@@ -18890,6 +18911,13 @@
   },
   {
     "type": "item",
+    "id": "JUNGLE_GENERATOR_12",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Jungle_Minion"
+    }
+  },
+  {
+    "type": "item",
     "id": "JUNGLE_GENERATOR_2",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Jungle_Minion"
@@ -23418,6 +23446,13 @@
   },
   {
     "type": "item",
+    "id": "OAK_GENERATOR_12",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Oak_Minion"
+    }
+  },
+  {
+    "type": "item",
     "id": "OAK_GENERATOR_2",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Oak_Minion"
@@ -25147,6 +25182,20 @@
   {
     "type": "item",
     "id": "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Foraging_Exp_Boost"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PET_ITEM_FORAGING_SKILL_BOOST_RARE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Foraging_Exp_Boost"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PET_ITEM_FORAGING_SKILL_BOOST_UNCOMMON",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Foraging_Exp_Boost"
     }
@@ -34735,6 +34784,13 @@
   {
     "type": "item",
     "id": "SPRUCE_GENERATOR_11",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Spruce_Minion"
+    }
+  },
+  {
+    "type": "item",
+    "id": "SPRUCE_GENERATOR_12",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Spruce_Minion"
     }
