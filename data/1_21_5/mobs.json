@@ -77,7 +77,7 @@
       "y": 89,
       "z": -4
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGQyMTgwZTRiZDE1M2NiNDliYTQ5MDYwOTg2MDRjMTc4NThlYTQ1MTZmZmJmMDRjZmU1MGZlYWU0YmU0NzZmMiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI2MjliNWE4MmE2Y2MyMmU3YmJjNGYzZGQ2ODBjYjFlMSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzUwNjk0MjY2MTQ1fQ==",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjUwYjEzNjE2OGYzNzA4YzBjY2E2ZjQyZDE0MDQ2NWMzYTFhNDQ3YTJlNDI1ZWM0NWU3ODhjNWM3OTIwZDM2NSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJiMTU0NTgzMDUwMDcyY2ZlYWJjMGMyYTJiOGQwMWJiMCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg1OTQxMDY5NzA1fQ==",
     "itemId": "minecraft:player_head",
     "name": "Agatha",
     "type": "NPC"
@@ -15344,6 +15344,18 @@
     "name": "Odger",
     "type": "NPC"
   },
+  "OEN_NPC": {
+    "island": "foraging_3",
+    "position": {
+      "x": -567,
+      "y": 80,
+      "z": 271
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWYwZDNmNzJjZDEwYmIwZGM0NzkwYWZlMjc4MjdkYjNjZTM4NzE4Y2I0YjM0YmY3ZDM1OTMwZjkxYjg4MGNlNiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIxZTU1ODc2OTFmODYyN2U3OGU1ZTMyZmMzNDFhZGQxYSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg1OTM5NTU0MjYxfQ==",
+    "itemId": "minecraft:player_head",
+    "name": "Oen",
+    "type": "NPC"
+  },
   "OFFEA_NPC": {
     "island": "crimson_isle",
     "position": {
@@ -25198,7 +25210,7 @@
     ]
   },
   "TREASURE_HOARDER_MONSTER": {
-    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTU5MDE1NjYzNDYzOCwKICAicHJvZmlsZUlkIiA6ICI5MWZlMTk2ODdjOTA0NjU2YWExZmMwNTk4NmRkM2ZlNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJoaGphYnJpcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMmIxMmE4MTRjZWQ4YWYwMmNkZGYyOWEzN2U3ZjMwMTFlNDMwZThhMThiMzhiNzA2ZjI3YzZiZDMxNjUwYjY1IgogICAgfQogIH0KfQ",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzYzNjQzOTcwOSwKICAicHJvZmlsZUlkIiA6ICI1ZjU5NmViY2JlOTQ0NmQxYmI0M2JlNGYzZjRiOGJlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZWlsMHNzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM3NGM2YjkwY2VlZGJhM2Q4YmIxZDFhODRkZmY0MDIxMTU5NjRlZjMzM2RlNTYzYmNkNjc5OWYzNzM4YmVkMDYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
     "itemId": "minecraft:player_head",
     "name": "Treasure Hoarder",
     "type": "Monster",

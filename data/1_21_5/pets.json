@@ -701,8 +701,8 @@
           "§7While in the §5Crystal Hollows§7, killing",
           "§7mobs reduces your §c Heat §7by §c{1}§7.",
           "",
-          "§6Chimney",
-          "§7Reduce Pickaxe Ability cooldowns by",
+          "§6Cannibal",
+          "§7Increases damage dealt to §c§lBal §7by",
           "§a{2}%§7.",
           "",
           "§6§lLEGENDARY"
@@ -717,8 +717,8 @@
             4
           ],
           "2": [
-            0.1,
-            10
+            1,
+            100
           ],
           "MINING_FORTUNE": [
             1,
@@ -2448,7 +2448,7 @@
           "§7Ability Damage: §c+{ABILITY_DAMAGE}",
           "",
           "§6Quick Hands",
-          "§7Lowers the cooldown of your",
+          "§7Lowers the cooldown of your §cWeapon",
           "§7abilities by §a{0}§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -2478,7 +2478,7 @@
           "§7Ability Damage: §c+{ABILITY_DAMAGE}",
           "",
           "§6Quick Hands",
-          "§7Lowers the cooldown of your",
+          "§7Lowers the cooldown of your §cWeapon",
           "§7abilities by §a{0}§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -2508,7 +2508,7 @@
           "§7Ability Damage: §c+{ABILITY_DAMAGE}",
           "",
           "§6Quick Hands",
-          "§7Lowers the cooldown of your",
+          "§7Lowers the cooldown of your §cWeapon",
           "§7abilities by §a{0}§7.",
           "",
           "§6Camouflage",
@@ -2548,7 +2548,7 @@
           "§7Ability Damage: §c+{ABILITY_DAMAGE}",
           "",
           "§6Quick Hands",
-          "§7Lowers the cooldown of your",
+          "§7Lowers the cooldown of your §cWeapon",
           "§7abilities by §a{0}§7.",
           "",
           "§6Camouflage",
@@ -2588,7 +2588,7 @@
           "§7Ability Damage: §c+{ABILITY_DAMAGE}",
           "",
           "§6Quick Hands",
-          "§7Lowers the cooldown of your",
+          "§7Lowers the cooldown of your §cWeapon",
           "§7abilities by §a{0}§7.",
           "",
           "§6Camouflage",
