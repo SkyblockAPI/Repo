@@ -27428,6 +27428,13 @@
   },
   {
     "type": "item",
+    "id": "PET_SKIN_SLOTH_TUXEDO",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Plushie_Tuxedo_Sloth_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "PET_SKIN_SLUG_AZURE_SEA_SLUG",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Azure_Sea_Slug_Skin"
@@ -47037,6 +47044,13 @@
     "id": "ODGER_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Odger"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "OEN_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Oen"
     }
   },
   {

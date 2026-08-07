@@ -77133,10 +77133,10 @@
     "keys": [
       {
         "id": "ENCHANTED_WHEAT",
-        "count": 16
+        "count": 1
       },
       {
-        "id": "ENCHANTED_LEATHER",
+        "id": "BEGINNER_AGRONOMY_SACK",
         "count": 1
       }
     ],
@@ -77185,10 +77185,10 @@
     "keys": [
       {
         "id": "ENCHANTED_ROTTEN_FLESH",
-        "count": 2
+        "count": 1
       },
       {
-        "id": "ENCHANTED_LEATHER",
+        "id": "BEGINNER_COMBAT_SACK",
         "count": 1
       }
     ],
@@ -77269,10 +77269,10 @@
     "keys": [
       {
         "id": "ENCHANTED_PUFFERFISH",
-        "count": 2
+        "count": 1
       },
       {
-        "id": "ENCHANTED_LEATHER",
+        "id": "BEGINNER_FISHING_SACK",
         "count": 1
       }
     ],
@@ -77329,10 +77329,10 @@
     "keys": [
       {
         "id": "ENCHANTED_BIRCH_LOG",
-        "count": 2
+        "count": 1
       },
       {
-        "id": "ENCHANTED_LEATHER",
+        "id": "BEGINNER_FORAGING_SACK",
         "count": 1
       }
     ],
@@ -77385,10 +77385,10 @@
     "keys": [
       {
         "id": "ENCHANTED_MUTTON",
-        "count": 2
+        "count": 1
       },
       {
-        "id": "ENCHANTED_LEATHER",
+        "id": "BEGINNER_HUSBANDRY_SACK",
         "count": 1
       }
     ],
@@ -77441,10 +77441,10 @@
     "keys": [
       {
         "id": "ENCHANTED_COAL",
-        "count": 2
+        "count": 1
       },
       {
-        "id": "ENCHANTED_LEATHER",
+        "id": "BEGINNER_MINING_SACK",
         "count": 1
       }
     ],

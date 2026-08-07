@@ -4357,6 +4357,27 @@
     "max": 96
   },
   {
+    "id": "MIRACLE_CHANCE",
+    "lore": [
+      "§7Increases your chance of finding",
+      "§cD§6y§ee§as§7 by §a+0.1%§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 20§c.",
+      "§6§lLEGENDARY FOREST SHARD"
+    ],
+    "attribute_id": "L49",
+    "shard_name": "Rainbug Shard",
+    "shard_id": "",
+    "name": "Miracle Chance",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY4NzM3NDA1MCwKICAicHJvZmlsZUlkIiA6ICI2NGRiNmMwNTliOTk0OTM2YTY0M2QwODEwODE0ZmJkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVTaWx2ZXJEcmVhbXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTUxOGU2ZDI0OWVhY2E4ZmQwNThiN2VmNzBkODhjZjVjMmY2YjBjMmNmYTQ0ZDMwMWI2ZjA3MDg0N2NlOTg2NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "LEGENDARY",
+    "max": 24
+  },
+  {
     "id": "MITE_SPAWNER",
     "lore": [
       "§7Grants a §a+2.5% §7chance to spawn an",

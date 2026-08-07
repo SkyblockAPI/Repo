@@ -30713,16 +30713,16 @@
           "text": "§7damage to all enemies hit!"
         },
         {
-          "text": "§8Charges: §e4 §8/ §a5s"
-        },
-        {
           "text": ""
         },
         {
-          "text": "§7Deals §c+1% §7damage to §2 Undead §7Mobs"
+          "text": "§7Deals §c+1% §7damage to §aUndead"
         },
         {
-          "text": "§7for every §a1% §7of your missing health."
+          "text": "§amonsters §7for every §a1% §7of your"
+        },
+        {
+          "text": "§7missing health."
         },
         {
           "text": ""
@@ -30740,20 +30740,18 @@
       "minecraft:item_model": "hypixel_skyblock:item/island_relevant/dungeons/bone_reaver",
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -108828,9 +108826,6 @@
           "text": "§7damage to all enemies hit!"
         },
         {
-          "text": "§8Charges: §e5 §8/ §a4s"
-        },
-        {
           "text": ""
         },
         {
@@ -108855,20 +108850,18 @@
       "minecraft:item_model": "hypixel_skyblock:item/island_relevant/dungeons/felthorn_reaper",
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -153225,7 +153218,7 @@
     }
   },
   {
-    "id": "minecraft:paper",
+    "id": "minecraft:stone_axe",
     "components": {
       "minecraft:custom_data": {
         "id": "HELIX_CHOPPER"
@@ -193890,7 +193883,7 @@
           "text": "§6Ability: Deploy  §e§lRIGHT CLICK"
         },
         {
-          "text": "§7Place an orb for §a30s §7buffing up to §b5"
+          "text": "§7Place an orb for §a1m §7buffing up to §b5"
         },
         {
           "text": "§7players within §a18 §7blocks."
@@ -193948,20 +193941,18 @@
       },
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -195614,9 +195605,6 @@
           "text": "§7Health: §c+200"
         },
         {
-          "text": "§7Defense: §a-30"
-        },
-        {
           "text": "§7Crit Damage: §9+15%"
         },
         {
@@ -195635,13 +195623,13 @@
           "text": "§8- §7Receive §a-20% §7damage from §a Animal §7mobs."
         },
         {
-          "text": "§8- §7Your §9 Crit Damage §7is §930% §7less effective."
-        },
-        {
           "text": "§8- §7Gain §c+1%❤ Health §7per §925 Crit Damage§7. §8(Max"
         },
         {
           "text": "§840% HP)."
+        },
+        {
+          "text": "§8- §7Gain §9+1 Crit Damage §7per §a2 Defense§7."
         },
         {
           "text": "§8- §7Heal §c150❤ §7when hit, consuming §45 Vitality§7."
@@ -195667,20 +195655,18 @@
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -195701,9 +195687,6 @@
           "text": "§7Health: §c+500"
         },
         {
-          "text": "§7Defense: §a-30"
-        },
-        {
           "text": "§7Crit Damage: §9+15%"
         },
         {
@@ -195719,13 +195702,13 @@
           "text": "§8- §7Receive §a-20% §7damage from §a Animal §7mobs."
         },
         {
-          "text": "§8- §7Your §9 Crit Damage §7is §930% §7less effective."
-        },
-        {
           "text": "§8- §7Gain §c+1%❤ Health §7per §925 Crit Damage§7. §8(Max"
         },
         {
           "text": "§840% HP)."
+        },
+        {
+          "text": "§8- §7Gain §9+1 Crit Damage §7per §a2 Defense§7."
         },
         {
           "text": "§8- §7Heal §c150❤ §7when hit, consuming §45 Vitality§7."
@@ -195751,20 +195734,18 @@
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -195782,9 +195763,6 @@
       "minecraft:lore": [
         {
           "text": "§7Health: §c+300"
-        },
-        {
-          "text": "§7Defense: §a-30"
         },
         {
           "text": "§7Crit Damage: §9+15%"
@@ -195805,13 +195783,13 @@
           "text": "§8- §7Receive §a-20% §7damage from §a Animal §7mobs."
         },
         {
-          "text": "§8- §7Your §9 Crit Damage §7is §930% §7less effective."
-        },
-        {
           "text": "§8- §7Gain §c+1%❤ Health §7per §925 Crit Damage§7. §8(Max"
         },
         {
           "text": "§840% HP)."
+        },
+        {
+          "text": "§8- §7Gain §9+1 Crit Damage §7per §a2 Defense§7."
         },
         {
           "text": "§8- §7Heal §c150❤ §7when hit, consuming §45 Vitality§7."
@@ -195845,20 +195823,18 @@
       },
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -195879,9 +195855,6 @@
           "text": "§7Health: §c+400"
         },
         {
-          "text": "§7Defense: §a-30"
-        },
-        {
           "text": "§7Crit Damage: §9+15%"
         },
         {
@@ -195897,13 +195870,13 @@
           "text": "§8- §7Receive §a-20% §7damage from §a Animal §7mobs."
         },
         {
-          "text": "§8- §7Your §9 Crit Damage §7is §930% §7less effective."
-        },
-        {
           "text": "§8- §7Gain §c+1%❤ Health §7per §925 Crit Damage§7. §8(Max"
         },
         {
           "text": "§840% HP)."
+        },
+        {
+          "text": "§8- §7Gain §9+1 Crit Damage §7per §a2 Defense§7."
         },
         {
           "text": "§8- §7Heal §c150❤ §7when hit, consuming §45 Vitality§7."
@@ -195929,20 +195902,18 @@
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -258240,6 +258211,95 @@
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
+        "id": "PET_SKIN_SLOTH_TUXEDO"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Plushie Tuxedo Sloth Skin"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Consumed on use"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Pet skins change the look and"
+        },
+        {
+          "text": "§7particle trail of your pet but only"
+        },
+        {
+          "text": "§7one skin can be active at a time!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This skin can only be applied to §aSloth"
+        },
+        {
+          "text": "§7pets."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§aThis skin will allow you to swap"
+        },
+        {
+          "text": "§abetween 19 tuxedo-wearing plushie"
+        },
+        {
+          "text": "§asloths!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click on your summoned pet to"
+        },
+        {
+          "text": "§eapply this skin!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6§lLEGENDARY COSMETIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NTkzNzY3NTAxNSwKICAicHJvZmlsZUlkIiA6ICI1OGZmZWI5NTMxNGQ0ODcwYTQwYjVjYjQyZDRlYTU5OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa2luREJuZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDRjN2I2NTk0OGM1YzIzNmMyMjcxM2NhMDIyOGIyNTczODBhNWViMDQ3YTYwYWFhMDJiN2FlNWM5NTlmZjQ5NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
         "id": "PET_SKIN_SLUG_AZURE_SEA_SLUG"
       },
       "minecraft:custom_name": {
@@ -278329,7 +278389,7 @@
           "text": "§6Ability: Deploy  §e§lRIGHT CLICK"
         },
         {
-          "text": "§7Place an orb for §a30s §7buffing up to §b5"
+          "text": "§7Place an orb for §a1m §7buffing up to §b5"
         },
         {
           "text": "§7players within §a18 §7blocks."
@@ -278381,20 +278441,18 @@
       },
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -333607,9 +333665,6 @@
           "text": "§7damage to all enemies hit!"
         },
         {
-          "text": "§8Charges: §e5 §8/ §a4s"
-        },
-        {
           "text": ""
         },
         {
@@ -333634,20 +333689,18 @@
       "minecraft:item_model": "hypixel_skyblock:item/island_relevant/dungeons/felthorn_reaper_fragged",
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:legendary"
