@@ -12453,6 +12453,13 @@
   },
   {
     "type": "item",
+    "id": "FIGHTING_BOOSTER_UNCOMMON",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Fighting_Booster"
+    }
+  },
+  {
+    "type": "item",
     "id": "FIGSTONE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Figstone"
@@ -13489,9 +13496,23 @@
   },
   {
     "type": "item",
+    "id": "FORAGING_FORTUNE_BOOSTER_UNCOMMON",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Foraging_Fortune_Booster"
+    }
+  },
+  {
+    "type": "item",
     "id": "FORAGING_WISDOM_BOOSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Foraging_Wisdom_Booster"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FORAGING_WISDOM_BOOSTER_UNCOMMON",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Foraging_Wisdom_Booster"
     }
   },
   {
@@ -17496,6 +17517,13 @@
     "id": "HUNTING_WISDOM_BOOSTER_COMMON",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Common_Hunting_Wisdom_Booster"
+    }
+  },
+  {
+    "type": "item",
+    "id": "HUNTING_WISDOM_BOOSTER_UNCOMMON",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Hunting_Wisdom_Booster"
     }
   },
   {
@@ -36457,6 +36485,13 @@
     "id": "SWEEP_BOOSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Sweep_Booster"
+    }
+  },
+  {
+    "type": "item",
+    "id": "SWEEP_BOOSTER_UNCOMMON",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Sweep_Booster"
     }
   },
   {
