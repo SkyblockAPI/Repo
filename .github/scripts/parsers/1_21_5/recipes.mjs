@@ -18,7 +18,7 @@ const parseCraftingRecipe = (item, recipe) => {
         keys: keys
             .map(key => key.split(":"))
             .map(([id, amount]) => ({
-                id: id.replace(/-(\d+)$/, ':$1'),
+                id: id.startsWith("LOG") ? id : id.replace(/-(\d+)$/, ':$1'),
                 count: amount ? parseInt(amount) : 1
             })),
         pattern: pattern

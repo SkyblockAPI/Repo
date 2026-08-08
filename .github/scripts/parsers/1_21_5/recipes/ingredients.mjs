@@ -75,6 +75,12 @@ const rarityMap = {
     10: "ADMIN",
 }
 
+const legacyId = [
+    "SAND", "LOG", "WOOD",
+    "STAINED_CLAY", "STAINED_GLASS", "STAINED_GLASS_PANE",
+    "CARPET", "WOOL", "STONE"
+]
+
 /**
  * @param item {Item}
  * @param count {number}
@@ -163,8 +169,9 @@ export const getInputs = (item, amount) => {
         }
     }
 
+    let requiresLegacyId = legacyId.find(legacyId => item.startsWith(legacyId));
     return {
-        id: item.replace(/-(\d+)$/, ':$1'),
+        id: requiresLegacyId ? item : item.replace(/-(\d+)$/, ':$1'),
         count: amount,
     };
 };
