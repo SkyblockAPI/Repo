@@ -9291,13 +9291,13 @@
             "maxAmount": 1
           },
           {
-            "id": "LOG:1",
+            "id": "LOG-1",
             "chance": 0.15,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
-            "id": "LOG_2:1",
+            "id": "LOG_2-1",
             "chance": 0.15,
             "minAmount": 1,
             "maxAmount": 1
@@ -15671,7 +15671,7 @@
             "maxAmount": 1
           },
           {
-            "id": "LOG:2",
+            "id": "LOG-2",
             "chance": 0.15,
             "minAmount": 1,
             "maxAmount": 1
@@ -22076,7 +22076,7 @@
             "maxAmount": 50
           },
           {
-            "id": "LOG:3",
+            "id": "LOG-3",
             "chance": 1,
             "minAmount": 1,
             "maxAmount": 1
