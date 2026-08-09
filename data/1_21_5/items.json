@@ -384527,7 +384527,7 @@
         "properties": [
           {
             "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2Mjc3NTkyNTc3NCwKICAicHJvZmlsZUlkIiA6ICIzMjA3MWFlYjYzZjI0NmY0YTVlMGZhMWY3ODg3ZGRhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNcl9HZW5lcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMmM0OTk0YjdhMWM0NTIzMWI2MjNiODI0NWMxMTczODJiMjY3Yzg4NTZjNTdjZmZhMmQ4MDhjMjQxMDI3YTUxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY4NzM4MTg3OSwKICAicHJvZmlsZUlkIiA6ICJiZmQ3MjMxMGNmYWY0Yjc5OTNlYzhiYzU3ODg3YzU5ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHBoYVNwQW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzdjNjgzYTk4YjdkNjJjMTA5Y2EzY2Q0Mjg0NTlkZTU3MDg1MzY2YzJlNGU1OTQzNmUxNjFmZjc0YzBiMGQ0YSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
           }
         ]
       },
@@ -384543,8 +384543,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"

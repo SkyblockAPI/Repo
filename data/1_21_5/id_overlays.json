@@ -49225,6 +49225,30 @@
   },
   {
     "type": "rune",
+    "id": "AXE_FADING_BLUE",
+    "tier": 1,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fading_Blue_Rune"
+    }
+  },
+  {
+    "type": "rune",
+    "id": "AXE_FADING_BLUE",
+    "tier": 2,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fading_Blue_Rune"
+    }
+  },
+  {
+    "type": "rune",
+    "id": "AXE_FADING_BLUE",
+    "tier": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fading_Blue_Rune"
+    }
+  },
+  {
+    "type": "rune",
     "id": "AXE_FADING_GREEN",
     "tier": 1,
     "wiki": {
