@@ -113205,7 +113205,7 @@
         "id": "FIGHTING_BOOSTER_UNCOMMON"
       },
       "minecraft:custom_name": {
-        "text": "§aUncommon Fighting Booster"
+        "text": "§aUncommon Fighting Booster Upgrade"
       },
       "minecraft:lore": [
         {
@@ -113218,22 +113218,19 @@
           "text": ""
         },
         {
-          "text": "§7Applies the §b४ Fighting §7booster when"
+          "text": "§7Apply to an item with a §fCommon"
         },
         {
-          "text": "§7combined with Foraging Armor,"
+          "text": "§fFighting Booster §7to upgrade it to an"
         },
         {
-          "text": "§7Equipment, or Axes."
+          "text": "§aUncommon Fighting Booster§7, which"
         },
         {
-          "text": ""
+          "text": "§7increases damage against §2Foraging"
         },
         {
-          "text": "§7Increases damage against Foraging"
-        },
-        {
-          "text": "§7Island creatures."
+          "text": "§2Island §7mobs."
         },
         {
           "text": ""
@@ -123162,7 +123159,7 @@
         "id": "FORAGING_FORTUNE_BOOSTER_UNCOMMON"
       },
       "minecraft:custom_name": {
-        "text": "§aUncommon Foraging Fortune Booster"
+        "text": "§aUncommon Foraging Fortune Booster Upgrade"
       },
       "minecraft:lore": [
         {
@@ -123175,19 +123172,22 @@
           "text": ""
         },
         {
-          "text": "§7Applies the §b⎋ Foraging Fortune"
+          "text": "§7Apply to an item with a §fCommon"
         },
         {
-          "text": "§7booster when combined with Foraging"
+          "text": "§fForaging Fortune Booster §7to"
         },
         {
-          "text": "§7Armor, Equipment, or Axes."
+          "text": "§7upgrade it to an §aUncommon Foraging"
         },
         {
-          "text": ""
+          "text": "§aFortune Booster§7, which increases"
         },
         {
-          "text": "§7Grants §6 Foraging Fortune§7."
+          "text": "§7the amount of §6 Foraging Fortune §7it"
+        },
+        {
+          "text": "§7gives."
         },
         {
           "text": ""
@@ -123284,7 +123284,7 @@
         "id": "FORAGING_WISDOM_BOOSTER_UNCOMMON"
       },
       "minecraft:custom_name": {
-        "text": "§aUncommon Foraging Wisdom Booster"
+        "text": "§aUncommon Foraging Wisdom Booster Upgrade"
       },
       "minecraft:lore": [
         {
@@ -123297,19 +123297,19 @@
           "text": ""
         },
         {
-          "text": "§7Applies the §b⸙ Foraging Wisdom"
+          "text": "§7Apply to an item with a §fCommon"
         },
         {
-          "text": "§7booster when combined with Foraging"
+          "text": "§fForaging Wisdom Booster §7to upgrade"
         },
         {
-          "text": "§7Armor, Equipment, or Axes."
+          "text": "§7it to an §aUncommon Foraging Wisdom"
         },
         {
-          "text": ""
+          "text": "§aBooster§7, which increases the amount"
         },
         {
-          "text": "§7Grants §3☯ Foraging Wisdom§7."
+          "text": "§7of §3☯ Foraging Wisdom §7it gives."
         },
         {
           "text": ""
@@ -161255,7 +161255,7 @@
         "id": "HUNTING_WISDOM_BOOSTER_UNCOMMON"
       },
       "minecraft:custom_name": {
-        "text": "§aUncommon Hunting Wisdom Booster"
+        "text": "§aUncommon Hunting Wisdom Booster Upgrade"
       },
       "minecraft:lore": [
         {
@@ -161268,19 +161268,19 @@
           "text": ""
         },
         {
-          "text": "§7Applies the §b☯ Hunting Wisdom"
+          "text": "§7Apply to an item with a §fCommon"
         },
         {
-          "text": "§7booster when combined with Foraging"
+          "text": "§fHunting Wisdom Booster §7to upgrade it"
         },
         {
-          "text": "§7Armor, Equipment, or Axes."
+          "text": "§7to an §aUncommon Hunting Wisdom"
         },
         {
-          "text": ""
+          "text": "§aBooster§7, which increases the amount"
         },
         {
-          "text": "§7Grants §3☯ Hunting Wisdom§7."
+          "text": "§7of §3☯ Hunting Wisdom §7it gives."
         },
         {
           "text": ""
@@ -343961,7 +343961,7 @@
         "id": "SWEEP_BOOSTER_UNCOMMON"
       },
       "minecraft:custom_name": {
-        "text": "§aUncommon Sweep Booster"
+        "text": "§aUncommon Sweep Booster Upgrade"
       },
       "minecraft:lore": [
         {
@@ -343974,19 +343974,19 @@
           "text": ""
         },
         {
-          "text": "§7Applies the §bꕮ Sweep §7booster when"
+          "text": "§7Apply to an item with a §fCommon Sweep"
         },
         {
-          "text": "§7combined with Foraging Armor,"
+          "text": "§fBooster §7to upgrade it to an"
         },
         {
-          "text": "§7Equipment, or Axes."
+          "text": "§aUncommon Sweep Booster§7, which"
         },
         {
-          "text": ""
+          "text": "§7increases the amount of §2 Sweep §7it"
         },
         {
-          "text": "§7Grants §2 Sweep§7."
+          "text": "§7gives."
         },
         {
           "text": ""
