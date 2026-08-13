@@ -4038,19 +4038,18 @@
           "§7Fishing Speed: §b+{FISHING_SPEED}",
           "§7Respiration: §3+{RESPIRATION}",
           "§7Sweep: §2+{SWEEP}",
-          "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
           "",
-          "§6Hunting Enjoyer",
-          "§7Increases your chance to catch",
-          "§2Forest §7Shards by §a{0}%§7.",
+          "§6Hop",
+          "§7Grants §6{0} Foraging Fortune §7for",
+          "§e20 §7seconds every time you jump.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON"
         ],
         "variables": {
           "0": [
-            1.1,
-            10
+            0.8,
+            40
           ],
           "SPEED": [
             0.5,
@@ -4065,10 +4064,6 @@
             10
           ],
           "SWEEP": [
-            0.1,
-            10
-          ],
-          "FORAGING_FORTUNE": [
             0.1,
             10
           ]
@@ -4084,19 +4079,18 @@
           "§7Fishing Speed: §b+{FISHING_SPEED}",
           "§7Respiration: §3+{RESPIRATION}",
           "§7Sweep: §2+{SWEEP}",
-          "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
           "",
-          "§6Hunting Enjoyer",
-          "§7Increases your chance to catch",
-          "§2Forest§7 and §bWater §7Shards by §a{0}%§7.",
+          "§6Hop",
+          "§7Grants §6{0} Foraging Fortune §7for",
+          "§e20 §7seconds every time you jump.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON"
         ],
         "variables": {
           "0": [
-            1.1,
-            10
+            1.19,
+            60
           ],
           "SPEED": [
             0.5,
@@ -4111,10 +4105,6 @@
             10
           ],
           "SWEEP": [
-            0.1,
-            10
-          ],
-          "FORAGING_FORTUNE": [
             0.1,
             10
           ]
@@ -4130,20 +4120,27 @@
           "§7Fishing Speed: §b+{FISHING_SPEED}",
           "§7Respiration: §3+{RESPIRATION}",
           "§7Sweep: §2+{SWEEP}",
-          "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
           "",
-          "§6Hunting Enjoyer",
-          "§7Increases your chance to catch",
-          "§2Forest§7, §bWater§7, and §cCombat §7Shards by",
-          "§a{0}%§7.",
+          "§6Hop",
+          "§7Grants §6{0} Foraging Fortune §7for",
+          "§e20 §7seconds every time you jump.",
+          "",
+          "§6Happy Tree Friends",
+          "§7Grants §6{1} Foraging Fortune §7for",
+          "§7every other §2Frog Pet §7on the island,",
+          "§7up to §b10 §7frogs.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
         ],
         "variables": {
           "0": [
-            1.1,
-            10
+            1.19,
+            60
+          ],
+          "1": [
+            0.15,
+            5
           ],
           "SPEED": [
             0.5,
@@ -4158,10 +4155,6 @@
             10
           ],
           "SWEEP": [
-            0.1,
-            10
-          ],
-          "FORAGING_FORTUNE": [
             0.1,
             10
           ]
@@ -4177,28 +4170,27 @@
           "§7Fishing Speed: §b+{FISHING_SPEED}",
           "§7Respiration: §3+{RESPIRATION}",
           "§7Sweep: §2+{SWEEP}",
-          "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
-          "",
-          "§6Hunting Enjoyer",
-          "§7Increases your chance to catch",
-          "§2Forest§7, §bWater§7, and §cCombat §7Shards by",
-          "§a{0}%§7.",
           "",
           "§6Hop",
-          "§7Grants §6{1}☘ Foraging Fortune §7for",
+          "§7Grants §6{0} Foraging Fortune §7for",
           "§e20 §7seconds every time you jump.",
+          "",
+          "§6Happy Tree Friends",
+          "§7Grants §6{1} Foraging Fortune §7for",
+          "§7every other §2Frog Pet §7on the island,",
+          "§7up to §b10 §7frogs.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
         ],
         "variables": {
           "0": [
-            1.1,
-            10
+            1.59,
+            80
           ],
           "1": [
-            1.79,
-            80
+            0.2,
+            10
           ],
           "SPEED": [
             0.5,
@@ -4213,10 +4205,6 @@
             10
           ],
           "SWEEP": [
-            0.1,
-            10
-          ],
-          "FORAGING_FORTUNE": [
             0.1,
             10
           ]
@@ -4232,37 +4220,36 @@
           "§7Fishing Speed: §b+{FISHING_SPEED}",
           "§7Respiration: §3+{RESPIRATION}",
           "§7Sweep: §2+{SWEEP}",
-          "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
-          "",
-          "§6Hunting Enjoyer",
-          "§7Increases your chance to catch",
-          "§2Forest§7, §bWater§7, and §cCombat §7Shards by",
-          "§a{0}%§7.",
           "",
           "§6Hop",
-          "§7Grants §6{1}☘ Foraging Fortune §7for",
+          "§7Grants §6{0} Foraging Fortune §7for",
           "§e20 §7seconds every time you jump.",
           "",
           "§6Happy Tree Friends",
-          "§7Grants §6{2}☘ Foraging Fortune §7for",
+          "§7Grants §6{1} Foraging Fortune §7for",
           "§7every other §2Frog Pet §7on the island,",
           "§7up to §b10 §7frogs.",
+          "",
+          "§6Hunting Enjoyer",
+          "§7Increases your chance of fishing up",
+          "§9Water Shards §7by §a{2}% §7while on",
+          "§2Foraging Islands§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
         ],
         "variables": {
           "0": [
-            1.1,
-            10
-          ],
-          "1": [
-            1.79,
+            1.59,
             80
           ],
-          "2": [
-            1.09,
+          "1": [
+            0.2,
             10
+          ],
+          "2": [
+            1,
+            50
           ],
           "SPEED": [
             0.5,
@@ -4277,10 +4264,6 @@
             10
           ],
           "SWEEP": [
-            0.1,
-            10
-          ],
-          "FORAGING_FORTUNE": [
             0.1,
             10
           ]
@@ -4297,22 +4280,21 @@
           "§7Trophy Chance: §6+{TROPHY_CHANCE}%",
           "§7Respiration: §3+{RESPIRATION}",
           "§7Sweep: §2+{SWEEP}",
-          "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
-          "",
-          "§6Hunting Enjoyer",
-          "§7Increases your chance to catch",
-          "§2Forest§7, §bWater§7, and §cCombat §7Shards by",
-          "§a{0}%§7.",
           "",
           "§6Hop",
-          "§7Grants §6{1}☘ Foraging Fortune §7for",
+          "§7Grants §6{0} Foraging Fortune §7for",
           "§e20 §7seconds every time you jump.",
           "",
           "§6Happy Tree Friends",
-          "§7Grants §6{2}☘ Foraging Fortune §7and",
-          "§b{3}☂ Fishing Speed §7for every",
+          "§7Grants §6{1} Foraging Fortune §7and",
+          "§b{2} Fishing Speed §7for every",
           "§7other §2Frog Pet §7on the island, up to",
           "§b10 §7frogs.",
+          "",
+          "§6Hunting Enjoyer",
+          "§7Increases your chance of fishing up",
+          "§9Water Shards §7by §a{3}% §7while on",
+          "§2Foraging Islands§7.",
           "",
           "§6Home Sweet Home",
           "§7Increases your chance of catching",
@@ -4323,23 +4305,23 @@
         ],
         "variables": {
           "0": [
-            1.1,
-            10
-          ],
-          "1": [
-            1.79,
+            1.59,
             80
           ],
-          "2": [
-            1.09,
+          "1": [
+            0.2,
             10
           ],
-          "3": [
+          "2": [
             0.12,
             2
           ],
+          "3": [
+            1,
+            50
+          ],
           "4": [
-            0.1,
+            0.2,
             10
           ],
           "SPEED": [
@@ -4359,10 +4341,6 @@
             10
           ],
           "SWEEP": [
-            0.1,
-            10
-          ],
-          "FORAGING_FORTUNE": [
             0.1,
             10
           ]

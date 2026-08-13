@@ -9518,16 +9518,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Placing this item on your"
+          "text": "§7Placing this item on your private"
         },
         {
-          "text": "§7private island will create a"
+          "text": "§7island will create a portal to"
         },
         {
-          "text": "§7portal to §b§4Arachne's"
-        },
-        {
-          "text": "§4Sanctuary§7 for you to use"
+          "text": "§4Arachne's Sanctuary§7 for you to use"
         },
         {
           "text": "§7whenever you want!"
@@ -9536,10 +9533,10 @@
           "text": ""
         },
         {
-          "text": "§7§8The portal will spawn facing"
+          "text": "§8The portal will spawn facing you on"
         },
         {
-          "text": "§8you on the block you click on."
+          "text": "§8the block you click on."
         },
         {
           "text": ""
@@ -9552,10 +9549,27 @@
         "properties": [
           {
             "name": "textures",
-            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzVlMjQ4ZGEyZTEwOGYwOTgxM2E2Yjg0OGEwZmNlZjExMTMwMDk3ODE4MGVkYTQxZDNkMWE3YThlNGRiYTNjMyJ9fX0="
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY3MDQ3OTE5ODQyOCwKICAicHJvZmlsZUlkIiA6ICJmMTA0NzMxZjljYTU0NmI0OTkzNjM4NTlkZWY5N2NjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6aWFkODciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzVlMjQ4ZGEyZTEwOGYwOTgxM2E2Yjg0OGEwZmNlZjExMTMwMDk3ODE4MGVkYTQxZDNkMWE3YThlNGRiYTNjMyIKICAgIH0KICB9Cn0="
           }
         ]
-      }
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
     }
   },
   {
@@ -337903,25 +337917,28 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7§7Item skins give your gear a"
+          "text": "§8Combinable in Anvil"
         },
         {
-          "text": "§7fresh new look! Apply them just"
+          "text": ""
         },
         {
-          "text": "§7like an enchant book using the"
+          "text": "§7Item skins give your gear a fresh"
         },
         {
-          "text": "§7anvil."
+          "text": "§7new look! Apply them just like an"
         },
         {
-          "text": "§7"
+          "text": "§7enchant book using the anvil."
         },
         {
-          "text": "§7§7This skin can be applied to"
+          "text": ""
         },
         {
-          "text": "§7§a§6Strong Dragon Helmet"
+          "text": "§7This skin can be applied to §6Strong"
+        },
+        {
+          "text": "§6Dragon Helmet§7."
         },
         {
           "text": ""
@@ -337934,10 +337951,27 @@
         "properties": [
           {
             "name": "textures",
-            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWVjMTBiMGRjZWI1YmIzNGFmMmNiOTUzNzMzZjAxZjIwYmIzYWFmZDVmMjFmZTBlYWRmMWNjNGNlN2Y0ZGFiNCJ9fX0K"
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NjYyOTQxMjczOCwKICAicHJvZmlsZUlkIiA6ICI2MmJmYWM0ZDFjNWM0OTVmYmFmNjk3NTg3YWY1MGU1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJFTFRJVEkyNCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZWMxMGIwZGNlYjViYjM0YWYyY2I5NTM3MzNmMDFmMjBiYjNhYWZkNWYyMWZlMGVhZGYxY2M0Y2U3ZjRkYWI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
           }
         ]
-      }
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {

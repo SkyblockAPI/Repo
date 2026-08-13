@@ -43793,6 +43793,13 @@
   },
   {
     "type": "mob",
+    "id": "AURYON_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Auryon"
+    }
+  },
+  {
+    "type": "mob",
     "id": "AUTOMATON_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Automaton"
@@ -43859,6 +43866,13 @@
     "id": "BANKER_BARRY_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Banker_Barry"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "BANKER_BONSAI_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Banker_Bonsai"
     }
   },
   {
@@ -48406,6 +48420,13 @@
   },
   {
     "type": "mob",
+    "id": "SWOOP_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Swoop"
+    }
+  },
+  {
+    "type": "mob",
     "id": "TADGANG_SC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Tadgang"
@@ -48612,6 +48633,13 @@
     "id": "TIGER_SHARK_SC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Tiger_Shark"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "TILUS_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tilus"
     }
   },
   {

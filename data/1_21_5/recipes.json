@@ -443,6 +443,34 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "GENERATOR_UPGRADE_STONE_ACACIA_12",
+        "count": 1
+      },
+      {
+        "id": "ACACIA_GENERATOR_11",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "ACACIA_GENERATOR_12",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "LOG_2",
         "count": 20
       },
@@ -7316,6 +7344,34 @@
     ],
     "result": {
       "id": "BIRCH_GENERATOR_11",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "GENERATOR_UPGRADE_STONE_BIRCH_12",
+        "count": 1
+      },
+      {
+        "id": "BIRCH_GENERATOR_11",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "BIRCH_GENERATOR_12",
       "count": 1
     }
   },
@@ -16947,6 +17003,34 @@
     ],
     "result": {
       "id": "DARK_OAK_GENERATOR_11",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "GENERATOR_UPGRADE_STONE_DARK_OAK_12",
+        "count": 1
+      },
+      {
+        "id": "DARK_OAK_GENERATOR_11",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "DARK_OAK_GENERATOR_12",
       "count": 1
     }
   },
@@ -44379,6 +44463,34 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "GENERATOR_UPGRADE_STONE_JUNGLE_12",
+        "count": 1
+      },
+      {
+        "id": "JUNGLE_GENERATOR_11",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "JUNGLE_GENERATOR_12",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "LOG-3",
         "count": 20
       },
@@ -57724,6 +57836,34 @@
     ],
     "result": {
       "id": "OAK_GENERATOR_11",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "GENERATOR_UPGRADE_STONE_OAK_12",
+        "count": 1
+      },
+      {
+        "id": "OAK_GENERATOR_11",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "OAK_GENERATOR_12",
       "count": 1
     }
   },
@@ -80256,6 +80396,34 @@
     ],
     "result": {
       "id": "SPRUCE_GENERATOR_11",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "GENERATOR_UPGRADE_STONE_SPRUCE_12",
+        "count": 1
+      },
+      {
+        "id": "SPRUCE_GENERATOR_11",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "SPRUCE_GENERATOR_12",
       "count": 1
     }
   },
