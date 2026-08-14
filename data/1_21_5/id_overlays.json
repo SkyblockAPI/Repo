@@ -16734,6 +16734,13 @@
   },
   {
     "type": "item",
+    "id": "HELIX_SPARKLING",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sparkling_Helix_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "HELLFIRE_ROD",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Hellfire_Rod"

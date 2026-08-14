@@ -116144,7 +116144,7 @@
           "text": "§7Creates a veil of fire around you for §a5s§7,"
         },
         {
-          "text": "§7dealing §c15,120.2 §7damage per second to mobs"
+          "text": "§7dealing §c15,000 §7damage per second to mobs"
         },
         {
           "text": "§7within."
@@ -132202,10 +132202,10 @@
           "text": "§7Slam your sword into the ground dealing"
         },
         {
-          "text": "§c284,541 §7damage to nearby enemies."
+          "text": "§c100,000 §7damage to nearby enemies."
         },
         {
-          "text": "§8Mana Cost: §b90"
+          "text": "§8Mana Cost: §b100"
         },
         {
           "text": "§8Cooldown: §a30s"
@@ -153372,6 +153372,74 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "HELIX_SPARKLING"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Sparkling Helix Skin"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Combinable in Anvil"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Item skins give your gear a fresh"
+        },
+        {
+          "text": "§7new look! Apply them just like an"
+        },
+        {
+          "text": "§7enchant book using the anvil."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This skin can be applied to §5Helix"
+        },
+        {
+          "text": "§5Helmet§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC COSMETIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NTM0ODc4NzUxMywKICAicHJvZmlsZUlkIiA6ICJjMWU1NzlmZjc0NjI0OTkzYTI5NTdlNjNjZGU5NDY1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lU2tpbl8xNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kZDI5MjUxMTY1OGQ4NzZkYjRiM2IwN2I3MTU1ODQxMDFjMjlmNWEwN2IxNTFhMmUzNzM0ZGFmYjQzYmUxYTI1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
@@ -294572,7 +294640,7 @@
           "text": "§7Fires a beam of energy, hitting the"
         },
         {
-          "text": "§7first enemy on its path for §c10,070.1§7."
+          "text": "§7first enemy on its path for §c10,000§7."
         },
         {
           "text": "§7Deals reduced damage past §a10"

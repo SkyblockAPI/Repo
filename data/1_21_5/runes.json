@@ -207,6 +207,25 @@
       ]
     }
   ],
+  "AXE_SHATTER": [
+    {
+      "tier": 3,
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1NzI5Njk4OSwKICAicHJvZmlsZUlkIiA6ICIzYzBkZWU0NzE5MDM0OTc5OWE1ZmJlYTE2NTgwZmRmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZXF1YXJpIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU0YzMxYjllYjM1YjMxMzE4YmM0ODBmNWYwZTgyMjRkZGNlZWM1N2MyNWFiMDAxNDE0NjI2NjNjOWQ2OGU0ODgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "§6◆ Barkshatter Rune III",
+      "lore": [
+        "§8Requires level 0",
+        "§8Axes",
+        "",
+        "§7Your axe throws bark all over the",
+        "§7place! Obtained from Fire Sales.",
+        "",
+        "§7Apply this rune to axes at the Runic",
+        "§7Pedestal!",
+        "",
+        "§6§lLEGENDARY COSMETIC"
+      ]
+    }
+  ],
   "AXE_SOUL_SLICE": [
     {
       "tier": 3,
