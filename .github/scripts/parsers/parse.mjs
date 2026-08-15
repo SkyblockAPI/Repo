@@ -51,30 +51,30 @@ for (let file of fs.readdirSync("neu/items")) {
     if (specialItems.items.includes(data.internalname)) continue;
     if (specialItems.items.includes(attributes?.id)) continue;
 
-    post.push(() => {
-        Recipes.parse(data)
+    post.push(async () => {
+        await Recipes.parse(data)
     })
 
     if (isEntity(file)) {
-        post.push(() => {
-            Mobs.parseMob(data);
+        post.push(async () => {
+            await Mobs.parseMob(data);
         })
     } else {
         if (attributes.hasOwnProperty("attributes") && data.internalname.startsWith("ATTRIBUTE_SHARD_")) {
-            Attributes.parseAttribute(data)
+            await Attributes.parseAttribute(data)
         } else if (attributes.hasOwnProperty("runes")) {
-            Runes.parseRune(data);
+            await Runes.parseRune(data);
         } else if (attributes.hasOwnProperty("petInfo")) {
             data.pet = JSON.parse(attributes.petInfo.replaceAll("\\\"", "\""));
-            Pets.parsePet(data);
+            await Pets.parsePet(data);
         } else if (data.displayname.match(/§.Enchanted Book/) && data.itemid === "minecraft:enchanted_book" && attributes.enchantments) {
-            Enchantments.parseEnchantments(data);
+            await Enchantments.parseEnchantments(data);
         } else if (isPotion(data)) {
-            Potions.parsePotions(data);
+            await Potions.parsePotions(data);
         } else if (data.internalname.includes(";")) {
             //console.log(file + " is a variant");
         } else {
-            Mc1215.items.parseItem(data);
+            await Mc1215.items.parseItem(data);
         }
     }
 }
@@ -108,7 +108,7 @@ function isPotion(data) {
     return false
 }
 
-post.forEach((recipe) => recipe())
+await Promise.all(post.map(recipe => recipe()));
 
 fs.writeFileSync("cloudflare/shas.json", JSON.stringify({
     "1_21_5": Mc1215.shas(),
