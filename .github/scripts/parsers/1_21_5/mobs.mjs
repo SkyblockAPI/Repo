@@ -1,5 +1,5 @@
 import fs from "fs";
-import { getItemId } from "./items.mjs";
+import {buildItemStack, getItemId} from "./items.mjs";
 import { getInputs } from "./recipes/ingredients.mjs";
 import { getOverlay } from "./id_overlays.mjs";
 
@@ -129,6 +129,7 @@ export const Mobs = {
             position: item.x && item.y && item.z ? {x: item.x, y: item.y, z: item.z} : undefined,
             texture: item.nbt.SkullOwner?.Properties?.textures[0]?.Value,
             itemId: item.nbt.ItemModel ?? getItemId(item.itemid, item.damage),
+            item: buildItemStack(item),
             name: realName,
             type: type,
             lootTables: lootTables.length === 0 ? undefined : lootTables,
