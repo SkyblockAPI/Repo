@@ -53,78 +53,81 @@ const applyItemOverlay = (itemStack, itemOverlay) => {
     return itemStack;
 }
 
+export const buildItemStack = (item) => {
+    if (specialItems.items.includes(item.internalname)) return undefined;
+
+    const isUnbreakable = item.nbt?.Unbreakable === true || item.nbt?.Unbreakable === 1;
+    const isGlowing = item.nbt?.ench !== undefined;
+    const itemId = getItemId(item.itemid, item.damage);
+
+    if (!item.nbt.ExtraAttributes.hasOwnProperty("id")) {
+        console.warn(`Found Item without SkyBlockId, skipping: id: ${itemId}, name: ${item.displayname}`);
+        return undefined;
+    }
+
+    const itemStack = applyItemOverlay({
+        id: itemId,
+        components: {
+            "minecraft:custom_data": item.nbt.ExtraAttributes ?? {},
+            "minecraft:unbreakable": isUnbreakable ? {} : undefined,
+            "minecraft:enchantment_glint_override": isGlowing ? true : undefined,
+            "minecraft:custom_name": {text: item.displayname},
+            "minecraft:lore": item.lore.map(line => ({text: line})),
+            "minecraft:profile": item.nbt.SkullOwner ? {
+                properties: [
+                    {
+                        name: "textures",
+                        value: item.nbt.SkullOwner.Properties.textures[0].Value,
+                    }
+                ]
+            } : undefined,
+            "minecraft:dyed_color": item.nbt?.display?.color ?? undefined,
+        }
+    }, item.itemOverlay);
+
+    delete itemStack.components["minecraft:entity_data"];
+    delete itemStack.components["minecraft:jukebox_playable"];
+    delete itemStack.components["minecraft:map_id"];
+
+    for (const [key, value] of Object.entries(itemStack.components ?? {})) {
+        if (value == null) continue;
+        switch (key) {
+            case "minecraft:profile":
+                delete value.name;
+                delete value.id;
+                for (const property of value.properties) {
+                    if (property.name === "textures") {
+                        delete property.signature;
+                    }
+                }
+                break;
+            case "minecraft:custom_data":
+                if (
+                    item.internalname.startsWith("CAKE_HAT") ||
+                    item.internalname.startsWith("PARTY_HAT") ||
+                    item.internalname.startsWith("BALLOON_HAT") ||
+                    item.internalname.startsWith("ABICASE")
+                ) {
+                    value.id = item.nbt.ExtraAttributes.id;
+                }
+                for (const [k, _] of Object.entries(value)) {
+                    if (customDataExclusionList.keys.includes(k)) delete value[k];
+                }
+                break;
+            case "minecraft:attribute_modifiers":
+                if (!(value?.length > 0)) delete itemStack.components[key];
+                break;
+        }
+    }
+
+    return itemStack;
+};
+
 export const Items = {
     /** @param item {Item} */
     parseItem: (item) => {
-        if (specialItems.items.includes(item.internalname)) return;
-
-        const isUnbreakable = item.nbt?.Unbreakable === true || item.nbt?.Unbreakable === 1;
-        const isGlowing = item.nbt?.ench !== undefined;
-
-        const itemId = getItemId(item.itemid, item.damage);
-
-        if (!item.nbt.ExtraAttributes.hasOwnProperty("id")) {
-            console.warn(`Found Item without SkyBlockId, skipping: id: ${itemId}, name: ${item.displayname}`);
-            return;
-        }
-
-        const itemStack = applyItemOverlay({
-            id: itemId,
-            components: {
-                "minecraft:custom_data": item.nbt.ExtraAttributes ?? {},
-                "minecraft:unbreakable": isUnbreakable ? {} : undefined,
-                "minecraft:enchantment_glint_override": isGlowing ? true : undefined,
-                "minecraft:custom_name": {text: item.displayname},
-                "minecraft:lore": item.lore.map(line => ({text: line})),
-                "minecraft:profile": item.nbt.SkullOwner ? {
-                    properties: [
-                        {
-                            name: "textures",
-                            value: item.nbt.SkullOwner.Properties.textures[0].Value,
-                        }
-                    ]
-                } : undefined,
-                "minecraft:dyed_color": item.nbt?.display?.color ?? undefined,
-            }
-        }, item.itemOverlay);
-
-        delete itemStack.components["minecraft:entity_data"];
-        delete itemStack.components["minecraft:jukebox_playable"];
-        delete itemStack.components["minecraft:map_id"];
-
-        for (const [key, value] of Object.entries(itemStack.components ?? {})) {
-            if (value == null) continue;
-
-            switch (key) {
-                case "minecraft:profile":
-                    delete value.name;
-                    delete value.id;
-                    for (const property of value.properties) {
-                        if (property.name === "textures") {
-                            delete property.signature;
-                        }
-                    }
-                    break;
-                case "minecraft:custom_data":
-                    // Force use the sbid from nbt and not snbt for abicases & cakehat and similar
-                    if (
-                        item.internalname.startsWith("CAKE_HAT") ||
-                        item.internalname.startsWith("PARTY_HAT") ||
-                        item.internalname.startsWith("BALLOON_HAT") ||
-                        item.internalname.startsWith("ABICASE")
-                    ) {
-                        value.id = item.nbt.ExtraAttributes.id;
-                    }
-
-                    for (const [k, _] of Object.entries(value)) {
-                        if (customDataExclusionList.keys.includes(k)) delete value[k];
-                    }
-                    break;
-                case "minecraft:attribute_modifiers":
-                    if (!(value?.length > 0)) delete itemStack.components[key];
-                    break;
-            }
-        }
+        const itemStack = buildItemStack(item);
+        if (!itemStack) return;
 
         itemsFile.push(itemStack);
 

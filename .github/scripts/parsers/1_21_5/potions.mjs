@@ -1,5 +1,6 @@
 import fs from "fs";
 import {getOverlay} from "./id_overlays.mjs";
+import {buildItemStack} from "./items.mjs";
 
 /**
  * @type {Object.<number, string>}
@@ -162,6 +163,7 @@ export const Potions = {
             literal_level: parseLiteralLevel(item.displayname),
             lore: item.lore,
             splash: ((meta & 16384) === 16384) ? true : undefined,
+            item: buildItemStack(originalItem),
         })
 
         potionFile[potionId] = potion
