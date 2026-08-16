@@ -169,7 +169,7 @@
           "§7True Defense: §f+{TRUE_DEFENSE}",
           "",
           "§6Armored Tank",
-          "§7Gain §a{0}% §7of your §a❈ Defense §7as §c❁",
+          "§7Gain §a{0}% §7of your §a Defense §7as §c",
           "§cStrength§7. §8(Max +500)",
           "",
           "§6Unyielding",
@@ -243,7 +243,7 @@
                 "text": "§6Armored Tank"
               },
               {
-                "text": "§7Gain §a{0}% §7of your §a❈ Defense §7as §c❁"
+                "text": "§7Gain §a{0}% §7of your §a Defense §7as §c"
               },
               {
                 "text": "§cStrength§7. §8(Max +500)"
@@ -305,8 +305,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -979,7 +979,7 @@
           "§6Ridable",
           "§7Right-click your summoned pet to",
           "§7ride it! Moves faster based on your",
-          "§f✦ Speed§7.",
+          "§f Speed§7.",
           "",
           "§6Tunneller",
           "§7While in the §5Crystal Hollows§7, this Pet",
@@ -991,7 +991,7 @@
           "§dGemstone §7you mine gives §a2x §7drops",
           "",
           "§6Long Claws",
-          "§7Grants §e+{1}▚ Mining Spread §7while",
+          "§7Grants §e+{1} Mining Spread §7while",
           "§7mining Hard Stone.",
           "",
           "§6Well-Worked",
@@ -1051,7 +1051,7 @@
                 "text": "§7ride it! Moves faster based on your"
               },
               {
-                "text": "§f✦ Speed§7."
+                "text": "§f Speed§7."
               },
               {
                 "text": ""
@@ -1087,7 +1087,7 @@
                 "text": "§6Long Claws"
               },
               {
-                "text": "§7Grants §e+{1}▚ Mining Spread §7while"
+                "text": "§7Grants §e+{1} Mining Spread §7while"
               },
               {
                 "text": "§7mining Hard Stone."
@@ -1131,8 +1131,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:mythic"
@@ -1391,9 +1391,9 @@
           "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}%",
           "",
           "§6Yeti Fury",
-          "§7Buffs the §6Yeti Sword §7by §a{0} §c❁ Damage",
-          "§7and §b✎ Intelligence §7and reduces its",
-          "§7cooldown by §a{1}%§7.",
+          "§7Buffs the §6Yeti Sword §7by §a{0} §c",
+          "§cDamage §7and §b Intelligence §7and",
+          "§7reduces its cooldown by §a{1}%§7.",
           "",
           "§6Cold Breeze",
           "§7Increases §cCombat Stats §7and §bFishing",
@@ -1433,7 +1433,7 @@
           "id": "minecraft:player_head",
           "components": {
             "minecraft:custom_data": {
-              "id": "BABY_YETI;2",
+              "id": "PET",
               "petInfo": "{\"type\":\"BABY_YETI\",\"tier\":\"RARE\",\"exp\":0.0,\"candyUsed\":0}"
             },
             "minecraft:custom_name": {
@@ -1462,13 +1462,13 @@
                 "text": "§6Yeti Fury"
               },
               {
-                "text": "§7Buffs the §6Yeti Sword §7by §a{0} §c❁ Damage"
+                "text": "§7Buffs the §6Yeti Sword §7by §a{0} §c"
               },
               {
-                "text": "§7and §b✎ Intelligence §7and reduces its"
+                "text": "§cDamage §7and §b Intelligence §7and"
               },
               {
-                "text": "§7cooldown by §a{1}%§7."
+                "text": "§7reduces its cooldown by §a{1}%§7."
               },
               {
                 "text": ""
@@ -1505,7 +1505,18 @@
             },
             "minecraft:tooltip_display": {
               "hidden_components": [
-                "minecraft:dyed_color"
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -1522,8 +1533,8 @@
           "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}%",
           "",
           "§6Yeti Fury",
-          "§7Buffs the §6Yeti Sword §7by §a{0} §c❁ Damage",
-          "§7and §b✎ Intelligence §7and reduces its",
+          "§7Buffs the §6Yeti Sword §7by §a{0} §c Damage",
+          "§7and §b Intelligence §7and reduces its",
           "§7cooldown by §a{1}%§7.",
           "",
           "§6Cold Breeze",
@@ -1593,10 +1604,10 @@
                 "text": "§6Yeti Fury"
               },
               {
-                "text": "§7Buffs the §6Yeti Sword §7by §a{0} §c❁ Damage"
+                "text": "§7Buffs the §6Yeti Sword §7by §a{0} §c Damage"
               },
               {
-                "text": "§7and §b✎ Intelligence §7and reduces its"
+                "text": "§7and §b Intelligence §7and reduces its"
               },
               {
                 "text": "§7cooldown by §a{1}%§7."
@@ -1646,8 +1657,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -1664,8 +1675,8 @@
           "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}%",
           "",
           "§6Yeti Fury",
-          "§7Buffs the §6Yeti Sword §7by §a{0} §c❁ Damage",
-          "§7and §b✎ Intelligence §7and reduces its",
+          "§7Buffs the §6Yeti Sword §7by §a{0} §c Damage",
+          "§7and §b Intelligence §7and reduces its",
           "§7cooldown by §a{1}%§7.",
           "",
           "§6Cold Breeze",
@@ -1674,7 +1685,7 @@
           "§cWorkshop§7.",
           "",
           "§6Frosty Familiarity",
-          "§7Grants §b+{3}✯ Magic Find §7against",
+          "§7Grants §b+{3} Magic Find §7against",
           "§fWinter Sea Creatures§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -1743,10 +1754,10 @@
                 "text": "§6Yeti Fury"
               },
               {
-                "text": "§7Buffs the §6Yeti Sword §7by §a{0} §c❁ Damage"
+                "text": "§7Buffs the §6Yeti Sword §7by §a{0} §c Damage"
               },
               {
-                "text": "§7and §b✎ Intelligence §7and reduces its"
+                "text": "§7and §b Intelligence §7and reduces its"
               },
               {
                 "text": "§7cooldown by §a{1}%§7."
@@ -1773,7 +1784,7 @@
                 "text": "§6Frosty Familiarity"
               },
               {
-                "text": "§7Grants §b+{3}✯ Magic Find §7against"
+                "text": "§7Grants §b+{3} Magic Find §7against"
               },
               {
                 "text": "§fWinter Sea Creatures§7."
@@ -1808,8 +1819,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -1827,9 +1838,9 @@
           "§7Cold Resistance: §b+{COLD_RESISTANCE}",
           "",
           "§6Yeti Fury",
-          "§7Buffs the §6Yeti Sword §7by §a{0} §c❁ Damage",
-          "§7and §b✎ Intelligence §7and reduces its",
-          "§7cooldown by §a{1}%§7.",
+          "§7Buffs the §6Yeti Sword §7by §a{0} §c",
+          "§cDamage §7and §b Intelligence §7and",
+          "§7reduces its cooldown by §a{1}%§7.",
           "",
           "§6Cold Breeze",
           "§7Increases §cCombat Stats §7and §bFishing",
@@ -1837,11 +1848,11 @@
           "§cWorkshop§7.",
           "",
           "§6Frosty Familiarity",
-          "§7Grants §b+{3}✯ Magic Find §7against",
+          "§7Grants §b+{3} Magic Find §7against",
           "§fWinter Sea Creatures§7.",
           "",
           "§6Family Gathering",
-          "§7Grants §d10❃ Tracking §7while on",
+          "§7Grants §d10 Tracking §7while on",
           "§cJerry's Workshop§7.",
           "",
           "§d§lMYTHIC"
@@ -1916,13 +1927,13 @@
                 "text": "§6Yeti Fury"
               },
               {
-                "text": "§7Buffs the §6Yeti Sword §7by §a{0} §c❁ Damage"
+                "text": "§7Buffs the §6Yeti Sword §7by §a{0} §c"
               },
               {
-                "text": "§7and §b✎ Intelligence §7and reduces its"
+                "text": "§cDamage §7and §b Intelligence §7and"
               },
               {
-                "text": "§7cooldown by §a{1}%§7."
+                "text": "§7reduces its cooldown by §a{1}%§7."
               },
               {
                 "text": ""
@@ -1946,7 +1957,7 @@
                 "text": "§6Frosty Familiarity"
               },
               {
-                "text": "§7Grants §b+{3}✯ Magic Find §7against"
+                "text": "§7Grants §b+{3} Magic Find §7against"
               },
               {
                 "text": "§fWinter Sea Creatures§7."
@@ -1958,7 +1969,7 @@
                 "text": "§6Family Gathering"
               },
               {
-                "text": "§7Grants §d10❃ Tracking §7while on"
+                "text": "§7Grants §d10 Tracking §7while on"
               },
               {
                 "text": "§cJerry's Workshop§7."
@@ -1990,8 +2001,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:mythic"
@@ -2611,8 +2622,8 @@
           "§7from mobs by §a{0}%§7.",
           "",
           "§6Nightmare",
-          "§7During night, gain §a{1} §b✎ Intelligence§7,",
-          "§a{2} §f✦ Speed§7, and §aNight Vision§7.",
+          "§7During night, gain §a{1} §b Intelligence§7,",
+          "§a{2} §f Speed§7, and §aNight Vision§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC"
@@ -2681,10 +2692,10 @@
                 "text": "§6Nightmare"
               },
               {
-                "text": "§7During night, gain §a{1} §b✎ Intelligence§7,"
+                "text": "§7During night, gain §a{1} §b Intelligence§7,"
               },
               {
-                "text": "§a{2} §f✦ Speed§7, and §aNight Vision§7."
+                "text": "§a{2} §f Speed§7, and §aNight Vision§7."
               },
               {
                 "text": ""
@@ -2716,8 +2727,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -2884,16 +2895,17 @@
           "§7from mobs by §a{0}%§7.",
           "",
           "§6Nightmare",
-          "§7During night, gain §a{1} §b✎ Intelligence§7,",
-          "§a{2} §f✦ Speed§7, and §aNight Vision§7.",
+          "§7During night, gain §a{1} §b Intelligence§7,",
+          "§a{2} §f Speed§7, and §aNight Vision§7.",
           "",
           "§6Wings of Steel",
           "§7Deals §a+{3}% §7damage to §6Spooky",
           "§7enemies during the §6Spooky Festival§7.",
           "",
           "§6Sonar",
-          "§a+{4}% §7chance to fish up spooky sea",
-          "§7creatures",
+          "§7Grants a §a+{4}% §7chance to catch",
+          "§6Spooky Sea Creatures §7during the",
+          "§6Spooky Festival§7.",
           "",
           "§d§lMYTHIC"
         ],
@@ -2976,10 +2988,10 @@
                 "text": "§6Nightmare"
               },
               {
-                "text": "§7During night, gain §a{1} §b✎ Intelligence§7,"
+                "text": "§7During night, gain §a{1} §b Intelligence§7,"
               },
               {
-                "text": "§a{2} §f✦ Speed§7, and §aNight Vision§7."
+                "text": "§a{2} §f Speed§7, and §aNight Vision§7."
               },
               {
                 "text": ""
@@ -3000,10 +3012,13 @@
                 "text": "§6Sonar"
               },
               {
-                "text": "§a+{4}% §7chance to fish up spooky sea"
+                "text": "§7Grants a §a+{4}% §7chance to catch"
               },
               {
-                "text": "§7creatures"
+                "text": "§6Spooky Sea Creatures §7during the"
+              },
+              {
+                "text": "§6Spooky Festival§7."
               },
               {
                 "text": ""
@@ -3032,8 +3047,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:mythic"
@@ -3320,16 +3335,16 @@
           "",
           "§6Hive",
           "§7For each player within §a25 §7blocks:",
-          " §b+{0}✎ Intelligence",
-          " §c+{1}❁ Strength",
-          " §a+{2}❈ Defense",
+          " §b+{0} Intelligence",
+          " §c+{1} Strength",
+          " §a+{2} Defense",
           "§8Max 15 players",
           "",
           "§6Busy Buzz Buzz",
           "§7Grants §a+{3} §7of each to your pet:",
-          "§6☘ Farming Fortune",
-          "§6☘ Foraging Fortune",
-          "§6☘ Mining Fortune",
+          "§6 Farming Fortune",
+          "§6 Foraging Fortune",
+          "§6 Mining Fortune",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -3421,13 +3436,13 @@
                 "text": "§7For each player within §a25 §7blocks:"
               },
               {
-                "text": " §b+{0}✎ Intelligence"
+                "text": " §b+{0} Intelligence"
               },
               {
-                "text": " §c+{1}❁ Strength"
+                "text": " §c+{1} Strength"
               },
               {
-                "text": " §a+{2}❈ Defense"
+                "text": " §a+{2} Defense"
               },
               {
                 "text": "§8Max 15 players"
@@ -3442,13 +3457,13 @@
                 "text": "§7Grants §a+{3} §7of each to your pet:"
               },
               {
-                "text": "§6☘ Farming Fortune"
+                "text": "§6 Farming Fortune"
               },
               {
-                "text": "§6☘ Foraging Fortune"
+                "text": "§6 Foraging Fortune"
               },
               {
-                "text": "§6☘ Mining Fortune"
+                "text": "§6 Mining Fortune"
               },
               {
                 "text": ""
@@ -3886,25 +3901,25 @@
           "",
           "§6Hive",
           "§7For each player within §a25 §7blocks:",
-          " §b+{0}✎ Intelligence",
-          " §c+{1}❁ Strength",
-          " §a+{2}❈ Defense",
+          " §b+{0} Intelligence",
+          " §c+{1} Strength",
+          " §a+{2} Defense",
           "§8Max 15 players",
           "",
           "§6Busy Buzz Buzz",
           "§7Grants §a+{3} §7of each to your pet:",
-          "§6☘ Farming Fortune",
-          "§6☘ Foraging Fortune",
-          "§6☘ Mining Fortune",
+          "§6 Farming Fortune",
+          "§6 Foraging Fortune",
+          "§6 Mining Fortune",
           "",
           "§6Honey Harvester",
           "§7You have a §a{4}% §7chance to find a",
           "§aHoney Jar §7when farming crops.",
           "",
           "§6Powered by Pollen",
-          "§7Grants §6+{5}☘ Sunflower§7,",
-          "§6Moonflower§7, and §6Wild Rose Fortune",
-          "§7while in §aThe Garden§7.",
+          "§7Grants §6+{5} Sunflower§7, §6Moonflower§7,",
+          "§7and §6Wild Rose Fortune §7while in §aThe",
+          "§aGarden§7.",
           "",
           "§d§lMYTHIC"
         ],
@@ -4003,13 +4018,13 @@
                 "text": "§7For each player within §a25 §7blocks:"
               },
               {
-                "text": " §b+{0}✎ Intelligence"
+                "text": " §b+{0} Intelligence"
               },
               {
-                "text": " §c+{1}❁ Strength"
+                "text": " §c+{1} Strength"
               },
               {
-                "text": " §a+{2}❈ Defense"
+                "text": " §a+{2} Defense"
               },
               {
                 "text": "§8Max 15 players"
@@ -4024,13 +4039,13 @@
                 "text": "§7Grants §a+{3} §7of each to your pet:"
               },
               {
-                "text": "§6☘ Farming Fortune"
+                "text": "§6 Farming Fortune"
               },
               {
-                "text": "§6☘ Foraging Fortune"
+                "text": "§6 Foraging Fortune"
               },
               {
-                "text": "§6☘ Mining Fortune"
+                "text": "§6 Mining Fortune"
               },
               {
                 "text": ""
@@ -4051,13 +4066,13 @@
                 "text": "§6Powered by Pollen"
               },
               {
-                "text": "§7Grants §6+{5}☘ Sunflower§7,"
+                "text": "§7Grants §6+{5} Sunflower§7, §6Moonflower§7,"
               },
               {
-                "text": "§6Moonflower§7, and §6Wild Rose Fortune"
+                "text": "§7and §6Wild Rose Fortune §7while in §aThe"
               },
               {
-                "text": "§7while in §aThe Garden§7."
+                "text": "§aGarden§7."
               },
               {
                 "text": ""
@@ -5079,14 +5094,14 @@
           "§7Pet Luck: §d+{PET_LUCK}",
           "",
           "§6Hunter",
-          "§7Increases your §f✦ Speed §7and speed",
+          "§7Increases your §f Speed §7and speed",
           "§7cap by §a+{0}§7.",
           "",
           "§6Omen",
           "§7Grants §d+{1} Pet Luck§7.",
           "",
           "§6Supernatural",
-          "§7Grants §b+{2}✯ Magic Find§7.",
+          "§7Grants §b+{2} Magic Find§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
@@ -5157,7 +5172,7 @@
                 "text": "§6Hunter"
               },
               {
-                "text": "§7Increases your §f✦ Speed §7and speed"
+                "text": "§7Increases your §f Speed §7and speed"
               },
               {
                 "text": "§7cap by §a+{0}§7."
@@ -5178,7 +5193,7 @@
                 "text": "§6Supernatural"
               },
               {
-                "text": "§7Grants §b+{2}✯ Magic Find§7."
+                "text": "§7Grants §b+{2} Magic Find§7."
               },
               {
                 "text": ""
@@ -5229,14 +5244,14 @@
           "§7Pet Luck: §d+{PET_LUCK}",
           "",
           "§6Hunter",
-          "§7Increases your §f✦ Speed §7and speed",
+          "§7Increases your §f Speed §7and speed",
           "§7cap by §a+{0}§7.",
           "",
           "§6Omen",
           "§7Grants §d+{1} Pet Luck§7.",
           "",
           "§6Supernatural",
-          "§7Grants §b+{2}✯ Magic Find§7.",
+          "§7Grants §b+{2} Magic Find§7.",
           "",
           "§6Looting",
           "§7Gain §c{3}% §7more collection items from",
@@ -5314,7 +5329,7 @@
                 "text": "§6Hunter"
               },
               {
-                "text": "§7Increases your §f✦ Speed §7and speed"
+                "text": "§7Increases your §f Speed §7and speed"
               },
               {
                 "text": "§7cap by §a+{0}§7."
@@ -5335,7 +5350,7 @@
                 "text": "§6Supernatural"
               },
               {
-                "text": "§7Grants §b+{2}✯ Magic Find§7."
+                "text": "§7Grants §b+{2} Magic Find§7."
               },
               {
                 "text": ""
@@ -5848,8 +5863,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -6424,11 +6439,11 @@
           "§7gain §a+{0}% Damage Reduction§7.",
           "",
           "§6Bulk",
-          "§7Gain §a{1}❈ Defense §7per §c30 Max ❤",
+          "§7Gain §a{1} Defense §7per §c20 Max ",
           "§cHealth§7.",
           "",
           "§6Archimedes",
-          "§7Gain §c+{2}% Max ❤ Health§7.",
+          "§7Gain §c+{2}% Max  Health§7.",
           "",
           "§6§lLEGENDARY"
         ],
@@ -6489,7 +6504,7 @@
                 "text": "§6Bulk"
               },
               {
-                "text": "§7Gain §a{1}❈ Defense §7per §c30 Max ❤"
+                "text": "§7Gain §a{1} Defense §7per §c20 Max "
               },
               {
                 "text": "§cHealth§7."
@@ -6501,7 +6516,7 @@
                 "text": "§6Archimedes"
               },
               {
-                "text": "§7Gain §c+{2}% Max ❤ Health§7."
+                "text": "§7Gain §c+{2}% Max  Health§7."
               },
               {
                 "text": ""
@@ -7496,7 +7511,7 @@
           "",
           "§6Camouflage",
           "§7After casting an ability, increase",
-          "§7your §a❈ Defense §7by §a{1} §7for §b20",
+          "§7your §a Defense §7by §a+{1} §7for §b20",
           "§bseconds§7.",
           "§8Capped at 500 Defense",
           "",
@@ -7566,7 +7581,7 @@
                 "text": "§7After casting an ability, increase"
               },
               {
-                "text": "§7your §a❈ Defense §7by §a{1} §7for §b20"
+                "text": "§7your §a Defense §7by §a+{1} §7for §b20"
               },
               {
                 "text": "§bseconds§7."
@@ -7604,8 +7619,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -7626,7 +7641,7 @@
           "",
           "§6Camouflage",
           "§7After casting an ability, increase",
-          "§7your §a❈ Defense §7by §a{1} §7for §b20",
+          "§7your §a Defense §7by §a+{1} §7for §b20",
           "§bseconds§7.",
           "§8Capped at 500 Defense",
           "",
@@ -7703,7 +7718,7 @@
                 "text": "§7After casting an ability, increase"
               },
               {
-                "text": "§7your §a❈ Defense §7by §a{1} §7for §b20"
+                "text": "§7your §a Defense §7by §a+{1} §7for §b20"
               },
               {
                 "text": "§bseconds§7."
@@ -7750,8 +7765,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -8537,7 +8552,7 @@
           "id": "minecraft:player_head",
           "components": {
             "minecraft:custom_data": {
-              "id": "EERIE;0",
+              "id": "PET",
               "petInfo": "{\"type\":\"EERIE\",\"tier\":\"COMMON\",\"exp\":0.0,\"candyUsed\":0}"
             },
             "minecraft:custom_name": {
@@ -8650,7 +8665,7 @@
           "id": "minecraft:player_head",
           "components": {
             "minecraft:custom_data": {
-              "id": "EERIE;2",
+              "id": "PET",
               "petInfo": "{\"type\":\"EERIE\",\"tier\":\"RARE\",\"exp\":0.0,\"candyUsed\":0}"
             },
             "minecraft:custom_name": {
@@ -9367,10 +9382,11 @@
           "§aDefense§7.",
           "",
           "§6Trunk Efficiency",
-          "§7Grants §6+{2} Farming Fortune§7,",
-          "§7which increases your chance for",
-          "§7multiple drops.",
+          "§7Grants §6+{2} Farming Fortune§7, which",
+          "§7increases your chance for multiple",
+          "§7drops.",
           "",
+          "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY"
         ],
         "variables": {
@@ -9449,16 +9465,19 @@
                 "text": "§6Trunk Efficiency"
               },
               {
-                "text": "§7Grants §6+{2} Farming Fortune§7,"
+                "text": "§7Grants §6+{2} Farming Fortune§7, which"
               },
               {
-                "text": "§7which increases your chance for"
+                "text": "§7increases your chance for multiple"
               },
               {
-                "text": "§7multiple drops."
+                "text": "§7drops."
               },
               {
                 "text": ""
+              },
+              {
+                "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
                 "text": "§6§lLEGENDARY"
@@ -9510,9 +9529,9 @@
           "§aDefense§7.",
           "",
           "§6Trunk Efficiency",
-          "§7Grants §6+{2} Farming Fortune§7,",
-          "§7which increases your chance for",
-          "§7multiple drops.",
+          "§7Grants §6+{2} Farming Fortune§7, which",
+          "§7increases your chance for multiple",
+          "§7drops.",
           "",
           "§6Abundant Harvest",
           "§7Earn §2+{3}% Sowdust §7while farming.",
@@ -9606,13 +9625,13 @@
                 "text": "§6Trunk Efficiency"
               },
               {
-                "text": "§7Grants §6+{2} Farming Fortune§7,"
+                "text": "§7Grants §6+{2} Farming Fortune§7, which"
               },
               {
-                "text": "§7which increases your chance for"
+                "text": "§7increases your chance for multiple"
               },
               {
-                "text": "§7multiple drops."
+                "text": "§7drops."
               },
               {
                 "text": ""
@@ -10088,13 +10107,12 @@
           "§7Crit Damage: §9+{CRIT_DAMAGE}%",
           "",
           "§6Enderian",
-          "§7Take §a{0}% §7less damage from §5⊙ Ender",
+          "§7Take §a{0}% §7less damage from §5 Ender",
           "§7mobs",
           "",
           "§6Teleport Savvy",
-          "§7Buffs the Transmission abilities",
-          "§7granting §a{1} §7weapon damage for 5s",
-          "§7on use",
+          "§7Buffs Transmission abilities, granting",
+          "§a{1} §7weapon damage for 5s on use",
           "",
           "§6Zealot Madness",
           "§7Increases your odds to find a",
@@ -10148,7 +10166,7 @@
                 "text": "§6Enderian"
               },
               {
-                "text": "§7Take §a{0}% §7less damage from §5⊙ Ender"
+                "text": "§7Take §a{0}% §7less damage from §5 Ender"
               },
               {
                 "text": "§7mobs"
@@ -10160,13 +10178,10 @@
                 "text": "§6Teleport Savvy"
               },
               {
-                "text": "§7Buffs the Transmission abilities"
+                "text": "§7Buffs Transmission abilities, granting"
               },
               {
-                "text": "§7granting §a{1} §7weapon damage for 5s"
-              },
-              {
-                "text": "§7on use"
+                "text": "§a{1} §7weapon damage for 5s on use"
               },
               {
                 "text": ""
@@ -10210,8 +10225,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -10226,13 +10241,12 @@
           "§7Crit Damage: §9+{CRIT_DAMAGE}%",
           "",
           "§6Enderian",
-          "§7Take §a{0}% §7less damage from §5⊙ Ender",
+          "§7Take §a{0}% §7less damage from §5 Ender",
           "§7mobs",
           "",
           "§6Teleport Savvy",
-          "§7Buffs the Transmission abilities",
-          "§7granting §a{1} §7weapon damage for 5s",
-          "§7on use",
+          "§7Buffs Transmission abilities, granting",
+          "§a{1} §7weapon damage for 5s on use",
           "",
           "§6Zealot Madness",
           "§7Increases your odds to find a",
@@ -10293,7 +10307,7 @@
                 "text": "§6Enderian"
               },
               {
-                "text": "§7Take §a{0}% §7less damage from §5⊙ Ender"
+                "text": "§7Take §a{0}% §7less damage from §5 Ender"
               },
               {
                 "text": "§7mobs"
@@ -10305,13 +10319,10 @@
                 "text": "§6Teleport Savvy"
               },
               {
-                "text": "§7Buffs the Transmission abilities"
+                "text": "§7Buffs Transmission abilities, granting"
               },
               {
-                "text": "§7granting §a{1} §7weapon damage for 5s"
-              },
-              {
-                "text": "§7on use"
+                "text": "§a{1} §7weapon damage for 5s on use"
               },
               {
                 "text": ""
@@ -10364,8 +10375,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:mythic"
@@ -11180,12 +11191,12 @@
           "§7Crit Chance: §9+{CRIT_CHANCE}%",
           "",
           "§6End Strike",
-          "§7Deal §a{0}% §7more damage to §5⊙ Ender",
+          "§7Deal §a{0}% §7more damage to §5 Ender",
           "§7mobs.",
           "",
           "§6One With The Dragon",
           "§7Buffs the §6Aspect of the Dragons",
-          "§7sword by §a{1} §c❁ Damage §7and §a{2} §c❁",
+          "§7sword by §a{1} §c Damage §7and §a{2} §c",
           "§cStrength§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -11250,7 +11261,7 @@
                 "text": "§6End Strike"
               },
               {
-                "text": "§7Deal §a{0}% §7more damage to §5⊙ Ender"
+                "text": "§7Deal §a{0}% §7more damage to §5 Ender"
               },
               {
                 "text": "§7mobs."
@@ -11265,7 +11276,7 @@
                 "text": "§7Buffs the §6Aspect of the Dragons"
               },
               {
-                "text": "§7sword by §a{1} §c❁ Damage §7and §a{2} §c❁"
+                "text": "§7sword by §a{1} §c Damage §7and §a{2} §c"
               },
               {
                 "text": "§cStrength§7."
@@ -11300,8 +11311,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -11713,10 +11724,10 @@
           "§7Strength: §c+{STRENGTH}",
           "",
           "§6Quick Reel",
-          "§7Grants §b+{0}☂ Fishing Speed§7.",
+          "§7Grants §b+{0} Fishing Speed§7.",
           "",
           "§6Water Bender",
-          "§7Gives §a{1} §c❁ Strength §7and §a❈ Defense",
+          "§7Gives §a{1} §c Strength §7and §a Defense",
           "§7when near water",
           "",
           "§6Deep Sea Diver",
@@ -11778,7 +11789,7 @@
                 "text": "§6Quick Reel"
               },
               {
-                "text": "§7Grants §b+{0}☂ Fishing Speed§7."
+                "text": "§7Grants §b+{0} Fishing Speed§7."
               },
               {
                 "text": ""
@@ -11787,7 +11798,7 @@
                 "text": "§6Water Bender"
               },
               {
-                "text": "§7Gives §a{1} §c❁ Strength §7and §a❈ Defense"
+                "text": "§7Gives §a{1} §c Strength §7and §a Defense"
               },
               {
                 "text": "§7when near water"
@@ -11834,8 +11845,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -11851,10 +11862,10 @@
           "§7Strength: §c+{STRENGTH}",
           "",
           "§6Quick Reel",
-          "§7Grants §b+{0}☂ Fishing Speed§7.",
+          "§7Grants §b+{0} Fishing Speed§7.",
           "",
           "§6Lava Bender",
-          "§7Gives §a{1} §c❁ Strength §7and §a❈ Defense",
+          "§7Gives §a{1} §c Strength §7and §a Defense",
           "§7when near water or lava",
           "",
           "§6Magmatic Diver",
@@ -11924,7 +11935,7 @@
                 "text": "§6Quick Reel"
               },
               {
-                "text": "§7Grants §b+{0}☂ Fishing Speed§7."
+                "text": "§7Grants §b+{0} Fishing Speed§7."
               },
               {
                 "text": ""
@@ -11933,7 +11944,7 @@
                 "text": "§6Lava Bender"
               },
               {
-                "text": "§7Gives §a{1} §c❁ Strength §7and §a❈ Defense"
+                "text": "§7Gives §a{1} §c Strength §7and §a Defense"
               },
               {
                 "text": "§7when near water or lava"
@@ -11992,8 +12003,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:mythic"
@@ -12026,7 +12037,7 @@
           "id": "minecraft:player_head",
           "components": {
             "minecraft:custom_data": {
-              "id": "FRACTURED_MONTEZUMA_SOUL;2",
+              "id": "PET",
               "petInfo": "{\"type\":\"FRACTURED_MONTEZUMA_SOUL\",\"tier\":\"RARE\",\"exp\":0.0,\"candyUsed\":0}"
             },
             "minecraft:custom_name": {
@@ -12104,7 +12115,7 @@
           "id": "minecraft:player_head",
           "components": {
             "minecraft:custom_data": {
-              "id": "FRACTURED_MONTEZUMA_SOUL;3",
+              "id": "PET",
               "petInfo": "{\"type\":\"FRACTURED_MONTEZUMA_SOUL\",\"tier\":\"EPIC\",\"exp\":0.0,\"candyUsed\":0}"
             },
             "minecraft:custom_name": {
@@ -13083,9 +13094,9 @@
           "§7Intelligence: §b+{INTELLIGENCE}",
           "",
           "§6Icehammer",
-          "§7Lets you break fire pillars, which",
-          "§7heals you for §c25% §7of your max §c❤",
-          "§7over §a3s§7.",
+          "§7Lets you break fire pillars §a2x",
+          "§7faster, healing you for §c25% §7of your",
+          "§7max §c❤ §7over §a3s§7.",
           "",
           "§6Bulwark",
           "§7Kill Blazes to gain defense against",
@@ -13162,13 +13173,13 @@
                 "text": "§6Icehammer"
               },
               {
-                "text": "§7Lets you break fire pillars, which"
+                "text": "§7Lets you break fire pillars §a2x"
               },
               {
-                "text": "§7heals you for §c25% §7of your max §c❤"
+                "text": "§7faster, healing you for §c25% §7of your"
               },
               {
-                "text": "§7over §a3s§7."
+                "text": "§7max §c❤ §7over §a3s§7."
               },
               {
                 "text": ""
@@ -14637,8 +14648,8 @@
           "§7most sources.",
           "",
           "§6Iceborn",
-          "§7Gain §a+{1} §6☘ Mining Fortune §7while in the",
-          "§bGlacite Mineshafts§7.",
+          "§7Gain §a+{1} §6 Mining Fortune §7while in",
+          "§7the §bGlacite Mineshafts§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -14703,10 +14714,10 @@
                 "text": "§6Iceborn"
               },
               {
-                "text": "§7Gain §a+{1} §6☘ Mining Fortune §7while in the"
+                "text": "§7Gain §a+{1} §6 Mining Fortune §7while in"
               },
               {
-                "text": "§bGlacite Mineshafts§7."
+                "text": "§7the §bGlacite Mineshafts§7."
               },
               {
                 "text": ""
@@ -14728,7 +14739,18 @@
             },
             "minecraft:tooltip_display": {
               "hidden_components": [
-                "minecraft:dyed_color"
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -14748,7 +14770,7 @@
           "§7most sources.",
           "",
           "§6Iceborn",
-          "§7Gain §a+{1} §6☘ Mining Fortune §7while in the",
+          "§7Gain §a+{1} §6 Mining Fortune §7while in the",
           "§bGlacite Mineshafts§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -14814,7 +14836,7 @@
                 "text": "§6Iceborn"
               },
               {
-                "text": "§7Gain §a+{1} §6☘ Mining Fortune §7while in the"
+                "text": "§7Gain §a+{1} §6 Mining Fortune §7while in the"
               },
               {
                 "text": "§bGlacite Mineshafts§7."
@@ -14849,8 +14871,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -14870,11 +14892,11 @@
           "§7most sources.",
           "",
           "§6Iceborn",
-          "§7Gain §a+{1} §6☘ Mining Fortune §7while in the",
+          "§7Gain §a+{1} §6 Mining Fortune §7while in the",
           "§bGlacite Mineshafts§7.",
           "",
           "§6Frozen Perfection",
-          "§7Gain §a+{2} §5✧ Pristine §7for every",
+          "§7Gain §a+{2} §5 Pristine §7for every",
           "§bFrozen Corpse §7you've looted in the",
           "§7current §bGlacite Mineshaft§7.",
           "",
@@ -14944,7 +14966,7 @@
                 "text": "§6Iceborn"
               },
               {
-                "text": "§7Gain §a+{1} §6☘ Mining Fortune §7while in the"
+                "text": "§7Gain §a+{1} §6 Mining Fortune §7while in the"
               },
               {
                 "text": "§bGlacite Mineshafts§7."
@@ -14956,7 +14978,7 @@
                 "text": "§6Frozen Perfection"
               },
               {
-                "text": "§7Gain §a+{2} §5✧ Pristine §7for every"
+                "text": "§7Gain §a+{2} §5 Pristine §7for every"
               },
               {
                 "text": "§bFrozen Corpse §7you've looted in the"
@@ -14991,8 +15013,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -15014,12 +15036,12 @@
           "§7Ore Fortune: §6+{ORE_FORTUNE}",
           "",
           "§6Grunt Work",
-          "§7Gain §6+{0}⸕ Mining Speed §7when mining",
+          "§7Gain §6+{0} Mining Speed §7when mining",
           "§6Ores§7.",
           "",
           "§6Fetid Thief",
-          "§7Gain §e+{1}▚ Mining Spread §7while in",
-          "§7the §2Mines of Divan§7.",
+          "§7Gain §e+{1} Mining Spread §7while in the",
+          "§2Mines of Divan§7.",
           "",
           "§6Free-range Eggs",
           "§7Increases the chance of finding",
@@ -15079,7 +15101,7 @@
                 "text": "§6Grunt Work"
               },
               {
-                "text": "§7Gain §6+{0}⸕ Mining Speed §7when mining"
+                "text": "§7Gain §6+{0} Mining Speed §7when mining"
               },
               {
                 "text": "§6Ores§7."
@@ -15091,10 +15113,10 @@
                 "text": "§6Fetid Thief"
               },
               {
-                "text": "§7Gain §e+{1}▚ Mining Spread §7while in"
+                "text": "§7Gain §e+{1} Mining Spread §7while in the"
               },
               {
-                "text": "§7the §2Mines of Divan§7."
+                "text": "§2Mines of Divan§7."
               },
               {
                 "text": ""
@@ -15135,8 +15157,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -15747,7 +15769,7 @@
           "id": "minecraft:player_head",
           "components": {
             "minecraft:custom_data": {
-              "id": "GRANDMA_WOLF;0",
+              "id": "PET",
               "petInfo": "{\"type\":\"GRANDMA_WOLF\",\"tier\":\"COMMON\",\"exp\":0.0,\"candyUsed\":0}"
             },
             "minecraft:custom_name": {
@@ -15931,7 +15953,7 @@
           "id": "minecraft:player_head",
           "components": {
             "minecraft:custom_data": {
-              "id": "GRANDMA_WOLF;1",
+              "id": "PET",
               "petInfo": "{\"type\":\"GRANDMA_WOLF\",\"tier\":\"UNCOMMON\",\"exp\":0.0,\"candyUsed\":0}"
             },
             "minecraft:custom_name": {
@@ -16115,7 +16137,7 @@
           "id": "minecraft:player_head",
           "components": {
             "minecraft:custom_data": {
-              "id": "GRANDMA_WOLF;2",
+              "id": "PET",
               "petInfo": "{\"type\":\"GRANDMA_WOLF\",\"tier\":\"RARE\",\"exp\":0.0,\"candyUsed\":0}"
             },
             "minecraft:custom_name": {
@@ -16299,7 +16321,7 @@
           "id": "minecraft:player_head",
           "components": {
             "minecraft:custom_data": {
-              "id": "GRANDMA_WOLF;3",
+              "id": "PET",
               "petInfo": "{\"type\":\"GRANDMA_WOLF\",\"tier\":\"EPIC\",\"exp\":0.0,\"candyUsed\":0}"
             },
             "minecraft:custom_name": {
@@ -18227,11 +18249,11 @@
           "§7Deal §a{0}%§7 more damage to §2 Pests§7.",
           "",
           "§6Fearsome Farmer",
-          "§7Grants §6+{1}☘ Farming Fortune §7and",
-          "§e+{2}☀ Overbloom §7on §2 Pests§7.",
+          "§7Grants §6+{1} Farming Fortune §7and",
+          "§e+{2} Overbloom §7on §2 Pests§7.",
           "",
           "§6Hunter's Insight",
-          "§7Grants §6+0.7☘ Farming Fortune§7 per",
+          "§7Grants §6+0.7 Farming Fortune§7 per",
           "§7Pest Bestiary Tier.",
           "",
           "§6§lLEGENDARY"
@@ -18290,10 +18312,10 @@
                 "text": "§6Fearsome Farmer"
               },
               {
-                "text": "§7Grants §6+{1}☘ Farming Fortune §7and"
+                "text": "§7Grants §6+{1} Farming Fortune §7and"
               },
               {
-                "text": "§e+{2}☀ Overbloom §7on §2 Pests§7."
+                "text": "§e+{2} Overbloom §7on §2 Pests§7."
               },
               {
                 "text": ""
@@ -18302,7 +18324,7 @@
                 "text": "§6Hunter's Insight"
               },
               {
-                "text": "§7Grants §6+0.7☘ Farming Fortune§7 per"
+                "text": "§7Grants §6+0.7 Farming Fortune§7 per"
               },
               {
                 "text": "§7Pest Bestiary Tier."
@@ -18334,8 +18356,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -18838,7 +18860,7 @@
           "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}%",
           "",
           "§6Comfort Zone",
-          "§7Grants §b+{0}☂ Fishing Speed §7for §a30s",
+          "§7Grants §b+{0} Fishing Speed §7for §a30s",
           "§7upon catching §6Treasure§7.",
           "",
           "§6Seafloor Scalper",
@@ -18912,7 +18934,7 @@
                 "text": "§6Comfort Zone"
               },
               {
-                "text": "§7Grants §b+{0}☂ Fishing Speed §7for §a30s"
+                "text": "§7Grants §b+{0} Fishing Speed §7for §a30s"
               },
               {
                 "text": "§7upon catching §6Treasure§7."
@@ -18992,7 +19014,7 @@
           "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}%",
           "",
           "§6Comfort Zone",
-          "§7Grants §b+{0}☂ Fishing Speed §7for §a30s",
+          "§7Grants §b+{0} Fishing Speed §7for §a30s",
           "§7upon catching §6Treasure§7.",
           "",
           "§6Seafloor Scalper",
@@ -19073,7 +19095,7 @@
                 "text": "§6Comfort Zone"
               },
               {
-                "text": "§7Grants §b+{0}☂ Fishing Speed §7for §a30s"
+                "text": "§7Grants §b+{0} Fishing Speed §7for §a30s"
               },
               {
                 "text": "§7upon catching §6Treasure§7."
@@ -19482,8 +19504,8 @@
           "§7Grants permanent §bJump Boost IV§7.",
           "",
           "§6Stampede",
-          "§7Mob kills grant a stack of §f+{0} ✦",
-          "§fSpeed§7 and §c+{1} ❁ Strength§7 for §a5s§7.",
+          "§7Mob kills grant a stack of §f+{0} ",
+          "§fSpeed§7 and §c+{1}  Strength§7 for §a5s§7.",
           "§8(Max 20 stacks)",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -19546,10 +19568,10 @@
                 "text": "§6Stampede"
               },
               {
-                "text": "§7Mob kills grant a stack of §f+{0} ✦"
+                "text": "§7Mob kills grant a stack of §f+{0} "
               },
               {
-                "text": "§fSpeed§7 and §c+{1} ❁ Strength§7 for §a5s§7."
+                "text": "§fSpeed§7 and §c+{1}  Strength§7 for §a5s§7."
               },
               {
                 "text": "§8(Max 20 stacks)"
@@ -19584,8 +19606,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -20020,8 +20042,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -20357,8 +20379,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -20507,8 +20529,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -22602,7 +22624,7 @@
           "§7Speed: §f+{SPEED}",
           "",
           "§6Primal Force",
-          "§7Adds §c+{0} ❁ Damage §7and §c+{1} ❁",
+          "§7Adds §c+{0}  Damage §7and §c+{1} ",
           "§cStrength §7to your weapons.",
           "",
           "§6First Pounce",
@@ -22610,7 +22632,7 @@
           "§d§lCombo §7are §a{2}% §7more effective.",
           "",
           "§6King of the Jungle",
-          "§7Deal §c+{3}% ❁ Damage §7against mobs",
+          "§7Deal §c+{3}%  Damage §7against mobs",
           "§7that have attacked you.",
           "",
           "§6§lLEGENDARY"
@@ -22678,7 +22700,7 @@
                 "text": "§6Primal Force"
               },
               {
-                "text": "§7Adds §c+{0} ❁ Damage §7and §c+{1} ❁"
+                "text": "§7Adds §c+{0}  Damage §7and §c+{1} "
               },
               {
                 "text": "§cStrength §7to your weapons."
@@ -22702,7 +22724,7 @@
                 "text": "§6King of the Jungle"
               },
               {
-                "text": "§7Deal §c+{3}% ❁ Damage §7against mobs"
+                "text": "§7Deal §c+{3}%  Damage §7against mobs"
               },
               {
                 "text": "§7that have attacked you."
@@ -22734,8 +22756,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -23191,8 +23213,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -24255,8 +24277,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -24414,7 +24436,7 @@
           "§7Mining Fortune: §6+{MINING_FORTUNE}",
           "",
           "§6Mithril Affinity",
-          "§7Grants §6+{0}⸕ Mining Speed §7when mining",
+          "§7Grants §6+{0} Mining Speed §7when mining",
           "§2Mithril§7.",
           "",
           "§6Subterranean Battler",
@@ -24426,7 +24448,7 @@
           "§7all sources.",
           "",
           "§6Refined Senses",
-          "§7Grants §b+{3}% ✯ Magic Find §7while on",
+          "§7Grants §b+{3}%  Magic Find §7while on",
           "§bMining Islands§7.",
           "",
           "§d§lMYTHIC"
@@ -24487,7 +24509,7 @@
                 "text": "§6Mithril Affinity"
               },
               {
-                "text": "§7Grants §6+{0}⸕ Mining Speed §7when mining"
+                "text": "§7Grants §6+{0} Mining Speed §7when mining"
               },
               {
                 "text": "§2Mithril§7."
@@ -24523,7 +24545,7 @@
                 "text": "§6Refined Senses"
               },
               {
-                "text": "§7Grants §b+{3}% ✯ Magic Find §7while on"
+                "text": "§7Grants §b+{3}%  Magic Find §7while on"
               },
               {
                 "text": "§bMining Islands§7."
@@ -24555,8 +24577,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:mythic"
@@ -24707,8 +24729,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -24730,7 +24752,7 @@
           "§7Speed: §f+{SPEED}",
           "",
           "§6Treeborn",
-          "§7Grants §a+{0} §6☘ Foraging Fortune§7,",
+          "§7Grants §a+{0} §6 Foraging Fortune§7,",
           "§7which increases your chance at",
           "§7double logs.",
           "",
@@ -24781,7 +24803,7 @@
                 "text": "§6Treeborn"
               },
               {
-                "text": "§7Grants §a+{0} §6☘ Foraging Fortune§7,"
+                "text": "§7Grants §a+{0} §6 Foraging Fortune§7,"
               },
               {
                 "text": "§7which increases your chance at"
@@ -24819,8 +24841,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -25186,15 +25208,15 @@
           "§7Speed: §f+{SPEED}",
           "",
           "§6Treeborn",
-          "§7Grants §a+{0} §6☘ Foraging Fortune§7,",
+          "§7Grants §a+{0} §6 Foraging Fortune§7,",
           "§7which increases your chance at",
           "§7double logs.",
           "",
           "§6Vine Swing",
-          "§7Grants §f{1}✦ Speed §7while in §aThe Park§7.",
+          "§7Grants §f{1} Speed §7while in §aThe Park§7.",
           "",
           "§6Evolved Axes",
-          "§7Grants §2+{2}∮ Sweep §7while in §aThe Park§7.",
+          "§7Grants §2+{2} Sweep §7while in §aThe Park§7.",
           "",
           "§6§lLEGENDARY"
         ],
@@ -25250,7 +25272,7 @@
                 "text": "§6Treeborn"
               },
               {
-                "text": "§7Grants §a+{0} §6☘ Foraging Fortune§7,"
+                "text": "§7Grants §a+{0} §6 Foraging Fortune§7,"
               },
               {
                 "text": "§7which increases your chance at"
@@ -25265,7 +25287,7 @@
                 "text": "§6Vine Swing"
               },
               {
-                "text": "§7Grants §f{1}✦ Speed §7while in §aThe Park§7."
+                "text": "§7Grants §f{1} Speed §7while in §aThe Park§7."
               },
               {
                 "text": ""
@@ -25274,7 +25296,7 @@
                 "text": "§6Evolved Axes"
               },
               {
-                "text": "§7Grants §2+{2}∮ Sweep §7while in §aThe Park§7."
+                "text": "§7Grants §2+{2} Sweep §7while in §aThe Park§7."
               },
               {
                 "text": ""
@@ -25303,8 +25325,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -26383,7 +26405,7 @@
           "§7Pest Vinyls are §a{0}% §7more effective.",
           "",
           "§6Buzzin' Barterer",
-          "§7Gain §6+{1}☘ Sugar Cane Fortune§7 for",
+          "§7Gain §6+{1} Sugar Cane Fortune§7 for",
           "§7every unique visitor you've served",
           "§7in §aThe Garden§7.",
           "§8Your Bonus: 1.7 Sugar Cane Fortune",
@@ -26456,7 +26478,7 @@
                 "text": "§6Buzzin' Barterer"
               },
               {
-                "text": "§7Gain §6+{1}☘ Sugar Cane Fortune§7 for"
+                "text": "§7Gain §6+{1} Sugar Cane Fortune§7 for"
               },
               {
                 "text": "§7every unique visitor you've served"
@@ -26509,8 +26531,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -26949,8 +26971,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -27083,8 +27105,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -27979,7 +28001,7 @@
           "§7Boosts potions duration by §a{1}%§7.",
           "",
           "§6Bird Discourse",
-          "§7Gives §c+{2}❁ Strength §7to players",
+          "§7Gives §c+{2} Strength §7to players",
           "§7within §a20 §7blocks",
           "§8Doesn't stack",
           "",
@@ -28067,7 +28089,7 @@
                 "text": "§6Bird Discourse"
               },
               {
-                "text": "§7Gives §c+{2}❁ Strength §7to players"
+                "text": "§7Gives §c+{2} Strength §7to players"
               },
               {
                 "text": "§7within §a20 §7blocks"
@@ -28117,8 +28139,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -28289,12 +28311,12 @@
           "",
           "§6Rekindle",
           "§7Before death, become §eimmune §7and",
-          "§7gain §c{0} ❁ Strength §7for §a{1} §7seconds",
+          "§7gain §c{0}  Strength §7for §a{1} §7seconds",
           "§860s cooldown",
           "",
           "§6Fourth Flare",
           "§7On 4th melee strike, §6ignite §7mobs,",
-          "§7dealing §c{2}x §7your §9☠ Crit Damage",
+          "§7dealing §c{2}x §7your §9 Crit Damage",
           "§7each second for §a{3} §7seconds",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -28359,7 +28381,7 @@
                 "text": "§7Before death, become §eimmune §7and"
               },
               {
-                "text": "§7gain §c{0} ❁ Strength §7for §a{1} §7seconds"
+                "text": "§7gain §c{0}  Strength §7for §a{1} §7seconds"
               },
               {
                 "text": "§860s cooldown"
@@ -28374,7 +28396,7 @@
                 "text": "§7On 4th melee strike, §6ignite §7mobs,"
               },
               {
-                "text": "§7dealing §c{2}x §7your §9☠ Crit Damage"
+                "text": "§7dealing §c{2}x §7your §9 Crit Damage"
               },
               {
                 "text": "§7each second for §a{3} §7seconds"
@@ -28409,8 +28431,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -28427,12 +28449,12 @@
           "",
           "§6Rekindle",
           "§7Before death, become §eimmune §7and",
-          "§7gain §c{0} ❁ Strength §7for §a{1} §7seconds",
+          "§7gain §c{0}  Strength §7for §a{1} §7seconds",
           "§860s cooldown",
           "",
           "§6Fourth Flare",
           "§7On 4th melee strike, §6ignite §7mobs,",
-          "§7dealing §c{2}x §7your §9☠ Crit Damage",
+          "§7dealing §c{2}x §7your §9 Crit Damage",
           "§7each second for §a{3} §7seconds",
           "",
           "§6Magic Bird",
@@ -28503,7 +28525,7 @@
                 "text": "§7Before death, become §eimmune §7and"
               },
               {
-                "text": "§7gain §c{0} ❁ Strength §7for §a{1} §7seconds"
+                "text": "§7gain §c{0}  Strength §7for §a{1} §7seconds"
               },
               {
                 "text": "§860s cooldown"
@@ -28518,7 +28540,7 @@
                 "text": "§7On 4th melee strike, §6ignite §7mobs,"
               },
               {
-                "text": "§7dealing §c{2}x §7your §9☠ Crit Damage"
+                "text": "§7dealing §c{2}x §7your §9 Crit Damage"
               },
               {
                 "text": "§7each second for §a{3} §7seconds"
@@ -28571,8 +28593,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -28924,7 +28946,7 @@
           "§7by §a{0}%§7.",
           "",
           "§6Shining Stampede",
-          "§7Grants §6+{1}☘ Potato Fortune§7 per",
+          "§7Grants §6+{1} Potato Fortune§7 per",
           "§6Shiny Pig§7 §3Bestiary§7 tier.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -28990,7 +29012,7 @@
                 "text": "§6Shining Stampede"
               },
               {
-                "text": "§7Grants §6+{1}☘ Potato Fortune§7 per"
+                "text": "§7Grants §6+{1} Potato Fortune§7 per"
               },
               {
                 "text": "§6Shiny Pig§7 §3Bestiary§7 tier."
@@ -29025,8 +29047,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -29046,7 +29068,7 @@
           "§7by §a{0}%§7.",
           "",
           "§6Shining Stampede",
-          "§7Grants §6+{1}☘ Potato Fortune§7 per",
+          "§7Grants §6+{1} Potato Fortune§7 per",
           "§6Shiny Pig§7 §3Bestiary§7 tier.",
           "",
           "§6Pig Parade",
@@ -29119,7 +29141,7 @@
                 "text": "§6Shining Stampede"
               },
               {
-                "text": "§7Grants §6+{1}☘ Potato Fortune§7 per"
+                "text": "§7Grants §6+{1} Potato Fortune§7 per"
               },
               {
                 "text": "§6Shiny Pig§7 §3Bestiary§7 tier."
@@ -29163,8 +29185,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -29679,8 +29701,8 @@
           "§7your island",
           "",
           "§6Pork Master",
-          "§7Buffs the §6Pigman Sword §7by §a{1} §c❁",
-          "§cDamage §7and §a{2} §c❁ Strength§7.",
+          "§7Buffs the §6Pigman Sword §7by §a{1} §c",
+          "§cDamage §7and §a{2} §c Strength§7.",
           "",
           "§6Giant Slayer",
           "§7Deal §c+50% §7damage to monsters Level",
@@ -29760,10 +29782,10 @@
                 "text": "§6Pork Master"
               },
               {
-                "text": "§7Buffs the §6Pigman Sword §7by §a{1} §c❁"
+                "text": "§7Buffs the §6Pigman Sword §7by §a{1} §c"
               },
               {
-                "text": "§cDamage §7and §a{2} §c❁ Strength§7."
+                "text": "§cDamage §7and §a{2} §c Strength§7."
               },
               {
                 "text": ""
@@ -29807,8 +29829,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -31952,8 +31974,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -32254,7 +32276,7 @@
           "§eTreasure Chests §7while mining.",
           "",
           "§6Drill Infusion",
-          "§7Grants §6+{1}☘ Gemstone Fortune §7to",
+          "§7Grants §6+{1} Gemstone Fortune §7to",
           "§7Drills.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -32320,7 +32342,7 @@
                 "text": "§6Drill Infusion"
               },
               {
-                "text": "§7Grants §6+{1}☘ Gemstone Fortune §7to"
+                "text": "§7Grants §6+{1} Gemstone Fortune §7to"
               },
               {
                 "text": "§7Drills."
@@ -32355,8 +32377,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -33201,8 +33223,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -34723,7 +34745,7 @@
           "",
           "§6Combo",
           "§7Gain a combo stack for every bow hit",
-          "§7granting +§a3 §c❁ Strength§7. Max §a{1}",
+          "§7granting +§a3 §c Strength§7. Max §a{1}",
           "§7stacks, stacks disappear after 8",
           "§7seconds.",
           "",
@@ -34793,7 +34815,7 @@
                 "text": "§7Gain a combo stack for every bow hit"
               },
               {
-                "text": "§7granting +§a3 §c❁ Strength§7. Max §a{1}"
+                "text": "§7granting +§a3 §c Strength§7. Max §a{1}"
               },
               {
                 "text": "§7stacks, stacks disappear after 8"
@@ -34831,8 +34853,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -36406,8 +36428,8 @@
           "§7while on your §bPrivate Island§7.",
           "",
           "§6Slow and Steady",
-          "§7Convert every §f{1}✦ Speed §7you",
-          "§7have above §f100 §7into §6+1☘ Block",
+          "§7Convert every §f{1} Speed §7you",
+          "§7have above §f100 §7into §6+1 Block",
           "§6Fortune§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -36473,10 +36495,10 @@
                 "text": "§6Slow and Steady"
               },
               {
-                "text": "§7Convert every §f{1}✦ Speed §7you"
+                "text": "§7Convert every §f{1} Speed §7you"
               },
               {
-                "text": "§7have above §f100 §7into §6+1☘ Block"
+                "text": "§7have above §f100 §7into §6+1 Block"
               },
               {
                 "text": "§6Fortune§7."
@@ -36511,8 +36533,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -36532,12 +36554,12 @@
           "§7while on your §bPrivate Island§7.",
           "",
           "§6Slow and Steady",
-          "§7Convert every §f{1}✦ Speed §7you",
-          "§7have above §f100 §7into §6+1☘ Block",
+          "§7Convert every §f{1} Speed §7you",
+          "§7have above §f100 §7into §6+1 Block",
           "§6Fortune§7.",
           "",
           "§6Slimy Reach",
-          "§7Grants §e+{2}▚ Mining Spread §7while",
+          "§7Grants §e+{2} Mining Spread §7while",
           "§7mining §9Blocks§7.",
           "",
           "§6§lLEGENDARY"
@@ -36606,10 +36628,10 @@
                 "text": "§6Slow and Steady"
               },
               {
-                "text": "§7Convert every §f{1}✦ Speed §7you"
+                "text": "§7Convert every §f{1} Speed §7you"
               },
               {
-                "text": "§7have above §f100 §7into §6+1☘ Block"
+                "text": "§7have above §f100 §7into §6+1 Block"
               },
               {
                 "text": "§6Fortune§7."
@@ -36621,7 +36643,7 @@
                 "text": "§6Slimy Reach"
               },
               {
-                "text": "§7Grants §e+{2}▚ Mining Spread §7while"
+                "text": "§7Grants §e+{2} Mining Spread §7while"
               },
               {
                 "text": "§7mining §9Blocks§7."
@@ -36653,8 +36675,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -37019,8 +37041,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:mythic"
@@ -37658,8 +37680,8 @@
           "§7Crit Chance: §9+{CRIT_CHANCE}%",
           "",
           "§6One With The Spider",
-          "§7Applies §c+{0}❁ Strength §7to all",
-          "§4Arachnal Ж §7weapons, armor, and",
+          "§7Applies §c+{0} Strength §7to all",
+          "§4Arachnal  §7weapons, armor, and",
           "§7equipment you have equipped.",
           "",
           "§6Web-weaver",
@@ -37672,8 +37694,8 @@
           "§7your island.",
           "",
           "§6Web Battlefield",
-          "§7Killing mobs grants §c+0.06❁ Strength",
-          "§7and §b+0.01✯ Magic Find §7for §a40s §7to all",
+          "§7Killing mobs grants §c+0.06 Strength",
+          "§7and §b+0.01 Magic Find §7for §a40s §7to all",
           "§7players staying within §a20 §7blocks of",
           "§7where they died. §8Stacks up to 10",
           "§8times.",
@@ -37732,10 +37754,10 @@
                 "text": "§6One With The Spider"
               },
               {
-                "text": "§7Applies §c+{0}❁ Strength §7to all"
+                "text": "§7Applies §c+{0} Strength §7to all"
               },
               {
-                "text": "§4Arachnal Ж §7weapons, armor, and"
+                "text": "§4Arachnal  §7weapons, armor, and"
               },
               {
                 "text": "§7equipment you have equipped."
@@ -37774,10 +37796,10 @@
                 "text": "§6Web Battlefield"
               },
               {
-                "text": "§7Killing mobs grants §c+0.06❁ Strength"
+                "text": "§7Killing mobs grants §c+0.06 Strength"
               },
               {
-                "text": "§7and §b+0.01✯ Magic Find §7for §a40s §7to all"
+                "text": "§7and §b+0.01 Magic Find §7for §a40s §7to all"
               },
               {
                 "text": "§7players staying within §a20 §7blocks of"
@@ -37815,8 +37837,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:mythic"
@@ -38736,8 +38758,8 @@
           "§7drops from squids",
           "",
           "§6Ink Specialty",
-          "§7Buffs the §5Ink Wand §7by §a{1} §c❁ Damage",
-          "§7and §a{2} §c❁ Strength§7.",
+          "§7Buffs the §5Ink Wand §7by §a{1} §c Damage",
+          "§7and §a{2} §c Strength§7.",
           "",
           "§6Fishing Wisdom Boost",
           "§7Grants §3+{3}☯ Fishing Wisdom§7.",
@@ -38812,10 +38834,10 @@
                 "text": "§6Ink Specialty"
               },
               {
-                "text": "§7Buffs the §5Ink Wand §7by §a{1} §c❁ Damage"
+                "text": "§7Buffs the §5Ink Wand §7by §a{1} §c Damage"
               },
               {
-                "text": "§7and §a{2} §c❁ Strength§7."
+                "text": "§7and §a{2} §c Strength§7."
               },
               {
                 "text": ""
@@ -38853,8 +38875,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -38873,14 +38895,14 @@
           "§8Gabagool Pet, feed to gain XP",
           "",
           "§7Health: §c+{HEALTH}",
-          "§7Damage: §c+{DAMAGE}",
           "§7True Defense: §f+{TRUE_DEFENSE}",
+          "§7Damage: §c+{DAMAGE}",
           "§7Intelligence: §a+{INTELLIGENCE}",
           "",
           "§6Icehammer",
-          "§7Lets you break fire pillars, which",
-          "§7heals you for §c50% §7of your max §c❤",
-          "§7over §a3s§7.",
+          "§7Lets you break fire pillars §a2x",
+          "§7faster, healing you for §c50% §7of your",
+          "§7max §c❤ §7over §a3s§7.",
           "",
           "§6Bulwark",
           "§7Kill Blazes to gain defense against",
@@ -38945,10 +38967,10 @@
                 "text": "§7Health: §c+{HEALTH}"
               },
               {
-                "text": "§7Damage: §c+{DAMAGE}"
+                "text": "§7True Defense: §f+{TRUE_DEFENSE}"
               },
               {
-                "text": "§7True Defense: §f+{TRUE_DEFENSE}"
+                "text": "§7Damage: §c+{DAMAGE}"
               },
               {
                 "text": "§7Intelligence: §a+{INTELLIGENCE}"
@@ -38960,13 +38982,13 @@
                 "text": "§6Icehammer"
               },
               {
-                "text": "§7Lets you break fire pillars, which"
+                "text": "§7Lets you break fire pillars §a2x"
               },
               {
-                "text": "§7heals you for §c50% §7of your max §c❤"
+                "text": "§7faster, healing you for §c50% §7of your"
               },
               {
-                "text": "§7over §a3s§7."
+                "text": "§7max §c❤ §7over §a3s§7."
               },
               {
                 "text": ""
@@ -40054,10 +40076,11 @@
           "§7Ferocity: §c+{FEROCITY}",
           "",
           "§6Merciless Swipe",
-          "§7Gain §c+{0}% ⫽ Ferocity§7.",
+          "§7Gain §c+{0}%  Ferocity§7.",
           "",
           "§6Hemorrhage",
           "§7Melee attacks reduce healing by §6{1}%",
+          "§7for §a10s§7.",
           "",
           "§6Apex Predator",
           "§7Deal §c+{2}% §7damage against targets with",
@@ -40131,7 +40154,7 @@
                 "text": "§6Merciless Swipe"
               },
               {
-                "text": "§7Gain §c+{0}% ⫽ Ferocity§7."
+                "text": "§7Gain §c+{0}%  Ferocity§7."
               },
               {
                 "text": ""
@@ -40141,6 +40164,9 @@
               },
               {
                 "text": "§7Melee attacks reduce healing by §6{1}%"
+              },
+              {
+                "text": "§7for §a10s§7."
               },
               {
                 "text": ""
@@ -40643,8 +40669,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -42371,8 +42397,8 @@
           "§7Take §a{0}% §7less damage from wolves",
           "",
           "§6Pack Leader",
-          "§7Gain §a{1} §9☠ Crit Damage §7for every",
-          "§7nearby wolf monster.",
+          "§7Gain §a{1} §9 Crit Damage §7for every",
+          "§7nearby wolf monster",
           "§8Max 10 wolves",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -42449,10 +42475,10 @@
                 "text": "§6Pack Leader"
               },
               {
-                "text": "§7Gain §a{1} §9☠ Crit Damage §7for every"
+                "text": "§7Gain §a{1} §9 Crit Damage §7for every"
               },
               {
-                "text": "§7nearby wolf monster."
+                "text": "§7nearby wolf monster"
               },
               {
                 "text": "§8Max 10 wolves"
@@ -42487,8 +42513,8 @@
                 "minecraft:banner_patterns",
                 "minecraft:trim",
                 "minecraft:potion_contents",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color"
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:epic"

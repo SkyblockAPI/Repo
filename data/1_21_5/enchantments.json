@@ -127,7 +127,7 @@
               "enchantments": {
                 "aiming": 1
               },
-              "id": "AIMING;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -213,7 +213,7 @@
               "enchantments": {
                 "aiming": 2
               },
-              "id": "AIMING;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -299,7 +299,7 @@
               "enchantments": {
                 "aiming": 3
               },
-              "id": "AIMING;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -385,7 +385,7 @@
               "enchantments": {
                 "aiming": 4
               },
-              "id": "AIMING;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -471,7 +471,7 @@
               "enchantments": {
                 "aiming": 5
               },
-              "id": "AIMING;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -565,7 +565,7 @@
               "enchantments": {
                 "angler": 1
               },
-              "id": "ANGLER;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -654,7 +654,7 @@
               "enchantments": {
                 "angler": 2
               },
-              "id": "ANGLER;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -743,7 +743,7 @@
               "enchantments": {
                 "angler": 3
               },
-              "id": "ANGLER;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -832,7 +832,7 @@
               "enchantments": {
                 "angler": 4
               },
-              "id": "ANGLER;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -921,7 +921,7 @@
               "enchantments": {
                 "angler": 5
               },
-              "id": "ANGLER;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§aEnchanted Book"
@@ -1683,7 +1683,7 @@
               "enchantments": {
                 "bane_of_arthropods": 1
               },
-              "id": "BANE_OF_ARTHROPODS;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -1781,7 +1781,7 @@
               "enchantments": {
                 "bane_of_arthropods": 2
               },
-              "id": "BANE_OF_ARTHROPODS;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -1879,7 +1879,7 @@
               "enchantments": {
                 "bane_of_arthropods": 3
               },
-              "id": "BANE_OF_ARTHROPODS;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -1977,7 +1977,7 @@
               "enchantments": {
                 "bane_of_arthropods": 4
               },
-              "id": "BANE_OF_ARTHROPODS;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -2075,7 +2075,7 @@
               "enchantments": {
                 "bane_of_arthropods": 5
               },
-              "id": "BANE_OF_ARTHROPODS;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -2273,7 +2273,7 @@
               "enchantments": {
                 "bane_of_arthropods": 7
               },
-              "id": "BANE_OF_ARTHROPODS;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -2358,7 +2358,7 @@
               "enchantments": {
                 "big_brain": 3
               },
-              "id": "BIG_BRAIN;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -2448,7 +2448,7 @@
               "enchantments": {
                 "big_brain": 4
               },
-              "id": "BIG_BRAIN;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -2538,7 +2538,7 @@
               "enchantments": {
                 "big_brain": 5
               },
-              "id": "BIG_BRAIN;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -2639,7 +2639,7 @@
               "enchantments": {
                 "blast_protection": 1
               },
-              "id": "BLAST_PROTECTION;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -2745,7 +2745,7 @@
               "enchantments": {
                 "blast_protection": 2
               },
-              "id": "BLAST_PROTECTION;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -2851,7 +2851,7 @@
               "enchantments": {
                 "blast_protection": 3
               },
-              "id": "BLAST_PROTECTION;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -2957,7 +2957,7 @@
               "enchantments": {
                 "blast_protection": 4
               },
-              "id": "BLAST_PROTECTION;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -3063,7 +3063,7 @@
               "enchantments": {
                 "blast_protection": 5
               },
-              "id": "BLAST_PROTECTION;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -3281,7 +3281,7 @@
               "enchantments": {
                 "blast_protection": 7
               },
-              "id": "BLAST_PROTECTION;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -3389,7 +3389,7 @@
               "enchantments": {
                 "blessing": 1
               },
-              "id": "BLESSING;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -3483,7 +3483,7 @@
               "enchantments": {
                 "blessing": 2
               },
-              "id": "BLESSING;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -3577,7 +3577,7 @@
               "enchantments": {
                 "blessing": 3
               },
-              "id": "BLESSING;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -3671,7 +3671,7 @@
               "enchantments": {
                 "blessing": 4
               },
-              "id": "BLESSING;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -3765,7 +3765,7 @@
               "enchantments": {
                 "blessing": 5
               },
-              "id": "BLESSING;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -3858,7 +3858,7 @@
               "enchantments": {
                 "blessing": 6
               },
-              "id": "BLESSING;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -4441,7 +4441,7 @@
               "enchantments": {
                 "caster": 1
               },
-              "id": "CASTER;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -4531,7 +4531,7 @@
               "enchantments": {
                 "caster": 2
               },
-              "id": "CASTER;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -4621,7 +4621,7 @@
               "enchantments": {
                 "caster": 3
               },
-              "id": "CASTER;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -4711,7 +4711,7 @@
               "enchantments": {
                 "caster": 4
               },
-              "id": "CASTER;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -4801,7 +4801,7 @@
               "enchantments": {
                 "caster": 5
               },
-              "id": "CASTER;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -5227,7 +5227,7 @@
               "enchantments": {
                 "champion": 1
               },
-              "id": "CHAMPION;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -5365,7 +5365,7 @@
               "enchantments": {
                 "chance": 1
               },
-              "id": "CHANCE;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -5451,7 +5451,7 @@
               "enchantments": {
                 "chance": 2
               },
-              "id": "CHANCE;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -5537,7 +5537,7 @@
               "enchantments": {
                 "chance": 3
               },
-              "id": "CHANCE;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -5719,7 +5719,7 @@
               "enchantments": {
                 "chance": 5
               },
-              "id": "CHANCE;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -5914,7 +5914,7 @@
               "enchantments": {
                 "charm": 2
               },
-              "id": "CHARM;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -6004,7 +6004,7 @@
               "enchantments": {
                 "charm": 3
               },
-              "id": "CHARM;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -6094,7 +6094,7 @@
               "enchantments": {
                 "charm": 4
               },
-              "id": "CHARM;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -6184,7 +6184,7 @@
               "enchantments": {
                 "charm": 5
               },
-              "id": "CHARM;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -6274,7 +6274,7 @@
               "enchantments": {
                 "charm": 6
               },
-              "id": "CHARM;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -6374,7 +6374,7 @@
               "enchantments": {
                 "cleave": 1
               },
-              "id": "CLEAVE;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -6476,7 +6476,7 @@
               "enchantments": {
                 "cleave": 2
               },
-              "id": "CLEAVE;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -6578,7 +6578,7 @@
               "enchantments": {
                 "cleave": 3
               },
-              "id": "CLEAVE;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -6680,7 +6680,7 @@
               "enchantments": {
                 "cleave": 4
               },
-              "id": "CLEAVE;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -6782,7 +6782,7 @@
               "enchantments": {
                 "cleave": 5
               },
-              "id": "CLEAVE;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -6877,7 +6877,7 @@
               "enchantments": {
                 "cleave": 6
               },
-              "id": "CLEAVE;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -6994,7 +6994,7 @@
               "enchantments": {
                 "compact": 1
               },
-              "id": "COMPACT;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -7616,7 +7616,7 @@
               "enchantments": {
                 "counter_strike": 5
               },
-              "id": "COUNTER_STRIKE;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -7712,7 +7712,7 @@
               "enchantments": {
                 "critical": 1
               },
-              "id": "CRITICAL;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -7810,7 +7810,7 @@
               "enchantments": {
                 "critical": 2
               },
-              "id": "CRITICAL;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -7908,7 +7908,7 @@
               "enchantments": {
                 "critical": 3
               },
-              "id": "CRITICAL;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -8006,7 +8006,7 @@
               "enchantments": {
                 "critical": 4
               },
-              "id": "CRITICAL;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -8104,7 +8104,7 @@
               "enchantments": {
                 "critical": 5
               },
-              "id": "CRITICAL;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -8202,7 +8202,7 @@
               "enchantments": {
                 "critical": 6
               },
-              "id": "CRITICAL;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -8299,7 +8299,7 @@
               "enchantments": {
                 "critical": 7
               },
-              "id": "CRITICAL;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -8404,7 +8404,7 @@
               "enchantments": {
                 "cubism": 1
               },
-              "id": "CUBISM;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -8510,7 +8510,7 @@
               "enchantments": {
                 "cubism": 2
               },
-              "id": "CUBISM;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -8616,7 +8616,7 @@
               "enchantments": {
                 "cubism": 3
               },
-              "id": "CUBISM;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -8722,7 +8722,7 @@
               "enchantments": {
                 "cubism": 4
               },
-              "id": "CUBISM;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -8828,7 +8828,7 @@
               "enchantments": {
                 "cubism": 5
               },
-              "id": "CUBISM;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -8933,7 +8933,7 @@
               "enchantments": {
                 "cubism": 6
               },
-              "id": "CUBISM;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -9051,7 +9051,7 @@
               "enchantments": {
                 "cultivating": 1
               },
-              "id": "CULTIVATING;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -9301,7 +9301,7 @@
               "enchantments": {
                 "dedication": 2
               },
-              "id": "DEDICATION;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -9407,7 +9407,7 @@
               "enchantments": {
                 "dedication": 3
               },
-              "id": "DEDICATION;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -9513,7 +9513,7 @@
               "enchantments": {
                 "dedication": 4
               },
-              "id": "DEDICATION;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -9731,7 +9731,7 @@
               "enchantments": {
                 "depth_strider": 1
               },
-              "id": "DEPTH_STRIDER;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -9829,7 +9829,7 @@
               "enchantments": {
                 "depth_strider": 2
               },
-              "id": "DEPTH_STRIDER;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -9930,7 +9930,7 @@
               "enchantments": {
                 "depth_strider": 3
               },
-              "id": "DEPTH_STRIDER;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -10034,7 +10034,7 @@
               "enchantments": {
                 "divine_gift": 1
               },
-              "id": "DIVINE_GIFT;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -10128,7 +10128,7 @@
               "enchantments": {
                 "divine_gift": 2
               },
-              "id": "DIVINE_GIFT;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -10222,7 +10222,7 @@
               "enchantments": {
                 "divine_gift": 3
               },
-              "id": "DIVINE_GIFT;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -10324,7 +10324,7 @@
               "enchantments": {
                 "dragon_hunter": 1
               },
-              "id": "DRAGON_HUNTER;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -10422,7 +10422,7 @@
               "enchantments": {
                 "dragon_hunter": 2
               },
-              "id": "DRAGON_HUNTER;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -10520,7 +10520,7 @@
               "enchantments": {
                 "dragon_hunter": 3
               },
-              "id": "DRAGON_HUNTER;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -10618,7 +10618,7 @@
               "enchantments": {
                 "dragon_hunter": 4
               },
-              "id": "DRAGON_HUNTER;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -10716,7 +10716,7 @@
               "enchantments": {
                 "dragon_hunter": 5
               },
-              "id": "DRAGON_HUNTER;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -11415,7 +11415,7 @@
               "enchantments": {
                 "ender_slayer": 1
               },
-              "id": "ENDER_SLAYER;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -11513,7 +11513,7 @@
               "enchantments": {
                 "ender_slayer": 2
               },
-              "id": "ENDER_SLAYER;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -11611,7 +11611,7 @@
               "enchantments": {
                 "ender_slayer": 3
               },
-              "id": "ENDER_SLAYER;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -11709,7 +11709,7 @@
               "enchantments": {
                 "ender_slayer": 4
               },
-              "id": "ENDER_SLAYER;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -11807,7 +11807,7 @@
               "enchantments": {
                 "ender_slayer": 5
               },
-              "id": "ENDER_SLAYER;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -12009,7 +12009,7 @@
               "enchantments": {
                 "ender_slayer": 7
               },
-              "id": "ENDER_SLAYER;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -12118,7 +12118,7 @@
               "enchantments": {
                 "execute": 1
               },
-              "id": "EXECUTE;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -12232,7 +12232,7 @@
               "enchantments": {
                 "execute": 2
               },
-              "id": "EXECUTE;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -12346,7 +12346,7 @@
               "enchantments": {
                 "execute": 3
               },
-              "id": "EXECUTE;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -12460,7 +12460,7 @@
               "enchantments": {
                 "execute": 4
               },
-              "id": "EXECUTE;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -12573,7 +12573,7 @@
               "enchantments": {
                 "execute": 5
               },
-              "id": "EXECUTE;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -12683,7 +12683,7 @@
               "enchantments": {
                 "execute": 6
               },
-              "id": "EXECUTE;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -12801,7 +12801,7 @@
               "enchantments": {
                 "experience": 1
               },
-              "id": "EXPERIENCE;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -12911,7 +12911,7 @@
               "enchantments": {
                 "experience": 2
               },
-              "id": "EXPERIENCE;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -13021,7 +13021,7 @@
               "enchantments": {
                 "experience": 3
               },
-              "id": "EXPERIENCE;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -13132,7 +13132,7 @@
               "enchantments": {
                 "experience": 4
               },
-              "id": "EXPERIENCE;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -13241,7 +13241,7 @@
               "enchantments": {
                 "experience": 5
               },
-              "id": "EXPERIENCE;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -13977,7 +13977,7 @@
               "enchantments": {
                 "feather_falling": 1
               },
-              "id": "FEATHER_FALLING;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -14171,7 +14171,7 @@
               "enchantments": {
                 "feather_falling": 2
               },
-              "id": "FEATHER_FALLING;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -14265,7 +14265,7 @@
               "enchantments": {
                 "feather_falling": 3
               },
-              "id": "FEATHER_FALLING;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -14359,7 +14359,7 @@
               "enchantments": {
                 "feather_falling": 4
               },
-              "id": "FEATHER_FALLING;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -14453,7 +14453,7 @@
               "enchantments": {
                 "feather_falling": 5
               },
-              "id": "FEATHER_FALLING;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -14958,7 +14958,7 @@
               "enchantments": {
                 "ferocious_mana": 1
               },
-              "id": "FEROCIOUS_MANA;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -15068,7 +15068,7 @@
               "enchantments": {
                 "ferocious_mana": 10
               },
-              "id": "FEROCIOUS_MANA;10"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -15178,7 +15178,7 @@
               "enchantments": {
                 "ferocious_mana": 2
               },
-              "id": "FEROCIOUS_MANA;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -15287,7 +15287,7 @@
               "enchantments": {
                 "ferocious_mana": 3
               },
-              "id": "FEROCIOUS_MANA;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -15397,7 +15397,7 @@
               "enchantments": {
                 "ferocious_mana": 4
               },
-              "id": "FEROCIOUS_MANA;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -15507,7 +15507,7 @@
               "enchantments": {
                 "ferocious_mana": 5
               },
-              "id": "FEROCIOUS_MANA;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -15617,7 +15617,7 @@
               "enchantments": {
                 "ferocious_mana": 6
               },
-              "id": "FEROCIOUS_MANA;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -15727,7 +15727,7 @@
               "enchantments": {
                 "ferocious_mana": 7
               },
-              "id": "FEROCIOUS_MANA;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -15837,7 +15837,7 @@
               "enchantments": {
                 "ferocious_mana": 8
               },
-              "id": "FEROCIOUS_MANA;8"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -15947,7 +15947,7 @@
               "enchantments": {
                 "ferocious_mana": 9
               },
-              "id": "FEROCIOUS_MANA;9"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -16062,7 +16062,7 @@
               "enchantments": {
                 "fire_aspect": 1
               },
-              "id": "FIRE_ASPECT;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -16164,7 +16164,7 @@
               "enchantments": {
                 "fire_aspect": 2
               },
-              "id": "FIRE_ASPECT;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -16383,7 +16383,7 @@
               "enchantments": {
                 "fire_protection": 1
               },
-              "id": "FIRE_PROTECTION;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -16488,7 +16488,7 @@
               "enchantments": {
                 "fire_protection": 2
               },
-              "id": "FIRE_PROTECTION;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -16593,7 +16593,7 @@
               "enchantments": {
                 "fire_protection": 3
               },
-              "id": "FIRE_PROTECTION;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -16698,7 +16698,7 @@
               "enchantments": {
                 "fire_protection": 4
               },
-              "id": "FIRE_PROTECTION;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -16803,7 +16803,7 @@
               "enchantments": {
                 "fire_protection": 5
               },
-              "id": "FIRE_PROTECTION;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§aEnchanted Book"
@@ -17027,7 +17027,7 @@
               "enchantments": {
                 "fire_protection": 7
               },
-              "id": "FIRE_PROTECTION;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§5Enchanted Book"
@@ -17141,7 +17141,7 @@
               "enchantments": {
                 "first_strike": 1
               },
-              "id": "FIRST_STRIKE;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -17255,7 +17255,7 @@
               "enchantments": {
                 "first_strike": 2
               },
-              "id": "FIRST_STRIKE;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -17369,7 +17369,7 @@
               "enchantments": {
                 "first_strike": 3
               },
-              "id": "FIRST_STRIKE;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -17483,7 +17483,7 @@
               "enchantments": {
                 "first_strike": 4
               },
-              "id": "FIRST_STRIKE;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -17596,7 +17596,7 @@
               "enchantments": {
                 "first_strike": 5
               },
-              "id": "FIRST_STRIKE;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -17707,7 +17707,7 @@
               "enchantments": {
                 "flame": 1
               },
-              "id": "FLAME;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -17793,7 +17793,7 @@
               "enchantments": {
                 "flame": 2
               },
-              "id": "FLAME;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -18127,7 +18127,7 @@
               "enchantments": {
                 "fortune": 1
               },
-              "id": "FORTUNE;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -18238,7 +18238,7 @@
               "enchantments": {
                 "fortune": 2
               },
-              "id": "FORTUNE;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -18348,7 +18348,7 @@
               "enchantments": {
                 "fortune": 3
               },
-              "id": "FORTUNE;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -18581,7 +18581,7 @@
               "enchantments": {
                 "frail": 1
               },
-              "id": "FRAIL;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -18671,7 +18671,7 @@
               "enchantments": {
                 "frail": 2
               },
-              "id": "FRAIL;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -18761,7 +18761,7 @@
               "enchantments": {
                 "frail": 3
               },
-              "id": "FRAIL;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -18851,7 +18851,7 @@
               "enchantments": {
                 "frail": 4
               },
-              "id": "FRAIL;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -18941,7 +18941,7 @@
               "enchantments": {
                 "frail": 5
               },
-              "id": "FRAIL;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -19137,7 +19137,7 @@
               "enchantments": {
                 "frost_walker": 1
               },
-              "id": "FROST_WALKER;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -19239,7 +19239,7 @@
               "enchantments": {
                 "frost_walker": 2
               },
-              "id": "FROST_WALKER;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -19353,7 +19353,7 @@
               "enchantments": {
                 "giant_killer": 1
               },
-              "id": "GIANT_KILLER;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -19471,7 +19471,7 @@
               "enchantments": {
                 "giant_killer": 2
               },
-              "id": "GIANT_KILLER;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -19589,7 +19589,7 @@
               "enchantments": {
                 "giant_killer": 3
               },
-              "id": "GIANT_KILLER;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -19707,7 +19707,7 @@
               "enchantments": {
                 "giant_killer": 4
               },
-              "id": "GIANT_KILLER;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -19825,7 +19825,7 @@
               "enchantments": {
                 "giant_killer": 5
               },
-              "id": "GIANT_KILLER;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -19943,7 +19943,7 @@
               "enchantments": {
                 "giant_killer": 6
               },
-              "id": "GIANT_KILLER;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -20061,7 +20061,7 @@
               "enchantments": {
                 "giant_killer": 7
               },
-              "id": "GIANT_KILLER;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -20174,7 +20174,7 @@
               "enchantments": {
                 "great_spook": 1
               },
-              "id": "GREAT_SPOOK;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -20260,7 +20260,7 @@
               "enchantments": {
                 "green_thumb": 1
               },
-              "id": "GREEN_THUMB;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -20366,7 +20366,7 @@
               "enchantments": {
                 "green_thumb": 2
               },
-              "id": "GREEN_THUMB;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -20472,7 +20472,7 @@
               "enchantments": {
                 "green_thumb": 3
               },
-              "id": "GREEN_THUMB;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -20578,7 +20578,7 @@
               "enchantments": {
                 "green_thumb": 4
               },
-              "id": "GREEN_THUMB;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -20684,7 +20684,7 @@
               "enchantments": {
                 "green_thumb": 5
               },
-              "id": "GREEN_THUMB;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -20791,7 +20791,7 @@
               "enchantments": {
                 "growth": 1
               },
-              "id": "GROWTH;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -20873,7 +20873,7 @@
               "enchantments": {
                 "growth": 2
               },
-              "id": "GROWTH;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -20955,7 +20955,7 @@
               "enchantments": {
                 "growth": 3
               },
-              "id": "GROWTH;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -21037,7 +21037,7 @@
               "enchantments": {
                 "growth": 4
               },
-              "id": "GROWTH;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -21119,7 +21119,7 @@
               "enchantments": {
                 "growth": 5
               },
-              "id": "GROWTH;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -21201,7 +21201,7 @@
               "enchantments": {
                 "growth": 6
               },
-              "id": "GROWTH;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -21283,7 +21283,7 @@
               "enchantments": {
                 "growth": 7
               },
-              "id": "GROWTH;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -21378,7 +21378,7 @@
               "enchantments": {
                 "hardened_mana": 1
               },
-              "id": "HARDENED_MANA;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -21483,7 +21483,7 @@
               "enchantments": {
                 "hardened_mana": 10
               },
-              "id": "HARDENED_MANA;10"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -21589,7 +21589,7 @@
               "enchantments": {
                 "hardened_mana": 2
               },
-              "id": "HARDENED_MANA;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -21695,7 +21695,7 @@
               "enchantments": {
                 "hardened_mana": 3
               },
-              "id": "HARDENED_MANA;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -21801,7 +21801,7 @@
               "enchantments": {
                 "hardened_mana": 4
               },
-              "id": "HARDENED_MANA;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -21907,7 +21907,7 @@
               "enchantments": {
                 "hardened_mana": 5
               },
-              "id": "HARDENED_MANA;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -22013,7 +22013,7 @@
               "enchantments": {
                 "hardened_mana": 6
               },
-              "id": "HARDENED_MANA;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -22119,7 +22119,7 @@
               "enchantments": {
                 "hardened_mana": 7
               },
-              "id": "HARDENED_MANA;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -22225,7 +22225,7 @@
               "enchantments": {
                 "hardened_mana": 8
               },
-              "id": "HARDENED_MANA;8"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -22331,7 +22331,7 @@
               "enchantments": {
                 "hardened_mana": 9
               },
-              "id": "HARDENED_MANA;9"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -22440,7 +22440,7 @@
               "enchantments": {
                 "harvesting": 1
               },
-              "id": "HARVESTING;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -22530,7 +22530,7 @@
               "enchantments": {
                 "harvesting": 2
               },
-              "id": "HARVESTING;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -22620,7 +22620,7 @@
               "enchantments": {
                 "harvesting": 3
               },
-              "id": "HARVESTING;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -22710,7 +22710,7 @@
               "enchantments": {
                 "harvesting": 4
               },
-              "id": "HARVESTING;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -22800,7 +22800,7 @@
               "enchantments": {
                 "harvesting": 5
               },
-              "id": "HARVESTING;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -22889,7 +22889,7 @@
               "enchantments": {
                 "harvesting": 6
               },
-              "id": "HARVESTING;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -22995,7 +22995,7 @@
               "enchantments": {
                 "hecatomb": 1
               },
-              "id": "HECATOMB;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -23122,7 +23122,7 @@
               "enchantments": {
                 "ice_cold": 1
               },
-              "id": "ICE_COLD;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -23200,7 +23200,7 @@
               "enchantments": {
                 "ice_cold": 2
               },
-              "id": "ICE_COLD;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -23278,7 +23278,7 @@
               "enchantments": {
                 "ice_cold": 3
               },
-              "id": "ICE_COLD;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -23356,7 +23356,7 @@
               "enchantments": {
                 "ice_cold": 4
               },
-              "id": "ICE_COLD;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -23434,7 +23434,7 @@
               "enchantments": {
                 "ice_cold": 5
               },
-              "id": "ICE_COLD;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -23525,7 +23525,7 @@
               "enchantments": {
                 "impaling": 1
               },
-              "id": "IMPALING;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -23627,7 +23627,7 @@
               "enchantments": {
                 "impaling": 2
               },
-              "id": "IMPALING;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -23729,7 +23729,7 @@
               "enchantments": {
                 "impaling": 3
               },
-              "id": "IMPALING;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -23832,7 +23832,7 @@
               "enchantments": {
                 "impaling": 4
               },
-              "id": "IMPALING;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -23935,7 +23935,7 @@
               "enchantments": {
                 "impaling": 5
               },
-              "id": "IMPALING;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -24041,7 +24041,7 @@
               "enchantments": {
                 "infinite_quiver": 1
               },
-              "id": "INFINITE_QUIVER;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -24219,7 +24219,7 @@
               "enchantments": {
                 "infinite_quiver": 2
               },
-              "id": "INFINITE_QUIVER;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -24305,7 +24305,7 @@
               "enchantments": {
                 "infinite_quiver": 3
               },
-              "id": "INFINITE_QUIVER;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -24391,7 +24391,7 @@
               "enchantments": {
                 "infinite_quiver": 4
               },
-              "id": "INFINITE_QUIVER;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -24477,7 +24477,7 @@
               "enchantments": {
                 "infinite_quiver": 5
               },
-              "id": "INFINITE_QUIVER;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -25443,7 +25443,7 @@
               "enchantments": {
                 "knockback": 1
               },
-              "id": "KNOCKBACK;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -25541,7 +25541,7 @@
               "enchantments": {
                 "knockback": 2
               },
-              "id": "KNOCKBACK;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -25646,7 +25646,7 @@
               "enchantments": {
                 "lapidary": 1
               },
-              "id": "LAPIDARY;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -25744,7 +25744,7 @@
               "enchantments": {
                 "lapidary": 2
               },
-              "id": "LAPIDARY;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -25842,7 +25842,7 @@
               "enchantments": {
                 "lapidary": 3
               },
-              "id": "LAPIDARY;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -25940,7 +25940,7 @@
               "enchantments": {
                 "lapidary": 4
               },
-              "id": "LAPIDARY;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -26038,7 +26038,7 @@
               "enchantments": {
                 "lapidary": 5
               },
-              "id": "LAPIDARY;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -26145,7 +26145,7 @@
               "enchantments": {
                 "lethality": 1
               },
-              "id": "LETHALITY;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -26251,7 +26251,7 @@
               "enchantments": {
                 "lethality": 2
               },
-              "id": "LETHALITY;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -26357,7 +26357,7 @@
               "enchantments": {
                 "lethality": 3
               },
-              "id": "LETHALITY;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -26463,7 +26463,7 @@
               "enchantments": {
                 "lethality": 4
               },
-              "id": "LETHALITY;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -26569,7 +26569,7 @@
               "enchantments": {
                 "lethality": 5
               },
-              "id": "LETHALITY;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -26675,7 +26675,7 @@
               "enchantments": {
                 "lethality": 6
               },
-              "id": "LETHALITY;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -26790,7 +26790,7 @@
               "enchantments": {
                 "life_steal": 1
               },
-              "id": "LIFE_STEAL;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -27017,7 +27017,7 @@
               "enchantments": {
                 "life_steal": 3
               },
-              "id": "LIFE_STEAL;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -27261,7 +27261,7 @@
               "enchantments": {
                 "life_steal": 5
               },
-              "id": "LIFE_STEAL;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§aEnchanted Book"
@@ -27383,7 +27383,7 @@
               "enchantments": {
                 "looting": 1
               },
-              "id": "LOOTING;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -27489,7 +27489,7 @@
               "enchantments": {
                 "looting": 2
               },
-              "id": "LOOTING;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -27595,7 +27595,7 @@
               "enchantments": {
                 "looting": 3
               },
-              "id": "LOOTING;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -27701,7 +27701,7 @@
               "enchantments": {
                 "looting": 4
               },
-              "id": "LOOTING;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -27806,7 +27806,7 @@
               "enchantments": {
                 "looting": 5
               },
-              "id": "LOOTING;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -27916,7 +27916,7 @@
               "enchantments": {
                 "luck": 1
               },
-              "id": "LUCK;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -28018,7 +28018,7 @@
               "enchantments": {
                 "luck": 2
               },
-              "id": "LUCK;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -28120,7 +28120,7 @@
               "enchantments": {
                 "luck": 3
               },
-              "id": "LUCK;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -28222,7 +28222,7 @@
               "enchantments": {
                 "luck": 4
               },
-              "id": "LUCK;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -28324,7 +28324,7 @@
               "enchantments": {
                 "luck": 5
               },
-              "id": "LUCK;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -28426,7 +28426,7 @@
               "enchantments": {
                 "luck": 6
               },
-              "id": "LUCK;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -28527,7 +28527,7 @@
               "enchantments": {
                 "luck": 7
               },
-              "id": "LUCK;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -28631,7 +28631,7 @@
               "enchantments": {
                 "luck_of_the_sea": 1
               },
-              "id": "LUCK_OF_THE_SEA;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -28721,7 +28721,7 @@
               "enchantments": {
                 "luck_of_the_sea": 2
               },
-              "id": "LUCK_OF_THE_SEA;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -28814,7 +28814,7 @@
               "enchantments": {
                 "luck_of_the_sea": 3
               },
-              "id": "LUCK_OF_THE_SEA;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -28907,7 +28907,7 @@
               "enchantments": {
                 "luck_of_the_sea": 4
               },
-              "id": "LUCK_OF_THE_SEA;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -29000,7 +29000,7 @@
               "enchantments": {
                 "luck_of_the_sea": 5
               },
-              "id": "LUCK_OF_THE_SEA;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§aEnchanted Book"
@@ -29183,7 +29183,7 @@
               "enchantments": {
                 "lure": 1
               },
-              "id": "LURE;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -29277,7 +29277,7 @@
               "enchantments": {
                 "lure": 2
               },
-              "id": "LURE;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -29371,7 +29371,7 @@
               "enchantments": {
                 "lure": 3
               },
-              "id": "LURE;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -29465,7 +29465,7 @@
               "enchantments": {
                 "lure": 4
               },
-              "id": "LURE;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -29559,7 +29559,7 @@
               "enchantments": {
                 "lure": 5
               },
-              "id": "LURE;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -29761,7 +29761,7 @@
               "enchantments": {
                 "magmarizer": 1
               },
-              "id": "MAGMARIZER;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -29859,7 +29859,7 @@
               "enchantments": {
                 "magmarizer": 2
               },
-              "id": "MAGMARIZER;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -29957,7 +29957,7 @@
               "enchantments": {
                 "magmarizer": 3
               },
-              "id": "MAGMARIZER;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -30055,7 +30055,7 @@
               "enchantments": {
                 "magmarizer": 4
               },
-              "id": "MAGMARIZER;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -30153,7 +30153,7 @@
               "enchantments": {
                 "magmarizer": 5
               },
-              "id": "MAGMARIZER;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -30251,7 +30251,7 @@
               "enchantments": {
                 "magmarizer": 6
               },
-              "id": "MAGMARIZER;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -30355,7 +30355,7 @@
               "enchantments": {
                 "magnet": 1
               },
-              "id": "MAGNET;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -30449,7 +30449,7 @@
               "enchantments": {
                 "magnet": 2
               },
-              "id": "MAGNET;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -30543,7 +30543,7 @@
               "enchantments": {
                 "magnet": 3
               },
-              "id": "MAGNET;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -30637,7 +30637,7 @@
               "enchantments": {
                 "magnet": 4
               },
-              "id": "MAGNET;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -30731,7 +30731,7 @@
               "enchantments": {
                 "magnet": 5
               },
-              "id": "MAGNET;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -31056,7 +31056,7 @@
               "enchantments": {
                 "mana_steal": 2
               },
-              "id": "MANA_STEAL;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -31167,7 +31167,7 @@
               "enchantments": {
                 "mana_steal": 3
               },
-              "id": "MANA_STEAL;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -31283,7 +31283,7 @@
               "enchantments": {
                 "mana_vampire": 1
               },
-              "id": "MANA_VAMPIRE;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -31384,7 +31384,7 @@
               "enchantments": {
                 "mana_vampire": 10
               },
-              "id": "MANA_VAMPIRE;10"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -31486,7 +31486,7 @@
               "enchantments": {
                 "mana_vampire": 2
               },
-              "id": "MANA_VAMPIRE;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -31588,7 +31588,7 @@
               "enchantments": {
                 "mana_vampire": 3
               },
-              "id": "MANA_VAMPIRE;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -31690,7 +31690,7 @@
               "enchantments": {
                 "mana_vampire": 4
               },
-              "id": "MANA_VAMPIRE;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -31792,7 +31792,7 @@
               "enchantments": {
                 "mana_vampire": 5
               },
-              "id": "MANA_VAMPIRE;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -31894,7 +31894,7 @@
               "enchantments": {
                 "mana_vampire": 6
               },
-              "id": "MANA_VAMPIRE;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -31996,7 +31996,7 @@
               "enchantments": {
                 "mana_vampire": 7
               },
-              "id": "MANA_VAMPIRE;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -32098,7 +32098,7 @@
               "enchantments": {
                 "mana_vampire": 8
               },
-              "id": "MANA_VAMPIRE;8"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -32200,7 +32200,7 @@
               "enchantments": {
                 "mana_vampire": 9
               },
-              "id": "MANA_VAMPIRE;9"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -32308,7 +32308,7 @@
               "enchantments": {
                 "overload": 1
               },
-              "id": "OVERLOAD;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -32407,7 +32407,7 @@
               "enchantments": {
                 "overload": 2
               },
-              "id": "OVERLOAD;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -32505,7 +32505,7 @@
               "enchantments": {
                 "overload": 3
               },
-              "id": "OVERLOAD;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -32603,7 +32603,7 @@
               "enchantments": {
                 "overload": 4
               },
-              "id": "OVERLOAD;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -32701,7 +32701,7 @@
               "enchantments": {
                 "overload": 5
               },
-              "id": "OVERLOAD;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -32806,7 +32806,7 @@
               "enchantments": {
                 "paleontologist": 1
               },
-              "id": "PALEONTOLOGIST;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -32904,7 +32904,7 @@
               "enchantments": {
                 "paleontologist": 2
               },
-              "id": "PALEONTOLOGIST;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -33002,7 +33002,7 @@
               "enchantments": {
                 "paleontologist": 3
               },
-              "id": "PALEONTOLOGIST;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -33100,7 +33100,7 @@
               "enchantments": {
                 "paleontologist": 4
               },
-              "id": "PALEONTOLOGIST;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -33198,7 +33198,7 @@
               "enchantments": {
                 "paleontologist": 5
               },
-              "id": "PALEONTOLOGIST;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -33410,7 +33410,7 @@
               "enchantments": {
                 "pesterminator": 2
               },
-              "id": "PESTERMINATOR;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -33518,7 +33518,7 @@
               "enchantments": {
                 "pesterminator": 3
               },
-              "id": "PESTERMINATOR;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -33626,7 +33626,7 @@
               "enchantments": {
                 "pesterminator": 4
               },
-              "id": "PESTERMINATOR;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -33734,7 +33734,7 @@
               "enchantments": {
                 "pesterminator": 5
               },
-              "id": "PESTERMINATOR;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -33842,7 +33842,7 @@
               "enchantments": {
                 "pesterminator": 6
               },
-              "id": "PESTERMINATOR;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -34436,7 +34436,7 @@
               "enchantments": {
                 "piercing": 1
               },
-              "id": "PIERCING;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -34528,7 +34528,7 @@
               "enchantments": {
                 "piscary": 1
               },
-              "id": "PISCARY;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -34610,7 +34610,7 @@
               "enchantments": {
                 "piscary": 2
               },
-              "id": "PISCARY;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -34692,7 +34692,7 @@
               "enchantments": {
                 "piscary": 3
               },
-              "id": "PISCARY;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -34774,7 +34774,7 @@
               "enchantments": {
                 "piscary": 4
               },
-              "id": "PISCARY;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -34856,7 +34856,7 @@
               "enchantments": {
                 "piscary": 5
               },
-              "id": "PISCARY;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -34939,7 +34939,7 @@
               "enchantments": {
                 "piscary": 6
               },
-              "id": "PISCARY;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -35031,7 +35031,7 @@
               "enchantments": {
                 "power": 1
               },
-              "id": "POWER;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -35113,7 +35113,7 @@
               "enchantments": {
                 "power": 2
               },
-              "id": "POWER;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -35195,7 +35195,7 @@
               "enchantments": {
                 "power": 3
               },
-              "id": "POWER;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -35277,7 +35277,7 @@
               "enchantments": {
                 "power": 4
               },
-              "id": "POWER;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -35359,7 +35359,7 @@
               "enchantments": {
                 "power": 5
               },
-              "id": "POWER;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -35533,7 +35533,7 @@
               "enchantments": {
                 "power": 7
               },
-              "id": "POWER;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -35724,7 +35724,7 @@
               "enchantments": {
                 "pristine": 2
               },
-              "id": "PRISTINE;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -35823,7 +35823,7 @@
               "enchantments": {
                 "pristine": 3
               },
-              "id": "PRISTINE;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -35922,7 +35922,7 @@
               "enchantments": {
                 "pristine": 4
               },
-              "id": "PRISTINE;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -36021,7 +36021,7 @@
               "enchantments": {
                 "pristine": 5
               },
-              "id": "PRISTINE;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -36129,7 +36129,7 @@
               "enchantments": {
                 "projectile_protection": 1
               },
-              "id": "PROJECTILE_PROTECTION;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -36235,7 +36235,7 @@
               "enchantments": {
                 "projectile_protection": 2
               },
-              "id": "PROJECTILE_PROTECTION;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -36341,7 +36341,7 @@
               "enchantments": {
                 "projectile_protection": 3
               },
-              "id": "PROJECTILE_PROTECTION;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -36447,7 +36447,7 @@
               "enchantments": {
                 "projectile_protection": 4
               },
-              "id": "PROJECTILE_PROTECTION;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -36553,7 +36553,7 @@
               "enchantments": {
                 "projectile_protection": 5
               },
-              "id": "PROJECTILE_PROTECTION;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -36770,7 +36770,7 @@
               "enchantments": {
                 "projectile_protection": 7
               },
-              "id": "PROJECTILE_PROTECTION;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -36881,7 +36881,7 @@
               "enchantments": {
                 "PROSECUTE": 1
               },
-              "id": "PROSECUTE;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -36991,7 +36991,7 @@
               "enchantments": {
                 "PROSECUTE": 2
               },
-              "id": "PROSECUTE;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -37101,7 +37101,7 @@
               "enchantments": {
                 "PROSECUTE": 3
               },
-              "id": "PROSECUTE;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -37211,7 +37211,7 @@
               "enchantments": {
                 "PROSECUTE": 4
               },
-              "id": "PROSECUTE;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -37321,7 +37321,7 @@
               "enchantments": {
                 "PROSECUTE": 5
               },
-              "id": "PROSECUTE;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -37431,7 +37431,7 @@
               "enchantments": {
                 "PROSECUTE": 6
               },
-              "id": "PROSECUTE;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -37545,7 +37545,7 @@
               "enchantments": {
                 "prosperity": 1
               },
-              "id": "PROSPERITY;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -37639,7 +37639,7 @@
               "enchantments": {
                 "prosperity": 2
               },
-              "id": "PROSPERITY;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -37733,7 +37733,7 @@
               "enchantments": {
                 "prosperity": 3
               },
-              "id": "PROSPERITY;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -37827,7 +37827,7 @@
               "enchantments": {
                 "prosperity": 4
               },
-              "id": "PROSPERITY;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -37921,7 +37921,7 @@
               "enchantments": {
                 "prosperity": 5
               },
-              "id": "PROSPERITY;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -38024,7 +38024,7 @@
               "enchantments": {
                 "protection": 1
               },
-              "id": "PROTECTION;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -38126,7 +38126,7 @@
               "enchantments": {
                 "protection": 2
               },
-              "id": "PROTECTION;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -38228,7 +38228,7 @@
               "enchantments": {
                 "protection": 3
               },
-              "id": "PROTECTION;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -38330,7 +38330,7 @@
               "enchantments": {
                 "protection": 4
               },
-              "id": "PROTECTION;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -38432,7 +38432,7 @@
               "enchantments": {
                 "protection": 5
               },
-              "id": "PROTECTION;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -38534,7 +38534,7 @@
               "enchantments": {
                 "protection": 6
               },
-              "id": "PROTECTION;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -38636,7 +38636,7 @@
               "enchantments": {
                 "protection": 7
               },
-              "id": "PROTECTION;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -38741,7 +38741,7 @@
               "enchantments": {
                 "punch": 1
               },
-              "id": "PUNCH;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -38827,7 +38827,7 @@
               "enchantments": {
                 "punch": 2
               },
-              "id": "PUNCH;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -39286,7 +39286,7 @@
               "enchantments": {
                 "quick_bite": 2
               },
-              "id": "QUICK_BITE;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -39368,7 +39368,7 @@
               "enchantments": {
                 "quick_bite": 3
               },
-              "id": "QUICK_BITE;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -39450,7 +39450,7 @@
               "enchantments": {
                 "quick_bite": 4
               },
-              "id": "QUICK_BITE;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -39532,7 +39532,7 @@
               "enchantments": {
                 "quick_bite": 5
               },
-              "id": "QUICK_BITE;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -39622,7 +39622,7 @@
               "enchantments": {
                 "rainbow": 1
               },
-              "id": "RAINBOW;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -39708,7 +39708,7 @@
               "enchantments": {
                 "rainbow": 2
               },
-              "id": "RAINBOW;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -39796,7 +39796,7 @@
               "enchantments": {
                 "rainbow": 3
               },
-              "id": "RAINBOW;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -40010,7 +40010,7 @@
               "enchantments": {
                 "reflection": 2
               },
-              "id": "REFLECTION;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -40111,7 +40111,7 @@
               "enchantments": {
                 "reflection": 3
               },
-              "id": "REFLECTION;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -40212,7 +40212,7 @@
               "enchantments": {
                 "reflection": 4
               },
-              "id": "REFLECTION;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -40313,7 +40313,7 @@
               "enchantments": {
                 "reflection": 5
               },
-              "id": "REFLECTION;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§aEnchanted Book"
@@ -40522,7 +40522,7 @@
               "enchantments": {
                 "rejuvenate": 2
               },
-              "id": "REJUVENATE;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -40616,7 +40616,7 @@
               "enchantments": {
                 "rejuvenate": 3
               },
-              "id": "REJUVENATE;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -40710,7 +40710,7 @@
               "enchantments": {
                 "rejuvenate": 4
               },
-              "id": "REJUVENATE;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -40804,7 +40804,7 @@
               "enchantments": {
                 "rejuvenate": 5
               },
-              "id": "REJUVENATE;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§aEnchanted Book"
@@ -41010,7 +41010,7 @@
               "enchantments": {
                 "respiration": 1
               },
-              "id": "RESPIRATION;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -41104,7 +41104,7 @@
               "enchantments": {
                 "respiration": 2
               },
-              "id": "RESPIRATION;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -41197,7 +41197,7 @@
               "enchantments": {
                 "respiration": 3
               },
-              "id": "RESPIRATION;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -41496,7 +41496,7 @@
               "enchantments": {
                 "respite": 2
               },
-              "id": "RESPITE;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -41598,7 +41598,7 @@
               "enchantments": {
                 "respite": 3
               },
-              "id": "RESPITE;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -41701,7 +41701,7 @@
               "enchantments": {
                 "respite": 4
               },
-              "id": "RESPITE;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -41797,7 +41797,7 @@
               "enchantments": {
                 "respite": 5
               },
-              "id": "RESPITE;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -41899,7 +41899,7 @@
               "enchantments": {
                 "scavenger": 1
               },
-              "id": "SCAVENGER;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -41997,7 +41997,7 @@
               "enchantments": {
                 "scavenger": 2
               },
-              "id": "SCAVENGER;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -42095,7 +42095,7 @@
               "enchantments": {
                 "scavenger": 3
               },
-              "id": "SCAVENGER;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -42193,7 +42193,7 @@
               "enchantments": {
                 "scavenger": 4
               },
-              "id": "SCAVENGER;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -42291,7 +42291,7 @@
               "enchantments": {
                 "scavenger": 5
               },
-              "id": "SCAVENGER;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -42778,7 +42778,7 @@
               "enchantments": {
                 "sharpness": 1
               },
-              "id": "SHARPNESS;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -42877,7 +42877,7 @@
               "enchantments": {
                 "sharpness": 2
               },
-              "id": "SHARPNESS;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -42975,7 +42975,7 @@
               "enchantments": {
                 "sharpness": 3
               },
-              "id": "SHARPNESS;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -43073,7 +43073,7 @@
               "enchantments": {
                 "sharpness": 4
               },
-              "id": "SHARPNESS;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -43171,7 +43171,7 @@
               "enchantments": {
                 "sharpness": 5
               },
-              "id": "SHARPNESS;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -43270,7 +43270,7 @@
               "enchantments": {
                 "sharpness": 6
               },
-              "id": "SHARPNESS;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -43371,7 +43371,7 @@
               "enchantments": {
                 "sharpness": 7
               },
-              "id": "SHARPNESS;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -43477,7 +43477,7 @@
               "enchantments": {
                 "silk_touch": 1
               },
-              "id": "SILK_TOUCH;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -43687,7 +43687,7 @@
               "enchantments": {
                 "small_brain": 4
               },
-              "id": "SMALL_BRAIN;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -43780,7 +43780,7 @@
               "enchantments": {
                 "small_brain": 5
               },
-              "id": "SMALL_BRAIN;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -43876,7 +43876,7 @@
               "enchantments": {
                 "smarty_pants": 1
               },
-              "id": "SMARTY_PANTS;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -43955,7 +43955,7 @@
               "enchantments": {
                 "smarty_pants": 2
               },
-              "id": "SMARTY_PANTS;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -44034,7 +44034,7 @@
               "enchantments": {
                 "smarty_pants": 3
               },
-              "id": "SMARTY_PANTS;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -44113,7 +44113,7 @@
               "enchantments": {
                 "smarty_pants": 4
               },
-              "id": "SMARTY_PANTS;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -44192,7 +44192,7 @@
               "enchantments": {
                 "smarty_pants": 5
               },
-              "id": "SMARTY_PANTS;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -44287,7 +44287,7 @@
               "enchantments": {
                 "smelting_touch": 1
               },
-              "id": "SMELTING_TOUCH;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -44404,7 +44404,7 @@
               "enchantments": {
                 "smite": 1
               },
-              "id": "SMITE;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -44502,7 +44502,7 @@
               "enchantments": {
                 "smite": 2
               },
-              "id": "SMITE;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -44600,7 +44600,7 @@
               "enchantments": {
                 "smite": 3
               },
-              "id": "SMITE;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -44698,7 +44698,7 @@
               "enchantments": {
                 "smite": 4
               },
-              "id": "SMITE;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -44796,7 +44796,7 @@
               "enchantments": {
                 "smite": 5
               },
-              "id": "SMITE;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -44982,7 +44982,7 @@
               "enchantments": {
                 "smite": 7
               },
-              "id": "SMITE;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -45075,7 +45075,7 @@
               "enchantments": {
                 "smoldering": 1
               },
-              "id": "SMOLDERING;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -45173,7 +45173,7 @@
               "enchantments": {
                 "smoldering": 2
               },
-              "id": "SMOLDERING;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -45271,7 +45271,7 @@
               "enchantments": {
                 "smoldering": 3
               },
-              "id": "SMOLDERING;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -45369,7 +45369,7 @@
               "enchantments": {
                 "smoldering": 4
               },
-              "id": "SMOLDERING;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -45467,7 +45467,7 @@
               "enchantments": {
                 "smoldering": 5
               },
-              "id": "SMOLDERING;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -45569,7 +45569,7 @@
               "enchantments": {
                 "snipe": 1
               },
-              "id": "SNIPE;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -45655,7 +45655,7 @@
               "enchantments": {
                 "snipe": 2
               },
-              "id": "SNIPE;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -45741,7 +45741,7 @@
               "enchantments": {
                 "snipe": 3
               },
-              "id": "SNIPE;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -45827,7 +45827,7 @@
               "enchantments": {
                 "snipe": 4
               },
-              "id": "SNIPE;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -45919,7 +45919,7 @@
               "enchantments": {
                 "spiked_hook": 1
               },
-              "id": "SPIKED_HOOK;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -46009,7 +46009,7 @@
               "enchantments": {
                 "spiked_hook": 2
               },
-              "id": "SPIKED_HOOK;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -46099,7 +46099,7 @@
               "enchantments": {
                 "spiked_hook": 3
               },
-              "id": "SPIKED_HOOK;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -46189,7 +46189,7 @@
               "enchantments": {
                 "spiked_hook": 4
               },
-              "id": "SPIKED_HOOK;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -46279,7 +46279,7 @@
               "enchantments": {
                 "spiked_hook": 5
               },
-              "id": "SPIKED_HOOK;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -46571,7 +46571,7 @@
               "enchantments": {
                 "strong_mana": 1
               },
-              "id": "STRONG_MANA;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -46676,7 +46676,7 @@
               "enchantments": {
                 "strong_mana": 10
               },
-              "id": "STRONG_MANA;10"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -46782,7 +46782,7 @@
               "enchantments": {
                 "strong_mana": 2
               },
-              "id": "STRONG_MANA;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -46888,7 +46888,7 @@
               "enchantments": {
                 "strong_mana": 3
               },
-              "id": "STRONG_MANA;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -46994,7 +46994,7 @@
               "enchantments": {
                 "strong_mana": 4
               },
-              "id": "STRONG_MANA;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -47100,7 +47100,7 @@
               "enchantments": {
                 "strong_mana": 5
               },
-              "id": "STRONG_MANA;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -47206,7 +47206,7 @@
               "enchantments": {
                 "strong_mana": 6
               },
-              "id": "STRONG_MANA;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -47312,7 +47312,7 @@
               "enchantments": {
                 "strong_mana": 7
               },
-              "id": "STRONG_MANA;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -47418,7 +47418,7 @@
               "enchantments": {
                 "strong_mana": 8
               },
-              "id": "STRONG_MANA;8"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -47524,7 +47524,7 @@
               "enchantments": {
                 "strong_mana": 9
               },
-              "id": "STRONG_MANA;9"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -47630,7 +47630,7 @@
               "enchantments": {
                 "sugar_rush": 1
               },
-              "id": "SUGAR_RUSH;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -47708,7 +47708,7 @@
               "enchantments": {
                 "sugar_rush": 2
               },
-              "id": "SUGAR_RUSH;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -47786,7 +47786,7 @@
               "enchantments": {
                 "sugar_rush": 3
               },
-              "id": "SUGAR_RUSH;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -47979,7 +47979,7 @@
               "enchantments": {
                 "sunder": 2
               },
-              "id": "SUNDER;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -48073,7 +48073,7 @@
               "enchantments": {
                 "sunder": 3
               },
-              "id": "SUNDER;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -48167,7 +48167,7 @@
               "enchantments": {
                 "sunder": 4
               },
-              "id": "SUNDER;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -48261,7 +48261,7 @@
               "enchantments": {
                 "sunder": 5
               },
-              "id": "SUNDER;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -48355,7 +48355,7 @@
               "enchantments": {
                 "sunder": 6
               },
-              "id": "SUNDER;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -49232,7 +49232,7 @@
               "enchantments": {
                 "tabasco": 3
               },
-              "id": "TABASCO;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -49353,7 +49353,7 @@
               "enchantments": {
                 "telekinesis": 1
               },
-              "id": "TELEKINESIS;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -49477,7 +49477,7 @@
               "enchantments": {
                 "thorns": 1
               },
-              "id": "THORNS;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -49567,7 +49567,7 @@
               "enchantments": {
                 "thorns": 2
               },
-              "id": "THORNS;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -49657,7 +49657,7 @@
               "enchantments": {
                 "thorns": 3
               },
-              "id": "THORNS;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -49761,7 +49761,7 @@
               "enchantments": {
                 "thunderbolt": 1
               },
-              "id": "THUNDERBOLT;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -49875,7 +49875,7 @@
               "enchantments": {
                 "thunderbolt": 2
               },
-              "id": "THUNDERBOLT;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -49989,7 +49989,7 @@
               "enchantments": {
                 "thunderbolt": 3
               },
-              "id": "THUNDERBOLT;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -50103,7 +50103,7 @@
               "enchantments": {
                 "thunderbolt": 4
               },
-              "id": "THUNDERBOLT;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -50217,7 +50217,7 @@
               "enchantments": {
                 "thunderbolt": 5
               },
-              "id": "THUNDERBOLT;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -50459,7 +50459,7 @@
               "enchantments": {
                 "thunderbolt": 7
               },
-              "id": "THUNDERBOLT;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -50581,7 +50581,7 @@
               "enchantments": {
                 "thunderlord": 1
               },
-              "id": "THUNDERLORD;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -50695,7 +50695,7 @@
               "enchantments": {
                 "thunderlord": 2
               },
-              "id": "THUNDERLORD;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -50809,7 +50809,7 @@
               "enchantments": {
                 "thunderlord": 3
               },
-              "id": "THUNDERLORD;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -50923,7 +50923,7 @@
               "enchantments": {
                 "thunderlord": 4
               },
-              "id": "THUNDERLORD;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -51037,7 +51037,7 @@
               "enchantments": {
                 "thunderlord": 5
               },
-              "id": "THUNDERLORD;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -51274,7 +51274,7 @@
               "enchantments": {
                 "thunderlord": 7
               },
-              "id": "THUNDERLORD;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -51385,7 +51385,7 @@
               "enchantments": {
                 "tidal": 1
               },
-              "id": "TIDAL;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -51471,7 +51471,7 @@
               "enchantments": {
                 "tidal": 2
               },
-              "id": "TIDAL;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -51557,7 +51557,7 @@
               "enchantments": {
                 "tidal": 3
               },
-              "id": "TIDAL;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -51656,7 +51656,7 @@
               "enchantments": {
                 "titan_killer": 1
               },
-              "id": "TITAN_KILLER;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -51766,7 +51766,7 @@
               "enchantments": {
                 "titan_killer": 2
               },
-              "id": "TITAN_KILLER;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -51876,7 +51876,7 @@
               "enchantments": {
                 "titan_killer": 3
               },
-              "id": "TITAN_KILLER;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -51986,7 +51986,7 @@
               "enchantments": {
                 "titan_killer": 4
               },
-              "id": "TITAN_KILLER;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -52096,7 +52096,7 @@
               "enchantments": {
                 "titan_killer": 5
               },
-              "id": "TITAN_KILLER;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -52206,7 +52206,7 @@
               "enchantments": {
                 "titan_killer": 6
               },
-              "id": "TITAN_KILLER;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -52317,7 +52317,7 @@
               "enchantments": {
                 "titan_killer": 7
               },
-              "id": "TITAN_KILLER;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -52441,7 +52441,7 @@
               "enchantments": {
                 "toxophilite": 1
               },
-              "id": "TOXOPHILITE;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -52665,7 +52665,7 @@
               "enchantments": {
                 "transylvanian": 5
               },
-              "id": "TRANSYLVANIAN;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -52765,7 +52765,7 @@
               "enchantments": {
                 "triple_strike": 1
               },
-              "id": "TRIPLE_STRIKE;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -52879,7 +52879,7 @@
               "enchantments": {
                 "triple_strike": 2
               },
-              "id": "TRIPLE_STRIKE;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -52993,7 +52993,7 @@
               "enchantments": {
                 "triple_strike": 3
               },
-              "id": "TRIPLE_STRIKE;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -53107,7 +53107,7 @@
               "enchantments": {
                 "triple_strike": 4
               },
-              "id": "TRIPLE_STRIKE;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -53220,7 +53220,7 @@
               "enchantments": {
                 "triple_strike": 5
               },
-              "id": "TRIPLE_STRIKE;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -53330,7 +53330,7 @@
               "enchantments": {
                 "true_protection": 1
               },
-              "id": "TRUE_PROTECTION;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
@@ -53421,7 +53421,7 @@
               "enchantments": {
                 "turbo_cactus": 1
               },
-              "id": "TURBO_CACTUS;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -53512,7 +53512,7 @@
               "enchantments": {
                 "turbo_cactus": 2
               },
-              "id": "TURBO_CACTUS;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -53603,7 +53603,7 @@
               "enchantments": {
                 "turbo_cactus": 3
               },
-              "id": "TURBO_CACTUS;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -53695,7 +53695,7 @@
               "enchantments": {
                 "turbo_cactus": 4
               },
-              "id": "TURBO_CACTUS;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -53790,7 +53790,7 @@
               "enchantments": {
                 "turbo_cactus": 5
               },
-              "id": "TURBO_CACTUS;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -53884,7 +53884,7 @@
               "enchantments": {
                 "turbo_cactus": 6
               },
-              "id": "TURBO_CACTUS;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -53974,7 +53974,7 @@
               "enchantments": {
                 "turbo_cactus": 7
               },
-              "id": "TURBO_CACTUS;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -54071,7 +54071,7 @@
               "enchantments": {
                 "turbo_cane": 1
               },
-              "id": "TURBO_CANE;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -54161,7 +54161,7 @@
               "enchantments": {
                 "turbo_cane": 2
               },
-              "id": "TURBO_CANE;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -54251,7 +54251,7 @@
               "enchantments": {
                 "turbo_cane": 3
               },
-              "id": "TURBO_CANE;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -54343,7 +54343,7 @@
               "enchantments": {
                 "turbo_cane": 4
               },
-              "id": "TURBO_CANE;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -54438,7 +54438,7 @@
               "enchantments": {
                 "turbo_cane": 5
               },
-              "id": "TURBO_CANE;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -54532,7 +54532,7 @@
               "enchantments": {
                 "turbo_cane": 6
               },
-              "id": "TURBO_CANE;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -54622,7 +54622,7 @@
               "enchantments": {
                 "turbo_cane": 7
               },
-              "id": "TURBO_CANE;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -54819,7 +54819,7 @@
               "enchantments": {
                 "turbo_carrot": 2
               },
-              "id": "TURBO_CARROT;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -54910,7 +54910,7 @@
               "enchantments": {
                 "turbo_carrot": 3
               },
-              "id": "TURBO_CARROT;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -55002,7 +55002,7 @@
               "enchantments": {
                 "turbo_carrot": 4
               },
-              "id": "TURBO_CARROT;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -55097,7 +55097,7 @@
               "enchantments": {
                 "turbo_carrot": 5
               },
-              "id": "TURBO_CARROT;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -55191,7 +55191,7 @@
               "enchantments": {
                 "turbo_carrot": 6
               },
-              "id": "TURBO_CARROT;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -55281,7 +55281,7 @@
               "enchantments": {
                 "turbo_carrot": 7
               },
-              "id": "TURBO_CARROT;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -55378,7 +55378,7 @@
               "enchantments": {
                 "turbo_coco": 1
               },
-              "id": "TURBO_COCO;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -55468,7 +55468,7 @@
               "enchantments": {
                 "turbo_coco": 2
               },
-              "id": "TURBO_COCO;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -55559,7 +55559,7 @@
               "enchantments": {
                 "turbo_coco": 3
               },
-              "id": "TURBO_COCO;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -55651,7 +55651,7 @@
               "enchantments": {
                 "turbo_coco": 4
               },
-              "id": "TURBO_COCO;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -55746,7 +55746,7 @@
               "enchantments": {
                 "turbo_coco": 5
               },
-              "id": "TURBO_COCO;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -55840,7 +55840,7 @@
               "enchantments": {
                 "turbo_coco": 6
               },
-              "id": "TURBO_COCO;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -55930,7 +55930,7 @@
               "enchantments": {
                 "turbo_coco": 7
               },
-              "id": "TURBO_COCO;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -56127,7 +56127,7 @@
               "enchantments": {
                 "turbo_melon": 2
               },
-              "id": "TURBO_MELON;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -56218,7 +56218,7 @@
               "enchantments": {
                 "turbo_melon": 3
               },
-              "id": "TURBO_MELON;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -56310,7 +56310,7 @@
               "enchantments": {
                 "turbo_melon": 4
               },
-              "id": "TURBO_MELON;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -56405,7 +56405,7 @@
               "enchantments": {
                 "turbo_melon": 5
               },
-              "id": "TURBO_MELON;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -56499,7 +56499,7 @@
               "enchantments": {
                 "turbo_melon": 6
               },
-              "id": "TURBO_MELON;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -56589,7 +56589,7 @@
               "enchantments": {
                 "turbo_melon": 7
               },
-              "id": "TURBO_MELON;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -57194,7 +57194,7 @@
               "enchantments": {
                 "turbo_moonflower": 6
               },
-              "id": "TURBO_MOONFLOWER;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -57284,7 +57284,7 @@
               "enchantments": {
                 "turbo_moonflower": 7
               },
-              "id": "TURBO_MOONFLOWER;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -57481,7 +57481,7 @@
               "enchantments": {
                 "turbo_mushrooms": 2
               },
-              "id": "TURBO_MUSHROOMS;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -57572,7 +57572,7 @@
               "enchantments": {
                 "turbo_mushrooms": 3
               },
-              "id": "TURBO_MUSHROOMS;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -57664,7 +57664,7 @@
               "enchantments": {
                 "turbo_mushrooms": 4
               },
-              "id": "TURBO_MUSHROOMS;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -57759,7 +57759,7 @@
               "enchantments": {
                 "turbo_mushrooms": 5
               },
-              "id": "TURBO_MUSHROOMS;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -57853,7 +57853,7 @@
               "enchantments": {
                 "turbo_mushrooms": 6
               },
-              "id": "TURBO_MUSHROOMS;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -57943,7 +57943,7 @@
               "enchantments": {
                 "turbo_mushrooms": 7
               },
-              "id": "TURBO_MUSHROOMS;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -58140,7 +58140,7 @@
               "enchantments": {
                 "turbo_potato": 2
               },
-              "id": "TURBO_POTATO;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -58231,7 +58231,7 @@
               "enchantments": {
                 "turbo_potato": 3
               },
-              "id": "TURBO_POTATO;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -58323,7 +58323,7 @@
               "enchantments": {
                 "turbo_potato": 4
               },
-              "id": "TURBO_POTATO;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -58418,7 +58418,7 @@
               "enchantments": {
                 "turbo_potato": 5
               },
-              "id": "TURBO_POTATO;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -58512,7 +58512,7 @@
               "enchantments": {
                 "turbo_potato": 6
               },
-              "id": "TURBO_POTATO;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -58602,7 +58602,7 @@
               "enchantments": {
                 "turbo_potato": 7
               },
-              "id": "TURBO_POTATO;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -58799,7 +58799,7 @@
               "enchantments": {
                 "turbo_pumpkin": 2
               },
-              "id": "TURBO_PUMPKIN;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -58890,7 +58890,7 @@
               "enchantments": {
                 "turbo_pumpkin": 3
               },
-              "id": "TURBO_PUMPKIN;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -58982,7 +58982,7 @@
               "enchantments": {
                 "turbo_pumpkin": 4
               },
-              "id": "TURBO_PUMPKIN;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -59077,7 +59077,7 @@
               "enchantments": {
                 "turbo_pumpkin": 5
               },
-              "id": "TURBO_PUMPKIN;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -59171,7 +59171,7 @@
               "enchantments": {
                 "turbo_pumpkin": 6
               },
-              "id": "TURBO_PUMPKIN;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -59261,7 +59261,7 @@
               "enchantments": {
                 "turbo_pumpkin": 7
               },
-              "id": "TURBO_PUMPKIN;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -59866,7 +59866,7 @@
               "enchantments": {
                 "turbo_rose": 6
               },
-              "id": "TURBO_ROSE;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -59956,7 +59956,7 @@
               "enchantments": {
                 "turbo_rose": 7
               },
-              "id": "TURBO_ROSE;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -60561,7 +60561,7 @@
               "enchantments": {
                 "turbo_sunflower": 6
               },
-              "id": "TURBO_SUNFLOWER;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -60651,7 +60651,7 @@
               "enchantments": {
                 "turbo_sunflower": 7
               },
-              "id": "TURBO_SUNFLOWER;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -60748,7 +60748,7 @@
               "enchantments": {
                 "turbo_warts": 1
               },
-              "id": "TURBO_WARTS;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -60839,7 +60839,7 @@
               "enchantments": {
                 "turbo_warts": 2
               },
-              "id": "TURBO_WARTS;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -60930,7 +60930,7 @@
               "enchantments": {
                 "turbo_warts": 3
               },
-              "id": "TURBO_WARTS;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -61022,7 +61022,7 @@
               "enchantments": {
                 "turbo_warts": 4
               },
-              "id": "TURBO_WARTS;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -61117,7 +61117,7 @@
               "enchantments": {
                 "turbo_warts": 5
               },
-              "id": "TURBO_WARTS;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -61211,7 +61211,7 @@
               "enchantments": {
                 "turbo_warts": 6
               },
-              "id": "TURBO_WARTS;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -61301,7 +61301,7 @@
               "enchantments": {
                 "turbo_warts": 7
               },
-              "id": "TURBO_WARTS;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -61398,7 +61398,7 @@
               "enchantments": {
                 "turbo_wheat": 1
               },
-              "id": "TURBO_WHEAT;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -61488,7 +61488,7 @@
               "enchantments": {
                 "turbo_wheat": 2
               },
-              "id": "TURBO_WHEAT;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -61579,7 +61579,7 @@
               "enchantments": {
                 "turbo_wheat": 3
               },
-              "id": "TURBO_WHEAT;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -61671,7 +61671,7 @@
               "enchantments": {
                 "turbo_wheat": 4
               },
-              "id": "TURBO_WHEAT;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -61766,7 +61766,7 @@
               "enchantments": {
                 "turbo_wheat": 5
               },
-              "id": "TURBO_WHEAT;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -61860,7 +61860,7 @@
               "enchantments": {
                 "turbo_wheat": 6
               },
-              "id": "TURBO_WHEAT;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -61950,7 +61950,7 @@
               "enchantments": {
                 "turbo_wheat": 7
               },
-              "id": "TURBO_WHEAT;7"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -62157,7 +62157,7 @@
               "enchantments": {
                 "ultimate_bank": 2
               },
-              "id": "ULTIMATE_BANK;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -62256,7 +62256,7 @@
               "enchantments": {
                 "ultimate_bank": 3
               },
-              "id": "ULTIMATE_BANK;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -62355,7 +62355,7 @@
               "enchantments": {
                 "ultimate_bank": 4
               },
-              "id": "ULTIMATE_BANK;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -62454,7 +62454,7 @@
               "enchantments": {
                 "ultimate_bank": 5
               },
-              "id": "ULTIMATE_BANK;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -62657,7 +62657,7 @@
               "enchantments": {
                 "ultimate_bobbin_time": 4
               },
-              "id": "ULTIMATE_BOBBIN_TIME;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -62755,7 +62755,7 @@
               "enchantments": {
                 "ultimate_bobbin_time": 5
               },
-              "id": "ULTIMATE_BOBBIN_TIME;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -62862,7 +62862,7 @@
               "enchantments": {
                 "ultimate_chimera": 1
               },
-              "id": "ULTIMATE_CHIMERA;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -62969,7 +62969,7 @@
               "enchantments": {
                 "ultimate_chimera": 2
               },
-              "id": "ULTIMATE_CHIMERA;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -63076,7 +63076,7 @@
               "enchantments": {
                 "ultimate_chimera": 3
               },
-              "id": "ULTIMATE_CHIMERA;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -63183,7 +63183,7 @@
               "enchantments": {
                 "ultimate_chimera": 4
               },
-              "id": "ULTIMATE_CHIMERA;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -63290,7 +63290,7 @@
               "enchantments": {
                 "ultimate_chimera": 5
               },
-              "id": "ULTIMATE_CHIMERA;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -63404,7 +63404,7 @@
               "enchantments": {
                 "ultimate_combo": 1
               },
-              "id": "ULTIMATE_COMBO;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -63514,7 +63514,7 @@
               "enchantments": {
                 "ultimate_combo": 2
               },
-              "id": "ULTIMATE_COMBO;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -63625,7 +63625,7 @@
               "enchantments": {
                 "ultimate_combo": 3
               },
-              "id": "ULTIMATE_COMBO;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -63736,7 +63736,7 @@
               "enchantments": {
                 "ultimate_combo": 4
               },
-              "id": "ULTIMATE_COMBO;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -63847,7 +63847,7 @@
               "enchantments": {
                 "ultimate_combo": 5
               },
-              "id": "ULTIMATE_COMBO;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -64575,7 +64575,7 @@
               "enchantments": {
                 "ultimate_fatal_tempo": 1
               },
-              "id": "ULTIMATE_FATAL_TEMPO;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -64701,7 +64701,7 @@
               "enchantments": {
                 "ultimate_fatal_tempo": 2
               },
-              "id": "ULTIMATE_FATAL_TEMPO;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -64827,7 +64827,7 @@
               "enchantments": {
                 "ultimate_fatal_tempo": 3
               },
-              "id": "ULTIMATE_FATAL_TEMPO;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -64953,7 +64953,7 @@
               "enchantments": {
                 "ultimate_fatal_tempo": 4
               },
-              "id": "ULTIMATE_FATAL_TEMPO;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -65079,7 +65079,7 @@
               "enchantments": {
                 "ultimate_fatal_tempo": 5
               },
-              "id": "ULTIMATE_FATAL_TEMPO;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -65712,7 +65712,7 @@
               "enchantments": {
                 "ultimate_flash": 1
               },
-              "id": "ULTIMATE_FLASH;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -65810,7 +65810,7 @@
               "enchantments": {
                 "ultimate_flash": 2
               },
-              "id": "ULTIMATE_FLASH;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -65908,7 +65908,7 @@
               "enchantments": {
                 "ultimate_flash": 3
               },
-              "id": "ULTIMATE_FLASH;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -66006,7 +66006,7 @@
               "enchantments": {
                 "ultimate_flash": 4
               },
-              "id": "ULTIMATE_FLASH;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -66104,7 +66104,7 @@
               "enchantments": {
                 "ultimate_flash": 5
               },
-              "id": "ULTIMATE_FLASH;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -66212,7 +66212,7 @@
               "enchantments": {
                 "ultimate_flowstate": 1
               },
-              "id": "ULTIMATE_FLOWSTATE;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -66322,7 +66322,7 @@
               "enchantments": {
                 "ultimate_flowstate": 2
               },
-              "id": "ULTIMATE_FLOWSTATE;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -66432,7 +66432,7 @@
               "enchantments": {
                 "ultimate_flowstate": 3
               },
-              "id": "ULTIMATE_FLOWSTATE;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -66669,7 +66669,7 @@
               "enchantments": {
                 "ultimate_habanero_tactics": 5
               },
-              "id": "ULTIMATE_HABANERO_TACTICS;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -66791,7 +66791,7 @@
               "enchantments": {
                 "ultimate_inferno": 1
               },
-              "id": "ULTIMATE_INFERNO;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -66917,7 +66917,7 @@
               "enchantments": {
                 "ultimate_inferno": 2
               },
-              "id": "ULTIMATE_INFERNO;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -67043,7 +67043,7 @@
               "enchantments": {
                 "ultimate_inferno": 3
               },
-              "id": "ULTIMATE_INFERNO;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -67169,7 +67169,7 @@
               "enchantments": {
                 "ultimate_inferno": 4
               },
-              "id": "ULTIMATE_INFERNO;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -67295,7 +67295,7 @@
               "enchantments": {
                 "ultimate_inferno": 5
               },
-              "id": "ULTIMATE_INFERNO;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -67421,7 +67421,7 @@
               "enchantments": {
                 "ultimate_jerry": 1
               },
-              "id": "ULTIMATE_JERRY;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -67519,7 +67519,7 @@
               "enchantments": {
                 "ultimate_jerry": 2
               },
-              "id": "ULTIMATE_JERRY;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -67618,7 +67618,7 @@
               "enchantments": {
                 "ultimate_jerry": 3
               },
-              "id": "ULTIMATE_JERRY;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -67717,7 +67717,7 @@
               "enchantments": {
                 "ultimate_jerry": 4
               },
-              "id": "ULTIMATE_JERRY;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -67816,7 +67816,7 @@
               "enchantments": {
                 "ultimate_jerry": 5
               },
-              "id": "ULTIMATE_JERRY;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -68038,7 +68038,7 @@
               "enchantments": {
                 "ultimate_last_stand": 2
               },
-              "id": "ULTIMATE_LAST_STAND;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -68145,7 +68145,7 @@
               "enchantments": {
                 "ultimate_last_stand": 3
               },
-              "id": "ULTIMATE_LAST_STAND;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -68252,7 +68252,7 @@
               "enchantments": {
                 "ultimate_last_stand": 4
               },
-              "id": "ULTIMATE_LAST_STAND;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -68359,7 +68359,7 @@
               "enchantments": {
                 "ultimate_last_stand": 5
               },
-              "id": "ULTIMATE_LAST_STAND;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -68470,7 +68470,7 @@
               "enchantments": {
                 "ultimate_legion": 1
               },
-              "id": "ULTIMATE_LEGION;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -68569,7 +68569,7 @@
               "enchantments": {
                 "ultimate_legion": 2
               },
-              "id": "ULTIMATE_LEGION;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -68668,7 +68668,7 @@
               "enchantments": {
                 "ultimate_legion": 3
               },
-              "id": "ULTIMATE_LEGION;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -68767,7 +68767,7 @@
               "enchantments": {
                 "ultimate_legion": 4
               },
-              "id": "ULTIMATE_LEGION;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -68866,7 +68866,7 @@
               "enchantments": {
                 "ultimate_legion": 5
               },
-              "id": "ULTIMATE_LEGION;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -69438,7 +69438,7 @@
               "enchantments": {
                 "ultimate_no_pain_no_gain": 1
               },
-              "id": "ULTIMATE_NO_PAIN_NO_GAIN;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -69644,7 +69644,7 @@
               "enchantments": {
                 "ultimate_no_pain_no_gain": 3
               },
-              "id": "ULTIMATE_NO_PAIN_NO_GAIN;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -69743,7 +69743,7 @@
               "enchantments": {
                 "ultimate_no_pain_no_gain": 4
               },
-              "id": "ULTIMATE_NO_PAIN_NO_GAIN;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -69842,7 +69842,7 @@
               "enchantments": {
                 "ultimate_no_pain_no_gain": 5
               },
-              "id": "ULTIMATE_NO_PAIN_NO_GAIN;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -69950,7 +69950,7 @@
               "enchantments": {
                 "ultimate_one_for_all": 1
               },
-              "id": "ULTIMATE_ONE_FOR_ALL;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -70066,7 +70066,7 @@
               "enchantments": {
                 "ultimate_refrigerate": 1
               },
-              "id": "ULTIMATE_REFRIGERATE;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -70168,7 +70168,7 @@
               "enchantments": {
                 "ultimate_refrigerate": 2
               },
-              "id": "ULTIMATE_REFRIGERATE;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -70270,7 +70270,7 @@
               "enchantments": {
                 "ultimate_refrigerate": 3
               },
-              "id": "ULTIMATE_REFRIGERATE;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -70372,7 +70372,7 @@
               "enchantments": {
                 "ultimate_refrigerate": 4
               },
-              "id": "ULTIMATE_REFRIGERATE;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -70474,7 +70474,7 @@
               "enchantments": {
                 "ultimate_refrigerate": 5
               },
-              "id": "ULTIMATE_REFRIGERATE;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -70583,7 +70583,7 @@
               "enchantments": {
                 "ultimate_reiterate": 1
               },
-              "id": "ULTIMATE_REITERATE;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -70685,7 +70685,7 @@
               "enchantments": {
                 "ultimate_reiterate": 2
               },
-              "id": "ULTIMATE_REITERATE;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -70787,7 +70787,7 @@
               "enchantments": {
                 "ultimate_reiterate": 3
               },
-              "id": "ULTIMATE_REITERATE;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -70889,7 +70889,7 @@
               "enchantments": {
                 "ultimate_reiterate": 4
               },
-              "id": "ULTIMATE_REITERATE;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -70991,7 +70991,7 @@
               "enchantments": {
                 "ultimate_reiterate": 5
               },
-              "id": "ULTIMATE_REITERATE;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -71102,7 +71102,7 @@
               "enchantments": {
                 "ultimate_rend": 1
               },
-              "id": "ULTIMATE_REND;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -71213,7 +71213,7 @@
               "enchantments": {
                 "ultimate_rend": 2
               },
-              "id": "ULTIMATE_REND;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -71324,7 +71324,7 @@
               "enchantments": {
                 "ultimate_rend": 3
               },
-              "id": "ULTIMATE_REND;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -71435,7 +71435,7 @@
               "enchantments": {
                 "ultimate_rend": 4
               },
-              "id": "ULTIMATE_REND;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -71546,7 +71546,7 @@
               "enchantments": {
                 "ultimate_rend": 5
               },
-              "id": "ULTIMATE_REND;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -71663,7 +71663,7 @@
               "enchantments": {
                 "ultimate_soul_eater": 1
               },
-              "id": "ULTIMATE_SOUL_EATER;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -71774,7 +71774,7 @@
               "enchantments": {
                 "ultimate_soul_eater": 2
               },
-              "id": "ULTIMATE_SOUL_EATER;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -71885,7 +71885,7 @@
               "enchantments": {
                 "ultimate_soul_eater": 3
               },
-              "id": "ULTIMATE_SOUL_EATER;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -71996,7 +71996,7 @@
               "enchantments": {
                 "ultimate_soul_eater": 4
               },
-              "id": "ULTIMATE_SOUL_EATER;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -72107,7 +72107,7 @@
               "enchantments": {
                 "ultimate_soul_eater": 5
               },
-              "id": "ULTIMATE_SOUL_EATER;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -72772,7 +72772,7 @@
               "enchantments": {
                 "ultimate_swarm": 1
               },
-              "id": "ULTIMATE_SWARM;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -72883,7 +72883,7 @@
               "enchantments": {
                 "ultimate_swarm": 2
               },
-              "id": "ULTIMATE_SWARM;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -72994,7 +72994,7 @@
               "enchantments": {
                 "ultimate_swarm": 3
               },
-              "id": "ULTIMATE_SWARM;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -73105,7 +73105,7 @@
               "enchantments": {
                 "ultimate_swarm": 4
               },
-              "id": "ULTIMATE_SWARM;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -73216,7 +73216,7 @@
               "enchantments": {
                 "ultimate_swarm": 5
               },
-              "id": "ULTIMATE_SWARM;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -73331,7 +73331,7 @@
               "enchantments": {
                 "ultimate_the_one": 4
               },
-              "id": "ULTIMATE_THE_ONE;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -73434,7 +73434,7 @@
               "enchantments": {
                 "ultimate_the_one": 5
               },
-              "id": "ULTIMATE_THE_ONE;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -73544,7 +73544,7 @@
               "enchantments": {
                 "ultimate_wisdom": 1
               },
-              "id": "ULTIMATE_WISDOM;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -73646,7 +73646,7 @@
               "enchantments": {
                 "ultimate_wisdom": 2
               },
-              "id": "ULTIMATE_WISDOM;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -73749,7 +73749,7 @@
               "enchantments": {
                 "ultimate_wisdom": 3
               },
-              "id": "ULTIMATE_WISDOM;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -73852,7 +73852,7 @@
               "enchantments": {
                 "ultimate_wisdom": 4
               },
-              "id": "ULTIMATE_WISDOM;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -73955,7 +73955,7 @@
               "enchantments": {
                 "ultimate_wisdom": 5
               },
-              "id": "ULTIMATE_WISDOM;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -74075,7 +74075,7 @@
               "enchantments": {
                 "ultimate_wise": 1
               },
-              "id": "ULTIMATE_WISE;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -74221,7 +74221,7 @@
               "enchantments": {
                 "ultimate_wise": 2
               },
-              "id": "ULTIMATE_WISE;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -74368,7 +74368,7 @@
               "enchantments": {
                 "ultimate_wise": 3
               },
-              "id": "ULTIMATE_WISE;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -74515,7 +74515,7 @@
               "enchantments": {
                 "ultimate_wise": 4
               },
-              "id": "ULTIMATE_WISE;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -74662,7 +74662,7 @@
               "enchantments": {
                 "ultimate_wise": 5
               },
-              "id": "ULTIMATE_WISE;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -74803,7 +74803,7 @@
               "enchantments": {
                 "vampirism": 1
               },
-              "id": "VAMPIRISM;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -74901,7 +74901,7 @@
               "enchantments": {
                 "vampirism": 2
               },
-              "id": "VAMPIRISM;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -74999,7 +74999,7 @@
               "enchantments": {
                 "vampirism": 3
               },
-              "id": "VAMPIRISM;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -75097,7 +75097,7 @@
               "enchantments": {
                 "vampirism": 4
               },
-              "id": "VAMPIRISM;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -75195,7 +75195,7 @@
               "enchantments": {
                 "vampirism": 5
               },
-              "id": "VAMPIRISM;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -75293,7 +75293,7 @@
               "enchantments": {
                 "vampirism": 6
               },
-              "id": "VAMPIRISM;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:custom_name": {
               "text": "§9Enchanted Book"
@@ -75400,7 +75400,7 @@
               "enchantments": {
                 "venomous": 1
               },
-              "id": "VENOMOUS;1"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -75510,7 +75510,7 @@
               "enchantments": {
                 "venomous": 2
               },
-              "id": "VENOMOUS;2"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -75620,7 +75620,7 @@
               "enchantments": {
                 "venomous": 3
               },
-              "id": "VENOMOUS;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -75730,7 +75730,7 @@
               "enchantments": {
                 "venomous": 4
               },
-              "id": "VENOMOUS;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -75840,7 +75840,7 @@
               "enchantments": {
                 "venomous": 5
               },
-              "id": "VENOMOUS;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -75950,7 +75950,7 @@
               "enchantments": {
                 "venomous": 6
               },
-              "id": "VENOMOUS;6"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -76061,7 +76061,7 @@
               "enchantments": {
                 "vicious": 3
               },
-              "id": "VICIOUS;3"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -76155,7 +76155,7 @@
               "enchantments": {
                 "vicious": 4
               },
-              "id": "VICIOUS;4"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
@@ -76249,7 +76249,7 @@
               "enchantments": {
                 "vicious": 5
               },
-              "id": "VICIOUS;5"
+              "id": "ENCHANTED_BOOK"
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {

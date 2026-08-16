@@ -10024,7 +10024,7 @@
                   "level": 2
                 }
               ],
-              "id": "POTION_NIGHT_VISION;2",
+              "id": "POTION",
               "potion": "night_vision",
               "potion_level": 2,
               "potion_type": "POTION"
@@ -11842,7 +11842,7 @@
                   "level": 8
                 }
               ],
-              "id": "POTION_REGENERATION;9",
+              "id": "POTION",
               "potion": "regeneration",
               "potion_level": 9,
               "potion_type": "POTION"
@@ -12533,7 +12533,7 @@
                   "level": 1
                 }
               ],
-              "id": "POTION_RIFT_GRAVITY;1",
+              "id": "POTION",
               "potion": "rift_gravity",
               "potion_level": 1,
               "potion_type": "POTION",
@@ -12617,7 +12617,7 @@
               ],
               "enhanced": false,
               "extended": false,
-              "id": "POTION_SECRETS;1",
+              "id": "POTION",
               "potion": "secrets",
               "potion_level": 1,
               "potion_type": "POTION"
@@ -14242,7 +14242,7 @@
                   "level": 5
                 }
               ],
-              "id": "POTION_SPELUNKER;5",
+              "id": "POTION",
               "potion": "spelunker",
               "potion_level": 5,
               "potion_type": "POTION"
@@ -14471,7 +14471,7 @@
                 }
               ],
               "enhanced": true,
-              "id": "POTION_SPIRIT;3",
+              "id": "POTION",
               "potion": "spirit",
               "potion_level": 3,
               "potion_name": "Spirit",
@@ -14545,7 +14545,7 @@
                 }
               ],
               "enhanced": true,
-              "id": "POTION_SPIRIT;4",
+              "id": "POTION",
               "potion": "spirit",
               "potion_level": 4,
               "potion_name": "Spirit",
