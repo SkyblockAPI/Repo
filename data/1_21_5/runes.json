@@ -75,18 +75,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -170,18 +170,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
+              "minecraft:charged_projectiles",
               "minecraft:dyed_color",
-              "minecraft:charged_projectiles"
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -263,18 +263,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
+              "minecraft:charged_projectiles",
               "minecraft:dyed_color",
-              "minecraft:charged_projectiles"
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -356,18 +356,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
+              "minecraft:charged_projectiles",
               "minecraft:dyed_color",
-              "minecraft:charged_projectiles"
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -451,18 +451,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -544,18 +544,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -637,18 +637,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -732,18 +732,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -825,18 +825,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -918,18 +918,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -1013,18 +1013,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -1104,18 +1104,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
+              "minecraft:charged_projectiles",
               "minecraft:dyed_color",
-              "minecraft:charged_projectiles"
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -1199,18 +1199,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -1290,18 +1290,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -1381,18 +1381,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -1470,18 +1470,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -1559,18 +1559,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -1654,18 +1654,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -1745,18 +1745,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -1838,18 +1838,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -1927,18 +1927,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -2026,18 +2026,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -2117,18 +2117,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -2206,18 +2206,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -2295,18 +2295,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -2386,18 +2386,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -2475,18 +2475,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -2564,18 +2564,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -2655,18 +2655,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -2746,18 +2746,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -2835,18 +2835,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -2924,18 +2924,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -3015,18 +3015,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -3104,18 +3104,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -3193,18 +3193,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -3288,18 +3288,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -3381,18 +3381,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -3474,18 +3474,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -3565,18 +3565,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -3654,18 +3654,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -3743,18 +3743,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -3834,18 +3834,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -3923,18 +3923,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -4012,18 +4012,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -4099,18 +4099,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -4188,18 +4188,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -4273,18 +4273,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -4364,18 +4364,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -4455,18 +4455,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -4548,18 +4548,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -4637,18 +4637,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -4728,18 +4728,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -4819,18 +4819,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -4908,18 +4908,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -4997,18 +4997,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -5092,18 +5092,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -5191,18 +5191,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -5290,18 +5290,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -5385,18 +5385,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -5480,18 +5480,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
+              "minecraft:charged_projectiles",
               "minecraft:dyed_color",
-              "minecraft:charged_projectiles"
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -5575,18 +5575,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -5662,18 +5662,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -5747,18 +5747,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -5832,18 +5832,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -5919,18 +5919,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -6004,18 +6004,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -6089,18 +6089,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -6176,18 +6176,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -6261,18 +6261,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -6346,18 +6346,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -6437,18 +6437,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -6524,18 +6524,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -6615,18 +6615,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -6704,18 +6704,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -6793,18 +6793,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -6880,18 +6880,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -6965,18 +6965,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -7050,18 +7050,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -7141,18 +7141,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -7230,18 +7230,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -7319,18 +7319,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -7406,18 +7406,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -7499,18 +7499,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -7584,18 +7584,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -7675,18 +7675,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -7766,18 +7766,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -7855,18 +7855,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -7944,18 +7944,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -8043,18 +8043,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -8138,18 +8138,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -8233,18 +8233,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -8324,18 +8324,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -8411,18 +8411,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -8496,18 +8496,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -8581,18 +8581,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -8676,18 +8676,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -8763,18 +8763,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -8852,18 +8852,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -8937,18 +8937,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -9024,18 +9024,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -9109,18 +9109,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -9194,18 +9194,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -9289,18 +9289,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -9380,18 +9380,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -9469,18 +9469,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -9558,18 +9558,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -9649,18 +9649,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -9738,18 +9738,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -9827,18 +9827,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -9914,18 +9914,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -9999,18 +9999,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -10084,18 +10084,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -10179,18 +10179,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -10272,18 +10272,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -10365,18 +10365,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -10452,18 +10452,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -10541,18 +10541,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -10626,18 +10626,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -10717,18 +10717,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -10808,18 +10808,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -10897,18 +10897,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -10986,18 +10986,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -11085,19 +11085,19 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:painting/variant",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:trim",
+              "minecraft:banner_patterns",
+              "minecraft:block_entity_data",
               "minecraft:charged_projectiles",
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
               "minecraft:jukebox_playable",
               "minecraft:map_id",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
-              "minecraft:banner_patterns",
+              "minecraft:painting/variant",
               "minecraft:potion_contents",
-              "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -11185,18 +11185,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -11276,18 +11276,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -11365,18 +11365,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -11454,18 +11454,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -11549,18 +11549,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -11636,18 +11636,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -11721,18 +11721,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -11806,18 +11806,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -11897,18 +11897,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -11986,18 +11986,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -12075,18 +12075,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -12162,18 +12162,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -12247,18 +12247,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -12332,18 +12332,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -12423,18 +12423,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -12512,18 +12512,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -12601,18 +12601,18 @@
           },
           "minecraft:tooltip_display": {
             "hidden_components": [
-              "minecraft:jukebox_playable",
-              "minecraft:painting/variant",
-              "minecraft:map_id",
-              "minecraft:fireworks",
               "minecraft:attribute_modifiers",
-              "minecraft:unbreakable",
-              "minecraft:written_book_content",
               "minecraft:banner_patterns",
-              "minecraft:trim",
-              "minecraft:potion_contents",
               "minecraft:block_entity_data",
-              "minecraft:dyed_color"
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
             ]
           },
           "minecraft:tooltip_style": "hypixel_skyblock:rare"

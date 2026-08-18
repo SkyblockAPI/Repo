@@ -8000,8 +8000,8 @@
         ],
         "minecraft:tooltip_display": {
           "hidden_components": [
-            "minecraft:unbreakable",
-            "minecraft:dyed_color"
+            "minecraft:dyed_color",
+            "minecraft:unbreakable"
           ]
         }
       }
@@ -45131,8 +45131,8 @@
         ],
         "minecraft:tooltip_display": {
           "hidden_components": [
-            "minecraft:unbreakable",
-            "minecraft:dyed_color"
+            "minecraft:dyed_color",
+            "minecraft:unbreakable"
           ]
         }
       }
