@@ -92,6 +92,13 @@ export const buildItemStack = (item) => {
     for (const [key, value] of Object.entries(itemStack.components ?? {})) {
         if (value == null) continue;
         switch (key) {
+            case "minecraft:tooltip_display":
+                for (const [display, displayValue] of Object.entries(value)) {
+                    if (display === "hidden_components") {
+                        value["hidden_components"] = displayValue.sort()
+                    }
+                }
+                break;
             case "minecraft:profile":
                 delete value.name;
                 delete value.id;
