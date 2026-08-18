@@ -29281,16 +29281,12 @@
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
-        "blood_god_kills": 21,
         "id": "BLOOD_GOD_SIGIL"
       },
       "minecraft:custom_name": {
         "text": "§aBlood God Sigil"
       },
       "minecraft:lore": [
-        {
-          "text": "§7Strength: §c+4"
-        },
         {
           "text": "§7Accessory Power: §6+5"
         },
@@ -29316,10 +29312,7 @@
           "text": ""
         },
         {
-          "text": "§7Counter: §c21"
-        },
-        {
-          "text": "§7Bonus: §c+4 Strength"
+          "text": "§7Counter: §cNone yet!"
         },
         {
           "text": ""
@@ -54579,31 +54572,25 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7§8Combinable in Anvil"
+          "text": "§8Combinable in Anvil"
         },
         {
           "text": ""
         },
         {
-          "text": "§7§7Item skins give your gear a"
+          "text": "§7Item skins give your gear a fresh"
         },
         {
-          "text": "§7fresh new look! Apply them just"
+          "text": "§7new look! Apply them just like an"
         },
         {
-          "text": "§7like an enchant book using the"
-        },
-        {
-          "text": "§7anvil."
+          "text": "§7enchant book using the anvil."
         },
         {
           "text": ""
         },
         {
-          "text": "§7§7This skin can be applied to"
-        },
-        {
-          "text": "§7§aBackpacks§7."
+          "text": "§7This skin can be applied to §aBackpacks§7."
         },
         {
           "text": ""
@@ -54632,8 +54619,8 @@
           "minecraft:banner_patterns",
           "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:block_entity_data",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -115947,7 +115934,7 @@
           "text": "§7Shoots a projectile that on impact creates a"
         },
         {
-          "text": "§7firestorm, dealing up to §c42,336.6 §7damage over"
+          "text": "§7firestorm, dealing up to §c42,000 §7damage over"
         },
         {
           "text": "§710 seconds to mobs in a 7 block radius."
@@ -115974,20 +115961,18 @@
       "minecraft:item_model": "hypixel_skyblock:item/uncategorized/fire_fury_staff",
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -126538,7 +126523,7 @@
           "text": "§6Ability: Ice Bolt  §e§lRIGHT CLICK"
         },
         {
-          "text": "§7Shoots §a1 §7Ice Bolt that deals §c1,008 §7damage and"
+          "text": "§7Shoots §a1 §7Ice Bolt that deals §c1,000 §7damage and"
         },
         {
           "text": "§7slows enemies hit for §a5 §7seconds!"
@@ -126559,20 +126544,18 @@
       "minecraft:item_model": "hypixel_skyblock:item/island_relevant/winter/weapons/frozen_scythe",
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -184926,7 +184909,7 @@
           "text": "§6Ability: Leap  §e§lRIGHT CLICK"
         },
         {
-          "text": "§7Leap into the air and deal §c355.3§7 damage to"
+          "text": "§7Leap into the air and deal §c350§7 damage to"
         },
         {
           "text": "§7nearby enemies upon landing on the ground."
@@ -184956,20 +184939,18 @@
       "minecraft:item_model": "hypixel_skyblock:item/uncategorized/leaping_sword",
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:jukebox_playable",
           "minecraft:painting/variant",
+          "minecraft:map_id",
           "minecraft:fireworks",
           "minecraft:attribute_modifiers",
-          "minecraft:enchantments",
-          "minecraft:stored_enchantments",
-          "minecraft:trim",
-          "minecraft:charged_projectiles",
-          "minecraft:jukebox_playable",
-          "minecraft:map_id",
           "minecraft:unbreakable",
           "minecraft:written_book_content",
           "minecraft:banner_patterns",
+          "minecraft:trim",
           "minecraft:potion_contents",
-          "minecraft:dyed_color"
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -380842,25 +380823,28 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7§7Item skins give your gear a"
+          "text": "§8Combinable in Anvil"
         },
         {
-          "text": "§7fresh new look! Apply them just"
+          "text": ""
         },
         {
-          "text": "§7like an enchant book using the"
+          "text": "§7Item skins give your gear a fresh"
         },
         {
-          "text": "§7anvil."
+          "text": "§7new look! Apply them just like an"
         },
         {
-          "text": "§7"
+          "text": "§7enchant book using the anvil."
         },
         {
-          "text": "§7§7This skin can be applied to"
+          "text": ""
         },
         {
-          "text": "§7§a§6Young Dragon Helmet"
+          "text": "§7This skin can be applied to §6Young"
+        },
+        {
+          "text": "§6Dragon Helmet§7."
         },
         {
           "text": ""
@@ -380873,10 +380857,27 @@
         "properties": [
           {
             "name": "textures",
-            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDM1MDNkY2FhZTZhNmNkZTAyNzMxNmEzY2U2ZTIwM2I2NDMyN2I3ZGU3MjQ0MTg2NWNmZDNjZGI0NWQ1ZWY0NCJ9fX0K"
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzNjE4NDUwMDI4MywKICAicHJvZmlsZUlkIiA6ICIwNjNhMTc2Y2RkMTU0ODRiYjU1MjRhNjQyMGM1YjdhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXZpcGF0dXJ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQzNTAzZGNhYWU2YTZjZGUwMjczMTZhM2NlNmUyMDNiNjQzMjdiN2RlNzI0NDE4NjVjZmQzY2RiNDVkNWVmNDQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
           }
         ]
-      }
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:jukebox_playable",
+          "minecraft:painting/variant",
+          "minecraft:map_id",
+          "minecraft:fireworks",
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content",
+          "minecraft:banner_patterns",
+          "minecraft:trim",
+          "minecraft:potion_contents",
+          "minecraft:dyed_color",
+          "minecraft:charged_projectiles"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
