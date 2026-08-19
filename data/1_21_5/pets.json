@@ -15707,9 +15707,8 @@
           "§7Strength: §c+{STRENGTH}",
           "",
           "§6Kill Combo",
-          "§7Gain buffs for combo kills.",
-          "§7Effects stack as you increase",
-          "§7your combo.",
+          "§7Gain buffs for combo kills. Effects",
+          "§7stack as you increase your combo.",
           "",
           "§a5 Combo §8(lasts §a{0}s§8)",
           "  §8+§b1% §b✯ Magic Find",
@@ -15724,9 +15723,8 @@
           "§a30 Combo §8(lasts §a{5}s§8)",
           "  §8+§62 §7coins per kill",
           "",
-          "§7§8This pet's perks are active",
-          "§8even when the pet is not",
-          "§8summoned!",
+          "§8This pet's perks are active even",
+          "§8when the pet is not summoned!",
           "",
           "§8§l* §8Soulbound §8§l*",
           "§f§lCOMMON"
@@ -15795,13 +15793,10 @@
                 "text": "§6Kill Combo"
               },
               {
-                "text": "§7Gain buffs for combo kills."
+                "text": "§7Gain buffs for combo kills. Effects"
               },
               {
-                "text": "§7Effects stack as you increase"
-              },
-              {
-                "text": "§7your combo."
+                "text": "§7stack as you increase your combo."
               },
               {
                 "text": ""
@@ -15846,13 +15841,10 @@
                 "text": ""
               },
               {
-                "text": "§7§8This pet's perks are active"
+                "text": "§8This pet's perks are active even"
               },
               {
-                "text": "§8even when the pet is not"
-              },
-              {
-                "text": "§8summoned!"
+                "text": "§8when the pet is not summoned!"
               },
               {
                 "text": ""
@@ -15891,9 +15883,8 @@
           "§7Strength: §c+{STRENGTH}",
           "",
           "§6Kill Combo",
-          "§7Gain buffs for combo kills.",
-          "§7Effects stack as you increase",
-          "§7your combo.",
+          "§7Gain buffs for combo kills. Effects",
+          "§7stack as you increase your combo.",
           "",
           "§a5 Combo §8(lasts §a{0}s§8)",
           "  §8+§b1% §b✯ Magic Find",
@@ -15908,9 +15899,8 @@
           "§a30 Combo §8(lasts §a{5}s§8)",
           "  §8+§64 §7coins per kill",
           "",
-          "§7§8This pet's perks are active",
-          "§8even when the pet is not",
-          "§8summoned!",
+          "§8This pet's perks are active even",
+          "§8when the pet is not summoned!",
           "",
           "§8§l* §8Soulbound §8§l*",
           "§a§lUNCOMMON"
@@ -15979,13 +15969,10 @@
                 "text": "§6Kill Combo"
               },
               {
-                "text": "§7Gain buffs for combo kills."
+                "text": "§7Gain buffs for combo kills. Effects"
               },
               {
-                "text": "§7Effects stack as you increase"
-              },
-              {
-                "text": "§7your combo."
+                "text": "§7stack as you increase your combo."
               },
               {
                 "text": ""
@@ -16030,13 +16017,10 @@
                 "text": ""
               },
               {
-                "text": "§7§8This pet's perks are active"
+                "text": "§8This pet's perks are active even"
               },
               {
-                "text": "§8even when the pet is not"
-              },
-              {
-                "text": "§8summoned!"
+                "text": "§8when the pet is not summoned!"
               },
               {
                 "text": ""
@@ -16075,9 +16059,8 @@
           "§7Strength: §c+{STRENGTH}",
           "",
           "§6Kill Combo",
-          "§7Gain buffs for combo kills.",
-          "§7Effects stack as you increase",
-          "§7your combo.",
+          "§7Gain buffs for combo kills. Effects",
+          "§7stack as you increase your combo.",
           "",
           "§a5 Combo §8(lasts §a{0}s§8)",
           "  §8+§b2% §b✯ Magic Find",
@@ -16092,9 +16075,8 @@
           "§a30 Combo §8(lasts §a{5}s§8)",
           "  §8+§66 §7coins per kill",
           "",
-          "§7§8This pet's perks are active",
-          "§8even when the pet is not",
-          "§8summoned!",
+          "§8This pet's perks are active even",
+          "§8when the pet is not summoned!",
           "",
           "§8§l* §8Soulbound §8§l*",
           "§9§lRARE"
@@ -16163,13 +16145,10 @@
                 "text": "§6Kill Combo"
               },
               {
-                "text": "§7Gain buffs for combo kills."
+                "text": "§7Gain buffs for combo kills. Effects"
               },
               {
-                "text": "§7Effects stack as you increase"
-              },
-              {
-                "text": "§7your combo."
+                "text": "§7stack as you increase your combo."
               },
               {
                 "text": ""
@@ -16214,13 +16193,10 @@
                 "text": ""
               },
               {
-                "text": "§7§8This pet's perks are active"
+                "text": "§8This pet's perks are active even"
               },
               {
-                "text": "§8even when the pet is not"
-              },
-              {
-                "text": "§8summoned!"
+                "text": "§8when the pet is not summoned!"
               },
               {
                 "text": ""
@@ -16259,9 +16235,8 @@
           "§7Strength: §c+{STRENGTH}",
           "",
           "§6Kill Combo",
-          "§7Gain buffs for combo kills.",
-          "§7Effects stack as you increase",
-          "§7your combo.",
+          "§7Gain buffs for combo kills. Effects",
+          "§7stack as you increase your combo.",
           "",
           "§a5 Combo §8(lasts §a{0}s§8)",
           "  §8+§b2% §b✯ Magic Find",
@@ -16276,9 +16251,8 @@
           "§a30 Combo §8(lasts §a{5}s§8)",
           "  §8+§68 §7coins per kill",
           "",
-          "§7§8This pet's perks are active",
-          "§8even when the pet is not",
-          "§8summoned!",
+          "§8This pet's perks are active even",
+          "§8when the pet is not summoned!",
           "",
           "§8§l* §8Soulbound §8§l*",
           "§5§lEPIC"
@@ -16347,13 +16321,10 @@
                 "text": "§6Kill Combo"
               },
               {
-                "text": "§7Gain buffs for combo kills."
+                "text": "§7Gain buffs for combo kills. Effects"
               },
               {
-                "text": "§7Effects stack as you increase"
-              },
-              {
-                "text": "§7your combo."
+                "text": "§7stack as you increase your combo."
               },
               {
                 "text": ""
@@ -16398,13 +16369,10 @@
                 "text": ""
               },
               {
-                "text": "§7§8This pet's perks are active"
+                "text": "§8This pet's perks are active even"
               },
               {
-                "text": "§8even when the pet is not"
-              },
-              {
-                "text": "§8summoned!"
+                "text": "§8when the pet is not summoned!"
               },
               {
                 "text": ""

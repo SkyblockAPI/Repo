@@ -206,14 +206,14 @@
     "type": "item",
     "id": "ABIPHONE_X_PLUS",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Abiphone_X_Plus"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Abiphone_X_Red"
     }
   },
   {
     "type": "item",
     "id": "ABIPHONE_X_PLUS_SPECIAL_EDITION",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Abiphone_X_Plus_Special_Edition"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Abiphone_X_Blue"
     }
   },
   {
@@ -1508,6 +1508,13 @@
   },
   {
     "type": "item",
+    "id": "BAG_OF_SEEDS",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bag_of_Seeds"
+    }
+  },
+  {
+    "type": "item",
     "id": "BAIT_RING",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Bait_Ring"
@@ -1522,63 +1529,63 @@
     "type": "item",
     "id": "BALLOON_HAT_2024_AQUA",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/5th_Anniversary_Balloon_Hat"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Aqua_5th_Anniversary_Balloon_Hat"
     }
   },
   {
     "type": "item",
     "id": "BALLOON_HAT_2024_BLACK",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/5th_Anniversary_Balloon_Hat"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Black_5th_Anniversary_Balloon_Hat"
     }
   },
   {
     "type": "item",
     "id": "BALLOON_HAT_2024_GREEN",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/5th_Anniversary_Balloon_Hat"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Green_5th_Anniversary_Balloon_Hat"
     }
   },
   {
     "type": "item",
     "id": "BALLOON_HAT_2024_LIME",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/5th_Anniversary_Balloon_Hat"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lime_5th_Anniversary_Balloon_Hat"
     }
   },
   {
     "type": "item",
     "id": "BALLOON_HAT_2024_ORANGE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/5th_Anniversary_Balloon_Hat"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Orange_5th_Anniversary_Balloon_Hat"
     }
   },
   {
     "type": "item",
     "id": "BALLOON_HAT_2024_PINK",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/5th_Anniversary_Balloon_Hat"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pink_5th_Anniversary_Balloon_Hat"
     }
   },
   {
     "type": "item",
     "id": "BALLOON_HAT_2024_PURPLE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/5th_Anniversary_Balloon_Hat"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Purple_5th_Anniversary_Balloon_Hat"
     }
   },
   {
     "type": "item",
     "id": "BALLOON_HAT_2024_RED",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/5th_Anniversary_Balloon_Hat"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Red_5th_Anniversary_Balloon_Hat"
     }
   },
   {
     "type": "item",
     "id": "BALLOON_HAT_2024_YELLOW",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/5th_Anniversary_Balloon_Hat"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Yellow_5th_Anniversary_Balloon_Hat"
     }
   },
   {
@@ -3040,21 +3047,21 @@
     "type": "item",
     "id": "BLOBFISH_BRONZE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blobfish"
     }
   },
   {
     "type": "item",
     "id": "BLOBFISH_DIAMOND",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blobfish"
     }
   },
   {
     "type": "item",
     "id": "BLOBFISH_GOLD",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blobfish"
     }
   },
   {
@@ -3068,7 +3075,7 @@
     "type": "item",
     "id": "BLOBFISH_SILVER",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blobfish"
     }
   },
   {
@@ -5572,7 +5579,7 @@
     "type": "item",
     "id": "CHICKEN_AXE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Chicken_Axe"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Advanced_Chicken_Axe"
     }
   },
   {
@@ -6712,7 +6719,7 @@
     "type": "item",
     "id": "COW_AXE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cow_Axe"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Advanced_Cow_Axe"
     }
   },
   {
@@ -7132,7 +7139,7 @@
     "type": "item",
     "id": "CRYOPOWDER_SHARD",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cryopowder_Shard"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fragmented_Cryopowder"
     }
   },
   {
@@ -7377,14 +7384,14 @@
     "type": "item",
     "id": "DANTE_RING",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dante_Ring"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dante%27s_Ring"
     }
   },
   {
     "type": "item",
     "id": "DANTE_TALISMAN",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dante_Talisman"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dante%27s_Talisman"
     }
   },
   {
@@ -9322,7 +9329,7 @@
     "type": "item",
     "id": "EARTH_SHARD",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Earth_Shard"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Earthen_Blade"
     }
   },
   {
@@ -11375,7 +11382,7 @@
     "type": "item",
     "id": "EPOCH_CAKE_DARK_GREEN",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Undead_༕_Century_Cake"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Undead_Century_Cake"
     }
   },
   {
@@ -11431,7 +11438,7 @@
     "type": "item",
     "id": "EPOCH_CAKE_RED",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Century_Cake"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fruit_Century_Cake"
     }
   },
   {
@@ -11973,28 +11980,28 @@
     "type": "item",
     "id": "FARM_ARMOR_BOOTS",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Farm_Armor_Boots"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Haymaker_Boots"
     }
   },
   {
     "type": "item",
     "id": "FARM_ARMOR_CHESTPLATE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Farm_Armor_Chestplate"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Haymaker_Chestplate"
     }
   },
   {
     "type": "item",
     "id": "FARM_ARMOR_HELMET",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Farm_Armor_Helmet"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Haymaker_Helmet"
     }
   },
   {
     "type": "item",
     "id": "FARM_ARMOR_LEGGINGS",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Farm_Armor_Leggings"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Haymaker_Leggings"
     }
   },
   {
@@ -12008,28 +12015,28 @@
     "type": "item",
     "id": "FARM_SUIT_BOOTS",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Farm_Suit_Boots"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Farmhand_Boots"
     }
   },
   {
     "type": "item",
     "id": "FARM_SUIT_CHESTPLATE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Farm_Suit_Chestplate"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Farmhand_Chestplate"
     }
   },
   {
     "type": "item",
     "id": "FARM_SUIT_HELMET",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Farm_Suit_Helmet"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Farmhand_Helmet"
     }
   },
   {
     "type": "item",
     "id": "FARM_SUIT_LEGGINGS",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Farm_Suit_Leggings"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Farmhand_Leggings"
     }
   },
   {
@@ -12448,14 +12455,14 @@
     "type": "item",
     "id": "FIGHTING_BOOSTER",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fighting_Booster"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Common_Fighting_Booster"
     }
   },
   {
     "type": "item",
     "id": "FIGHTING_BOOSTER_UNCOMMON",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Fighting_Booster"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Fighting_Booster_Upgrade"
     }
   },
   {
@@ -13360,7 +13367,7 @@
     "type": "item",
     "id": "FLOWER_OF_TRUTH",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flower__Truth"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flower_of_Truth"
     }
   },
   {
@@ -13393,28 +13400,28 @@
     "type": "item",
     "id": "FLYFISH_BRONZE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flyfish"
     }
   },
   {
     "type": "item",
     "id": "FLYFISH_DIAMOND",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flyfish"
     }
   },
   {
     "type": "item",
     "id": "FLYFISH_GOLD",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flyfish"
     }
   },
   {
     "type": "item",
     "id": "FLYFISH_SILVER",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flyfish"
     }
   },
   {
@@ -13491,28 +13498,28 @@
     "type": "item",
     "id": "FORAGING_FORTUNE_BOOSTER",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Foraging_Fortune_Booster"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Common_Foraging_Fortune_Booster"
     }
   },
   {
     "type": "item",
     "id": "FORAGING_FORTUNE_BOOSTER_UNCOMMON",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Foraging_Fortune_Booster"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Foraging_Fortune_Booster_Upgrade"
     }
   },
   {
     "type": "item",
     "id": "FORAGING_WISDOM_BOOSTER",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Foraging_Wisdom_Booster"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Common_Foraging_Wisdom_Booster"
     }
   },
   {
     "type": "item",
     "id": "FORAGING_WISDOM_BOOSTER_UNCOMMON",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Foraging_Wisdom_Booster"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Foraging_Wisdom_Booster_Upgrade"
     }
   },
   {
@@ -14446,7 +14453,7 @@
     "type": "item",
     "id": "GIANT_FRAGMENT_BIGFOOT",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bigfoot%27s_Lasso"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bigfoot%27s_Bola"
     }
   },
   {
@@ -14768,7 +14775,7 @@
     "type": "item",
     "id": "GLACITE_SHARD",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Glacite_Shard"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Glacite_Chunk"
     }
   },
   {
@@ -15293,28 +15300,28 @@
     "type": "item",
     "id": "GOLDEN_FISH_BRONZE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Golden_Fish"
     }
   },
   {
     "type": "item",
     "id": "GOLDEN_FISH_DIAMOND",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Golden_Fish"
     }
   },
   {
     "type": "item",
     "id": "GOLDEN_FISH_GOLD",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Golden_Fish"
     }
   },
   {
     "type": "item",
     "id": "GOLDEN_FISH_SILVER",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Golden_Fish"
     }
   },
   {
@@ -16056,14 +16063,14 @@
     "type": "item",
     "id": "GRIFFIN_UPGRADE_STONE_EPIC",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Griffin_Upgrade_Stone"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Epic_Griffin_Upgrade_Stone"
     }
   },
   {
     "type": "item",
     "id": "GRIFFIN_UPGRADE_STONE_LEGENDARY",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Griffin_Upgrade_Stone"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Legendary_Griffin_Upgrade_Stone"
     }
   },
   {
@@ -16077,14 +16084,14 @@
     "type": "item",
     "id": "GRIFFIN_UPGRADE_STONE_RARE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Griffin_Upgrade_Stone"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rare_Griffin_Upgrade_Stone"
     }
   },
   {
     "type": "item",
     "id": "GRIFFIN_UPGRADE_STONE_UNCOMMON",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Griffin_Upgrade_Stone"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Griffin_Upgrade_Stone"
     }
   },
   {
@@ -16904,7 +16911,7 @@
     "type": "item",
     "id": "HILT_OF_TRUE_ICE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hilt_of_True_Ice"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/True_Ice"
     }
   },
   {
@@ -17530,7 +17537,7 @@
     "type": "item",
     "id": "HUNTING_WISDOM_BOOSTER_UNCOMMON",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Hunting_Wisdom_Booster"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Hunting_Wisdom_Booster_Upgrade"
     }
   },
   {
@@ -19079,28 +19086,28 @@
     "type": "item",
     "id": "KARATE_FISH_BRONZE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Karate_Fish"
     }
   },
   {
     "type": "item",
     "id": "KARATE_FISH_DIAMOND",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Karate_Fish"
     }
   },
   {
     "type": "item",
     "id": "KARATE_FISH_GOLD",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Karate_Fish"
     }
   },
   {
     "type": "item",
     "id": "KARATE_FISH_SILVER",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Karate_Fish"
     }
   },
   {
@@ -19483,7 +19490,7 @@
     "type": "item",
     "id": "LANTERN",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lantern"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dwarven_Lantern"
     }
   },
   {
@@ -20474,21 +20481,21 @@
     "type": "item",
     "id": "LOTUS_BELT",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lotus_Belt"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Peony_Belt"
     }
   },
   {
     "type": "item",
     "id": "LOTUS_BRACELET",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lotus_Bracelet"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Peony_Bracelet"
     }
   },
   {
     "type": "item",
     "id": "LOTUS_CLOAK",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lotus_Cloak"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Peony_Cloak"
     }
   },
   {
@@ -20516,7 +20523,7 @@
     "type": "item",
     "id": "LOTUS_NECKLACE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lotus_Necklace"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Peony_Necklace"
     }
   },
   {
@@ -20972,7 +20979,7 @@
     "type": "item",
     "id": "MAGMA_LORD_GAUNTLET",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magma_Lord_Gauntlet"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magma_Lord_Necklace"
     }
   },
   {
@@ -21126,7 +21133,7 @@
     "type": "item",
     "id": "MANGROVE_VINE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mangrove_Vine"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Moonglade_Belt"
     }
   },
   {
@@ -21532,14 +21539,14 @@
     "type": "item",
     "id": "MELON_BOOTS",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Melon_Boots"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tater_Boots"
     }
   },
   {
     "type": "item",
     "id": "MELON_CHESTPLATE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Melon_Chestplate"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tater_Chestplate"
     }
   },
   {
@@ -21651,7 +21658,7 @@
     "type": "item",
     "id": "MELON_HELMET",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Melon_Helmet"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tater_Helmet"
     }
   },
   {
@@ -21672,7 +21679,7 @@
     "type": "item",
     "id": "MELON_LEGGINGS",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Melon_Leggings"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tater_Leggings"
     }
   },
   {
@@ -21712,7 +21719,7 @@
     "type": "item",
     "id": "MERCENARY_AXE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mercenary_Axe"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mercenary_Sword"
     }
   },
   {
@@ -21796,7 +21803,7 @@
     "type": "item",
     "id": "METEOR_SHARD",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Meteor_Shard"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Meteor_Chunk"
     }
   },
   {
@@ -21960,7 +21967,7 @@
     "type": "item",
     "id": "MINING_PUMPKIN",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Powder_Pumpkin"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Powder_Pie"
     }
   },
   {
@@ -22624,7 +22631,7 @@
     "type": "item",
     "id": "MUSHROOM_COW_AXE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mushroom_Cow_Axe"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Advanced_Mooshroom_Axe"
     }
   },
   {
@@ -23240,7 +23247,7 @@
     "type": "item",
     "id": "NETHER_WART_POUCH",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Nether_Wart_Pouch"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Nether_Wart_Basket"
     }
   },
   {
@@ -25022,7 +25029,7 @@
     "type": "item",
     "id": "PESTHUNTING_GUIDE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/A_Beginner%27s_Guide__Pesthunting"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/A_Beginner%27s_Guide_to_Pesthunting"
     }
   },
   {
@@ -26100,7 +26107,7 @@
     "type": "item",
     "id": "PET_SKIN_ENDERMITE_GATEWAY",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pet_Skins"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Gateway_Endermite_Skin"
     }
   },
   {
@@ -26492,7 +26499,7 @@
     "type": "item",
     "id": "PET_SKIN_KUUDRA_ABYSSAL",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pet_Skins"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Abyssal_Kuudra_Skin"
     }
   },
   {
@@ -26863,7 +26870,7 @@
     "type": "item",
     "id": "PET_SKIN_PHOENIX_SEAGULL",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pet_Skins"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Seagull_Phoenix_Skin"
     }
   },
   {
@@ -26919,7 +26926,7 @@
     "type": "item",
     "id": "PET_SKIN_RABBIT_HOT_COCOA",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pet_Skins"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hot_Cocoa_Rabbit_Skin"
     }
   },
   {
@@ -27696,14 +27703,14 @@
     "type": "item",
     "id": "PET_SKIN_TYRANNOSAURUS_FOSSIL",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pet_Skins"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fossil_T-Rex_Skin"
     }
   },
   {
     "type": "item",
     "id": "PET_SKIN_TYRANNOSAURUS_PLUSHIE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pet_Skins"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Plushie_T-Rex_Skin"
     }
   },
   {
@@ -27850,7 +27857,7 @@
     "type": "item",
     "id": "PHANTOM_HOOK",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Phantom_Hook"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Spooky_Hook"
     }
   },
   {
@@ -27899,7 +27906,7 @@
     "type": "item",
     "id": "PIG_AXE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pig_Axe"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Advanced_Pig_Axe"
     }
   },
   {
@@ -28956,14 +28963,14 @@
     "type": "item",
     "id": "PUMPKIN_BOOTS",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Boots"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sprout_Boots"
     }
   },
   {
     "type": "item",
     "id": "PUMPKIN_CHESTPLATE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Chestplate"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sprout_Chestplate"
     }
   },
   {
@@ -29089,7 +29096,7 @@
     "type": "item",
     "id": "PUMPKIN_HELMET",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Helmet"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sprout_Helmet"
     }
   },
   {
@@ -29103,7 +29110,7 @@
     "type": "item",
     "id": "PUMPKIN_LEGGINGS",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Leggings"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sprout_Leggings"
     }
   },
   {
@@ -29323,7 +29330,7 @@
     "type": "item",
     "id": "RABBIT_AXE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Axe"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Advanced_Rabbit_Axe"
     }
   },
   {
@@ -29527,7 +29534,7 @@
     "type": "item",
     "id": "RAIDER_AXE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Raider_Axe"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Raider_Sword"
     }
   },
   {
@@ -29669,7 +29676,7 @@
     "type": "item",
     "id": "RAZOR_SHARP_SHARK_TOOTH_NECKLACE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Razor-sharp_Shark_Tooth_Necklace"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Razor-Sharp_Shark_Tooth_Necklace"
     }
   },
   {
@@ -30917,7 +30924,7 @@
     "type": "item",
     "id": "ROOKIE_AXE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rookie_Axe"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rookie_Foraging_Axe"
     }
   },
   {
@@ -32159,7 +32166,7 @@
     "type": "item",
     "id": "SHARD_OF_THE_SHREDDED",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Shard_of_the_Shredded"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Shredded_Sinew"
     }
   },
   {
@@ -32269,7 +32276,7 @@
     "type": "item",
     "id": "SHEEP_AXE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sheep_Axe"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Advanced_Sheep_Axe"
     }
   },
   {
@@ -32465,7 +32472,7 @@
     "type": "item",
     "id": "SHINY_SHARD",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Shiny_Shard"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Shiny_Token"
     }
   },
   {
@@ -32708,28 +32715,28 @@
     "type": "item",
     "id": "SKELETON_FISH_BRONZE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Fish"
     }
   },
   {
     "type": "item",
     "id": "SKELETON_FISH_DIAMOND",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Fish"
     }
   },
   {
     "type": "item",
     "id": "SKELETON_FISH_GOLD",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Fish"
     }
   },
   {
     "type": "item",
     "id": "SKELETON_FISH_SILVER",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Fish"
     }
   },
   {
@@ -32967,7 +32974,7 @@
     "type": "item",
     "id": "SKELETON_THE_FISH",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Skeleton__Fish"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Skeleton_the_Fish"
     }
   },
   {
@@ -33042,7 +33049,7 @@
     "type": "item",
     "id": "SKYBLOCK_DESERT_WHISPERS",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Forest_Whispers"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Desert_Whispers"
     }
   },
   {
@@ -33262,28 +33269,28 @@
     "type": "item",
     "id": "SLUGFISH_BRONZE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Slugfish"
     }
   },
   {
     "type": "item",
     "id": "SLUGFISH_DIAMOND",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Slugfish"
     }
   },
   {
     "type": "item",
     "id": "SLUGFISH_GOLD",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Slugfish"
     }
   },
   {
     "type": "item",
     "id": "SLUGFISH_SILVER",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Slugfish"
     }
   },
   {
@@ -33593,7 +33600,7 @@
     "type": "item",
     "id": "SNOWFLAKE_THE_FISH",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flake__Fish"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flake_the_Fish"
     }
   },
   {
@@ -34170,28 +34177,28 @@
     "type": "item",
     "id": "SOUL_FISH_BRONZE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Soul_Fish"
     }
   },
   {
     "type": "item",
     "id": "SOUL_FISH_DIAMOND",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Soul_Fish"
     }
   },
   {
     "type": "item",
     "id": "SOUL_FISH_GOLD",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Soul_Fish"
     }
   },
   {
     "type": "item",
     "id": "SOUL_FISH_SILVER",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Soul_Fish"
     }
   },
   {
@@ -34728,7 +34735,7 @@
     "type": "item",
     "id": "SPOOKY_SHARD",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Spooky_Shard"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Spooky_Fragment"
     }
   },
   {
@@ -35324,7 +35331,7 @@
     "type": "item",
     "id": "STARLYN_PRIZE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Starlyn_Prize"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Agatha%27s_Prize"
     }
   },
   {
@@ -36491,14 +36498,14 @@
     "type": "item",
     "id": "SWEEP_BOOSTER",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sweep_Booster"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Common_Sweep_Booster"
     }
   },
   {
     "type": "item",
     "id": "SWEEP_BOOSTER_UNCOMMON",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Sweep_Booster"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Sweep_Booster_Upgrade"
     }
   },
   {
@@ -37072,7 +37079,7 @@
     "type": "item",
     "id": "THEORETICAL_HOE_CANE_1",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turing_Sugar_Cane_Hoe"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turing_Sugar_Cane_Cutter"
     }
   },
   {
@@ -37093,7 +37100,7 @@
     "type": "item",
     "id": "THEORETICAL_HOE_CARROT_1",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Gauss_Carrot_Hoe"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Gauss_Carrot_Shovel"
     }
   },
   {
@@ -37114,7 +37121,7 @@
     "type": "item",
     "id": "THEORETICAL_HOE_POTATO_1",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pythagorean_Potato_Hoe"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pythagorean_Potato_Shovel"
     }
   },
   {
@@ -37156,7 +37163,7 @@
     "type": "item",
     "id": "THEORETICAL_HOE_WARTS_1",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Newton_Nether_Warts_Hoe"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Newton_Nether_Wart_Cutter"
     }
   },
   {
@@ -37177,7 +37184,7 @@
     "type": "item",
     "id": "THEORETICAL_HOE_WHEAT_1",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Euclid%27s_Wheat_Hoe"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Euclid%27s_Wheat_Sickle"
     }
   },
   {
@@ -38899,28 +38906,28 @@
     "type": "item",
     "id": "VOLCANIC_STONEFISH_BRONZE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Volcanic_Stonefish"
     }
   },
   {
     "type": "item",
     "id": "VOLCANIC_STONEFISH_DIAMOND",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Volcanic_Stonefish"
     }
   },
   {
     "type": "item",
     "id": "VOLCANIC_STONEFISH_GOLD",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Volcanic_Stonefish"
     }
   },
   {
     "type": "item",
     "id": "VOLCANIC_STONEFISH_SILVER",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Volcanic_Stonefish"
     }
   },
   {
@@ -45545,7 +45552,7 @@
     "type": "mob",
     "id": "GRAVEL_SKELETON_MONSTER",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Gravel_Skeleton"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flint_Skeleton"
     }
   },
   {
@@ -48163,7 +48170,7 @@
     "type": "mob",
     "id": "SKYMART_NPC",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/SkyMart"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Skymart"
     }
   },
   {
@@ -49115,7 +49122,7 @@
     "type": "mob",
     "id": "WORM_MONSTER",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Worm"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Stoneworm"
     }
   },
   {
@@ -49287,7 +49294,7 @@
     "id": "AXE_FADING_GREEN",
     "tier": 1,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fading_Green_Rune"
     }
   },
   {
@@ -49295,7 +49302,7 @@
     "id": "AXE_FADING_GREEN",
     "tier": 2,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fading_Green_Rune"
     }
   },
   {
@@ -49303,7 +49310,7 @@
     "id": "AXE_FADING_GREEN",
     "tier": 3,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fading_Green_Rune"
     }
   },
   {
@@ -49311,7 +49318,7 @@
     "id": "AXE_FADING_WHITE",
     "tier": 1,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fading_White_Rune"
     }
   },
   {
@@ -49319,7 +49326,7 @@
     "id": "AXE_FADING_WHITE",
     "tier": 2,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fading_White_Rune"
     }
   },
   {
@@ -49327,7 +49334,7 @@
     "id": "AXE_FADING_WHITE",
     "tier": 3,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fading_White_Rune"
     }
   },
   {
@@ -49335,7 +49342,7 @@
     "id": "AXE_RAINBOW",
     "tier": 3,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fading_Rainbow_Rune"
     }
   },
   {
@@ -49439,7 +49446,7 @@
     "id": "CROWNED",
     "tier": 3,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Crowned_Rune"
     }
   },
   {
@@ -49855,7 +49862,7 @@
     "id": "ORNAMENTAL",
     "tier": 3,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ornamental_Rune"
     }
   },
   {
@@ -49863,7 +49870,7 @@
     "id": "PEAFOWL",
     "tier": 3,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Peafowl_Rune"
     }
   },
   {
@@ -49871,7 +49878,7 @@
     "id": "RAINBOW_CARPET",
     "tier": 3,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rainbow_Carpet_Rune"
     }
   },
   {
@@ -49903,7 +49910,7 @@
     "id": "RAINY_DAY",
     "tier": 3,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rainy_Day_Rune"
     }
   },
   {
@@ -49935,7 +49942,7 @@
     "id": "SLIMY",
     "tier": 1,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Slimy_Rune"
     }
   },
   {
@@ -49943,7 +49950,7 @@
     "id": "SLIMY",
     "tier": 2,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Slimy_Rune"
     }
   },
   {
@@ -49951,7 +49958,7 @@
     "id": "SLIMY",
     "tier": 3,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Slimy_Rune"
     }
   },
   {
@@ -49959,7 +49966,7 @@
     "id": "SMITTEN",
     "tier": 3,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Smitten_Rune"
     }
   },
   {
@@ -50119,7 +50126,7 @@
     "id": "SUPER_PUMPKIN",
     "tier": 3,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Super_Pumpkin_Rune"
     }
   },
   {
@@ -50151,7 +50158,7 @@
     "id": "TURKEY",
     "tier": 3,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Runes"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turkey_Rune"
     }
   },
   {
@@ -51455,7 +51462,7 @@
     "id": "FEROCIOUS_MANA",
     "level": 1,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ferocious_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vivacious_Vitality"
     }
   },
   {
@@ -51463,7 +51470,7 @@
     "id": "FEROCIOUS_MANA",
     "level": 10,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ferocious_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vivacious_Vitality"
     }
   },
   {
@@ -51471,7 +51478,7 @@
     "id": "FEROCIOUS_MANA",
     "level": 2,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ferocious_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vivacious_Vitality"
     }
   },
   {
@@ -51479,7 +51486,7 @@
     "id": "FEROCIOUS_MANA",
     "level": 3,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ferocious_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vivacious_Vitality"
     }
   },
   {
@@ -51487,7 +51494,7 @@
     "id": "FEROCIOUS_MANA",
     "level": 4,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ferocious_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vivacious_Vitality"
     }
   },
   {
@@ -51495,7 +51502,7 @@
     "id": "FEROCIOUS_MANA",
     "level": 5,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ferocious_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vivacious_Vitality"
     }
   },
   {
@@ -51503,7 +51510,7 @@
     "id": "FEROCIOUS_MANA",
     "level": 6,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ferocious_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vivacious_Vitality"
     }
   },
   {
@@ -51511,7 +51518,7 @@
     "id": "FEROCIOUS_MANA",
     "level": 7,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ferocious_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vivacious_Vitality"
     }
   },
   {
@@ -51519,7 +51526,7 @@
     "id": "FEROCIOUS_MANA",
     "level": 8,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ferocious_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vivacious_Vitality"
     }
   },
   {
@@ -51527,7 +51534,7 @@
     "id": "FEROCIOUS_MANA",
     "level": 9,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ferocious_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vivacious_Vitality"
     }
   },
   {
@@ -51951,7 +51958,7 @@
     "id": "HARDENED_MANA",
     "level": 1,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Vitality"
     }
   },
   {
@@ -51959,7 +51966,7 @@
     "id": "HARDENED_MANA",
     "level": 10,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Vitality"
     }
   },
   {
@@ -51967,7 +51974,7 @@
     "id": "HARDENED_MANA",
     "level": 2,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Vitality"
     }
   },
   {
@@ -51975,7 +51982,7 @@
     "id": "HARDENED_MANA",
     "level": 3,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Vitality"
     }
   },
   {
@@ -51983,7 +51990,7 @@
     "id": "HARDENED_MANA",
     "level": 4,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Vitality"
     }
   },
   {
@@ -51991,7 +51998,7 @@
     "id": "HARDENED_MANA",
     "level": 5,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Vitality"
     }
   },
   {
@@ -51999,7 +52006,7 @@
     "id": "HARDENED_MANA",
     "level": 6,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Vitality"
     }
   },
   {
@@ -52007,7 +52014,7 @@
     "id": "HARDENED_MANA",
     "level": 7,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Vitality"
     }
   },
   {
@@ -52015,7 +52022,7 @@
     "id": "HARDENED_MANA",
     "level": 8,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Vitality"
     }
   },
   {
@@ -52023,7 +52030,7 @@
     "id": "HARDENED_MANA",
     "level": 9,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hardened_Vitality"
     }
   },
   {
@@ -52743,7 +52750,7 @@
     "id": "MANA_VAMPIRE",
     "level": 1,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Vampire"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampiric_Vitality"
     }
   },
   {
@@ -52751,7 +52758,7 @@
     "id": "MANA_VAMPIRE",
     "level": 10,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Vampire"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampiric_Vitality"
     }
   },
   {
@@ -52759,7 +52766,7 @@
     "id": "MANA_VAMPIRE",
     "level": 2,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Vampire"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampiric_Vitality"
     }
   },
   {
@@ -52767,7 +52774,7 @@
     "id": "MANA_VAMPIRE",
     "level": 3,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Vampire"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampiric_Vitality"
     }
   },
   {
@@ -52775,7 +52782,7 @@
     "id": "MANA_VAMPIRE",
     "level": 4,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Vampire"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampiric_Vitality"
     }
   },
   {
@@ -52783,7 +52790,7 @@
     "id": "MANA_VAMPIRE",
     "level": 5,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Vampire"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampiric_Vitality"
     }
   },
   {
@@ -52791,7 +52798,7 @@
     "id": "MANA_VAMPIRE",
     "level": 6,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Vampire"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampiric_Vitality"
     }
   },
   {
@@ -52799,7 +52806,7 @@
     "id": "MANA_VAMPIRE",
     "level": 7,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Vampire"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampiric_Vitality"
     }
   },
   {
@@ -52807,7 +52814,7 @@
     "id": "MANA_VAMPIRE",
     "level": 8,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Vampire"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampiric_Vitality"
     }
   },
   {
@@ -52815,7 +52822,7 @@
     "id": "MANA_VAMPIRE",
     "level": 9,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mana_Vampire"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampiric_Vitality"
     }
   },
   {
@@ -54007,7 +54014,7 @@
     "id": "STRONG_MANA",
     "level": 1,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Vitality"
     }
   },
   {
@@ -54015,7 +54022,7 @@
     "id": "STRONG_MANA",
     "level": 10,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Vitality"
     }
   },
   {
@@ -54023,7 +54030,7 @@
     "id": "STRONG_MANA",
     "level": 2,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Vitality"
     }
   },
   {
@@ -54031,7 +54038,7 @@
     "id": "STRONG_MANA",
     "level": 3,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Vitality"
     }
   },
   {
@@ -54039,7 +54046,7 @@
     "id": "STRONG_MANA",
     "level": 4,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Vitality"
     }
   },
   {
@@ -54047,7 +54054,7 @@
     "id": "STRONG_MANA",
     "level": 5,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Vitality"
     }
   },
   {
@@ -54055,7 +54062,7 @@
     "id": "STRONG_MANA",
     "level": 6,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Vitality"
     }
   },
   {
@@ -54063,7 +54070,7 @@
     "id": "STRONG_MANA",
     "level": 7,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Vitality"
     }
   },
   {
@@ -54071,7 +54078,7 @@
     "id": "STRONG_MANA",
     "level": 8,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Vitality"
     }
   },
   {
@@ -54079,7 +54086,7 @@
     "id": "STRONG_MANA",
     "level": 9,
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Mana"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strong_Vitality"
     }
   },
   {
@@ -56280,6 +56287,2239 @@
     "level": 5,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Vicious"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ACCESSORY_SIZE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hideonring_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_AIRBORNE_RESISTANCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blue_Jay_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_AIRBORNE_RULER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bluebird_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ALMIGHTY;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Molthorn_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ANIMAL_EXPERTISE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bambloom_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ANIMAL_FORTUNE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wild_Hog_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ANIMAL_RESISTANCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Howling_Spirit_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ANIMAL_RULER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sprawl_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_AQUATIC_FORTUNE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Giant_Water_Bug_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_AQUATIC_RESISTANCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dumpster_Diver_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ARACHNO;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flaming_Spider_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ARACHNO_RESISTANCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Voracious_Spider_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ARCANE_FORTUNE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hideonwall_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ARCANE_RESISTANCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Brineling_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ARCANE_RULER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Duplico_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ARTHROPOD_FORTUNE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Black_Widow_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ATOMIZED_CRYSTALS;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thyst_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ATOMIZED_GLACITE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Stalagmight_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ATOMIZED_MITHRIL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Star_Sentry_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ATOMIZED_WHISPERS;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pangolin_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ATTACK_SPEED;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Demonlord_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_AXE_COOLDOWN;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Drybark_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BARTENDER_DISCOUNT;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bloodbat_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BATTLE_ARACHNID;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Areita_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BATTLE_EXPERIENCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Falcon_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BATTLE_FROG;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rana_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BATTLE_TRACKER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Badger_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BAYOU_BITER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Titanoboa_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BAYOU_TREASURE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cheeky_Tiki_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BEACON_ZEALOT;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Beaconmite_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BERRY_ENJOYER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bullfrog_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BERRY_MOGUL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fenlord_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BIGGER_BOX;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hideoncave_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BIG_GAME_HUNTER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sphinx_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BLAZING;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flare_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BLAZING_FORTUNE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lava_Flame_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BLAZING_RESISTANCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bezal_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BONE_FONT;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lapis_Skeleton_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BONUS_PEST_CHANCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Keeled_Slug_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BOOK_WISDOM;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lapis_Creeper_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BOOT_FISHER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Maggot_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BREEZE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wither_Spectre_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BUCKET_GREED;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sepialot_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BUCKET_LOVER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Coralot_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BUCKLE_FISHER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Litterbug_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_BUILDER_DISCOUNT;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Woodchucker_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_CATACOMBS_EXPLORER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bonzo_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_CATACOMBS_GRADUATE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Scarf_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_CATACOMB_BOX;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hideongeon_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_CAVERNOUS_TRACKER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rockmite_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_CAVERN_WISDOM;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cavernshade_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_CAVE_FISHING;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cavernfish_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_CHARMED;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Naga_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_CHEAPSTAKE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cod_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_CHOCOLATE_SPEED;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bunbun_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_CHOP;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hummingbird_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_CLOAK_IMPROVEMENT;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tortoise_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_COCOON_CHANCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Primordial_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_COLD_RESISTANCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wumpa_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_COMBAT_TRAP;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dustybit_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_COMPOST_SPEED;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bayou_Sludge_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_CONSTRUCT_FORTUNE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wiki_Tiki_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_CONSTRUCT_RULER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Shrieky_Tiki_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_COOKIE_EATER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bitbug_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_CRIMSON_ESSENCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lava_Leech_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_CRIMSON_SERENDIPITY;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inferno_Koi_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_CRITTER_FORTUNE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hewver_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_CROP_BUG;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Beetle_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_CROP_SPEED;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Locust_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_CRYSTAL_SERENDIPITY;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Silentdepth_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_CUBIC_FORTUNE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hivethief_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_DEADEYE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Skeletor_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_DECENT_KARMA;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Newt_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_DEEP_DIVING;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Joydive_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_DEEP_TECHNIQUE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bal_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_DEVOURING_SPREAD;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Gemzie_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_DIAMOND_FROG;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Seashine_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_DIURNAL_ANIMAL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Groundhog_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_DIVINE_RABBIT_LUCK;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Godmother_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_DOMINANCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thorn_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_DOUBLE_HOOK;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lord_Jawbus_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_DRAGON_ESSENCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Draconic_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_DRAGON_SHORTBOW_IMPROVEMENT;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Seer_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_DWARVEN_SERENDIPITY;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Abyssal_Lanternfish_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_DWARVEN_TRAINING;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Treasure_Hoarder_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_EARTH_ELEMENTAL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Terra_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ECHO_OF_ATOMIZED;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Iguana_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ECHO_OF_BOXES;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cuboa_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ECHO_OF_BUCKETS;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Goldolot_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ECHO_OF_ECHOES;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tiamat_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ECHO_OF_ELEMENTAL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Starborn_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ECHO_OF_ESSENCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Komodo_Dragon_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ECHO_OF_HUNTER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sea_Serpent_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ECHO_OF_RESISTANCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Alligator_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ECHO_OF_RULER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Caiman_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ECHO_OF_SHARPENING;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Gecko_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ECHO_OF_TRACKING;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Doomspiral_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ECHO_OF_WISDOM;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wyvern_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_EELASTIC;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Eel_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_EGG_FINDER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Godfather_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ELITE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Power_Dragon_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ELUSIVE_FORTUNE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hideyho_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ELUSIVE_RULER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Queen_Ant_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ENCHANTED_FARMER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mosquito_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ENDER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Zealot_Bruiser_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ENDER_RESISTANCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Zealot_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ESSENCE_OF_FOSSILS;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Troodon_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_EXCELLENT_KARMA;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Leviathan_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_EXPERIENCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lapis_Zombie_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_EXTREME_PRESSURE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lumisquid_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FAKER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mimic_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FANCY_VISIT;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Invisibug_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FIG_COLLECTOR;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sparrow_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FIG_SHARPENING;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Crow_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FILTER_UPGRADE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mite_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FIRST_SWEEP;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Torrid_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FISHERMAN;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Inkling_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FISHERS_FORTUNE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Giant_Isopod_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FISHING_EXPERIENCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Loch_Emperor_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FISHING_SPEED;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Water_Hydra_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FLEXIBLE_FISHER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Osedax_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FLOOR_FORTUNE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Anteater_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FLYING_FORTUNE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Parakeet_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FOG_ELEMENTAL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mist_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FORAGERS_FORTUNE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Silkbreeze_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FORAGING_FROG;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Treefrog_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FORAGING_SPEED;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Foxtrot_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FORAGING_TRACKER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fluffling_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FORAGING_WISDOM;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pandarai_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FOREST_ELEMENTAL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sylvan_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FOREST_ESSENCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dreadwing_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FOREST_FELLING;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Woodpecker_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FOREST_FISHING;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Verdant_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FOREST_SERENDIPITY;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Puck_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FOREST_STRENGTH;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Azure_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FOREST_TRAP;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mossybit_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FORTITUDE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/End_Stone_Protector_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FORTUNATE_FARMER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fly_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FORTUNATE_MINER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flitter_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FREEZING_SPREAD;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Littlefoot_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FROG_LEGS;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Toad_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FROST_ELEMENTAL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cryo_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FROZEN_FORTUNE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Billygoat_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FROZEN_RESISTANCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Strongarm_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FROZEN_RULER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Polaris_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FUNGY_LUCK;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fungloom_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_GALATEA_TRAINING;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ember_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_GARDEN_WISDOM;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dragonfly_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_GHASTLY_DISTRACTION;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dive_Ghast_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_GLOSSY_FORTUNE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Scatha_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_GOLDEN_FROG;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flipflopper_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_GOLD_BAIT;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Goldfin_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_GOLD_BOX;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hideonsun_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_GOOD_KARMA;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Salamander_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_GREAT_KARMA;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lizard_King_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_GREAT_TREASURE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mantis_Shrimp_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_GREEDY_GOBLIN;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Gimmiegold_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_GREENHOUSE_SPEED;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Timestalk_Clone_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_GROOVY_RADAR;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cocoaleech_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_HAPPY_BOX;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hideongift_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_HELIX_COLLECTOR;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hawk_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_HELIX_SHARPENING;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vulture_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_HITMAN_COOLDOWN;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Mafioso_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_HONEY_HAUL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Honeybuzz_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_HONEY_LUCK;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pollendart_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_HONEY_REFILL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Queen_Bee_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_HONEY_SERENDIPITY;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Honey_Badger_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_HONEY_SPEED;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Honeyhog_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_HUMANOID_RULER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Drowned_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_HUMANOID_RULER_NEW;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wetwing_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_HUNTER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bogged_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_HUNTERS_FANGS;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Viper_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_HUNTERS_GRASP;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/King_Cobra_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_HUNTERS_PRESSURE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Python_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_HUNTERS_SUPPRESS;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Basilisk_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_HUNTER_KARMA;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Megalith_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_HUNT_WISDOM;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Leatherback_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ICE_ESSENCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Glacite_Walker_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_IGNITION;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Matcho_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_INFECTION;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Magma_Slug_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_INFILTRATION;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Earthworm_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_INSECT_POWER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Praying_Mantis_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_KAT_FAVORITE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Kiwi_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_KING_OF_GREED;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/King_Minos_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_KUUDRA_BOX;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hideondra_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_LAKE_FISHING;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tepid_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_LATHERING_GREED;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Beeheemoth_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_LEGENDARY_RABBIT_LUCK;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Cat_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_LIFELINE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Kada_Knight_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_LIFE_RECOVERY;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sycophant_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_LIFE_REGENERATION;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Shinyfish_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_LIGHTNING_ELEMENTAL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bolt_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_LIGHT_ELEMENTAL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flash_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_LILY_PUNCHER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tewtil_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_LILY_TRACKER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lotum_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_LOCH_HOOK;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Nessie_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_LOST_AND_FOUND;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Salmon_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_LOTUS_TROPHY;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lotusfish_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_LUCKY_ROD;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Moray_Eel_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_LUNAR_POWER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lunar_Moth_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_MAGIC_FIND;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cinderbat_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_MAGMATIC_RULER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Stridersurfer_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_MANA_STEAL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rain_Slime_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_MANGROVE_COLLECTOR;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Seagull_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_MANGROVE_SHARPENING;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Heron_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_MATRIARCH_CUBS;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hellwisp_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_MAXIMAL_TORMENT;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Taurus_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_MENDING;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Kraken_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_MIDAS_TOUCH;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Golden_Ghoul_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_MIRACLE_CHANCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rainbug_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_MITE_SPAWNER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Honeymite_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_MOONGLADE_MASTERY;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Phanflare_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_MOONGLADE_SERENDIPITY;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Piranha_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_MOSSY_BOX;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hideonleaf_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_MOUNTAIN_CLIMBER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Troglobyte_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_MUTATION_SERENDIPITY;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Zombuddy_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_MYTHIC_RABBIT_LUCK;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Neighbor_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_MYTHOLOGICAL_FORTUNE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minotaur_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_MYTHOLOGICAL_RESISTANCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cretan_Bull_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_MYTHOLOGICAL_RULER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minos_Hunter_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_NATURE_ELEMENTAL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Grove_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_NOCTURNAL_ANIMAL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Phanpyre_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_OUTSTANDING_FISHER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blue_Crab_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_OWL_FRIEND;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Boreal_Owl_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_PAYBACK;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Spike_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_PEST_COOLDOWN;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Moth_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_PEST_FORTUNE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cricket_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_PEST_LUCK;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Field_Mouse_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_PET_WISDOM;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Condor_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_PICKAXE_COOLDOWN;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Abyssal_Miner_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_PITY;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Daemon_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_PRETTY_CLOTHES;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ladybug_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_PURE_REPTILE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Crocodile_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_QUARTZ_SPEED;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Quartzfang_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_QUEENLY_ECHO;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Queen_Snake_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_QUEEN_TRACKER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ant_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_RABBIT_CREW;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Carrot_King_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_RARE_BIRD;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dodo_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_REBORN;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Prince_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_REFINED_LUCK;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Stoneworm_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_REKINDLE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Murkbat_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_REPTILOID;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Chameleon_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ROTTEN_PICKAXE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Miner_Zombie_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ROYAL_RICHES;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Nilbog_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SACK_SIZE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hideonsack_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SCRAP_CHANCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Scrappy_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SHADOW_ELEMENTAL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tenebris_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SHELL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Shellwise_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SKELETAL_RESISTANCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Haggard_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SKELETAL_RULER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Chill_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SKY_HIGH;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Murderwing_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SLAYER_DISCOUNT;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Paragon_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SLAYER_PROGRESS;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wolverine_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SLEEPY_SPREAD;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Snoozle_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SNOW_ELEMENTAL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blizzard_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SOCIAL_WISDOM;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mountain_Goat_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SOLAR_POWER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Firefly_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SOUL_SNATCHER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Solsnatcher_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SPECIAL_UPGRADES;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Special_Zealot_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SPEED;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Obsidian_Defender_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SPIDER_ESSENCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Arachne_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SPIRIT_AXE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ent_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SPLENDOR;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Macaw_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SPRAYONATOR_SERENDIPITY;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rat_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_STARBORN;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sun_Fish_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_STARLYN_TRAINING;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Solar_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_STAR_BAIT;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Moltenfish_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_STONE_ELEMENTAL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Quake_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_STORM_ELEMENTAL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tempest_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_STRONG_ARMS;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bambuleaf_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_STRONG_LEGS;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mochibear_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SUBTERRANEAN_FORTUNE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Chuckwalla_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SUBTERRANEAN_RESISTANCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Shyworm_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_SUBTERRANEAN_RULER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Driftling_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_THUNDER_SPEED;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thunder_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_TICKET_DISCOUNT;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/June_Bug_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_TIKI_TRACKER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sneaky_Tiki_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_TITANOBOA_TRACKER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Water_Snake_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_TORRENT_ELEMENTAL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cascade_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_TORRHUS_DIVER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Timil_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_TORRHUS_MASTERY;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Firefox_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_TORRHUS_SERENDIPITY;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Stingray_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_TOUGH_CLAWS;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Grizzly_Bear_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_TREASURE_FISHER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ghost_Crab_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_TREE_LURKER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Harpy_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_TROPHY_HUNTER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fire_Eel_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_TUNING_BOX;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hideonbox_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ULTIMATE_DNA;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Galaxy_Fish_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_UNDEAD;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Zombie_Soldier_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_UNDEAD_ESSENCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Revenant_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_UNDEAD_RESISTANCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tank_Zombie_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_UNDERWATER_TRACKER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Nozzlenose_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_UNITY_IS_STRENGTH;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tadgang_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_UNLIMITED_ENERGY;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Etherdrake_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_UNLIMITED_POWER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Jormung_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_VEIL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ghost_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_VETERAN;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Apex_Dragon_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_VISITOR_BAIT;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mudworm_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_VISITOR_CHEESE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Woodlouse_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_VISITOR_COMPOST;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Parched_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_VISITOR_DUNG;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dung_Beetle_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_VISITOR_HONEY;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Honeybug_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_VISITOR_PLANT;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Red_Panda_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_WARRIOR;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Barbarian_Duke_X_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_WART_EATER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wartybug_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_WATER_ELEMENTAL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tide_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_WHY_NOT_MORE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Toucan_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_WIND_ELEMENTAL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Aero_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_WINGS_OF_DESTINY;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ananke_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_WINTER_SERENDIPITY;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Snowfin_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_WITCHS_FORTUNE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sea_Witch_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_WITHER_ESSENCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wither_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_WOODLAND_FORTUNE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hideonfloor_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_WOODLAND_RESISTANCE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Stag_Beetle_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_WOOD_ELEMENTAL;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bramble_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_YETI_TRACKER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Shuddersquid_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_YOG_MEMBRANE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Yog_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_YUMMY;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Birries_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_ZEALOT_TRACKER;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Gazer_Shard"
     }
   }
 ]
