@@ -4161,7 +4161,7 @@
           "components": {
             "minecraft:custom_data": {
               "id": "BINGO;0",
-              "petInfo": "{\\\"type\\\":\\\"BINGO\\\",\\\"active\\\":false,\\\"exp\\\":0,\\\"tier\\\":\\\"COMMON\\\",\\\"hideInfo\\\":false,\\\"candyUsed\\\":0}"
+              "petInfo": "{\"type\":\"BINGO\",\"active\":false,\"exp\":0,\"tier\":\"COMMON\",\"hideInfo\":false,\"candyUsed\":0}"
             },
             "minecraft:custom_name": {
               "text": "§7[Lvl {LVL}] §fBingo"
@@ -4278,7 +4278,7 @@
           "components": {
             "minecraft:custom_data": {
               "id": "BINGO;1",
-              "petInfo": "{\\\"type\\\":\\\"BINGO\\\",\\\"tier\\\":\\\"UNCOMMON\\\",\\\"hideInfo\\\":false,\\\"exp\\\":0,\\\"candyUsed\\\":0}"
+              "petInfo": "{\"type\":\"BINGO\",\"tier\":\"UNCOMMON\",\"hideInfo\":false,\"exp\":0,\"candyUsed\":0}"
             },
             "minecraft:custom_name": {
               "text": "§7[Lvl {LVL}] §aBingo"
@@ -4572,7 +4572,7 @@
           "components": {
             "minecraft:custom_data": {
               "id": "BINGO;3",
-              "petInfo": "{\\\"type\\\":\\\"BINGO\\\",\\\"tier\\\":\\\"EPIC\\\",\\\"hideInfo\\\":false,\\\"exp\\\":0,\\\"candyUsed\\\":0}"
+              "petInfo": "{\"type\":\"BINGO\",\"tier\":\"EPIC\",\"hideInfo\":false,\"exp\":0,\"candyUsed\":0}"
             },
             "minecraft:custom_name": {
               "text": "§7[Lvl {LVL}] §5Bingo"
@@ -4945,7 +4945,7 @@
           "components": {
             "minecraft:custom_data": {
               "id": "BINGO;5",
-              "petInfo": "{\\\"type\\\":\\\"BINGO\\\",\\\"tier\\\":\\\"MYTHIC\\\",\\\"hideInfo\\\":false,\\\"exp\\\":0,\\\"candyUsed\\\":0}"
+              "petInfo": "{\"type\":\"BINGO\",\"tier\":\"MYTHIC\",\"hideInfo\":false,\"exp\":0,\"candyUsed\":0}"
             },
             "minecraft:custom_name": {
               "text": "§7[Lvl {LVL}] §dBingo"
@@ -22808,7 +22808,7 @@
           "components": {
             "minecraft:custom_data": {
               "id": "MAGMA_CUBE;0",
-              "petInfo": "{\\\"type\\\":\\\"MAGMA_CUBE\\\",\\\"active\\\":false,\\\"exp\\\":0,\\\"tier\\\":\\\"COMMON\\\",\\\"hideInfo\\\":false,\\\"candyUsed\\\":0}"
+              "petInfo": "{\"type\":\"MAGMA_CUBE\",\"active\":false,\"exp\":0,\"tier\":\"COMMON\",\"hideInfo\":false,\"candyUsed\":0}"
             },
             "minecraft:custom_name": {
               "text": "§7[Lvl {LVL}] §fMagma Cube"
