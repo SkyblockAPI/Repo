@@ -88,16 +88,14 @@ export const decode = (input) => {
     } else if (reader.peek() === '"') {
         reader.expect('"');
         let skip = false;
-        const result = reader.readUntil(c => {
-            if (skip) {
-                skip = false;
-                return true;
-            } else if (c === '\\') {
-                skip = true;
-                return true;
-            }
-            return c !== '"';
-        });
+        let result = '';
+        while (reader.peek() != '"') {
+            const peeked = reader.peek();
+            if (peeked == "\\") {
+                reader.read();
+            };
+            result += reader.read();
+        }
         reader.expect('"');
         return result;
     } else {

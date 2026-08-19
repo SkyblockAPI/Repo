@@ -65,7 +65,7 @@ for (let file of fs.readdirSync("neu/items")) {
         } else if (attributes.hasOwnProperty("runes")) {
             Runes.parseRune(data);
         } else if (attributes.hasOwnProperty("petInfo")) {
-            data.pet = JSON.parse(attributes.petInfo.replaceAll("\\\"", "\""));
+            data.pet = JSON.parse(attributes.petInfo);
             Pets.parsePet(data);
         } else if (data.displayname.match(/§.Enchanted Book/) && data.itemid === "minecraft:enchanted_book" && attributes.enchantments) {
             Enchantments.parseEnchantments(data);
