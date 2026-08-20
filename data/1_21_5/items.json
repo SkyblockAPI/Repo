@@ -45813,7 +45813,7 @@
           "text": "§7Shoots a dart. Can only damage"
         },
         {
-          "text": "§7§cZombies §7from §cZombie Shootout§7."
+          "text": "§cZombies §7from §cZombie Shootout§7."
         },
         {
           "text": ""
@@ -45824,7 +45824,24 @@
         {
           "text": "§a§lUNCOMMON"
         }
-      ]
+      ],
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
     }
   },
   {
@@ -235315,6 +235332,92 @@
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
+        "id": "PET_SKIN_AMMONITE_SHELLED"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Shelled Ammonite Skin"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Consumed on use"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Pet skins change the look and"
+        },
+        {
+          "text": "§7particle trail of your pet but only"
+        },
+        {
+          "text": "§7one skin can be active at a time!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This skin can only be applied to"
+        },
+        {
+          "text": "§aAmmonite§7 pets."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§aThis skin will allow you to swap"
+        },
+        {
+          "text": "§abetween 14 shell themed ammonites!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click on your summoned pet to"
+        },
+        {
+          "text": "§eapply this skin!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6§lLEGENDARY COSMETIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NzE0MzQ1NjM5MSwKICAicHJvZmlsZUlkIiA6ICJhODEzMzJmNjA5MmE0NDQ1Yjk1YzVhZGFjNDA2OTQzYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbmFwcHliM2FzdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xODQ4MjQ4NmE3YTJkNjQ2OWJmY2NkMzU5Yzg5MTQ5ZGJhZTBhYmVhYTFkZTAxMWNiNmJkMjEyYTI5NGNiNzY4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
         "id": "PET_SKIN_ANKYLOSAURUS_CAVE"
       },
       "minecraft:custom_name": {
@@ -359445,7 +359548,7 @@
         "id": "TURTLELLINI"
       },
       "minecraft:custom_name": {
-        "text": "§5Turtlellini"
+        "text": "§9Turtlellini"
       },
       "minecraft:lore": [
         {
@@ -359467,7 +359570,7 @@
           "text": ""
         },
         {
-          "text": "§5§lEPIC MUTATION"
+          "text": "§9§lRARE MUTATION"
         }
       ],
       "minecraft:profile": {
@@ -359482,7 +359585,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -359494,7 +359597,7 @@
           "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
     }
   },
   {
