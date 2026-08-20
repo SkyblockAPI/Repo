@@ -45858,6 +45858,13 @@
   },
   {
     "type": "mob",
+    "id": "HUNTER_JASPER_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hunter_Jasper"
+    }
+  },
+  {
+    "type": "mob",
     "id": "HUNTER_JEAN_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Hunter_Jean"
@@ -45868,6 +45875,13 @@
     "id": "HUNTER_LENNARD_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Hunter_Lennard"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "HUNTER_LUIGI_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hunter_Luigi"
     }
   },
   {
