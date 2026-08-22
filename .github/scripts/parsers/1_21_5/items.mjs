@@ -117,6 +117,7 @@ export const buildItemStack = (item) => {
                 ) {
                     value.id = item.nbt.ExtraAttributes.id;
                 }
+                value.id = value.id.replace(/-(\d+)$/, ':$1')
                 for (const [k, _] of Object.entries(value)) {
                     if (customDataExclusionList.keys.includes(k)) delete value[k];
                 }
