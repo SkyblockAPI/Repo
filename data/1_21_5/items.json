@@ -16686,7 +16686,7 @@
     "id": "minecraft:red_banner",
     "components": {
       "minecraft:custom_data": {
-        "id": "BANNER-1"
+        "id": "BANNER:1"
       },
       "minecraft:custom_name": {
         "text": "§fRed Banner"
@@ -16702,7 +16702,7 @@
     "id": "minecraft:lime_banner",
     "components": {
       "minecraft:custom_data": {
-        "id": "BANNER-10"
+        "id": "BANNER:10"
       },
       "minecraft:custom_name": {
         "text": "§fLime Banner"
@@ -16718,7 +16718,7 @@
     "id": "minecraft:yellow_banner",
     "components": {
       "minecraft:custom_data": {
-        "id": "BANNER-11"
+        "id": "BANNER:11"
       },
       "minecraft:custom_name": {
         "text": "§fYellow Banner"
@@ -16734,7 +16734,7 @@
     "id": "minecraft:light_blue_banner",
     "components": {
       "minecraft:custom_data": {
-        "id": "BANNER-12"
+        "id": "BANNER:12"
       },
       "minecraft:custom_name": {
         "text": "§fLight Blue Banner"
@@ -16750,7 +16750,7 @@
     "id": "minecraft:magenta_banner",
     "components": {
       "minecraft:custom_data": {
-        "id": "BANNER-13"
+        "id": "BANNER:13"
       },
       "minecraft:custom_name": {
         "text": "§fMagenta Banner"
@@ -16766,7 +16766,7 @@
     "id": "minecraft:orange_banner",
     "components": {
       "minecraft:custom_data": {
-        "id": "BANNER-14"
+        "id": "BANNER:14"
       },
       "minecraft:custom_name": {
         "text": "§fOrange Banner"
@@ -16819,7 +16819,7 @@
     "id": "minecraft:green_banner",
     "components": {
       "minecraft:custom_data": {
-        "id": "BANNER-2"
+        "id": "BANNER:2"
       },
       "minecraft:custom_name": {
         "text": "§fGreen Banner"
@@ -16835,7 +16835,7 @@
     "id": "minecraft:brown_banner",
     "components": {
       "minecraft:custom_data": {
-        "id": "BANNER-3"
+        "id": "BANNER:3"
       },
       "minecraft:custom_name": {
         "text": "§fBrown Banner"
@@ -16851,7 +16851,7 @@
     "id": "minecraft:blue_banner",
     "components": {
       "minecraft:custom_data": {
-        "id": "BANNER-4"
+        "id": "BANNER:4"
       },
       "minecraft:custom_name": {
         "text": "§fBlue Banner"
@@ -16867,7 +16867,7 @@
     "id": "minecraft:purple_banner",
     "components": {
       "minecraft:custom_data": {
-        "id": "BANNER-5"
+        "id": "BANNER:5"
       },
       "minecraft:custom_name": {
         "text": "§fPurple Banner"
@@ -16883,7 +16883,7 @@
     "id": "minecraft:cyan_banner",
     "components": {
       "minecraft:custom_data": {
-        "id": "BANNER-6"
+        "id": "BANNER:6"
       },
       "minecraft:custom_name": {
         "text": "§fCyan Banner"
@@ -16899,7 +16899,7 @@
     "id": "minecraft:light_gray_banner",
     "components": {
       "minecraft:custom_data": {
-        "id": "BANNER-7"
+        "id": "BANNER:7"
       },
       "minecraft:custom_name": {
         "text": "§fLight Gray Banner"
@@ -16915,7 +16915,7 @@
     "id": "minecraft:gray_banner",
     "components": {
       "minecraft:custom_data": {
-        "id": "BANNER-8"
+        "id": "BANNER:8"
       },
       "minecraft:custom_name": {
         "text": "§fGray Banner"
@@ -16931,7 +16931,7 @@
     "id": "minecraft:pink_banner",
     "components": {
       "minecraft:custom_data": {
-        "id": "BANNER-9"
+        "id": "BANNER:9"
       },
       "minecraft:custom_name": {
         "text": "§fPink Banner"
@@ -46157,7 +46157,7 @@
     "id": "minecraft:orange_carpet",
     "components": {
       "minecraft:custom_data": {
-        "id": "CARPET-1"
+        "id": "CARPET:1"
       },
       "minecraft:custom_name": {
         "text": "§fOrange Carpet"
@@ -46190,7 +46190,7 @@
     "id": "minecraft:purple_carpet",
     "components": {
       "minecraft:custom_data": {
-        "id": "CARPET-10"
+        "id": "CARPET:10"
       },
       "minecraft:custom_name": {
         "text": "§fPurple Carpet"
@@ -46223,7 +46223,7 @@
     "id": "minecraft:blue_carpet",
     "components": {
       "minecraft:custom_data": {
-        "id": "CARPET-11"
+        "id": "CARPET:11"
       },
       "minecraft:custom_name": {
         "text": "§fBlue Carpet"
@@ -46256,7 +46256,7 @@
     "id": "minecraft:brown_carpet",
     "components": {
       "minecraft:custom_data": {
-        "id": "CARPET-12"
+        "id": "CARPET:12"
       },
       "minecraft:custom_name": {
         "text": "§fBrown Carpet"
@@ -46289,7 +46289,7 @@
     "id": "minecraft:green_carpet",
     "components": {
       "minecraft:custom_data": {
-        "id": "CARPET-13"
+        "id": "CARPET:13"
       },
       "minecraft:custom_name": {
         "text": "§fGreen Carpet"
@@ -46322,7 +46322,7 @@
     "id": "minecraft:red_carpet",
     "components": {
       "minecraft:custom_data": {
-        "id": "CARPET-14"
+        "id": "CARPET:14"
       },
       "minecraft:custom_name": {
         "text": "§fRed Carpet"
@@ -46355,7 +46355,7 @@
     "id": "minecraft:black_carpet",
     "components": {
       "minecraft:custom_data": {
-        "id": "CARPET-15"
+        "id": "CARPET:15"
       },
       "minecraft:custom_name": {
         "text": "§fBlack Carpet"
@@ -46388,7 +46388,7 @@
     "id": "minecraft:magenta_carpet",
     "components": {
       "minecraft:custom_data": {
-        "id": "CARPET-2"
+        "id": "CARPET:2"
       },
       "minecraft:custom_name": {
         "text": "§fMagenta Carpet"
@@ -46421,7 +46421,7 @@
     "id": "minecraft:light_blue_carpet",
     "components": {
       "minecraft:custom_data": {
-        "id": "CARPET-3"
+        "id": "CARPET:3"
       },
       "minecraft:custom_name": {
         "text": "§fLight Blue Carpet"
@@ -46454,7 +46454,7 @@
     "id": "minecraft:yellow_carpet",
     "components": {
       "minecraft:custom_data": {
-        "id": "CARPET-4"
+        "id": "CARPET:4"
       },
       "minecraft:custom_name": {
         "text": "§fYellow Carpet"
@@ -46487,7 +46487,7 @@
     "id": "minecraft:lime_carpet",
     "components": {
       "minecraft:custom_data": {
-        "id": "CARPET-5"
+        "id": "CARPET:5"
       },
       "minecraft:custom_name": {
         "text": "§fLime Carpet"
@@ -46520,7 +46520,7 @@
     "id": "minecraft:pink_carpet",
     "components": {
       "minecraft:custom_data": {
-        "id": "CARPET-6"
+        "id": "CARPET:6"
       },
       "minecraft:custom_name": {
         "text": "§fPink Carpet"
@@ -46553,7 +46553,7 @@
     "id": "minecraft:gray_carpet",
     "components": {
       "minecraft:custom_data": {
-        "id": "CARPET-7"
+        "id": "CARPET:7"
       },
       "minecraft:custom_name": {
         "text": "§fGray Carpet"
@@ -46586,7 +46586,7 @@
     "id": "minecraft:light_gray_carpet",
     "components": {
       "minecraft:custom_data": {
-        "id": "CARPET-8"
+        "id": "CARPET:8"
       },
       "minecraft:custom_name": {
         "text": "§fLight Gray Carpet"
@@ -46619,7 +46619,7 @@
     "id": "minecraft:cyan_carpet",
     "components": {
       "minecraft:custom_data": {
-        "id": "CARPET-9"
+        "id": "CARPET:9"
       },
       "minecraft:custom_name": {
         "text": "§fCyan Carpet"
@@ -58708,7 +58708,7 @@
     "id": "minecraft:mossy_cobblestone_wall",
     "components": {
       "minecraft:custom_data": {
-        "id": "COBBLE_WALL-1"
+        "id": "COBBLE_WALL:1"
       },
       "minecraft:custom_name": {
         "text": "§fMossy Cobblestone Wall"
@@ -76253,7 +76253,7 @@
     "id": "minecraft:coarse_dirt",
     "components": {
       "minecraft:custom_data": {
-        "id": "DIRT-1"
+        "id": "DIRT:1"
       },
       "minecraft:custom_name": {
         "text": "§fCoarse Dirt"
@@ -76286,7 +76286,7 @@
     "id": "minecraft:podzol",
     "components": {
       "minecraft:custom_data": {
-        "id": "DIRT-2"
+        "id": "DIRT:2"
       },
       "minecraft:custom_name": {
         "text": "§fPodzol"
@@ -79018,7 +79018,7 @@
     "id": "minecraft:lilac",
     "components": {
       "minecraft:custom_data": {
-        "id": "DOUBLE_PLANT-1"
+        "id": "DOUBLE_PLANT:1"
       },
       "minecraft:custom_name": {
         "text": "§fLilac"
@@ -79051,7 +79051,7 @@
     "id": "minecraft:tall_grass",
     "components": {
       "minecraft:custom_data": {
-        "id": "DOUBLE_PLANT-2"
+        "id": "DOUBLE_PLANT:2"
       },
       "minecraft:custom_name": {
         "text": "§fDouble Tallgrass"
@@ -79084,7 +79084,7 @@
     "id": "minecraft:large_fern",
     "components": {
       "minecraft:custom_data": {
-        "id": "DOUBLE_PLANT-3"
+        "id": "DOUBLE_PLANT:3"
       },
       "minecraft:custom_name": {
         "text": "§fLarge Fern"
@@ -79117,7 +79117,7 @@
     "id": "minecraft:rose_bush",
     "components": {
       "minecraft:custom_data": {
-        "id": "DOUBLE_PLANT-4"
+        "id": "DOUBLE_PLANT:4"
       },
       "minecraft:custom_name": {
         "text": "§fRose Bush"
@@ -79150,7 +79150,7 @@
     "id": "minecraft:peony",
     "components": {
       "minecraft:custom_data": {
-        "id": "DOUBLE_PLANT-5"
+        "id": "DOUBLE_PLANT:5"
       },
       "minecraft:custom_name": {
         "text": "§fPeony"
@@ -139632,7 +139632,7 @@
     "id": "minecraft:enchanted_golden_apple",
     "components": {
       "minecraft:custom_data": {
-        "id": "GOLDEN_APPLE-1"
+        "id": "GOLDEN_APPLE:1"
       },
       "minecraft:custom_name": {
         "text": "§aEnchanted Golden Apple"
@@ -185469,7 +185469,7 @@
     "id": "minecraft:spruce_leaves",
     "components": {
       "minecraft:custom_data": {
-        "id": "LEAVES-1"
+        "id": "LEAVES:1"
       },
       "minecraft:custom_name": {
         "text": "§fSpruce Leaves"
@@ -185502,7 +185502,7 @@
     "id": "minecraft:birch_leaves",
     "components": {
       "minecraft:custom_data": {
-        "id": "LEAVES-2"
+        "id": "LEAVES:2"
       },
       "minecraft:custom_name": {
         "text": "§fBirch Leaves"
@@ -185535,7 +185535,7 @@
     "id": "minecraft:jungle_leaves",
     "components": {
       "minecraft:custom_data": {
-        "id": "LEAVES-3"
+        "id": "LEAVES:3"
       },
       "minecraft:custom_name": {
         "text": "§fJungle Leaves"
@@ -185601,7 +185601,7 @@
     "id": "minecraft:dark_oak_leaves",
     "components": {
       "minecraft:custom_data": {
-        "id": "LEAVES_2-1"
+        "id": "LEAVES_2:1"
       },
       "minecraft:custom_name": {
         "text": "§fDark Oak Leaves"
@@ -188131,7 +188131,7 @@
     "id": "minecraft:spruce_log",
     "components": {
       "minecraft:custom_data": {
-        "id": "LOG-1"
+        "id": "LOG:1"
       },
       "minecraft:custom_name": {
         "text": "§fSpruce Log"
@@ -188170,7 +188170,7 @@
     "id": "minecraft:birch_log",
     "components": {
       "minecraft:custom_data": {
-        "id": "LOG-2"
+        "id": "LOG:2"
       },
       "minecraft:custom_name": {
         "text": "§fBirch Log"
@@ -188209,7 +188209,7 @@
     "id": "minecraft:jungle_log",
     "components": {
       "minecraft:custom_data": {
-        "id": "LOG-3"
+        "id": "LOG:3"
       },
       "minecraft:custom_name": {
         "text": "§fJungle Log"
@@ -188287,7 +188287,7 @@
     "id": "minecraft:dark_oak_log",
     "components": {
       "minecraft:custom_data": {
-        "id": "LOG_2-1"
+        "id": "LOG_2:1"
       },
       "minecraft:custom_name": {
         "text": "§fDark Oak Log"
@@ -188427,7 +188427,7 @@
     "id": "minecraft:short_grass",
     "components": {
       "minecraft:custom_data": {
-        "id": "LONG_GRASS-1"
+        "id": "LONG_GRASS:1"
       },
       "minecraft:custom_name": {
         "text": "§fLong Grass"
@@ -188460,7 +188460,7 @@
     "id": "minecraft:fern",
     "components": {
       "minecraft:custom_data": {
-        "id": "LONG_GRASS-2"
+        "id": "LONG_GRASS:2"
       },
       "minecraft:custom_name": {
         "text": "§fFern"
@@ -271197,7 +271197,7 @@
     "id": "minecraft:prismarine_bricks",
     "components": {
       "minecraft:custom_data": {
-        "id": "PRISMARINE-1"
+        "id": "PRISMARINE:1"
       },
       "minecraft:custom_name": {
         "text": "§aPrismarine Bricks"
@@ -271230,7 +271230,7 @@
     "id": "minecraft:dark_prismarine",
     "components": {
       "minecraft:custom_data": {
-        "id": "PRISMARINE-2"
+        "id": "PRISMARINE:2"
       },
       "minecraft:custom_name": {
         "text": "§fDark Prismarine"
@@ -275785,7 +275785,7 @@
     "id": "minecraft:chiseled_quartz_block",
     "components": {
       "minecraft:custom_data": {
-        "id": "QUARTZ_BLOCK-1"
+        "id": "QUARTZ_BLOCK:1"
       },
       "minecraft:custom_name": {
         "text": "§fChiseled Quartz Block"
@@ -275818,7 +275818,7 @@
     "id": "minecraft:quartz_pillar",
     "components": {
       "minecraft:custom_data": {
-        "id": "QUARTZ_BLOCK-2"
+        "id": "QUARTZ_BLOCK:2"
       },
       "minecraft:custom_name": {
         "text": "§fPillar Quartz Block"
@@ -283819,7 +283819,7 @@
     "id": "minecraft:blue_orchid",
     "components": {
       "minecraft:custom_data": {
-        "id": "RED_ROSE-1"
+        "id": "RED_ROSE:1"
       },
       "minecraft:custom_name": {
         "text": "§fBlue Orchid"
@@ -283852,7 +283852,7 @@
     "id": "minecraft:allium",
     "components": {
       "minecraft:custom_data": {
-        "id": "RED_ROSE-2"
+        "id": "RED_ROSE:2"
       },
       "minecraft:custom_name": {
         "text": "§fAllium"
@@ -283885,7 +283885,7 @@
     "id": "minecraft:azure_bluet",
     "components": {
       "minecraft:custom_data": {
-        "id": "RED_ROSE-3"
+        "id": "RED_ROSE:3"
       },
       "minecraft:custom_name": {
         "text": "§fAzure Bluet"
@@ -283918,7 +283918,7 @@
     "id": "minecraft:red_tulip",
     "components": {
       "minecraft:custom_data": {
-        "id": "RED_ROSE-4"
+        "id": "RED_ROSE:4"
       },
       "minecraft:custom_name": {
         "text": "§fRed Tulip"
@@ -283951,7 +283951,7 @@
     "id": "minecraft:orange_tulip",
     "components": {
       "minecraft:custom_data": {
-        "id": "RED_ROSE-5"
+        "id": "RED_ROSE:5"
       },
       "minecraft:custom_name": {
         "text": "§fOrange Tulip"
@@ -283984,7 +283984,7 @@
     "id": "minecraft:white_tulip",
     "components": {
       "minecraft:custom_data": {
-        "id": "RED_ROSE-6"
+        "id": "RED_ROSE:6"
       },
       "minecraft:custom_name": {
         "text": "§fWhite Tulip"
@@ -284017,7 +284017,7 @@
     "id": "minecraft:pink_tulip",
     "components": {
       "minecraft:custom_data": {
-        "id": "RED_ROSE-7"
+        "id": "RED_ROSE:7"
       },
       "minecraft:custom_name": {
         "text": "§fPink Tulip"
@@ -284050,7 +284050,7 @@
     "id": "minecraft:oxeye_daisy",
     "components": {
       "minecraft:custom_data": {
-        "id": "RED_ROSE-8"
+        "id": "RED_ROSE:8"
       },
       "minecraft:custom_name": {
         "text": "§fOxeye Daisy"
@@ -284116,7 +284116,7 @@
     "id": "minecraft:chiseled_red_sandstone",
     "components": {
       "minecraft:custom_data": {
-        "id": "RED_SANDSTONE-1"
+        "id": "RED_SANDSTONE:1"
       },
       "minecraft:custom_name": {
         "text": "§fRed Chiseled Sandstone"
@@ -284149,7 +284149,7 @@
     "id": "minecraft:cut_red_sandstone",
     "components": {
       "minecraft:custom_data": {
-        "id": "RED_SANDSTONE-2"
+        "id": "RED_SANDSTONE:2"
       },
       "minecraft:custom_name": {
         "text": "§fRed Smooth Sandstone"
@@ -296767,7 +296767,7 @@
     "id": "minecraft:chiseled_sandstone",
     "components": {
       "minecraft:custom_data": {
-        "id": "SANDSTONE-1"
+        "id": "SANDSTONE:1"
       },
       "minecraft:custom_name": {
         "text": "§fChiseled Sandstone"
@@ -296800,7 +296800,7 @@
     "id": "minecraft:cut_sandstone",
     "components": {
       "minecraft:custom_data": {
-        "id": "SANDSTONE-2"
+        "id": "SANDSTONE:2"
       },
       "minecraft:custom_name": {
         "text": "§fSmooth Sandstone"
@@ -297768,7 +297768,7 @@
     "id": "minecraft:spruce_sapling",
     "components": {
       "minecraft:custom_data": {
-        "id": "SAPLING-1"
+        "id": "SAPLING:1"
       },
       "minecraft:custom_name": {
         "text": "§fSpruce Sapling"
@@ -297801,7 +297801,7 @@
     "id": "minecraft:birch_sapling",
     "components": {
       "minecraft:custom_data": {
-        "id": "SAPLING-2"
+        "id": "SAPLING:2"
       },
       "minecraft:custom_name": {
         "text": "§fBirch Sapling"
@@ -297834,7 +297834,7 @@
     "id": "minecraft:jungle_sapling",
     "components": {
       "minecraft:custom_data": {
-        "id": "SAPLING-3"
+        "id": "SAPLING:3"
       },
       "minecraft:custom_name": {
         "text": "§fJungle Sapling"
@@ -297867,7 +297867,7 @@
     "id": "minecraft:acacia_sapling",
     "components": {
       "minecraft:custom_data": {
-        "id": "SAPLING-4"
+        "id": "SAPLING:4"
       },
       "minecraft:custom_name": {
         "text": "§fAcacia Sapling"
@@ -297900,7 +297900,7 @@
     "id": "minecraft:dark_oak_sapling",
     "components": {
       "minecraft:custom_data": {
-        "id": "SAPLING-5"
+        "id": "SAPLING:5"
       },
       "minecraft:custom_name": {
         "text": "§fDark Oak Sapling"
@@ -316094,7 +316094,7 @@
     "id": "minecraft:mossy_stone_bricks",
     "components": {
       "minecraft:custom_data": {
-        "id": "SMOOTH_BRICK-1"
+        "id": "SMOOTH_BRICK:1"
       },
       "minecraft:custom_name": {
         "text": "§fMossy Stone Bricks"
@@ -316127,7 +316127,7 @@
     "id": "minecraft:cracked_stone_bricks",
     "components": {
       "minecraft:custom_data": {
-        "id": "SMOOTH_BRICK-2"
+        "id": "SMOOTH_BRICK:2"
       },
       "minecraft:custom_name": {
         "text": "§fCracked Stone Bricks"
@@ -316160,7 +316160,7 @@
     "id": "minecraft:chiseled_stone_bricks",
     "components": {
       "minecraft:custom_data": {
-        "id": "SMOOTH_BRICK-3"
+        "id": "SMOOTH_BRICK:3"
       },
       "minecraft:custom_name": {
         "text": "§fChiseled Stone Bricks"
@@ -326838,7 +326838,7 @@
     "id": "minecraft:wet_sponge",
     "components": {
       "minecraft:custom_data": {
-        "id": "SPONGE-1"
+        "id": "SPONGE:1"
       },
       "minecraft:custom_name": {
         "text": "§fWet Sponge"
@@ -330653,7 +330653,7 @@
     "id": "minecraft:orange_terracotta",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_CLAY-1"
+        "id": "STAINED_CLAY:1"
       },
       "minecraft:custom_name": {
         "text": "§fOrange Hardened Clay"
@@ -330686,7 +330686,7 @@
     "id": "minecraft:purple_terracotta",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_CLAY-10"
+        "id": "STAINED_CLAY:10"
       },
       "minecraft:custom_name": {
         "text": "§fPurple Hardened Clay"
@@ -330719,7 +330719,7 @@
     "id": "minecraft:blue_terracotta",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_CLAY-11"
+        "id": "STAINED_CLAY:11"
       },
       "minecraft:custom_name": {
         "text": "§fBlue Hardened Clay"
@@ -330752,7 +330752,7 @@
     "id": "minecraft:brown_terracotta",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_CLAY-12"
+        "id": "STAINED_CLAY:12"
       },
       "minecraft:custom_name": {
         "text": "§fBrown Hardened Clay"
@@ -330785,7 +330785,7 @@
     "id": "minecraft:green_terracotta",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_CLAY-13"
+        "id": "STAINED_CLAY:13"
       },
       "minecraft:custom_name": {
         "text": "§fGreen Hardened Clay"
@@ -330818,7 +330818,7 @@
     "id": "minecraft:red_terracotta",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_CLAY-14"
+        "id": "STAINED_CLAY:14"
       },
       "minecraft:custom_name": {
         "text": "§fRed Hardened Clay"
@@ -330851,7 +330851,7 @@
     "id": "minecraft:black_terracotta",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_CLAY-15"
+        "id": "STAINED_CLAY:15"
       },
       "minecraft:custom_name": {
         "text": "§fBlack Hardened Clay"
@@ -330884,7 +330884,7 @@
     "id": "minecraft:magenta_terracotta",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_CLAY-2"
+        "id": "STAINED_CLAY:2"
       },
       "minecraft:custom_name": {
         "text": "§fMagenta Hardened Clay"
@@ -330917,7 +330917,7 @@
     "id": "minecraft:light_blue_terracotta",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_CLAY-3"
+        "id": "STAINED_CLAY:3"
       },
       "minecraft:custom_name": {
         "text": "§fLight Blue Hardened Clay"
@@ -330950,7 +330950,7 @@
     "id": "minecraft:yellow_terracotta",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_CLAY-4"
+        "id": "STAINED_CLAY:4"
       },
       "minecraft:custom_name": {
         "text": "§fYellow Hardened Clay"
@@ -330983,7 +330983,7 @@
     "id": "minecraft:lime_terracotta",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_CLAY-5"
+        "id": "STAINED_CLAY:5"
       },
       "minecraft:custom_name": {
         "text": "§fLime Hardened Clay"
@@ -331016,7 +331016,7 @@
     "id": "minecraft:pink_terracotta",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_CLAY-6"
+        "id": "STAINED_CLAY:6"
       },
       "minecraft:custom_name": {
         "text": "§fPink Hardened Clay"
@@ -331049,7 +331049,7 @@
     "id": "minecraft:gray_terracotta",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_CLAY-7"
+        "id": "STAINED_CLAY:7"
       },
       "minecraft:custom_name": {
         "text": "§fGray Hardened Clay"
@@ -331082,7 +331082,7 @@
     "id": "minecraft:light_gray_terracotta",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_CLAY-8"
+        "id": "STAINED_CLAY:8"
       },
       "minecraft:custom_name": {
         "text": "§fLight Gray Hardened Clay"
@@ -331115,7 +331115,7 @@
     "id": "minecraft:cyan_terracotta",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_CLAY-9"
+        "id": "STAINED_CLAY:9"
       },
       "minecraft:custom_name": {
         "text": "§fCyan Hardened Clay"
@@ -331181,7 +331181,7 @@
     "id": "minecraft:orange_stained_glass",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS-1"
+        "id": "STAINED_GLASS:1"
       },
       "minecraft:custom_name": {
         "text": "§fOrange Stained Glass"
@@ -331214,7 +331214,7 @@
     "id": "minecraft:purple_stained_glass",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS-10"
+        "id": "STAINED_GLASS:10"
       },
       "minecraft:custom_name": {
         "text": "§fPurple Stained Glass"
@@ -331247,7 +331247,7 @@
     "id": "minecraft:blue_stained_glass",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS-11"
+        "id": "STAINED_GLASS:11"
       },
       "minecraft:custom_name": {
         "text": "§fBlue Stained Glass"
@@ -331280,7 +331280,7 @@
     "id": "minecraft:brown_stained_glass",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS-12"
+        "id": "STAINED_GLASS:12"
       },
       "minecraft:custom_name": {
         "text": "§fBrown Stained Glass"
@@ -331313,7 +331313,7 @@
     "id": "minecraft:green_stained_glass",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS-13"
+        "id": "STAINED_GLASS:13"
       },
       "minecraft:custom_name": {
         "text": "§fGreen Stained Glass"
@@ -331346,7 +331346,7 @@
     "id": "minecraft:red_stained_glass",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS-14"
+        "id": "STAINED_GLASS:14"
       },
       "minecraft:custom_name": {
         "text": "§fRed Stained Glass"
@@ -331379,7 +331379,7 @@
     "id": "minecraft:black_stained_glass",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS-15"
+        "id": "STAINED_GLASS:15"
       },
       "minecraft:custom_name": {
         "text": "§fBlack Stained Glass"
@@ -331412,7 +331412,7 @@
     "id": "minecraft:magenta_stained_glass",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS-2"
+        "id": "STAINED_GLASS:2"
       },
       "minecraft:custom_name": {
         "text": "§fMagenta Stained Glass"
@@ -331445,7 +331445,7 @@
     "id": "minecraft:light_blue_stained_glass",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS-3"
+        "id": "STAINED_GLASS:3"
       },
       "minecraft:custom_name": {
         "text": "§fLight Blue Stained Glass"
@@ -331478,7 +331478,7 @@
     "id": "minecraft:yellow_stained_glass",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS-4"
+        "id": "STAINED_GLASS:4"
       },
       "minecraft:custom_name": {
         "text": "§fYellow Stained Glass"
@@ -331511,7 +331511,7 @@
     "id": "minecraft:lime_stained_glass",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS-5"
+        "id": "STAINED_GLASS:5"
       },
       "minecraft:custom_name": {
         "text": "§fLime Stained Glass"
@@ -331544,7 +331544,7 @@
     "id": "minecraft:pink_stained_glass",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS-6"
+        "id": "STAINED_GLASS:6"
       },
       "minecraft:custom_name": {
         "text": "§fPink Stained Glass"
@@ -331577,7 +331577,7 @@
     "id": "minecraft:gray_stained_glass",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS-7"
+        "id": "STAINED_GLASS:7"
       },
       "minecraft:custom_name": {
         "text": "§fGray Stained Glass"
@@ -331610,7 +331610,7 @@
     "id": "minecraft:light_gray_stained_glass",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS-8"
+        "id": "STAINED_GLASS:8"
       },
       "minecraft:custom_name": {
         "text": "§fLight Gray Stained Glass"
@@ -331643,7 +331643,7 @@
     "id": "minecraft:cyan_stained_glass",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS-9"
+        "id": "STAINED_GLASS:9"
       },
       "minecraft:custom_name": {
         "text": "§fCyan Stained Glass"
@@ -331709,7 +331709,7 @@
     "id": "minecraft:orange_stained_glass_pane",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS_PANE-1"
+        "id": "STAINED_GLASS_PANE:1"
       },
       "minecraft:custom_name": {
         "text": "§fOrange Stained Glass Pane"
@@ -331742,7 +331742,7 @@
     "id": "minecraft:purple_stained_glass_pane",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS_PANE-10"
+        "id": "STAINED_GLASS_PANE:10"
       },
       "minecraft:custom_name": {
         "text": "§fPurple Stained Glass Pane"
@@ -331775,7 +331775,7 @@
     "id": "minecraft:blue_stained_glass_pane",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS_PANE-11"
+        "id": "STAINED_GLASS_PANE:11"
       },
       "minecraft:custom_name": {
         "text": "§fBlue Stained Glass Pane"
@@ -331808,7 +331808,7 @@
     "id": "minecraft:brown_stained_glass_pane",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS_PANE-12"
+        "id": "STAINED_GLASS_PANE:12"
       },
       "minecraft:custom_name": {
         "text": "§fBrown Stained Glass Pane"
@@ -331841,7 +331841,7 @@
     "id": "minecraft:green_stained_glass_pane",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS_PANE-13"
+        "id": "STAINED_GLASS_PANE:13"
       },
       "minecraft:custom_name": {
         "text": "§fGreen Stained Glass Pane"
@@ -331874,7 +331874,7 @@
     "id": "minecraft:red_stained_glass_pane",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS_PANE-14"
+        "id": "STAINED_GLASS_PANE:14"
       },
       "minecraft:custom_name": {
         "text": "§fRed Stained Glass Pane"
@@ -331907,7 +331907,7 @@
     "id": "minecraft:black_stained_glass_pane",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS_PANE-15"
+        "id": "STAINED_GLASS_PANE:15"
       },
       "minecraft:custom_name": {
         "text": "§fBlack Stained Glass Pane"
@@ -331923,7 +331923,7 @@
     "id": "minecraft:magenta_stained_glass_pane",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS_PANE-2"
+        "id": "STAINED_GLASS_PANE:2"
       },
       "minecraft:custom_name": {
         "text": "§fMagenta Stained Glass Pane"
@@ -331956,7 +331956,7 @@
     "id": "minecraft:light_blue_stained_glass_pane",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS_PANE-3"
+        "id": "STAINED_GLASS_PANE:3"
       },
       "minecraft:custom_name": {
         "text": "§fLight Blue Stained Glass Pane"
@@ -331989,7 +331989,7 @@
     "id": "minecraft:yellow_stained_glass_pane",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS_PANE-4"
+        "id": "STAINED_GLASS_PANE:4"
       },
       "minecraft:custom_name": {
         "text": "§fYellow Stained Glass Pane"
@@ -332022,7 +332022,7 @@
     "id": "minecraft:lime_stained_glass_pane",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS_PANE-5"
+        "id": "STAINED_GLASS_PANE:5"
       },
       "minecraft:custom_name": {
         "text": "§fLime Stained Glass Pane"
@@ -332055,7 +332055,7 @@
     "id": "minecraft:pink_stained_glass_pane",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS_PANE-6"
+        "id": "STAINED_GLASS_PANE:6"
       },
       "minecraft:custom_name": {
         "text": "§fPink Stained Glass Pane"
@@ -332088,7 +332088,7 @@
     "id": "minecraft:gray_stained_glass_pane",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS_PANE-7"
+        "id": "STAINED_GLASS_PANE:7"
       },
       "minecraft:custom_name": {
         "text": "§fGray Stained Glass Pane"
@@ -332121,7 +332121,7 @@
     "id": "minecraft:light_gray_stained_glass_pane",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS_PANE-8"
+        "id": "STAINED_GLASS_PANE:8"
       },
       "minecraft:custom_name": {
         "text": "§fLight Gray Stained Glass Pane"
@@ -332154,7 +332154,7 @@
     "id": "minecraft:cyan_stained_glass_pane",
     "components": {
       "minecraft:custom_data": {
-        "id": "STAINED_GLASS_PANE-9"
+        "id": "STAINED_GLASS_PANE:9"
       },
       "minecraft:custom_name": {
         "text": "§fCyan Stained Glass Pane"
@@ -336080,7 +336080,7 @@
     "id": "minecraft:sandstone_slab",
     "components": {
       "minecraft:custom_data": {
-        "id": "STEP-1"
+        "id": "STEP:1"
       },
       "minecraft:custom_name": {
         "text": "§fSandstone Slab"
@@ -336113,7 +336113,7 @@
     "id": "minecraft:cobblestone_slab",
     "components": {
       "minecraft:custom_data": {
-        "id": "STEP-3"
+        "id": "STEP:3"
       },
       "minecraft:custom_name": {
         "text": "§fCobblestone Slab"
@@ -336146,7 +336146,7 @@
     "id": "minecraft:brick_slab",
     "components": {
       "minecraft:custom_data": {
-        "id": "STEP-4"
+        "id": "STEP:4"
       },
       "minecraft:custom_name": {
         "text": "§fBrick Slab"
@@ -336179,7 +336179,7 @@
     "id": "minecraft:stone_brick_slab",
     "components": {
       "minecraft:custom_data": {
-        "id": "STEP-5"
+        "id": "STEP:5"
       },
       "minecraft:custom_name": {
         "text": "§fStone Brick Slab"
@@ -336212,7 +336212,7 @@
     "id": "minecraft:nether_brick_slab",
     "components": {
       "minecraft:custom_data": {
-        "id": "STEP-6"
+        "id": "STEP:6"
       },
       "minecraft:custom_name": {
         "text": "§fNether Brick Slab"
@@ -336245,7 +336245,7 @@
     "id": "minecraft:quartz_slab",
     "components": {
       "minecraft:custom_data": {
-        "id": "STEP-7"
+        "id": "STEP:7"
       },
       "minecraft:custom_name": {
         "text": "§fQuartz Slab"
@@ -336677,7 +336677,7 @@
     "id": "minecraft:granite",
     "components": {
       "minecraft:custom_data": {
-        "id": "STONE-1"
+        "id": "STONE:1"
       },
       "minecraft:custom_name": {
         "text": "§fGranite"
@@ -336710,7 +336710,7 @@
     "id": "minecraft:polished_granite",
     "components": {
       "minecraft:custom_data": {
-        "id": "STONE-2"
+        "id": "STONE:2"
       },
       "minecraft:custom_name": {
         "text": "§fPolished Granite"
@@ -336743,7 +336743,7 @@
     "id": "minecraft:diorite",
     "components": {
       "minecraft:custom_data": {
-        "id": "STONE-3"
+        "id": "STONE:3"
       },
       "minecraft:custom_name": {
         "text": "§fDiorite"
@@ -336776,7 +336776,7 @@
     "id": "minecraft:polished_diorite",
     "components": {
       "minecraft:custom_data": {
-        "id": "STONE-4"
+        "id": "STONE:4"
       },
       "minecraft:custom_name": {
         "text": "§fPolished Diorite"
@@ -336809,7 +336809,7 @@
     "id": "minecraft:andesite",
     "components": {
       "minecraft:custom_data": {
-        "id": "STONE-5"
+        "id": "STONE:5"
       },
       "minecraft:custom_name": {
         "text": "§fAndesite"
@@ -336842,7 +336842,7 @@
     "id": "minecraft:polished_andesite",
     "components": {
       "minecraft:custom_data": {
-        "id": "STONE-6"
+        "id": "STONE:6"
       },
       "minecraft:custom_name": {
         "text": "§fPolished Andesite"
@@ -377899,7 +377899,7 @@
     "id": "minecraft:spruce_planks",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOD-1"
+        "id": "WOOD:1"
       },
       "minecraft:custom_name": {
         "text": "§fSpruce Planks"
@@ -377932,7 +377932,7 @@
     "id": "minecraft:birch_planks",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOD-2"
+        "id": "WOOD:2"
       },
       "minecraft:custom_name": {
         "text": "§fBirch Planks"
@@ -377965,7 +377965,7 @@
     "id": "minecraft:jungle_planks",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOD-3"
+        "id": "WOOD:3"
       },
       "minecraft:custom_name": {
         "text": "§fJungle Planks"
@@ -377998,7 +377998,7 @@
     "id": "minecraft:acacia_planks",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOD-4"
+        "id": "WOOD:4"
       },
       "minecraft:custom_name": {
         "text": "§fAcacia Planks"
@@ -378031,7 +378031,7 @@
     "id": "minecraft:dark_oak_planks",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOD-5"
+        "id": "WOOD:5"
       },
       "minecraft:custom_name": {
         "text": "§fDark Oak Planks"
@@ -378599,7 +378599,7 @@
     "id": "minecraft:spruce_slab",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOD_STEP-1"
+        "id": "WOOD_STEP:1"
       },
       "minecraft:custom_name": {
         "text": "§fSpruce Slab"
@@ -378632,7 +378632,7 @@
     "id": "minecraft:birch_slab",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOD_STEP-2"
+        "id": "WOOD_STEP:2"
       },
       "minecraft:custom_name": {
         "text": "§fBirch Slab"
@@ -378665,7 +378665,7 @@
     "id": "minecraft:jungle_slab",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOD_STEP-3"
+        "id": "WOOD_STEP:3"
       },
       "minecraft:custom_name": {
         "text": "§fJungle Slab"
@@ -378698,7 +378698,7 @@
     "id": "minecraft:acacia_slab",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOD_STEP-4"
+        "id": "WOOD_STEP:4"
       },
       "minecraft:custom_name": {
         "text": "§fAcacia Slab"
@@ -378731,7 +378731,7 @@
     "id": "minecraft:dark_oak_slab",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOD_STEP-5"
+        "id": "WOOD_STEP:5"
       },
       "minecraft:custom_name": {
         "text": "§fDark Oak Slab"
@@ -378894,7 +378894,7 @@
     "id": "minecraft:orange_wool",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOL-1"
+        "id": "WOOL:1"
       },
       "minecraft:custom_name": {
         "text": "§fOrange Wool"
@@ -378927,7 +378927,7 @@
     "id": "minecraft:purple_wool",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOL-10"
+        "id": "WOOL:10"
       },
       "minecraft:custom_name": {
         "text": "§fPurple Wool"
@@ -378960,7 +378960,7 @@
     "id": "minecraft:blue_wool",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOL-11"
+        "id": "WOOL:11"
       },
       "minecraft:custom_name": {
         "text": "§fBlue Wool"
@@ -378993,7 +378993,7 @@
     "id": "minecraft:brown_wool",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOL-12"
+        "id": "WOOL:12"
       },
       "minecraft:custom_name": {
         "text": "§fBrown Wool"
@@ -379026,7 +379026,7 @@
     "id": "minecraft:green_wool",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOL-13"
+        "id": "WOOL:13"
       },
       "minecraft:custom_name": {
         "text": "§fGreen Wool"
@@ -379059,7 +379059,7 @@
     "id": "minecraft:red_wool",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOL-14"
+        "id": "WOOL:14"
       },
       "minecraft:custom_name": {
         "text": "§fRed Wool"
@@ -379092,7 +379092,7 @@
     "id": "minecraft:black_wool",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOL-15"
+        "id": "WOOL:15"
       },
       "minecraft:custom_name": {
         "text": "§fBlack Wool"
@@ -379125,7 +379125,7 @@
     "id": "minecraft:magenta_wool",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOL-2"
+        "id": "WOOL:2"
       },
       "minecraft:custom_name": {
         "text": "§fMagenta Wool"
@@ -379158,7 +379158,7 @@
     "id": "minecraft:light_blue_wool",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOL-3"
+        "id": "WOOL:3"
       },
       "minecraft:custom_name": {
         "text": "§fLight Blue Wool"
@@ -379191,7 +379191,7 @@
     "id": "minecraft:yellow_wool",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOL-4"
+        "id": "WOOL:4"
       },
       "minecraft:custom_name": {
         "text": "§fYellow Wool"
@@ -379224,7 +379224,7 @@
     "id": "minecraft:lime_wool",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOL-5"
+        "id": "WOOL:5"
       },
       "minecraft:custom_name": {
         "text": "§fLime Wool"
@@ -379257,7 +379257,7 @@
     "id": "minecraft:pink_wool",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOL-6"
+        "id": "WOOL:6"
       },
       "minecraft:custom_name": {
         "text": "§fPink Wool"
@@ -379290,7 +379290,7 @@
     "id": "minecraft:gray_wool",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOL-7"
+        "id": "WOOL:7"
       },
       "minecraft:custom_name": {
         "text": "§fGray Wool"
@@ -379323,7 +379323,7 @@
     "id": "minecraft:light_gray_wool",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOL-8"
+        "id": "WOOL:8"
       },
       "minecraft:custom_name": {
         "text": "§fLight Gray Wool"
@@ -379356,7 +379356,7 @@
     "id": "minecraft:cyan_wool",
     "components": {
       "minecraft:custom_data": {
-        "id": "WOOL-9"
+        "id": "WOOL:9"
       },
       "minecraft:custom_name": {
         "text": "§fCyan Wool"

@@ -1688,7 +1688,7 @@
   },
   {
     "type": "item",
-    "id": "BANNER-1",
+    "id": "BANNER:1",
     "vanilla": true,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Banner"
@@ -1696,7 +1696,7 @@
   },
   {
     "type": "item",
-    "id": "BANNER-10",
+    "id": "BANNER:10",
     "vanilla": true,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Banner"
@@ -1704,7 +1704,7 @@
   },
   {
     "type": "item",
-    "id": "BANNER-11",
+    "id": "BANNER:11",
     "vanilla": true,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Banner"
@@ -1712,7 +1712,7 @@
   },
   {
     "type": "item",
-    "id": "BANNER-12",
+    "id": "BANNER:12",
     "vanilla": true,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Banner"
@@ -1720,7 +1720,7 @@
   },
   {
     "type": "item",
-    "id": "BANNER-13",
+    "id": "BANNER:13",
     "vanilla": true,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Banner"
@@ -1728,7 +1728,7 @@
   },
   {
     "type": "item",
-    "id": "BANNER-14",
+    "id": "BANNER:14",
     "vanilla": true,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Banner"
@@ -1744,7 +1744,7 @@
   },
   {
     "type": "item",
-    "id": "BANNER-2",
+    "id": "BANNER:2",
     "vanilla": true,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Banner"
@@ -1752,7 +1752,7 @@
   },
   {
     "type": "item",
-    "id": "BANNER-3",
+    "id": "BANNER:3",
     "vanilla": true,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Banner"
@@ -1760,7 +1760,7 @@
   },
   {
     "type": "item",
-    "id": "BANNER-4",
+    "id": "BANNER:4",
     "vanilla": true,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Banner"
@@ -1768,7 +1768,7 @@
   },
   {
     "type": "item",
-    "id": "BANNER-5",
+    "id": "BANNER:5",
     "vanilla": true,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Banner"
@@ -1776,7 +1776,7 @@
   },
   {
     "type": "item",
-    "id": "BANNER-6",
+    "id": "BANNER:6",
     "vanilla": true,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Banner"
@@ -1784,7 +1784,7 @@
   },
   {
     "type": "item",
-    "id": "BANNER-7",
+    "id": "BANNER:7",
     "vanilla": true,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Banner"
@@ -1792,7 +1792,7 @@
   },
   {
     "type": "item",
-    "id": "BANNER-8",
+    "id": "BANNER:8",
     "vanilla": true,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Banner"
@@ -1800,7 +1800,7 @@
   },
   {
     "type": "item",
-    "id": "BANNER-9",
+    "id": "BANNER:9",
     "vanilla": true,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Banner"
@@ -35230,7 +35230,7 @@
   },
   {
     "type": "item",
-    "id": "STAINED_GLASS_PANE-15",
+    "id": "STAINED_GLASS_PANE:15",
     "vanilla": true
   },
   {

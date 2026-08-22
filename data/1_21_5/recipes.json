@@ -3232,7 +3232,7 @@
       }
     ],
     "result": {
-      "id": "SAND-1",
+      "id": "SAND:1",
       "count": 1
     }
   },
@@ -6630,7 +6630,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 1
       },
       {
@@ -7267,7 +7267,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 10
       },
       {
@@ -7379,7 +7379,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 20
       },
       {
@@ -7407,7 +7407,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 40
       },
       {
@@ -7435,7 +7435,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 64
       },
       {
@@ -9314,7 +9314,7 @@
         "count": 1
       },
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 64
       }
     ],
@@ -16926,7 +16926,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 10
       },
       {
@@ -17038,7 +17038,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 20
       },
       {
@@ -17066,7 +17066,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 40
       },
       {
@@ -17094,7 +17094,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 64
       },
       {
@@ -21714,7 +21714,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 32
       }
     ],
@@ -22430,7 +22430,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 32
       }
     ],
@@ -23438,7 +23438,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 32
       }
     ],
@@ -24838,7 +24838,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 32
       }
     ],
@@ -31676,7 +31676,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 16
       },
       {
@@ -31704,7 +31704,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 16
       },
       {
@@ -31732,7 +31732,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 16
       },
       {
@@ -31788,7 +31788,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 16
       },
       {
@@ -44243,7 +44243,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 32
       },
       {
@@ -44379,7 +44379,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 10
       },
       {
@@ -44491,7 +44491,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 20
       },
       {
@@ -44519,7 +44519,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 40
       },
       {
@@ -44547,7 +44547,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 64
       },
       {
@@ -48800,7 +48800,7 @@
       }
     ],
     "result": {
-      "id": "LOG-2",
+      "id": "LOG:2",
       "count": 1
     }
   },
@@ -48815,7 +48815,7 @@
       }
     ],
     "result": {
-      "id": "LOG-1",
+      "id": "LOG:1",
       "count": 1
     }
   },
@@ -48830,7 +48830,7 @@
       }
     ],
     "result": {
-      "id": "LOG_2-1",
+      "id": "LOG_2:1",
       "count": 1
     }
   },
@@ -48860,7 +48860,7 @@
       }
     ],
     "result": {
-      "id": "LOG-3",
+      "id": "LOG:3",
       "count": 1
     }
   },
@@ -58459,7 +58459,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 32
       },
       {
@@ -58501,7 +58501,7 @@
     },
     "items": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 512
       }
     ],
@@ -70983,7 +70983,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 5
       },
       {
@@ -72816,7 +72816,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 64
       },
       {
@@ -80319,7 +80319,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 10
       },
       {
@@ -80431,7 +80431,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 20
       },
       {
@@ -80459,7 +80459,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 40
       },
       {
@@ -80487,7 +80487,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 64
       },
       {
@@ -93811,7 +93811,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 32
       },
       {
@@ -93853,7 +93853,7 @@
     },
     "items": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 512
       }
     ],
@@ -93965,7 +93965,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 1
       }
     ],
@@ -93989,7 +93989,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 1
       }
     ],
@@ -94013,7 +94013,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 1
       }
     ],
@@ -94061,7 +94061,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 1
       }
     ],
@@ -95000,7 +95000,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-1",
+      "id": "STAINED_CLAY:1",
       "count": 1
     }
   },
@@ -95015,7 +95015,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-2",
+      "id": "STAINED_CLAY:2",
       "count": 1
     }
   },
@@ -95030,7 +95030,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-3",
+      "id": "STAINED_CLAY:3",
       "count": 1
     }
   },
@@ -95045,7 +95045,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-4",
+      "id": "STAINED_CLAY:4",
       "count": 1
     }
   },
@@ -95060,7 +95060,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-5",
+      "id": "STAINED_CLAY:5",
       "count": 1
     }
   },
@@ -95075,7 +95075,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-6",
+      "id": "STAINED_CLAY:6",
       "count": 1
     }
   },
@@ -95090,7 +95090,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-7",
+      "id": "STAINED_CLAY:7",
       "count": 1
     }
   },
@@ -95105,7 +95105,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-8",
+      "id": "STAINED_CLAY:8",
       "count": 1
     }
   },
@@ -95120,7 +95120,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-9",
+      "id": "STAINED_CLAY:9",
       "count": 1
     }
   },
@@ -95135,7 +95135,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-10",
+      "id": "STAINED_CLAY:10",
       "count": 1
     }
   },
@@ -95150,7 +95150,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-11",
+      "id": "STAINED_CLAY:11",
       "count": 1
     }
   },
@@ -95165,7 +95165,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-12",
+      "id": "STAINED_CLAY:12",
       "count": 1
     }
   },
@@ -95180,7 +95180,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-13",
+      "id": "STAINED_CLAY:13",
       "count": 1
     }
   },
@@ -95195,7 +95195,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-14",
+      "id": "STAINED_CLAY:14",
       "count": 1
     }
   },
@@ -95210,7 +95210,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-15",
+      "id": "STAINED_CLAY:15",
       "count": 1
     }
   },
@@ -95225,7 +95225,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-1",
+      "id": "STAINED_GLASS_PANE:1",
       "count": 1
     }
   },
@@ -95240,7 +95240,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-2",
+      "id": "STAINED_GLASS_PANE:2",
       "count": 1
     }
   },
@@ -95255,7 +95255,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-3",
+      "id": "STAINED_GLASS_PANE:3",
       "count": 1
     }
   },
@@ -95270,7 +95270,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-4",
+      "id": "STAINED_GLASS_PANE:4",
       "count": 1
     }
   },
@@ -95285,7 +95285,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-5",
+      "id": "STAINED_GLASS_PANE:5",
       "count": 1
     }
   },
@@ -95300,7 +95300,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-6",
+      "id": "STAINED_GLASS_PANE:6",
       "count": 1
     }
   },
@@ -95315,7 +95315,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-7",
+      "id": "STAINED_GLASS_PANE:7",
       "count": 1
     }
   },
@@ -95330,7 +95330,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-8",
+      "id": "STAINED_GLASS_PANE:8",
       "count": 1
     }
   },
@@ -95345,7 +95345,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-9",
+      "id": "STAINED_GLASS_PANE:9",
       "count": 1
     }
   },
@@ -95360,7 +95360,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-10",
+      "id": "STAINED_GLASS_PANE:10",
       "count": 1
     }
   },
@@ -95375,7 +95375,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-11",
+      "id": "STAINED_GLASS_PANE:11",
       "count": 1
     }
   },
@@ -95390,7 +95390,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-12",
+      "id": "STAINED_GLASS_PANE:12",
       "count": 1
     }
   },
@@ -95405,7 +95405,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-13",
+      "id": "STAINED_GLASS_PANE:13",
       "count": 1
     }
   },
@@ -95420,7 +95420,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-14",
+      "id": "STAINED_GLASS_PANE:14",
       "count": 1
     }
   },
@@ -95435,7 +95435,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-15",
+      "id": "STAINED_GLASS_PANE:15",
       "count": 1
     }
   },
@@ -95450,7 +95450,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-1",
+      "id": "STAINED_GLASS:1",
       "count": 1
     }
   },
@@ -95465,7 +95465,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-2",
+      "id": "STAINED_GLASS:2",
       "count": 1
     }
   },
@@ -95480,7 +95480,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-3",
+      "id": "STAINED_GLASS:3",
       "count": 1
     }
   },
@@ -95495,7 +95495,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-4",
+      "id": "STAINED_GLASS:4",
       "count": 1
     }
   },
@@ -95510,7 +95510,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-5",
+      "id": "STAINED_GLASS:5",
       "count": 1
     }
   },
@@ -95525,7 +95525,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-6",
+      "id": "STAINED_GLASS:6",
       "count": 1
     }
   },
@@ -95540,7 +95540,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-7",
+      "id": "STAINED_GLASS:7",
       "count": 1
     }
   },
@@ -95555,7 +95555,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-8",
+      "id": "STAINED_GLASS:8",
       "count": 1
     }
   },
@@ -95570,7 +95570,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-9",
+      "id": "STAINED_GLASS:9",
       "count": 1
     }
   },
@@ -95585,7 +95585,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-10",
+      "id": "STAINED_GLASS:10",
       "count": 1
     }
   },
@@ -95600,7 +95600,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-11",
+      "id": "STAINED_GLASS:11",
       "count": 1
     }
   },
@@ -95615,7 +95615,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-12",
+      "id": "STAINED_GLASS:12",
       "count": 1
     }
   },
@@ -95630,7 +95630,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-13",
+      "id": "STAINED_GLASS:13",
       "count": 1
     }
   },
@@ -95645,7 +95645,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-14",
+      "id": "STAINED_GLASS:14",
       "count": 1
     }
   },
@@ -95660,7 +95660,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-15",
+      "id": "STAINED_GLASS:15",
       "count": 1
     }
   },
@@ -95675,7 +95675,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-1",
+      "id": "CARPET:1",
       "count": 1
     }
   },
@@ -95690,7 +95690,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-2",
+      "id": "CARPET:2",
       "count": 1
     }
   },
@@ -95705,7 +95705,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-3",
+      "id": "CARPET:3",
       "count": 1
     }
   },
@@ -95720,7 +95720,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-4",
+      "id": "CARPET:4",
       "count": 1
     }
   },
@@ -95735,7 +95735,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-5",
+      "id": "CARPET:5",
       "count": 1
     }
   },
@@ -95750,7 +95750,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-6",
+      "id": "CARPET:6",
       "count": 1
     }
   },
@@ -95765,7 +95765,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-7",
+      "id": "CARPET:7",
       "count": 1
     }
   },
@@ -95780,7 +95780,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-8",
+      "id": "CARPET:8",
       "count": 1
     }
   },
@@ -95795,7 +95795,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-9",
+      "id": "CARPET:9",
       "count": 1
     }
   },
@@ -95810,7 +95810,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-10",
+      "id": "CARPET:10",
       "count": 1
     }
   },
@@ -95825,7 +95825,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-11",
+      "id": "CARPET:11",
       "count": 1
     }
   },
@@ -95840,7 +95840,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-12",
+      "id": "CARPET:12",
       "count": 1
     }
   },
@@ -95855,7 +95855,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-13",
+      "id": "CARPET:13",
       "count": 1
     }
   },
@@ -95870,7 +95870,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-14",
+      "id": "CARPET:14",
       "count": 1
     }
   },
@@ -95885,7 +95885,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-15",
+      "id": "CARPET:15",
       "count": 1
     }
   },
@@ -95900,7 +95900,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-1",
+      "id": "WOOL:1",
       "count": 1
     }
   },
@@ -95915,7 +95915,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-2",
+      "id": "WOOL:2",
       "count": 1
     }
   },
@@ -95930,7 +95930,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-3",
+      "id": "WOOL:3",
       "count": 1
     }
   },
@@ -95945,7 +95945,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-4",
+      "id": "WOOL:4",
       "count": 1
     }
   },
@@ -95960,7 +95960,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-5",
+      "id": "WOOL:5",
       "count": 1
     }
   },
@@ -95975,7 +95975,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-6",
+      "id": "WOOL:6",
       "count": 1
     }
   },
@@ -95990,7 +95990,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-7",
+      "id": "WOOL:7",
       "count": 1
     }
   },
@@ -96005,7 +96005,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-8",
+      "id": "WOOL:8",
       "count": 1
     }
   },
@@ -96020,7 +96020,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-9",
+      "id": "WOOL:9",
       "count": 1
     }
   },
@@ -96035,7 +96035,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-10",
+      "id": "WOOL:10",
       "count": 1
     }
   },
@@ -96050,7 +96050,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-11",
+      "id": "WOOL:11",
       "count": 1
     }
   },
@@ -96065,7 +96065,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-12",
+      "id": "WOOL:12",
       "count": 1
     }
   },
@@ -96080,7 +96080,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-13",
+      "id": "WOOL:13",
       "count": 1
     }
   },
@@ -96095,7 +96095,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-14",
+      "id": "WOOL:14",
       "count": 1
     }
   },
@@ -96110,7 +96110,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-15",
+      "id": "WOOL:15",
       "count": 1
     }
   },
