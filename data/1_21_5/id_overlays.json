@@ -25426,6 +25426,13 @@
   },
   {
     "type": "item",
+    "id": "PET_SKIN_AMMONITE_SHELLED",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Shelled_Ammonite_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "PET_SKIN_ANKYLOSAURUS_CAVE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Cave_Ankylosaurus_Skin"
