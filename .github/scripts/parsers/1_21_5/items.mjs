@@ -143,7 +143,7 @@ export const Items = {
         if (overlayProps) {
             itemOverlaysFile.push({
                 type: "item",
-                id: item.nbt.ExtraAttributes.id,
+                id: itemStack.components["minecraft:custom_data"].id,
                 ...getOverlay(item),
             });
         }
