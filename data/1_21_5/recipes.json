@@ -95000,6 +95000,21 @@
       }
     ],
     "result": {
+      "id": "STAINED_CLAY",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 8
+      }
+    ],
+    "result": {
       "id": "STAINED_CLAY:1",
       "count": 1
     }
@@ -95211,6 +95226,21 @@
     ],
     "result": {
       "id": "STAINED_CLAY:15",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 16
+      }
+    ],
+    "result": {
+      "id": "STAINED_GLASS_PANE",
       "count": 1
     }
   },
@@ -95450,6 +95480,21 @@
       }
     ],
     "result": {
+      "id": "STAINED_GLASS",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 16
+      }
+    ],
+    "result": {
       "id": "STAINED_GLASS:1",
       "count": 1
     }
@@ -95675,6 +95720,21 @@
       }
     ],
     "result": {
+      "id": "CARPET",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 32
+      }
+    ],
+    "result": {
       "id": "CARPET:1",
       "count": 1
     }
@@ -95886,6 +95946,21 @@
     ],
     "result": {
       "id": "CARPET:15",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 32
+      }
+    ],
+    "result": {
+      "id": "WOOL",
       "count": 1
     }
   },

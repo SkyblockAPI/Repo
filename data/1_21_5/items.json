@@ -331916,7 +331916,24 @@
         {
           "text": "§f§lCOMMON"
         }
-      ]
+      ],
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
     }
   },
   {
