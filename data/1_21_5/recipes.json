@@ -9310,6 +9310,38 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "LUSHLILAC",
+        "count": 8
+      },
+      {
+        "id": "WET_WATER",
+        "count": 8
+      },
+      {
+        "id": "SEA_BRINE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "BRINE_TONIC",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "BRONZE_BOWL",
         "count": 1
       },
@@ -26995,7 +27027,7 @@
       },
       {
         "id": "ENCHANTED_HELIX_LOG",
-        "count": 16
+        "count": 32
       }
     ],
     "pattern": [
@@ -27011,7 +27043,7 @@
     ],
     "result": {
       "id": "FAMILY_SIZED_POT_OF_HONEYCOMB",
-      "count": 1
+      "count": 8
     }
   },
   {
@@ -44236,7 +44268,7 @@
     ],
     "result": {
       "id": "JUMBO_POT_OF_HONEYCOMB",
-      "count": 1
+      "count": 8
     }
   },
   {
@@ -51018,6 +51050,38 @@
     ],
     "result": {
       "id": "MAP",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "STRETCHING_STICKS",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_VINESAP",
+        "count": 1
+      },
+      {
+        "id": "WET_WATER",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "MARSHROOM",
       "count": 1
     }
   },
@@ -83132,36 +83196,6 @@
     ],
     "result": {
       "id": "STEAK_STAKE",
-      "count": 1
-    }
-  },
-  {
-    "type": "crafting",
-    "keys": [
-      {
-        "id": "PAPER",
-        "count": 1
-      },
-      {
-        "id": "MANGCORE",
-        "count": 1
-      }
-    ],
-    "pattern": [
-      -1,
-      -1,
-      -1,
-      -1,
-      0,
-      0,
-      -1,
-      0,
-      1
-    ],
-    "result": {
-      "type": "enchantment",
-      "id": "STEALTH",
-      "level": 1,
       "count": 1
     }
   },

@@ -54032,6 +54032,46 @@
   },
   {
     "type": "enchantment",
+    "id": "STEALTH",
+    "level": 2,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Stealth"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "STEALTH",
+    "level": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Stealth"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "STEALTH",
+    "level": 4,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Stealth"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "STEALTH",
+    "level": 5,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Stealth"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "STEALTH",
+    "level": 6,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Stealth"
+    }
+  },
+  {
+    "type": "enchantment",
     "id": "STRONG_MANA",
     "level": 1,
     "wiki": {

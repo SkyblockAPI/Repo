@@ -12737,8 +12737,7 @@
   {
     "id": "FOREST_FELLING",
     "lore": [
-      "§7Grants §a+0.1% §7chance to fell an",
-      "§7entire tree!",
+      "§7Grants §4+0.1  Timber §7on §6Helix Trees§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -12749,7 +12748,7 @@
     "attribute_id": "U76",
     "shard_name": "Woodpecker Shard",
     "shard_id": "SHARD_WOODPECKER",
-    "name": "Forest Felling",
+    "name": "Helix Timber",
     "item": "minecraft:player_head",
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjYyNTY2MiwKICAicHJvZmlsZUlkIiA6ICJhODEzMzJmNjA5MmE0NDQ1Yjk1YzVhZGFjNDA2OTQzYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbmFwcHliM2FzdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iZmYzYTFmZThkMDc5MTMyNWNjZWJlYmE0NWQ4NTM5NmFmYmU5YWNhNDVhN2U3MmNiNzZiOGM1MmMwNDAwYjAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
     "rarity": "UNCOMMON",
@@ -12768,13 +12767,10 @@
         },
         "minecraft:lore": [
           {
-            "text": "§6Forest Felling I"
+            "text": "§6Helix Timber I"
           },
           {
-            "text": "§7Grants §a+0.1% §7chance to fell an"
-          },
-          {
-            "text": "§7entire tree!"
+            "text": "§7Grants §4+0.1  Timber §7on §6Helix Trees§7."
           },
           {
             "text": ""
@@ -27432,7 +27428,7 @@
     "shard_id": "SHARD_GRIZZLY_BEAR",
     "name": "Tough Claws",
     "item": "minecraft:player_head",
-    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTk4ODIzNiwKICAicHJvZmlsZUlkIiA6ICIwNTljODIxYzhhODU0NGJiOWJiODVhOGMxNjVhYTc5YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJoZWxsc3RydWNrZWR6IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzczNjIxYmIwMmI4NmJmMzU4MzRjOWM0NzU3ZDNmNWUwYzNmODcwYTNjMjMwMDQ0YWEyMTMwNGNlODlkNDY3YTAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjAzMzc5NjI5NywKICAicHJvZmlsZUlkIiA6ICJjMjVlMWMxZTE1YTQ0N2IwOTQ2Zjg2YzYzYzhjYjZkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiaWdpYm9zMzIxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU0MDYxMDhhYTZiZGRhNzNkZjEyMjQ1NGFhNDI1MGVjMGNkNDU3ZmQzMThhODkzZDlkN2M1NGQ5YzA3NjExNjgiCiAgICB9CiAgfQp9",
     "rarity": "LEGENDARY",
     "max": 24,
     "itemStack": {
@@ -27489,7 +27485,7 @@
           "properties": [
             {
               "name": "textures",
-              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTk4ODIzNiwKICAicHJvZmlsZUlkIiA6ICIwNTljODIxYzhhODU0NGJiOWJiODVhOGMxNjVhYTc5YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJoZWxsc3RydWNrZWR6IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzczNjIxYmIwMmI4NmJmMzU4MzRjOWM0NzU3ZDNmNWUwYzNmODcwYTNjMjMwMDQ0YWEyMTMwNGNlODlkNDY3YTAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjAzMzc5NjI5NywKICAicHJvZmlsZUlkIiA6ICJjMjVlMWMxZTE1YTQ0N2IwOTQ2Zjg2YzYzYzhjYjZkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiaWdpYm9zMzIxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU0MDYxMDhhYTZiZGRhNzNkZjEyMjQ1NGFhNDI1MGVjMGNkNDU3ZmQzMThhODkzZDlkN2M1NGQ5YzA3NjExNjgiCiAgICB9CiAgfQp9"
             }
           ]
         },

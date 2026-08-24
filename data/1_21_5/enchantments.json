@@ -33935,8 +33935,7 @@
           "§8Combinable in Anvil",
           "",
           "§9Petalfall I",
-          "§7Grants a §a0.2% §7chance to fell the",
-          "§7entire tree!",
+          "§7Grants §4+0.2 Timber§7.",
           "",
           "§6Sources:",
           "§aI: §7Miria's Shop (Level 3+)",
@@ -33970,10 +33969,7 @@
                 "text": "§9Petalfall I"
               },
               {
-                "text": "§7Grants a §a0.2% §7chance to fell the"
-              },
-              {
-                "text": "§7entire tree!"
+                "text": "§7Grants §4+0.2 Timber§7."
               },
               {
                 "text": ""
@@ -34030,8 +34026,7 @@
           "§8Combinable in Anvil",
           "",
           "§9Petalfall II",
-          "§7Grants a §a0.4% §7chance to fell the",
-          "§7entire tree!",
+          "§7Grants §4+0.4 Timber§7.",
           "",
           "§6Sources:",
           "§aI: §7Miria's Shop (Level 3+)",
@@ -34065,10 +34060,7 @@
                 "text": "§9Petalfall II"
               },
               {
-                "text": "§7Grants a §a0.4% §7chance to fell the"
-              },
-              {
-                "text": "§7entire tree!"
+                "text": "§7Grants §4+0.4 Timber§7."
               },
               {
                 "text": ""
@@ -34125,8 +34117,7 @@
           "§8Combinable in Anvil",
           "",
           "§9Petalfall III",
-          "§7Grants a §a0.6% §7chance to fell the",
-          "§7entire tree!",
+          "§7Grants §4+0.6 Timber§7.",
           "",
           "§6Sources:",
           "§aI: §7Miria's Shop (Level 3+)",
@@ -34160,10 +34151,7 @@
                 "text": "§9Petalfall III"
               },
               {
-                "text": "§7Grants a §a0.6% §7chance to fell the"
-              },
-              {
-                "text": "§7entire tree!"
+                "text": "§7Grants §4+0.6 Timber§7."
               },
               {
                 "text": ""
@@ -34220,8 +34208,7 @@
           "§8Combinable in Anvil",
           "",
           "§9Petalfall IV",
-          "§7Grants a §a0.8% §7chance to fell the",
-          "§7entire tree!",
+          "§7Grants §4+0.8 Timber§7.",
           "",
           "§6Sources:",
           "§aI: §7Miria's Shop (Level 3+)",
@@ -34255,10 +34242,7 @@
                 "text": "§9Petalfall IV"
               },
               {
-                "text": "§7Grants a §a0.8% §7chance to fell the"
-              },
-              {
-                "text": "§7entire tree!"
+                "text": "§7Grants §4+0.8 Timber§7."
               },
               {
                 "text": ""
@@ -34315,8 +34299,7 @@
           "§8Combinable in Anvil",
           "",
           "§9Petalfall V",
-          "§7Grants a §a1% §7chance to fell the",
-          "§7entire tree!",
+          "§7Grants §4+1 Timber§7.",
           "",
           "§6Sources:",
           "§aI: §7Miria's Shop (Level 3+)",
@@ -34350,10 +34333,7 @@
                 "text": "§9Petalfall V"
               },
               {
-                "text": "§7Grants a §a1% §7chance to fell the"
-              },
-              {
-                "text": "§7entire tree!"
+                "text": "§7Grants §4+1 Timber§7."
               },
               {
                 "text": ""
@@ -46452,13 +46432,16 @@
           "§8Combinable in Anvil",
           "",
           "§9Stealth I",
-          "§7Causes timid creatures that normally",
-          "§7flee to remain still.",
+          "§e Timid §7mobs have a §a10% §7chance to",
+          "§7remain still instead of fleeing.",
+          "",
+          "§6Source:",
+          "§aI: §7Chillblade and Chillshot",
+          "§aI-V: §7Bazaar",
+          "§aVI: §7Distant Echo",
           "",
           "§6Applied To:",
           "§7- §fBoots",
-          "",
-          "§e▲ §7Stealth cannot be combined!",
           "",
           "§f§lCOMMON"
         ],
@@ -46471,7 +46454,6 @@
               },
               "id": "ENCHANTED_BOOK"
             },
-            "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
             },
@@ -46486,10 +46468,25 @@
                 "text": "§9Stealth I"
               },
               {
-                "text": "§7Causes timid creatures that normally"
+                "text": "§e Timid §7mobs have a §a10% §7chance to"
               },
               {
-                "text": "§7flee to remain still."
+                "text": "§7remain still instead of fleeing."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Source:"
+              },
+              {
+                "text": "§aI: §7Chillblade and Chillshot"
+              },
+              {
+                "text": "§aI-V: §7Bazaar"
+              },
+              {
+                "text": "§aVI: §7Distant Echo"
               },
               {
                 "text": ""
@@ -46504,12 +46501,6 @@
                 "text": ""
               },
               {
-                "text": "§e▲ §7Stealth cannot be combined!"
-              },
-              {
-                "text": ""
-              },
-              {
                 "text": "§f§lCOMMON"
               }
             ],
@@ -46517,7 +46508,7 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
@@ -46530,6 +46521,501 @@
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:common"
+          }
+        }
+      },
+      {
+        "level": 2,
+        "literal_level": "II",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Stealth II",
+          "§e Timid §7mobs have a §a20% §7chance to",
+          "§7remain still instead of fleeing.",
+          "",
+          "§6Source:",
+          "§aI: §7Chillblade and Chillshot",
+          "§aI-V: §7Bazaar",
+          "§aVI: §7Distant Echo",
+          "",
+          "§6Applied To:",
+          "§7- §fBoots",
+          "",
+          "§f§lCOMMON"
+        ],
+        "item": {
+          "id": "minecraft:enchanted_book",
+          "components": {
+            "minecraft:custom_data": {
+              "enchantments": {
+                "stealth": 2
+              },
+              "id": "ENCHANTED_BOOK"
+            },
+            "minecraft:custom_name": {
+              "text": "§fEnchanted Book"
+            },
+            "minecraft:lore": [
+              {
+                "text": "§8Combinable in Anvil"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§9Stealth II"
+              },
+              {
+                "text": "§e Timid §7mobs have a §a20% §7chance to"
+              },
+              {
+                "text": "§7remain still instead of fleeing."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Source:"
+              },
+              {
+                "text": "§aI: §7Chillblade and Chillshot"
+              },
+              {
+                "text": "§aI-V: §7Bazaar"
+              },
+              {
+                "text": "§aVI: §7Distant Echo"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Applied To:"
+              },
+              {
+                "text": "§7- §fBoots"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§f§lCOMMON"
+              }
+            ],
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:attribute_modifiers",
+                "minecraft:banner_patterns",
+                "minecraft:charged_projectiles",
+                "minecraft:dyed_color",
+                "minecraft:fireworks",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:painting/variant",
+                "minecraft:potion_contents",
+                "minecraft:trim",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content"
+              ]
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:common"
+          }
+        }
+      },
+      {
+        "level": 3,
+        "literal_level": "III",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Stealth III",
+          "§e Timid §7mobs have a §a30% §7chance to",
+          "§7remain still instead of fleeing.",
+          "",
+          "§6Source:",
+          "§aI: §7Chillblade and Chillshot",
+          "§aI-V: §7Bazaar",
+          "§aVI: §7Distant Echo",
+          "",
+          "§6Applied To:",
+          "§7- §fBoots",
+          "",
+          "§f§lCOMMON"
+        ],
+        "item": {
+          "id": "minecraft:enchanted_book",
+          "components": {
+            "minecraft:custom_data": {
+              "enchantments": {
+                "stealth": 3
+              },
+              "id": "ENCHANTED_BOOK"
+            },
+            "minecraft:custom_name": {
+              "text": "§fEnchanted Book"
+            },
+            "minecraft:lore": [
+              {
+                "text": "§8Combinable in Anvil"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§9Stealth III"
+              },
+              {
+                "text": "§e Timid §7mobs have a §a30% §7chance to"
+              },
+              {
+                "text": "§7remain still instead of fleeing."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Source:"
+              },
+              {
+                "text": "§aI: §7Chillblade and Chillshot"
+              },
+              {
+                "text": "§aI-V: §7Bazaar"
+              },
+              {
+                "text": "§aVI: §7Distant Echo"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Applied To:"
+              },
+              {
+                "text": "§7- §fBoots"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§f§lCOMMON"
+              }
+            ],
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:attribute_modifiers",
+                "minecraft:banner_patterns",
+                "minecraft:charged_projectiles",
+                "minecraft:dyed_color",
+                "minecraft:fireworks",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:painting/variant",
+                "minecraft:potion_contents",
+                "minecraft:trim",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content"
+              ]
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:common"
+          }
+        }
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Stealth IV",
+          "§e Timid §7mobs have a §a40% §7chance to",
+          "§7remain still instead of fleeing.",
+          "",
+          "§6Source:",
+          "§aI: §7Chillblade and Chillshot",
+          "§aI-V: §7Bazaar",
+          "§aVI: §7Distant Echo",
+          "",
+          "§6Applied To:",
+          "§7- §fBoots",
+          "",
+          "§f§lCOMMON"
+        ],
+        "item": {
+          "id": "minecraft:enchanted_book",
+          "components": {
+            "minecraft:custom_data": {
+              "enchantments": {
+                "stealth": 4
+              },
+              "id": "ENCHANTED_BOOK"
+            },
+            "minecraft:custom_name": {
+              "text": "§fEnchanted Book"
+            },
+            "minecraft:lore": [
+              {
+                "text": "§8Combinable in Anvil"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§9Stealth IV"
+              },
+              {
+                "text": "§e Timid §7mobs have a §a40% §7chance to"
+              },
+              {
+                "text": "§7remain still instead of fleeing."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Source:"
+              },
+              {
+                "text": "§aI: §7Chillblade and Chillshot"
+              },
+              {
+                "text": "§aI-V: §7Bazaar"
+              },
+              {
+                "text": "§aVI: §7Distant Echo"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Applied To:"
+              },
+              {
+                "text": "§7- §fBoots"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§f§lCOMMON"
+              }
+            ],
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:attribute_modifiers",
+                "minecraft:banner_patterns",
+                "minecraft:charged_projectiles",
+                "minecraft:dyed_color",
+                "minecraft:fireworks",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:painting/variant",
+                "minecraft:potion_contents",
+                "minecraft:trim",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content"
+              ]
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:common"
+          }
+        }
+      },
+      {
+        "level": 5,
+        "literal_level": "V",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Stealth V",
+          "§e Timid §7mobs have a §a50% §7chance to",
+          "§7remain still instead of fleeing.",
+          "",
+          "§6Source:",
+          "§aI: §7Chillblade and Chillshot",
+          "§aI-V: §7Bazaar",
+          "§aVI: §7Distant Echo",
+          "",
+          "§6Applied To:",
+          "§7- §fBoots",
+          "",
+          "§a§lUNCOMMON"
+        ],
+        "item": {
+          "id": "minecraft:enchanted_book",
+          "components": {
+            "minecraft:custom_data": {
+              "enchantments": {
+                "stealth": 5
+              },
+              "id": "ENCHANTED_BOOK"
+            },
+            "minecraft:custom_name": {
+              "text": "§aEnchanted Book"
+            },
+            "minecraft:lore": [
+              {
+                "text": "§8Combinable in Anvil"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§9Stealth V"
+              },
+              {
+                "text": "§e Timid §7mobs have a §a50% §7chance to"
+              },
+              {
+                "text": "§7remain still instead of fleeing."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Source:"
+              },
+              {
+                "text": "§aI: §7Chillblade and Chillshot"
+              },
+              {
+                "text": "§aI-V: §7Bazaar"
+              },
+              {
+                "text": "§aVI: §7Distant Echo"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Applied To:"
+              },
+              {
+                "text": "§7- §fBoots"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§a§lUNCOMMON"
+              }
+            ],
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:attribute_modifiers",
+                "minecraft:banner_patterns",
+                "minecraft:charged_projectiles",
+                "minecraft:dyed_color",
+                "minecraft:fireworks",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:painting/variant",
+                "minecraft:potion_contents",
+                "minecraft:trim",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content"
+              ]
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+          }
+        }
+      },
+      {
+        "level": 6,
+        "literal_level": "VI",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Stealth VI",
+          "§e Timid §7mobs have a §a60% §7chance to",
+          "§7remain still instead of fleeing.",
+          "",
+          "§6Source:",
+          "§aI: §7Chillblade and Chillshot",
+          "§aI-V: §7Bazaar",
+          "§aVI: §7Distant Echo",
+          "",
+          "§6Applied To:",
+          "§7- §fBoots",
+          "",
+          "§a§lUNCOMMON"
+        ],
+        "item": {
+          "id": "minecraft:enchanted_book",
+          "components": {
+            "minecraft:custom_data": {
+              "enchantments": {
+                "stealth": 6
+              },
+              "id": "ENCHANTED_BOOK"
+            },
+            "minecraft:custom_name": {
+              "text": "§aEnchanted Book"
+            },
+            "minecraft:lore": [
+              {
+                "text": "§8Combinable in Anvil"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§9Stealth VI"
+              },
+              {
+                "text": "§e Timid §7mobs have a §a60% §7chance to"
+              },
+              {
+                "text": "§7remain still instead of fleeing."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Source:"
+              },
+              {
+                "text": "§aI: §7Chillblade and Chillshot"
+              },
+              {
+                "text": "§aI-V: §7Bazaar"
+              },
+              {
+                "text": "§aVI: §7Distant Echo"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Applied To:"
+              },
+              {
+                "text": "§7- §fBoots"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§a§lUNCOMMON"
+              }
+            ],
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:attribute_modifiers",
+                "minecraft:banner_patterns",
+                "minecraft:charged_projectiles",
+                "minecraft:dyed_color",
+                "minecraft:fireworks",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:painting/variant",
+                "minecraft:potion_contents",
+                "minecraft:trim",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content"
+              ]
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
           }
         }
       }
