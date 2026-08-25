@@ -109593,7 +109593,7 @@
           "text": "§7Bonuses of wearing §a0 pieces §7of the"
         },
         {
-          "text": "§7Melon Armor, Cropie Armor, and"
+          "text": "§7Tater Armor, Cropie Armor, and"
         },
         {
           "text": "§7Squash Armor. Grants §60 Farming"
@@ -109702,7 +109702,7 @@
           "text": "§7Bonuses of wearing §a0 pieces §7of the"
         },
         {
-          "text": "§7Melon Armor, Cropie Armor, and"
+          "text": "§7Tater Armor, Cropie Armor, and"
         },
         {
           "text": "§7Squash Armor. Grants §60 Farming"
@@ -109801,7 +109801,7 @@
           "text": "§7Bonuses of wearing §a0 pieces §7of the"
         },
         {
-          "text": "§7Melon Armor, Cropie Armor, and"
+          "text": "§7Tater Armor, Cropie Armor, and"
         },
         {
           "text": "§7Squash Armor. Grants §60 Farming"
@@ -109976,7 +109976,7 @@
           "text": "§7Bonuses of wearing §a0 pieces §7of the"
         },
         {
-          "text": "§7Melon Armor, Cropie Armor, and"
+          "text": "§7Tater Armor, Cropie Armor, and"
         },
         {
           "text": "§7Squash Armor. Grants §60 Farming"
@@ -110002,13 +110002,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -152578,7 +152580,7 @@
           "text": "§7Combines the Tiered Bonuses of"
         },
         {
-          "text": "§7wearing §a0 pieces §7of the Melon Armor,"
+          "text": "§7wearing §a0 pieces §7of the Tater Armor,"
         },
         {
           "text": "§7Cropie Armor, Squash Armor, and"
@@ -152671,7 +152673,7 @@
           "text": "§7Combines the Tiered Bonuses of"
         },
         {
-          "text": "§7wearing §a0 pieces §7of the Melon Armor,"
+          "text": "§7wearing §a0 pieces §7of the Tater Armor,"
         },
         {
           "text": "§7Cropie Armor, Squash Armor, and"
@@ -152834,7 +152836,7 @@
           "text": "§7Combines the Tiered Bonuses of"
         },
         {
-          "text": "§7wearing §a0 pieces §7of the Melon Armor,"
+          "text": "§7wearing §a0 pieces §7of the Tater Armor,"
         },
         {
           "text": "§7Cropie Armor, Squash Armor, and"
@@ -152926,7 +152928,7 @@
           "text": "§7Combines the Tiered Bonuses of"
         },
         {
-          "text": "§7wearing §a0 pieces §7of the Melon Armor,"
+          "text": "§7wearing §a0 pieces §7of the Tater Armor,"
         },
         {
           "text": "§7Cropie Armor, Squash Armor, and"
@@ -312419,7 +312421,8 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
     }
   },
   {
