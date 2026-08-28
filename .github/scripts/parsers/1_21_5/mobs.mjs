@@ -58,7 +58,7 @@ const parseDropAmountAndChance = (chanceStr, extraLines) => {
 
 export const Mobs = {
     /** @param item {Item} */
-    parseMob: async (item) => {
+    parseMob: (item) => {
         const realId = item.internalname.replace("MAYOR_MONSTER", "MAYOR");
         const [, realName, type] = item.displayname.match(/^§.(.*?)(?: \(([^)]+)\))?$/) || [];
 
@@ -135,7 +135,7 @@ export const Mobs = {
             lootTables: lootTables.length === 0 ? undefined : lootTables,
         };
 
-        const overlayProps = await getOverlay(item);
+        const overlayProps = getOverlay(item);
         if (overlayProps) {
             mobOverlaysFile.push({
                 type: "mob",

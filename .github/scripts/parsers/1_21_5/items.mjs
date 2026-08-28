@@ -133,13 +133,13 @@ export const buildItemStack = (item) => {
 
 export const Items = {
     /** @param item {Item} */
-    parseItem: async (item) => {
+    parseItem: (item) => {
         const itemStack = buildItemStack(item);
         if (!itemStack) return;
 
         itemsFile.push(itemStack);
 
-        const overlayProps = await getOverlay(item);
+        const overlayProps = getOverlay(item);
         if (overlayProps) {
             itemOverlaysFile.push({
                 type: "item",

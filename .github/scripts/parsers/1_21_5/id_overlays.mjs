@@ -16,7 +16,7 @@ const hotf = ["hotf", "heart of the forest", "heart of the forest tier"]
 const bossCollection = ["bonzo", "scarf", "the professor", "thorn", "livid", "sadan", "necron"]
 const skills = ["combat", "farming", "fishing", "mining", "foraging", "enchanting", "alchemy", "carpentry", "taming", "hunting", "duneoneering"]
 
-const getRequirements = async (item) => {
+const getRequirements = (item) => {
     if (!item.crafttext.startsWith("Requires")) {
         console.warn("Non Requirement crafttext found: " + item.crafttext);
         return undefined
@@ -62,7 +62,7 @@ const getRequirements = async (item) => {
                     name: name,
                     level: levelNum
                 });
-            } else if (await isCollectionItem(name)) {
+            } else if (isCollectionItem(name)) {
                 out.push({
                     type: "collection",
                     name: name,
@@ -88,10 +88,10 @@ const getRequirements = async (item) => {
     return out
 }
 
-export const getOverlay = async (item) => {
+export const getOverlay = (item) => {
     const overlay = cleanObject({
         vanilla: item.vanilla ? true : undefined,
-        requirements: item.crafttext && item.crafttext !== "" ? await getRequirements(item) : undefined, // Add await here
+        requirements: item.crafttext && item.crafttext !== "" ? getRequirements(item) : undefined,
         wiki: getWiki(item),
     });
 

@@ -9,7 +9,7 @@ export const attributeIds = []
 
 export const Attributes = {
     /** @param item {Item} */
-    parseAttribute: async (item) => {
+    parseAttribute: (item) => {
         const originalItem = item
         item = structuredClone(item)
 
@@ -62,12 +62,12 @@ export const Attributes = {
 
         attributesFile.push(attribute)
 
-        const overlayProps = await getOverlay(item);
+        const overlayProps = getOverlay(item);
         if (overlayProps) {
             attributeOverlaysFile.push({
                 type: "attribute",
                 id: item.nbt.ExtraAttributes.id,
-                ...overlayProps(item),
+                ...overlayProps,
             });
         }
     },

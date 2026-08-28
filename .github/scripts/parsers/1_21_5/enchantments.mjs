@@ -8,7 +8,7 @@ export const enchantmentIds = []
 
 export const Enchantments = {
     /** @param item {Item} */
-    parseEnchantments: async (item) => {
+    parseEnchantments: (item) => {
         const originalItem = item
         item = structuredClone(item)
 
@@ -55,7 +55,7 @@ export const Enchantments = {
 
         enchantmentFile[enchantId] = enchant
 
-        const overlayProps = await getOverlay(item);
+        const overlayProps = getOverlay(item);
         if (overlayProps) {
             enchantmentOverlaysFile.push({
                 type: "enchantment",

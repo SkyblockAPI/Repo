@@ -130,7 +130,7 @@ const parseLiteralLevel = (name) => stripFormatting(name).match(potionLevelPatte
 
 export const Potions = {
     /** @param item {Item} */
-    parsePotions: async (item) => {
+    parsePotions: (item) => {
         const originalItem = item
         item = structuredClone(item)
 
@@ -168,7 +168,7 @@ export const Potions = {
 
         potionFile[potionId] = potion
 
-        const overlayProps = await getOverlay(item);
+        const overlayProps = getOverlay(item);
         if (overlayProps) {
             potionOverlaysFile.push({
                 type: "potion",

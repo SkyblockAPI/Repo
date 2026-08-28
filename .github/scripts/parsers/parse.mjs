@@ -10,6 +10,7 @@ import {Runes} from "./1_21_5/runes.mjs";
 import {Enchantments} from "./1_21_5/enchantments.mjs";
 import {Potions} from "./1_21_5/potions.mjs";
 import {Attributes} from "./1_21_5/attributes.mjs";
+import {fetchCollections} from "../utils/collection.mjs";
 
 const specialItems = JSON.parse(fs.readFileSync(".github/scripts/data/special_items.json", "utf-8"));
 const itemOverlayIndex = buildItemOverlayIndex();
@@ -26,57 +27,69 @@ const isEntity = (file) => {
     return false;
 }
 
-const post = []
-for (let file of fs.readdirSync("neu/items")) {
-    if (!file.endsWith(".json")) {
-        console.error("[WARN] (Parse) Skipping non-json file found in items directory: " + file);
-        continue;
-    }
-    const itemId = file.slice(0, -".json".length);
-    const data = JSON.parse(fs.readFileSync(`./neu/items/${file}`, "utf-8"));
-    data.nbt = decodeLegacy(data.nbttag);
-    const itemOverlay = itemOverlayIndex.get(itemId);
-    if (itemOverlay) {
-        try {
-            data.itemOverlay = decodeModern(fs.readFileSync(itemOverlay.path, "utf-8"));
-        } catch (error) {
-            throw new Error(`Failed to parse item overlay ${itemOverlay.path}: ${error.message}`, {cause: error});
+async function run() {
+    await fetchCollections()
+
+    const post = []
+
+    for (let file of fs.readdirSync("neu/items")) {
+        if (!file.endsWith(".json")) {
+            console.error("[WARN] (Parse) Skipping non-json file found in items directory: " + file);
+            continue;
         }
-    } else {
-        console.warn(`[WARN] (Parse) Missing item SNBT overlay: ${itemId}`);
-    }
-
-    const attributes = data.nbt.ExtraAttributes;
-
-    if (specialItems.items.includes(data.internalname)) continue;
-    if (specialItems.items.includes(attributes?.id)) continue;
-
-    post.push(async () => {
-        await Recipes.parse(data)
-    })
-
-    if (isEntity(file)) {
-        post.push(async () => {
-            await Mobs.parseMob(data);
-        })
-    } else {
-        if (attributes.hasOwnProperty("attributes") && data.internalname.startsWith("ATTRIBUTE_SHARD_")) {
-            await Attributes.parseAttribute(data)
-        } else if (attributes.hasOwnProperty("runes")) {
-            await Runes.parseRune(data);
-        } else if (attributes.hasOwnProperty("petInfo")) {
-            data.pet = JSON.parse(attributes.petInfo);
-            await Pets.parsePet(data);
-        } else if (data.displayname.match(/§.Enchanted Book/) && data.itemid === "minecraft:enchanted_book" && attributes.enchantments) {
-            await Enchantments.parseEnchantments(data);
-        } else if (isPotion(data)) {
-            await Potions.parsePotions(data);
-        } else if (data.internalname.includes(";")) {
-            //console.log(file + " is a variant");
+        const itemId = file.slice(0, -".json".length);
+        const data = JSON.parse(fs.readFileSync(`./neu/items/${file}`, "utf-8"));
+        data.nbt = decodeLegacy(data.nbttag);
+        const itemOverlay = itemOverlayIndex.get(itemId);
+        if (itemOverlay) {
+            try {
+                data.itemOverlay = decodeModern(fs.readFileSync(itemOverlay.path, "utf-8"));
+            } catch (error) {
+                throw new Error(`Failed to parse item overlay ${itemOverlay.path}: ${error.message}`, {cause: error});
+            }
         } else {
-            await Mc1215.items.parseItem(data);
+            console.warn(`[WARN] (Parse) Missing item SNBT overlay: ${itemId}`);
+        }
+
+        const attributes = data.nbt.ExtraAttributes;
+
+        if (specialItems.items.includes(data.internalname)) continue;
+        if (specialItems.items.includes(attributes?.id)) continue;
+
+        post.push(() => {
+            Recipes.parse(data)
+        })
+
+        if (isEntity(file)) {
+            post.push(async () => {
+                Mobs.parseMob(data);
+            })
+        } else {
+            if (attributes.hasOwnProperty("attributes") && data.internalname.startsWith("ATTRIBUTE_SHARD_")) {
+                Attributes.parseAttribute(data)
+            } else if (attributes.hasOwnProperty("runes")) {
+                Runes.parseRune(data);
+            } else if (attributes.hasOwnProperty("petInfo")) {
+                data.pet = JSON.parse(attributes.petInfo);
+                Pets.parsePet(data);
+            } else if (data.displayname.match(/§.Enchanted Book/) && data.itemid === "minecraft:enchanted_book" && attributes.enchantments) {
+                Enchantments.parseEnchantments(data);
+            } else if (isPotion(data)) {
+                Potions.parsePotions(data);
+            } else if (data.internalname.includes(";")) {
+                //console.log(file + " is a variant");
+            } else {
+                Mc1215.items.parseItem(data);
+            }
         }
     }
+
+    post.forEach((recipe) => recipe())
+
+    fs.writeFileSync("cloudflare/shas.json", JSON.stringify({
+        "1_21_5": Mc1215.shas(),
+        ...clone(),
+    }, null, 4));
 }
 
 function isPotion(data) {
@@ -107,13 +120,6 @@ function isPotion(data) {
 
     return false
 }
-
-await Promise.all(post.map(recipe => recipe()));
-
-fs.writeFileSync("cloudflare/shas.json", JSON.stringify({
-    "1_21_5": Mc1215.shas(),
-    ...clone(),
-}, null, 4));
 
 function buildItemOverlayIndex() {
     const result = new Map();
@@ -146,3 +152,5 @@ function buildItemOverlayIndex() {
 
     return result;
 }
+
+await run();

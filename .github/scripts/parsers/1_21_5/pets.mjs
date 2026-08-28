@@ -35,7 +35,7 @@ const getPetVariables = (pet, tier) => {
 
 export const Pets = {
     /** @param item {Item} */
-    parsePet: async (item) => {
+    parsePet: (item) => {
         if (item.itemid !== "minecraft:skull") throw new Error(`Unknown pet: ${item.itemid}:${item.damage}`)
 
         const petId = item.pet.type
@@ -99,7 +99,7 @@ export const Pets = {
 
         petsFile[petId] = data
 
-        const overlayProps = await getOverlay(item);
+        const overlayProps = getOverlay(item);
         if (overlayProps) {
             petOverlaysFile.push({
                 type: "pet",
