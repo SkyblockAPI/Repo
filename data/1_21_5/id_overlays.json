@@ -3559,6 +3559,13 @@
   },
   {
     "type": "item",
+    "id": "BRINE_TONIC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Brine_Tonic"
+    }
+  },
+  {
+    "type": "item",
     "id": "BRITTLE_POWDER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Brittle_Powder"
@@ -13524,6 +13531,13 @@
   },
   {
     "type": "item",
+    "id": "FORESTS_FAVOR",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Forest%27s_Favor"
+    }
+  },
+  {
+    "type": "item",
     "id": "FOREST_BIOME_STICK",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Forest_Biome_Stick"
@@ -21157,6 +21171,13 @@
   },
   {
     "type": "item",
+    "id": "MARSHROOM",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Marshroom"
+    }
+  },
+  {
+    "type": "item",
     "id": "MARSH_SPORE_SOUP",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Marsh_Spore_Soup"
@@ -26819,6 +26840,13 @@
   },
   {
     "type": "item",
+    "id": "PET_SKIN_OCELOT_SPARKLING",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sparkling_Ocelot_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "PET_SKIN_PARROT_BUCCANEER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Buccaneer_Parrot_Skin"
@@ -31884,6 +31912,13 @@
     "id": "SEARING_STONE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Searing_Stone"
+    }
+  },
+  {
+    "type": "item",
+    "id": "SEA_BRINE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sea_Brine"
     }
   },
   {
@@ -54026,6 +54061,46 @@
     "type": "enchantment",
     "id": "STEALTH",
     "level": 1,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Stealth"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "STEALTH",
+    "level": 2,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Stealth"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "STEALTH",
+    "level": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Stealth"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "STEALTH",
+    "level": 4,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Stealth"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "STEALTH",
+    "level": 5,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Stealth"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "STEALTH",
+    "level": 6,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Stealth"
     }

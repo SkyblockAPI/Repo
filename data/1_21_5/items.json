@@ -2232,7 +2232,7 @@
     }
   },
   {
-    "id": "minecraft:lead",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "ABYSMAL_LASSO"
@@ -2300,13 +2300,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -17445,9 +17443,6 @@
           "text": "§7fish to catch them!"
         },
         {
-          "text": "§8Mana Cost: §b10"
-        },
-        {
           "text": "§8Cooldown: §a0.5s"
         },
         {
@@ -17464,13 +17459,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -21776,10 +21769,16 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Use on a §aTree §7with an active §2Tree"
+          "text": "§8Consumed on use"
         },
         {
-          "text": "§2Protection Order §7to lather it with"
+          "text": ""
+        },
+        {
+          "text": "§7Use on a §aTree §7with an active §cTree"
+        },
+        {
+          "text": "§cProtection Order §7to lather it with"
         },
         {
           "text": "§6Honeycomb§7!"
@@ -21806,7 +21805,7 @@
           "text": ""
         },
         {
-          "text": "§7Uses: §a10§7/§a10"
+          "text": "§eRight-click to consume!"
         },
         {
           "text": ""
@@ -33210,6 +33209,67 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "BRINE_TONIC"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Brine Tonic"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Hunting Tool"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §b2.75❣ Charm Chance §7on"
+        },
+        {
+          "text": "§2Moonglade Marsh Sea Creatures §7and"
+        },
+        {
+          "text": "§6Torrhus Canyon Sea Creatures§7."
+        },
+        {
+          "text": "§7Duration: §624h"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eLeft-click to consume!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE SALT"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/salts/brine_tonic",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
     }
   },
   {
@@ -76881,13 +76941,13 @@
           "text": "§7When applied to an item, increases its"
         },
         {
-          "text": "§9Karma §7level by §a1§7!"
+          "text": "§9Stealth §7level by §a1§7!"
         },
         {
           "text": "§8Can be applied once."
         },
         {
-          "text": "§8Requires Karma V!"
+          "text": "§8Requires Stealth V!"
         },
         {
           "text": ""
@@ -101740,7 +101800,7 @@
     }
   },
   {
-    "id": "minecraft:lead",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "ENTANGLER_LASSO"
@@ -104590,7 +104650,7 @@
     }
   },
   {
-    "id": "minecraft:lead",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "EVERSTRETCH_LASSO"
@@ -106592,10 +106652,16 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Use on a §aTree §7with an active §2Tree"
+          "text": "§8Consumed on use"
         },
         {
-          "text": "§2Protection Order §7to lather it with"
+          "text": ""
+        },
+        {
+          "text": "§7Use on a §aTree §7with an active §cTree"
+        },
+        {
+          "text": "§cProtection Order §7to lather it with"
         },
         {
           "text": "§6Honeycomb§7!"
@@ -106619,7 +106685,7 @@
           "text": ""
         },
         {
-          "text": "§7Uses: §a3§7/§a3"
+          "text": "§eRight-click to consume!"
         },
         {
           "text": ""
@@ -109527,7 +109593,7 @@
           "text": "§7Bonuses of wearing §a0 pieces §7of the"
         },
         {
-          "text": "§7Melon Armor, Cropie Armor, and"
+          "text": "§7Tater Armor, Cropie Armor, and"
         },
         {
           "text": "§7Squash Armor. Grants §60 Farming"
@@ -109636,7 +109702,7 @@
           "text": "§7Bonuses of wearing §a0 pieces §7of the"
         },
         {
-          "text": "§7Melon Armor, Cropie Armor, and"
+          "text": "§7Tater Armor, Cropie Armor, and"
         },
         {
           "text": "§7Squash Armor. Grants §60 Farming"
@@ -109735,7 +109801,7 @@
           "text": "§7Bonuses of wearing §a0 pieces §7of the"
         },
         {
-          "text": "§7Melon Armor, Cropie Armor, and"
+          "text": "§7Tater Armor, Cropie Armor, and"
         },
         {
           "text": "§7Squash Armor. Grants §60 Farming"
@@ -109910,7 +109976,7 @@
           "text": "§7Bonuses of wearing §a0 pieces §7of the"
         },
         {
-          "text": "§7Melon Armor, Cropie Armor, and"
+          "text": "§7Tater Armor, Cropie Armor, and"
         },
         {
           "text": "§7Squash Armor. Grants §60 Farming"
@@ -109936,13 +110002,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -123355,6 +123423,76 @@
     }
   },
   {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "FORESTS_FAVOR"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Forest's Favor"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Combinable in Anvil"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7When applied to an item, increases its"
+        },
+        {
+          "text": "§9Karma §7level by §a1§7!"
+        },
+        {
+          "text": "§8Can be applied once."
+        },
+        {
+          "text": "§8Requires Karma V!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§oThe will of the forest materializes"
+        },
+        {
+          "text": "§8§ointo this item, which it has bestowed"
+        },
+        {
+          "text": "§8§oupon you. May fortune smile upon"
+        },
+        {
+          "text": "§8§othee, and may thy axe be ever-sharp."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6§lLEGENDARY"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/enchantmentupgrades/forests_favor",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
     "id": "minecraft:stick",
     "components": {
       "minecraft:custom_data": {
@@ -127633,10 +127771,16 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Use on a §aTree §7with an active §2Tree"
+          "text": "§8Consumed on use"
         },
         {
-          "text": "§2Protection Order §7to lather it with"
+          "text": ""
+        },
+        {
+          "text": "§7Use on a §aTree §7with an active §cTree"
+        },
+        {
+          "text": "§cProtection Order §7to lather it with"
         },
         {
           "text": "§6Honeycomb§7!"
@@ -127660,7 +127804,7 @@
           "text": ""
         },
         {
-          "text": "§7Uses: §a1§7/§a1"
+          "text": "§eRight-click to consume!"
         },
         {
           "text": ""
@@ -133730,9 +133874,6 @@
         },
         {
           "text": "§7fish to catch them!"
-        },
-        {
-          "text": "§8Mana Cost: §b10"
         },
         {
           "text": "§8Cooldown: §a0.5s"
@@ -152439,7 +152580,7 @@
           "text": "§7Combines the Tiered Bonuses of"
         },
         {
-          "text": "§7wearing §a0 pieces §7of the Melon Armor,"
+          "text": "§7wearing §a0 pieces §7of the Tater Armor,"
         },
         {
           "text": "§7Cropie Armor, Squash Armor, and"
@@ -152532,7 +152673,7 @@
           "text": "§7Combines the Tiered Bonuses of"
         },
         {
-          "text": "§7wearing §a0 pieces §7of the Melon Armor,"
+          "text": "§7wearing §a0 pieces §7of the Tater Armor,"
         },
         {
           "text": "§7Cropie Armor, Squash Armor, and"
@@ -152695,7 +152836,7 @@
           "text": "§7Combines the Tiered Bonuses of"
         },
         {
-          "text": "§7wearing §a0 pieces §7of the Melon Armor,"
+          "text": "§7wearing §a0 pieces §7of the Tater Armor,"
         },
         {
           "text": "§7Cropie Armor, Squash Armor, and"
@@ -152787,7 +152928,7 @@
           "text": "§7Combines the Tiered Bonuses of"
         },
         {
-          "text": "§7wearing §a0 pieces §7of the Melon Armor,"
+          "text": "§7wearing §a0 pieces §7of the Tater Armor,"
         },
         {
           "text": "§7Cropie Armor, Squash Armor, and"
@@ -174806,10 +174947,16 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Use on a §aTree §7with an active §2Tree"
+          "text": "§8Consumed on use"
         },
         {
-          "text": "§2Protection Order §7to lather it with"
+          "text": ""
+        },
+        {
+          "text": "§7Use on a §aTree §7with an active §cTree"
+        },
+        {
+          "text": "§cProtection Order §7to lather it with"
         },
         {
           "text": "§6Honeycomb§7!"
@@ -174833,7 +174980,7 @@
           "text": ""
         },
         {
-          "text": "§7Uses: §a10§7/§a10"
+          "text": "§eRight-click to consume!"
         },
         {
           "text": ""
@@ -194997,6 +195144,94 @@
     }
   },
   {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "MARSHROOM"
+      },
+      "minecraft:custom_name": {
+        "text": "§aMarshroom"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Reforge Stone"
+        },
+        {
+          "text": "§8Combinable in Anvil"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Applies the §9Marshy §7reforge when"
+        },
+        {
+          "text": "§7combined with equipment."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§oA rare type of mushroom native to"
+        },
+        {
+          "text": "§8§othe Moonglade Marsh."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9Marshy §7(§6Legendary§7):"
+        },
+        {
+          "text": "§7Fishing Speed: §b+1.4"
+        },
+        {
+          "text": "§7Sea Creature Chance: §3+0.7%"
+        },
+        {
+          "text": "§7Foraging Fortune: §6+3.5"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9Marshy Bonus"
+        },
+        {
+          "text": "§7Increases §3Forest Whispers §7gain by"
+        },
+        {
+          "text": "§a+1%§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON REFORGE STONE"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/reforge_stones/marshroom",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
     "id": "minecraft:mushroom_stew",
     "components": {
       "minecraft:custom_data": {
@@ -197015,9 +197250,6 @@
           "text": "§7fish to catch them!"
         },
         {
-          "text": "§8Mana Cost: §b10"
-        },
-        {
           "text": "§8Cooldown: §a0.5s"
         },
         {
@@ -197052,13 +197284,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -251098,6 +251328,83 @@
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
+        "id": "PET_SKIN_OCELOT_SPARKLING"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Sparkling Ocelot Skin"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Consumed on use"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Pet skins change the look and"
+        },
+        {
+          "text": "§7particle trail of your pet but only"
+        },
+        {
+          "text": "§7one skin can be active at a time!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This skin can only be applied to"
+        },
+        {
+          "text": "§aOcelot§7 pets."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click on your summoned pet to"
+        },
+        {
+          "text": "§eapply this skin!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC COSMETIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NTM1MDI3NDQ3NSwKICAicHJvZmlsZUlkIiA6ICIyODlmYmYwZGViMDU0MTI5YWZlYzBhMWQzMDBlOTgwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJqb2hubnlsaWtlcGllMiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82NmMzYjVkMGQzNDMyMTNiNmU4MTk0MWQwYjUzMTVlZWRiMmQ5OTJmZGRlNmIzZTBkNWI0ZTg2OWNiZmI1ZDVlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
         "id": "PET_SKIN_PARROT_BUCCANEER"
       },
       "minecraft:custom_name": {
@@ -286689,10 +286996,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Dropped by the §5Giant Isopod §3Sea"
+          "text": "§7Dropped by the §dGiant Isopod §7in"
         },
         {
-          "text": "§3Creature §7in §6Torrhus Canyon§7."
+          "text": "§6Torrhus Canyon§7."
         },
         {
           "text": ""
@@ -300699,6 +301006,68 @@
     }
   },
   {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "SEA_BRINE"
+      },
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:custom_name": {
+        "text": "§aSea Brine"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Dropped by the §aBrineling §7in §6Torrhus"
+        },
+        {
+          "text": "§6Canyon§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§oHighly concentrated saltwater,"
+        },
+        {
+          "text": "§8§obetween three to eight times saltier"
+        },
+        {
+          "text": "§8§othan seawater."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/sea_brine",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
@@ -312052,7 +312421,8 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
     }
   },
   {
@@ -338879,16 +339249,25 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7A type of silk woven by the"
+          "text": "§7Dropped by the §6Silkbreeze §7in"
         },
         {
-          "text": "§7Silkbreeze. It's so soft that it"
+          "text": "§6Torrhus Canyon§7."
         },
         {
-          "text": "§7practically trickles through your"
+          "text": ""
         },
         {
-          "text": "§7fingers as you hold it."
+          "text": "§8§oA type of silk woven by the"
+        },
+        {
+          "text": "§8§oSilkbreeze. It's so soft that it"
+        },
+        {
+          "text": "§8§opractically trickles through your"
+        },
+        {
+          "text": "§8§ofingers as you hold it."
         },
         {
           "text": ""
@@ -359379,9 +359758,6 @@
           "text": "§7fish to catch them!"
         },
         {
-          "text": "§8Mana Cost: §b10"
-        },
-        {
           "text": "§8Cooldown: §a0.5s"
         },
         {
@@ -359416,13 +359792,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -365263,7 +365637,7 @@
     }
   },
   {
-    "id": "minecraft:lead",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "VINERIP_LASSO"
