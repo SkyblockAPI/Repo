@@ -1,5 +1,6 @@
 import fs from "fs";
 import {getOverlay} from "./id_overlays.mjs";
+import {buildItemStack} from "./items.mjs";
 
 const enchantmentFile = {};
 const enchantmentOverlaysFile = [];
@@ -49,6 +50,7 @@ export const Enchantments = {
             level: enchantLevel,
             literal_level: item.displayname.substring(item.displayname.lastIndexOf(" ")).trim(),
             lore: item.lore,
+            item: buildItemStack(originalItem)
         })
 
         enchantmentFile[enchantId] = enchant

@@ -1,6 +1,7 @@
 import fs from "fs";
 import {checkPetVariables} from "../../tests/pet_variables.test.mjs";
 import {getOverlay} from "./id_overlays.mjs";
+import {buildItemStack} from "./items.mjs";
 
 const RIGHT_CLICK_LORE_1 = "§7§eRight-click to add this pet to your";
 const RIGHT_CLICK_LORE_2 = "§7§eRight-click to add this pet to";
@@ -74,7 +75,8 @@ export const Pets = {
         const tier = {
             texture: item.nbt.SkullOwner.Properties.textures[0].Value,
             lore: lore,
-            variables: getPetVariables(item.pet.type, item.pet.tier)
+            variables: getPetVariables(item.pet.type, item.pet.tier),
+            item: buildItemStack(item)
         }
         const variablesOffset = stats[petId]?.[item.pet.tier]?.["stats_levelling_curve"]?.split(":") || [];
         if (variablesOffset.length >= 2) {

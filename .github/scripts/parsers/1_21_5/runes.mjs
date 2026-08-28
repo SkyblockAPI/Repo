@@ -1,5 +1,6 @@
 import fs from "fs";
 import {getOverlay} from "./id_overlays.mjs";
+import {buildItemStack} from "./items.mjs";
 
 const runesFile = {}
 const runeOverlaysFile = []
@@ -23,6 +24,7 @@ export const Runes = {
             texture: item.nbt.SkullOwner.Properties.textures[0].Value,
             name: item.displayname,
             lore: item.lore,
+            item: buildItemStack(item),
         })
         runesFile[rune] = runeInfo;
 

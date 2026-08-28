@@ -1,5 +1,5 @@
 import fs from "fs";
-import {getItemId} from "./items.mjs";
+import {buildItemStack, getItemId} from "./items.mjs";
 import {NeuData} from "../../utils/common_neu_data.mjs";
 import {getOverlay} from "./id_overlays.mjs";
 
@@ -56,7 +56,8 @@ export const Attributes = {
             item: getItemId(item.itemid, item.damage),
             texture: item.nbt.SkullOwner ? item.nbt.SkullOwner.Properties.textures[0].Value : undefined,
             rarity: neuAttribute.rarity,
-            max: NeuData.attributes.levels[neuAttribute.rarity]
+            max: NeuData.attributes.levels[neuAttribute.rarity],
+            itemStack: buildItemStack(originalItem),
         }
 
         attributesFile.push(attribute)

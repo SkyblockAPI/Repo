@@ -279,7 +279,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-4",
+        "id": "WOOD:4",
         "count": 1
       }
     ],
@@ -303,7 +303,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-4",
+        "id": "WOOD:4",
         "count": 1
       },
       {
@@ -335,7 +335,7 @@
         "count": 1
       },
       {
-        "id": "WOOD-4",
+        "id": "WOOD:4",
         "count": 1
       }
     ],
@@ -436,6 +436,34 @@
     ],
     "result": {
       "id": "ACACIA_GENERATOR_11",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "GENERATOR_UPGRADE_STONE_ACACIA_12",
+        "count": 1
+      },
+      {
+        "id": "ACACIA_GENERATOR_11",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "ACACIA_GENERATOR_12",
       "count": 1
     }
   },
@@ -667,7 +695,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-4",
+        "id": "WOOD:4",
         "count": 1
       }
     ],
@@ -685,6 +713,98 @@
     "result": {
       "id": "ACACIA_STAIRS",
       "count": 4
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HELIXIS",
+        "count": 8
+      },
+      {
+        "id": "VEILSHROOM_BUNCH",
+        "count": 1
+      },
+      {
+        "id": "ACCRETION_RING",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      1,
+      2,
+      1,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "ACCRETION_ARTIFACT",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_RUBY_VEILSHROOM",
+        "count": 8
+      },
+      {
+        "id": "ACCRETION_TALISMAN",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      1,
+      2,
+      1,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "ACCRETION_RING",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_RUBY_VEILSHROOM",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      1,
+      -1,
+      1,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "ACCRETION_TALISMAN",
+      "count": 1
     }
   },
   {
@@ -881,6 +1001,21 @@
     ],
     "result": {
       "id": "SCAVENGER_TALISMAN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "ADVENTURER_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "BEGINNER_COMBAT_SACK",
       "count": 1
     }
   },
@@ -2945,6 +3080,120 @@
     }
   },
   {
+    "type": "shop",
+    "npc": "ANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 2000000
+      },
+      {
+        "id": "ENCHANTED_ACACIA_LOG",
+        "count": 1024
+      }
+    ],
+    "result": {
+      "id": "GENERATOR_UPGRADE_STONE_ACACIA_12",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "ANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 2000000
+      },
+      {
+        "id": "ENCHANTED_BIRCH_LOG",
+        "count": 1024
+      }
+    ],
+    "result": {
+      "id": "GENERATOR_UPGRADE_STONE_BIRCH_12",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "ANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 2000000
+      },
+      {
+        "id": "ENCHANTED_DARK_OAK_LOG",
+        "count": 1024
+      }
+    ],
+    "result": {
+      "id": "GENERATOR_UPGRADE_STONE_DARK_OAK_12",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "ANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 2000000
+      },
+      {
+        "id": "ENCHANTED_JUNGLE_LOG",
+        "count": 1024
+      }
+    ],
+    "result": {
+      "id": "GENERATOR_UPGRADE_STONE_JUNGLE_12",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "ANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 2000000
+      },
+      {
+        "id": "ENCHANTED_OAK_LOG",
+        "count": 1024
+      }
+    ],
+    "result": {
+      "id": "GENERATOR_UPGRADE_STONE_OAK_12",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "ANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 2000000
+      },
+      {
+        "id": "ENCHANTED_SPRUCE_LOG",
+        "count": 1024
+      }
+    ],
+    "result": {
+      "id": "GENERATOR_UPGRADE_STONE_SPRUCE_12",
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {
@@ -2983,7 +3232,7 @@
       }
     ],
     "result": {
-      "id": "SAND-1",
+      "id": "SAND:1",
       "count": 1
     }
   },
@@ -3131,6 +3380,20 @@
     ],
     "result": {
       "id": "ARCHAIC_SPADE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "ARCHIE_NPC",
+    "inputs": [
+      {
+        "id": "ESSENCE_SAFARI",
+        "count": 2500
+      }
+    ],
+    "result": {
+      "id": "MORNING_DEW",
       "count": 1
     }
   },
@@ -3982,6 +4245,105 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_FEATHER",
+        "count": 4
+      },
+      {
+        "id": "ENCHANTED_EGG",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "HELIX_COLLECTOR",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HONEYCOMB",
+        "count": 4
+      },
+      {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_EGG",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "HONEY_REFILL",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_HONEYCOMB",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_EGG",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "HONEY_SERENDIPITY",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_MANGROVE_LOG",
         "count": 8
       },
@@ -4008,6 +4370,39 @@
     "result": {
       "type": "attribute",
       "id": "MANGROVE_COLLECTOR",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_RUBY_VEILSHROOM",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_EGG",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "TICKET_DISCOUNT",
       "count": 1
     }
   },
@@ -4280,7 +4675,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-14",
+        "id": "WOOL:14",
         "count": 1
       },
       {
@@ -4300,7 +4695,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-1",
+      "id": "BANNER:1",
       "count": 1
     }
   },
@@ -4308,7 +4703,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-5",
+        "id": "WOOL:5",
         "count": 1
       },
       {
@@ -4328,7 +4723,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-10",
+      "id": "BANNER:10",
       "count": 1
     }
   },
@@ -4336,7 +4731,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-4",
+        "id": "WOOL:4",
         "count": 1
       },
       {
@@ -4356,7 +4751,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-11",
+      "id": "BANNER:11",
       "count": 1
     }
   },
@@ -4364,7 +4759,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-3",
+        "id": "WOOL:3",
         "count": 1
       },
       {
@@ -4384,7 +4779,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-12",
+      "id": "BANNER:12",
       "count": 1
     }
   },
@@ -4392,7 +4787,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-2",
+        "id": "WOOL:2",
         "count": 1
       },
       {
@@ -4412,7 +4807,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-13",
+      "id": "BANNER:13",
       "count": 1
     }
   },
@@ -4420,7 +4815,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-1",
+        "id": "WOOL:1",
         "count": 1
       },
       {
@@ -4440,7 +4835,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-14",
+      "id": "BANNER:14",
       "count": 1
     }
   },
@@ -4468,7 +4863,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-15",
+      "id": "BANNER:15",
       "count": 1
     }
   },
@@ -4476,7 +4871,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-13",
+        "id": "WOOL:13",
         "count": 1
       },
       {
@@ -4496,7 +4891,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-2",
+      "id": "BANNER:2",
       "count": 1
     }
   },
@@ -4504,7 +4899,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-12",
+        "id": "WOOL:12",
         "count": 1
       },
       {
@@ -4524,7 +4919,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-3",
+      "id": "BANNER:3",
       "count": 1
     }
   },
@@ -4532,7 +4927,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-11",
+        "id": "WOOL:11",
         "count": 1
       },
       {
@@ -4552,7 +4947,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-4",
+      "id": "BANNER:4",
       "count": 1
     }
   },
@@ -4560,7 +4955,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-10",
+        "id": "WOOL:10",
         "count": 1
       },
       {
@@ -4580,7 +4975,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-5",
+      "id": "BANNER:5",
       "count": 1
     }
   },
@@ -4588,7 +4983,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-9",
+        "id": "WOOL:9",
         "count": 1
       },
       {
@@ -4608,7 +5003,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-6",
+      "id": "BANNER:6",
       "count": 1
     }
   },
@@ -4616,7 +5011,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-8",
+        "id": "WOOL:8",
         "count": 1
       },
       {
@@ -4636,7 +5031,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-7",
+      "id": "BANNER:7",
       "count": 1
     }
   },
@@ -4644,7 +5039,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-7",
+        "id": "WOOL:7",
         "count": 1
       },
       {
@@ -4664,7 +5059,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-8",
+      "id": "BANNER:8",
       "count": 1
     }
   },
@@ -4672,7 +5067,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-6",
+        "id": "WOOL:6",
         "count": 1
       },
       {
@@ -4692,7 +5087,7 @@
       -1
     ],
     "result": {
-      "id": "BANNER-9",
+      "id": "BANNER:9",
       "count": 1
     }
   },
@@ -4700,7 +5095,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-15",
+        "id": "WOOL:15",
         "count": 1
       },
       {
@@ -5906,15 +6301,7 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 4999
-      },
-      {
-        "id": "COAL_BLOCK",
-        "count": 2
-      },
-      {
-        "id": "GOLD_BLOCK",
-        "count": 2
+        "count": 50
       }
     ],
     "result": {
@@ -5931,21 +6318,41 @@
       {
         "type": "currency",
         "currency": "COIN",
+        "count": 500
+      }
+    ],
+    "result": {
+      "id": "SMALL_HONEY_DIPPER",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "BEA_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 5000
+      }
+    ],
+    "result": {
+      "id": "MEDIUM_HONEY_DIPPER",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "BEA_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
         "count": 50000
-      },
-      {
-        "id": "COAL_BLOCK",
-        "count": 128
-      },
-      {
-        "id": "GOLD_BLOCK",
-        "count": 128
       }
     ],
     "result": {
-      "type": "pet",
-      "pet": "BEE",
-      "tier": "RARE",
+      "id": "LARGE_HONEY_DIPPER",
       "count": 1
     }
   },
@@ -5956,46 +6363,11 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 200000
-      },
-      {
-        "id": "ENCHANTED_COAL_BLOCK",
-        "count": 1
-      },
-      {
-        "id": "ENCHANTED_GOLD_BLOCK",
-        "count": 1
+        "count": 500000
       }
     ],
     "result": {
-      "type": "pet",
-      "pet": "BEE",
-      "tier": "EPIC",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "npc": "BEA_NPC",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 650000
-      },
-      {
-        "id": "ENCHANTED_COAL_BLOCK",
-        "count": 8
-      },
-      {
-        "id": "ENCHANTED_GOLD_BLOCK",
-        "count": 8
-      }
-    ],
-    "result": {
-      "type": "pet",
-      "pet": "BEE",
-      "tier": "LEGENDARY",
+      "id": "GIANT_HONEY_DIPPER",
       "count": 1
     }
   },
@@ -6043,12 +6415,12 @@
     },
     "items": [
       {
-        "id": "COAL_BLOCK",
-        "count": 128
+        "id": "SMALL_HONEY_DIPPER",
+        "count": 1
       }
     ],
-    "time": 3600,
-    "coins": 5000
+    "time": 60,
+    "coins": 0
   },
   {
     "type": "kat",
@@ -6066,12 +6438,12 @@
     },
     "items": [
       {
-        "id": "GOLD_BLOCK",
-        "count": 128
+        "id": "MEDIUM_HONEY_DIPPER",
+        "count": 1
       }
     ],
-    "time": 21600,
-    "coins": 40000
+    "time": 3600,
+    "coins": 0
   },
   {
     "type": "kat",
@@ -6089,12 +6461,12 @@
     },
     "items": [
       {
-        "id": "ENCHANTED_COAL_BLOCK",
-        "count": 9
+        "id": "LARGE_HONEY_DIPPER",
+        "count": 1
       }
     ],
     "time": 86400,
-    "coins": 150000
+    "coins": 0
   },
   {
     "type": "kat",
@@ -6112,12 +6484,12 @@
     },
     "items": [
       {
-        "id": "ENCHANTED_GOLD_BLOCK",
-        "count": 9
+        "id": "GIANT_HONEY_DIPPER",
+        "count": 1
       }
     ],
     "time": 259200,
-    "coins": 450000
+    "coins": 0
   },
   {
     "type": "kat",
@@ -6141,6 +6513,202 @@
     ],
     "time": 3600,
     "coins": 10000000
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_HONEYCOMB_BLOCK",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      1,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "BEE_SALIVA",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "WHEAT",
+        "count": 1
+      },
+      {
+        "id": "LEATHER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "BEGINNER_AGRONOMY_SACK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ROTTEN_FLESH",
+        "count": 1
+      },
+      {
+        "id": "LEATHER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "BEGINNER_COMBAT_SACK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "RAW_FISH:3",
+        "count": 1
+      },
+      {
+        "id": "LEATHER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "BEGINNER_FISHING_SACK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "LOG:2",
+        "count": 1
+      },
+      {
+        "id": "LEATHER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "BEGINNER_FORAGING_SACK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "MUTTON",
+        "count": 1
+      },
+      {
+        "id": "LEATHER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "BEGINNER_HUSBANDRY_SACK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "COAL",
+        "count": 1
+      },
+      {
+        "id": "LEATHER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "BEGINNER_MINING_SACK",
+      "count": 1
+    }
   },
   {
     "type": "forge",
@@ -6591,7 +7159,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-2",
+        "id": "WOOD:2",
         "count": 1
       }
     ],
@@ -6615,7 +7183,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-2",
+        "id": "WOOD:2",
         "count": 1
       },
       {
@@ -6647,7 +7215,7 @@
         "count": 1
       },
       {
-        "id": "WOOD-2",
+        "id": "WOOD:2",
         "count": 1
       }
     ],
@@ -6671,7 +7239,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LEAVES-2",
+        "id": "LEAVES:2",
         "count": 64
       },
       {
@@ -6699,7 +7267,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 10
       },
       {
@@ -6783,7 +7351,35 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "GENERATOR_UPGRADE_STONE_BIRCH_12",
+        "count": 1
+      },
+      {
+        "id": "BIRCH_GENERATOR_11",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "BIRCH_GENERATOR_12",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "LOG:2",
         "count": 20
       },
       {
@@ -6811,7 +7407,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 40
       },
       {
@@ -6839,7 +7435,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 64
       },
       {
@@ -7007,7 +7603,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-2",
+        "id": "WOOD:2",
         "count": 1
       }
     ],
@@ -8016,6 +8612,42 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "CACTUS_FLOWER",
+        "count": 6
+      },
+      {
+        "id": "THORN_FRAGMENT",
+        "count": 2
+      },
+      {
+        "id": "THORNSHADE",
+        "count": 2
+      },
+      {
+        "id": "COMPACTED_WILD_ROSE",
+        "count": 6
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      1,
+      2,
+      1,
+      3,
+      3,
+      3
+    ],
+    "result": {
+      "id": "BLOOMING_THORNS",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "BLUE_RING",
         "count": 32
       },
@@ -8682,7 +9314,7 @@
         "count": 1
       },
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 64
       }
     ],
@@ -9449,16 +10081,12 @@
         "count": 1
       },
       {
-        "id": "SALTED_SUNFLOWER_SEEDS",
-        "count": 64
+        "id": "BOTROOT",
+        "count": 16
       },
       {
         "id": "JUKEBOX",
         "count": 1
-      },
-      {
-        "id": "BOTROOT",
-        "count": 32
       }
     ],
     "pattern": [
@@ -9468,9 +10096,9 @@
       1,
       2,
       1,
-      3,
-      3,
-      3
+      1,
+      1,
+      1
     ],
     "result": {
       "id": "BUZZYBEES_FANTABULOUS_DISCO_DESTINATION",
@@ -10303,7 +10931,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-1",
+        "id": "WOOL:1",
         "count": 1
       }
     ],
@@ -10319,7 +10947,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-1",
+      "id": "CARPET:1",
       "count": 3
     }
   },
@@ -10327,7 +10955,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-10",
+        "id": "WOOL:10",
         "count": 1
       }
     ],
@@ -10343,7 +10971,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-10",
+      "id": "CARPET:10",
       "count": 3
     }
   },
@@ -10351,7 +10979,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-11",
+        "id": "WOOL:11",
         "count": 1
       }
     ],
@@ -10367,7 +10995,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-11",
+      "id": "CARPET:11",
       "count": 3
     }
   },
@@ -10375,7 +11003,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-12",
+        "id": "WOOL:12",
         "count": 1
       }
     ],
@@ -10391,7 +11019,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-12",
+      "id": "CARPET:12",
       "count": 3
     }
   },
@@ -10399,7 +11027,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-13",
+        "id": "WOOL:13",
         "count": 1
       }
     ],
@@ -10415,7 +11043,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-13",
+      "id": "CARPET:13",
       "count": 3
     }
   },
@@ -10423,7 +11051,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-14",
+        "id": "WOOL:14",
         "count": 1
       }
     ],
@@ -10439,7 +11067,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-14",
+      "id": "CARPET:14",
       "count": 3
     }
   },
@@ -10447,7 +11075,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-15",
+        "id": "WOOL:15",
         "count": 1
       }
     ],
@@ -10463,7 +11091,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-15",
+      "id": "CARPET:15",
       "count": 3
     }
   },
@@ -10471,7 +11099,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-2",
+        "id": "WOOL:2",
         "count": 1
       }
     ],
@@ -10487,7 +11115,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-2",
+      "id": "CARPET:2",
       "count": 3
     }
   },
@@ -10495,7 +11123,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-3",
+        "id": "WOOL:3",
         "count": 1
       }
     ],
@@ -10511,7 +11139,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-3",
+      "id": "CARPET:3",
       "count": 3
     }
   },
@@ -10519,7 +11147,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-4",
+        "id": "WOOL:4",
         "count": 1
       }
     ],
@@ -10535,7 +11163,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-4",
+      "id": "CARPET:4",
       "count": 3
     }
   },
@@ -10543,7 +11171,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-5",
+        "id": "WOOL:5",
         "count": 1
       }
     ],
@@ -10559,7 +11187,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-5",
+      "id": "CARPET:5",
       "count": 3
     }
   },
@@ -10567,7 +11195,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-6",
+        "id": "WOOL:6",
         "count": 1
       }
     ],
@@ -10583,7 +11211,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-6",
+      "id": "CARPET:6",
       "count": 3
     }
   },
@@ -10591,7 +11219,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-7",
+        "id": "WOOL:7",
         "count": 1
       }
     ],
@@ -10607,7 +11235,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-7",
+      "id": "CARPET:7",
       "count": 3
     }
   },
@@ -10615,7 +11243,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-8",
+        "id": "WOOL:8",
         "count": 1
       }
     ],
@@ -10631,7 +11259,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-8",
+      "id": "CARPET:8",
       "count": 3
     }
   },
@@ -10639,7 +11267,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOL-9",
+        "id": "WOOL:9",
         "count": 1
       }
     ],
@@ -10655,7 +11283,7 @@
       -1
     ],
     "result": {
-      "id": "CARPET-9",
+      "id": "CARPET:9",
       "count": 3
     }
   },
@@ -12893,7 +13521,7 @@
         "count": 1
       },
       {
-        "id": "RAW_FISH-2",
+        "id": "RAW_FISH:2",
         "count": 32
       }
     ],
@@ -12917,7 +13545,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RAW_FISH-2",
+        "id": "RAW_FISH:2",
         "count": 1
       }
     ],
@@ -13645,7 +14273,7 @@
       -1
     ],
     "result": {
-      "id": "COBBLE_WALL-1",
+      "id": "COBBLE_WALL:1",
       "count": 6
     }
   },
@@ -13677,7 +14305,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-3",
+        "id": "INK_SACK:3",
         "count": 10
       },
       {
@@ -13761,7 +14389,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-3",
+        "id": "INK_SACK:3",
         "count": 20
       },
       {
@@ -13789,7 +14417,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-3",
+        "id": "INK_SACK:3",
         "count": 40
       },
       {
@@ -13817,7 +14445,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-3",
+        "id": "INK_SACK:3",
         "count": 64
       },
       {
@@ -14361,7 +14989,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-3",
+        "id": "INK_SACK:3",
         "count": 1
       }
     ],
@@ -16218,7 +16846,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-5",
+        "id": "WOOD:5",
         "count": 1
       }
     ],
@@ -16242,7 +16870,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-5",
+        "id": "WOOD:5",
         "count": 1
       },
       {
@@ -16274,7 +16902,7 @@
         "count": 1
       },
       {
-        "id": "WOOD-5",
+        "id": "WOOD:5",
         "count": 1
       }
     ],
@@ -16298,7 +16926,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 10
       },
       {
@@ -16382,7 +17010,35 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "GENERATOR_UPGRADE_STONE_DARK_OAK_12",
+        "count": 1
+      },
+      {
+        "id": "DARK_OAK_GENERATOR_11",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "DARK_OAK_GENERATOR_12",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "LOG_2:1",
         "count": 20
       },
       {
@@ -16410,7 +17066,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 40
       },
       {
@@ -16438,7 +17094,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 64
       },
       {
@@ -16606,7 +17262,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-5",
+        "id": "WOOD:5",
         "count": 1
       }
     ],
@@ -17951,7 +18607,7 @@
       -1
     ],
     "result": {
-      "id": "DIRT-1",
+      "id": "DIRT:1",
       "count": 4
     }
   },
@@ -21058,7 +21714,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 32
       }
     ],
@@ -21178,34 +21834,6 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_OAK_LOG",
-        "count": 1
-      },
-      {
-        "id": "ENCHANTED_PAPER",
-        "count": 2
-      }
-    ],
-    "pattern": [
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
-    "result": {
-      "id": "ENCHANTED_BOOKSHELF",
-      "count": 1
-    }
-  },
-  {
-    "type": "crafting",
-    "keys": [
-      {
         "id": "WHEAT",
         "count": 10
       }
@@ -21302,7 +21930,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-2",
+        "id": "INK_SACK:2",
         "count": 32
       }
     ],
@@ -21490,7 +22118,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RAW_FISH-2",
+        "id": "RAW_FISH:2",
         "count": 32
       }
     ],
@@ -21610,7 +22238,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-3",
+        "id": "INK_SACK:3",
         "count": 32
       }
     ],
@@ -21802,7 +22430,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 32
       }
     ],
@@ -22514,6 +23142,78 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "HELIX_LOG",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "ENCHANTED_HELIX_LOG",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HONEYCOMB",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "ENCHANTED_HONEYCOMB",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HONEYCOMB",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "ENCHANTED_HONEYCOMB_BLOCK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_IRON_BLOCK",
         "count": 1
       },
@@ -22738,7 +23438,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 32
       }
     ],
@@ -22762,7 +23462,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 32
       }
     ],
@@ -23414,7 +24114,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RAW_FISH-3",
+        "id": "RAW_FISH:3",
         "count": 32
       }
     ],
@@ -23654,7 +24354,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RAW_FISH-1",
+        "id": "RAW_FISH:1",
         "count": 32
       }
     ],
@@ -23802,7 +24502,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "SAND-1",
+        "id": "SAND:1",
         "count": 32
       }
     ],
@@ -23867,6 +24567,30 @@
     ],
     "result": {
       "id": "ENCHANTED_ROTTEN_FLESH",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "RUBY_VEILSHROOM",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "ENCHANTED_RUBY_VEILSHROOM",
       "count": 1
     }
   },
@@ -24114,7 +24838,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 32
       }
     ],
@@ -26122,7 +26846,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 1
       },
       {
@@ -26263,6 +26987,34 @@
     }
   },
   {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HONEYCOMB",
+        "count": 8
+      },
+      {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "FAMILY_SIZED_POT_OF_HONEYCOMB",
+      "count": 1
+    }
+  },
+  {
     "type": "shop",
     "npc": "FANN_NPC",
     "inputs": [
@@ -26307,12 +27059,8 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_PUMPKIN",
-        "count": 1
-      },
-      {
-        "id": "ENCHANTED_GLOWSTONE",
-        "count": 1
+        "id": "PUMPKIN",
+        "count": 12
       }
     ],
     "pattern": [
@@ -26320,7 +27068,7 @@
       0,
       0,
       0,
-      1,
+      -1,
       0,
       0,
       0,
@@ -26399,7 +27147,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-3",
+        "id": "INK_SACK:3",
         "count": 16
       },
       {
@@ -26491,12 +27239,12 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WHEAT",
-        "count": 8
+        "id": "ENCHANTED_WHEAT",
+        "count": 16
       },
       {
-        "id": "SEEDS",
-        "count": 1
+        "id": "ENCHANTED_SEEDS",
+        "count": 4
       }
     ],
     "pattern": [
@@ -26520,19 +27268,23 @@
     "keys": [
       {
         "id": "ENCHANTED_WHEAT",
-        "count": 8
+        "count": 1
+      },
+      {
+        "id": "FARM_SUIT_BOOTS",
+        "count": 1
       }
     ],
     "pattern": [
       0,
-      -1,
       0,
       0,
-      -1,
       0,
-      -1,
-      -1,
-      -1
+      1,
+      0,
+      0,
+      0,
+      0
     ],
     "result": {
       "id": "FARM_ARMOR_BOOTS",
@@ -26544,15 +27296,19 @@
     "keys": [
       {
         "id": "ENCHANTED_WHEAT",
-        "count": 8
+        "count": 1
+      },
+      {
+        "id": "FARM_SUIT_CHESTPLATE",
+        "count": 1
       }
     ],
     "pattern": [
       0,
-      -1,
       0,
       0,
       0,
+      1,
       0,
       0,
       0,
@@ -26568,7 +27324,11 @@
     "keys": [
       {
         "id": "ENCHANTED_WHEAT",
-        "count": 8
+        "count": 1
+      },
+      {
+        "id": "FARM_SUIT_HELMET",
+        "count": 1
       }
     ],
     "pattern": [
@@ -26576,11 +27336,11 @@
       0,
       0,
       0,
-      -1,
+      1,
       0,
-      -1,
-      -1,
-      -1
+      0,
+      0,
+      0
     ],
     "result": {
       "id": "FARM_ARMOR_HELMET",
@@ -26592,7 +27352,11 @@
     "keys": [
       {
         "id": "ENCHANTED_WHEAT",
-        "count": 8
+        "count": 1
+      },
+      {
+        "id": "FARM_SUIT_LEGGINGS",
+        "count": 1
       }
     ],
     "pattern": [
@@ -26600,10 +27364,10 @@
       0,
       0,
       0,
-      -1,
+      1,
       0,
       0,
-      -1,
+      0,
       0
     ],
     "result": {
@@ -27437,6 +28201,42 @@
     ],
     "result": {
       "id": "BREAD_BOWL",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HAY_BALE",
+        "count": 6
+      },
+      {
+        "id": "DEEPFRIES",
+        "count": 6
+      },
+      {
+        "id": "FEASTFUNGUS",
+        "count": 6
+      },
+      {
+        "id": "CORNUCOPIA",
+        "count": 12
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      1,
+      2,
+      2,
+      1,
+      0,
+      0,
+      3
+    ],
+    "result": {
+      "id": "FEAST_BURGER",
       "count": 1
     }
   },
@@ -29415,7 +30215,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RAW_FISH-1",
+        "id": "RAW_FISH:1",
         "count": 1
       },
       {
@@ -30876,7 +31676,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 16
       },
       {
@@ -30904,7 +31704,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 16
       },
       {
@@ -30932,7 +31732,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 16
       },
       {
@@ -30988,7 +31788,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 16
       },
       {
@@ -31104,7 +31904,7 @@
     "keys": [
       {
         "id": "FEASTFUNGUS",
-        "count": 2
+        "count": 1
       },
       {
         "id": "ENCHANTED_HUGE_MUSHROOM_1",
@@ -31112,15 +31912,15 @@
       }
     ],
     "pattern": [
-      0,
-      0,
+      -1,
+      -1,
+      -1,
       0,
       1,
-      1,
-      1,
       0,
-      0,
-      0
+      -1,
+      -1,
+      -1
     ],
     "result": {
       "id": "FRAGRANCED_BROWN_MUSHROOM_PASTE",
@@ -31704,6 +32504,38 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "HEMOGLASS",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_REDSTONE_BLOCK",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_BONE_BLOCK",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      0,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2
+    ],
+    "result": {
+      "id": "FULL_JAW_FANGING_KIT",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "FEASTFUNGUS",
         "count": 32
       },
@@ -31797,6 +32629,34 @@
     ],
     "result": {
       "id": "FUNGI_CUTTER_3",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HONEYCOMB",
+        "count": 64
+      },
+      {
+        "id": "HELIX_LOG",
+        "count": 64
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "FUN_SIZED_POT_OF_HONEYCOMB",
       "count": 1
     }
   },
@@ -32602,6 +33462,46 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "ENCHANTED_SEA_LUMIES",
+        "count": 32
+      },
+      {
+        "id": "REINFORCED_NETTING",
+        "count": 1
+      },
+      {
+        "id": "SUBLIME_SILK",
+        "count": 16
+      },
+      {
+        "id": "TURBO_FISHING_NET",
+        "count": 1
+      },
+      {
+        "id": "FLEXBONE",
+        "count": 64
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      0,
+      4,
+      0
+    ],
+    "result": {
+      "id": "GIGANTIC_FISHING_NET",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "MAGMA_FISH_DIAMOND",
         "count": 1
       },
@@ -33148,7 +34048,7 @@
         "count": 64
       },
       {
-        "id": "ENCHANTED_BONE_BLOCK",
+        "id": "ENCHANTED_QUARTZ_BLOCK",
         "count": 4
       },
       {
@@ -33824,7 +34724,7 @@
       0
     ],
     "result": {
-      "id": "GOLDEN_APPLE-1",
+      "id": "GOLDEN_APPLE:1",
       "count": 1
     }
   },
@@ -37290,6 +38190,174 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "HELIXIS",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HELIXIS",
+        "count": 1
+      },
+      {
+        "id": "FIG_BOOTS",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      0,
+      -1,
+      0,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "HELIX_ARMOR_BOOTS",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HELIXIS",
+        "count": 1
+      },
+      {
+        "id": "FIG_CHESTPLATE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "HELIX_ARMOR_CHESTPLATE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HELIXIS",
+        "count": 1
+      },
+      {
+        "id": "FIG_HELMET",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "HELIX_ARMOR_HELMET",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HELIXIS",
+        "count": 1
+      },
+      {
+        "id": "FIG_LEGGINGS",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      0,
+      -1,
+      0,
+      0,
+      -1,
+      0
+    ],
+    "result": {
+      "id": "HELIX_ARMOR_LEGGINGS",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HELIXIS",
+        "count": 1
+      },
+      {
+        "id": "FIGSTONE_AXE",
+        "count": 1
+      },
+      {
+        "id": "FLEXBONE",
+        "count": 8
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      -1,
+      1,
+      0,
+      -1,
+      2,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "HELIX_CHOPPER",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "MAGMA_FISH_GOLD",
         "count": 10
       },
@@ -38067,6 +39135,122 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "ENCHANTED_HONEYCOMB",
+        "count": 8
+      },
+      {
+        "id": "HONEYCOMB_RING",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      1,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "HONEYCOMB_ARTIFACT",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HELIXIS",
+        "count": 2
+      },
+      {
+        "id": "ENCHANTED_HONEYCOMB_BLOCK",
+        "count": 1
+      },
+      {
+        "id": "MANGROVE_LOCKET",
+        "count": 1
+      },
+      {
+        "id": "VIAL_OF_SPRING_WATER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      0,
+      1,
+      2,
+      1,
+      -1,
+      3,
+      -1
+    ],
+    "result": {
+      "id": "HONEYCOMB_NECKLACE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HONEYCOMB",
+        "count": 1
+      },
+      {
+        "id": "HONEYCOMB_TALISMAN",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      1,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "HONEYCOMB_RING",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HONEYCOMB",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      -1,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "HONEYCOMB_TALISMAN",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "IRON_INGOT",
         "count": 1
       },
@@ -38772,6 +39956,276 @@
     ],
     "result": {
       "id": "HURRICANE_IN_A_BOTTLE_EMPTY",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "RAW_BEEF",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "LEATHER",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "PORK",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "RAW_CHICKEN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "FEATHER",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "EGG",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "MUTTON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "WOOL",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "RABBIT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "RABBIT_HIDE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "RABBIT_FOOT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "BASIC_CHICKEN_AXE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "BASIC_COW_AXE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "BASIC_MUSHROOM_COW_AXE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "BASIC_PIG_AXE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "BASIC_SHEEP_AXE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "BASIC_RABBIT_AXE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "HUSBANDRY_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "BEGINNER_HUSBANDRY_SACK",
       "count": 1
     }
   },
@@ -40315,7 +41769,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-1",
+      "id": "INK_SACK:1",
       "count": 1
     }
   },
@@ -40323,7 +41777,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "DOUBLE_PLANT-4",
+        "id": "DOUBLE_PLANT:4",
         "count": 1
       }
     ],
@@ -40339,7 +41793,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-1",
+      "id": "INK_SACK:1",
       "count": 2
     }
   },
@@ -40347,11 +41801,11 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-2",
+        "id": "INK_SACK:2",
         "count": 1
       },
       {
-        "id": "INK_SACK-15",
+        "id": "INK_SACK:15",
         "count": 1
       }
     ],
@@ -40367,7 +41821,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-10",
+      "id": "INK_SACK:10",
       "count": 2
     }
   },
@@ -40391,7 +41845,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-11",
+      "id": "INK_SACK:11",
       "count": 1
     }
   },
@@ -40415,7 +41869,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-11",
+      "id": "INK_SACK:11",
       "count": 2
     }
   },
@@ -40423,7 +41877,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RED_ROSE-1",
+        "id": "RED_ROSE:1",
         "count": 1
       }
     ],
@@ -40439,7 +41893,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-12",
+      "id": "INK_SACK:12",
       "count": 1
     }
   },
@@ -40447,11 +41901,11 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 1
       },
       {
-        "id": "INK_SACK-15",
+        "id": "INK_SACK:15",
         "count": 1
       }
     ],
@@ -40467,7 +41921,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-12",
+      "id": "INK_SACK:12",
       "count": 2
     }
   },
@@ -40475,7 +41929,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RED_ROSE-2",
+        "id": "RED_ROSE:2",
         "count": 1
       }
     ],
@@ -40491,7 +41945,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-13",
+      "id": "INK_SACK:13",
       "count": 1
     }
   },
@@ -40499,7 +41953,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "DOUBLE_PLANT-1",
+        "id": "DOUBLE_PLANT:1",
         "count": 1
       }
     ],
@@ -40515,7 +41969,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-13",
+      "id": "INK_SACK:13",
       "count": 2
     }
   },
@@ -40523,15 +41977,15 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-1",
+        "id": "INK_SACK:1",
         "count": 1
       },
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 1
       },
       {
-        "id": "INK_SACK-9",
+        "id": "INK_SACK:9",
         "count": 1
       }
     ],
@@ -40547,7 +42001,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-13",
+      "id": "INK_SACK:13",
       "count": 3
     }
   },
@@ -40555,15 +42009,15 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-1",
+        "id": "INK_SACK:1",
         "count": 1
       },
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 1
       },
       {
-        "id": "INK_SACK-15",
+        "id": "INK_SACK:15",
         "count": 1
       }
     ],
@@ -40579,7 +42033,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-13",
+      "id": "INK_SACK:13",
       "count": 4
     }
   },
@@ -40587,7 +42041,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RED_ROSE-5",
+        "id": "RED_ROSE:5",
         "count": 1
       }
     ],
@@ -40603,7 +42057,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-14",
+      "id": "INK_SACK:14",
       "count": 1
     }
   },
@@ -40611,11 +42065,11 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-1",
+        "id": "INK_SACK:1",
         "count": 1
       },
       {
-        "id": "INK_SACK-11",
+        "id": "INK_SACK:11",
         "count": 1
       }
     ],
@@ -40631,7 +42085,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-14",
+      "id": "INK_SACK:14",
       "count": 2
     }
   },
@@ -40655,7 +42109,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-15",
+      "id": "INK_SACK:15",
       "count": 1
     }
   },
@@ -40679,7 +42133,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-4",
+      "id": "INK_SACK:4",
       "count": 9
     }
   },
@@ -40687,11 +42141,11 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 1
       },
       {
-        "id": "INK_SACK-1",
+        "id": "INK_SACK:1",
         "count": 1
       }
     ],
@@ -40707,7 +42161,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-5",
+      "id": "INK_SACK:5",
       "count": 1
     }
   },
@@ -40715,11 +42169,11 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 1
       },
       {
-        "id": "INK_SACK-2",
+        "id": "INK_SACK:2",
         "count": 1
       }
     ],
@@ -40735,7 +42189,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-6",
+      "id": "INK_SACK:6",
       "count": 1
     }
   },
@@ -40743,7 +42197,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RED_ROSE-3",
+        "id": "RED_ROSE:3",
         "count": 1
       }
     ],
@@ -40759,7 +42213,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-7",
+      "id": "INK_SACK:7",
       "count": 1
     }
   },
@@ -40767,7 +42221,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RED_ROSE-6",
+        "id": "RED_ROSE:6",
         "count": 1
       }
     ],
@@ -40783,7 +42237,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-7",
+      "id": "INK_SACK:7",
       "count": 1
     }
   },
@@ -40791,7 +42245,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RED_ROSE-8",
+        "id": "RED_ROSE:8",
         "count": 1
       }
     ],
@@ -40807,7 +42261,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-7",
+      "id": "INK_SACK:7",
       "count": 1
     }
   },
@@ -40815,11 +42269,11 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-8",
+        "id": "INK_SACK:8",
         "count": 1
       },
       {
-        "id": "INK_SACK-15",
+        "id": "INK_SACK:15",
         "count": 1
       }
     ],
@@ -40835,7 +42289,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-7",
+      "id": "INK_SACK:7",
       "count": 2
     }
   },
@@ -40847,7 +42301,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-15",
+        "id": "INK_SACK:15",
         "count": 1
       }
     ],
@@ -40863,7 +42317,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-7",
+      "id": "INK_SACK:7",
       "count": 3
     }
   },
@@ -40875,7 +42329,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-15",
+        "id": "INK_SACK:15",
         "count": 1
       }
     ],
@@ -40891,7 +42345,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-8",
+      "id": "INK_SACK:8",
       "count": 2
     }
   },
@@ -40899,7 +42353,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RED_ROSE-7",
+        "id": "RED_ROSE:7",
         "count": 1
       }
     ],
@@ -40915,7 +42369,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-9",
+      "id": "INK_SACK:9",
       "count": 1
     }
   },
@@ -40923,7 +42377,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "DOUBLE_PLANT-5",
+        "id": "DOUBLE_PLANT:5",
         "count": 1
       }
     ],
@@ -40939,7 +42393,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-9",
+      "id": "INK_SACK:9",
       "count": 2
     }
   },
@@ -40947,11 +42401,11 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-1",
+        "id": "INK_SACK:1",
         "count": 1
       },
       {
-        "id": "INK_SACK-15",
+        "id": "INK_SACK:15",
         "count": 1
       }
     ],
@@ -40967,7 +42421,7 @@
       -1
     ],
     "result": {
-      "id": "INK_SACK-9",
+      "id": "INK_SACK:9",
       "count": 2
     }
   },
@@ -41923,11 +43377,15 @@
       },
       {
         "id": "FIGSTONE",
-        "count": 100
+        "count": 64
       },
       {
         "id": "MANGCORE",
-        "count": 100
+        "count": 64
+      },
+      {
+        "id": "HELIXIS",
+        "count": 64
       }
     ],
     "result": {
@@ -41945,6 +43403,10 @@
         "type": "currency",
         "currency": "COIN",
         "count": 1000
+      },
+      {
+        "id": "BASIC_SHEEP_AXE",
+        "count": 1
       }
     ],
     "result": {
@@ -41960,6 +43422,10 @@
         "type": "currency",
         "currency": "COIN",
         "count": 1000
+      },
+      {
+        "id": "BASIC_MUSHROOM_COW_AXE",
+        "count": 1
       }
     ],
     "result": {
@@ -41975,6 +43441,10 @@
         "type": "currency",
         "currency": "COIN",
         "count": 1000
+      },
+      {
+        "id": "BASIC_COW_AXE",
+        "count": 1
       }
     ],
     "result": {
@@ -41990,6 +43460,10 @@
         "type": "currency",
         "currency": "COIN",
         "count": 1000
+      },
+      {
+        "id": "BASIC_PIG_AXE",
+        "count": 1
       }
     ],
     "result": {
@@ -42005,6 +43479,10 @@
         "type": "currency",
         "currency": "COIN",
         "count": 1000
+      },
+      {
+        "id": "BASIC_RABBIT_AXE",
+        "count": 1
       }
     ],
     "result": {
@@ -42020,6 +43498,10 @@
         "type": "currency",
         "currency": "COIN",
         "count": 1000
+      },
+      {
+        "id": "BASIC_CHICKEN_AXE",
+        "count": 1
       }
     ],
     "result": {
@@ -42617,6 +44099,30 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "ENCHANTED_MELON",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "JUICY_NOZZLE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_EYE_OF_ENDER",
         "count": 32
       },
@@ -42709,7 +44215,35 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "ENCHANTED_HONEYCOMB",
+        "count": 16
+      },
+      {
+        "id": "HELIXIS",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "JUMBO_POT_OF_HONEYCOMB",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "LOG:1",
         "count": 32
       },
       {
@@ -42737,7 +44271,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LEAVES-3",
+        "id": "LEAVES:3",
         "count": 64
       },
       {
@@ -42765,7 +44299,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-3",
+        "id": "WOOD:3",
         "count": 1
       }
     ],
@@ -42789,7 +44323,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-3",
+        "id": "WOOD:3",
         "count": 1
       },
       {
@@ -42821,7 +44355,7 @@
         "count": 1
       },
       {
-        "id": "WOOD-3",
+        "id": "WOOD:3",
         "count": 1
       }
     ],
@@ -42845,7 +44379,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 10
       },
       {
@@ -42929,7 +44463,35 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "GENERATOR_UPGRADE_STONE_JUNGLE_12",
+        "count": 1
+      },
+      {
+        "id": "JUNGLE_GENERATOR_11",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "JUNGLE_GENERATOR_12",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "LOG:3",
         "count": 20
       },
       {
@@ -42957,7 +44519,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 40
       },
       {
@@ -42985,7 +44547,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 64
       },
       {
@@ -43153,7 +44715,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-3",
+        "id": "WOOD:3",
         "count": 1
       }
     ],
@@ -43969,7 +45531,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 1
       }
     ],
@@ -43993,7 +45555,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 32
       },
       {
@@ -44077,7 +45639,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 64
       },
       {
@@ -44301,7 +45863,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 64
       },
       {
@@ -44990,6 +46552,42 @@
     ],
     "result": {
       "id": "LARGE_NETHER_SACK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "VEILSHROOM_BUNCH",
+        "count": 1
+      },
+      {
+        "id": "BOTTLED_MISCHIEF",
+        "count": 8
+      },
+      {
+        "id": "HELIXIS",
+        "count": 1
+      },
+      {
+        "id": "MEDIUM_POCKET_BLACK_HOLE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      2,
+      2,
+      2
+    ],
+    "result": {
+      "id": "LARGE_POCKET_BLACK_HOLE",
       "count": 1
     }
   },
@@ -45867,7 +47465,7 @@
         "count": 2
       },
       {
-        "id": "GOLDEN_APPLE-1",
+        "id": "GOLDEN_APPLE:1",
         "count": 2
       }
     ],
@@ -47089,6 +48687,94 @@
     }
   },
   {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "VINESAP",
+        "count": 32
+      },
+      {
+        "id": "HELIXIS",
+        "count": 1
+      },
+      {
+        "id": "LUMBERJACK_RING",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "LUMBERJACK_ARTIFACT",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "TENDER_WOOD",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 16
+      },
+      {
+        "id": "LUMBERJACK_TALISMAN",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "LUMBERJACK_RING",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "LUMBERJACK_TALISMAN",
+      "count": 1
+    }
+  },
+  {
     "type": "shop",
     "npc": "LUMBER_MERCHANT_NPC",
     "inputs": [
@@ -47114,7 +48800,7 @@
       }
     ],
     "result": {
-      "id": "LOG-2",
+      "id": "LOG:2",
       "count": 1
     }
   },
@@ -47129,7 +48815,7 @@
       }
     ],
     "result": {
-      "id": "LOG-1",
+      "id": "LOG:1",
       "count": 1
     }
   },
@@ -47144,7 +48830,7 @@
       }
     ],
     "result": {
-      "id": "LOG_2-1",
+      "id": "LOG_2:1",
       "count": 1
     }
   },
@@ -47174,7 +48860,7 @@
       }
     ],
     "result": {
-      "id": "LOG-3",
+      "id": "LOG:3",
       "count": 1
     }
   },
@@ -47219,7 +48905,7 @@
       }
     ],
     "result": {
-      "id": "DIRT-2",
+      "id": "DIRT:2",
       "count": 1
     }
   },
@@ -49879,6 +51565,116 @@
     }
   },
   {
+    "type": "shop",
+    "npc": "MAXIM_NPC",
+    "inputs": [
+      {
+        "id": "FIGSTONE",
+        "count": 1
+      },
+      {
+        "id": "MANGCORE",
+        "count": 1
+      },
+      {
+        "id": "HELIXIS",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "SWEEP_BOOSTER_UNCOMMON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MAXIM_NPC",
+    "inputs": [
+      {
+        "id": "FIGSTONE",
+        "count": 1
+      },
+      {
+        "id": "MANGCORE",
+        "count": 1
+      },
+      {
+        "id": "HELIXIS",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "FIGHTING_BOOSTER_UNCOMMON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MAXIM_NPC",
+    "inputs": [
+      {
+        "id": "FIGSTONE",
+        "count": 1
+      },
+      {
+        "id": "MANGCORE",
+        "count": 1
+      },
+      {
+        "id": "HELIXIS",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "FORAGING_FORTUNE_BOOSTER_UNCOMMON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MAXIM_NPC",
+    "inputs": [
+      {
+        "id": "FIGSTONE",
+        "count": 1
+      },
+      {
+        "id": "MANGCORE",
+        "count": 1
+      },
+      {
+        "id": "HELIXIS",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "FORAGING_WISDOM_BOOSTER_UNCOMMON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MAXIM_NPC",
+    "inputs": [
+      {
+        "id": "FIGSTONE",
+        "count": 1
+      },
+      {
+        "id": "MANGCORE",
+        "count": 1
+      },
+      {
+        "id": "HELIXIS",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "HUNTING_WISDOM_BOOSTER_UNCOMMON",
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {
@@ -50432,20 +52228,24 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_MELON_BLOCK",
-        "count": 5
+        "id": "ENCHANTED_POTATO",
+        "count": 32
+      },
+      {
+        "id": "PUMPKIN_BOOTS",
+        "count": 1
       }
     ],
     "pattern": [
       0,
-      -1,
       0,
       0,
-      -1,
       0,
-      -1,
-      -1,
-      -1
+      1,
+      0,
+      0,
+      0,
+      0
     ],
     "result": {
       "id": "MELON_BOOTS",
@@ -50456,16 +52256,20 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_MELON_BLOCK",
-        "count": 5
+        "id": "ENCHANTED_POTATO",
+        "count": 32
+      },
+      {
+        "id": "PUMPKIN_CHESTPLATE",
+        "count": 1
       }
     ],
     "pattern": [
       0,
-      -1,
       0,
       0,
       0,
+      1,
       0,
       0,
       0,
@@ -50852,8 +52656,12 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_MELON_BLOCK",
-        "count": 5
+        "id": "ENCHANTED_POTATO",
+        "count": 32
+      },
+      {
+        "id": "PUMPKIN_HELMET",
+        "count": 1
       }
     ],
     "pattern": [
@@ -50861,11 +52669,11 @@
       0,
       0,
       0,
-      -1,
+      1,
       0,
-      -1,
-      -1,
-      -1
+      0,
+      0,
+      0
     ],
     "result": {
       "id": "MELON_HELMET",
@@ -50908,8 +52716,12 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_MELON_BLOCK",
-        "count": 5
+        "id": "ENCHANTED_POTATO",
+        "count": 32
+      },
+      {
+        "id": "PUMPKIN_LEGGINGS",
+        "count": 1
       }
     ],
     "pattern": [
@@ -50917,10 +52729,10 @@
       0,
       0,
       0,
-      -1,
+      1,
       0,
       0,
-      -1,
+      0,
       0
     ],
     "result": {
@@ -51624,6 +53436,230 @@
     ],
     "result": {
       "id": "MINNOW_BAIT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 25
+      }
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "HELIX_SHARPENING",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 15
+      }
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "FOREST_FELLING",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 20
+      }
+    ],
+    "result": {
+      "type": "pet",
+      "pet": "SLOTH",
+      "tier": "COMMON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 30
+      }
+    ],
+    "result": {
+      "id": "SMALL_SLOTH_CLAW",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 40
+      }
+    ],
+    "result": {
+      "id": "MEDIUM_SLOTH_CLAW",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 50
+      }
+    ],
+    "result": {
+      "id": "LARGE_SLOTH_CLAW",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 60
+      }
+    ],
+    "result": {
+      "id": "GIANT_SLOTH_CLAW",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 20
+      }
+    ],
+    "result": {
+      "type": "enchantment",
+      "id": "PETALFALL",
+      "level": 1,
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 30
+      }
+    ],
+    "result": {
+      "id": "TORRHUS_TALISMAN",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 30
+      },
+      {
+        "id": "TORRHUS_TALISMAN",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "TORRHUS_RING",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 30
+      },
+      {
+        "id": "TORRHUS_RING",
+        "count": 1
+      }
+    ],
+    "result": {
+      "id": "TORRHUS_ARTIFACT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "EXTREMELY_MILD_ADHESIVE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 125
+      }
+    ],
+    "result": {
+      "id": "RUBBER_SNORKEL",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_COUPON",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "WINDING_IVY",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MIRIA_NPC",
+    "inputs": [
+      {
+        "id": "MIRIA_PRIZE",
+        "count": 10
+      }
+    ],
+    "result": {
+      "id": "VIAL_OF_SPRING_WATER",
       "count": 1
     }
   },
@@ -55807,6 +57843,34 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "GENERATOR_UPGRADE_STONE_OAK_12",
+        "count": 1
+      },
+      {
+        "id": "OAK_GENERATOR_11",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "OAK_GENERATOR_12",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "LOG",
         "count": 20
       },
@@ -56395,7 +58459,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 32
       },
       {
@@ -56437,7 +58501,7 @@
     },
     "items": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 512
       }
     ],
@@ -57731,6 +59795,128 @@
     }
   },
   {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "FLORAL_GELATIN",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_EGG",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "type": "pet",
+      "pet": "ORCHID_MANTIS",
+      "tier": "COMMON",
+      "count": 1
+    }
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ORCHID_MANTIS",
+      "tier": "COMMON",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ORCHID_MANTIS",
+      "tier": "UNCOMMON",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "FLORAL_GELATIN",
+        "count": 16
+      }
+    ],
+    "time": 86400,
+    "coins": 250000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ORCHID_MANTIS",
+      "tier": "UNCOMMON",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ORCHID_MANTIS",
+      "tier": "RARE",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "FLORAL_GELATIN",
+        "count": 32
+      }
+    ],
+    "time": 172800,
+    "coins": 500000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ORCHID_MANTIS",
+      "tier": "RARE",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ORCHID_MANTIS",
+      "tier": "EPIC",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "FLORAL_GELATIN",
+        "count": 48
+      }
+    ],
+    "time": 259200,
+    "coins": 1000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "ORCHID_MANTIS",
+      "tier": "EPIC",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "ORCHID_MANTIS",
+      "tier": "LEGENDARY",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "FLORAL_GELATIN",
+        "count": 64
+      }
+    ],
+    "time": 432000,
+    "coins": 2500000
+  },
+  {
     "type": "shop",
     "npc": "ORINGO_NPC",
     "inputs": [
@@ -58433,11 +60619,11 @@
     "keys": [
       {
         "id": "AGGOURDIAN",
-        "count": 2
+        "count": 8
       },
       {
-        "id": "ENCHANTED_SUGAR",
-        "count": 64
+        "id": "DESIGNER_COFFEE_BEANS",
+        "count": 8
       },
       {
         "id": "GLASS_BOTTLE",
@@ -58445,15 +60631,15 @@
       }
     ],
     "pattern": [
+      -1,
       0,
-      0,
-      0,
-      0,
+      -1,
+      -1,
       1,
-      0,
-      0,
+      -1,
+      -1,
       2,
-      0
+      -1
     ],
     "result": {
       "id": "OVERPRICED_DRINK",
@@ -60381,7 +62567,7 @@
     "keys": [
       {
         "id": "ENCHANTED_REDSTONE",
-        "count": 64
+        "count": 4
       },
       {
         "id": "SUPER_COMPACTOR_3000",
@@ -60408,8 +62594,8 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_REDSTONE_BLOCK",
-        "count": 2
+        "id": "ENCHANTED_REDSTONE",
+        "count": 12
       },
       {
         "id": "PERSONAL_COMPACTOR_4000",
@@ -60437,7 +62623,7 @@
     "keys": [
       {
         "id": "ENCHANTED_REDSTONE_BLOCK",
-        "count": 4
+        "count": 1
       },
       {
         "id": "PERSONAL_COMPACTOR_5000",
@@ -60465,7 +62651,7 @@
     "keys": [
       {
         "id": "ENCHANTED_REDSTONE_BLOCK",
-        "count": 8
+        "count": 3
       },
       {
         "id": "PERSONAL_COMPACTOR_6000",
@@ -63542,7 +65728,7 @@
       0
     ],
     "result": {
-      "id": "PRISMARINE-1",
+      "id": "PRISMARINE:1",
       "count": 1
     }
   },
@@ -63570,7 +65756,7 @@
       0
     ],
     "result": {
-      "id": "PRISMARINE-2",
+      "id": "PRISMARINE:2",
       "count": 1
     }
   },
@@ -63956,7 +66142,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RAW_FISH-3",
+        "id": "RAW_FISH:3",
         "count": 1
       }
     ],
@@ -64032,20 +66218,24 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "PUMPKIN",
+        "id": "ENCHANTED_CARROT",
+        "count": 8
+      },
+      {
+        "id": "FARM_ARMOR_BOOTS",
         "count": 1
       }
     ],
     "pattern": [
       0,
-      -1,
       0,
       0,
-      -1,
       0,
-      -1,
-      -1,
-      -1
+      1,
+      0,
+      0,
+      0,
+      0
     ],
     "result": {
       "id": "PUMPKIN_BOOTS",
@@ -64056,16 +66246,20 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "PUMPKIN",
+        "id": "ENCHANTED_CARROT",
+        "count": 8
+      },
+      {
+        "id": "FARM_ARMOR_CHESTPLATE",
         "count": 1
       }
     ],
     "pattern": [
       0,
-      -1,
       0,
       0,
       0,
+      1,
       0,
       0,
       0,
@@ -64452,7 +66646,11 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "PUMPKIN",
+        "id": "ENCHANTED_CARROT",
+        "count": 8
+      },
+      {
+        "id": "FARM_ARMOR_HELMET",
         "count": 1
       }
     ],
@@ -64461,11 +66659,11 @@
       0,
       0,
       0,
-      -1,
+      1,
       0,
-      -1,
-      -1,
-      -1
+      0,
+      0,
+      0
     ],
     "result": {
       "id": "PUMPKIN_HELMET",
@@ -64508,7 +66706,11 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "PUMPKIN",
+        "id": "ENCHANTED_CARROT",
+        "count": 8
+      },
+      {
+        "id": "FARM_ARMOR_LEGGINGS",
         "count": 1
       }
     ],
@@ -64517,10 +66719,10 @@
       0,
       0,
       0,
-      -1,
+      1,
       0,
       0,
-      -1,
+      0,
       0
     ],
     "result": {
@@ -64603,7 +66805,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STEP-7",
+        "id": "STEP:7",
         "count": 1
       }
     ],
@@ -64619,7 +66821,7 @@
       -1
     ],
     "result": {
-      "id": "QUARTZ_BLOCK-1",
+      "id": "QUARTZ_BLOCK:1",
       "count": 1
     }
   },
@@ -64643,7 +66845,7 @@
       -1
     ],
     "result": {
-      "id": "QUARTZ_BLOCK-2",
+      "id": "QUARTZ_BLOCK:2",
       "count": 2
     }
   },
@@ -65226,21 +67428,17 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_RABBIT_HIDE",
-        "count": 5
-      },
-      {
-        "id": "ENCHANTED_RABBIT_FOOT",
-        "count": 10
+        "id": "RABBIT_HIDE",
+        "count": 1
       }
     ],
     "pattern": [
       0,
       -1,
       0,
-      1,
+      0,
       -1,
-      1,
+      0,
       -1,
       -1,
       -1
@@ -65254,12 +67452,8 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_RABBIT_HIDE",
-        "count": 5
-      },
-      {
-        "id": "ENCHANTED_RABBIT_FOOT",
-        "count": 10
+        "id": "RABBIT_HIDE",
+        "count": 1
       }
     ],
     "pattern": [
@@ -65267,10 +67461,10 @@
       -1,
       0,
       0,
-      1,
       0,
       0,
-      1,
+      0,
+      0,
       0
     ],
     "result": {
@@ -65590,17 +67784,13 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_RABBIT_HIDE",
-        "count": 5
-      },
-      {
-        "id": "ENCHANTED_RABBIT_FOOT",
-        "count": 10
+        "id": "RABBIT_HIDE",
+        "count": 1
       }
     ],
     "pattern": [
       0,
-      1,
+      0,
       0,
       0,
       -1,
@@ -65618,17 +67808,13 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_RABBIT_HIDE",
-        "count": 5
-      },
-      {
-        "id": "ENCHANTED_RABBIT_FOOT",
-        "count": 10
+        "id": "RABBIT_HIDE",
+        "count": 1
       }
     ],
     "pattern": [
       0,
-      1,
+      0,
       0,
       0,
       -1,
@@ -66697,7 +68883,7 @@
       -1
     ],
     "result": {
-      "id": "RED_SANDSTONE-1",
+      "id": "RED_SANDSTONE:1",
       "count": 1
     }
   },
@@ -66721,7 +68907,7 @@
       -1
     ],
     "result": {
-      "id": "RED_SANDSTONE-2",
+      "id": "RED_SANDSTONE:2",
       "count": 4
     }
   },
@@ -66729,7 +68915,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "SAND-1",
+        "id": "SAND:1",
         "count": 1
       }
     ],
@@ -66777,7 +68963,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "SAND-1",
+        "id": "SAND:1",
         "count": 10
       },
       {
@@ -66861,7 +69047,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "SAND-1",
+        "id": "SAND:1",
         "count": 32
       },
       {
@@ -66889,7 +69075,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "SAND-1",
+        "id": "SAND:1",
         "count": 64
       },
       {
@@ -68769,7 +70955,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LEAVES_2-1",
+        "id": "LEAVES_2:1",
         "count": 64
       },
       {
@@ -68797,7 +70983,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 5
       },
       {
@@ -68818,6 +71004,20 @@
     ],
     "result": {
       "id": "ROOFED_FOREST_ISLAND",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "ROSEMARY_NPC",
+    "inputs": [
+      {
+        "id": "ESSENCE_FOREST",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "HUNTING_WISDOM_BOOSTER_COMMON",
       "count": 1
     }
   },
@@ -69500,7 +71700,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "RAW_FISH-1",
+        "id": "RAW_FISH:1",
         "count": 1
       }
     ],
@@ -69572,7 +71772,31 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STEP-1",
+        "id": "SALTED_SUNFLOWER_SEEDS",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "SALTY_NOZZLE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "STEP:1",
         "count": 1
       }
     ],
@@ -69588,7 +71812,7 @@
       -1
     ],
     "result": {
-      "id": "SANDSTONE-1",
+      "id": "SANDSTONE:1",
       "count": 1
     }
   },
@@ -69612,7 +71836,7 @@
       -1
     ],
     "result": {
-      "id": "SANDSTONE-2",
+      "id": "SANDSTONE:2",
       "count": 4
     }
   },
@@ -69973,6 +72197,86 @@
     }
   },
   {
+    "type": "shop",
+    "npc": "SANGER_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 250000
+      }
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "VISITOR_PLANT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "SANGER_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 250000
+      }
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "FLEXIBLE_FISHER",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "SANGER_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 500000
+      }
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "ARTHROPOD_FORTUNE",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "SANGER_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 500000
+      }
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "BATTLE_TRACKER",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "SANGER_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 750000
+      }
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "SLAYER_PROGRESS",
+      "count": 1
+    }
+  },
+  {
     "type": "forge",
     "inputs": [
       {
@@ -70150,7 +72454,7 @@
         "count": 16
       },
       {
-        "id": "GOLDEN_APPLE-1",
+        "id": "GOLDEN_APPLE:1",
         "count": 16
       }
     ],
@@ -70512,7 +72816,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 64
       },
       {
@@ -74256,13 +76560,13 @@
     "npc": "SKYMART_NPC",
     "inputs": [
       {
+        "id": "SKYMART_VACUUM",
+        "count": 1
+      },
+      {
         "type": "currency",
         "currency": "COPPER",
         "count": 200
-      },
-      {
-        "id": "SKYMART_VACUUM",
-        "count": 1
       }
     ],
     "result": {
@@ -74275,13 +76579,13 @@
     "npc": "SKYMART_NPC",
     "inputs": [
       {
+        "id": "SKYMART_TURBO_VACUUM",
+        "count": 1
+      },
+      {
         "type": "currency",
         "currency": "COPPER",
         "count": 500
-      },
-      {
-        "id": "SKYMART_TURBO_VACUUM",
-        "count": 1
       }
     ],
     "result": {
@@ -74294,13 +76598,13 @@
     "npc": "SKYMART_NPC",
     "inputs": [
       {
+        "id": "SKYMART_HYPER_VACUUM",
+        "count": 1
+      },
+      {
         "type": "currency",
         "currency": "COPPER",
         "count": 1000
-      },
-      {
-        "id": "SKYMART_HYPER_VACUUM",
-        "count": 1
       }
     ],
     "result": {
@@ -74313,36 +76617,21 @@
     "npc": "SKYMART_NPC",
     "inputs": [
       {
-        "type": "currency",
-        "currency": "COPPER",
-        "count": 2500
+        "id": "CHIRPING_STEREO",
+        "count": 1
       },
       {
         "id": "INFINI_VACUUM",
         "count": 1
       },
       {
-        "id": "CHIRPING_STEREO",
-        "count": 1
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 2500
       }
     ],
     "result": {
       "id": "INFINI_VACUUM_HOOVERIUS",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "npc": "SKYMART_NPC",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COPPER",
-        "count": 25
-      }
-    ],
-    "result": {
-      "id": "SPRAYONATOR",
       "count": 1
     }
   },
@@ -74366,17 +76655,93 @@
     "npc": "SKYMART_NPC",
     "inputs": [
       {
+        "id": "PEST_REPELLENT",
+        "count": 1
+      },
+      {
         "type": "currency",
         "currency": "COPPER",
         "count": 25
-      },
-      {
-        "id": "PEST_REPELLENT",
-        "count": 1
       }
     ],
     "result": {
       "id": "PEST_REPELLENT_MAX",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "SKYMART_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 25
+      }
+    ],
+    "result": {
+      "id": "SPRAYONATOR",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "SKYMART_NPC",
+    "inputs": [
+      {
+        "id": "SPRAYONATOR",
+        "count": 1
+      },
+      {
+        "id": "JUICY_NOZZLE",
+        "count": 1
+      },
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 1000
+      }
+    ],
+    "result": {
+      "id": "JUICY_SPRAYONATOR",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "SKYMART_NPC",
+    "inputs": [
+      {
+        "id": "JUICY_SPRAYONATOR",
+        "count": 1
+      },
+      {
+        "id": "SALTY_NOZZLE",
+        "count": 1
+      },
+      {
+        "type": "currency",
+        "currency": "COPPER",
+        "count": 10000
+      }
+    ],
+    "result": {
+      "id": "SALTY_SPRAYONATOR",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "SKYMART_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 20000
+      }
+    ],
+    "result": {
+      "id": "PORTABLE_WASHER",
       "count": 1
     }
   },
@@ -74792,6 +77157,98 @@
     "type": "kat",
     "input": {
       "type": "pet",
+      "pet": "SLOTH",
+      "tier": "COMMON",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SLOTH",
+      "tier": "UNCOMMON",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "SMALL_SLOTH_CLAW",
+        "count": 1
+      }
+    ],
+    "time": 3600,
+    "coins": 25000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SLOTH",
+      "tier": "UNCOMMON",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SLOTH",
+      "tier": "RARE",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "MEDIUM_SLOTH_CLAW",
+        "count": 1
+      }
+    ],
+    "time": 14400,
+    "coins": 100000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SLOTH",
+      "tier": "RARE",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SLOTH",
+      "tier": "EPIC",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "LARGE_SLOTH_CLAW",
+        "count": 1
+      }
+    ],
+    "time": 43200,
+    "coins": 250000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
+      "pet": "SLOTH",
+      "tier": "EPIC",
+      "count": 1
+    },
+    "output": {
+      "type": "pet",
+      "pet": "SLOTH",
+      "tier": "LEGENDARY",
+      "count": 1
+    },
+    "items": [
+      {
+        "id": "GIANT_SLOTH_CLAW",
+        "count": 1
+      }
+    ],
+    "time": 86400,
+    "coins": 1000000
+  },
+  {
+    "type": "kat",
+    "input": {
+      "type": "pet",
       "pet": "SLUG",
       "tier": "EPIC",
       "count": 1
@@ -74816,10 +77273,10 @@
     "keys": [
       {
         "id": "ENCHANTED_WHEAT",
-        "count": 16
+        "count": 1
       },
       {
-        "id": "ENCHANTED_LEATHER",
+        "id": "BEGINNER_AGRONOMY_SACK",
         "count": 1
       }
     ],
@@ -74868,10 +77325,10 @@
     "keys": [
       {
         "id": "ENCHANTED_ROTTEN_FLESH",
-        "count": 2
+        "count": 1
       },
       {
-        "id": "ENCHANTED_LEATHER",
+        "id": "BEGINNER_COMBAT_SACK",
         "count": 1
       }
     ],
@@ -74952,10 +77409,10 @@
     "keys": [
       {
         "id": "ENCHANTED_PUFFERFISH",
-        "count": 2
+        "count": 1
       },
       {
-        "id": "ENCHANTED_LEATHER",
+        "id": "BEGINNER_FISHING_SACK",
         "count": 1
       }
     ],
@@ -75012,10 +77469,10 @@
     "keys": [
       {
         "id": "ENCHANTED_BIRCH_LOG",
-        "count": 2
+        "count": 1
       },
       {
-        "id": "ENCHANTED_LEATHER",
+        "id": "BEGINNER_FORAGING_SACK",
         "count": 1
       }
     ],
@@ -75068,10 +77525,10 @@
     "keys": [
       {
         "id": "ENCHANTED_MUTTON",
-        "count": 2
+        "count": 1
       },
       {
-        "id": "ENCHANTED_LEATHER",
+        "id": "BEGINNER_HUSBANDRY_SACK",
         "count": 1
       }
     ],
@@ -75124,10 +77581,10 @@
     "keys": [
       {
         "id": "ENCHANTED_COAL",
-        "count": 2
+        "count": 1
       },
       {
-        "id": "ENCHANTED_LEATHER",
+        "id": "BEGINNER_MINING_SACK",
         "count": 1
       }
     ],
@@ -75370,7 +77827,7 @@
       -1
     ],
     "result": {
-      "id": "SMOOTH_BRICK-1",
+      "id": "SMOOTH_BRICK:1",
       "count": 1
     }
   },
@@ -75378,7 +77835,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STEP-5",
+        "id": "STEP:5",
         "count": 1
       }
     ],
@@ -75394,7 +77851,7 @@
       -1
     ],
     "result": {
-      "id": "SMOOTH_BRICK-3",
+      "id": "SMOOTH_BRICK:3",
       "count": 1
     }
   },
@@ -77470,7 +79927,7 @@
         "count": 1
       },
       {
-        "id": "RAW_FISH-3",
+        "id": "RAW_FISH:3",
         "count": 1
       }
     ],
@@ -77782,7 +80239,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-1",
+        "id": "WOOD:1",
         "count": 1
       }
     ],
@@ -77806,7 +80263,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-1",
+        "id": "WOOD:1",
         "count": 1
       },
       {
@@ -77838,7 +80295,7 @@
         "count": 1
       },
       {
-        "id": "WOOD-1",
+        "id": "WOOD:1",
         "count": 1
       }
     ],
@@ -77862,7 +80319,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 10
       },
       {
@@ -77946,7 +80403,35 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "GENERATOR_UPGRADE_STONE_SPRUCE_12",
+        "count": 1
+      },
+      {
+        "id": "SPRUCE_GENERATOR_11",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1
+    ],
+    "result": {
+      "id": "SPRUCE_GENERATOR_12",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "LOG:1",
         "count": 20
       },
       {
@@ -77974,7 +80459,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 40
       },
       {
@@ -78002,7 +80487,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 64
       },
       {
@@ -78170,7 +80655,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-1",
+        "id": "WOOD:1",
         "count": 1
       }
     ],
@@ -78475,7 +80960,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-14",
+        "id": "INK_SACK:14",
         "count": 1
       }
     ],
@@ -78491,7 +80976,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-1",
+      "id": "STAINED_CLAY:1",
       "count": 8
     }
   },
@@ -78503,7 +80988,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-5",
+        "id": "INK_SACK:5",
         "count": 1
       }
     ],
@@ -78519,7 +81004,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-10",
+      "id": "STAINED_CLAY:10",
       "count": 8
     }
   },
@@ -78531,7 +81016,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 1
       }
     ],
@@ -78547,7 +81032,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-11",
+      "id": "STAINED_CLAY:11",
       "count": 8
     }
   },
@@ -78559,7 +81044,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-3",
+        "id": "INK_SACK:3",
         "count": 1
       }
     ],
@@ -78575,7 +81060,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-12",
+      "id": "STAINED_CLAY:12",
       "count": 8
     }
   },
@@ -78587,7 +81072,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-2",
+        "id": "INK_SACK:2",
         "count": 1
       }
     ],
@@ -78603,7 +81088,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-13",
+      "id": "STAINED_CLAY:13",
       "count": 8
     }
   },
@@ -78615,7 +81100,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-1",
+        "id": "INK_SACK:1",
         "count": 1
       }
     ],
@@ -78631,7 +81116,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-14",
+      "id": "STAINED_CLAY:14",
       "count": 8
     }
   },
@@ -78659,7 +81144,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-15",
+      "id": "STAINED_CLAY:15",
       "count": 8
     }
   },
@@ -78671,7 +81156,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-13",
+        "id": "INK_SACK:13",
         "count": 1
       }
     ],
@@ -78687,7 +81172,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-2",
+      "id": "STAINED_CLAY:2",
       "count": 8
     }
   },
@@ -78699,7 +81184,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-12",
+        "id": "INK_SACK:12",
         "count": 1
       }
     ],
@@ -78715,7 +81200,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-3",
+      "id": "STAINED_CLAY:3",
       "count": 8
     }
   },
@@ -78727,7 +81212,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-11",
+        "id": "INK_SACK:11",
         "count": 1
       }
     ],
@@ -78743,7 +81228,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-4",
+      "id": "STAINED_CLAY:4",
       "count": 8
     }
   },
@@ -78755,7 +81240,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-10",
+        "id": "INK_SACK:10",
         "count": 1
       }
     ],
@@ -78771,7 +81256,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-5",
+      "id": "STAINED_CLAY:5",
       "count": 8
     }
   },
@@ -78783,7 +81268,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-9",
+        "id": "INK_SACK:9",
         "count": 1
       }
     ],
@@ -78799,7 +81284,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-6",
+      "id": "STAINED_CLAY:6",
       "count": 8
     }
   },
@@ -78811,7 +81296,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-8",
+        "id": "INK_SACK:8",
         "count": 1
       }
     ],
@@ -78827,7 +81312,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-7",
+      "id": "STAINED_CLAY:7",
       "count": 8
     }
   },
@@ -78839,7 +81324,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-7",
+        "id": "INK_SACK:7",
         "count": 1
       }
     ],
@@ -78855,7 +81340,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-8",
+      "id": "STAINED_CLAY:8",
       "count": 8
     }
   },
@@ -78867,7 +81352,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-6",
+        "id": "INK_SACK:6",
         "count": 1
       }
     ],
@@ -78883,7 +81368,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_CLAY-9",
+      "id": "STAINED_CLAY:9",
       "count": 8
     }
   },
@@ -78895,7 +81380,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-15",
+        "id": "INK_SACK:15",
         "count": 1
       }
     ],
@@ -78923,7 +81408,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-14",
+        "id": "INK_SACK:14",
         "count": 1
       }
     ],
@@ -78939,7 +81424,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-1",
+      "id": "STAINED_GLASS:1",
       "count": 8
     }
   },
@@ -78951,7 +81436,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-5",
+        "id": "INK_SACK:5",
         "count": 1
       }
     ],
@@ -78967,7 +81452,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-10",
+      "id": "STAINED_GLASS:10",
       "count": 8
     }
   },
@@ -78979,7 +81464,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 1
       }
     ],
@@ -78995,7 +81480,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-11",
+      "id": "STAINED_GLASS:11",
       "count": 8
     }
   },
@@ -79007,7 +81492,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-3",
+        "id": "INK_SACK:3",
         "count": 1
       }
     ],
@@ -79023,7 +81508,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-12",
+      "id": "STAINED_GLASS:12",
       "count": 8
     }
   },
@@ -79035,7 +81520,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-2",
+        "id": "INK_SACK:2",
         "count": 1
       }
     ],
@@ -79051,7 +81536,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-13",
+      "id": "STAINED_GLASS:13",
       "count": 8
     }
   },
@@ -79063,7 +81548,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-1",
+        "id": "INK_SACK:1",
         "count": 1
       }
     ],
@@ -79079,7 +81564,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-14",
+      "id": "STAINED_GLASS:14",
       "count": 8
     }
   },
@@ -79107,7 +81592,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-15",
+      "id": "STAINED_GLASS:15",
       "count": 8
     }
   },
@@ -79119,7 +81604,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-13",
+        "id": "INK_SACK:13",
         "count": 1
       }
     ],
@@ -79135,7 +81620,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-2",
+      "id": "STAINED_GLASS:2",
       "count": 8
     }
   },
@@ -79147,7 +81632,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-12",
+        "id": "INK_SACK:12",
         "count": 1
       }
     ],
@@ -79163,7 +81648,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-3",
+      "id": "STAINED_GLASS:3",
       "count": 8
     }
   },
@@ -79175,7 +81660,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-11",
+        "id": "INK_SACK:11",
         "count": 1
       }
     ],
@@ -79191,7 +81676,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-4",
+      "id": "STAINED_GLASS:4",
       "count": 8
     }
   },
@@ -79203,7 +81688,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-10",
+        "id": "INK_SACK:10",
         "count": 1
       }
     ],
@@ -79219,7 +81704,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-5",
+      "id": "STAINED_GLASS:5",
       "count": 8
     }
   },
@@ -79231,7 +81716,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-9",
+        "id": "INK_SACK:9",
         "count": 1
       }
     ],
@@ -79247,7 +81732,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-6",
+      "id": "STAINED_GLASS:6",
       "count": 8
     }
   },
@@ -79259,7 +81744,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-8",
+        "id": "INK_SACK:8",
         "count": 1
       }
     ],
@@ -79275,7 +81760,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-7",
+      "id": "STAINED_GLASS:7",
       "count": 8
     }
   },
@@ -79287,7 +81772,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-7",
+        "id": "INK_SACK:7",
         "count": 1
       }
     ],
@@ -79303,7 +81788,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-8",
+      "id": "STAINED_GLASS:8",
       "count": 8
     }
   },
@@ -79315,7 +81800,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-6",
+        "id": "INK_SACK:6",
         "count": 1
       }
     ],
@@ -79331,7 +81816,7 @@
       0
     ],
     "result": {
-      "id": "STAINED_GLASS-9",
+      "id": "STAINED_GLASS:9",
       "count": 8
     }
   },
@@ -79343,7 +81828,7 @@
         "count": 1
       },
       {
-        "id": "INK_SACK-15",
+        "id": "INK_SACK:15",
         "count": 1
       }
     ],
@@ -79367,7 +81852,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-1",
+        "id": "STAINED_GLASS:1",
         "count": 1
       }
     ],
@@ -79383,7 +81868,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-1",
+      "id": "STAINED_GLASS_PANE:1",
       "count": 16
     }
   },
@@ -79391,7 +81876,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-10",
+        "id": "STAINED_GLASS:10",
         "count": 1
       }
     ],
@@ -79407,7 +81892,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-10",
+      "id": "STAINED_GLASS_PANE:10",
       "count": 16
     }
   },
@@ -79415,7 +81900,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-11",
+        "id": "STAINED_GLASS:11",
         "count": 1
       }
     ],
@@ -79431,7 +81916,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-11",
+      "id": "STAINED_GLASS_PANE:11",
       "count": 16
     }
   },
@@ -79439,7 +81924,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-12",
+        "id": "STAINED_GLASS:12",
         "count": 1
       }
     ],
@@ -79455,7 +81940,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-12",
+      "id": "STAINED_GLASS_PANE:12",
       "count": 16
     }
   },
@@ -79463,7 +81948,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-13",
+        "id": "STAINED_GLASS:13",
         "count": 1
       }
     ],
@@ -79479,7 +81964,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-13",
+      "id": "STAINED_GLASS_PANE:13",
       "count": 16
     }
   },
@@ -79487,7 +81972,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-14",
+        "id": "STAINED_GLASS:14",
         "count": 1
       }
     ],
@@ -79503,7 +81988,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-14",
+      "id": "STAINED_GLASS_PANE:14",
       "count": 16
     }
   },
@@ -79511,7 +81996,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-15",
+        "id": "STAINED_GLASS:15",
         "count": 1
       }
     ],
@@ -79527,7 +82012,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-15",
+      "id": "STAINED_GLASS_PANE:15",
       "count": 16
     }
   },
@@ -79535,7 +82020,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-2",
+        "id": "STAINED_GLASS:2",
         "count": 1
       }
     ],
@@ -79551,7 +82036,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-2",
+      "id": "STAINED_GLASS_PANE:2",
       "count": 16
     }
   },
@@ -79559,7 +82044,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-3",
+        "id": "STAINED_GLASS:3",
         "count": 1
       }
     ],
@@ -79575,7 +82060,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-3",
+      "id": "STAINED_GLASS_PANE:3",
       "count": 16
     }
   },
@@ -79583,7 +82068,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-4",
+        "id": "STAINED_GLASS:4",
         "count": 1
       }
     ],
@@ -79599,7 +82084,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-4",
+      "id": "STAINED_GLASS_PANE:4",
       "count": 16
     }
   },
@@ -79607,7 +82092,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-5",
+        "id": "STAINED_GLASS:5",
         "count": 1
       }
     ],
@@ -79623,7 +82108,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-5",
+      "id": "STAINED_GLASS_PANE:5",
       "count": 16
     }
   },
@@ -79631,7 +82116,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-6",
+        "id": "STAINED_GLASS:6",
         "count": 1
       }
     ],
@@ -79647,7 +82132,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-6",
+      "id": "STAINED_GLASS_PANE:6",
       "count": 16
     }
   },
@@ -79655,7 +82140,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-7",
+        "id": "STAINED_GLASS:7",
         "count": 1
       }
     ],
@@ -79671,7 +82156,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-7",
+      "id": "STAINED_GLASS_PANE:7",
       "count": 16
     }
   },
@@ -79679,7 +82164,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-8",
+        "id": "STAINED_GLASS:8",
         "count": 1
       }
     ],
@@ -79695,7 +82180,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-8",
+      "id": "STAINED_GLASS_PANE:8",
       "count": 16
     }
   },
@@ -79703,7 +82188,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STAINED_GLASS-9",
+        "id": "STAINED_GLASS:9",
         "count": 1
       }
     ],
@@ -79719,7 +82204,7 @@
       -1
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-9",
+      "id": "STAINED_GLASS_PANE:9",
       "count": 16
     }
   },
@@ -80700,7 +83185,7 @@
       -1
     ],
     "result": {
-      "id": "STEP-1",
+      "id": "STEP:1",
       "count": 6
     }
   },
@@ -80724,7 +83209,7 @@
       -1
     ],
     "result": {
-      "id": "STEP-3",
+      "id": "STEP:3",
       "count": 6
     }
   },
@@ -80748,7 +83233,7 @@
       -1
     ],
     "result": {
-      "id": "STEP-4",
+      "id": "STEP:4",
       "count": 6
     }
   },
@@ -80772,7 +83257,7 @@
       -1
     ],
     "result": {
-      "id": "STEP-5",
+      "id": "STEP:5",
       "count": 6
     }
   },
@@ -80796,7 +83281,7 @@
       -1
     ],
     "result": {
-      "id": "STEP-6",
+      "id": "STEP:6",
       "count": 6
     }
   },
@@ -80820,7 +83305,7 @@
       -1
     ],
     "result": {
-      "id": "STEP-7",
+      "id": "STEP:7",
       "count": 6
     }
   },
@@ -80908,7 +83393,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STONE-3",
+        "id": "STONE:3",
         "count": 1
       },
       {
@@ -80928,7 +83413,7 @@
       -1
     ],
     "result": {
-      "id": "STONE-1",
+      "id": "STONE:1",
       "count": 1
     }
   },
@@ -80936,7 +83421,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STONE-1",
+        "id": "STONE:1",
         "count": 1
       }
     ],
@@ -80952,7 +83437,7 @@
       -1
     ],
     "result": {
-      "id": "STONE-2",
+      "id": "STONE:2",
       "count": 4
     }
   },
@@ -80980,7 +83465,7 @@
       -1
     ],
     "result": {
-      "id": "STONE-3",
+      "id": "STONE:3",
       "count": 12
     }
   },
@@ -80988,7 +83473,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STONE-3",
+        "id": "STONE:3",
         "count": 1
       }
     ],
@@ -81004,7 +83489,7 @@
       -1
     ],
     "result": {
-      "id": "STONE-4",
+      "id": "STONE:4",
       "count": 4
     }
   },
@@ -81012,7 +83497,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STONE-3",
+        "id": "STONE:3",
         "count": 1
       },
       {
@@ -81032,7 +83517,7 @@
       -1
     ],
     "result": {
-      "id": "STONE-5",
+      "id": "STONE:5",
       "count": 2
     }
   },
@@ -81040,7 +83525,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "STONE-5",
+        "id": "STONE:5",
         "count": 1
       }
     ],
@@ -81056,7 +83541,7 @@
       -1
     ],
     "result": {
-      "id": "STONE-6",
+      "id": "STONE:6",
       "count": 4
     }
   },
@@ -82635,6 +85120,46 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "CHIRPING_STEREO",
+        "count": 1
+      },
+      {
+        "id": "PLANTBOY_ADVANCE",
+        "count": 1
+      },
+      {
+        "id": "BOTROOT",
+        "count": 32
+      },
+      {
+        "id": "ENCHANTED_PAPER",
+        "count": 32
+      },
+      {
+        "id": "ENCHANTED_IRON_BLOCK",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      4,
+      4,
+      4
+    ],
+    "result": {
+      "id": "SUPER_JACOB_SYSTEM",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_GLOWSTONE_DUST",
         "count": 1
       },
@@ -82921,7 +85446,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LEAVES-1",
+        "id": "LEAVES:1",
         "count": 64
       },
       {
@@ -85967,6 +88492,126 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "HELIXIS",
+        "count": 1
+      },
+      {
+        "id": "BOTTLED_MISCHIEF",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_RUBY_VEILSHROOM",
+        "count": 8
+      },
+      {
+        "id": "MANGROVE_VINE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      2,
+      3,
+      2,
+      2,
+      2,
+      2
+    ],
+    "result": {
+      "id": "TORRHUS_BELT",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_HELIX_LOG",
+        "count": 1
+      },
+      {
+        "id": "ENCHANTED_ENDER_PEARL",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "TORRHUS_CANYON_PORTAL",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "HELIX_LOG",
+        "count": 64
+      },
+      {
+        "id": "ENCHANTED_ENDER_PEARL",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "TORRHUS_CANYON_TRAVEL_SCROLL",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "RUBY_VEILSHROOM",
+        "count": 16
+      },
+      {
+        "id": "ENCHANTED_ENDER_PEARL",
+        "count": 16
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "TORRHUS_SPRINGS_TRAVEL_SCROLL",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_SULPHUR",
         "count": 10
       },
@@ -88383,6 +91028,66 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "HELIXIS",
+        "count": 2
+      },
+      {
+        "id": "VEILSHROOM_BUNCH",
+        "count": 1
+      },
+      {
+        "id": "MANGROVE_GRIPPERS",
+        "count": 1
+      },
+      {
+        "id": "VIAL_OF_SPRING_WATER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      0,
+      1,
+      2,
+      1,
+      -1,
+      3,
+      -1
+    ],
+    "result": {
+      "id": "VEILSHROOM_BRACELET",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_RUBY_VEILSHROOM",
+        "count": 32
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      -1
+    ],
+    "result": {
+      "id": "VEILSHROOM_BUNCH",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "VINESAP",
         "count": 1
       },
@@ -89935,7 +92640,7 @@
         "count": 1
       },
       {
-        "id": "RAW_FISH-1",
+        "id": "RAW_FISH:1",
         "count": 1
       },
       {
@@ -91106,7 +93811,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 32
       },
       {
@@ -91148,7 +93853,7 @@
     },
     "items": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 512
       }
     ],
@@ -91260,7 +93965,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-1",
+        "id": "LOG:1",
         "count": 1
       }
     ],
@@ -91276,7 +93981,7 @@
       -1
     ],
     "result": {
-      "id": "WOOD-1",
+      "id": "WOOD:1",
       "count": 4
     }
   },
@@ -91284,7 +93989,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-2",
+        "id": "LOG:2",
         "count": 1
       }
     ],
@@ -91300,7 +94005,7 @@
       -1
     ],
     "result": {
-      "id": "WOOD-2",
+      "id": "WOOD:2",
       "count": 4
     }
   },
@@ -91308,7 +94013,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG-3",
+        "id": "LOG:3",
         "count": 1
       }
     ],
@@ -91324,7 +94029,7 @@
       -1
     ],
     "result": {
-      "id": "WOOD-3",
+      "id": "WOOD:3",
       "count": 4
     }
   },
@@ -91348,7 +94053,7 @@
       -1
     ],
     "result": {
-      "id": "WOOD-4",
+      "id": "WOOD:4",
       "count": 4
     }
   },
@@ -91356,7 +94061,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "LOG_2-1",
+        "id": "LOG_2:1",
         "count": 1
       }
     ],
@@ -91372,7 +94077,7 @@
       -1
     ],
     "result": {
-      "id": "WOOD-5",
+      "id": "WOOD:5",
       "count": 4
     }
   },
@@ -91640,7 +94345,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-1",
+        "id": "WOOD:1",
         "count": 1
       }
     ],
@@ -91656,7 +94361,7 @@
       -1
     ],
     "result": {
-      "id": "WOOD_STEP-1",
+      "id": "WOOD_STEP:1",
       "count": 6
     }
   },
@@ -91664,7 +94369,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-2",
+        "id": "WOOD:2",
         "count": 1
       }
     ],
@@ -91680,7 +94385,7 @@
       -1
     ],
     "result": {
-      "id": "WOOD_STEP-2",
+      "id": "WOOD_STEP:2",
       "count": 6
     }
   },
@@ -91688,7 +94393,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-3",
+        "id": "WOOD:3",
         "count": 1
       }
     ],
@@ -91704,7 +94409,7 @@
       -1
     ],
     "result": {
-      "id": "WOOD_STEP-3",
+      "id": "WOOD_STEP:3",
       "count": 6
     }
   },
@@ -91712,7 +94417,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-4",
+        "id": "WOOD:4",
         "count": 1
       }
     ],
@@ -91728,7 +94433,7 @@
       -1
     ],
     "result": {
-      "id": "WOOD_STEP-4",
+      "id": "WOOD_STEP:4",
       "count": 6
     }
   },
@@ -91736,7 +94441,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "WOOD-5",
+        "id": "WOOD:5",
         "count": 1
       }
     ],
@@ -91752,7 +94457,7 @@
       -1
     ],
     "result": {
-      "id": "WOOD_STEP-5",
+      "id": "WOOD_STEP:5",
       "count": 6
     }
   },
@@ -91840,7 +94545,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-14",
+        "id": "INK_SACK:14",
         "count": 1
       },
       {
@@ -91860,7 +94565,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-1",
+      "id": "WOOL:1",
       "count": 1
     }
   },
@@ -91868,7 +94573,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-5",
+        "id": "INK_SACK:5",
         "count": 1
       },
       {
@@ -91888,7 +94593,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-10",
+      "id": "WOOL:10",
       "count": 1
     }
   },
@@ -91896,7 +94601,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-4",
+        "id": "INK_SACK:4",
         "count": 1
       },
       {
@@ -91916,7 +94621,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-11",
+      "id": "WOOL:11",
       "count": 1
     }
   },
@@ -91924,7 +94629,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-3",
+        "id": "INK_SACK:3",
         "count": 1
       },
       {
@@ -91944,7 +94649,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-12",
+      "id": "WOOL:12",
       "count": 1
     }
   },
@@ -91952,7 +94657,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-2",
+        "id": "INK_SACK:2",
         "count": 1
       },
       {
@@ -91972,7 +94677,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-13",
+      "id": "WOOL:13",
       "count": 1
     }
   },
@@ -91980,7 +94685,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-1",
+        "id": "INK_SACK:1",
         "count": 1
       },
       {
@@ -92000,7 +94705,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-14",
+      "id": "WOOL:14",
       "count": 1
     }
   },
@@ -92028,7 +94733,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-15",
+      "id": "WOOL:15",
       "count": 1
     }
   },
@@ -92036,7 +94741,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-13",
+        "id": "INK_SACK:13",
         "count": 1
       },
       {
@@ -92056,7 +94761,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-2",
+      "id": "WOOL:2",
       "count": 1
     }
   },
@@ -92064,7 +94769,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-12",
+        "id": "INK_SACK:12",
         "count": 1
       },
       {
@@ -92084,7 +94789,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-3",
+      "id": "WOOL:3",
       "count": 1
     }
   },
@@ -92092,7 +94797,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-11",
+        "id": "INK_SACK:11",
         "count": 1
       },
       {
@@ -92112,7 +94817,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-4",
+      "id": "WOOL:4",
       "count": 1
     }
   },
@@ -92120,7 +94825,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-10",
+        "id": "INK_SACK:10",
         "count": 1
       },
       {
@@ -92140,7 +94845,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-5",
+      "id": "WOOL:5",
       "count": 1
     }
   },
@@ -92148,7 +94853,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-9",
+        "id": "INK_SACK:9",
         "count": 1
       },
       {
@@ -92168,7 +94873,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-6",
+      "id": "WOOL:6",
       "count": 1
     }
   },
@@ -92176,7 +94881,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-8",
+        "id": "INK_SACK:8",
         "count": 1
       },
       {
@@ -92196,7 +94901,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-7",
+      "id": "WOOL:7",
       "count": 1
     }
   },
@@ -92204,7 +94909,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-7",
+        "id": "INK_SACK:7",
         "count": 1
       },
       {
@@ -92224,7 +94929,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-8",
+      "id": "WOOL:8",
       "count": 1
     }
   },
@@ -92232,7 +94937,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-6",
+        "id": "INK_SACK:6",
         "count": 1
       },
       {
@@ -92252,7 +94957,7 @@
       -1
     ],
     "result": {
-      "id": "WOOL-9",
+      "id": "WOOL:9",
       "count": 1
     }
   },
@@ -92260,7 +94965,7 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "INK_SACK-15",
+        "id": "INK_SACK:15",
         "count": 1
       },
       {
@@ -92295,7 +95000,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-1",
+      "id": "STAINED_CLAY",
       "count": 1
     }
   },
@@ -92310,7 +95015,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-2",
+      "id": "STAINED_CLAY:1",
       "count": 1
     }
   },
@@ -92325,7 +95030,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-3",
+      "id": "STAINED_CLAY:2",
       "count": 1
     }
   },
@@ -92340,7 +95045,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-4",
+      "id": "STAINED_CLAY:3",
       "count": 1
     }
   },
@@ -92355,7 +95060,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-5",
+      "id": "STAINED_CLAY:4",
       "count": 1
     }
   },
@@ -92370,7 +95075,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-6",
+      "id": "STAINED_CLAY:5",
       "count": 1
     }
   },
@@ -92385,7 +95090,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-7",
+      "id": "STAINED_CLAY:6",
       "count": 1
     }
   },
@@ -92400,7 +95105,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-8",
+      "id": "STAINED_CLAY:7",
       "count": 1
     }
   },
@@ -92415,7 +95120,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-9",
+      "id": "STAINED_CLAY:8",
       "count": 1
     }
   },
@@ -92430,7 +95135,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-10",
+      "id": "STAINED_CLAY:9",
       "count": 1
     }
   },
@@ -92445,7 +95150,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-11",
+      "id": "STAINED_CLAY:10",
       "count": 1
     }
   },
@@ -92460,7 +95165,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-12",
+      "id": "STAINED_CLAY:11",
       "count": 1
     }
   },
@@ -92475,7 +95180,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-13",
+      "id": "STAINED_CLAY:12",
       "count": 1
     }
   },
@@ -92490,7 +95195,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-14",
+      "id": "STAINED_CLAY:13",
       "count": 1
     }
   },
@@ -92505,7 +95210,22 @@
       }
     ],
     "result": {
-      "id": "STAINED_CLAY-15",
+      "id": "STAINED_CLAY:14",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 8
+      }
+    ],
+    "result": {
+      "id": "STAINED_CLAY:15",
       "count": 1
     }
   },
@@ -92520,7 +95240,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-1",
+      "id": "STAINED_GLASS_PANE",
       "count": 1
     }
   },
@@ -92535,7 +95255,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-2",
+      "id": "STAINED_GLASS_PANE:1",
       "count": 1
     }
   },
@@ -92550,7 +95270,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-3",
+      "id": "STAINED_GLASS_PANE:2",
       "count": 1
     }
   },
@@ -92565,7 +95285,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-4",
+      "id": "STAINED_GLASS_PANE:3",
       "count": 1
     }
   },
@@ -92580,7 +95300,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-5",
+      "id": "STAINED_GLASS_PANE:4",
       "count": 1
     }
   },
@@ -92595,7 +95315,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-6",
+      "id": "STAINED_GLASS_PANE:5",
       "count": 1
     }
   },
@@ -92610,7 +95330,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-7",
+      "id": "STAINED_GLASS_PANE:6",
       "count": 1
     }
   },
@@ -92625,7 +95345,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-8",
+      "id": "STAINED_GLASS_PANE:7",
       "count": 1
     }
   },
@@ -92640,7 +95360,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-9",
+      "id": "STAINED_GLASS_PANE:8",
       "count": 1
     }
   },
@@ -92655,7 +95375,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-10",
+      "id": "STAINED_GLASS_PANE:9",
       "count": 1
     }
   },
@@ -92670,7 +95390,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-11",
+      "id": "STAINED_GLASS_PANE:10",
       "count": 1
     }
   },
@@ -92685,7 +95405,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-12",
+      "id": "STAINED_GLASS_PANE:11",
       "count": 1
     }
   },
@@ -92700,7 +95420,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-13",
+      "id": "STAINED_GLASS_PANE:12",
       "count": 1
     }
   },
@@ -92715,7 +95435,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-14",
+      "id": "STAINED_GLASS_PANE:13",
       "count": 1
     }
   },
@@ -92730,7 +95450,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS_PANE-15",
+      "id": "STAINED_GLASS_PANE:14",
       "count": 1
     }
   },
@@ -92745,7 +95465,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-1",
+      "id": "STAINED_GLASS_PANE:15",
       "count": 1
     }
   },
@@ -92760,7 +95480,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-2",
+      "id": "STAINED_GLASS",
       "count": 1
     }
   },
@@ -92775,7 +95495,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-3",
+      "id": "STAINED_GLASS:1",
       "count": 1
     }
   },
@@ -92790,7 +95510,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-4",
+      "id": "STAINED_GLASS:2",
       "count": 1
     }
   },
@@ -92805,7 +95525,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-5",
+      "id": "STAINED_GLASS:3",
       "count": 1
     }
   },
@@ -92820,7 +95540,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-6",
+      "id": "STAINED_GLASS:4",
       "count": 1
     }
   },
@@ -92835,7 +95555,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-7",
+      "id": "STAINED_GLASS:5",
       "count": 1
     }
   },
@@ -92850,7 +95570,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-8",
+      "id": "STAINED_GLASS:6",
       "count": 1
     }
   },
@@ -92865,7 +95585,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-9",
+      "id": "STAINED_GLASS:7",
       "count": 1
     }
   },
@@ -92880,7 +95600,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-10",
+      "id": "STAINED_GLASS:8",
       "count": 1
     }
   },
@@ -92895,7 +95615,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-11",
+      "id": "STAINED_GLASS:9",
       "count": 1
     }
   },
@@ -92910,7 +95630,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-12",
+      "id": "STAINED_GLASS:10",
       "count": 1
     }
   },
@@ -92925,7 +95645,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-13",
+      "id": "STAINED_GLASS:11",
       "count": 1
     }
   },
@@ -92940,7 +95660,7 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-14",
+      "id": "STAINED_GLASS:12",
       "count": 1
     }
   },
@@ -92955,7 +95675,37 @@
       }
     ],
     "result": {
-      "id": "STAINED_GLASS-15",
+      "id": "STAINED_GLASS:13",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 16
+      }
+    ],
+    "result": {
+      "id": "STAINED_GLASS:14",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 16
+      }
+    ],
+    "result": {
+      "id": "STAINED_GLASS:15",
       "count": 1
     }
   },
@@ -92970,7 +95720,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-1",
+      "id": "CARPET",
       "count": 1
     }
   },
@@ -92985,7 +95735,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-2",
+      "id": "CARPET:1",
       "count": 1
     }
   },
@@ -93000,7 +95750,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-3",
+      "id": "CARPET:2",
       "count": 1
     }
   },
@@ -93015,7 +95765,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-4",
+      "id": "CARPET:3",
       "count": 1
     }
   },
@@ -93030,7 +95780,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-5",
+      "id": "CARPET:4",
       "count": 1
     }
   },
@@ -93045,7 +95795,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-6",
+      "id": "CARPET:5",
       "count": 1
     }
   },
@@ -93060,7 +95810,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-7",
+      "id": "CARPET:6",
       "count": 1
     }
   },
@@ -93075,7 +95825,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-8",
+      "id": "CARPET:7",
       "count": 1
     }
   },
@@ -93090,7 +95840,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-9",
+      "id": "CARPET:8",
       "count": 1
     }
   },
@@ -93105,7 +95855,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-10",
+      "id": "CARPET:9",
       "count": 1
     }
   },
@@ -93120,7 +95870,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-11",
+      "id": "CARPET:10",
       "count": 1
     }
   },
@@ -93135,7 +95885,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-12",
+      "id": "CARPET:11",
       "count": 1
     }
   },
@@ -93150,7 +95900,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-13",
+      "id": "CARPET:12",
       "count": 1
     }
   },
@@ -93165,7 +95915,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-14",
+      "id": "CARPET:13",
       "count": 1
     }
   },
@@ -93180,7 +95930,7 @@
       }
     ],
     "result": {
-      "id": "CARPET-15",
+      "id": "CARPET:14",
       "count": 1
     }
   },
@@ -93195,7 +95945,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-1",
+      "id": "CARPET:15",
       "count": 1
     }
   },
@@ -93210,7 +95960,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-2",
+      "id": "WOOL",
       "count": 1
     }
   },
@@ -93225,7 +95975,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-3",
+      "id": "WOOL:1",
       "count": 1
     }
   },
@@ -93240,7 +95990,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-4",
+      "id": "WOOL:2",
       "count": 1
     }
   },
@@ -93255,7 +96005,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-5",
+      "id": "WOOL:3",
       "count": 1
     }
   },
@@ -93270,7 +96020,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-6",
+      "id": "WOOL:4",
       "count": 1
     }
   },
@@ -93285,7 +96035,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-7",
+      "id": "WOOL:5",
       "count": 1
     }
   },
@@ -93300,7 +96050,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-8",
+      "id": "WOOL:6",
       "count": 1
     }
   },
@@ -93315,7 +96065,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-9",
+      "id": "WOOL:7",
       "count": 1
     }
   },
@@ -93330,7 +96080,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-10",
+      "id": "WOOL:8",
       "count": 1
     }
   },
@@ -93345,7 +96095,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-11",
+      "id": "WOOL:9",
       "count": 1
     }
   },
@@ -93360,7 +96110,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-12",
+      "id": "WOOL:10",
       "count": 1
     }
   },
@@ -93375,7 +96125,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-13",
+      "id": "WOOL:11",
       "count": 1
     }
   },
@@ -93390,7 +96140,7 @@
       }
     ],
     "result": {
-      "id": "WOOL-14",
+      "id": "WOOL:12",
       "count": 1
     }
   },
@@ -93405,7 +96155,37 @@
       }
     ],
     "result": {
-      "id": "WOOL-15",
+      "id": "WOOL:13",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 32
+      }
+    ],
+    "result": {
+      "id": "WOOL:14",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "WOOL_WEAVER_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 32
+      }
+    ],
+    "result": {
+      "id": "WOOL:15",
       "count": 1
     }
   },
