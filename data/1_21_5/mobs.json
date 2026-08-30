@@ -21993,6 +21993,13 @@
             "maxAmount": 1
           },
           {
+            "type": "attribute",
+            "id": "SLAYER_DISCOUNT",
+            "chance": 0.0025,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
             "type": "rune",
             "id": "FIERY_BURST",
             "tier": 1,
@@ -39374,6 +39381,13 @@
             "maxAmount": 1
           },
           {
+            "type": "attribute",
+            "id": "SLAYER_DISCOUNT",
+            "chance": 0.0025,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
             "type": "rune",
             "id": "SNAKE",
             "tier": 1,
@@ -39541,6 +39555,13 @@
           {
             "id": "REVENANT_VISCERA",
             "chance": 0.136082,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "SLAYER_DISCOUNT",
+            "chance": 0.0025,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -49598,6 +49619,13 @@
             ]
           },
           {
+            "type": "attribute",
+            "id": "SLAYER_DISCOUNT",
+            "chance": 0.0025,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
             "id": "DYE_BRICK_RED",
             "chance": 0.000002,
             "minAmount": 1,
@@ -49868,6 +49896,13 @@
             "extraLore": [
               "§eWeight: 6"
             ]
+          },
+          {
+            "type": "attribute",
+            "id": "SLAYER_DISCOUNT",
+            "chance": 0.0025,
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "PRIMORDIAL_EYE",
@@ -53352,6 +53387,13 @@
             "id": "DRAGON",
             "tier": 1,
             "chance": 0.006622,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "SLAYER_DISCOUNT",
+            "chance": 0.0025,
             "minAmount": 1,
             "maxAmount": 1
           },
