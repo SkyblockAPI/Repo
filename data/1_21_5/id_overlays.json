@@ -33096,6 +33096,13 @@
   },
   {
     "type": "item",
+    "id": "SKYBLOCK_HELIX_TREE_GIFTS",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Helix_Tree_Gifts"
+    }
+  },
+  {
+    "type": "item",
     "id": "SKYBLOCK_MENU",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/SkyBlock_Menu"

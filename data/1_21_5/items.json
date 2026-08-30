@@ -51674,6 +51674,12 @@
       },
       "minecraft:lore": [
         {
+          "text": "§8Minion Fuel"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§7Increases the speed of"
         },
         {
@@ -51693,7 +51699,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -56803,6 +56809,9 @@
       },
       "minecraft:lore": [
         {
+          "text": "§8Minion Fuel"
+        },
+        {
           "text": "§8Brewing Ingredient"
         },
         {
@@ -56827,10 +56836,20 @@
           "text": "§f§lCOMMON ORE"
         }
       ],
-      "minecraft:dyed_color": 10511680,
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:dyed_color"
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -56921,6 +56940,12 @@
       },
       "minecraft:lore": [
         {
+          "text": "§8Minion Fuel"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§7Increases the speed of"
         },
         {
@@ -56940,7 +56965,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -92355,6 +92380,12 @@
       },
       "minecraft:lore": [
         {
+          "text": "§8Minion Fuel"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§7Increases the speed of"
         },
         {
@@ -92374,7 +92405,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -128023,6 +128054,9 @@
       "minecraft:lore": [
         {
           "text": "§7Tracking: §d+0.5"
+        },
+        {
+          "text": "§7Accessory Power: §6+3"
         },
         {
           "text": ""
@@ -168571,6 +168605,12 @@
       },
       "minecraft:lore": [
         {
+          "text": "§8Minion Fuel"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§7Can be used as minion fuel"
         },
         {
@@ -168619,13 +168659,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -172577,6 +172619,15 @@
         "text": "§5Jacob's Participation Medal"
       },
       "minecraft:lore": [
+        {
+          "text": "§8Minion Fuel"
+        },
+        {
+          "text": "§8Legacy Item"
+        },
+        {
+          "text": ""
+        },
         {
           "text": "§7Use this as Fuel on ONE Farming"
         },
@@ -223863,6 +223914,9 @@
           "text": "§7Magic Find: §b+1"
         },
         {
+          "text": "§7Accessory Power: §6+3"
+        },
+        {
           "text": ""
         },
         {
@@ -224010,6 +224064,9 @@
       "minecraft:lore": [
         {
           "text": "§7Magic Find: §b+1.5"
+        },
+        {
+          "text": "§7Accessory Power: §6+3"
         },
         {
           "text": ""
@@ -224311,6 +224368,9 @@
       "minecraft:lore": [
         {
           "text": "§7Magic Find: §b+1"
+        },
+        {
+          "text": "§7Accessory Power: §6+3"
         },
         {
           "text": ""
@@ -224761,6 +224821,9 @@
       "minecraft:lore": [
         {
           "text": "§7Magic Find: §b+1"
+        },
+        {
+          "text": "§7Accessory Power: §6+3"
         },
         {
           "text": ""
