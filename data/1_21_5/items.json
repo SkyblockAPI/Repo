@@ -55016,7 +55016,7 @@
         "id": "CHUM_SINKER"
       },
       "minecraft:custom_name": {
-        "text": "§9Chum Sinker"
+        "text": "§fChum Sinker"
       },
       "minecraft:lore": [
         {
@@ -55044,7 +55044,7 @@
           "text": "§4❣ §cRequires §aFishing Skill 5§c."
         },
         {
-          "text": "§9§lRARE ROD PART"
+          "text": "§f§lCOMMON ROD PART"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/fishing/rod_part/sinker/chum_sinker",
@@ -55064,7 +55064,7 @@
           "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
     }
   },
   {
@@ -60826,7 +60826,7 @@
         "id": "COMMON_HOOK"
       },
       "minecraft:custom_name": {
-        "text": "§9Common Hook"
+        "text": "§fCommon Hook"
       },
       "minecraft:lore": [
         {
@@ -60854,7 +60854,7 @@
           "text": "§4❣ §cRequires §aFishing Skill 10§c."
         },
         {
-          "text": "§9§lRARE ROD PART"
+          "text": "§f§lCOMMON ROD PART"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/fishing/rod_part/hook/common_hook",
@@ -60864,19 +60864,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
     }
   },
   {
@@ -104505,10 +104503,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§8Crafted by the Etherchemist and"
+          "text": "§7Crafted by the Etherchemist and"
         },
         {
-          "text": "§8dropped by the Voidgloom Seraph."
+          "text": "§7dropped by the Voidgloom Seraph."
         },
         {
           "text": ""
@@ -104535,7 +104533,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -110922,7 +110920,7 @@
         "id": "FESTIVE_SINKER"
       },
       "minecraft:custom_name": {
-        "text": "§9Festive Sinker"
+        "text": "§fFestive Sinker"
       },
       "minecraft:lore": [
         {
@@ -110950,7 +110948,7 @@
           "text": "§4❣ §cRequires §aFishing Skill 5§c."
         },
         {
-          "text": "§9§lRARE ROD PART"
+          "text": "§f§lCOMMON ROD PART"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/fishing/rod_part/sinker/festive_sinker",
@@ -110970,7 +110968,7 @@
           "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
     }
   },
   {
@@ -120482,6 +120480,18 @@
         "text": "§aFlexbone"
       },
       "minecraft:lore": [
+        {
+          "text": "§7Caught as a §6Treasure §7catch in the"
+        },
+        {
+          "text": "§cTomb Floodway §7on the §2Moonglade"
+        },
+        {
+          "text": "§2Marsh§7."
+        },
+        {
+          "text": ""
+        },
         {
           "text": "§8§oThese softened bones have"
         },
@@ -130251,7 +130261,7 @@
           "text": "§cCatacombs §7for each digit on your"
         },
         {
-          "text": "§7secret count. §8(Max 6%)"
+          "text": "§7secret count. §8(Max 5%)"
         },
         {
           "text": ""
@@ -144514,7 +144524,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -157861,7 +157871,7 @@
         "id": "HOTSPOT_HOOK"
       },
       "minecraft:custom_name": {
-        "text": "§9Hotspot Hook"
+        "text": "§5Hotspot Hook"
       },
       "minecraft:lore": [
         {
@@ -157892,7 +157902,7 @@
           "text": "§4❣ §cRequires §aFishing Skill 20§c."
         },
         {
-          "text": "§9§lRARE ROD PART"
+          "text": "§5§lEPIC ROD PART"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/fishing/rod_part/hook/hotspot_hook",
@@ -157902,19 +157912,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
@@ -158022,13 +158030,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -164498,7 +164504,7 @@
         "id": "ICY_SINKER"
       },
       "minecraft:custom_name": {
-        "text": "§9Icy Sinker"
+        "text": "§fIcy Sinker"
       },
       "minecraft:lore": [
         {
@@ -164526,7 +164532,7 @@
           "text": "§4❣ §cRequires §aFishing Skill 5§c."
         },
         {
-          "text": "§9§lRARE ROD PART"
+          "text": "§f§lCOMMON ROD PART"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/fishing/rod_part/sinker/icy_sinker",
@@ -164546,7 +164552,7 @@
           "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
     }
   },
   {
@@ -176836,7 +176842,7 @@
         "id": "JUNK_SINKER"
       },
       "minecraft:custom_name": {
-        "text": "§9Junk Sinker"
+        "text": "§aJunk Sinker"
       },
       "minecraft:lore": [
         {
@@ -176867,7 +176873,7 @@
           "text": "§4❣ §cRequires §aFishing Skill 5§c."
         },
         {
-          "text": "§9§lRARE ROD PART"
+          "text": "§a§lUNCOMMON ROD PART"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/fishing/rod_part/sinker/junk_sinker",
@@ -176887,7 +176893,7 @@
           "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
     }
   },
   {
@@ -189513,13 +189519,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -194948,6 +194952,9 @@
           "text": "§7Strength: §c+20"
         },
         {
+          "text": "§7Crit Damage: §9+10%"
+        },
+        {
           "text": "§7Attack Speed: §e+2.5%"
         },
         {
@@ -194995,13 +195002,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -263135,7 +263140,7 @@
         "id": "PHANTOM_HOOK"
       },
       "minecraft:custom_name": {
-        "text": "§9Spooky Hook"
+        "text": "§5Spooky Hook"
       },
       "minecraft:lore": [
         {
@@ -263166,7 +263171,7 @@
           "text": "§4❣ §cRequires §aFishing Skill 21§c."
         },
         {
-          "text": "§9§lRARE ROD PART"
+          "text": "§5§lEPIC ROD PART"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/fishing/rod_part/hook/phantom_hook",
@@ -263186,7 +263191,7 @@
           "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
@@ -271973,7 +271978,7 @@
         "id": "PRISMARINE_SINKER"
       },
       "minecraft:custom_name": {
-        "text": "§9Prismarine Sinker"
+        "text": "§fPrismarine Sinker"
       },
       "minecraft:lore": [
         {
@@ -272007,7 +272012,7 @@
           "text": "§4❣ §cRequires §aFishing Skill 5§c."
         },
         {
-          "text": "§9§lRARE ROD PART"
+          "text": "§f§lCOMMON ROD PART"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/fishing/rod_part/sinker/prismarine_sinker",
@@ -272027,7 +272032,7 @@
           "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
     }
   },
   {
@@ -273001,13 +273006,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -324172,7 +324175,7 @@
         "id": "SPEEDY_LINE"
       },
       "minecraft:custom_name": {
-        "text": "§9Speedy Line"
+        "text": "§aSpeedy Line"
       },
       "minecraft:lore": [
         {
@@ -324197,7 +324200,7 @@
           "text": "§4❣ §cRequires §aFishing Skill 5§c."
         },
         {
-          "text": "§9§lRARE ROD PART"
+          "text": "§a§lUNCOMMON ROD PART"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/fishing/rod_part/line/speedy_line",
@@ -324217,7 +324220,7 @@
           "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
     }
   },
   {
@@ -327687,7 +327690,7 @@
         "id": "SPONGE_SINKER"
       },
       "minecraft:custom_name": {
-        "text": "§9Sponge Sinker"
+        "text": "§fSponge Sinker"
       },
       "minecraft:lore": [
         {
@@ -327718,7 +327721,7 @@
           "text": "§4❣ §cRequires §aFishing Skill 5§c."
         },
         {
-          "text": "§9§lRARE ROD PART"
+          "text": "§f§lCOMMON ROD PART"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/fishing/rod_part/sinker/sponge_sinker",
@@ -327728,19 +327731,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
     }
   },
   {
@@ -336929,7 +336930,7 @@
         "id": "STINGY_SINKER"
       },
       "minecraft:custom_name": {
-        "text": "§9Stingy Sinker"
+        "text": "§aStingy Sinker"
       },
       "minecraft:lore": [
         {
@@ -336957,7 +336958,7 @@
           "text": "§4❣ §cRequires §aFishing Skill 5§c."
         },
         {
-          "text": "§9§lRARE ROD PART"
+          "text": "§a§lUNCOMMON ROD PART"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/fishing/rod_part/sinker/stingy_sinker",
@@ -336977,7 +336978,7 @@
           "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
     }
   },
   {
@@ -356190,7 +356191,7 @@
         "id": "TITAN_LINE"
       },
       "minecraft:custom_name": {
-        "text": "§9Titan Line"
+        "text": "§6Titan Line"
       },
       "minecraft:lore": [
         {
@@ -356215,7 +356216,7 @@
           "text": "§4❣ §cRequires §aFishing Skill 30§c."
         },
         {
-          "text": "§9§lRARE ROD PART"
+          "text": "§6§lLEGENDARY ROD PART"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/fishing/rod_part/line/titan_line",
@@ -356225,19 +356226,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
     }
   },
   {
@@ -358264,7 +358263,7 @@
         "id": "TREASURE_HOOK"
       },
       "minecraft:custom_name": {
-        "text": "§9Treasure Hook"
+        "text": "§6Treasure Hook"
       },
       "minecraft:lore": [
         {
@@ -358292,7 +358291,7 @@
           "text": "§4❣ §cRequires §aFishing Skill 25§c."
         },
         {
-          "text": "§9§lRARE ROD PART"
+          "text": "§6§lLEGENDARY ROD PART"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/fishing/rod_part/hook/treasure_hook",
@@ -358312,7 +358311,7 @@
           "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
     }
   },
   {
@@ -359058,13 +359057,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -365807,7 +365804,7 @@
           "text": "§7Place in a §6Chirping Stereo §7to play"
         },
         {
-          "text": "§7funky tunes for §2 Pests§7."
+          "text": "§7funky tunes for §2 Pests§7."
         },
         {
           "text": ""
@@ -365858,7 +365855,7 @@
           "text": "§7Place in a §6Chirping Stereo §7to play"
         },
         {
-          "text": "§7funky tunes for §2 Pests§7."
+          "text": "§7funky tunes for §2 Pests§7."
         },
         {
           "text": ""
@@ -365909,7 +365906,7 @@
           "text": "§7Place in a §6Chirping Stereo §7to play"
         },
         {
-          "text": "§7funky tunes for §2 Pests§7."
+          "text": "§7funky tunes for §2 Pests§7."
         },
         {
           "text": ""
@@ -365960,7 +365957,7 @@
           "text": "§7Place in a §6Chirping Stereo §7to play"
         },
         {
-          "text": "§7funky tunes for §2 Pests§7."
+          "text": "§7funky tunes for §2 Pests§7."
         },
         {
           "text": ""
@@ -366011,7 +366008,7 @@
           "text": "§7Place in a §6Chirping Stereo §7to play"
         },
         {
-          "text": "§7funky tunes for §2 Pests§7."
+          "text": "§7funky tunes for §2 Pests§7."
         },
         {
           "text": ""
@@ -366062,7 +366059,7 @@
           "text": "§7Place in a §6Chirping Stereo §7to play"
         },
         {
-          "text": "§7funky tunes for §2 Pests§7."
+          "text": "§7funky tunes for §2 Pests§7."
         },
         {
           "text": ""
@@ -366113,7 +366110,7 @@
           "text": "§7Place in a §6Chirping Stereo §7to play"
         },
         {
-          "text": "§7funky tunes for §2 Pests§7."
+          "text": "§7funky tunes for §2 Pests§7."
         },
         {
           "text": ""
@@ -366165,7 +366162,7 @@
           "text": "§7Place in a §6Chirping Stereo §7to play"
         },
         {
-          "text": "§7funky tunes for §2 Pests§7."
+          "text": "§7funky tunes for §2 Pests§7."
         },
         {
           "text": ""
@@ -366217,7 +366214,7 @@
           "text": "§7Place in a §6Chirping Stereo §7to play"
         },
         {
-          "text": "§7funky tunes for §2 Pests§7."
+          "text": "§7funky tunes for §2 Pests§7."
         },
         {
           "text": ""
@@ -366269,7 +366266,7 @@
           "text": "§7Place in a §6Chirping Stereo §7to play"
         },
         {
-          "text": "§7funky tunes for §2 Pests§7."
+          "text": "§7funky tunes for §2 Pests§7."
         },
         {
           "text": ""
@@ -366320,7 +366317,7 @@
           "text": "§7Place in a §6Chirping Stereo §7to play"
         },
         {
-          "text": "§7funky tunes for §2 Pests§7."
+          "text": "§7funky tunes for §2 Pests§7."
         },
         {
           "text": ""
@@ -366371,7 +366368,7 @@
           "text": "§7Place in a §6Chirping Stereo §7to play"
         },
         {
-          "text": "§7funky tunes for §2 Pests§7."
+          "text": "§7funky tunes for §2 Pests§7."
         },
         {
           "text": ""
@@ -366422,7 +366419,7 @@
           "text": "§7Place in a §6Chirping Stereo §7to play"
         },
         {
-          "text": "§7funky tunes for §2 Pests§7."
+          "text": "§7funky tunes for §2 Pests§7."
         },
         {
           "text": ""

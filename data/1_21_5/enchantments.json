@@ -7113,12 +7113,12 @@
           "§7Gain a §a1% §7chance to spawn a",
           "§7Corrupted Sea Creature.",
           "",
-          "§6Source:",
-          "§aI-V: §7Fishing",
+          "§6Sources:",
+          "§aI: §7Crafting Recipe",
+          "§aI-V: §7Bazaar",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§f§lCOMMON"
         ],
@@ -7155,10 +7155,13 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Fishing"
+                "text": "§aI: §7Crafting Recipe"
+              },
+              {
+                "text": "§aI-V: §7Bazaar"
               },
               {
                 "text": ""
@@ -7168,9 +7171,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -7209,12 +7209,12 @@
           "§7Gain a §a2% §7chance to spawn a",
           "§7Corrupted Sea Creature.",
           "",
-          "§6Source:",
-          "§aI-V: §7Fishing",
+          "§6Sources:",
+          "§aI: §7Crafting Recipe",
+          "§aI-V: §7Bazaar",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§f§lCOMMON"
         ],
@@ -7251,10 +7251,13 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Fishing"
+                "text": "§aI: §7Crafting Recipe"
+              },
+              {
+                "text": "§aI-V: §7Bazaar"
               },
               {
                 "text": ""
@@ -7264,9 +7267,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -7305,12 +7305,12 @@
           "§7Gain a §a3% §7chance to spawn a",
           "§7Corrupted Sea Creature.",
           "",
-          "§6Source:",
-          "§aI-V: §7Fishing",
+          "§6Sources:",
+          "§aI: §7Crafting Recipe",
+          "§aI-V: §7Bazaar",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§f§lCOMMON"
         ],
@@ -7347,10 +7347,13 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Fishing"
+                "text": "§aI: §7Crafting Recipe"
+              },
+              {
+                "text": "§aI-V: §7Bazaar"
               },
               {
                 "text": ""
@@ -7360,9 +7363,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -7401,12 +7401,12 @@
           "§7Gain a §a4% §7chance to spawn a",
           "§7Corrupted Sea Creature.",
           "",
-          "§6Source:",
-          "§aI-V: §7Fishing",
+          "§6Sources:",
+          "§aI: §7Crafting Recipe",
+          "§aI-V: §7Bazaar",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§f§lCOMMON"
         ],
@@ -7443,10 +7443,13 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Fishing"
+                "text": "§aI: §7Crafting Recipe"
+              },
+              {
+                "text": "§aI-V: §7Bazaar"
               },
               {
                 "text": ""
@@ -7456,9 +7459,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -7497,12 +7497,12 @@
           "§7Gain a §a5% §7chance to spawn a",
           "§7Corrupted Sea Creature.",
           "",
-          "§6Source:",
-          "§aI-V: §7Fishing",
+          "§6Sources:",
+          "§aI: §7Crafting Recipe",
+          "§aI-V: §7Bazaar",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§a§lUNCOMMON"
         ],
@@ -7539,10 +7539,13 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Fishing"
+                "text": "§aI: §7Crafting Recipe"
+              },
+              {
+                "text": "§aI-V: §7Bazaar"
               },
               {
                 "text": ""
@@ -7552,9 +7555,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""

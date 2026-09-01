@@ -8445,7 +8445,7 @@
     "keys": [
       {
         "id": "HEMOBOMB",
-        "count": 16
+        "count": 4
       },
       {
         "id": "BLOOD_DONOR_RING",
@@ -15094,6 +15094,36 @@
     ],
     "result": {
       "id": "CORRUPTED_BAIT",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_PAPER",
+        "count": 1
+      },
+      {
+        "id": "CORRUPTED_FRAGMENT",
+        "count": 64
+      }
+    ],
+    "pattern": [
+      -1,
+      -1,
+      -1,
+      -1,
+      0,
+      0,
+      -1,
+      0,
+      1
+    ],
+    "result": {
+      "type": "enchantment",
+      "id": "CORRUPTION",
+      "level": 1,
       "count": 1
     }
   },
@@ -26958,6 +26988,38 @@
         "count": 1
       },
       {
+        "id": "NEARLY_WHOLE_CARROT",
+        "count": 1
+      },
+      {
+        "id": "SCRIBE_CRUX",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1,
+      -1,
+      2,
+      -1
+    ],
+    "result": {
+      "id": "EXPORTABLE_CARROTS",
+      "count": 64
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "VOLT_CRUX",
+        "count": 1
+      },
+      {
         "id": "HALF_EATEN_CARROT",
         "count": 40
       },
@@ -26980,38 +27042,6 @@
     "result": {
       "id": "EXPORTABLE_CARROTS",
       "count": 48
-    }
-  },
-  {
-    "type": "crafting",
-    "keys": [
-      {
-        "id": "VOLT_CRUX",
-        "count": 1
-      },
-      {
-        "id": "NEARLY_WHOLE_CARROT",
-        "count": 2
-      },
-      {
-        "id": "SCRIBE_CRUX",
-        "count": 1
-      }
-    ],
-    "pattern": [
-      -1,
-      0,
-      -1,
-      -1,
-      1,
-      -1,
-      -1,
-      2,
-      -1
-    ],
-    "result": {
-      "id": "EXPORTABLE_CARROTS",
-      "count": 64
     }
   },
   {
@@ -43802,8 +43832,8 @@
     "npc": "JAX_NPC",
     "inputs": [
       {
-        "id": "IRON_INGOT",
-        "count": 24
+        "id": "ENCHANTED_IRON",
+        "count": 1
       }
     ],
     "result": {
@@ -43816,8 +43846,8 @@
     "npc": "JAX_NPC",
     "inputs": [
       {
-        "id": "GOLD_INGOT",
-        "count": 40
+        "id": "ENCHANTED_GOLD",
+        "count": 1
       }
     ],
     "result": {
@@ -43830,8 +43860,8 @@
     "npc": "JAX_NPC",
     "inputs": [
       {
-        "id": "REDSTONE_BLOCK",
-        "count": 24
+        "id": "ENCHANTED_REDSTONE",
+        "count": 1
       }
     ],
     "result": {
@@ -43844,8 +43874,8 @@
     "npc": "JAX_NPC",
     "inputs": [
       {
-        "id": "EMERALD_BLOCK",
-        "count": 24
+        "id": "ENCHANTED_EMERALD",
+        "count": 1
       }
     ],
     "result": {
@@ -43858,8 +43888,8 @@
     "npc": "JAX_NPC",
     "inputs": [
       {
-        "id": "SLIME_BLOCK",
-        "count": 24
+        "id": "ENCHANTED_SLIME_BALL",
+        "count": 2
       }
     ],
     "result": {
@@ -43872,8 +43902,8 @@
     "npc": "JAX_NPC",
     "inputs": [
       {
-        "id": "PACKED_ICE",
-        "count": 64
+        "id": "ENCHANTED_ICE",
+        "count": 2
       }
     ],
     "result": {
@@ -43900,8 +43930,8 @@
     "npc": "JAX_NPC",
     "inputs": [
       {
-        "id": "COAL_BLOCK",
-        "count": 24
+        "id": "ENCHANTED_GUNPOWDER",
+        "count": 2
       }
     ],
     "result": {
@@ -43914,8 +43944,8 @@
     "npc": "JAX_NPC",
     "inputs": [
       {
-        "id": "TARANTULA_WEB",
-        "count": 64
+        "id": "ENCHANTED_STRING",
+        "count": 2
       }
     ],
     "result": {
@@ -43929,7 +43959,7 @@
     "inputs": [
       {
         "id": "ENCHANTED_CACTUS_GREEN",
-        "count": 8
+        "count": 7
       }
     ],
     "result": {
@@ -44914,7 +44944,7 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 9700
+        "count": 10000
       }
     ],
     "result": {
@@ -44946,7 +44976,7 @@
       },
       {
         "id": "RUSTY_COIN",
-        "count": 16
+        "count": 8
       }
     ],
     "result": {
@@ -45154,6 +45184,38 @@
     "inputs": [
       {
         "id": "RUSTY_COIN",
+        "count": 16
+      }
+    ],
+    "result": {
+      "type": "enchantment",
+      "id": "LUCK_OF_THE_SEA",
+      "level": 6,
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
+    "inputs": [
+      {
+        "id": "RUSTY_COIN",
+        "count": 32
+      }
+    ],
+    "result": {
+      "type": "pet",
+      "pet": "HERMIT_CRAB",
+      "tier": "COMMON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "JUNKER_JOEL_NPC",
+    "inputs": [
+      {
+        "id": "RUSTY_COIN",
         "count": 64
       }
     ],
@@ -45221,70 +45283,24 @@
     "npc": "JUNKER_JOEL_NPC",
     "inputs": [
       {
-        "id": "BUSTED_BELT_BUCKLE",
-        "count": 8
-      }
-    ],
-    "result": {
-      "id": "BAYOU_TRAVEL_SCROLL",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "npc": "JUNKER_JOEL_NPC",
-    "inputs": [
-      {
         "id": "BAYOU_WATER_ORB",
         "count": 1
       },
       {
-        "id": "RUSTY_COIN",
-        "count": 256
+        "id": "OLD_LEATHER_BOOT",
+        "count": 4
       },
       {
         "id": "BUSTED_BELT_BUCKLE",
         "count": 32
       },
       {
-        "id": "OLD_LEATHER_BOOT",
-        "count": 4
+        "id": "RUSTY_COIN",
+        "count": 256
       }
     ],
     "result": {
       "id": "TREASURE_HOOK",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "npc": "JUNKER_JOEL_NPC",
-    "inputs": [
-      {
-        "id": "RUSTY_COIN",
-        "count": 32
-      }
-    ],
-    "result": {
-      "type": "pet",
-      "pet": "HERMIT_CRAB",
-      "tier": "COMMON",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "npc": "JUNKER_JOEL_NPC",
-    "inputs": [
-      {
-        "id": "RUSTY_COIN",
-        "count": 16
-      }
-    ],
-    "result": {
-      "type": "enchantment",
-      "id": "LUCK_OF_THE_SEA",
-      "level": 6,
       "count": 1
     }
   },
