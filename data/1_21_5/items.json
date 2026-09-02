@@ -39157,7 +39157,7 @@
           "text": "§6Ability: Burning Vengeance ﬗ"
         },
         {
-          "text": "§7On hit, §crepeat §7the last 6 hits of dealt"
+          "text": "§7On hit, §crepeat §7the last 8 hits of dealt"
         },
         {
           "text": "§7damage after §a6s §7if the Hellion Shield"
@@ -97524,10 +97524,10 @@
           "text": "§7Impacts your Minions, Chocolate"
         },
         {
-          "text": "§7Factory, Aging Items, Kat, Fann, and"
+          "text": "§7Factory, Aging Items, Kat, Fann,"
         },
         {
-          "text": "§7The Forge."
+          "text": "§7Greenhouse, and The Forge."
         },
         {
           "text": ""
@@ -97543,7 +97543,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -115729,7 +115729,7 @@
           "text": "§6Ability: Burning Vengeance ﬗ"
         },
         {
-          "text": "§7On hit, §crepeat §7the last 6 hits of dealt"
+          "text": "§7On hit, §crepeat §7the last 8 hits of dealt"
         },
         {
           "text": "§7damage after §a6s §7if the Hellion Shield"
@@ -151538,7 +151538,7 @@
           "text": "§6Ability: Burning Vengeance ﬗ"
         },
         {
-          "text": "§7On hit, §crepeat §7the last 6 hits of dealt"
+          "text": "§7On hit, §crepeat §7the last 8 hits of dealt"
         },
         {
           "text": "§7damage after §a6s §7if the Hellion Shield"
@@ -223928,7 +223928,7 @@
           "text": "§6Ability: Party Time! "
         },
         {
-          "text": "§7Gain §b+1✎ Intelligence §7while on your"
+          "text": "§7Gain §b+1 Intelligence §7while on your"
         },
         {
           "text": "§7head for each SkyBlock year you've"
@@ -224080,7 +224080,7 @@
           "text": "§6Ability: Party Time! "
         },
         {
-          "text": "§7Gain §b+1✎ Intelligence §7while on your"
+          "text": "§7Gain §b+1 Intelligence §7while on your"
         },
         {
           "text": "§7head for each SkyBlock year you've"
@@ -224527,13 +224527,16 @@
           "text": "§7Magic Find: §b+1"
         },
         {
+          "text": "§7Accessory Power: §6+3"
+        },
+        {
           "text": ""
         },
         {
           "text": "§6Ability: Party Time! "
         },
         {
-          "text": "§7Gain §b+1✎ Intelligence §7while on your"
+          "text": "§7Gain §b+1 Intelligence §7while on your"
         },
         {
           "text": "§7head for each SkyBlock year you've"
@@ -224837,7 +224840,7 @@
           "text": "§6Ability: Party Time! "
         },
         {
-          "text": "§7Gain §b+1✎ Intelligence §7while on your"
+          "text": "§7Gain §b+1 Intelligence §7while on your"
         },
         {
           "text": "§7head for each SkyBlock year you've"
@@ -263766,13 +263769,10 @@
           "text": ""
         },
         {
-          "text": "§7Increases the chance of §6Shiny Pigs"
+          "text": "§7Gain a §a10% §7chance to receive an"
         },
         {
-          "text": "§7dropping the §fPotato Talisman§7 and"
-        },
-        {
-          "text": "§fBlood God Crest§7 by §a+50%§7."
+          "text": "§7extra item from §6§lShiny Pigs§7!"
         },
         {
           "text": ""
@@ -263814,7 +263814,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",

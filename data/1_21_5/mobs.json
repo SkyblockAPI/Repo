@@ -2777,8 +2777,8 @@
           {
             "id": "LOTUS",
             "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 4
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "DYE_AQUAMARINE",
@@ -3823,7 +3823,7 @@
           },
           {
             "id": "FLAMING_FIST",
-            "chance": 0.002,
+            "chance": 0.005,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -11150,7 +11150,7 @@
           },
           {
             "id": "LOTUS_SILVER",
-            "chance": 0.025,
+            "chance": 0.2,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -14157,6 +14157,12 @@
             "maxAmount": 1250
           },
           {
+            "id": "SULPHUR",
+            "chance": 1,
+            "minAmount": 8,
+            "maxAmount": 8
+          },
+          {
             "id": "MAGMA_FISH",
             "chance": 1,
             "minAmount": 60,
@@ -14167,6 +14173,12 @@
             "chance": 0.5,
             "minAmount": 60,
             "maxAmount": 60
+          },
+          {
+            "id": "ENCHANTED_GUNPOWDER",
+            "chance": 0.05,
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "ENCHANTED_GLOWSTONE",
@@ -15661,12 +15673,12 @@
           {
             "id": "LOTUS_SILVER",
             "chance": 1,
-            "minAmount": 4,
-            "maxAmount": 4
+            "minAmount": 8,
+            "maxAmount": 8
           },
           {
             "id": "LOTUS_GOLD",
-            "chance": 0.025,
+            "chance": 0.05,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -18197,7 +18209,48 @@
       }
     },
     "name": "gorF",
-    "type": "Sea Creature"
+    "type": "Sea Creature",
+    "lootTables": [
+      {
+        "name": "Gorf",
+        "mobLevel": 65,
+        "xp": 85,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 82,
+            "maxAmount": 82
+          },
+          {
+            "id": "LOTUS",
+            "chance": 1,
+            "minAmount": 8,
+            "maxAmount": 8
+          },
+          {
+            "id": "LOTUS_SILVER",
+            "chance": 0.05,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "REVERSE_REFORGE_STONE_CORE",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_AQUAMARINE",
+            "chance": 4.0000000000000003e-7,
+            "minAmount": 1,
+            "maxAmount": 1
+          }
+        ]
+      }
+    ]
   },
   "GRANDMA_RIFT_NPC": {
     "island": "rift",
@@ -25928,12 +25981,12 @@
           {
             "id": "LOTUS",
             "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 4
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "FROGCOIN",
-            "chance": 0.01,
+            "chance": 0.05,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -37763,7 +37816,7 @@
           },
           {
             "id": "LOTUS_GOLD",
-            "chance": 0.005,
+            "chance": 0.01,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -45585,6 +45638,12 @@
           {
             "id": "SULPHUR",
             "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "ENCHANTED_GUNPOWDER",
+            "chance": 0.005,
             "minAmount": 1,
             "maxAmount": 1
           },
