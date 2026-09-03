@@ -13489,7 +13489,7 @@
           "§8Combinable in Anvil",
           "",
           "§9Feast I",
-          "§7Grants §e+2☀ Overbloom§7.",
+          "§7Grants §e+2 Overbloom§7.",
           "",
           "§6Source:",
           "§aI: §7Grand Bakery",
@@ -13509,7 +13509,6 @@
               },
               "id": "ENCHANTED_BOOK"
             },
-            "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
             },
@@ -13524,7 +13523,7 @@
                 "text": "§9Feast I"
               },
               {
-                "text": "§7Grants §e+2☀ Overbloom§7."
+                "text": "§7Grants §e+2 Overbloom§7."
               },
               {
                 "text": ""
@@ -13558,7 +13557,7 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
@@ -13581,7 +13580,7 @@
           "§8Combinable in Anvil",
           "",
           "§9Feast II",
-          "§7Grants §e+4☀ Overbloom§7.",
+          "§7Grants §e+4 Overbloom§7.",
           "",
           "§6Source:",
           "§aI: §7Grand Bakery",
@@ -13616,7 +13615,7 @@
                 "text": "§9Feast II"
               },
               {
-                "text": "§7Grants §e+4☀ Overbloom§7."
+                "text": "§7Grants §e+4 Overbloom§7."
               },
               {
                 "text": ""
@@ -13673,7 +13672,7 @@
           "§8Combinable in Anvil",
           "",
           "§9Feast III",
-          "§7Grants §e+6☀ Overbloom§7.",
+          "§7Grants §e+6 Overbloom§7.",
           "",
           "§6Source:",
           "§aI: §7Grand Bakery",
@@ -13708,7 +13707,7 @@
                 "text": "§9Feast III"
               },
               {
-                "text": "§7Grants §e+6☀ Overbloom§7."
+                "text": "§7Grants §e+6 Overbloom§7."
               },
               {
                 "text": ""
@@ -13765,7 +13764,7 @@
           "§8Combinable in Anvil",
           "",
           "§9Feast IV",
-          "§7Grants §e+8☀ Overbloom§7.",
+          "§7Grants §e+8 Overbloom§7.",
           "",
           "§6Source:",
           "§aI: §7Grand Bakery",
@@ -13800,7 +13799,7 @@
                 "text": "§9Feast IV"
               },
               {
-                "text": "§7Grants §e+8☀ Overbloom§7."
+                "text": "§7Grants §e+8 Overbloom§7."
               },
               {
                 "text": ""
@@ -13857,7 +13856,7 @@
           "§8Combinable in Anvil",
           "",
           "§9Feast V",
-          "§7Grants §e+10☀ Overbloom§7.",
+          "§7Grants §e+10 Overbloom§7.",
           "",
           "§6Source:",
           "§aI: §7Grand Bakery",
@@ -13892,7 +13891,7 @@
                 "text": "§9Feast V"
               },
               {
-                "text": "§7Grants §e+10☀ Overbloom§7."
+                "text": "§7Grants §e+10 Overbloom§7."
               },
               {
                 "text": ""
@@ -64429,7 +64428,7 @@
           "§a0.001% §7chance to trigger §d§lCrop",
           "§d§lFever §7for §a60s §7which grants:",
           "§8- §7Additional crop rolls",
-          "§8- §e+15☀ Overbloom",
+          "§8- §e+15 Overbloom",
           "§8- §6+100☘ Farming Fortune",
           "",
           "§cYou can only have 1 Ultimate",
@@ -64479,7 +64478,7 @@
                 "text": "§8- §7Additional crop rolls"
               },
               {
-                "text": "§8- §e+15☀ Overbloom"
+                "text": "§8- §e+15 Overbloom"
               },
               {
                 "text": "§8- §6+100☘ Farming Fortune"
@@ -64549,7 +64548,7 @@
           "§a0.002% §7chance to trigger §d§lCrop",
           "§d§lFever §7for §a60s §7which grants:",
           "§8- §7Additional crop rolls",
-          "§8- §e+15☀ Overbloom",
+          "§8- §e+15 Overbloom",
           "§8- §6+100☘ Farming Fortune",
           "",
           "§cYou can only have 1 Ultimate",
@@ -64599,7 +64598,7 @@
                 "text": "§8- §7Additional crop rolls"
               },
               {
-                "text": "§8- §e+15☀ Overbloom"
+                "text": "§8- §e+15 Overbloom"
               },
               {
                 "text": "§8- §6+100☘ Farming Fortune"
@@ -64669,7 +64668,7 @@
           "§a0.003% §7chance to trigger §d§lCrop",
           "§d§lFever §7for §a60s §7which grants:",
           "§8- §7Additional crop rolls",
-          "§8- §e+15☀ Overbloom",
+          "§8- §e+15 Overbloom",
           "§8- §6+100☘ Farming Fortune",
           "",
           "§cYou can only have 1 Ultimate",
@@ -64719,7 +64718,7 @@
                 "text": "§8- §7Additional crop rolls"
               },
               {
-                "text": "§8- §e+15☀ Overbloom"
+                "text": "§8- §e+15 Overbloom"
               },
               {
                 "text": "§8- §6+100☘ Farming Fortune"
@@ -64789,7 +64788,7 @@
           "§a0.004% §7chance to trigger §d§lCrop",
           "§d§lFever §7for §a60s §7which grants:",
           "§8- §7Additional crop rolls",
-          "§8- §e+15☀ Overbloom",
+          "§8- §e+15 Overbloom",
           "§8- §6+100☘ Farming Fortune",
           "",
           "§cYou can only have 1 Ultimate",
@@ -64839,7 +64838,7 @@
                 "text": "§8- §7Additional crop rolls"
               },
               {
-                "text": "§8- §e+15☀ Overbloom"
+                "text": "§8- §e+15 Overbloom"
               },
               {
                 "text": "§8- §6+100☘ Farming Fortune"
@@ -64909,7 +64908,7 @@
           "§a0.005% §7chance to trigger §d§lCrop",
           "§d§lFever §7for §a60s §7which grants:",
           "§8- §7Additional crop rolls",
-          "§8- §e+15☀ Overbloom",
+          "§8- §e+15 Overbloom",
           "§8- §6+100☘ Farming Fortune",
           "",
           "§cYou can only have 1 Ultimate",
@@ -64959,7 +64958,7 @@
                 "text": "§8- §7Additional crop rolls"
               },
               {
-                "text": "§8- §e+15☀ Overbloom"
+                "text": "§8- §e+15 Overbloom"
               },
               {
                 "text": "§8- §6+100☘ Farming Fortune"
@@ -72686,7 +72685,7 @@
           "§8Combinable in Anvil",
           "",
           "§d§lSunset I",
-          "§7During the day, §e+1☀ Overbloom§7.",
+          "§7During the day, §e+1 Overbloom§7.",
           "§7During the night, §b-1% Visitor Cooldown.",
           "",
           "§cYou can only have 1 Ultimate",
@@ -72725,7 +72724,7 @@
                 "text": "§d§lSunset I"
               },
               {
-                "text": "§7During the day, §e+1☀ Overbloom§7."
+                "text": "§7During the day, §e+1 Overbloom§7."
               },
               {
                 "text": "§7During the night, §b-1% Visitor Cooldown."
@@ -72794,7 +72793,7 @@
           "§8Combinable in Anvil",
           "",
           "§d§lSunset II",
-          "§7During the day, §e+2☀ Overbloom§7.",
+          "§7During the day, §e+2 Overbloom§7.",
           "§7During the night, §b-2% Visitor Cooldown.",
           "",
           "§cYou can only have 1 Ultimate",
@@ -72833,7 +72832,7 @@
                 "text": "§d§lSunset II"
               },
               {
-                "text": "§7During the day, §e+2☀ Overbloom§7."
+                "text": "§7During the day, §e+2 Overbloom§7."
               },
               {
                 "text": "§7During the night, §b-2% Visitor Cooldown."
@@ -72902,7 +72901,7 @@
           "§8Combinable in Anvil",
           "",
           "§d§lSunset III",
-          "§7During the day, §e+3☀ Overbloom§7.",
+          "§7During the day, §e+3 Overbloom§7.",
           "§7During the night, §b-3% Visitor Cooldown.",
           "",
           "§cYou can only have 1 Ultimate",
@@ -72941,7 +72940,7 @@
                 "text": "§d§lSunset III"
               },
               {
-                "text": "§7During the day, §e+3☀ Overbloom§7."
+                "text": "§7During the day, §e+3 Overbloom§7."
               },
               {
                 "text": "§7During the night, §b-3% Visitor Cooldown."
@@ -73010,7 +73009,7 @@
           "§8Combinable in Anvil",
           "",
           "§d§lSunset IV",
-          "§7During the day, §e+4☀ Overbloom§7.",
+          "§7During the day, §e+4 Overbloom§7.",
           "§7During the night, §b-4% Visitor Cooldown.",
           "",
           "§cYou can only have 1 Ultimate",
@@ -73049,7 +73048,7 @@
                 "text": "§d§lSunset IV"
               },
               {
-                "text": "§7During the day, §e+4☀ Overbloom§7."
+                "text": "§7During the day, §e+4 Overbloom§7."
               },
               {
                 "text": "§7During the night, §b-4% Visitor Cooldown."
@@ -73118,7 +73117,7 @@
           "§8Combinable in Anvil",
           "",
           "§d§lSunset V",
-          "§7During the day, §e+5☀ Overbloom§7.",
+          "§7During the day, §e+5 Overbloom§7.",
           "§7During the night, §b-5% Visitor Cooldown.",
           "",
           "§cYou can only have 1 Ultimate",
@@ -73157,7 +73156,7 @@
                 "text": "§d§lSunset V"
               },
               {
-                "text": "§7During the day, §e+5☀ Overbloom§7."
+                "text": "§7During the day, §e+5 Overbloom§7."
               },
               {
                 "text": "§7During the night, §b-5% Visitor Cooldown."

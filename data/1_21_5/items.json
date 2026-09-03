@@ -54967,9 +54967,6 @@
           "text": "§7Sea Creature Chance: §3+2%"
         },
         {
-          "text": "§7Gemstones: §8[§7⚔§8 []"
-        },
-        {
           "text": ""
         },
         {
@@ -55000,13 +54997,24 @@
           "text": "§9§lRARE FISHING ROD"
         }
       ],
-      "minecraft:dyed_color": 10511680,
+      "minecraft:item_model": "hypixel_skyblock:item/fishing/rod/broken_rod",
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:unbreakable"
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
     }
   },
   {
@@ -66353,6 +66361,61 @@
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/slayer/blaze/minion/fuel/distillate/gabagool_distillate",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "CRUNCHY_BUG"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Crunchy Bug"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Drops sometimes from §a Critter"
+        },
+        {
+          "text": "§7mobs during the §5Year of the Witch§7!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Bring to §dAlcina§7 in the §aHub§7 to craft it"
+        },
+        {
+          "text": "§7into §dStews§7!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§l* §8Soulbound §8§l*"
+        },
+        {
+          "text": "§9§lRARE"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/foraging_3/crunchy_bug",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -105944,6 +106007,3954 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "alley",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§fAlley"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a City Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+1 Chocolate §7and §60.002x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ0MTcwMSwKICAicHJvZmlsZUlkIiA6ICJiODU0NWMxMDlhZjE0ZGRjYmY4ZjhmZjg4ZTU2NzI4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdGFrb3B5c2tDWiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNjc3YjE0NjFhNzUwNzMxZjcxOTFkYjZmZTQ3MTRkN2I1NWY2Nzc3YTRkNjhjY2NkYjc5YzJhMjZlYWFkY2QzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "anchor",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§aAnchor"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Beach Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+2 Chocolate §7and §60.003x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQyNDgzNiwKICAicHJvZmlsZUlkIiA6ICI1ODAwZjIzNWQyYjQ0MDc5OTcxZTM3ZDhmNmY0OTc2ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJYZW55cmlhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y2OGZkZTk4MzI5NDZmNmRhOWYzNzQ4NjQwYTlhNzc2MjBiYzQxMzZiNzQ0YTJiMDk3NGNlMjZlYmNhMTg5YWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "aster",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Aster"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Country Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+4 Chocolate §7and §60.004x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDUwODg0NCwKICAicHJvZmlsZUlkIiA6ICJjN2Y2Nzk3ZmE4ZGM0NTdiYTkxNTU0NWIwMGU3M2UzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJlZGd5c3BlbmNlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QzYmMzNDhjYTgxNTdhOWI0ZGQ2MGUzMDM3MDE4Njc1NDI5MzY0YjFiMmUxYWZmZjg1MjUyMzVlMWY5M2E1YzQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "avalanche",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Avalanche"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Mountain Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+10 Chocolate §7and §60.005x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYxMTg2NSwKICAicHJvZmlsZUlkIiA6ICIwMmI1ZWM4OTlkYTE0NzU1OTQ5YmEwMDIxOWJiYzFlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJteWllc2h1cCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zODBkMDk0NDIwZjI5ZDIwMmM1ZmRmMzliMjYyYjg0MTQ3YTViMjUyOWY3YmMxOGIxZDRjZGVmMzVlNjJkMjkyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "canyon",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§aCanyon"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Mountain Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+2 Chocolate §7and §60.003x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYzNjgxMCwKICAicHJvZmlsZUlkIiA6ICI2NmRmYzFmNTRlNTU0ZTZmODJjNTA5ZjM1NTJiYTkwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJadWFyaWciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWI1OTg0ZDIwNTgxMjAxMjJkOGQzNjQ4ZDYyOTViOTQxZDA4MGY2NzE1YTYzODdkY2FkNzYxMjFjOGVhMzkxMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "chasm",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§fChasm"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Mountain Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+1 Chocolate §7and §60.002x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYwMjI1NiwKICAicHJvZmlsZUlkIiA6ICJkMTQ4NjFiM2UwZmM0Njk5OTFlMTcyNTllMzdiZjZhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJyYXhpdG9jbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jOTU1YjNlOTZmMjBiNmUzMDg2ZDFmMGU3ZThiNDNjMWFkNTg2ZjI0Njc5NjU0NWMwNjFlY2I1YmY1NjNiMTUxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "clover",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§aClover"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Country Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+2 Chocolate §7and §60.003x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDUxNzU1NCwKICAicHJvZmlsZUlkIiA6ICIzZThhODgyM2ZlZGI0ZGYwODRmZjE1NmQ3ZDM0YzMxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJjaGlwbXVua2llY29va2llIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VmYTE0NTc1ZjVjZmU0MTQyNGIzN2NkMWYxMGViODg0NWJmOGUzNGI2ZTZiYjcyMzZiNWJjOWMzNjdjMGVkYTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "cobble",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§fCobble"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a City Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+1 Chocolate §7and §60.002x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ0MTcwMSwKICAicHJvZmlsZUlkIiA6ICJiODU0NWMxMDlhZjE0ZGRjYmY4ZjhmZjg4ZTU2NzI4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdGFrb3B5c2tDWiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNjc3YjE0NjFhNzUwNzMxZjcxOTFkYjZmZTQ3MTRkN2I1NWY2Nzc3YTRkNjhjY2NkYjc5YzJhMjZlYWFkY2QzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "coconut",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Coconut"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Beach Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+4 Chocolate §7and §60.004x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQxNjQ5OCwKICAicHJvZmlsZUlkIiA6ICJiZmQ3MjMxMGNmYWY0Yjc5OTNlYzhiYzU3ODg3YzU5ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHBoYVNwQW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGEyOTg2NDBlNWQyZDhjOWUyYmFjMWE0ZjgzNjlmMjE0YjdlMTdhZWE0NWRiZDhmMDFjNzI2MmEzMmIxODg4OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "crag",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Crag"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Mountain Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+4 Chocolate §7and §60.004x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYyODU3OCwKICAicHJvZmlsZUlkIiA6ICIxNDM3N2ZjOGU1NTg0NGQwOTg2ZDkyMjY3ODRiMjQxZiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwVGlja0RlbGF5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUyMGQzOGIyZDliMTJkNjJhNzNlMmY0N2JhNzFhNDVlMmE2OTAyYmZhYmMxNjJlYTBhMDA1MWNmZWYyZWI4ODMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "daisy",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§fDaisy"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Country Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+1 Chocolate §7and §60.002x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ4MjQ1NSwKICAicHJvZmlsZUlkIiA6ICI0OThjYTc2ZGYwODM0NzhmOGY0NjdjOGY1OTQwMjk1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHdWx0cm8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWYyZDAyNzUzNDE5NjAwNDRhYzA2NDZhMTdjMjJkZmE4MmU4ZGQzMTVlYjQ4ZjRkOTAxYmY1MTNiOTk2NzQyNSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "dune",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Dune"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Beach Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+10 Chocolate §7and §60.005x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDM5ODMxMCwKICAicHJvZmlsZUlkIiA6ICJlYzU4NzQxMjM2M2E0ZTQ0OTEwNzJjMWU5M2RkOGMzOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3aXJlZGZyYW1lIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FkMGEwZmJlYjg5NGNjYmE2NzcwMTJmYTA5ZDZlNzQ1ZTAzYjUyMGRhYWUyZmI2MjdhMzdiZDZkNmRmYjgyZTIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "eagle",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Eagle"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Mountain Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+4 Chocolate §7and §60.004x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYyODU3OCwKICAicHJvZmlsZUlkIiA6ICIxNDM3N2ZjOGU1NTg0NGQwOTg2ZDkyMjY3ODRiMjQxZiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwVGlja0RlbGF5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUyMGQzOGIyZDliMTJkNjJhNzNlMmY0N2JhNzFhNDVlMmE2OTAyYmZhYmMxNjJlYTBhMDA1MWNmZWYyZWI4ODMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "glacier",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§fGlacier"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Mountain Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+1 Chocolate §7and §60.002x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYwMjI1NiwKICAicHJvZmlsZUlkIiA6ICJkMTQ4NjFiM2UwZmM0Njk5OTFlMTcyNTllMzdiZjZhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJyYXhpdG9jbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jOTU1YjNlOTZmMjBiNmUzMDg2ZDFmMGU3ZThiNDNjMWFkNTg2ZjI0Njc5NjU0NWMwNjFlY2I1YmY1NjNiMTUxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "graffiti",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§aGraffiti"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a City Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+2 Chocolate §7and §60.003x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ3NDU0OSwKICAicHJvZmlsZUlkIiA6ICI4ZGQ5OWEzMDEwMDA0NTRiYmYwNGU5Mjk3NGIzYWNmMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQeXIwdGVjaG5payIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YmUyZWU2NTYzMDNhYmYzMTJkYjYyZWQ3MGJhYWNiNjU0N2MyYTVmNzlhMDg5ZDFiZGMwZWNhOTc5NzZmNzdkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "granite",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§fGranite"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Mountain Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+1 Chocolate §7and §60.002x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYwMjI1NiwKICAicHJvZmlsZUlkIiA6ICJkMTQ4NjFiM2UwZmM0Njk5OTFlMTcyNTllMzdiZjZhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJyYXhpdG9jbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jOTU1YjNlOTZmMjBiNmUzMDg2ZDFmMGU3ZThiNDNjMWFkNTg2ZjI0Njc5NjU0NWMwNjFlY2I1YmY1NjNiMTUxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "haybale",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§fHaybale"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Country Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+1 Chocolate §7and §60.002x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ4MjQ1NSwKICAicHJvZmlsZUlkIiA6ICI0OThjYTc2ZGYwODM0NzhmOGY0NjdjOGY1OTQwMjk1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHdWx0cm8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWYyZDAyNzUzNDE5NjAwNDRhYzA2NDZhMTdjMjJkZmE4MmU4ZGQzMTVlYjQ4ZjRkOTAxYmY1MTNiOTk2NzQyNSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "hazel",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§fHazel"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Country Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+1 Chocolate §7and §60.002x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ4MjQ1NSwKICAicHJvZmlsZUlkIiA6ICI0OThjYTc2ZGYwODM0NzhmOGY0NjdjOGY1OTQwMjk1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHdWx0cm8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWYyZDAyNzUzNDE5NjAwNDRhYzA2NDZhMTdjMjJkZmE4MmU4ZGQzMTVlYjQ4ZjRkOTAxYmY1MTNiOTk2NzQyNSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "horizon",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Horizon"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Mountain Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+0.02x Chocolate §7per second"
+        },
+        {
+          "text": "§7to your §6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6§lLEGENDARY RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYxOTc4MCwKICAicHJvZmlsZUlkIiA6ICIyNDY1ODI2NWVjMjg0NTY4YTg3MDJkOTVlYzdlYTc4MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcmdvc1oxMiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYmJhMjFmMjI5Zjk0ZjhkNTNjYTdlNmU2ZTk5MzZhZWU2MWEzYjljNTI1YTgyZjYyMTJmZjRkYmFlNDEwOWMzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "icefur",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§aIcefur"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Mountain Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+2 Chocolate §7and §60.003x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYzNjgxMCwKICAicHJvZmlsZUlkIiA6ICI2NmRmYzFmNTRlNTU0ZTZmODJjNTA5ZjM1NTJiYTkwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJadWFyaWciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWI1OTg0ZDIwNTgxMjAxMjJkOGQzNjQ4ZDYyOTViOTQxZDA4MGY2NzE1YTYzODdkY2FkNzYxMjFjOGVhMzkxMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "iris",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Iris"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Country Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+4 Chocolate §7and §60.004x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDUwODg0NCwKICAicHJvZmlsZUlkIiA6ICJjN2Y2Nzk3ZmE4ZGM0NTdiYTkxNTU0NWIwMGU3M2UzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJlZGd5c3BlbmNlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QzYmMzNDhjYTgxNTdhOWI0ZGQ2MGUzMDM3MDE4Njc1NDI5MzY0YjFiMmUxYWZmZjg1MjUyMzVlMWY5M2E1YzQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "juniper",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Juniper"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Country Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+10 Chocolate §7and §60.005x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ5MTkzMiwKICAicHJvZmlsZUlkIiA6ICIzZDU1OGQ3Y2NmZjk0ODdkYWE1MzhkMjM4NGE3OWFkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnlwdGljTG9zZXIxMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYTEwMDMwZThlMTM1NDljZTc5ODQxY2ZhYWIzNDcwYWE1YWRhOGI2YTQ3NGUzNzU2ZTYxOTc0Yjg3MTdlOTM1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "lagoon",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§aLagoon"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Beach Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+2 Chocolate §7and §60.003x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQyNDgzNiwKICAicHJvZmlsZUlkIiA6ICI1ODAwZjIzNWQyYjQ0MDc5OTcxZTM3ZDhmNmY0OTc2ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJYZW55cmlhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y2OGZkZTk4MzI5NDZmNmRhOWYzNzQ4NjQwYTlhNzc2MjBiYzQxMzZiNzQ0YTJiMDk3NGNlMjZlYmNhMTg5YWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "lavender",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Lavender"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Country Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+10 Chocolate §7and §60.005x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ5MTkzMiwKICAicHJvZmlsZUlkIiA6ICIzZDU1OGQ3Y2NmZjk0ODdkYWE1MzhkMjM4NGE3OWFkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnlwdGljTG9zZXIxMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYTEwMDMwZThlMTM1NDljZTc5ODQxY2ZhYWIzNDcwYWE1YWRhOGI2YTQ3NGUzNzU2ZTYxOTc0Yjg3MTdlOTM1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "marigold",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§aMarigold"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Country Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+2 Chocolate §7and §60.003x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDUxNzU1NCwKICAicHJvZmlsZUlkIiA6ICIzZThhODgyM2ZlZGI0ZGYwODRmZjE1NmQ3ZDM0YzMxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJjaGlwbXVua2llY29va2llIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VmYTE0NTc1ZjVjZmU0MTQyNGIzN2NkMWYxMGViODg0NWJmOGUzNGI2ZTZiYjcyMzZiNWJjOWMzNjdjMGVkYTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "mayor",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Mayor"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a City Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+0.02x Chocolate §7per second"
+        },
+        {
+          "text": "§7to your §6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6§lLEGENDARY RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ1ODczMSwKICAicHJvZmlsZUlkIiA6ICJhZWY5YmQ1YTIyMTc0NjljODYwZDAzYWE1YWNkNWQwOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJjb3JydXB0ZWRrZXkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjA0ZDU5YWRmMmZkNjcyOWFiZjU4MzUzZGU0ODBjMjVjYTM1MzRjNDdiZGY2MjIzNjIyMjRhNDgzYjQ4MWU3OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "minister",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Minister"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a City Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+10 Chocolate §7and §60.005x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ0OTc1NiwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NmNiNzU3YjBhOTMzZWRmZGY4ZWI0MTAxZGQ0MzViM2RiZjY2MjQzMjdjMWZkMDk2NWFmZTBhM2E1NTA1MWU4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "mistral",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§fMistral"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Mountain Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+1 Chocolate §7and §60.002x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYwMjI1NiwKICAicHJvZmlsZUlkIiA6ICJkMTQ4NjFiM2UwZmM0Njk5OTFlMTcyNTllMzdiZjZhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJyYXhpdG9jbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jOTU1YjNlOTZmMjBiNmUzMDg2ZDFmMGU3ZThiNDNjMWFkNTg2ZjI0Njc5NjU0NWMwNjFlY2I1YmY1NjNiMTUxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "mocktail",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§aMocktail"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Beach Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+2 Chocolate §7and §60.003x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQyNDgzNiwKICAicHJvZmlsZUlkIiA6ICI1ODAwZjIzNWQyYjQ0MDc5OTcxZTM3ZDhmNmY0OTc2ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJYZW55cmlhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y2OGZkZTk4MzI5NDZmNmRhOWYzNzQ4NjQwYTlhNzc2MjBiYzQxMzZiNzQ0YTJiMDk3NGNlMjZlYmNhMTg5YWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "moss",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§aMoss"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Country Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+2 Chocolate §7and §60.003x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDUxNzU1NCwKICAicHJvZmlsZUlkIiA6ICIzZThhODgyM2ZlZGI0ZGYwODRmZjE1NmQ3ZDM0YzMxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJjaGlwbXVua2llY29va2llIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VmYTE0NTc1ZjVjZmU0MTQyNGIzN2NkMWYxMGViODg0NWJmOGUzNGI2ZTZiYjcyMzZiNWJjOWMzNjdjMGVkYTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "nectar",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§aNectar"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Country Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+2 Chocolate §7and §60.003x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDUxNzU1NCwKICAicHJvZmlsZUlkIiA6ICIzZThhODgyM2ZlZGI0ZGYwODRmZjE1NmQ3ZDM0YzMxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJjaGlwbXVua2llY29va2llIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VmYTE0NTc1ZjVjZmU0MTQyNGIzN2NkMWYxMGViODg0NWJmOGUzNGI2ZTZiYjcyMzZiNWJjOWMzNjdjMGVkYTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "neon",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Neon"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a City Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+10 Chocolate §7and §60.005x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ0OTc1NiwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NmNiNzU3YjBhOTMzZWRmZGY4ZWI0MTAxZGQ0MzViM2RiZjY2MjQzMjdjMWZkMDk2NWFmZTBhM2E1NTA1MWU4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "oasis",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Oasis"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Beach Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+4 Chocolate §7and §60.004x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQxNjQ5OCwKICAicHJvZmlsZUlkIiA6ICJiZmQ3MjMxMGNmYWY0Yjc5OTNlYzhiYzU3ODg3YzU5ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHBoYVNwQW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGEyOTg2NDBlNWQyZDhjOWUyYmFjMWE0ZjgzNjlmMjE0YjdlMTdhZWE0NWRiZDhmMDFjNzI2MmEzMmIxODg4OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "palm",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§fPalm"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Beach Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+1 Chocolate §7and §60.002x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDM4OTI0MCwKICAicHJvZmlsZUlkIiA6ICI3YjE3NjBiYmVkNTk0Mjc1YmU3ZjhjMGFlYmQzMmRiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdmVuTmlqaHVpczQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjYyMzMxMWUzOWJkM2QwNzMyYTVkZDFlMDdlNzY3NjIyZDJiOTc0YzQ0ODM5OGE0OTQ1NmRiNGFjOTYxOWI2OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "peon",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§fPeon"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a City Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+1 Chocolate §7and §60.002x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ0MTcwMSwKICAicHJvZmlsZUlkIiA6ICJiODU0NWMxMDlhZjE0ZGRjYmY4ZjhmZjg4ZTU2NzI4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdGFrb3B5c2tDWiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNjc3YjE0NjFhNzUwNzMxZjcxOTFkYjZmZTQ3MTRkN2I1NWY2Nzc3YTRkNjhjY2NkYjc5YzJhMjZlYWFkY2QzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "root",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§fRoot"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Country Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+1 Chocolate §7and §60.002x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ4MjQ1NSwKICAicHJvZmlsZUlkIiA6ICI0OThjYTc2ZGYwODM0NzhmOGY0NjdjOGY1OTQwMjk1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHdWx0cm8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWYyZDAyNzUzNDE5NjAwNDRhYzA2NDZhMTdjMjJkZmE4MmU4ZGQzMTVlYjQ4ZjRkOTAxYmY1MTNiOTk2NzQyNSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "rosebud",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Rosebud"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Country Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+0.02x Chocolate §7per second"
+        },
+        {
+          "text": "§7to your §6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6§lLEGENDARY RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDUwMDQ0MCwKICAicHJvZmlsZUlkIiA6ICJiNTQ1ZDcxNDJkZmM0MWVlYjBjMDcwOTkwOTI4NTE0MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJraXdpNDgxMiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMjJmZmI2NTFjNWZmMjVhMjhmY2NlMTVkNmY4Yzk1OGM1ZjhmOTgzYzlkZmU5ZWMwODNlMDc5ZGM3MDA0MzVlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "sandy",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§fSandy"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Beach Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+1 Chocolate §7and §60.002x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDM4OTI0MCwKICAicHJvZmlsZUlkIiA6ICI3YjE3NjBiYmVkNTk0Mjc1YmU3ZjhjMGFlYmQzMmRiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdmVuTmlqaHVpczQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjYyMzMxMWUzOWJkM2QwNzMyYTVkZDFlMDdlNzY3NjIyZDJiOTc0YzQ0ODM5OGE0OTQ1NmRiNGFjOTYxOWI2OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "scree",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§aScree"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Mountain Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+2 Chocolate §7and §60.003x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYzNjgxMCwKICAicHJvZmlsZUlkIiA6ICI2NmRmYzFmNTRlNTU0ZTZmODJjNTA5ZjM1NTJiYTkwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJadWFyaWciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWI1OTg0ZDIwNTgxMjAxMjJkOGQzNjQ4ZDYyOTViOTQxZDA4MGY2NzE1YTYzODdkY2FkNzYxMjFjOGVhMzkxMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "seabun",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§aSeabun"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Beach Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+2 Chocolate §7and §60.003x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQyNDgzNiwKICAicHJvZmlsZUlkIiA6ICI1ODAwZjIzNWQyYjQ0MDc5OTcxZTM3ZDhmNmY0OTc2ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJYZW55cmlhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y2OGZkZTk4MzI5NDZmNmRhOWYzNzQ4NjQwYTlhNzc2MjBiYzQxMzZiNzQ0YTJiMDk3NGNlMjZlYmNhMTg5YWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "seashell",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§fSeashell"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Beach Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+1 Chocolate §7and §60.002x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDM4OTI0MCwKICAicHJvZmlsZUlkIiA6ICI3YjE3NjBiYmVkNTk0Mjc1YmU3ZjhjMGFlYmQzMmRiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdmVuTmlqaHVpczQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjYyMzMxMWUzOWJkM2QwNzMyYTVkZDFlMDdlNzY3NjIyZDJiOTc0YzQ0ODM5OGE0OTQ1NmRiNGFjOTYxOWI2OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "shortcut",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Shortcut"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a City Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+4 Chocolate §7and §60.004x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ2NzM4NiwKICAicHJvZmlsZUlkIiA6ICJhZmEwYmMzZTA1MjQ0MTM4YjkxMDIxY2Y3ODE2YjRkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbGV4aXNNYWRkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlNjU0MWUzYjNkMTUxNTgyNGEwNWVhMDlhYjA2N2Y4OWE3ZjA4Y2EzOWE4OTM3YTg4NGI3MzQwNGQwNTU1M2QiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "silo",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Silo"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Country Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+4 Chocolate §7and §60.004x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDUwODg0NCwKICAicHJvZmlsZUlkIiA6ICJjN2Y2Nzk3ZmE4ZGM0NTdiYTkxNTU0NWIwMGU3M2UzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJlZGd5c3BlbmNlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QzYmMzNDhjYTgxNTdhOWI0ZGQ2MGUzMDM3MDE4Njc1NDI5MzY0YjFiMmUxYWZmZjg1MjUyMzVlMWY5M2E1YzQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "skyrise",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§aSkyrise"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a City Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+2 Chocolate §7and §60.003x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ3NDU0OSwKICAicHJvZmlsZUlkIiA6ICI4ZGQ5OWEzMDEwMDA0NTRiYmYwNGU5Mjk3NGIzYWNmMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQeXIwdGVjaG5payIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YmUyZWU2NTYzMDNhYmYzMTJkYjYyZWQ3MGJhYWNiNjU0N2MyYTVmNzlhMDg5ZDFiZGMwZWNhOTc5NzZmNzdkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "speedy",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§fSpeedy"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a City Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+1 Chocolate §7and §60.002x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ0MTcwMSwKICAicHJvZmlsZUlkIiA6ICJiODU0NWMxMDlhZjE0ZGRjYmY4ZjhmZjg4ZTU2NzI4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdGFrb3B5c2tDWiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNjc3YjE0NjFhNzUwNzMxZjcxOTFkYjZmZTQ3MTRkN2I1NWY2Nzc3YTRkNjhjY2NkYjc5YzJhMjZlYWFkY2QzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "splash",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§fSplash"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Beach Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+1 Chocolate §7and §60.002x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDM4OTI0MCwKICAicHJvZmlsZUlkIiA6ICI3YjE3NjBiYmVkNTk0Mjc1YmU3ZjhjMGFlYmQzMmRiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdmVuTmlqaHVpczQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjYyMzMxMWUzOWJkM2QwNzMyYTVkZDFlMDdlNzY3NjIyZDJiOTc0YzQ0ODM5OGE0OTQ1NmRiNGFjOTYxOWI2OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "starfish",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Starfish"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Beach Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+4 Chocolate §7and §60.004x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQxNjQ5OCwKICAicHJvZmlsZUlkIiA6ICJiZmQ3MjMxMGNmYWY0Yjc5OTNlYzhiYzU3ODg3YzU5ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHBoYVNwQW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGEyOTg2NDBlNWQyZDhjOWUyYmFjMWE0ZjgzNjlmMjE0YjdlMTdhZWE0NWRiZDhmMDFjNzI2MmEzMmIxODg4OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "subway",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§fSubway"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a City Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+1 Chocolate §7and §60.002x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ0MTcwMSwKICAicHJvZmlsZUlkIiA6ICJiODU0NWMxMDlhZjE0ZGRjYmY4ZjhmZjg4ZTU2NzI4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdGFrb3B5c2tDWiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNjc3YjE0NjFhNzUwNzMxZjcxOTFkYjZmZTQ3MTRkN2I1NWY2Nzc3YTRkNjhjY2NkYjc5YzJhMjZlYWFkY2QzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "summit",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Summit"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Mountain Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+10 Chocolate §7and §60.005x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYxMTg2NSwKICAicHJvZmlsZUlkIiA6ICIwMmI1ZWM4OTlkYTE0NzU1OTQ5YmEwMDIxOWJiYzFlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJteWllc2h1cCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zODBkMDk0NDIwZjI5ZDIwMmM1ZmRmMzliMjYyYjg0MTQ3YTViMjUyOWY3YmMxOGIxZDRjZGVmMzVlNjJkMjkyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "sunset",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Sunset"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Beach Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+0.02x Chocolate §7per second"
+        },
+        {
+          "text": "§7to your §6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6§lLEGENDARY RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQwNzQ0OCwKICAicHJvZmlsZUlkIiA6ICJiOWIzY2RlZmIyZmQ0YWY1ODQxMGViZWZjY2ZmYTBhYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJpbnRlcnNlY2F0byIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ODVjNTJlZDRiODIwNzExODUzYzViMjgxYzAzNzkzOTkzNDM4OWU3YjBlYjgwOWNlZDFjZTUwMjY0NzMyMjdjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "surf",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Surf"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Beach Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+10 Chocolate §7and §60.005x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDM5ODMxMCwKICAicHJvZmlsZUlkIiA6ICJlYzU4NzQxMjM2M2E0ZTQ0OTEwNzJjMWU5M2RkOGMzOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3aXJlZGZyYW1lIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FkMGEwZmJlYjg5NGNjYmE2NzcwMTJmYTA5ZDZlNzQ1ZTAzYjUyMGRhYWUyZmI2MjdhMzdiZDZkNmRmYjgyZTIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "tan",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§fTan"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Beach Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+1 Chocolate §7and §60.002x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDM4OTI0MCwKICAicHJvZmlsZUlkIiA6ICI3YjE3NjBiYmVkNTk0Mjc1YmU3ZjhjMGFlYmQzMmRiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdmVuTmlqaHVpczQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjYyMzMxMWUzOWJkM2QwNzMyYTVkZDFlMDdlNzY3NjIyZDJiOTc0YzQ0ODM5OGE0OTQ1NmRiNGFjOTYxOWI2OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "taxi",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Taxi"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a City Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+4 Chocolate §7and §60.004x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ2NzM4NiwKICAicHJvZmlsZUlkIiA6ICJhZmEwYmMzZTA1MjQ0MTM4YjkxMDIxY2Y3ODE2YjRkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbGV4aXNNYWRkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlNjU0MWUzYjNkMTUxNTgyNGEwNWVhMDlhYjA2N2Y4OWE3ZjA4Y2EzOWE4OTM3YTg4NGI3MzQwNGQwNTU1M2QiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "timber",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§fTimber"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Mountain Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+1 Chocolate §7and §60.002x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYwMjI1NiwKICAicHJvZmlsZUlkIiA6ICJkMTQ4NjFiM2UwZmM0Njk5OTFlMTcyNTllMzdiZjZhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJyYXhpdG9jbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jOTU1YjNlOTZmMjBiNmUzMDg2ZDFmMGU3ZThiNDNjMWFkNTg2ZjI0Njc5NjU0NWMwNjFlY2I1YmY1NjNiMTUxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "traffic",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§aTraffic"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a City Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+2 Chocolate §7and §60.003x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ3NDU0OSwKICAicHJvZmlsZUlkIiA6ICI4ZGQ5OWEzMDEwMDA0NTRiYmYwNGU5Mjk3NGIzYWNmMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQeXIwdGVjaG5payIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YmUyZWU2NTYzMDNhYmYzMTJkYjYyZWQ3MGJhYWNiNjU0N2MyYTVmNzlhMDg5ZDFiZGMwZWNhOTc5NzZmNzdkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "tundra",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Tundra"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Mountain Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+4 Chocolate §7and §60.004x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYyODU3OCwKICAicHJvZmlsZUlkIiA6ICIxNDM3N2ZjOGU1NTg0NGQwOTg2ZDkyMjY3ODRiMjQxZiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwVGlja0RlbGF5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUyMGQzOGIyZDliMTJkNjJhNzNlMmY0N2JhNzFhNDVlMmE2OTAyYmZhYmMxNjJlYTBhMDA1MWNmZWYyZWI4ODMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "tunnel",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§aTunnel"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a City Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+2 Chocolate §7and §60.003x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ3NDU0OSwKICAicHJvZmlsZUlkIiA6ICI4ZGQ5OWEzMDEwMDA0NTRiYmYwNGU5Mjk3NGIzYWNmMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQeXIwdGVjaG5payIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YmUyZWU2NTYzMDNhYmYzMTJkYjYyZWQ3MGJhYWNiNjU0N2MyYTVmNzlhMDg5ZDFiZGMwZWNhOTc5NzZmNzdkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "twigy",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§fTwigy"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Country Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+1 Chocolate §7and §60.002x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ4MjQ1NSwKICAicHJvZmlsZUlkIiA6ICI0OThjYTc2ZGYwODM0NzhmOGY0NjdjOGY1OTQwMjk1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHdWx0cm8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWYyZDAyNzUzNDE5NjAwNDRhYzA2NDZhMTdjMjJkZmE4MmU4ZGQzMTVlYjQ4ZjRkOTAxYmY1MTNiOTk2NzQyNSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "valley",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§aValley"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a Mountain Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+2 Chocolate §7and §60.003x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYzNjgxMCwKICAicHJvZmlsZUlkIiA6ICI2NmRmYzFmNTRlNTU0ZTZmODJjNTA5ZjM1NTJiYTkwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJadWFyaWciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWI1OTg0ZDIwNTgxMjAxMjJkOGQzNjQ4ZDYyOTViOTQxZDA4MGY2NzE1YTYzODdkY2FkNzYxMjFjOGVhMzkxMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "faction_rabbit_id": "walker",
+        "id": "FACTION_RABBIT"
+      },
+      "minecraft:custom_name": {
+        "text": "§9Walker"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7This is a City Faction Rabbit!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+4 Chocolate §7and §60.004x"
+        },
+        {
+          "text": "§6Chocolate §7per second to your"
+        },
+        {
+          "text": "§6Chocolate Factory§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight click to add to your Factory!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE RABBIT"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ2NzM4NiwKICAicHJvZmlsZUlkIiA6ICJhZmEwYmMzZTA1MjQ0MTM4YjkxMDIxY2Y3ODE2YjRkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbGV4aXNNYWRkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlNjU0MWUzYjNkMTUxNTgyNGEwNWVhMDlhYjA2N2Y4OWE3ZjA4Y2EzOWE4OTM3YTg4NGI3MzQwNGQwNTU1M2QiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
     }
   },
   {
@@ -164094,11 +168105,12 @@
           "text": "§9§lRARE FISHING ROD"
         }
       ],
+      "minecraft:item_model": "hypixel_skyblock:item/fishing/rod/broken_rod",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -177997,12 +182009,6 @@
       "minecraft:lore": [
         {
           "text": "§8Minion Upgrade"
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§7Health: §c+72"
         },
         {
           "text": ""
@@ -307667,7 +311673,7 @@
           "text": "§6Ability: Leap  §e§lRIGHT CLICK"
         },
         {
-          "text": "§7Leap into the air and deal §c406§7 damage to"
+          "text": "§7Leap into the air and deal §c400§7 damage to"
         },
         {
           "text": "§7nearby enemies upon landing on the ground."
@@ -307701,13 +311707,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -327654,7 +331658,7 @@
           "text": ""
         },
         {
-          "text": "§7§cThis rod is broken and cannot be"
+          "text": "§cThis rod is broken and cannot be"
         },
         {
           "text": "§cused to fish."
@@ -327672,7 +331676,7 @@
           "text": ""
         },
         {
-          "text": "§7§8This item can be reforged!"
+          "text": "§8This item can be reforged!"
         },
         {
           "text": "§7§4❣ §cRequires §aFishing Skill 5§c."
@@ -327680,7 +331684,25 @@
         {
           "text": "§f§lCOMMON FISHING ROD"
         }
-      ]
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/fishing/rod/broken_rod",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
     }
   },
   {
@@ -352299,9 +356321,6 @@
           "text": "§7Damage: §c+120"
         },
         {
-          "text": "§7Strength: §c+15"
-        },
-        {
           "text": "§7Ferocity: §c+50"
         },
         {
@@ -352311,7 +356330,7 @@
           "text": ""
         },
         {
-          "text": "§7§cThis rod is broken and cannot be"
+          "text": "§cThis rod is broken and cannot be"
         },
         {
           "text": "§cused to fish."
@@ -352329,7 +356348,7 @@
           "text": ""
         },
         {
-          "text": "§7§8This item can be reforged!"
+          "text": "§8This item can be reforged!"
         },
         {
           "text": "§7§4❣ §cRequires §aFishing Skill 20§c."
@@ -352337,7 +356356,25 @@
         {
           "text": "§6§lLEGENDARY FISHING ROD"
         }
-      ]
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/fishing/rod/broken_rod",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
     }
   },
   {
@@ -380978,7 +385015,7 @@
           "text": ""
         },
         {
-          "text": "§7§cThis rod is broken and cannot be"
+          "text": "§cThis rod is broken and cannot be"
         },
         {
           "text": "§cused to fish."
@@ -380996,7 +385033,7 @@
           "text": ""
         },
         {
-          "text": "§7§8This item can be reforged!"
+          "text": "§8This item can be reforged!"
         },
         {
           "text": "§7§4❣ §cRequires §aFishing Skill 25§c."
@@ -381004,7 +385041,25 @@
         {
           "text": "§5§lEPIC FISHING ROD"
         }
-      ]
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/fishing/rod/broken_rod",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {

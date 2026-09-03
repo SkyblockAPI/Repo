@@ -31965,15 +31965,15 @@
           "§7Farming Fortune: §6+{FARMING_FORTUNE}",
           "",
           "§6Garden Power",
-          "§7Grants §6+{0}☘ Farming Fortune §7per",
+          "§7Grants §6+{0} Farming Fortune §7per",
           "§aFarming §7level.",
           "",
           "§6Rosy Scales",
-          "§7Grants §6+{1}☘ Farming Fortune §7and",
-          "§f+{2}✦ Speed §7per Crop Milestone.",
+          "§7Grants §6+{1} Farming Fortune §7and",
+          "§f+{2} Speed §7per Crop Milestone.",
           "",
           "§6Dragon's Gluttony",
-          "§7Grants §e+{3}☀ Overbloom§7.",
+          "§7Grants §e+{3} Overbloom§7.",
           "",
           "§6Spiritual Perfection",
           "§7Gain §a{4}% §7more §cCopper §7from §aGarden",
@@ -31981,7 +31981,7 @@
           "",
           "§6Symbiosis",
           "§7If you own a level §a200 Rose Dragon§7,",
-          "§7grants §6+3☘ Farming Fortune §7for",
+          "§7grants §6+3 Farming Fortune §7for",
           "§7every other unique maxed §aFarming",
           "§aPet §7that you own.",
           "",
@@ -32047,7 +32047,7 @@
                 "text": "§6Garden Power"
               },
               {
-                "text": "§7Grants §6+{0}☘ Farming Fortune §7per"
+                "text": "§7Grants §6+{0} Farming Fortune §7per"
               },
               {
                 "text": "§aFarming §7level."
@@ -32059,10 +32059,10 @@
                 "text": "§6Rosy Scales"
               },
               {
-                "text": "§7Grants §6+{1}☘ Farming Fortune §7and"
+                "text": "§7Grants §6+{1} Farming Fortune §7and"
               },
               {
-                "text": "§f+{2}✦ Speed §7per Crop Milestone."
+                "text": "§f+{2} Speed §7per Crop Milestone."
               },
               {
                 "text": ""
@@ -32071,7 +32071,7 @@
                 "text": "§6Dragon's Gluttony"
               },
               {
-                "text": "§7Grants §e+{3}☀ Overbloom§7."
+                "text": "§7Grants §e+{3} Overbloom§7."
               },
               {
                 "text": ""
@@ -32095,7 +32095,7 @@
                 "text": "§7If you own a level §a200 Rose Dragon§7,"
               },
               {
-                "text": "§7grants §6+3☘ Farming Fortune §7for"
+                "text": "§7grants §6+3 Farming Fortune §7for"
               },
               {
                 "text": "§7every other unique maxed §aFarming"

@@ -7088,6 +7088,13 @@
   },
   {
     "type": "item",
+    "id": "CRUNCHY_BUG",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Crunchy_Bug"
+    }
+  },
+  {
+    "type": "item",
     "id": "CRUXMOTION",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Cruxmotion"
@@ -9535,6 +9542,20 @@
   },
   {
     "type": "item",
+    "id": "ELLES_LAVA_ROD",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Elle%27s_Lava_Rod"
+    }
+  },
+  {
+    "type": "item",
+    "id": "ELLES_PICKAXE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Elle%27s_Pickaxe"
+    }
+  },
+  {
+    "type": "item",
     "id": "EMBER_BOOTS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Ember_Boots"
@@ -11772,6 +11793,90 @@
     "type": "item",
     "id": "EYE_OF_ENDER",
     "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Canyon"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Crag"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Eagle"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Granite"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Marigold"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mayor"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minister"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Oasis"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Splash"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sunset"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Timber"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Walker"
+    }
   },
   {
     "type": "item",
@@ -19325,6 +19430,13 @@
     "id": "KUUDRA_RELIC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Kuudra_Relic"
+    }
+  },
+  {
+    "type": "item",
+    "id": "KUUDRA_SHOP_ITEM",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Open_Shop"
     }
   },
   {
@@ -58042,6 +58154,13 @@
     "id": "ATTRIBUTE_SHARD_RABBIT_CREW;1",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Carrot_King_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_RABBIT_YOUTH;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Chocobun_Shard"
     }
   },
   {
