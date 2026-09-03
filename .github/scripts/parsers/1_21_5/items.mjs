@@ -114,7 +114,7 @@ export const buildItemStack = (item) => {
                     item.internalname.startsWith("PARTY_HAT") ||
                     item.internalname.startsWith("BALLOON_HAT") ||
                     item.internalname.startsWith("ABICASE") ||
-                    item.internalname == "FACTION_RABBIT"
+                    item.internalname.startsWith("FACTION_RABBIT")
                 ) {
                     value.id = item.nbt.ExtraAttributes.id;
                 }

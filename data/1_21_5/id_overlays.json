@@ -11796,84 +11796,84 @@
   },
   {
     "type": "item",
-    "id": "FACTION_RABBIT",
+    "id": "FACTION_RABBIT_CANYON",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Canyon"
     }
   },
   {
     "type": "item",
-    "id": "FACTION_RABBIT",
+    "id": "FACTION_RABBIT_CRAG",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Crag"
     }
   },
   {
     "type": "item",
-    "id": "FACTION_RABBIT",
+    "id": "FACTION_RABBIT_EAGLE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Eagle"
     }
   },
   {
     "type": "item",
-    "id": "FACTION_RABBIT",
+    "id": "FACTION_RABBIT_GRANITE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Granite"
     }
   },
   {
     "type": "item",
-    "id": "FACTION_RABBIT",
+    "id": "FACTION_RABBIT_MARIGOLD",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Marigold"
     }
   },
   {
     "type": "item",
-    "id": "FACTION_RABBIT",
+    "id": "FACTION_RABBIT_MAYOR",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Mayor"
     }
   },
   {
     "type": "item",
-    "id": "FACTION_RABBIT",
+    "id": "FACTION_RABBIT_MINISTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Minister"
     }
   },
   {
     "type": "item",
-    "id": "FACTION_RABBIT",
+    "id": "FACTION_RABBIT_OASIS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Oasis"
     }
   },
   {
     "type": "item",
-    "id": "FACTION_RABBIT",
+    "id": "FACTION_RABBIT_SPLASH",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Splash"
     }
   },
   {
     "type": "item",
-    "id": "FACTION_RABBIT",
+    "id": "FACTION_RABBIT_SUNSET",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Sunset"
     }
   },
   {
     "type": "item",
-    "id": "FACTION_RABBIT",
+    "id": "FACTION_RABBIT_TIMBER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Timber"
     }
   },
   {
     "type": "item",
-    "id": "FACTION_RABBIT",
+    "id": "FACTION_RABBIT_WALKER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Walker"
     }

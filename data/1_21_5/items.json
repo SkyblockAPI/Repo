@@ -106014,7 +106014,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "alley",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_ALLEY"
       },
       "minecraft:custom_name": {
         "text": "§fAlley"
@@ -106080,7 +106080,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "anchor",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_ANCHOR"
       },
       "minecraft:custom_name": {
         "text": "§aAnchor"
@@ -106146,7 +106146,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "aster",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_ASTER"
       },
       "minecraft:custom_name": {
         "text": "§9Aster"
@@ -106212,7 +106212,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "avalanche",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_AVALANCHE"
       },
       "minecraft:custom_name": {
         "text": "§5Avalanche"
@@ -106278,7 +106278,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "canyon",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_CANYON"
       },
       "minecraft:custom_name": {
         "text": "§aCanyon"
@@ -106344,7 +106344,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "chasm",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_CHASM"
       },
       "minecraft:custom_name": {
         "text": "§fChasm"
@@ -106410,7 +106410,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "clover",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_CLOVER"
       },
       "minecraft:custom_name": {
         "text": "§aClover"
@@ -106476,7 +106476,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "cobble",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_COBBLE"
       },
       "minecraft:custom_name": {
         "text": "§fCobble"
@@ -106542,7 +106542,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "coconut",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_COCONUT"
       },
       "minecraft:custom_name": {
         "text": "§9Coconut"
@@ -106608,7 +106608,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "crag",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_CRAG"
       },
       "minecraft:custom_name": {
         "text": "§9Crag"
@@ -106674,7 +106674,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "daisy",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_DAISY"
       },
       "minecraft:custom_name": {
         "text": "§fDaisy"
@@ -106740,7 +106740,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "dune",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_DUNE"
       },
       "minecraft:custom_name": {
         "text": "§5Dune"
@@ -106806,7 +106806,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "eagle",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_EAGLE"
       },
       "minecraft:custom_name": {
         "text": "§9Eagle"
@@ -106872,7 +106872,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "glacier",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_GLACIER"
       },
       "minecraft:custom_name": {
         "text": "§fGlacier"
@@ -106938,7 +106938,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "graffiti",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_GRAFFITI"
       },
       "minecraft:custom_name": {
         "text": "§aGraffiti"
@@ -107004,7 +107004,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "granite",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_GRANITE"
       },
       "minecraft:custom_name": {
         "text": "§fGranite"
@@ -107070,7 +107070,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "haybale",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_HAYBALE"
       },
       "minecraft:custom_name": {
         "text": "§fHaybale"
@@ -107136,7 +107136,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "hazel",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_HAZEL"
       },
       "minecraft:custom_name": {
         "text": "§fHazel"
@@ -107202,7 +107202,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "horizon",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_HORIZON"
       },
       "minecraft:custom_name": {
         "text": "§6Horizon"
@@ -107265,7 +107265,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "icefur",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_ICEFUR"
       },
       "minecraft:custom_name": {
         "text": "§aIcefur"
@@ -107331,7 +107331,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "iris",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_IRIS"
       },
       "minecraft:custom_name": {
         "text": "§9Iris"
@@ -107397,7 +107397,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "juniper",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_JUNIPER"
       },
       "minecraft:custom_name": {
         "text": "§5Juniper"
@@ -107463,7 +107463,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "lagoon",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_LAGOON"
       },
       "minecraft:custom_name": {
         "text": "§aLagoon"
@@ -107529,7 +107529,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "lavender",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_LAVENDER"
       },
       "minecraft:custom_name": {
         "text": "§5Lavender"
@@ -107595,7 +107595,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "marigold",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_MARIGOLD"
       },
       "minecraft:custom_name": {
         "text": "§aMarigold"
@@ -107661,7 +107661,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "mayor",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_MAYOR"
       },
       "minecraft:custom_name": {
         "text": "§6Mayor"
@@ -107724,7 +107724,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "minister",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_MINISTER"
       },
       "minecraft:custom_name": {
         "text": "§5Minister"
@@ -107790,7 +107790,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "mistral",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_MISTRAL"
       },
       "minecraft:custom_name": {
         "text": "§fMistral"
@@ -107856,7 +107856,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "mocktail",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_MOCKTAIL"
       },
       "minecraft:custom_name": {
         "text": "§aMocktail"
@@ -107922,7 +107922,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "moss",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_MOSS"
       },
       "minecraft:custom_name": {
         "text": "§aMoss"
@@ -107988,7 +107988,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "nectar",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_NECTAR"
       },
       "minecraft:custom_name": {
         "text": "§aNectar"
@@ -108054,7 +108054,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "neon",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_NEON"
       },
       "minecraft:custom_name": {
         "text": "§5Neon"
@@ -108120,7 +108120,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "oasis",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_OASIS"
       },
       "minecraft:custom_name": {
         "text": "§9Oasis"
@@ -108186,7 +108186,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "palm",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_PALM"
       },
       "minecraft:custom_name": {
         "text": "§fPalm"
@@ -108252,7 +108252,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "peon",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_PEON"
       },
       "minecraft:custom_name": {
         "text": "§fPeon"
@@ -108318,7 +108318,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "root",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_ROOT"
       },
       "minecraft:custom_name": {
         "text": "§fRoot"
@@ -108384,7 +108384,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "rosebud",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_ROSEBUD"
       },
       "minecraft:custom_name": {
         "text": "§6Rosebud"
@@ -108447,7 +108447,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "sandy",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_SANDY"
       },
       "minecraft:custom_name": {
         "text": "§fSandy"
@@ -108513,7 +108513,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "scree",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_SCREE"
       },
       "minecraft:custom_name": {
         "text": "§aScree"
@@ -108579,7 +108579,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "seabun",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_SEABUN"
       },
       "minecraft:custom_name": {
         "text": "§aSeabun"
@@ -108645,7 +108645,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "seashell",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_SEASHELL"
       },
       "minecraft:custom_name": {
         "text": "§fSeashell"
@@ -108711,7 +108711,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "shortcut",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_SHORTCUT"
       },
       "minecraft:custom_name": {
         "text": "§9Shortcut"
@@ -108777,7 +108777,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "silo",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_SILO"
       },
       "minecraft:custom_name": {
         "text": "§9Silo"
@@ -108843,7 +108843,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "skyrise",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_SKYRISE"
       },
       "minecraft:custom_name": {
         "text": "§aSkyrise"
@@ -108909,7 +108909,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "speedy",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_SPEEDY"
       },
       "minecraft:custom_name": {
         "text": "§fSpeedy"
@@ -108975,7 +108975,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "splash",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_SPLASH"
       },
       "minecraft:custom_name": {
         "text": "§fSplash"
@@ -109041,7 +109041,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "starfish",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_STARFISH"
       },
       "minecraft:custom_name": {
         "text": "§9Starfish"
@@ -109107,7 +109107,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "subway",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_SUBWAY"
       },
       "minecraft:custom_name": {
         "text": "§fSubway"
@@ -109173,7 +109173,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "summit",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_SUMMIT"
       },
       "minecraft:custom_name": {
         "text": "§5Summit"
@@ -109239,7 +109239,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "sunset",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_SUNSET"
       },
       "minecraft:custom_name": {
         "text": "§6Sunset"
@@ -109302,7 +109302,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "surf",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_SURF"
       },
       "minecraft:custom_name": {
         "text": "§5Surf"
@@ -109368,7 +109368,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "tan",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_TAN"
       },
       "minecraft:custom_name": {
         "text": "§fTan"
@@ -109434,7 +109434,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "taxi",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_TAXI"
       },
       "minecraft:custom_name": {
         "text": "§9Taxi"
@@ -109500,7 +109500,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "timber",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_TIMBER"
       },
       "minecraft:custom_name": {
         "text": "§fTimber"
@@ -109566,7 +109566,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "traffic",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_TRAFFIC"
       },
       "minecraft:custom_name": {
         "text": "§aTraffic"
@@ -109632,7 +109632,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "tundra",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_TUNDRA"
       },
       "minecraft:custom_name": {
         "text": "§9Tundra"
@@ -109698,7 +109698,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "tunnel",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_TUNNEL"
       },
       "minecraft:custom_name": {
         "text": "§aTunnel"
@@ -109764,7 +109764,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "twigy",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_TWIGY"
       },
       "minecraft:custom_name": {
         "text": "§fTwigy"
@@ -109830,7 +109830,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "valley",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_VALLEY"
       },
       "minecraft:custom_name": {
         "text": "§aValley"
@@ -109896,7 +109896,7 @@
     "components": {
       "minecraft:custom_data": {
         "faction_rabbit_id": "walker",
-        "id": "FACTION_RABBIT"
+        "id": "FACTION_RABBIT_WALKER"
       },
       "minecraft:custom_name": {
         "text": "§9Walker"
