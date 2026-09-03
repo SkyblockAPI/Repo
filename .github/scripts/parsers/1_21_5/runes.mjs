@@ -18,6 +18,11 @@ export const Runes = {
         const tier = runes[rune];
 
         runeIds.push(rune);
+
+        if (runesFile[rune] && runesFile[rune].some(r => r.tier === tier)) {
+            console.warn(`[WARN] (Runes) Duplicate rune ID and tier found: ${rune} ${tier}`);
+        }
+
         const runeInfo = runesFile[rune] || []
         runeInfo.push({
             tier: tier,

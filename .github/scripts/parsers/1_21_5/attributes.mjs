@@ -46,6 +46,10 @@ export const Attributes = {
         }
         attributeIds.push(attributeId)
 
+        if (attributesFile.some(a => a.id === attributeId)) {
+            console.warn(`[WARN] (Attributes) Duplicate attribute ID found: ${attributeId}`);
+        }
+
         const attribute = {
             id: attributeId,
             lore: newLore,

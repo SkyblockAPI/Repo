@@ -60,6 +60,9 @@ export const Mobs = {
     /** @param item {Item} */
     parseMob: (item) => {
         const realId = item.internalname.replace("MAYOR_MONSTER", "MAYOR");
+        if (mobsFile.hasOwnProperty(realId)) {
+            console.warn(`[WARN] (Mobs) Duplicate mob ID found: ${realId}`);
+        }
         const [, realName, type] = item.displayname.match(/^§.(.*?)(?: \(([^)]+)\))?$/) || [];
 
         const lootTables = [];

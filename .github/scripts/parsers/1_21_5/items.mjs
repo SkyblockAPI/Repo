@@ -138,6 +138,11 @@ export const Items = {
         const itemStack = buildItemStack(item);
         if (!itemStack) return;
 
+        const skyblockId = itemStack.components["minecraft:custom_data"]?.id;
+        if (skyblockId && itemsFile.some(existing => existing.components["minecraft:custom_data"]?.id === skyblockId)) {
+            console.warn(`[WARN] (Items) Duplicate item ID found: ${skyblockId}`);
+        }
+
         itemsFile.push(itemStack);
 
         const overlayProps = getOverlay(item);

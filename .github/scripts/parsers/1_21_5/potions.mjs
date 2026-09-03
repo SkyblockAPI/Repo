@@ -149,6 +149,11 @@ export const Potions = {
 
 
         potionIds.push(potionId)
+
+        if (potionFile[potionId] && potionFile[potionId].levels.some(l => l.level === potionLevel)) {
+            console.warn(`[WARN] (Potions) Duplicate potion ID and level found: ${potionId} ${potionLevel}`);
+        }
+
         const potion = potionFile[potionId] || {
             levels: [],
             internal_name: item.nbt.ExtraAttributes.potion_name || undefined,

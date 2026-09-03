@@ -39,6 +39,11 @@ export const Enchantments = {
         if (isLegacy) item.lore.shift()
 
         enchantmentIds.push(enchantId)
+
+        if (enchantmentFile[enchantId] && enchantmentFile[enchantId].levels.some(l => l.level === enchantLevel)) {
+            console.warn(`[WARN] (Enchantments) Duplicate enchantment ID and level found: ${enchantId} ${enchantLevel}`);
+        }
+
         const enchant = enchantmentFile[enchantId] || {
             id: enchantId,
             levels: [],
