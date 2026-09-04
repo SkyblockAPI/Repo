@@ -23988,6 +23988,83 @@
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
+        "id": "BIOHAZARD_CONTROL"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Hazard Control Skin"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Combinable in Anvil"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Item skins give your gear a fresh"
+        },
+        {
+          "text": "§7new look! Apply them just like an"
+        },
+        {
+          "text": "§7enchant book using the anvil."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This skin can be applied to §aBiohazard"
+        },
+        {
+          "text": "§aHelmet§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§aThis skin is swappable between 21"
+        },
+        {
+          "text": "§ahazard control variants!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6§lLEGENDARY COSMETIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4ODMyMzg3NjY4MywKICAicHJvZmlsZUlkIiA6ICI2M2VkZjY1ZDcxNmE0NGZmYmUzOWU5MWVkMmNiMjM3YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2aWxlX3NsYXZlbWFzdGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EzZTg0N2JmMWJhYzcwNDRjZGIzNmQwZTczMDEwMjcwNjNmYzk5ZDc1MDE2NmFhMTJmYzNmMTUxYWNhYWMyOTUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
         "id": "BIOHAZARD_HELMET"
       },
       "minecraft:custom_name": {
@@ -31431,7 +31508,7 @@
           "text": "§8‣ §3+25☯ §7on all §3Wisdom §7stats"
         },
         {
-          "text": "§8‣ §b+15✯ §7Magic Find"
+          "text": "§8‣ §b+15 §7Magic Find"
         },
         {
           "text": "§8‣ §7Keep §6coins §7on death"
@@ -31479,7 +31556,7 @@
           "text": "§8‣ §7Allows consuming §9Mixins §7directly from your inventory"
         },
         {
-          "text": "§8‣ §7Call §aAbiphone Contacts §7with §b/call"
+          "text": "§8‣ §7Call §3Abiphone Contacts §7with §b/call"
         },
         {
           "text": ""
@@ -31492,7 +31569,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -128169,7 +128246,7 @@
           "text": "§8‣ §3+25☯ §7on all §3Wisdom §7stats"
         },
         {
-          "text": "§8‣ §b+15✯ §7Magic Find"
+          "text": "§8‣ §b+15 §7Magic Find"
         },
         {
           "text": "§8‣ §7Keep §6coins §7on death"
@@ -128217,7 +128294,7 @@
           "text": "§8‣ §7Allows consuming §9Mixins §7directly from your inventory"
         },
         {
-          "text": "§8‣ §7Call §aAbiphone Contacts §7with §b/call"
+          "text": "§8‣ §7Call §3Abiphone Contacts §7with §b/call"
         },
         {
           "text": ""
@@ -290579,7 +290656,7 @@
           "text": "§8‣ §3+25☯ §7on all §3Wisdom §7stats"
         },
         {
-          "text": "§8‣ §b+15✯ §7Magic Find"
+          "text": "§8‣ §b+15 §7Magic Find"
         },
         {
           "text": "§8‣ §7Keep §6coins §7on death"
@@ -290627,7 +290704,7 @@
           "text": "§8‣ §7Allows consuming §9Mixins §7directly from your inventory"
         },
         {
-          "text": "§8‣ §7Call §aAbiphone Contacts §7with §b/call"
+          "text": "§8‣ §7Call §3Abiphone Contacts §7with §b/call"
         },
         {
           "text": ""

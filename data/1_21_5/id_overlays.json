@@ -11796,86 +11796,422 @@
   },
   {
     "type": "item",
+    "id": "FACTION_RABBIT_ALLEY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_ANCHOR",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_ASTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_AVALANCHE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
     "id": "FACTION_RABBIT_CANYON",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Canyon"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_CHASM",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_CLOVER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_COBBLE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_COCONUT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
     }
   },
   {
     "type": "item",
     "id": "FACTION_RABBIT_CRAG",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Crag"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_DAISY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_DUNE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
     }
   },
   {
     "type": "item",
     "id": "FACTION_RABBIT_EAGLE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Eagle"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_GLACIER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_GRAFFITI",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
     }
   },
   {
     "type": "item",
     "id": "FACTION_RABBIT_GRANITE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Granite"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_HAYBALE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_HAZEL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_HORIZON",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_ICEFUR",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_IRIS",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_JUNIPER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_LAGOON",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_LAVENDER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
     }
   },
   {
     "type": "item",
     "id": "FACTION_RABBIT_MARIGOLD",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Marigold"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
     }
   },
   {
     "type": "item",
     "id": "FACTION_RABBIT_MAYOR",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mayor"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
     }
   },
   {
     "type": "item",
     "id": "FACTION_RABBIT_MINISTER",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Minister"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_MISTRAL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_MOCKTAIL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_MOSS",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_NECTAR",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_NEON",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
     }
   },
   {
     "type": "item",
     "id": "FACTION_RABBIT_OASIS",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Oasis"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_PALM",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_PEON",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_ROOT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_ROSEBUD",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_SANDY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_SCREE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_SEABUN",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_SEASHELL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_SHORTCUT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_SILO",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_SKYRISE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_SPEEDY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
     }
   },
   {
     "type": "item",
     "id": "FACTION_RABBIT_SPLASH",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Splash"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_STARFISH",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_SUBWAY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_SUMMIT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
     }
   },
   {
     "type": "item",
     "id": "FACTION_RABBIT_SUNSET",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sunset"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_SURF",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_TAN",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_TAXI",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
     }
   },
   {
     "type": "item",
     "id": "FACTION_RABBIT_TIMBER",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Timber"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_TRAFFIC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_TUNDRA",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_TUNNEL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_TWIGY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FACTION_RABBIT_VALLEY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
     }
   },
   {
     "type": "item",
     "id": "FACTION_RABBIT_WALKER",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Walker"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
     }
   },
   {
