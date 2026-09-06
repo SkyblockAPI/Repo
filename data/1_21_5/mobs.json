@@ -39497,7 +39497,10 @@
             "text": "§aRedemption"
           },
           {
-            "text": "§7Heals rapidly."
+            "text": "§7Heals rapidly and is immune to magic"
+          },
+          {
+            "text": "§7damage."
           },
           {
             "text": ""
@@ -49077,7 +49080,7 @@
             "text": "§7Occasionally leaps behind you. Attacks"
           },
           {
-            "text": "§7from behind deal §c50% Damage§7."
+            "text": "§7from behind deal §c+20% Damage§7."
           }
         ],
         "minecraft:profile": {
@@ -49175,7 +49178,7 @@
             "text": "§7Occasionally leaps behind you. Attacks"
           },
           {
-            "text": "§7from behind deal §c+75% Damage§7."
+            "text": "§7from behind deal §c+30% Damage§7."
           },
           {
             "text": ""
@@ -49184,7 +49187,7 @@
             "text": "§eNoxious Paralysis"
           },
           {
-            "text": "§7Reduces your §4♨ Vitality§7 by §c25% §7and §f✦"
+            "text": "§7Reduces your §4 Vitality§7 by §c15% §7and §f"
           },
           {
             "text": "Speed§7 by §c10%§7."
@@ -49305,7 +49308,7 @@
             "text": "§7Occasionally leaps behind you. Attacks"
           },
           {
-            "text": "§7from behind deal §c+100% Damage§7."
+            "text": "§7from behind deal §c+40% Damage§7."
           },
           {
             "text": ""
@@ -49314,7 +49317,7 @@
             "text": "§eNoxious Paralysis"
           },
           {
-            "text": "§7Reduces your §4♨ Vitality§7 by §c50% §7and §f✦"
+            "text": "§7Reduces your §4 Vitality§7 by §c30% §7and §f"
           },
           {
             "text": "Speed§7 by §c25%§7."
@@ -49497,7 +49500,7 @@
             "text": "§7Occasionally leaps behind you. Attacks"
           },
           {
-            "text": "§7from behind deal §c+125% Damage§7."
+            "text": "§7from behind deal §c+60% Damage§7."
           },
           {
             "text": ""
@@ -49506,7 +49509,7 @@
             "text": "§eNoxious Paralysis"
           },
           {
-            "text": "§7Reduces your §4♨ Vitality§7 by §c75% §7and §f✦"
+            "text": "§7Reduces your §4 Vitality§7 by §c50% §7and §f"
           },
           {
             "text": "Speed§7 by §c50%§7."
@@ -49542,7 +49545,7 @@
             "text": "§cBat Barrage"
           },
           {
-            "text": "§7Releases a horde of evil bats. Take §c1%"
+            "text": "§7Releases a horde of evil bats. Take §c0.1%"
           },
           {
             "text": "§7Max §c❤§7 per second for each bat alive."
@@ -49718,7 +49721,7 @@
             "text": "§7Health: §c10,000,000❤"
           },
           {
-            "text": "§7Damage: §c3,500 §7per second"
+            "text": "§7Damage: §c2,200 §7per second"
           },
           {
             "text": ""
@@ -49730,7 +49733,7 @@
             "text": "§7Occasionally leaps behind you. Attacks"
           },
           {
-            "text": "§7from behind deal §c+150% Damage§7."
+            "text": "§7from behind deal §c+80% Damage§7."
           },
           {
             "text": ""
@@ -49739,10 +49742,10 @@
             "text": "§eNoxious Paralysis"
           },
           {
-            "text": "§7Reduces your §4♨ Vitality§7 by §c100%§7, §f✦"
+            "text": "§7Reduces your §4 Vitality§7 by §c75%§7, §f Speed§7"
           },
           {
-            "text": "Speed§7 by §c75%§7, and disables §6Absorption§7."
+            "text": "§7by §c75%§7, and disables §6Absorption§7."
           },
           {
             "text": ""
@@ -49757,7 +49760,7 @@
             "text": "§7webbing along the ground, disabling"
           },
           {
-            "text": "§7§5teleportation§7 abilities until they are"
+            "text": "§5teleportation§7 abilities until they are"
           },
           {
             "text": "§7cleared, and spawns §a4§7 egg sacs in the"
@@ -49775,10 +49778,10 @@
             "text": "§cBat Barrage"
           },
           {
-            "text": "§7Releases a horde of evil bats. Take §c2%"
+            "text": "§7Releases a horde of evil bats. Take §c0.2%"
           },
           {
-            "text": "§c§7Max §c❤§7 per second for each bat alive."
+            "text": "§7Max §c❤§7 per second for each bat alive."
           },
           {
             "text": ""
@@ -49796,7 +49799,7 @@
             "text": "§7Broodfather, creating the Conjoined"
           },
           {
-            "text": "§7Brood. The Brood has 2x §c❤ Health§7 and §c❁"
+            "text": "§7Brood. The Brood has 2x §c Health§7 and §c"
           },
           {
             "text": "§cDamage §7but only uses §6passive§7 abilities."
@@ -52938,7 +52941,7 @@
             "text": "§7Health: §c300,000❤"
           },
           {
-            "text": "§7Damage: §c1.200 §7per second"
+            "text": "§7Damage: §c800 §7per second"
           },
           {
             "text": ""
@@ -52947,7 +52950,7 @@
             "text": "§aMalevolent Hitshield"
           },
           {
-            "text": "§8At 100%/66%/33% Hp"
+            "text": "§8At 100%/66%/33% HP"
           },
           {
             "text": "§7Immunity shield dropped by hits"
@@ -52956,10 +52959,10 @@
             "text": "§7regardless of damage."
           },
           {
-            "text": "§7Receives §c-75% ⫽ Ferocity"
+            "text": "§7Receives §c-75% §c Ferocity §7while NOT"
           },
           {
-            "text": "§7while NOT active."
+            "text": "§7active."
           }
         ],
         "minecraft:profile": {
@@ -53021,7 +53024,7 @@
             "text": "§7Health: §c12,000,000❤"
           },
           {
-            "text": "§7Damage: §c5,000 §7per second"
+            "text": "§7Damage: §c2,720 §7per second"
           },
           {
             "text": ""
@@ -53030,7 +53033,7 @@
             "text": "§aMalevolent Hitshield"
           },
           {
-            "text": "§8At 100%/66%/33% Hp"
+            "text": "§8At 100%/66%/33% HP"
           },
           {
             "text": "§7Immunity shield dropped by hits"
@@ -53039,10 +53042,10 @@
             "text": "§7regardless of damage."
           },
           {
-            "text": "§7Receives §c-75% ⫽ Ferocity"
+            "text": "§7Receives §c-75% §c Ferocity §7while NOT"
           },
           {
-            "text": "§7while NOT active."
+            "text": "§7active."
           },
           {
             "text": ""
@@ -53131,7 +53134,7 @@
             "text": "§7Health: §c50,000,000❤"
           },
           {
-            "text": "§7Damage: §c12,000 §7per second"
+            "text": "§7Damage: §c7,650 §7per second"
           },
           {
             "text": ""
@@ -53140,7 +53143,7 @@
             "text": "§aMalevolent Hitshield"
           },
           {
-            "text": "§8At 100%/66%/33% Hp"
+            "text": "§8At 100%/66%/33% HP"
           },
           {
             "text": "§7Immunity shield dropped by hits"
@@ -53149,10 +53152,10 @@
             "text": "§7regardless of damage."
           },
           {
-            "text": "§7Receives §c-75% ⫽ Ferocity"
+            "text": "§7Receives §c-75% §c Ferocity §7while NOT"
           },
           {
-            "text": "§7while NOT active."
+            "text": "§7active."
           },
           {
             "text": ""
@@ -53161,7 +53164,7 @@
             "text": "§cYang Glyphs"
           },
           {
-            "text": "§8Starting at 50% HP"
+            "text": "§8Starting at 66% HP"
           },
           {
             "text": "§7Throws glyphs down."
@@ -53284,7 +53287,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§8Challenging"
+            "text": "§8Guaranteed Doom"
           },
           {
             "text": ""
@@ -53293,7 +53296,7 @@
             "text": "§7Health: §c210,000,000❤"
           },
           {
-            "text": "§7Damage: §c21,000 §7per second"
+            "text": "§7Damage: §c11,000 §7per second"
           },
           {
             "text": ""
@@ -53302,7 +53305,7 @@
             "text": "§aMalevolent Hitshield"
           },
           {
-            "text": "§8At 100%/66%/33% Hp"
+            "text": "§8At 100%/66%/33% HP"
           },
           {
             "text": "§7Immunity shield dropped by hits"
@@ -53311,10 +53314,10 @@
             "text": "§7regardless of damage."
           },
           {
-            "text": "§7Receives §c-75% ⫽ Ferocity"
+            "text": "§7Receives §c-75% §c Ferocity §7while NOT"
           },
           {
-            "text": "§7while NOT active."
+            "text": "§7active."
           },
           {
             "text": ""
@@ -53323,7 +53326,7 @@
             "text": "§cYang Glyphs"
           },
           {
-            "text": "§8Starting at 50% HP"
+            "text": "§8Starting at 66% HP"
           },
           {
             "text": "§7Throws glyphs down."

@@ -23008,7 +23008,7 @@
           "text": ""
         },
         {
-          "text": "§7§7Gives §b+1✯ Magic Find §7for"
+          "text": "§7§7Gives §b+1 Magic Find §7for"
         },
         {
           "text": "§7each SkyBlock Level (Max 50)."
@@ -25852,7 +25852,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -49833,22 +49833,22 @@
           "text": "§7Grants the following:"
         },
         {
-          "text": "§8- §b+3✯ Magic Find"
+          "text": "§8- §b+3 Magic Find"
         },
         {
-          "text": "§8- §d+5❃ Tracking"
+          "text": "§8- §d+5 Tracking"
         },
         {
           "text": "§8- §3+3☯ Global Wisdom"
         },
         {
-          "text": "§8- §6+15☘ Farming Fortune"
+          "text": "§8- §6+15 Farming Fortune"
         },
         {
-          "text": "§8- §6+15☘ Foraging Fortune"
+          "text": "§8- §6+15 Foraging Fortune"
         },
         {
-          "text": "§8- §6+15☘ Mining Fortune"
+          "text": "§8- §6+15 Mining Fortune"
         },
         {
           "text": ""
@@ -49890,7 +49890,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -149792,6 +149792,12 @@
       },
       "minecraft:lore": [
         {
+          "text": "§8Consumable"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§aCarrot Candy §7gives pets boosts of §ePet EXP§7!"
         },
         {
@@ -149810,7 +149816,7 @@
           "text": "§eRight-click on your summoned pet to"
         },
         {
-          "text": "§efeed it this candy!"
+          "text": "§efeed it!"
         },
         {
           "text": ""
@@ -149823,7 +149829,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -174756,7 +174762,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Increases your total §b✎ Intelligence"
+          "text": "§7Accessory Power: §6+3"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Increases your total §b Intelligence"
         },
         {
           "text": "§7by §a1%§7."
@@ -174774,7 +174786,7 @@
           "text": "§8§l* §8Soulbound §8§l*"
         },
         {
-          "text": "§5§kX§5 Rift-Transferable §r§5§kX"
+          "text": "§5§kX§5 Rift-Transferable §5§kX"
         },
         {
           "text": "§8Works while in Accessory Bag!"
@@ -174795,7 +174807,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -219316,7 +219328,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Consume to boost your §b✎"
+          "text": "§7Consume to boost your §b"
         },
         {
           "text": "§bIntelligence §7for §a60m§7."
@@ -219328,7 +219340,7 @@
           "text": "§7Keep this item in your inventory to"
         },
         {
-          "text": "§7increase the bonus up to §b+300✎"
+          "text": "§7increase the bonus up to §b+300"
         },
         {
           "text": "§bIntelligence§7, at which point the item"
@@ -219340,7 +219352,7 @@
           "text": ""
         },
         {
-          "text": "§7Current Bonus: §b+0✎ Intelligence"
+          "text": "§7Current Bonus: §b+0 Intelligence"
         },
         {
           "text": ""
@@ -219353,7 +219365,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -236109,6 +236121,12 @@
       },
       "minecraft:lore": [
         {
+          "text": "§8Consumable"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§7Feeding this to your pets gives them"
         },
         {
@@ -236130,10 +236148,20 @@
           "text": "§f§lCOMMON"
         }
       ],
-      "minecraft:dyed_color": 10511680,
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:dyed_color"
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -236523,7 +236551,7 @@
           "text": ""
         },
         {
-          "text": "§7Gives §a+20% §7pet exp for Combat."
+          "text": "§7Gives §a+20% §7pet exp for §aCombat§7."
         },
         {
           "text": ""
@@ -236545,7 +236573,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -236597,7 +236625,7 @@
           "text": ""
         },
         {
-          "text": "§7Gives §a+50% §7pet exp for Combat."
+          "text": "§7Gives §a+50% §7pet exp for §aCombat§7."
         },
         {
           "text": ""
@@ -236619,7 +236647,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -236671,7 +236699,7 @@
           "text": ""
         },
         {
-          "text": "§7Gives §a+40% §7pet exp for Combat."
+          "text": "§7Gives §a+40% §7pet exp for §aCombat§7."
         },
         {
           "text": ""
@@ -236693,7 +236721,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -236745,7 +236773,7 @@
           "text": ""
         },
         {
-          "text": "§7Gives §a+30% §7pet exp for Combat."
+          "text": "§7Gives §a+30% §7pet exp for §aCombat§7."
         },
         {
           "text": ""
@@ -236767,7 +236795,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -236942,7 +236970,7 @@
           "text": ""
         },
         {
-          "text": "§7Gives §a+20% §7pet exp for Farming."
+          "text": "§7Gives §a+20% §7pet exp for §aFarming§7."
         },
         {
           "text": ""
@@ -236964,7 +236992,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -237016,7 +237044,7 @@
           "text": ""
         },
         {
-          "text": "§7Gives §a+50% §7pet exp for Farming."
+          "text": "§7Gives §a+50% §7pet exp for §aFarming§7."
         },
         {
           "text": ""
@@ -237038,7 +237066,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -237090,7 +237118,7 @@
           "text": ""
         },
         {
-          "text": "§7Gives §a+40% §7pet exp for Farming."
+          "text": "§7Gives §a+40% §7pet exp for §aFarming§7."
         },
         {
           "text": ""
@@ -237112,7 +237140,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -237164,7 +237192,7 @@
           "text": ""
         },
         {
-          "text": "§7Gives §a+30% §7pet exp for Farming."
+          "text": "§7Gives §a+30% §7pet exp for §aFarming§7."
         },
         {
           "text": ""
@@ -237186,7 +237214,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -237310,7 +237338,7 @@
           "text": ""
         },
         {
-          "text": "§7Gives §a+50% §7pet exp for Fishing."
+          "text": "§7Gives §a+50% §7pet exp for §aFishing§7."
         },
         {
           "text": ""
@@ -237332,7 +237360,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -237383,7 +237411,7 @@
           "text": ""
         },
         {
-          "text": "§7Gives §a+40% §7pet exp for Fishing."
+          "text": "§7Gives §a+40% §7pet exp for §aFishing§7."
         },
         {
           "text": ""
@@ -237405,7 +237433,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -237456,7 +237484,7 @@
           "text": ""
         },
         {
-          "text": "§7Gives §a+30% §7pet exp for Fishing."
+          "text": "§7Gives §a+30% §7pet exp for §aFishing§7."
         },
         {
           "text": ""
@@ -237478,7 +237506,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -237597,7 +237625,7 @@
           "text": ""
         },
         {
-          "text": "§7Gives §a+20% §7pet exp for Foraging."
+          "text": "§7Gives §a+20% §7pet exp for §aForaging§7."
         },
         {
           "text": ""
@@ -237619,7 +237647,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -237671,7 +237699,7 @@
           "text": ""
         },
         {
-          "text": "§7Gives §a+50% §7pet exp for Foraging."
+          "text": "§7Gives §a+50% §7pet exp for §aForaging§7."
         },
         {
           "text": ""
@@ -237693,7 +237721,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -238166,7 +238194,7 @@
           "text": ""
         },
         {
-          "text": "§7Gives §a+20% §7pet exp for Mining."
+          "text": "§7Gives §a+20% §7pet exp for §aMining§7."
         },
         {
           "text": ""
@@ -238188,7 +238216,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -238240,7 +238268,7 @@
           "text": ""
         },
         {
-          "text": "§7Gives §a+40% §7pet exp for Mining."
+          "text": "§7Gives §a+40% §7pet exp for §aMining§7."
         },
         {
           "text": ""
@@ -238262,7 +238290,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -238314,7 +238342,7 @@
           "text": ""
         },
         {
-          "text": "§7Gives §a+30% §7pet exp for Mining."
+          "text": "§7Gives §a+30% §7pet exp for §aMining§7."
         },
         {
           "text": ""
@@ -238336,7 +238364,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -259182,7 +259210,7 @@
           "text": ""
         },
         {
-          "text": "§7§7Pet skins change the look and"
+          "text": "§7Pet skins change the look and"
         },
         {
           "text": "§7particle trail of your pet but only"
@@ -259194,16 +259222,16 @@
           "text": ""
         },
         {
-          "text": "§7§7This skin can only be applied"
+          "text": "§7This skin can only be applied to §aRock"
         },
         {
-          "text": "§7to Rock pets."
+          "text": "§7pets."
         },
         {
           "text": ""
         },
         {
-          "text": "§7§eRight-click on your summoned pet to"
+          "text": "§eRight-click on your summoned pet to"
         },
         {
           "text": "§eapply this skin!"
@@ -259219,10 +259247,27 @@
         "properties": [
           {
             "name": "textures",
-            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGNjMWVmNTEzZDVmNjE2Njc1MjQyMTc0YWNkZTdiOWQ2MjU5YTQ3YzRmZThmNmU0YjZlMjA5MjAzMTlkNzA3MyJ9fX0K"
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTI4NzA0OTMxNSwKICAicHJvZmlsZUlkIiA6ICI5NGMzZGM3YTdiMmQ0NzQ1YmVlYjQzZDc2ZjRjNDVkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJEb25fVml0b0Nvcmxlb25lIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhjYzFlZjUxM2Q1ZjYxNjY3NTI0MjE3NGFjZGU3YjlkNjI1OWE0N2M0ZmU4ZjZlNGI2ZTIwOTIwMzE5ZDcwNzMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
           }
         ]
-      }
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
     }
   },
   {
@@ -282930,7 +282975,7 @@
           "text": ""
         },
         {
-          "text": "§7Grants §f+100✦ Speed Cap§7."
+          "text": "§7Grants §f+100 Speed Cap§7."
         },
         {
           "text": ""
@@ -282984,7 +283029,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -285261,7 +285306,7 @@
           "text": ""
         },
         {
-          "text": "§7Gain §c8⫽ Ferocity §7for §a5s §7on kill."
+          "text": "§7Gain §c8 Ferocity §7for §a5s §7on kill."
         },
         {
           "text": ""
@@ -285294,7 +285339,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -312615,6 +312660,12 @@
           "text": ""
         },
         {
+          "text": "§8Consumable"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§aCarrot Candy §7gives pets boosts of §ePet EXP§7!"
         },
         {
@@ -312633,7 +312684,7 @@
           "text": "§eRight-click on your summoned pet to"
         },
         {
-          "text": "§efeed it this candy!"
+          "text": "§efeed it!"
         },
         {
           "text": ""
@@ -312646,7 +312697,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -316520,7 +316571,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -340261,7 +340312,7 @@
           "text": "§7Give this dish to §aHoppity §7to obtain his"
         },
         {
-          "text": "§aAbiphone Contact§7."
+          "text": "§3Abiphone Contact§7."
         },
         {
           "text": ""
@@ -340277,18 +340328,6 @@
         },
         {
           "text": "§5§lEPIC"
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§7Cost"
-        },
-        {
-          "text": "§650,000,000,000 Chocolate"
-        },
-        {
-          "text": "§cRabbit the Fish"
         }
       ],
       "minecraft:profile": {
@@ -340303,7 +340342,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -346435,6 +346474,12 @@
       },
       "minecraft:lore": [
         {
+          "text": "§8Consumable"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§aCarrot Candy §7gives pets boosts of §ePet EXP§7!"
         },
         {
@@ -346453,7 +346498,7 @@
           "text": "§eRight-click on your summoned pet to"
         },
         {
-          "text": "§efeed it this candy!"
+          "text": "§efeed it!"
         },
         {
           "text": ""
@@ -346466,7 +346511,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -364436,7 +364481,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Increases your total §b✎ Intelligence"
+          "text": "§7Accessory Power: §6+5"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Increases your total §b Intelligence"
         },
         {
           "text": "§7by §a2%§7."
@@ -364448,7 +364499,7 @@
           "text": "§8§l* §8Soulbound §8§l*"
         },
         {
-          "text": "§5§kX§5 Rift-Transferable §r§5§kX"
+          "text": "§5§kX§5 Rift-Transferable §5§kX"
         },
         {
           "text": "§8Works while in Accessory Bag!"
@@ -364469,7 +364520,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -364689,6 +364740,12 @@
       },
       "minecraft:lore": [
         {
+          "text": "§8Consumable"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§aCarrot Candy §7gives pets boosts of §ePet EXP§7!"
         },
         {
@@ -364707,7 +364764,7 @@
           "text": "§eRight-click on your summoned pet to"
         },
         {
-          "text": "§efeed it this candy!"
+          "text": "§efeed it!"
         },
         {
           "text": ""
@@ -364720,7 +364777,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -376501,7 +376558,7 @@
           "text": "§7When applied to Fishing Rods, grants"
         },
         {
-          "text": "§b+1☂ Fishing Speed§7."
+          "text": "§b+1 Fishing Speed§7."
         },
         {
           "text": ""
@@ -376523,7 +376580,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",

@@ -10013,14 +10013,14 @@
           "§8Combinable in Anvil",
           "",
           "§9Divine Gift I",
-          "§7Grants §b+2✯ Magic Find.",
+          "§7Grants §b+2 Magic Find.",
           "",
-          "§6Source:",
-          "§aI-III: §7Shen's Auction",
+          "§6Sources:",
+          "§aI: §7Regalia Room",
+          "§aIII-V: §7Bazaar",
           "",
           "§6Applied To:",
           "§7 - §fSword",
-          "§7 - §fFishing Weapon",
           "§7 - §fLongsword",
           "§7 - §fBow",
           "§7 - §fGauntlet",
@@ -10051,16 +10051,19 @@
                 "text": "§9Divine Gift I"
               },
               {
-                "text": "§7Grants §b+2✯ Magic Find."
+                "text": "§7Grants §b+2 Magic Find."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-III: §7Shen's Auction"
+                "text": "§aI: §7Regalia Room"
+              },
+              {
+                "text": "§aIII-V: §7Bazaar"
               },
               {
                 "text": ""
@@ -10070,9 +10073,6 @@
               },
               {
                 "text": "§7 - §fSword"
-              },
-              {
-                "text": "§7 - §fFishing Weapon"
               },
               {
                 "text": "§7 - §fLongsword"
@@ -10107,14 +10107,14 @@
           "§8Combinable in Anvil",
           "",
           "§9Divine Gift II",
-          "§7Grants §b+4✯ Magic Find.",
+          "§7Grants §b+4 Magic Find.",
           "",
-          "§6Source:",
-          "§aI-III: §7Shen's Auction",
+          "§6Sources:",
+          "§aI: §7Regalia Room",
+          "§aIII-V: §7Bazaar",
           "",
           "§6Applied To:",
           "§7 - §fSword",
-          "§7 - §fFishing Weapon",
           "§7 - §fLongsword",
           "§7 - §fBow",
           "§7 - §fGauntlet",
@@ -10145,16 +10145,19 @@
                 "text": "§9Divine Gift II"
               },
               {
-                "text": "§7Grants §b+4✯ Magic Find."
+                "text": "§7Grants §b+4 Magic Find."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-III: §7Shen's Auction"
+                "text": "§aI: §7Regalia Room"
+              },
+              {
+                "text": "§aIII-V: §7Bazaar"
               },
               {
                 "text": ""
@@ -10164,9 +10167,6 @@
               },
               {
                 "text": "§7 - §fSword"
-              },
-              {
-                "text": "§7 - §fFishing Weapon"
               },
               {
                 "text": "§7 - §fLongsword"
@@ -10201,14 +10201,14 @@
           "§8Combinable in Anvil",
           "",
           "§9Divine Gift III",
-          "§7Grants §b+6✯ Magic Find.",
+          "§7Grants §b+6 Magic Find.",
           "",
-          "§6Source:",
-          "§aI-III: §7Shen's Auction",
+          "§6Sources:",
+          "§aI: §7Regalia Room",
+          "§aIII-V: §7Bazaar",
           "",
           "§6Applied To:",
           "§7 - §fSword",
-          "§7 - §fFishing Weapon",
           "§7 - §fLongsword",
           "§7 - §fBow",
           "§7 - §fGauntlet",
@@ -10239,16 +10239,19 @@
                 "text": "§9Divine Gift III"
               },
               {
-                "text": "§7Grants §b+6✯ Magic Find."
+                "text": "§7Grants §b+6 Magic Find."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-III: §7Shen's Auction"
+                "text": "§aI: §7Regalia Room"
+              },
+              {
+                "text": "§aIII-V: §7Bazaar"
               },
               {
                 "text": ""
@@ -10258,9 +10261,6 @@
               },
               {
                 "text": "§7 - §fSword"
-              },
-              {
-                "text": "§7 - §fFishing Weapon"
               },
               {
                 "text": "§7 - §fLongsword"
@@ -34489,7 +34489,7 @@
           "§8Combinable in Anvil",
           "",
           "§9Piscary I",
-          "§7Grants §b+1☂ Fishing Speed§7.",
+          "§7Grants §b+1 Fishing Speed§7.",
           "",
           "§6Source:",
           "§aI-V: §7Enchantment Table",
@@ -34524,7 +34524,7 @@
                 "text": "§9Piscary I"
               },
               {
-                "text": "§7Grants §b+1☂ Fishing Speed§7."
+                "text": "§7Grants §b+1 Fishing Speed§7."
               },
               {
                 "text": ""
@@ -34571,7 +34571,7 @@
           "§8Combinable in Anvil",
           "",
           "§9Piscary II",
-          "§7Grants §b+2☂ Fishing Speed§7.",
+          "§7Grants §b+2 Fishing Speed§7.",
           "",
           "§6Source:",
           "§aI-V: §7Enchantment Table",
@@ -34606,7 +34606,7 @@
                 "text": "§9Piscary II"
               },
               {
-                "text": "§7Grants §b+2☂ Fishing Speed§7."
+                "text": "§7Grants §b+2 Fishing Speed§7."
               },
               {
                 "text": ""
@@ -34653,7 +34653,7 @@
           "§8Combinable in Anvil",
           "",
           "§9Piscary III",
-          "§7Grants §b+3☂ Fishing Speed§7.",
+          "§7Grants §b+3 Fishing Speed§7.",
           "",
           "§6Source:",
           "§aI-V: §7Enchantment Table",
@@ -34688,7 +34688,7 @@
                 "text": "§9Piscary III"
               },
               {
-                "text": "§7Grants §b+3☂ Fishing Speed§7."
+                "text": "§7Grants §b+3 Fishing Speed§7."
               },
               {
                 "text": ""
@@ -34735,7 +34735,7 @@
           "§8Combinable in Anvil",
           "",
           "§9Piscary IV",
-          "§7Grants §b+4☂ Fishing Speed§7.",
+          "§7Grants §b+4 Fishing Speed§7.",
           "",
           "§6Source:",
           "§aI-V: §7Enchantment Table",
@@ -34770,7 +34770,7 @@
                 "text": "§9Piscary IV"
               },
               {
-                "text": "§7Grants §b+4☂ Fishing Speed§7."
+                "text": "§7Grants §b+4 Fishing Speed§7."
               },
               {
                 "text": ""
@@ -34817,7 +34817,7 @@
           "§8Combinable in Anvil",
           "",
           "§9Piscary V",
-          "§7Grants §b+5☂ Fishing Speed§7.",
+          "§7Grants §b+5 Fishing Speed§7.",
           "",
           "§6Source:",
           "§aI-V: §7Enchantment Table",
@@ -34852,7 +34852,7 @@
                 "text": "§9Piscary V"
               },
               {
-                "text": "§7Grants §b+5☂ Fishing Speed§7."
+                "text": "§7Grants §b+5 Fishing Speed§7."
               },
               {
                 "text": ""
@@ -34899,7 +34899,7 @@
           "§8Combinable in Anvil",
           "",
           "§9Piscary VI",
-          "§7Grants §b+6☂ Fishing Speed§7.",
+          "§7Grants §b+6 Fishing Speed§7.",
           "",
           "§6Source:",
           "§aVI: §7Fishing,",
@@ -34935,7 +34935,7 @@
                 "text": "§9Piscary VI"
               },
               {
-                "text": "§7Grants §b+6☂ Fishing Speed§7."
+                "text": "§7Grants §b+6 Fishing Speed§7."
               },
               {
                 "text": ""
@@ -48098,10 +48098,11 @@
           "§8Combinable in Anvil",
           "",
           "§9Sugar Rush I",
-          "§7Grants §a+2 §f✦ Speed§7.",
+          "§7Grants §a+2 §f Speed§7.",
           "",
-          "§6Source:",
-          "§aI-III: §7Spooky Festival",
+          "§6Sources:",
+          "§aI: §7Spooky Festival",
+          "§aI-V: §7Bazaar",
           "",
           "§6Applied To:",
           "§7- §fBoots",
@@ -48132,16 +48133,19 @@
                 "text": "§9Sugar Rush I"
               },
               {
-                "text": "§7Grants §a+2 §f✦ Speed§7."
+                "text": "§7Grants §a+2 §f Speed§7."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-III: §7Spooky Festival"
+                "text": "§aI: §7Spooky Festival"
+              },
+              {
+                "text": "§aI-V: §7Bazaar"
               },
               {
                 "text": ""
@@ -48176,10 +48180,11 @@
           "§8Combinable in Anvil",
           "",
           "§9Sugar Rush II",
-          "§7Grants §a+4 §f✦ Speed§7.",
+          "§7Grants §a+4 §f Speed§7.",
           "",
-          "§6Source:",
-          "§aI-III: §7Spooky Festival",
+          "§6Sources:",
+          "§aI: §7Spooky Festival",
+          "§aI-V: §7Bazaar",
           "",
           "§6Applied To:",
           "§7- §fBoots",
@@ -48210,16 +48215,19 @@
                 "text": "§9Sugar Rush II"
               },
               {
-                "text": "§7Grants §a+4 §f✦ Speed§7."
+                "text": "§7Grants §a+4 §f Speed§7."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-III: §7Spooky Festival"
+                "text": "§aI: §7Spooky Festival"
+              },
+              {
+                "text": "§aI-V: §7Bazaar"
               },
               {
                 "text": ""
@@ -48254,10 +48262,11 @@
           "§8Combinable in Anvil",
           "",
           "§9Sugar Rush III",
-          "§7Grants §a+6 §f✦ Speed§7.",
+          "§7Grants §a+6 §f Speed§7.",
           "",
-          "§6Source:",
-          "§aI-III: §7Spooky Festival",
+          "§6Sources:",
+          "§aI: §7Spooky Festival",
+          "§aI-V: §7Bazaar",
           "",
           "§6Applied To:",
           "§7- §fBoots",
@@ -48288,16 +48297,19 @@
                 "text": "§9Sugar Rush III"
               },
               {
-                "text": "§7Grants §a+6 §f✦ Speed§7."
+                "text": "§7Grants §a+6 §f Speed§7."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-III: §7Spooky Festival"
+                "text": "§aI: §7Spooky Festival"
+              },
+              {
+                "text": "§aI-V: §7Bazaar"
               },
               {
                 "text": ""
@@ -63022,15 +63034,16 @@
           "§8Combinable in Anvil",
           "",
           "§d§lBobbin' Time III",
-          "§7Increases all §bFishing Stats §7and §b✯ Magic Find §7by",
+          "§7Increases all §bFishing Stats §7and §b Magic Find §7by",
           "§b+0.6% §7per fishing bobber within §a30 blocks§7, up to",
           "§b5 §7bobbers.",
           "",
           "§cYou can only have 1 Ultimate",
           "§cEnchantment on an item!",
           "",
-          "§6Source:",
-          "§aIII-V: §7Fishing",
+          "§6Sources:",
+          "§aIII: §7Fishing",
+          "§aIII-V: §7Bazaar",
           "",
           "§6Applied To:",
           "§7- §fArmor",
@@ -63061,7 +63074,7 @@
                 "text": "§d§lBobbin' Time III"
               },
               {
-                "text": "§7Increases all §bFishing Stats §7and §b✯ Magic Find §7by"
+                "text": "§7Increases all §bFishing Stats §7and §b Magic Find §7by"
               },
               {
                 "text": "§b+0.6% §7per fishing bobber within §a30 blocks§7, up to"
@@ -63082,10 +63095,13 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aIII-V: §7Fishing"
+                "text": "§aIII: §7Fishing"
+              },
+              {
+                "text": "§aIII-V: §7Bazaar"
               },
               {
                 "text": ""
@@ -63120,15 +63136,16 @@
           "§8Combinable in Anvil",
           "",
           "§d§lBobbin' Time IV",
-          "§7Increases all §bFishing Stats §7and §b✯ Magic Find §7by",
+          "§7Increases all §bFishing Stats §7and §b Magic Find §7by",
           "§b+0.8% §7per fishing bobber within §a30 blocks§7, up to",
           "§b5 §7bobbers.",
           "",
           "§cYou can only have 1 Ultimate",
           "§cEnchantment on an item!",
           "",
-          "§6Source:",
-          "§aIII-V: §7Fishing",
+          "§6Sources:",
+          "§aIII: §7Fishing",
+          "§aIII-V: §7Bazaar",
           "",
           "§6Applied To:",
           "§7- §fArmor",
@@ -63159,7 +63176,7 @@
                 "text": "§d§lBobbin' Time IV"
               },
               {
-                "text": "§7Increases all §bFishing Stats §7and §b✯ Magic Find §7by"
+                "text": "§7Increases all §bFishing Stats §7and §b Magic Find §7by"
               },
               {
                 "text": "§b+0.8% §7per fishing bobber within §a30 blocks§7, up to"
@@ -63180,10 +63197,13 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aIII-V: §7Fishing"
+                "text": "§aIII: §7Fishing"
+              },
+              {
+                "text": "§aIII-V: §7Bazaar"
               },
               {
                 "text": ""
@@ -63218,15 +63238,16 @@
           "§8Combinable in Anvil",
           "",
           "§d§lBobbin' Time V",
-          "§7Increases all §bFishing Stats §7and §b✯ Magic Find §7by",
+          "§7Increases all §bFishing Stats §7and §b Magic Find §7by",
           "§b1.0% §7per fishing bobber within §a30 blocks§7, up to",
           "§b5 §7bobbers.",
           "",
           "§cYou can only have 1 Ultimate",
           "§cEnchantment on an item!",
           "",
-          "§6Source:",
-          "§aIII-V: §7Fishing",
+          "§6Sources:",
+          "§aIII: §7Fishing",
+          "§aIII-V: §7Bazaar",
           "",
           "§6Applied To:",
           "§7- §fArmor",
@@ -63257,7 +63278,7 @@
                 "text": "§d§lBobbin' Time V"
               },
               {
-                "text": "§7Increases all §bFishing Stats §7and §b✯ Magic Find §7by"
+                "text": "§7Increases all §bFishing Stats §7and §b Magic Find §7by"
               },
               {
                 "text": "§b1.0% §7per fishing bobber within §a30 blocks§7, up to"
@@ -63278,10 +63299,13 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aIII-V: §7Fishing"
+                "text": "§aIII: §7Fishing"
+              },
+              {
+                "text": "§aIII-V: §7Bazaar"
               },
               {
                 "text": ""
@@ -67013,7 +67037,7 @@
           "§8ℏ §7Deal §c+20% damage §7with Slayer weapons.",
           "§8ℏ §7Gain §3+2.5☯ Combat Wisdom §7with Slayer",
           "§7weapons.",
-          "§8ℏ §7With §aSmoldering Polarization§7, gain §b+10✯",
+          "§8ℏ §7With §aSmoldering Polarization§7, gain §b+10",
           "§bMagic Find §7on your slayer weapon.",
           "",
           "§cYou can only have 1 Ultimate",
@@ -67063,7 +67087,7 @@
                 "text": "§7weapons."
               },
               {
-                "text": "§8ℏ §7With §aSmoldering Polarization§7, gain §b+10✯"
+                "text": "§8ℏ §7With §aSmoldering Polarization§7, gain §b+10"
               },
               {
                 "text": "§bMagic Find §7on your slayer weapon."
@@ -67133,7 +67157,7 @@
           "§8ℏ §7Deal §c+25% damage §7with Slayer weapons.",
           "§8ℏ §7Gain §3+5☯ Combat Wisdom §7with Slayer",
           "§7weapons.",
-          "§8ℏ §7With §aSmoldering Polarization§7, gain §b+15✯",
+          "§8ℏ §7With §aSmoldering Polarization§7, gain §b+15",
           "§bMagic Find §7on your slayer weapon.",
           "",
           "§cYou can only have 1 Ultimate",
@@ -67183,7 +67207,7 @@
                 "text": "§7weapons."
               },
               {
-                "text": "§8ℏ §7With §aSmoldering Polarization§7, gain §b+15✯"
+                "text": "§8ℏ §7With §aSmoldering Polarization§7, gain §b+15"
               },
               {
                 "text": "§bMagic Find §7on your slayer weapon."
@@ -68933,7 +68957,7 @@
           "§8Combinable in Anvil",
           "",
           "§d§lLegion I",
-          "§7Increases all §cCombat §7stats and §b✯",
+          "§7Increases all §cCombat §7stats and §b",
           "§bMagic Find §7by §e0.07% §7per player within",
           "§b30 §7blocks of you, up to §c20 §7players.",
           "",
@@ -68972,7 +68996,7 @@
                 "text": "§d§lLegion I"
               },
               {
-                "text": "§7Increases all §cCombat §7stats and §b✯"
+                "text": "§7Increases all §cCombat §7stats and §b"
               },
               {
                 "text": "§bMagic Find §7by §e0.07% §7per player within"
@@ -69032,7 +69056,7 @@
           "§8Combinable in Anvil",
           "",
           "§d§lLegion II",
-          "§7Increases all §cCombat §7stats and §b✯",
+          "§7Increases all §cCombat §7stats and §b",
           "§bMagic Find §7by §e0.14% §7per player within",
           "§b30 §7blocks of you, up to §c20 §7players.",
           "",
@@ -69071,7 +69095,7 @@
                 "text": "§d§lLegion II"
               },
               {
-                "text": "§7Increases all §cCombat §7stats and §b✯"
+                "text": "§7Increases all §cCombat §7stats and §b"
               },
               {
                 "text": "§bMagic Find §7by §e0.14% §7per player within"
@@ -69131,7 +69155,7 @@
           "§8Combinable in Anvil",
           "",
           "§d§lLegion III",
-          "§7Increases all §cCombat §7stats and §b✯",
+          "§7Increases all §cCombat §7stats and §b",
           "§bMagic Find §7by §e0.21% §7per player within",
           "§b30 §7blocks of you, up to §c20 §7players.",
           "",
@@ -69170,7 +69194,7 @@
                 "text": "§d§lLegion III"
               },
               {
-                "text": "§7Increases all §cCombat §7stats and §b✯"
+                "text": "§7Increases all §cCombat §7stats and §b"
               },
               {
                 "text": "§bMagic Find §7by §e0.21% §7per player within"
@@ -69230,7 +69254,7 @@
           "§8Combinable in Anvil",
           "",
           "§d§lLegion IV",
-          "§7Increases all §cCombat §7stats and §b✯",
+          "§7Increases all §cCombat §7stats and §b",
           "§bMagic Find §7by §e0.28% §7per player within",
           "§b30 §7blocks of you, up to §c20 §7players.",
           "",
@@ -69269,7 +69293,7 @@
                 "text": "§d§lLegion IV"
               },
               {
-                "text": "§7Increases all §cCombat §7stats and §b✯"
+                "text": "§7Increases all §cCombat §7stats and §b"
               },
               {
                 "text": "§bMagic Find §7by §e0.28% §7per player within"
@@ -69329,7 +69353,7 @@
           "§8Combinable in Anvil",
           "",
           "§d§lLegion V",
-          "§7Increases all §cCombat §7stats and §b✯",
+          "§7Increases all §cCombat §7stats and §b",
           "§bMagic Find §7by §e0.35% §7per player within",
           "§b30 §7blocks of you, up to §c20 §7players.",
           "",
@@ -69368,7 +69392,7 @@
                 "text": "§d§lLegion V"
               },
               {
-                "text": "§7Increases all §cCombat §7stats and §b✯"
+                "text": "§7Increases all §cCombat §7stats and §b"
               },
               {
                 "text": "§bMagic Find §7by §e0.35% §7per player within"

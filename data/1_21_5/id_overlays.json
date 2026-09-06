@@ -2554,6 +2554,13 @@
   },
   {
     "type": "item",
+    "id": "BIOHAZARD_CONTROL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hazard_Control_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "BIOHAZARD_HELMET",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Biohazard_Helmet"
