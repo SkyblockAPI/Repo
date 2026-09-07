@@ -40,6 +40,10 @@ export const Pets = {
 
         const petId = item.pet.type
         petIds.push(petId)
+
+        if (petsFile[petId] && petsFile[petId].tiers[item.pet.tier]) {
+            console.warn(`[WARN] (Pets) Duplicate pet ID and tier found: ${petId} ${item.pet.tier}`);
+        }
         if (!petId || petId.includes(";")) throw new Error(`Unknown pet: ${petId} for ${item.internalname}`)
 
         const data = petsFile[petId] || {

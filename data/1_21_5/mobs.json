@@ -2777,8 +2777,8 @@
           {
             "id": "LOTUS",
             "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 4
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "DYE_AQUAMARINE",
@@ -3823,7 +3823,7 @@
           },
           {
             "id": "FLAMING_FIST",
-            "chance": 0.002,
+            "chance": 0.005,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -11150,7 +11150,7 @@
           },
           {
             "id": "LOTUS_SILVER",
-            "chance": 0.025,
+            "chance": 0.2,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -14157,6 +14157,12 @@
             "maxAmount": 1250
           },
           {
+            "id": "SULPHUR",
+            "chance": 1,
+            "minAmount": 8,
+            "maxAmount": 8
+          },
+          {
             "id": "MAGMA_FISH",
             "chance": 1,
             "minAmount": 60,
@@ -14167,6 +14173,12 @@
             "chance": 0.5,
             "minAmount": 60,
             "maxAmount": 60
+          },
+          {
+            "id": "ENCHANTED_GUNPOWDER",
+            "chance": 0.05,
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "ENCHANTED_GLOWSTONE",
@@ -15661,12 +15673,12 @@
           {
             "id": "LOTUS_SILVER",
             "chance": 1,
-            "minAmount": 4,
-            "maxAmount": 4
+            "minAmount": 8,
+            "maxAmount": 8
           },
           {
             "id": "LOTUS_GOLD",
-            "chance": 0.025,
+            "chance": 0.05,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -18197,7 +18209,48 @@
       }
     },
     "name": "gorF",
-    "type": "Sea Creature"
+    "type": "Sea Creature",
+    "lootTables": [
+      {
+        "name": "Gorf",
+        "mobLevel": 65,
+        "xp": 85,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 82,
+            "maxAmount": 82
+          },
+          {
+            "id": "LOTUS",
+            "chance": 1,
+            "minAmount": 8,
+            "maxAmount": 8
+          },
+          {
+            "id": "LOTUS_SILVER",
+            "chance": 0.05,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "REVERSE_REFORGE_STONE_CORE",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_AQUAMARINE",
+            "chance": 4.0000000000000003e-7,
+            "minAmount": 1,
+            "maxAmount": 1
+          }
+        ]
+      }
+    ]
   },
   "GRANDMA_RIFT_NPC": {
     "island": "rift",
@@ -21989,6 +22042,13 @@
             "id": "FIRE_ASPECT",
             "level": 3,
             "chance": 0.01264,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "SLAYER_DISCOUNT",
+            "chance": 0.0025,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -25921,12 +25981,12 @@
           {
             "id": "LOTUS",
             "chance": 1,
-            "minAmount": 2,
-            "maxAmount": 4
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "FROGCOIN",
-            "chance": 0.01,
+            "chance": 0.05,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -37756,7 +37816,7 @@
           },
           {
             "id": "LOTUS_GOLD",
-            "chance": 0.005,
+            "chance": 0.01,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -39374,6 +39434,13 @@
             "maxAmount": 1
           },
           {
+            "type": "attribute",
+            "id": "SLAYER_DISCOUNT",
+            "chance": 0.0025,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
             "type": "rune",
             "id": "SNAKE",
             "tier": 1,
@@ -39430,7 +39497,10 @@
             "text": "§aRedemption"
           },
           {
-            "text": "§7Heals rapidly."
+            "text": "§7Heals rapidly and is immune to magic"
+          },
+          {
+            "text": "§7damage."
           },
           {
             "text": ""
@@ -39541,6 +39611,13 @@
           {
             "id": "REVENANT_VISCERA",
             "chance": 0.136082,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "SLAYER_DISCOUNT",
+            "chance": 0.0025,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -45568,6 +45645,12 @@
             "maxAmount": 1
           },
           {
+            "id": "ENCHANTED_GUNPOWDER",
+            "chance": 0.005,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
             "id": "PET_ITEM_EXP_SHARE_DROP",
             "chance": 0.0001,
             "minAmount": 1,
@@ -48997,7 +49080,7 @@
             "text": "§7Occasionally leaps behind you. Attacks"
           },
           {
-            "text": "§7from behind deal §c50% Damage§7."
+            "text": "§7from behind deal §c+20% Damage§7."
           }
         ],
         "minecraft:profile": {
@@ -49095,7 +49178,7 @@
             "text": "§7Occasionally leaps behind you. Attacks"
           },
           {
-            "text": "§7from behind deal §c+75% Damage§7."
+            "text": "§7from behind deal §c+30% Damage§7."
           },
           {
             "text": ""
@@ -49104,7 +49187,7 @@
             "text": "§eNoxious Paralysis"
           },
           {
-            "text": "§7Reduces your §4♨ Vitality§7 by §c25% §7and §f✦"
+            "text": "§7Reduces your §4 Vitality§7 by §c15% §7and §f"
           },
           {
             "text": "Speed§7 by §c10%§7."
@@ -49225,7 +49308,7 @@
             "text": "§7Occasionally leaps behind you. Attacks"
           },
           {
-            "text": "§7from behind deal §c+100% Damage§7."
+            "text": "§7from behind deal §c+40% Damage§7."
           },
           {
             "text": ""
@@ -49234,7 +49317,7 @@
             "text": "§eNoxious Paralysis"
           },
           {
-            "text": "§7Reduces your §4♨ Vitality§7 by §c50% §7and §f✦"
+            "text": "§7Reduces your §4 Vitality§7 by §c30% §7and §f"
           },
           {
             "text": "Speed§7 by §c25%§7."
@@ -49417,7 +49500,7 @@
             "text": "§7Occasionally leaps behind you. Attacks"
           },
           {
-            "text": "§7from behind deal §c+125% Damage§7."
+            "text": "§7from behind deal §c+60% Damage§7."
           },
           {
             "text": ""
@@ -49426,7 +49509,7 @@
             "text": "§eNoxious Paralysis"
           },
           {
-            "text": "§7Reduces your §4♨ Vitality§7 by §c75% §7and §f✦"
+            "text": "§7Reduces your §4 Vitality§7 by §c50% §7and §f"
           },
           {
             "text": "Speed§7 by §c50%§7."
@@ -49462,7 +49545,7 @@
             "text": "§cBat Barrage"
           },
           {
-            "text": "§7Releases a horde of evil bats. Take §c1%"
+            "text": "§7Releases a horde of evil bats. Take §c0.1%"
           },
           {
             "text": "§7Max §c❤§7 per second for each bat alive."
@@ -49598,6 +49681,13 @@
             ]
           },
           {
+            "type": "attribute",
+            "id": "SLAYER_DISCOUNT",
+            "chance": 0.0025,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
             "id": "DYE_BRICK_RED",
             "chance": 0.000002,
             "minAmount": 1,
@@ -49631,7 +49721,7 @@
             "text": "§7Health: §c10,000,000❤"
           },
           {
-            "text": "§7Damage: §c3,500 §7per second"
+            "text": "§7Damage: §c2,200 §7per second"
           },
           {
             "text": ""
@@ -49643,7 +49733,7 @@
             "text": "§7Occasionally leaps behind you. Attacks"
           },
           {
-            "text": "§7from behind deal §c+150% Damage§7."
+            "text": "§7from behind deal §c+80% Damage§7."
           },
           {
             "text": ""
@@ -49652,10 +49742,10 @@
             "text": "§eNoxious Paralysis"
           },
           {
-            "text": "§7Reduces your §4♨ Vitality§7 by §c100%§7, §f✦"
+            "text": "§7Reduces your §4 Vitality§7 by §c75%§7, §f Speed§7"
           },
           {
-            "text": "Speed§7 by §c75%§7, and disables §6Absorption§7."
+            "text": "§7by §c75%§7, and disables §6Absorption§7."
           },
           {
             "text": ""
@@ -49670,7 +49760,7 @@
             "text": "§7webbing along the ground, disabling"
           },
           {
-            "text": "§7§5teleportation§7 abilities until they are"
+            "text": "§5teleportation§7 abilities until they are"
           },
           {
             "text": "§7cleared, and spawns §a4§7 egg sacs in the"
@@ -49688,10 +49778,10 @@
             "text": "§cBat Barrage"
           },
           {
-            "text": "§7Releases a horde of evil bats. Take §c2%"
+            "text": "§7Releases a horde of evil bats. Take §c0.2%"
           },
           {
-            "text": "§c§7Max §c❤§7 per second for each bat alive."
+            "text": "§7Max §c❤§7 per second for each bat alive."
           },
           {
             "text": ""
@@ -49709,7 +49799,7 @@
             "text": "§7Broodfather, creating the Conjoined"
           },
           {
-            "text": "§7Brood. The Brood has 2x §c❤ Health§7 and §c❁"
+            "text": "§7Brood. The Brood has 2x §c Health§7 and §c"
           },
           {
             "text": "§cDamage §7but only uses §6passive§7 abilities."
@@ -49868,6 +49958,13 @@
             "extraLore": [
               "§eWeight: 6"
             ]
+          },
+          {
+            "type": "attribute",
+            "id": "SLAYER_DISCOUNT",
+            "chance": 0.0025,
+            "minAmount": 1,
+            "maxAmount": 1
           },
           {
             "id": "PRIMORDIAL_EYE",
@@ -52844,7 +52941,7 @@
             "text": "§7Health: §c300,000❤"
           },
           {
-            "text": "§7Damage: §c1.200 §7per second"
+            "text": "§7Damage: §c800 §7per second"
           },
           {
             "text": ""
@@ -52853,7 +52950,7 @@
             "text": "§aMalevolent Hitshield"
           },
           {
-            "text": "§8At 100%/66%/33% Hp"
+            "text": "§8At 100%/66%/33% HP"
           },
           {
             "text": "§7Immunity shield dropped by hits"
@@ -52862,10 +52959,10 @@
             "text": "§7regardless of damage."
           },
           {
-            "text": "§7Receives §c-75% ⫽ Ferocity"
+            "text": "§7Receives §c-75% §c Ferocity §7while NOT"
           },
           {
-            "text": "§7while NOT active."
+            "text": "§7active."
           }
         ],
         "minecraft:profile": {
@@ -52927,7 +53024,7 @@
             "text": "§7Health: §c12,000,000❤"
           },
           {
-            "text": "§7Damage: §c5,000 §7per second"
+            "text": "§7Damage: §c2,720 §7per second"
           },
           {
             "text": ""
@@ -52936,7 +53033,7 @@
             "text": "§aMalevolent Hitshield"
           },
           {
-            "text": "§8At 100%/66%/33% Hp"
+            "text": "§8At 100%/66%/33% HP"
           },
           {
             "text": "§7Immunity shield dropped by hits"
@@ -52945,10 +53042,10 @@
             "text": "§7regardless of damage."
           },
           {
-            "text": "§7Receives §c-75% ⫽ Ferocity"
+            "text": "§7Receives §c-75% §c Ferocity §7while NOT"
           },
           {
-            "text": "§7while NOT active."
+            "text": "§7active."
           },
           {
             "text": ""
@@ -53037,7 +53134,7 @@
             "text": "§7Health: §c50,000,000❤"
           },
           {
-            "text": "§7Damage: §c12,000 §7per second"
+            "text": "§7Damage: §c7,650 §7per second"
           },
           {
             "text": ""
@@ -53046,7 +53143,7 @@
             "text": "§aMalevolent Hitshield"
           },
           {
-            "text": "§8At 100%/66%/33% Hp"
+            "text": "§8At 100%/66%/33% HP"
           },
           {
             "text": "§7Immunity shield dropped by hits"
@@ -53055,10 +53152,10 @@
             "text": "§7regardless of damage."
           },
           {
-            "text": "§7Receives §c-75% ⫽ Ferocity"
+            "text": "§7Receives §c-75% §c Ferocity §7while NOT"
           },
           {
-            "text": "§7while NOT active."
+            "text": "§7active."
           },
           {
             "text": ""
@@ -53067,7 +53164,7 @@
             "text": "§cYang Glyphs"
           },
           {
-            "text": "§8Starting at 50% HP"
+            "text": "§8Starting at 66% HP"
           },
           {
             "text": "§7Throws glyphs down."
@@ -53190,7 +53287,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§8Challenging"
+            "text": "§8Guaranteed Doom"
           },
           {
             "text": ""
@@ -53199,7 +53296,7 @@
             "text": "§7Health: §c210,000,000❤"
           },
           {
-            "text": "§7Damage: §c21,000 §7per second"
+            "text": "§7Damage: §c11,000 §7per second"
           },
           {
             "text": ""
@@ -53208,7 +53305,7 @@
             "text": "§aMalevolent Hitshield"
           },
           {
-            "text": "§8At 100%/66%/33% Hp"
+            "text": "§8At 100%/66%/33% HP"
           },
           {
             "text": "§7Immunity shield dropped by hits"
@@ -53217,10 +53314,10 @@
             "text": "§7regardless of damage."
           },
           {
-            "text": "§7Receives §c-75% ⫽ Ferocity"
+            "text": "§7Receives §c-75% §c Ferocity §7while NOT"
           },
           {
-            "text": "§7while NOT active."
+            "text": "§7active."
           },
           {
             "text": ""
@@ -53229,7 +53326,7 @@
             "text": "§cYang Glyphs"
           },
           {
-            "text": "§8Starting at 50% HP"
+            "text": "§8Starting at 66% HP"
           },
           {
             "text": "§7Throws glyphs down."
@@ -53352,6 +53449,13 @@
             "id": "DRAGON",
             "tier": 1,
             "chance": 0.006622,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "SLAYER_DISCOUNT",
+            "chance": 0.0025,
             "minAmount": 1,
             "maxAmount": 1
           },

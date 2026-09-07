@@ -22976,7 +22976,7 @@
   {
     "id": "RABBIT_CREW",
     "lore": [
-      "§7Your §6Chocolate Factory §7gains §a+2",
+      "§7Your §6Chocolate Factory §7gains §a+5",
       "§7more §6Chocolate §7per second.",
       "",
       "§7You can Syphon this shard from",
@@ -23010,7 +23010,7 @@
             "text": "§6Rabbit Crew I"
           },
           {
-            "text": "§7Your §6Chocolate Factory §7gains §a+2"
+            "text": "§7Your §6Chocolate Factory §7gains §a+5"
           },
           {
             "text": "§7more §6Chocolate §7per second."
@@ -23068,6 +23068,100 @@
           ]
         },
         "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      }
+    }
+  },
+  {
+    "id": "RABBIT_YOUTH",
+    "lore": [
+      "§7Rabbit Bro, Cousin, and Sis can have",
+      "§a+1 §7extra levels.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§f§lCOMMON FOREST SHARD"
+    ],
+    "attribute_id": "C48",
+    "shard_name": "Chocobun Shard",
+    "shard_id": "SHARD_CHOCOBUN",
+    "name": "Rabbit Youth",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTkzOTQxMzQ3NCwKICAicHJvZmlsZUlkIiA6ICJlNGUxYmY5NzMwZWI0NDRhYmIyOGIxODgxN2Q0M2YzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNSU1PR0FNRVMwMzIxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlhODE1Mzk4ZTdkYTg5YjFiYzA4ZjY0NmNhZmM4ZTdiODEzZGEwYmUwZWVjMGNjZTZkM2VmZjUyMDc4MDEwMjYiCiAgICB9CiAgfQp9",
+    "rarity": "COMMON",
+    "max": 96,
+    "itemStack": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "attributes": {
+            "rabbit_youth": 1
+          },
+          "id": "ATTRIBUTE_SHARD"
+        },
+        "minecraft:custom_name": {
+          "text": "§fChocobun Shard"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§6Rabbit Youth I"
+          },
+          {
+            "text": "§7Rabbit Bro, Cousin, and Sis can have"
+          },
+          {
+            "text": "§a+1 §7extra levels."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7You can Syphon this shard from"
+          },
+          {
+            "text": "§7your §aHunting Box§7."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§eRight-click to send to Hunting Box!"
+          },
+          {
+            "text": "§eShift Right-click to move all!"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§f§lCOMMON FOREST SHARD §8(ID C48)"
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTkzOTQxMzQ3NCwKICAicHJvZmlsZUlkIiA6ICJlNGUxYmY5NzMwZWI0NDRhYmIyOGIxODgxN2Q0M2YzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNSU1PR0FNRVMwMzIxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlhODE1Mzk4ZTdkYTg5YjFiYzA4ZjY0NmNhZmM4ZTdiODEzZGEwYmUwZWVjMGNjZTZkM2VmZjUyMDc4MDEwMjYiCiAgICB9CiAgfQp9"
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:attribute_modifiers",
+            "minecraft:banner_patterns",
+            "minecraft:charged_projectiles",
+            "minecraft:dyed_color",
+            "minecraft:fireworks",
+            "minecraft:jukebox_playable",
+            "minecraft:map_id",
+            "minecraft:painting/variant",
+            "minecraft:potion_contents",
+            "minecraft:trim",
+            "minecraft:unbreakable",
+            "minecraft:written_book_content"
+          ]
+        },
+        "minecraft:tooltip_style": "hypixel_skyblock:common"
       }
     }
   },

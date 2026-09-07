@@ -2496,8 +2496,8 @@
           "§7from mobs by §a{0}%§7.",
           "",
           "§6Nightmare",
-          "§7During night, gain §a{1} §b✎ Intelligence§7,",
-          "§a{2} §f✦ Speed§7, and §aNight Vision§7.",
+          "§7During night, gain §a{1} §b Intelligence§7,",
+          "§a{2} §f Speed§7, and §aNight Vision§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE"
@@ -2566,10 +2566,10 @@
                 "text": "§6Nightmare"
               },
               {
-                "text": "§7During night, gain §a{1} §b✎ Intelligence§7,"
+                "text": "§7During night, gain §a{1} §b Intelligence§7,"
               },
               {
-                "text": "§a{2} §f✦ Speed§7, and §aNight Vision§7."
+                "text": "§a{2} §f Speed§7, and §aNight Vision§7."
               },
               {
                 "text": ""
@@ -8244,7 +8244,7 @@
           "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}%",
           "",
           "§6Pod Tactics",
-          "§7Grants §b+{0}☂ Fishing Speed §7for",
+          "§7Grants §b+{0} Fishing Speed §7for",
           "§7each player within §a30 §7blocks, up to §a5",
           "§7players.",
           "",
@@ -8305,7 +8305,7 @@
                 "text": "§6Pod Tactics"
               },
               {
-                "text": "§7Grants §b+{0}☂ Fishing Speed §7for"
+                "text": "§7Grants §b+{0} Fishing Speed §7for"
               },
               {
                 "text": "§7each player within §a30 §7blocks, up to §a5"
@@ -8353,7 +8353,7 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
@@ -11338,7 +11338,7 @@
           "§cStrength§7.",
           "",
           "§6Superior",
-          "§7Increases all §cCombat §7stats and §b✯",
+          "§7Increases all §cCombat §7stats and §b",
           "§bMagic Find §7by §a{3}%§7.",
           "",
           "§6§lLEGENDARY"
@@ -11433,7 +11433,7 @@
                 "text": "§6Superior"
               },
               {
-                "text": "§7Increases all §cCombat §7stats and §b✯"
+                "text": "§7Increases all §cCombat §7stats and §b"
               },
               {
                 "text": "§bMagic Find §7by §a{3}%§7."
@@ -15186,13 +15186,13 @@
           "§7by §a{0}%§7.",
           "",
           "§6Shining Scales",
-          "§7Grants §c+11.1❁ Strength §7and §b+2.2✯",
+          "§7Grants §c+11.1 Strength §7and §b+2.2",
           "§bMagic Find §7to your pet for each digit",
           "§7in your §6Gold Collection§7.",
           "§8(Max 100M collection)",
           "",
           "§6Dragon's Greed",
-          "§7Grants §c+{1}%❁ Strength §7per §b5✯",
+          "§7Grants §c+{1}% Strength §7per §b5",
           "§bMagic Find§7. §8(Max +{2}%)",
           "",
           "§6Legendary Treasure",
@@ -15289,7 +15289,7 @@
                 "text": "§6Shining Scales"
               },
               {
-                "text": "§7Grants §c+11.1❁ Strength §7and §b+2.2✯"
+                "text": "§7Grants §c+11.1 Strength §7and §b+2.2"
               },
               {
                 "text": "§bMagic Find §7to your pet for each digit"
@@ -15307,7 +15307,7 @@
                 "text": "§6Dragon's Greed"
               },
               {
-                "text": "§7Grants §c+{1}%❁ Strength §7per §b5✯"
+                "text": "§7Grants §c+{1}% Strength §7per §b5"
               },
               {
                 "text": "§bMagic Find§7. §8(Max +{2}%)"
@@ -15711,15 +15711,15 @@
           "§7stack as you increase your combo.",
           "",
           "§a5 Combo §8(lasts §a{0}s§8)",
-          "  §8+§b1% §b✯ Magic Find",
+          "  §8+§b1% §b Magic Find",
           "§a10 Combo §8(lasts §a{1}s§8)",
           "  §8+§62 §7coins per kill",
           "§a15 Combo §8(lasts §a{2}s§8)",
-          "  §8+§b1% §b✯ Magic Find",
+          "  §8+§b1% §b Magic Find",
           "§a20 Combo §8(lasts §a{3}s§8)",
           "  §8+§35☯ Combat Wisdom",
           "§a25 Combo §8(lasts §a{4}s§8)",
-          "  §8+§b1% §b✯ Magic Find",
+          "  §8+§b1% §b Magic Find",
           "§a30 Combo §8(lasts §a{5}s§8)",
           "  §8+§62 §7coins per kill",
           "",
@@ -15805,7 +15805,7 @@
                 "text": "§a5 Combo §8(lasts §a{0}s§8)"
               },
               {
-                "text": "  §8+§b1% §b✯ Magic Find"
+                "text": "  §8+§b1% §b Magic Find"
               },
               {
                 "text": "§a10 Combo §8(lasts §a{1}s§8)"
@@ -15817,7 +15817,7 @@
                 "text": "§a15 Combo §8(lasts §a{2}s§8)"
               },
               {
-                "text": "  §8+§b1% §b✯ Magic Find"
+                "text": "  §8+§b1% §b Magic Find"
               },
               {
                 "text": "§a20 Combo §8(lasts §a{3}s§8)"
@@ -15829,7 +15829,7 @@
                 "text": "§a25 Combo §8(lasts §a{4}s§8)"
               },
               {
-                "text": "  §8+§b1% §b✯ Magic Find"
+                "text": "  §8+§b1% §b Magic Find"
               },
               {
                 "text": "§a30 Combo §8(lasts §a{5}s§8)"
@@ -15887,15 +15887,15 @@
           "§7stack as you increase your combo.",
           "",
           "§a5 Combo §8(lasts §a{0}s§8)",
-          "  §8+§b1% §b✯ Magic Find",
+          "  §8+§b1% §b Magic Find",
           "§a10 Combo §8(lasts §a{1}s§8)",
           "  §8+§64 §7coins per kill",
           "§a15 Combo §8(lasts §a{2}s§8)",
-          "  §8+§b2% §b✯ Magic Find",
+          "  §8+§b2% §b Magic Find",
           "§a20 Combo §8(lasts §a{3}s§8)",
           "  §8+§37☯ Combat Wisdom",
           "§a25 Combo §8(lasts §a{4}s§8)",
-          "  §8+§b1% §b✯ Magic Find",
+          "  §8+§b1% §b Magic Find",
           "§a30 Combo §8(lasts §a{5}s§8)",
           "  §8+§64 §7coins per kill",
           "",
@@ -15981,7 +15981,7 @@
                 "text": "§a5 Combo §8(lasts §a{0}s§8)"
               },
               {
-                "text": "  §8+§b1% §b✯ Magic Find"
+                "text": "  §8+§b1% §b Magic Find"
               },
               {
                 "text": "§a10 Combo §8(lasts §a{1}s§8)"
@@ -15993,7 +15993,7 @@
                 "text": "§a15 Combo §8(lasts §a{2}s§8)"
               },
               {
-                "text": "  §8+§b2% §b✯ Magic Find"
+                "text": "  §8+§b2% §b Magic Find"
               },
               {
                 "text": "§a20 Combo §8(lasts §a{3}s§8)"
@@ -16005,7 +16005,7 @@
                 "text": "§a25 Combo §8(lasts §a{4}s§8)"
               },
               {
-                "text": "  §8+§b1% §b✯ Magic Find"
+                "text": "  §8+§b1% §b Magic Find"
               },
               {
                 "text": "§a30 Combo §8(lasts §a{5}s§8)"
@@ -16063,15 +16063,15 @@
           "§7stack as you increase your combo.",
           "",
           "§a5 Combo §8(lasts §a{0}s§8)",
-          "  §8+§b2% §b✯ Magic Find",
+          "  §8+§b2% §b Magic Find",
           "§a10 Combo §8(lasts §a{1}s§8)",
           "  §8+§66 §7coins per kill",
           "§a15 Combo §8(lasts §a{2}s§8)",
-          "  §8+§b2% §b✯ Magic Find",
+          "  §8+§b2% §b Magic Find",
           "§a20 Combo §8(lasts §a{3}s§8)",
           "  §8§3+9☯ Combat Wisdom",
           "§a25 Combo §8(lasts §a{4}s§8)",
-          "  §8+§b2% §b✯ Magic Find",
+          "  §8+§b2% §b Magic Find",
           "§a30 Combo §8(lasts §a{5}s§8)",
           "  §8+§66 §7coins per kill",
           "",
@@ -16157,7 +16157,7 @@
                 "text": "§a5 Combo §8(lasts §a{0}s§8)"
               },
               {
-                "text": "  §8+§b2% §b✯ Magic Find"
+                "text": "  §8+§b2% §b Magic Find"
               },
               {
                 "text": "§a10 Combo §8(lasts §a{1}s§8)"
@@ -16169,7 +16169,7 @@
                 "text": "§a15 Combo §8(lasts §a{2}s§8)"
               },
               {
-                "text": "  §8+§b2% §b✯ Magic Find"
+                "text": "  §8+§b2% §b Magic Find"
               },
               {
                 "text": "§a20 Combo §8(lasts §a{3}s§8)"
@@ -16181,7 +16181,7 @@
                 "text": "§a25 Combo §8(lasts §a{4}s§8)"
               },
               {
-                "text": "  §8+§b2% §b✯ Magic Find"
+                "text": "  §8+§b2% §b Magic Find"
               },
               {
                 "text": "§a30 Combo §8(lasts §a{5}s§8)"
@@ -16239,15 +16239,15 @@
           "§7stack as you increase your combo.",
           "",
           "§a5 Combo §8(lasts §a{0}s§8)",
-          "  §8+§b2% §b✯ Magic Find",
+          "  §8+§b2% §b Magic Find",
           "§a10 Combo §8(lasts §a{1}s§8)",
           "  §8+§68 §7coins per kill",
           "§a15 Combo §8(lasts §a{2}s§8)",
-          "  §8+§b3% §b✯ Magic Find",
+          "  §8+§b3% §b Magic Find",
           "§a20 Combo §8(lasts §a{3}s§8)",
           "  §8§3+12☯ Combat Wisdom",
           "§a25 Combo §8(lasts §a{4}s§8)",
-          "  §8+§b2% §b✯ Magic Find",
+          "  §8+§b2% §b Magic Find",
           "§a30 Combo §8(lasts §a{5}s§8)",
           "  §8+§68 §7coins per kill",
           "",
@@ -16333,7 +16333,7 @@
                 "text": "§a5 Combo §8(lasts §a{0}s§8)"
               },
               {
-                "text": "  §8+§b2% §b✯ Magic Find"
+                "text": "  §8+§b2% §b Magic Find"
               },
               {
                 "text": "§a10 Combo §8(lasts §a{1}s§8)"
@@ -16345,7 +16345,7 @@
                 "text": "§a15 Combo §8(lasts §a{2}s§8)"
               },
               {
-                "text": "  §8+§b3% §b✯ Magic Find"
+                "text": "  §8+§b3% §b Magic Find"
               },
               {
                 "text": "§a20 Combo §8(lasts §a{3}s§8)"
@@ -16357,7 +16357,7 @@
                 "text": "§a25 Combo §8(lasts §a{4}s§8)"
               },
               {
-                "text": "  §8+§b2% §b✯ Magic Find"
+                "text": "  §8+§b2% §b Magic Find"
               },
               {
                 "text": "§a30 Combo §8(lasts §a{5}s§8)"
@@ -16415,15 +16415,15 @@
           "§7stack as you increase your combo.",
           "",
           "§a5 Combo §8(lasts §a{0}s§8)",
-          "  §b+3% ✯ Magic Find",
+          "  §b+3%  Magic Find",
           "§a10 Combo §8(lasts §a{1}s§8)",
           "  §8+§610 §7coins per kill",
           "§a15 Combo §8(lasts §a{2}s§8)",
-          "  §b+3% ✯ Magic Find",
+          "  §b+3%  Magic Find",
           "§a20 Combo §8(lasts §a{3}s§8)",
           "  §3+15☯ Combat Wisdom",
           "§a25 Combo §8(lasts §a{4}s§8)",
-          "  §b+3% ✯ Magic Find",
+          "  §b+3%  Magic Find",
           "§a30 Combo §8(lasts §a{5}s§8)",
           "  §8+§610 §7coins per kill",
           "",
@@ -16509,7 +16509,7 @@
                 "text": "§a5 Combo §8(lasts §a{0}s§8)"
               },
               {
-                "text": "  §b+3% ✯ Magic Find"
+                "text": "  §b+3%  Magic Find"
               },
               {
                 "text": "§a10 Combo §8(lasts §a{1}s§8)"
@@ -16521,7 +16521,7 @@
                 "text": "§a15 Combo §8(lasts §a{2}s§8)"
               },
               {
-                "text": "  §b+3% ✯ Magic Find"
+                "text": "  §b+3%  Magic Find"
               },
               {
                 "text": "§a20 Combo §8(lasts §a{3}s§8)"
@@ -16533,7 +16533,7 @@
                 "text": "§a25 Combo §8(lasts §a{4}s§8)"
               },
               {
-                "text": "  §b+3% ✯ Magic Find"
+                "text": "  §b+3%  Magic Find"
               },
               {
                 "text": "§a30 Combo §8(lasts §a{5}s§8)"
@@ -17133,17 +17133,17 @@
           "§7Attack Speed: §e+{BONUS_ATTACK_SPEED}%",
           "",
           "§6Odyssey",
-          "§c12 §7types of §2✿ Mythological §7mobs can",
+          "§c12 §7types of §2 Mythological §7mobs can",
           "§7spawn from §eGriffin Burrows§7. Their",
           "§7stats scale with your Griffin’s",
           "§7rarity.",
           "",
           "§6Sacred Strength",
-          "§7Gain §c+{0}% ❁ Strength §7when above",
-          "§c85% ❤ Health§7.",
+          "§7Gain §c+{0}%  Strength §7when above",
+          "§c85%  Health§7.",
           "",
           "§6King of Kings",
-          "§7Grants §b+{1}✯ Magic Find §7on §2✿",
+          "§7Grants §b+{1} Magic Find §7on §2",
           "§2Mythological §7mobs.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -17211,7 +17211,7 @@
                 "text": "§6Odyssey"
               },
               {
-                "text": "§c12 §7types of §2✿ Mythological §7mobs can"
+                "text": "§c12 §7types of §2 Mythological §7mobs can"
               },
               {
                 "text": "§7spawn from §eGriffin Burrows§7. Their"
@@ -17229,10 +17229,10 @@
                 "text": "§6Sacred Strength"
               },
               {
-                "text": "§7Gain §c+{0}% ❁ Strength §7when above"
+                "text": "§7Gain §c+{0}%  Strength §7when above"
               },
               {
-                "text": "§c85% ❤ Health§7."
+                "text": "§c85%  Health§7."
               },
               {
                 "text": ""
@@ -17241,7 +17241,7 @@
                 "text": "§6King of Kings"
               },
               {
-                "text": "§7Grants §b+{1}✯ Magic Find §7on §2✿"
+                "text": "§7Grants §b+{1} Magic Find §7on §2"
               },
               {
                 "text": "§2Mythological §7mobs."
@@ -17295,21 +17295,21 @@
           "§7Attack Speed: §e+{BONUS_ATTACK_SPEED}%",
           "",
           "§6Odyssey",
-          "§c12 §7types of §2✿ Mythological §7mobs can",
+          "§c12 §7types of §2 Mythological §7mobs can",
           "§7spawn from §eGriffin Burrows§7. Their",
           "§7stats scale with your Griffin’s",
           "§7rarity.",
           "",
           "§6Sacred Strength",
-          "§7Gain §c+{0}% ❁ Strength §7when above",
-          "§c85% ❤ Health§7.",
+          "§7Gain §c+{0}%  Strength §7when above",
+          "§c85%  Health§7.",
           "",
           "§6King of Kings",
-          "§7Grants §b+{1}✯ Magic Find §7on §2✿",
+          "§7Grants §b+{1} Magic Find §7on §2",
           "§2Mythological §7mobs.",
           "",
           "§6Ancient Earth",
-          "§7Grants §d+1❃ Tracking §7on §eGriffin",
+          "§7Grants §d+1 Tracking §7on §eGriffin",
           "§eBurrows §7for each burrow excavated",
           "§7in your current chain.",
           "",
@@ -17377,7 +17377,7 @@
                 "text": "§6Odyssey"
               },
               {
-                "text": "§c12 §7types of §2✿ Mythological §7mobs can"
+                "text": "§c12 §7types of §2 Mythological §7mobs can"
               },
               {
                 "text": "§7spawn from §eGriffin Burrows§7. Their"
@@ -17395,10 +17395,10 @@
                 "text": "§6Sacred Strength"
               },
               {
-                "text": "§7Gain §c+{0}% ❁ Strength §7when above"
+                "text": "§7Gain §c+{0}%  Strength §7when above"
               },
               {
-                "text": "§c85% ❤ Health§7."
+                "text": "§c85%  Health§7."
               },
               {
                 "text": ""
@@ -17407,7 +17407,7 @@
                 "text": "§6King of Kings"
               },
               {
-                "text": "§7Grants §b+{1}✯ Magic Find §7on §2✿"
+                "text": "§7Grants §b+{1} Magic Find §7on §2"
               },
               {
                 "text": "§2Mythological §7mobs."
@@ -17419,7 +17419,7 @@
                 "text": "§6Ancient Earth"
               },
               {
-                "text": "§7Grants §d+1❃ Tracking §7on §eGriffin"
+                "text": "§7Grants §d+1 Tracking §7on §eGriffin"
               },
               {
                 "text": "§eBurrows §7for each burrow excavated"
@@ -17446,7 +17446,7 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
@@ -18348,7 +18348,7 @@
           "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}%",
           "",
           "§6Comfort Zone",
-          "§7Grants §b+{0}☂ Fishing Speed §7for §a30s",
+          "§7Grants §b+{0} Fishing Speed §7for §a30s",
           "§7upon catching §6Treasure§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -18405,7 +18405,7 @@
                 "text": "§6Comfort Zone"
               },
               {
-                "text": "§7Grants §b+{0}☂ Fishing Speed §7for §a30s"
+                "text": "§7Grants §b+{0} Fishing Speed §7for §a30s"
               },
               {
                 "text": "§7upon catching §6Treasure§7."
@@ -18432,7 +18432,7 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
@@ -19347,11 +19347,11 @@
           "§7Speed: §f+{SPEED}",
           "",
           "§6High Stride",
-          "§7Grants permanent §bJump Boost III§7.",
+          "§7Grants permanent §bJump Boost IV§7.",
           "",
           "§6Stampede",
-          "§7Mob kills grant a stack of §f+{0} ✦",
-          "§fSpeed§7 and §c+{1} ❁ Strength§7 for §a5s§7.",
+          "§7Mob kills grant a stack of §f+{0} ",
+          "§fSpeed§7 and §c+{1}  Strength§7 for §a5s§7.",
           "§8(Max 20 stacks)",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -19405,7 +19405,7 @@
                 "text": "§6High Stride"
               },
               {
-                "text": "§7Grants permanent §bJump Boost III§7."
+                "text": "§7Grants permanent §bJump Boost IV§7."
               },
               {
                 "text": ""
@@ -19414,10 +19414,10 @@
                 "text": "§6Stampede"
               },
               {
-                "text": "§7Mob kills grant a stack of §f+{0} ✦"
+                "text": "§7Mob kills grant a stack of §f+{0} "
               },
               {
-                "text": "§fSpeed§7 and §c+{1} ❁ Strength§7 for §a5s§7."
+                "text": "§fSpeed§7 and §c+{1}  Strength§7 for §a5s§7."
               },
               {
                 "text": "§8(Max 20 stacks)"
@@ -19444,7 +19444,7 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
@@ -20030,33 +20030,33 @@
           "§8Foraging Pet",
           "",
           "§7Strength: §c+{STRENGTH}",
-          "§7Magic Find: §a+{MAGIC_FIND}",
-          "§7Foraging Fortune: §a+{FORAGING_FORTUNE}",
+          "§7Magic Find: §b+{MAGIC_FIND}",
+          "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
           "",
           "§6Forest Power",
-          "§7Adds §c{0}❁ Strength §7and §f{1}✦",
-          "§fSpeed §7to all your Axes.",
+          "§7Adds §c{0} Strength §7and §f{1} Speed",
+          "§7to all your Axes.",
           "",
           "§6Jade Scale",
-          "§7Grants §615☘ Foraging Fortune §7and",
-          "§24∮ Sweep §7for every digit in your",
+          "§7Grants §615 Foraging Fortune §7and",
+          "§24 Sweep §7for every digit in your",
           "§aMangrove Collection§7.",
           "§8(Max 10M collection)",
           "",
           "§6Dragon's Pride",
-          "§7Grants §61☘ Foraging Fortune §7per §25∮",
+          "§7Grants §61 Foraging Fortune §7per §25",
           "§2Sweep§7.",
           "",
           "§6Apex Predator",
-          "§7Increase your total §2∮ Sweep §7by",
+          "§7Increase your total §2 Sweep §7by",
           "§20.1% §7for every Maxed out Attribute",
           "§7you unlocked.",
           "",
           "§6Symbiosis",
           "§7If you own a level §a200 Jade Dragon§7,",
-          "§7grants §6+4☘ Foraging Fortune §7for",
-          "§7every other unique maxed Foraging",
-          "§7Pet that you own.",
+          "§7grants §6+4 Foraging Fortune §7for",
+          "§7every other unique maxed §aForaging",
+          "§aPet §7that you own.",
           "",
           "§6§lLEGENDARY"
         ],
@@ -20103,10 +20103,10 @@
                 "text": "§7Strength: §c+{STRENGTH}"
               },
               {
-                "text": "§7Magic Find: §a+{MAGIC_FIND}"
+                "text": "§7Magic Find: §b+{MAGIC_FIND}"
               },
               {
-                "text": "§7Foraging Fortune: §a+{FORAGING_FORTUNE}"
+                "text": "§7Foraging Fortune: §6+{FORAGING_FORTUNE}"
               },
               {
                 "text": ""
@@ -20115,10 +20115,10 @@
                 "text": "§6Forest Power"
               },
               {
-                "text": "§7Adds §c{0}❁ Strength §7and §f{1}✦"
+                "text": "§7Adds §c{0} Strength §7and §f{1} Speed"
               },
               {
-                "text": "§fSpeed §7to all your Axes."
+                "text": "§7to all your Axes."
               },
               {
                 "text": ""
@@ -20127,10 +20127,10 @@
                 "text": "§6Jade Scale"
               },
               {
-                "text": "§7Grants §615☘ Foraging Fortune §7and"
+                "text": "§7Grants §615 Foraging Fortune §7and"
               },
               {
-                "text": "§24∮ Sweep §7for every digit in your"
+                "text": "§24 Sweep §7for every digit in your"
               },
               {
                 "text": "§aMangrove Collection§7."
@@ -20145,7 +20145,7 @@
                 "text": "§6Dragon's Pride"
               },
               {
-                "text": "§7Grants §61☘ Foraging Fortune §7per §25∮"
+                "text": "§7Grants §61 Foraging Fortune §7per §25"
               },
               {
                 "text": "§2Sweep§7."
@@ -20157,7 +20157,7 @@
                 "text": "§6Apex Predator"
               },
               {
-                "text": "§7Increase your total §2∮ Sweep §7by"
+                "text": "§7Increase your total §2 Sweep §7by"
               },
               {
                 "text": "§20.1% §7for every Maxed out Attribute"
@@ -20175,13 +20175,13 @@
                 "text": "§7If you own a level §a200 Jade Dragon§7,"
               },
               {
-                "text": "§7grants §6+4☘ Foraging Fortune §7for"
+                "text": "§7grants §6+4 Foraging Fortune §7for"
               },
               {
-                "text": "§7every other unique maxed Foraging"
+                "text": "§7every other unique maxed §aForaging"
               },
               {
-                "text": "§7Pet that you own."
+                "text": "§aPet §7that you own."
               },
               {
                 "text": ""
@@ -20202,7 +20202,7 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
@@ -30870,7 +30870,7 @@
           "",
           "§6Rat's Blessing",
           "§7Has a chance to grant a random",
-          "§7player §b+{0}✯ Magic Find§7 for §a{1}",
+          "§7player §b+{0} Magic Find§7 for §a{1}",
           "§7seconds after finding a yummy piece",
           "§7of Cheese! If the player gets a drop",
           "§7during this buff, you have a §a20%",
@@ -30964,7 +30964,7 @@
                 "text": "§7Has a chance to grant a random"
               },
               {
-                "text": "§7player §b+{0}✯ Magic Find§7 for §a{1}"
+                "text": "§7player §b+{0} Magic Find§7 for §a{1}"
               },
               {
                 "text": "§7seconds after finding a yummy piece"
@@ -31965,15 +31965,15 @@
           "§7Farming Fortune: §6+{FARMING_FORTUNE}",
           "",
           "§6Garden Power",
-          "§7Grants §6+{0}☘ Farming Fortune §7per",
+          "§7Grants §6+{0} Farming Fortune §7per",
           "§aFarming §7level.",
           "",
           "§6Rosy Scales",
-          "§7Grants §6+{1}☘ Farming Fortune §7and",
-          "§f+{2}✦ Speed §7per Crop Milestone.",
+          "§7Grants §6+{1} Farming Fortune §7and",
+          "§f+{2} Speed §7per Crop Milestone.",
           "",
           "§6Dragon's Gluttony",
-          "§7Grants §e+{3}☀ Overbloom§7.",
+          "§7Grants §e+{3} Overbloom§7.",
           "",
           "§6Spiritual Perfection",
           "§7Gain §a{4}% §7more §cCopper §7from §aGarden",
@@ -31981,7 +31981,7 @@
           "",
           "§6Symbiosis",
           "§7If you own a level §a200 Rose Dragon§7,",
-          "§7grants §6+3☘ Farming Fortune §7for",
+          "§7grants §6+3 Farming Fortune §7for",
           "§7every other unique maxed §aFarming",
           "§aPet §7that you own.",
           "",
@@ -32047,7 +32047,7 @@
                 "text": "§6Garden Power"
               },
               {
-                "text": "§7Grants §6+{0}☘ Farming Fortune §7per"
+                "text": "§7Grants §6+{0} Farming Fortune §7per"
               },
               {
                 "text": "§aFarming §7level."
@@ -32059,10 +32059,10 @@
                 "text": "§6Rosy Scales"
               },
               {
-                "text": "§7Grants §6+{1}☘ Farming Fortune §7and"
+                "text": "§7Grants §6+{1} Farming Fortune §7and"
               },
               {
-                "text": "§f+{2}✦ Speed §7per Crop Milestone."
+                "text": "§f+{2} Speed §7per Crop Milestone."
               },
               {
                 "text": ""
@@ -32071,7 +32071,7 @@
                 "text": "§6Dragon's Gluttony"
               },
               {
-                "text": "§7Grants §e+{3}☀ Overbloom§7."
+                "text": "§7Grants §e+{3} Overbloom§7."
               },
               {
                 "text": ""
@@ -32095,7 +32095,7 @@
                 "text": "§7If you own a level §a200 Rose Dragon§7,"
               },
               {
-                "text": "§7grants §6+3☘ Farming Fortune §7for"
+                "text": "§7grants §6+3 Farming Fortune §7for"
               },
               {
                 "text": "§7every other unique maxed §aFarming"
@@ -36270,8 +36270,8 @@
           "§7while on your §bPrivate Island§7.",
           "",
           "§6Slow and Steady",
-          "§7Convert every §f{1}✦ Speed §7you",
-          "§7have above §f100 §7into §6+1☘ Block",
+          "§7Convert every §f{1} Speed §7you",
+          "§7have above §f100 §7into §6+1 Block",
           "§6Fortune§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -36337,10 +36337,10 @@
                 "text": "§6Slow and Steady"
               },
               {
-                "text": "§7Convert every §f{1}✦ Speed §7you"
+                "text": "§7Convert every §f{1} Speed §7you"
               },
               {
-                "text": "§7have above §f100 §7into §6+1☘ Block"
+                "text": "§7have above §f100 §7into §6+1 Block"
               },
               {
                 "text": "§6Fortune§7."
