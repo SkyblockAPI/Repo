@@ -89073,7 +89073,7 @@
           "text": "§6Ability: Fire Blast  §e§lRIGHT CLICK"
         },
         {
-          "text": "§7Shoot 3 Fireballs which deal §c30.5§7 damage in"
+          "text": "§7Shoot 3 Fireballs which deal §c30§7 damage in"
         },
         {
           "text": "§7rapid succession in front of you!"
@@ -122635,7 +122635,6 @@
         "id": "FLAMING_CHESTPLATE"
       },
       "minecraft:unbreakable": {},
-      "minecraft:enchantment_glint_override": true,
       "minecraft:custom_name": {
         "text": "§9Flaming Chestplate"
       },
@@ -122659,13 +122658,13 @@
           "text": ""
         },
         {
-          "text": "§7Damage taken by §cLava Sea"
+          "text": "§7Damage taken from §c Magmatic§7 mobs"
         },
         {
-          "text": "§cCreatures §7is reduced by §a5% §7and"
+          "text": "§7is reduced by §a5% §7and damage dealt"
         },
         {
-          "text": "§7damage dealt is increased by §c1.1x§7."
+          "text": "§7is increased by §c1.1x§7."
         },
         {
           "text": ""
@@ -211303,13 +211302,13 @@
           "text": ""
         },
         {
-          "text": "§7Damage taken by §cLava Sea"
+          "text": "§7Damage taken from §c Magmatic§7 mobs"
         },
         {
-          "text": "§cCreatures §7is reduced by §a5% §7and"
+          "text": "§7is reduced by §a5% §7and damage dealt"
         },
         {
-          "text": "§7damage dealt is increased by §c1.1x§7."
+          "text": "§7is increased by §c1.1x§7."
         },
         {
           "text": ""
@@ -211329,15 +211328,13 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -353155,13 +353152,13 @@
           "text": ""
         },
         {
-          "text": "§7Damage taken by §cLava Sea"
+          "text": "§7Damage taken from §c Magmatic§7 mobs"
         },
         {
-          "text": "§cCreatures §7is reduced by §a5% §7and"
+          "text": "§7is reduced by §a5% §7and damage dealt"
         },
         {
-          "text": "§7damage dealt is increased by §c1.1x§7."
+          "text": "§7is increased by §c1.1x§7."
         },
         {
           "text": ""
@@ -353188,15 +353185,13 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
