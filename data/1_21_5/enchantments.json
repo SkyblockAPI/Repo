@@ -18563,13 +18563,13 @@
           "§7Sea creatures start with §a2.5%",
           "§7reduced health.",
           "",
-          "§6Source:",
-          "§aI-V: §7Enchantment Table,",
-          "§7Clay Ball Collection",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "§aVII: §6Severed Pincer",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§f§lCOMMON"
         ],
@@ -18606,13 +18606,16 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Enchantment Table,"
+                "text": "§aI-V: §7Enchantment Table"
               },
               {
-                "text": "§7Clay Ball Collection"
+                "text": "§aVI: §7Fishing, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Severed Pincer"
               },
               {
                 "text": ""
@@ -18622,9 +18625,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -18653,13 +18653,13 @@
           "§7Sea creatures start with §a5%",
           "§7reduced health.",
           "",
-          "§6Source:",
-          "§aI-V: §7Enchantment Table,",
-          "§7Clay Ball Collection",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "§aVII: §6Severed Pincer",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§f§lCOMMON"
         ],
@@ -18696,13 +18696,16 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Enchantment Table,"
+                "text": "§aI-V: §7Enchantment Table"
               },
               {
-                "text": "§7Clay Ball Collection"
+                "text": "§aVI: §7Fishing, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Severed Pincer"
               },
               {
                 "text": ""
@@ -18712,9 +18715,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -18743,13 +18743,13 @@
           "§7Sea creatures start with §a7.5%",
           "§7reduced health.",
           "",
-          "§6Source:",
-          "§aI-V: §7Enchantment Table,",
-          "§7Clay Ball Collection",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "§aVII: §6Severed Pincer",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§f§lCOMMON"
         ],
@@ -18786,13 +18786,16 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Enchantment Table,"
+                "text": "§aI-V: §7Enchantment Table"
               },
               {
-                "text": "§7Clay Ball Collection"
+                "text": "§aVI: §7Fishing, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Severed Pincer"
               },
               {
                 "text": ""
@@ -18802,9 +18805,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -18833,13 +18833,13 @@
           "§7Sea creatures start with §a10%",
           "§7reduced health.",
           "",
-          "§6Source:",
-          "§aI-V: §7Enchantment Table,",
-          "§7Clay Ball Collection",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "§aVII: §6Severed Pincer",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§f§lCOMMON"
         ],
@@ -18876,13 +18876,16 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Enchantment Table,"
+                "text": "§aI-V: §7Enchantment Table"
               },
               {
-                "text": "§7Clay Ball Collection"
+                "text": "§aVI: §7Fishing, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Severed Pincer"
               },
               {
                 "text": ""
@@ -18892,9 +18895,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -18923,13 +18923,13 @@
           "§7Sea creatures start with §a12.5%",
           "§7reduced health.",
           "",
-          "§6Source:",
-          "§aI-V: §7Enchantment Table,",
-          "§7Clay Ball Collection",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "§aVII: §6Severed Pincer",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§a§lUNCOMMON"
         ],
@@ -18966,13 +18966,16 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Enchantment Table,"
+                "text": "§aI-V: §7Enchantment Table"
               },
               {
-                "text": "§7Clay Ball Collection"
+                "text": "§aVI: §7Fishing, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Severed Pincer"
               },
               {
                 "text": ""
@@ -18982,9 +18985,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -19013,12 +19013,13 @@
           "§7Sea creatures start with §a15%",
           "§7reduced health.",
           "",
-          "§6Source:",
-          "§aVI: §7Fishing",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "§aVII: §6Severed Pincer",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§9§lRARE"
         ],
@@ -19055,10 +19056,16 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aVI: §7Fishing"
+                "text": "§aI-V: §7Enchantment Table"
+              },
+              {
+                "text": "§aVI: §7Fishing, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Severed Pincer"
               },
               {
                 "text": ""
@@ -19068,9 +19075,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -19096,6 +19100,89 @@
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:rare"
+          }
+        }
+      },
+      {
+        "level": 7,
+        "literal_level": "VII",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Frail VII",
+          "§7Sea creatures start with §a17.5%",
+          "§7reduced health.",
+          "",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "§aVII: §6Severed Pincer",
+          "",
+          "§6Applied To:",
+          "§7- §fFishing Rod",
+          "",
+          "§5§lEPIC"
+        ],
+        "item": {
+          "id": "minecraft:enchanted_book",
+          "components": {
+            "minecraft:custom_data": {
+              "enchantments": {
+                "frail": 7
+              },
+              "id": "FRAIL;7"
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_name": {
+              "text": "§5Enchanted Book"
+            },
+            "minecraft:lore": [
+              {
+                "text": "§8Combinable in Anvil"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§9Frail VII"
+              },
+              {
+                "text": "§7Sea creatures start with §a17.5%"
+              },
+              {
+                "text": "§7reduced health."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Sources:"
+              },
+              {
+                "text": "§aI-V: §7Enchantment Table"
+              },
+              {
+                "text": "§aVI: §7Fishing, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Severed Pincer"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Applied To:"
+              },
+              {
+                "text": "§7- §fFishing Rod"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§5§lEPIC"
+              }
+            ]
           }
         }
       }
@@ -28614,12 +28701,13 @@
           "§7increases the chance of fishing",
           "§7treasure.",
           "",
-          "§6Source:",
-          "§aVI: §7Fishing",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Bazaar, Junker Joel",
+          "§aVII: §6Golden Bottle Cap",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§f§lCOMMON"
         ],
@@ -28658,10 +28746,16 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aVI: §7Fishing"
+                "text": "§aI-V: §7Enchantment Table"
+              },
+              {
+                "text": "§aVI: §7Bazaar, Junker Joel"
+              },
+              {
+                "text": "§aVII: §6Golden Bottle Cap"
               },
               {
                 "text": ""
@@ -28671,9 +28765,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -28703,13 +28794,13 @@
           "§7increases the chance of fishing",
           "§7treasure.",
           "",
-          "§6Source:",
-          "§aI-V: §7Enchantment Table,",
-          "§7Raw Rabbit Collection",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Bazaar, Junker Joel",
+          "§aVII: §6Golden Bottle Cap",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§f§lCOMMON"
         ],
@@ -28748,13 +28839,16 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Enchantment Table,"
+                "text": "§aI-V: §7Enchantment Table"
               },
               {
-                "text": "§7Raw Rabbit Collection"
+                "text": "§aVI: §7Bazaar, Junker Joel"
+              },
+              {
+                "text": "§aVII: §6Golden Bottle Cap"
               },
               {
                 "text": ""
@@ -28764,9 +28858,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -28796,13 +28887,13 @@
           "§7increases the chance of fishing",
           "§7treasure.",
           "",
-          "§6Source:",
-          "§aI-V: §7Enchantment Table,",
-          "§7Raw Rabbit Collection",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Bazaar, Junker Joel",
+          "§aVII: §6Golden Bottle Cap",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§f§lCOMMON"
         ],
@@ -28841,13 +28932,16 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Enchantment Table,"
+                "text": "§aI-V: §7Enchantment Table"
               },
               {
-                "text": "§7Raw Rabbit Collection"
+                "text": "§aVI: §7Bazaar, Junker Joel"
+              },
+              {
+                "text": "§aVII: §6Golden Bottle Cap"
               },
               {
                 "text": ""
@@ -28857,9 +28951,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -28889,13 +28980,13 @@
           "§7increases the chance of fishing",
           "§7treasure.",
           "",
-          "§6Source:",
-          "§aI-V: §7Enchantment Table,",
-          "§7Raw Rabbit Collection",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Bazaar, Junker Joel",
+          "§aVII: §6Golden Bottle Cap",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§f§lCOMMON"
         ],
@@ -28934,13 +29025,16 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Enchantment Table,"
+                "text": "§aI-V: §7Enchantment Table"
               },
               {
-                "text": "§7Raw Rabbit Collection"
+                "text": "§aVI: §7Bazaar, Junker Joel"
+              },
+              {
+                "text": "§aVII: §6Golden Bottle Cap"
               },
               {
                 "text": ""
@@ -28950,9 +29044,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -28982,13 +29073,13 @@
           "§7increases the chance of fishing",
           "§7treasure.",
           "",
-          "§6Source:",
-          "§aI-V: §7Enchantment Table,",
-          "§7Raw Rabbit Collection",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Bazaar, Junker Joel",
+          "§aVII: §6Golden Bottle Cap",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§a§lUNCOMMON"
         ],
@@ -29027,13 +29118,16 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Enchantment Table,"
+                "text": "§aI-V: §7Enchantment Table"
               },
               {
-                "text": "§7Raw Rabbit Collection"
+                "text": "§aVI: §7Bazaar, Junker Joel"
+              },
+              {
+                "text": "§aVII: §6Golden Bottle Cap"
               },
               {
                 "text": ""
@@ -29043,9 +29137,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -29074,6 +29165,11 @@
           "§7Grants §6+3 Treasure Chance§7, which",
           "§7increases the chance of fishing",
           "§7treasure.",
+          "",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Bazaar, Junker Joel",
+          "§aVII: §6Golden Bottle Cap",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
@@ -29115,6 +29211,21 @@
                 "text": ""
               },
               {
+                "text": "§6Sources:"
+              },
+              {
+                "text": "§aI-V: §7Enchantment Table"
+              },
+              {
+                "text": "§aVI: §7Bazaar, Junker Joel"
+              },
+              {
+                "text": "§aVII: §6Golden Bottle Cap"
+              },
+              {
+                "text": ""
+              },
+              {
                 "text": "§6Applied To:"
               },
               {
@@ -29144,6 +29255,92 @@
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:rare"
+          }
+        }
+      },
+      {
+        "level": 7,
+        "literal_level": "VII",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Luck of the Sea VII",
+          "§7Grants §6+3.5 Treasure Chance§7, which",
+          "§7increases the chance of fishing",
+          "§7treasure.",
+          "",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Bazaar, Junker Joel",
+          "§aVII: §6Golden Bottle Cap",
+          "",
+          "§6Applied To:",
+          "§7- §fFishing Rod",
+          "",
+          "§5§lEPIC"
+        ],
+        "item": {
+          "id": "minecraft:enchanted_book",
+          "components": {
+            "minecraft:custom_data": {
+              "enchantments": {
+                "luck_of_the_sea": 7
+              },
+              "id": "LUCK_OF_THE_SEA;7"
+            },
+            "minecraft:custom_name": {
+              "text": "§5Enchanted Book"
+            },
+            "minecraft:lore": [
+              {
+                "text": "§8Combinable in Anvil"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§9Luck of the Sea VII"
+              },
+              {
+                "text": "§7Grants §6+3.5 Treasure Chance§7, which"
+              },
+              {
+                "text": "§7increases the chance of fishing"
+              },
+              {
+                "text": "§7treasure."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Sources:"
+              },
+              {
+                "text": "§aI-V: §7Enchantment Table"
+              },
+              {
+                "text": "§aVI: §7Bazaar, Junker Joel"
+              },
+              {
+                "text": "§aVII: §6Golden Bottle Cap"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Applied To:"
+              },
+              {
+                "text": "§7- §fFishing Rod"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§5§lEPIC"
+              }
+            ]
           }
         }
       }
@@ -34491,12 +34688,13 @@
           "§9Piscary I",
           "§7Grants §b+1 Fishing Speed§7.",
           "",
-          "§6Source:",
+          "§6Sources:",
           "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "§aVII: §6Troubled Bubble",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§f§lCOMMON"
         ],
@@ -34530,10 +34728,16 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
                 "text": "§aI-V: §7Enchantment Table"
+              },
+              {
+                "text": "§aVI: §7Fishing, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Troubled Bubble"
               },
               {
                 "text": ""
@@ -34543,9 +34747,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -34573,12 +34774,13 @@
           "§9Piscary II",
           "§7Grants §b+2 Fishing Speed§7.",
           "",
-          "§6Source:",
+          "§6Sources:",
           "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "§aVII: §6Troubled Bubble",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§f§lCOMMON"
         ],
@@ -34612,10 +34814,16 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
                 "text": "§aI-V: §7Enchantment Table"
+              },
+              {
+                "text": "§aVI: §7Fishing, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Troubled Bubble"
               },
               {
                 "text": ""
@@ -34625,9 +34833,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -34655,12 +34860,13 @@
           "§9Piscary III",
           "§7Grants §b+3 Fishing Speed§7.",
           "",
-          "§6Source:",
+          "§6Sources:",
           "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "§aVII: §6Troubled Bubble",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§f§lCOMMON"
         ],
@@ -34694,10 +34900,16 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
                 "text": "§aI-V: §7Enchantment Table"
+              },
+              {
+                "text": "§aVI: §7Fishing, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Troubled Bubble"
               },
               {
                 "text": ""
@@ -34707,9 +34919,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -34737,12 +34946,13 @@
           "§9Piscary IV",
           "§7Grants §b+4 Fishing Speed§7.",
           "",
-          "§6Source:",
+          "§6Sources:",
           "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "§aVII: §6Troubled Bubble",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§f§lCOMMON"
         ],
@@ -34776,10 +34986,16 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
                 "text": "§aI-V: §7Enchantment Table"
+              },
+              {
+                "text": "§aVI: §7Fishing, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Troubled Bubble"
               },
               {
                 "text": ""
@@ -34789,9 +35005,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -34819,12 +35032,13 @@
           "§9Piscary V",
           "§7Grants §b+5 Fishing Speed§7.",
           "",
-          "§6Source:",
+          "§6Sources:",
           "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "§aVII: §6Troubled Bubble",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§a§lUNCOMMON"
         ],
@@ -34858,10 +35072,16 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
                 "text": "§aI-V: §7Enchantment Table"
+              },
+              {
+                "text": "§aVI: §7Fishing, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Troubled Bubble"
               },
               {
                 "text": ""
@@ -34871,9 +35091,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -34901,13 +35118,13 @@
           "§9Piscary VI",
           "§7Grants §b+6 Fishing Speed§7.",
           "",
-          "§6Source:",
-          "§aVI: §7Fishing,",
-          "§7Experiments",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "§aVII: §6Troubled Bubble",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§9§lRARE"
         ],
@@ -34941,13 +35158,16 @@
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aVI: §7Fishing,"
+                "text": "§aI-V: §7Enchantment Table"
               },
               {
-                "text": "§7Experiments"
+                "text": "§aVI: §7Fishing, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Troubled Bubble"
               },
               {
                 "text": ""
@@ -34957,9 +35177,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -34975,6 +35192,85 @@
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:rare"
+          }
+        }
+      },
+      {
+        "level": 7,
+        "literal_level": "VII",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Piscary VII",
+          "§7Grants §b+7 Fishing Speed§7.",
+          "",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "§aVII: §6Troubled Bubble",
+          "",
+          "§6Applied To:",
+          "§7- §fFishing Rod",
+          "",
+          "§5§lEPIC"
+        ],
+        "item": {
+          "id": "minecraft:enchanted_book",
+          "components": {
+            "minecraft:custom_data": {
+              "enchantments": {
+                "piscary": 7
+              },
+              "id": "PISCARY;7"
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_name": {
+              "text": "§5Enchanted Book"
+            },
+            "minecraft:lore": [
+              {
+                "text": "§8Combinable in Anvil"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§9Piscary VII"
+              },
+              {
+                "text": "§7Grants §b+7 Fishing Speed§7."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Sources:"
+              },
+              {
+                "text": "§aI-V: §7Enchantment Table"
+              },
+              {
+                "text": "§aVI: §7Fishing, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Troubled Bubble"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Applied To:"
+              },
+              {
+                "text": "§7- §fFishing Rod"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§5§lEPIC"
+              }
+            ]
           }
         }
       }
@@ -41856,16 +42152,18 @@
           "§8Combinable in Anvil",
           "",
           "§9Scavenger I",
-          "§7Scavenge §60.3 Coins §7per",
-          "§7monster level on kill.",
+          "§7Scavenge §60.3 Coins §7per monster",
+          "§7level on kill.",
           "",
-          "§6Source:",
-          "§aI-III: §7Enchantment Table,",
-          "§7Gold Collection",
+          "§6Sources:",
+          "§aI-III: §7Enchantment Table",
+          "§aIV: §7Season of Jerry",
+          "§aIV-V: §7Experiments, Bazaar",
+          "§aV: §7Catacombs",
+          "§aVI: §6Golden Bounty",
           "",
           "§6Applied To:",
           "§7- §fSword",
-          "§7- §fFishing Weapon",
           "§7- §fLongsword",
           "§7- §fGauntlet",
           "",
@@ -41895,22 +42193,31 @@
                 "text": "§9Scavenger I"
               },
               {
-                "text": "§7Scavenge §60.3 Coins §7per"
+                "text": "§7Scavenge §60.3 Coins §7per monster"
               },
               {
-                "text": "§7monster level on kill."
+                "text": "§7level on kill."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-III: §7Enchantment Table,"
+                "text": "§aI-III: §7Enchantment Table"
               },
               {
-                "text": "§7Gold Collection"
+                "text": "§aIV: §7Season of Jerry"
+              },
+              {
+                "text": "§aIV-V: §7Experiments, Bazaar"
+              },
+              {
+                "text": "§aV: §7Catacombs"
+              },
+              {
+                "text": "§aVI: §6Golden Bounty"
               },
               {
                 "text": ""
@@ -41920,9 +42227,6 @@
               },
               {
                 "text": "§7- §fSword"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": "§7- §fLongsword"
@@ -41954,16 +42258,18 @@
           "§8Combinable in Anvil",
           "",
           "§9Scavenger II",
-          "§7Scavenge §60.6 Coins §7per",
-          "§7monster level on kill.",
+          "§7Scavenge §60.6 Coins §7per monster",
+          "§7level on kill.",
           "",
-          "§6Source:",
-          "§aI-III: §7Enchantment Table,",
-          "§7Gold Collection",
+          "§6Sources:",
+          "§aI-III: §7Enchantment Table",
+          "§aIV: §7Season of Jerry",
+          "§aIV-V: §7Experiments, Bazaar",
+          "§aV: §7Catacombs",
+          "§aVI: §6Golden Bounty",
           "",
           "§6Applied To:",
           "§7- §fSword",
-          "§7- §fFishing Weapon",
           "§7- §fLongsword",
           "§7- §fGauntlet",
           "",
@@ -41993,22 +42299,31 @@
                 "text": "§9Scavenger II"
               },
               {
-                "text": "§7Scavenge §60.6 Coins §7per"
+                "text": "§7Scavenge §60.6 Coins §7per monster"
               },
               {
-                "text": "§7monster level on kill."
+                "text": "§7level on kill."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-III: §7Enchantment Table,"
+                "text": "§aI-III: §7Enchantment Table"
               },
               {
-                "text": "§7Gold Collection"
+                "text": "§aIV: §7Season of Jerry"
+              },
+              {
+                "text": "§aIV-V: §7Experiments, Bazaar"
+              },
+              {
+                "text": "§aV: §7Catacombs"
+              },
+              {
+                "text": "§aVI: §6Golden Bounty"
               },
               {
                 "text": ""
@@ -42018,9 +42333,6 @@
               },
               {
                 "text": "§7- §fSword"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": "§7- §fLongsword"
@@ -42052,16 +42364,18 @@
           "§8Combinable in Anvil",
           "",
           "§9Scavenger III",
-          "§7Scavenge §60.9 Coins §7per",
-          "§7monster level on kill.",
+          "§7Scavenge §60.9 Coins §7per monster",
+          "§7level on kill.",
           "",
-          "§6Source:",
-          "§aI-III: §7Enchantment Table,",
-          "§7Gold Collection",
+          "§6Sources:",
+          "§aI-III: §7Enchantment Table",
+          "§aIV: §7Season of Jerry",
+          "§aIV-V: §7Experiments, Bazaar",
+          "§aV: §7Catacombs",
+          "§aVI: §6Golden Bounty",
           "",
           "§6Applied To:",
           "§7- §fSword",
-          "§7- §fFishing Weapon",
           "§7- §fLongsword",
           "§7- §fGauntlet",
           "",
@@ -42091,22 +42405,31 @@
                 "text": "§9Scavenger III"
               },
               {
-                "text": "§7Scavenge §60.9 Coins §7per"
+                "text": "§7Scavenge §60.9 Coins §7per monster"
               },
               {
-                "text": "§7monster level on kill."
+                "text": "§7level on kill."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-III: §7Enchantment Table,"
+                "text": "§aI-III: §7Enchantment Table"
               },
               {
-                "text": "§7Gold Collection"
+                "text": "§aIV: §7Season of Jerry"
+              },
+              {
+                "text": "§aIV-V: §7Experiments, Bazaar"
+              },
+              {
+                "text": "§aV: §7Catacombs"
+              },
+              {
+                "text": "§aVI: §6Golden Bounty"
               },
               {
                 "text": ""
@@ -42116,9 +42439,6 @@
               },
               {
                 "text": "§7- §fSword"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": "§7- §fLongsword"
@@ -42150,16 +42470,18 @@
           "§8Combinable in Anvil",
           "",
           "§9Scavenger IV",
-          "§7Scavenge §61.2 Coins §7per",
-          "§7monster level on kill.",
+          "§7Scavenge §61.2 Coins §7per monster",
+          "§7level on kill.",
           "",
-          "§6Source:",
+          "§6Sources:",
+          "§aI-III: §7Enchantment Table",
           "§aIV: §7Season of Jerry",
-          "§7Experiments",
+          "§aIV-V: §7Experiments, Bazaar",
+          "§aV: §7Catacombs",
+          "§aVI: §6Golden Bounty",
           "",
           "§6Applied To:",
           "§7- §fSword",
-          "§7- §fFishing Weapon",
           "§7- §fLongsword",
           "§7- §fGauntlet",
           "",
@@ -42189,22 +42511,31 @@
                 "text": "§9Scavenger IV"
               },
               {
-                "text": "§7Scavenge §61.2 Coins §7per"
+                "text": "§7Scavenge §61.2 Coins §7per monster"
               },
               {
-                "text": "§7monster level on kill."
+                "text": "§7level on kill."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
+              },
+              {
+                "text": "§aI-III: §7Enchantment Table"
               },
               {
                 "text": "§aIV: §7Season of Jerry"
               },
               {
-                "text": "§7Experiments"
+                "text": "§aIV-V: §7Experiments, Bazaar"
+              },
+              {
+                "text": "§aV: §7Catacombs"
+              },
+              {
+                "text": "§aVI: §6Golden Bounty"
               },
               {
                 "text": ""
@@ -42214,9 +42545,6 @@
               },
               {
                 "text": "§7- §fSword"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": "§7- §fLongsword"
@@ -42248,16 +42576,18 @@
           "§8Combinable in Anvil",
           "",
           "§9Scavenger V",
-          "§7Scavenge §61.5 Coins §7per",
-          "§7monster level on kill.",
+          "§7Scavenge §61.5 Coins §7per monster",
+          "§7level on kill.",
           "",
-          "§6Source:",
-          "§aIV: §7Dungeon",
-          "§7Experiments",
+          "§6Sources:",
+          "§aI-III: §7Enchantment Table",
+          "§aIV: §7Season of Jerry",
+          "§aIV-V: §7Experiments, Bazaar",
+          "§aV: §7Catacombs",
+          "§aVI: §6Golden Bounty",
           "",
           "§6Applied To:",
           "§7- §fSword",
-          "§7- §fFishing Weapon",
           "§7- §fLongsword",
           "§7- §fGauntlet",
           "",
@@ -42287,22 +42617,31 @@
                 "text": "§9Scavenger V"
               },
               {
-                "text": "§7Scavenge §61.5 Coins §7per"
+                "text": "§7Scavenge §61.5 Coins §7per monster"
               },
               {
-                "text": "§7monster level on kill."
+                "text": "§7level on kill."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aIV: §7Dungeon"
+                "text": "§aI-III: §7Enchantment Table"
               },
               {
-                "text": "§7Experiments"
+                "text": "§aIV: §7Season of Jerry"
+              },
+              {
+                "text": "§aIV-V: §7Experiments, Bazaar"
+              },
+              {
+                "text": "§aV: §7Catacombs"
+              },
+              {
+                "text": "§aVI: §6Golden Bounty"
               },
               {
                 "text": ""
@@ -42312,9 +42651,6 @@
               },
               {
                 "text": "§7- §fSword"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": "§7- §fLongsword"
@@ -42336,6 +42672,105 @@
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+          }
+        }
+      },
+      {
+        "level": 6,
+        "literal_level": "VI",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Scavenger VI",
+          "§7Scavenge §61.8 Coins §7per monster",
+          "§7level on kill.",
+          "",
+          "§6Sources:",
+          "§aI-III: §7Enchantment Table",
+          "§aIV: §7Season of Jerry",
+          "§aIV-V: §7Experiments, Bazaar",
+          "§aV: §7Catacombs",
+          "§aVI: §6Golden Bounty",
+          "",
+          "§6Applied To:",
+          "§7- §fSword",
+          "§7- §fLongsword",
+          "§7- §fGauntlet",
+          "",
+          "§9§lRARE"
+        ],
+        "item": {
+          "id": "minecraft:enchanted_book",
+          "components": {
+            "minecraft:custom_data": {
+              "enchantments": {
+                "scavenger": 6
+              },
+              "id": "SCAVENGER;6"
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_name": {
+              "text": "§9Enchanted Book"
+            },
+            "minecraft:lore": [
+              {
+                "text": "§8Combinable in Anvil"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§9Scavenger VI"
+              },
+              {
+                "text": "§7Scavenge §61.8 Coins §7per monster"
+              },
+              {
+                "text": "§7level on kill."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Sources:"
+              },
+              {
+                "text": "§aI-III: §7Enchantment Table"
+              },
+              {
+                "text": "§aIV: §7Season of Jerry"
+              },
+              {
+                "text": "§aIV-V: §7Experiments, Bazaar"
+              },
+              {
+                "text": "§aV: §7Catacombs"
+              },
+              {
+                "text": "§aVI: §6Golden Bounty"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Applied To:"
+              },
+              {
+                "text": "§7- §fSword"
+              },
+              {
+                "text": "§7- §fLongsword"
+              },
+              {
+                "text": "§7- §fGauntlet"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§9§lRARE"
+              }
+            ]
           }
         }
       }
@@ -45878,16 +46313,16 @@
           "§8Combinable in Anvil",
           "",
           "§9Spiked Hook I",
-          "§7Fishing rod deals §a5%§7 more",
-          "§7damage to monsters.",
+          "§7Fishing rod deals §a5%§7 more damage",
+          "§7to monsters.",
           "",
-          "§6Source:",
-          "§aI-V: §7Enchantment Table,",
-          "§7Salmon Collection",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "§aVII: §6Octopus Tendril",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§f§lCOMMON"
         ],
@@ -45915,22 +46350,25 @@
                 "text": "§9Spiked Hook I"
               },
               {
-                "text": "§7Fishing rod deals §a5%§7 more"
+                "text": "§7Fishing rod deals §a5%§7 more damage"
               },
               {
-                "text": "§7damage to monsters."
+                "text": "§7to monsters."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Enchantment Table,"
+                "text": "§aI-V: §7Enchantment Table"
               },
               {
-                "text": "§7Salmon Collection"
+                "text": "§aVI: §7Fishing, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Octopus Tendril"
               },
               {
                 "text": ""
@@ -45940,9 +46378,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -45968,16 +46403,16 @@
           "§8Combinable in Anvil",
           "",
           "§9Spiked Hook II",
-          "§7Fishing rod deals §a10%§7 more",
-          "§7damage to monsters.",
+          "§7Fishing rod deals §a10%§7 more damage",
+          "§7to monsters.",
           "",
-          "§6Source:",
-          "§aI-V: §7Enchantment Table,",
-          "§7Salmon Collection",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "§aVII: §6Octopus Tendril",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§f§lCOMMON"
         ],
@@ -46005,22 +46440,25 @@
                 "text": "§9Spiked Hook II"
               },
               {
-                "text": "§7Fishing rod deals §a10%§7 more"
+                "text": "§7Fishing rod deals §a10%§7 more damage"
               },
               {
-                "text": "§7damage to monsters."
+                "text": "§7to monsters."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Enchantment Table,"
+                "text": "§aI-V: §7Enchantment Table"
               },
               {
-                "text": "§7Salmon Collection"
+                "text": "§aVI: §7Fishing, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Octopus Tendril"
               },
               {
                 "text": ""
@@ -46030,9 +46468,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -46058,16 +46493,16 @@
           "§8Combinable in Anvil",
           "",
           "§9Spiked Hook III",
-          "§7Fishing rod deals §a15%§7 more",
-          "§7damage to monsters.",
+          "§7Fishing rod deals §a15%§7 more damage",
+          "§7to monsters.",
           "",
-          "§6Source:",
-          "§aI-V: §7Enchantment Table,",
-          "§7Salmon Collection",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "§aVII: §6Octopus Tendril",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§f§lCOMMON"
         ],
@@ -46095,22 +46530,25 @@
                 "text": "§9Spiked Hook III"
               },
               {
-                "text": "§7Fishing rod deals §a15%§7 more"
+                "text": "§7Fishing rod deals §a15%§7 more damage"
               },
               {
-                "text": "§7damage to monsters."
+                "text": "§7to monsters."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Enchantment Table,"
+                "text": "§aI-V: §7Enchantment Table"
               },
               {
-                "text": "§7Salmon Collection"
+                "text": "§aVI: §7Fishing, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Octopus Tendril"
               },
               {
                 "text": ""
@@ -46120,9 +46558,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -46148,16 +46583,16 @@
           "§8Combinable in Anvil",
           "",
           "§9Spiked Hook IV",
-          "§7Fishing rod deals §a20%§7 more",
-          "§7damage to monsters.",
+          "§7Fishing rod deals §a20%§7 more damage",
+          "§7to monsters.",
           "",
-          "§6Source:",
-          "§aI-V: §7Enchantment Table,",
-          "§7Salmon Collection",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "§aVII: §6Octopus Tendril",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§f§lCOMMON"
         ],
@@ -46185,22 +46620,25 @@
                 "text": "§9Spiked Hook IV"
               },
               {
-                "text": "§7Fishing rod deals §a20%§7 more"
+                "text": "§7Fishing rod deals §a20%§7 more damage"
               },
               {
-                "text": "§7damage to monsters."
+                "text": "§7to monsters."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Enchantment Table,"
+                "text": "§aI-V: §7Enchantment Table"
               },
               {
-                "text": "§7Salmon Collection"
+                "text": "§aVI: §7Fishing, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Octopus Tendril"
               },
               {
                 "text": ""
@@ -46210,9 +46648,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -46238,16 +46673,16 @@
           "§8Combinable in Anvil",
           "",
           "§9Spiked Hook V",
-          "§7Fishing rod deals §a25%§7 more",
-          "§7damage to monsters.",
+          "§7Fishing rod deals §a25%§7 more damage",
+          "§7to monsters.",
           "",
-          "§6Source:",
-          "§aI-V: §7Enchantment Table,",
-          "§7Salmon Collection",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "§aVII: §6Octopus Tendril",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§a§lUNCOMMON"
         ],
@@ -46275,22 +46710,25 @@
                 "text": "§9Spiked Hook V"
               },
               {
-                "text": "§7Fishing rod deals §a25%§7 more"
+                "text": "§7Fishing rod deals §a25%§7 more damage"
               },
               {
-                "text": "§7damage to monsters."
+                "text": "§7to monsters."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Enchantment Table,"
+                "text": "§aI-V: §7Enchantment Table"
               },
               {
-                "text": "§7Salmon Collection"
+                "text": "§aVI: §7Fishing, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Octopus Tendril"
               },
               {
                 "text": ""
@@ -46300,9 +46738,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -46328,15 +46763,16 @@
           "§8Combinable in Anvil",
           "",
           "§9Spiked Hook VI",
-          "§7Fishing rod deals §a30%§7 more",
-          "§7damage to monsters.",
+          "§7Fishing rod deals §a30%§7 more damage",
+          "§7to monsters.",
           "",
-          "§6Source:",
-          "§aVI: §7Fishing",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "§aVII: §6Octopus Tendril",
           "",
           "§6Applied To:",
           "§7- §fFishing Rod",
-          "§7- §fFishing Weapon",
           "",
           "§9§lRARE"
         ],
@@ -46364,19 +46800,25 @@
                 "text": "§9Spiked Hook VI"
               },
               {
-                "text": "§7Fishing rod deals §a30%§7 more"
+                "text": "§7Fishing rod deals §a30%§7 more damage"
               },
               {
-                "text": "§7damage to monsters."
+                "text": "§7to monsters."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aVI: §7Fishing"
+                "text": "§aI-V: §7Enchantment Table"
+              },
+              {
+                "text": "§aVI: §7Fishing, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Octopus Tendril"
               },
               {
                 "text": ""
@@ -46386,9 +46828,6 @@
               },
               {
                 "text": "§7- §fFishing Rod"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": ""
@@ -46414,6 +46853,89 @@
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:rare"
+          }
+        }
+      },
+      {
+        "level": 7,
+        "literal_level": "VII",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Spiked Hook VII",
+          "§7Fishing rod deals §a35%§7 more damage",
+          "§7to monsters.",
+          "",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Fishing, Bazaar",
+          "§aVII: §6Octopus Tendril",
+          "",
+          "§6Applied To:",
+          "§7- §fFishing Rod",
+          "",
+          "§5§lEPIC"
+        ],
+        "item": {
+          "id": "minecraft:enchanted_book",
+          "components": {
+            "minecraft:custom_data": {
+              "enchantments": {
+                "spiked_hook": 7
+              },
+              "id": "SPIKED_HOOK;7"
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_name": {
+              "text": "§5Enchanted Book"
+            },
+            "minecraft:lore": [
+              {
+                "text": "§8Combinable in Anvil"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§9Spiked Hook VII"
+              },
+              {
+                "text": "§7Fishing rod deals §a35%§7 more damage"
+              },
+              {
+                "text": "§7to monsters."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Sources:"
+              },
+              {
+                "text": "§aI-V: §7Enchantment Table"
+              },
+              {
+                "text": "§aVI: §7Fishing, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Octopus Tendril"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Applied To:"
+              },
+              {
+                "text": "§7- §fFishing Rod"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§5§lEPIC"
+              }
+            ]
           }
         }
       }
@@ -49954,16 +50476,18 @@
           "§8Combinable in Anvil",
           "",
           "§9Thorns I",
-          "§7Grants a §a50% §7chance to",
-          "§7rebound §a3% §7of damage dealt",
-          "§7back at the attacker.",
+          "§7Grants a §a50% §7chance to rebound §a3%",
+          "§7of damage dealt back at the attacker.",
           "",
-          "§6Source:",
-          "§aI-III: §7Enchantment Table,",
-          "§7Cactus Collection",
+          "§6Sources:",
+          "§aI-III: §7Enchantment Table",
+          "§aIV: §6Prickly Creeper",
           "",
           "§6Applied To:",
           "§7- §fArmor",
+          "",
+          "§6Conflicts:",
+          "§7- §cReflection",
           "",
           "§f§lCOMMON"
         ],
@@ -49991,25 +50515,22 @@
                 "text": "§9Thorns I"
               },
               {
-                "text": "§7Grants a §a50% §7chance to"
+                "text": "§7Grants a §a50% §7chance to rebound §a3%"
               },
               {
-                "text": "§7rebound §a3% §7of damage dealt"
-              },
-              {
-                "text": "§7back at the attacker."
+                "text": "§7of damage dealt back at the attacker."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-III: §7Enchantment Table,"
+                "text": "§aI-III: §7Enchantment Table"
               },
               {
-                "text": "§7Cactus Collection"
+                "text": "§aIV: §6Prickly Creeper"
               },
               {
                 "text": ""
@@ -50019,6 +50540,15 @@
               },
               {
                 "text": "§7- §fArmor"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Conflicts:"
+              },
+              {
+                "text": "§7- §cReflection"
               },
               {
                 "text": ""
@@ -50044,16 +50574,18 @@
           "§8Combinable in Anvil",
           "",
           "§9Thorns II",
-          "§7Grants a §a50% §7chance to",
-          "§7rebound §a6% §7of damage dealt",
-          "§7back at the attacker.",
+          "§7Grants a §a50% §7chance to rebound §a6%",
+          "§7of damage dealt back at the attacker.",
           "",
-          "§6Source:",
-          "§aI-III: §7Enchantment Table,",
-          "§7Cactus Collection",
+          "§6Sources:",
+          "§aI-III: §7Enchantment Table",
+          "§aIV: §6Prickly Creeper",
           "",
           "§6Applied To:",
           "§7- §fArmor",
+          "",
+          "§6Conflicts:",
+          "§7- §cReflection",
           "",
           "§f§lCOMMON"
         ],
@@ -50081,25 +50613,22 @@
                 "text": "§9Thorns II"
               },
               {
-                "text": "§7Grants a §a50% §7chance to"
+                "text": "§7Grants a §a50% §7chance to rebound §a6%"
               },
               {
-                "text": "§7rebound §a6% §7of damage dealt"
-              },
-              {
-                "text": "§7back at the attacker."
+                "text": "§7of damage dealt back at the attacker."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-III: §7Enchantment Table,"
+                "text": "§aI-III: §7Enchantment Table"
               },
               {
-                "text": "§7Cactus Collection"
+                "text": "§aIV: §6Prickly Creeper"
               },
               {
                 "text": ""
@@ -50109,6 +50638,15 @@
               },
               {
                 "text": "§7- §fArmor"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Conflicts:"
+              },
+              {
+                "text": "§7- §cReflection"
               },
               {
                 "text": ""
@@ -50134,16 +50672,18 @@
           "§8Combinable in Anvil",
           "",
           "§9Thorns III",
-          "§7Grants a §a50% §7chance to",
-          "§7rebound §a9% §7of damage dealt",
-          "§7back at the attacker.",
+          "§7Grants a §a50% §7chance to rebound §a9%",
+          "§7of damage dealt back at the attacker.",
           "",
-          "§6Source:",
-          "§aI-III: §7Enchantment Table,",
-          "§7Cactus Collection",
+          "§6Sources:",
+          "§aI-III: §7Enchantment Table",
+          "§aIV: §6Prickly Creeper",
           "",
           "§6Applied To:",
           "§7- §fArmor",
+          "",
+          "§6Conflicts:",
+          "§7- §cReflection",
           "",
           "§f§lCOMMON"
         ],
@@ -50171,25 +50711,22 @@
                 "text": "§9Thorns III"
               },
               {
-                "text": "§7Grants a §a50% §7chance to"
+                "text": "§7Grants a §a50% §7chance to rebound §a9%"
               },
               {
-                "text": "§7rebound §a9% §7of damage dealt"
-              },
-              {
-                "text": "§7back at the attacker."
+                "text": "§7of damage dealt back at the attacker."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-III: §7Enchantment Table,"
+                "text": "§aI-III: §7Enchantment Table"
               },
               {
-                "text": "§7Cactus Collection"
+                "text": "§aIV: §6Prickly Creeper"
               },
               {
                 "text": ""
@@ -50199,6 +50736,15 @@
               },
               {
                 "text": "§7- §fArmor"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Conflicts:"
+              },
+              {
+                "text": "§7- §cReflection"
               },
               {
                 "text": ""
@@ -50215,6 +50761,97 @@
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:common"
+          }
+        }
+      },
+      {
+        "level": 4,
+        "literal_level": "IV",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Thorns IV",
+          "§7Grants a §a50% §7chance to rebound §a12%",
+          "§7of damage dealt back at the attacker.",
+          "",
+          "§6Sources:",
+          "§aI-III: §7Enchantment Table",
+          "§aIV: §6Prickly Creeper",
+          "",
+          "§6Applied To:",
+          "§7- §fArmor",
+          "",
+          "§6Conflicts:",
+          "§7- §cReflection",
+          "",
+          "§f§lCOMMON"
+        ],
+        "item": {
+          "id": "minecraft:enchanted_book",
+          "components": {
+            "minecraft:custom_data": {
+              "enchantments": {
+                "thorns": 4
+              },
+              "id": "THORNS;4"
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_name": {
+              "text": "§fEnchanted Book"
+            },
+            "minecraft:lore": [
+              {
+                "text": "§8Combinable in Anvil"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§9Thorns IV"
+              },
+              {
+                "text": "§7Grants a §a50% §7chance to rebound §a12%"
+              },
+              {
+                "text": "§7of damage dealt back at the attacker."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Sources:"
+              },
+              {
+                "text": "§aI-III: §7Enchantment Table"
+              },
+              {
+                "text": "§aIV: §6Prickly Creeper"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Applied To:"
+              },
+              {
+                "text": "§7- §fArmor"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Conflicts:"
+              },
+              {
+                "text": "§7- §cReflection"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§f§lCOMMON"
+              }
+            ]
           }
         }
       }
@@ -75884,19 +76521,18 @@
           "§8Combinable in Anvil",
           "",
           "§9Venomous I",
-          "§7Reduces the target's walk speed",
-          "§7by §a5% §7and deals §2+0.3% §7of",
-          "§7your damage per second per hit,",
-          "§7stacking globally up to §240",
-          "§7hits. Lasts §65s§7.",
+          "§7Reduces the target's walk speed by",
+          "§a2% §7and deals §2+0.2% §7of your damage",
+          "§7per second per hit, stacking globally",
+          "§7up to §240 §7hits. Lasts §65s§7.",
           "",
-          "§6Source:",
-          "§aI-V: §7Enchantment Table,",
-          "§7Spider Eye Collection",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Experiments, Bazaar",
+          "§aVII: §6Fateful Stinger",
           "",
           "§6Applied To:",
           "§7- §fSword",
-          "§7- §fFishing Weapon",
           "§7- §fLongsword",
           "§7- §fGauntlet",
           "",
@@ -75926,31 +76562,31 @@
                 "text": "§9Venomous I"
               },
               {
-                "text": "§7Reduces the target's walk speed"
+                "text": "§7Reduces the target's walk speed by"
               },
               {
-                "text": "§7by §a5% §7and deals §2+0.3% §7of"
+                "text": "§a2% §7and deals §2+0.2% §7of your damage"
               },
               {
-                "text": "§7your damage per second per hit,"
+                "text": "§7per second per hit, stacking globally"
               },
               {
-                "text": "§7stacking globally up to §240"
-              },
-              {
-                "text": "§7hits. Lasts §65s§7."
+                "text": "§7up to §240 §7hits. Lasts §65s§7."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Enchantment Table,"
+                "text": "§aI-V: §7Enchantment Table"
               },
               {
-                "text": "§7Spider Eye Collection"
+                "text": "§aVI: §7Experiments, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Fateful Stinger"
               },
               {
                 "text": ""
@@ -75960,9 +76596,6 @@
               },
               {
                 "text": "§7- §fSword"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": "§7- §fLongsword"
@@ -75994,19 +76627,18 @@
           "§8Combinable in Anvil",
           "",
           "§9Venomous II",
-          "§7Reduces the target's walk speed",
-          "§7by §a10% §7and deals §2+0.6% §7of",
-          "§7your damage per second per hit,",
-          "§7stacking globally up to §240",
-          "§7hits. Lasts §65s§7.",
+          "§7Reduces the target's walk speed by",
+          "§a4% §7and deals §2+0.4% §7of your damage",
+          "§7per second per hit, stacking globally",
+          "§7up to §240 §7hits. Lasts §65s§7.",
           "",
-          "§6Source:",
-          "§aI-V: §7Enchantment Table,",
-          "§7Spider Eye Collection",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Experiments, Bazaar",
+          "§aVII: §6Fateful Stinger",
           "",
           "§6Applied To:",
           "§7- §fSword",
-          "§7- §fFishing Weapon",
           "§7- §fLongsword",
           "§7- §fGauntlet",
           "",
@@ -76036,31 +76668,31 @@
                 "text": "§9Venomous II"
               },
               {
-                "text": "§7Reduces the target's walk speed"
+                "text": "§7Reduces the target's walk speed by"
               },
               {
-                "text": "§7by §a10% §7and deals §2+0.6% §7of"
+                "text": "§a4% §7and deals §2+0.4% §7of your damage"
               },
               {
-                "text": "§7your damage per second per hit,"
+                "text": "§7per second per hit, stacking globally"
               },
               {
-                "text": "§7stacking globally up to §240"
-              },
-              {
-                "text": "§7hits. Lasts §65s§7."
+                "text": "§7up to §240 §7hits. Lasts §65s§7."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Enchantment Table,"
+                "text": "§aI-V: §7Enchantment Table"
               },
               {
-                "text": "§7Spider Eye Collection"
+                "text": "§aVI: §7Experiments, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Fateful Stinger"
               },
               {
                 "text": ""
@@ -76070,9 +76702,6 @@
               },
               {
                 "text": "§7- §fSword"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": "§7- §fLongsword"
@@ -76104,19 +76733,18 @@
           "§8Combinable in Anvil",
           "",
           "§9Venomous III",
-          "§7Reduces the target's walk speed",
-          "§7by §a15% §7and deals §2+0.9% §7of",
-          "§7your damage per second per hit,",
-          "§7stacking globally up to §240",
-          "§7hits. Lasts §65s§7.",
+          "§7Reduces the target's walk speed by",
+          "§a6% §7and deals §2+0.6% §7of your damage",
+          "§7per second per hit, stacking globally",
+          "§7up to §240 §7hits. Lasts §65s§7.",
           "",
-          "§6Source:",
-          "§aI-V: §7Enchantment Table,",
-          "§7Spider Eye Collection",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Experiments, Bazaar",
+          "§aVII: §6Fateful Stinger",
           "",
           "§6Applied To:",
           "§7- §fSword",
-          "§7- §fFishing Weapon",
           "§7- §fLongsword",
           "§7- §fGauntlet",
           "",
@@ -76146,31 +76774,31 @@
                 "text": "§9Venomous III"
               },
               {
-                "text": "§7Reduces the target's walk speed"
+                "text": "§7Reduces the target's walk speed by"
               },
               {
-                "text": "§7by §a15% §7and deals §2+0.9% §7of"
+                "text": "§a6% §7and deals §2+0.6% §7of your damage"
               },
               {
-                "text": "§7your damage per second per hit,"
+                "text": "§7per second per hit, stacking globally"
               },
               {
-                "text": "§7stacking globally up to §240"
-              },
-              {
-                "text": "§7hits. Lasts §65s§7."
+                "text": "§7up to §240 §7hits. Lasts §65s§7."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Enchantment Table,"
+                "text": "§aI-V: §7Enchantment Table"
               },
               {
-                "text": "§7Spider Eye Collection"
+                "text": "§aVI: §7Experiments, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Fateful Stinger"
               },
               {
                 "text": ""
@@ -76180,9 +76808,6 @@
               },
               {
                 "text": "§7- §fSword"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": "§7- §fLongsword"
@@ -76214,19 +76839,18 @@
           "§8Combinable in Anvil",
           "",
           "§9Venomous IV",
-          "§7Reduces the target's walk speed",
-          "§7by §a20% §7and deals §2+1.2% §7of",
-          "§7your damage per second per hit,",
-          "§7stacking globally up to §240",
-          "§7hits. Lasts §65s§7.",
+          "§7Reduces the target's walk speed by",
+          "§a8% §7and deals §2+0.8% §7of your damage",
+          "§7per second per hit, stacking globally",
+          "§7up to §240 §7hits. Lasts §65s§7.",
           "",
-          "§6Source:",
-          "§aI-V: §7Enchantment Table,",
-          "§7Spider Eye Collection",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Experiments, Bazaar",
+          "§aVII: §6Fateful Stinger",
           "",
           "§6Applied To:",
           "§7- §fSword",
-          "§7- §fFishing Weapon",
           "§7- §fLongsword",
           "§7- §fGauntlet",
           "",
@@ -76256,31 +76880,31 @@
                 "text": "§9Venomous IV"
               },
               {
-                "text": "§7Reduces the target's walk speed"
+                "text": "§7Reduces the target's walk speed by"
               },
               {
-                "text": "§7by §a20% §7and deals §2+1.2% §7of"
+                "text": "§a8% §7and deals §2+0.8% §7of your damage"
               },
               {
-                "text": "§7your damage per second per hit,"
+                "text": "§7per second per hit, stacking globally"
               },
               {
-                "text": "§7stacking globally up to §240"
-              },
-              {
-                "text": "§7hits. Lasts §65s§7."
+                "text": "§7up to §240 §7hits. Lasts §65s§7."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Enchantment Table,"
+                "text": "§aI-V: §7Enchantment Table"
               },
               {
-                "text": "§7Spider Eye Collection"
+                "text": "§aVI: §7Experiments, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Fateful Stinger"
               },
               {
                 "text": ""
@@ -76290,9 +76914,6 @@
               },
               {
                 "text": "§7- §fSword"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": "§7- §fLongsword"
@@ -76324,19 +76945,18 @@
           "§8Combinable in Anvil",
           "",
           "§9Venomous V",
-          "§7Reduces the target's walk speed",
-          "§7by §a25% §7and deals §2+1.5% §7of",
-          "§7your damage per second per hit,",
-          "§7stacking globally up to §240",
-          "§7hits. Lasts §65s§7.",
+          "§7Reduces the target's walk speed by",
+          "§a12% §7and deals §2+1.2% §7of your damage",
+          "§7per second per hit, stacking globally",
+          "§7up to §240 §7hits. Lasts §65s§7.",
           "",
-          "§6Source:",
-          "§aI-V: §7Enchantment Table,",
-          "§7Spider Eye Collection",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Experiments, Bazaar",
+          "§aVII: §6Fateful Stinger",
           "",
           "§6Applied To:",
           "§7- §fSword",
-          "§7- §fFishing Weapon",
           "§7- §fLongsword",
           "§7- §fGauntlet",
           "",
@@ -76366,31 +76986,31 @@
                 "text": "§9Venomous V"
               },
               {
-                "text": "§7Reduces the target's walk speed"
+                "text": "§7Reduces the target's walk speed by"
               },
               {
-                "text": "§7by §a25% §7and deals §2+1.5% §7of"
+                "text": "§a12% §7and deals §2+1.2% §7of your damage"
               },
               {
-                "text": "§7your damage per second per hit,"
+                "text": "§7per second per hit, stacking globally"
               },
               {
-                "text": "§7stacking globally up to §240"
-              },
-              {
-                "text": "§7hits. Lasts §65s§7."
+                "text": "§7up to §240 §7hits. Lasts §65s§7."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aI-V: §7Enchantment Table,"
+                "text": "§aI-V: §7Enchantment Table"
               },
               {
-                "text": "§7Spider Eye Collection"
+                "text": "§aVI: §7Experiments, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Fateful Stinger"
               },
               {
                 "text": ""
@@ -76400,9 +77020,6 @@
               },
               {
                 "text": "§7- §fSword"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": "§7- §fLongsword"
@@ -76435,18 +77052,18 @@
           "§8Combinable in Anvil",
           "",
           "§9Venomous VI",
-          "§7Reduces the target's walk speed",
-          "§7by §a30% §7and deals §2+1.8% §7of",
-          "§7your damage per second per hit,",
-          "§7stacking globally up to ",
-          "§240 §7hits. Lasts §65s§7.",
+          "§7Reduces the target's walk speed by",
+          "§a15% §7and deals §2+1.6% §7of your damage",
+          "§7per second per hit, stacking globally",
+          "§7up to §240 §7hits. Lasts §65s§7.",
           "",
-          "§6Source:",
-          "§aVI: §7Experiments",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Experiments, Bazaar",
+          "§aVII: §6Fateful Stinger",
           "",
           "§6Applied To:",
           "§7- §fSword",
-          "§7- §fFishing Weapon",
           "§7- §fLongsword",
           "§7- §fGauntlet",
           "",
@@ -76476,28 +77093,31 @@
                 "text": "§9Venomous VI"
               },
               {
-                "text": "§7Reduces the target's walk speed"
+                "text": "§7Reduces the target's walk speed by"
               },
               {
-                "text": "§7by §a30% §7and deals §2+1.8% §7of"
+                "text": "§a15% §7and deals §2+1.6% §7of your damage"
               },
               {
-                "text": "§7your damage per second per hit,"
+                "text": "§7per second per hit, stacking globally"
               },
               {
-                "text": "§7stacking globally up to "
-              },
-              {
-                "text": "§240 §7hits. Lasts §65s§7."
+                "text": "§7up to §240 §7hits. Lasts §65s§7."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Source:"
+                "text": "§6Sources:"
               },
               {
-                "text": "§aVI: §7Experiments"
+                "text": "§aI-V: §7Enchantment Table"
+              },
+              {
+                "text": "§aVI: §7Experiments, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Fateful Stinger"
               },
               {
                 "text": ""
@@ -76507,9 +77127,6 @@
               },
               {
                 "text": "§7- §fSword"
-              },
-              {
-                "text": "§7- §fFishing Weapon"
               },
               {
                 "text": "§7- §fLongsword"
@@ -76532,6 +77149,105 @@
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:rare"
+          }
+        }
+      },
+      {
+        "level": 7,
+        "literal_level": "VI",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Venomous VI",
+          "§7Reduces the target's walk speed by",
+          "§a20% §7and deals §2+2% §7of your damage",
+          "§7per second per hit, stacking globally",
+          "§7up to §240 §7hits. Lasts §65s§7.",
+          "",
+          "§6Sources:",
+          "§aI-V: §7Enchantment Table",
+          "§aVI: §7Experiments, Bazaar",
+          "§aVII: §6Fateful Stinger",
+          "",
+          "§6Applied To:",
+          "§7- §fSword",
+          "§7- §fLongsword",
+          "§7- §fGauntlet",
+          "",
+          "§5§lEPIC"
+        ],
+        "item": {
+          "id": "minecraft:enchanted_book",
+          "components": {
+            "minecraft:custom_data": {
+              "enchantments": {
+                "venomous": 7
+              },
+              "id": "VENOMOUS;7"
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_name": {
+              "text": "§5Enchanted Book"
+            },
+            "minecraft:lore": [
+              {
+                "text": "§8Combinable in Anvil"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§9Venomous VI"
+              },
+              {
+                "text": "§7Reduces the target's walk speed by"
+              },
+              {
+                "text": "§a20% §7and deals §2+2% §7of your damage"
+              },
+              {
+                "text": "§7per second per hit, stacking globally"
+              },
+              {
+                "text": "§7up to §240 §7hits. Lasts §65s§7."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Sources:"
+              },
+              {
+                "text": "§aI-V: §7Enchantment Table"
+              },
+              {
+                "text": "§aVI: §7Experiments, Bazaar"
+              },
+              {
+                "text": "§aVII: §6Fateful Stinger"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Applied To:"
+              },
+              {
+                "text": "§7- §fSword"
+              },
+              {
+                "text": "§7- §fLongsword"
+              },
+              {
+                "text": "§7- §fGauntlet"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§5§lEPIC"
+              }
+            ]
           }
         }
       }

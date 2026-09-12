@@ -26658,6 +26658,20 @@
   },
   {
     "type": "item",
+    "id": "PET_SKIN_FLYING_FISH_BOWL_MYSTIC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mystic_Bowl_Flying_Fish_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PET_SKIN_FLYING_FISH_BOWL_TIDAL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tidal_Bowl_Flying_Fish_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "PET_SKIN_FLYING_FISH_HARLEQUIN",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Harlequin_Flying_Fish_Skin"
@@ -38271,6 +38285,13 @@
     "id": "TORRHUS_TALISMAN",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Torrhus_Talisman"
+    }
+  },
+  {
+    "type": "item",
+    "id": "TOTEM",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Totem"
     }
   },
   {
@@ -52290,6 +52311,14 @@
   },
   {
     "type": "enchantment",
+    "id": "FRAIL",
+    "level": 7,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Frail"
+    }
+  },
+  {
+    "type": "enchantment",
     "id": "FROST_WALKER",
     "level": 1,
     "wiki": {
@@ -53090,6 +53119,14 @@
   },
   {
     "type": "enchantment",
+    "id": "LUCK_OF_THE_SEA",
+    "level": 7,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Luck_of_the_Sea"
+    }
+  },
+  {
+    "type": "enchantment",
     "id": "LURE",
     "level": 1,
     "wiki": {
@@ -53556,6 +53593,14 @@
     "type": "enchantment",
     "id": "PISCARY",
     "level": 6,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Piscary"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "PISCARY",
+    "level": 7,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Piscary"
     }
@@ -54162,6 +54207,14 @@
   },
   {
     "type": "enchantment",
+    "id": "SCAVENGER",
+    "level": 6,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Scavenger"
+    }
+  },
+  {
+    "type": "enchantment",
     "id": "SCUBA",
     "level": 1,
     "wiki": {
@@ -54514,6 +54567,14 @@
   },
   {
     "type": "enchantment",
+    "id": "SPIKED_HOOK",
+    "level": 7,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Spiked_Hook"
+    }
+  },
+  {
+    "type": "enchantment",
     "id": "STEALTH",
     "level": 1,
     "wiki": {
@@ -54796,6 +54857,14 @@
     "type": "enchantment",
     "id": "THORNS",
     "level": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thorns"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "THORNS",
+    "level": 4,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Thorns"
     }
@@ -56812,6 +56881,14 @@
     "type": "enchantment",
     "id": "VENOMOUS",
     "level": 6,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Venomous"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "VENOMOUS",
+    "level": 7,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Venomous"
     }
