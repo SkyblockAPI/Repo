@@ -33,7 +33,7 @@ const getRequirements = (item) => {
                     const [, name, levelStr] = match;
                     const lowerName = name.toLowerCase();
 
-                    const reqData = { level: parseLevel(levelStr) };
+                    const reqData = { level: parseLevel(levelStr), rawString: req };
 
                     if (lowerName.endsWith("slayer")) {
                         reqData.type = "slayer";
@@ -56,7 +56,7 @@ const getRequirements = (item) => {
 
                     out.push(reqData);
                 } else {
-                    out.push({ type: "unknown", name: req, level: null });
+                    out.push({ type: "unknown", name: req, level: null, rawString: req });
                 }
             }
         } else {
