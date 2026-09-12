@@ -150,7 +150,7 @@ export const Items = {
             itemOverlaysFile.push({
                 type: "item",
                 id: itemStack.components["minecraft:custom_data"].id,
-                ...getOverlay(item),
+                ...overlayProps,
             });
         }
     },

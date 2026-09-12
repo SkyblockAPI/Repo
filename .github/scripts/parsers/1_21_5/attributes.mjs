@@ -71,7 +71,7 @@ export const Attributes = {
             attributeOverlaysFile.push({
                 type: "attribute",
                 id: item.nbt.ExtraAttributes.id,
-                ...getOverlay(item),
+                ...overlayProps,
             });
         }
     },
