@@ -284848,7 +284848,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "REALITY_HOPPER_DIAMOND"
@@ -284882,17 +284882,21 @@
           "text": "§a§lUNCOMMON TROPHY"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTAwNTQwOTMyOSwKICAicHJvZmlsZUlkIiA6ICJlZGUyYzdhMGFjNjM0MTNiYjA5ZDNmMGJlZTllYzhlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aGVEZXZKYWRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JlZDhmM2QzNzI1NDk1Mjk1NTQzMTQxZjY0MmVlNGZjNzg0YjdiYTE3MWNjYWZlODk1ZDFjMWIzZjYzMGU2ODUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/fishing/trophy/frog/reality_hopper_diamond",
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:dyed_color"
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -356527,7 +356531,7 @@
           "text": "§8This item can be reforged!"
         },
         {
-          "text": "§7§4❣ §cRequires §aFishing Skill 20§c."
+          "text": "§4❣ §cRequires §aFishing Skill 20§c."
         },
         {
           "text": "§6§lLEGENDARY FISHING ROD"
