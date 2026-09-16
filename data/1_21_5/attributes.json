@@ -15257,7 +15257,7 @@
   {
     "id": "GREENHOUSE_SPEED",
     "lore": [
-      "§7Grants §a+0.5% Growth Speed§7 in your",
+      "§7Grants §a+0.1% Growth Speed§7 in your",
       "§2Greenhouse§7.",
       "",
       "§7You can Syphon this shard from",
@@ -15291,7 +15291,7 @@
             "text": "§6Greenhouse Speed I"
           },
           {
-            "text": "§7Grants §a+0.5% Growth Speed§7 in your"
+            "text": "§7Grants §a+0.1% Growth Speed§7 in your"
           },
           {
             "text": "§2Greenhouse§7."
@@ -20950,7 +20950,7 @@
   {
     "id": "MUTATION_SERENDIPITY",
     "lore": [
-      "§7Mutations have a §a+0.5% §7chance to",
+      "§7Mutations have a §a+0.1% §7chance to",
       "§7instantly re-mutate at their first",
       "§7growth phase when harvested.",
       "",
@@ -20985,7 +20985,7 @@
             "text": "§6Mutation Serendipity I"
           },
           {
-            "text": "§7Mutations have a §a+0.5% §7chance to"
+            "text": "§7Mutations have a §a+0.1% §7chance to"
           },
           {
             "text": "§7instantly re-mutate at their first"

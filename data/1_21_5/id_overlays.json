@@ -57811,6 +57811,13 @@
   },
   {
     "type": "mob",
+    "id": "GORF_SC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Gorf"
+    }
+  },
+  {
+    "type": "mob",
     "id": "GRANDMA_RIFT_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Grandma"
