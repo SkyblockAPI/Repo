@@ -58203,6 +58203,13 @@
   },
   {
     "type": "mob",
+    "id": "HYPIXEL_DISCORD_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hypixel_Discord"
+    }
+  },
+  {
+    "type": "mob",
     "id": "IAN_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Ian"

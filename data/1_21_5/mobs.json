@@ -21037,6 +21037,42 @@
       }
     ]
   },
+  "HYPIXEL_DISCORD_NPC": {
+    "island": "hub",
+    "position": {
+      "x": 10,
+      "y": 71,
+      "z": -16
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2JhZDdiMWI0NGJjNGRkYzY5YTJlZjBkMGViNGY3YmJkNDZlYTY3OTUyOTQ5ZjhkMWJiMjAxNzdjN2NmMDU5NSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJmNGRjYjI3OWFiZGUyZjRmYWZmNTBiM2MxZjc0YWU4OSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg5NTY3NjQyNjEyfQ==",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "HYPIXEL_DISCORD_NPC"
+        },
+        "minecraft:custom_name": {
+          "text": "§9HYPIXEL DISCORD (NPC)"
+        },
+        "minecraft:lore": [
+          {
+            "text": ""
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2JhZDdiMWI0NGJjNGRkYzY5YTJlZjBkMGViNGY3YmJkNDZlYTY3OTUyOTQ5ZjhkMWJiMjAxNzdjN2NmMDU5NSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJmNGRjYjI3OWFiZGUyZjRmYWZmNTBiM2MxZjc0YWU4OSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg5NTY3NjQyNjEyfQ=="
+            }
+          ]
+        }
+      }
+    },
+    "name": "HYPIXEL DISCORD",
+    "type": "NPC"
+  },
   "IAN_NPC": {
     "island": "mining_3",
     "position": {
