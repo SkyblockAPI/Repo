@@ -2,6 +2,9 @@ name: Transform
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 10 * * *"
+      timezone: "Europe/Berlin"
 
 jobs:
   parse-basic-items:
