@@ -136854,15 +136854,6 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Damage: §c+20"
-        },
-        {
-          "text": "§7Strength: §c+10"
-        },
-        {
-          "text": "§7Fishing Speed: §b+20"
-        },
-        {
           "text": "§7Double Hook Chance: §9+10%"
         },
         {
@@ -136893,7 +136884,7 @@
           "text": "§9ථ Hook §8§lNONE"
         },
         {
-          "text": "§9ꨃ Line §8§lNONEw"
+          "text": "§9ꨃ Line §8§lNONE"
         },
         {
           "text": "§9࿉ Sinker §8§lNONE"
@@ -345787,6 +345778,12 @@
         "text": "§5Summoning Eye"
       },
       "minecraft:lore": [
+        {
+          "text": "§8Minion Upgrade"
+        },
+        {
+          "text": ""
+        },
         {
           "text": "§7Use this at the §5Ender Altar §7in the"
         },
