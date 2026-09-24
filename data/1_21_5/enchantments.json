@@ -77154,11 +77154,11 @@
       },
       {
         "level": 7,
-        "literal_level": "VI",
+        "literal_level": "VII",
         "lore": [
           "§8Combinable in Anvil",
           "",
-          "§9Venomous VI",
+          "§9Venomous VII",
           "§7Reduces the target's walk speed by",
           "§a20% §7and deals §2+2% §7of your damage",
           "§7per second per hit, stacking globally",
@@ -77197,7 +77197,7 @@
                 "text": ""
               },
               {
-                "text": "§9Venomous VI"
+                "text": "§9Venomous VII"
               },
               {
                 "text": "§7Reduces the target's walk speed by"

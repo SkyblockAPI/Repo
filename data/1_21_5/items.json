@@ -362160,6 +362160,71 @@
     }
   },
   {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "TORRHUS_SAFARI_ENTRANCE_PORTAL"
+      },
+      "minecraft:custom_name": {
+        "text": "§fPortal to the Critter Safari Entrance"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Placing this item on your private"
+        },
+        {
+          "text": "§7island will create a portal to §2Critter"
+        },
+        {
+          "text": "§2Safari Entrance§7 for you to use"
+        },
+        {
+          "text": "§7whenever you want!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8The portal will spawn facing you on"
+        },
+        {
+          "text": "§8the block you click on."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§f§lCOMMON PORTAL"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY4NzM1NzU4NiwKICAicHJvZmlsZUlkIiA6ICJkZWFmNjAxNDU1NDY0MGU5YWJmNmUyMWZiZDgyZDU2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBaWxvcnlLIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MxZTMxNTcxMTVhM2YyMDZlNWRmNTMwMWU2ODVlYmI0YTZhOTYyN2ViZGFhMDliMjFkNTAwZDg1MzE1NDg1YzQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
     "id": "minecraft:map",
     "components": {
       "minecraft:custom_data": {

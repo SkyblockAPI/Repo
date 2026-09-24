@@ -49214,6 +49214,13 @@
   },
   {
     "type": "item",
+    "id": "TORRHUS_SAFARI_ENTRANCE_TRAVEL_SCROLL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_Critter_Safari_Entrance"
+    }
+  },
+  {
+    "type": "item",
     "id": "TORRHUS_SPRINGS_TRAVEL_SCROLL",
     "requirements": [
       {
@@ -56456,13 +56463,6 @@
     "id": "BROOD_MOTHER_MINIBOSS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Broodmother"
-    }
-  },
-  {
-    "type": "mob",
-    "id": "BRRASMASS_BEASTSLAYER_NPC",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bramass_Beastslayer"
     }
   },
   {
