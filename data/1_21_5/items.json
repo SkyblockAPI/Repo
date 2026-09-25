@@ -274758,7 +274758,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "PREHISTORIC_EGG"
@@ -274798,19 +274798,12 @@
           "text": "§f§lCOMMON"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxODI0ODMxMzQ5OSwKICAicHJvZmlsZUlkIiA6ICJjOTAzOGQzZjRiMTg0M2JiYjUwNTU5ZGE3MWFjMTk2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUQk5SY29vbGNhdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYzhiMTVlODVlZDIyNWMyMWMzMjM2N2RhN2JlMjQ0Nzc5ZTM2YWZlN2Y3NTYzYTZhNTcwYTcxN2NiNWJlMWIxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/uncategorized/prehistoric_egg",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
