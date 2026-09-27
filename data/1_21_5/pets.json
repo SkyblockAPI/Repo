@@ -16849,7 +16849,7 @@
           "§7Attack Speed: §e+{BONUS_ATTACK_SPEED}%",
           "",
           "§6Odyssey",
-          "§c12 §7types of §2✿ Mythological §7mobs can",
+          "§c6 §7types of §2✿ Mythological §7mobs can",
           "§7spawn from §eGriffin Burrows§7. Their",
           "§7stats scale with your Griffin’s",
           "§7rarity.",
@@ -16919,7 +16919,7 @@
                 "text": "§6Odyssey"
               },
               {
-                "text": "§c12 §7types of §2✿ Mythological §7mobs can"
+                "text": "§c6 §7types of §2✿ Mythological §7mobs can"
               },
               {
                 "text": "§7spawn from §eGriffin Burrows§7. Their"
@@ -16991,7 +16991,7 @@
           "§7Attack Speed: §e+{BONUS_ATTACK_SPEED}%",
           "",
           "§6Odyssey",
-          "§c12 §7types of §2✿ Mythological §7mobs can",
+          "§c8 §7types of §2✿ Mythological §7mobs can",
           "§7spawn from §eGriffin Burrows§7. Their",
           "§7stats scale with your Griffin’s",
           "§7rarity.",
@@ -17061,7 +17061,7 @@
                 "text": "§6Odyssey"
               },
               {
-                "text": "§c12 §7types of §2✿ Mythological §7mobs can"
+                "text": "§c8 §7types of §2✿ Mythological §7mobs can"
               },
               {
                 "text": "§7spawn from §eGriffin Burrows§7. Their"
@@ -17133,7 +17133,7 @@
           "§7Attack Speed: §e+{BONUS_ATTACK_SPEED}%",
           "",
           "§6Odyssey",
-          "§c12 §7types of §2 Mythological §7mobs can",
+          "§c10 §7types of §2 Mythological §7mobs can",
           "§7spawn from §eGriffin Burrows§7. Their",
           "§7stats scale with your Griffin’s",
           "§7rarity.",
@@ -17211,7 +17211,7 @@
                 "text": "§6Odyssey"
               },
               {
-                "text": "§c12 §7types of §2 Mythological §7mobs can"
+                "text": "§c10 §7types of §2 Mythological §7mobs can"
               },
               {
                 "text": "§7spawn from §eGriffin Burrows§7. Their"
