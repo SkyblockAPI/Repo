@@ -41444,6 +41444,13 @@
   },
   {
     "type": "item",
+    "id": "SAFARI_BARN_SKIN",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Safari_Barn_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "SAFARI_BELT",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Safari_Belt"

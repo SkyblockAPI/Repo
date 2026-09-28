@@ -10693,7 +10693,7 @@
             "text": "§5Stonks§7! Trade them for"
           },
           {
-            "text": "§6extravagant items §7at the §b⏣Trade"
+            "text": "§6extravagant items §7at the §bTrade"
           },
           {
             "text": "§bCenter§7."
@@ -10705,22 +10705,19 @@
             "text": "§6Volume Trading"
           },
           {
-            "text": "§aDouble §7the item quantity from §6Shen's"
+            "text": "§7The available item quantity per"
           },
           {
-            "text": "§6Auction§7, §6Shen's Special§7, and §6Rift Shen's"
+            "text": "§6Shen's Auction §7has been doubled,"
           },
           {
-            "text": "§7on the year Diaz is elected. Two additonal"
+            "text": "§7and two additional §6Shen's Special"
           },
           {
-            "text": "§6Shen's Special §7auctions will be"
+            "text": "§7auctions will be §7available if Diaz is"
           },
           {
-            "text": "§7available for the duration of Diaz being"
-          },
-          {
-            "text": "§7elected as Mayor"
+            "text": "§7Mayor"
           },
           {
             "text": ""
@@ -10729,13 +10726,13 @@
             "text": "§6Long Term Investment"
           },
           {
-            "text": "§7The elected §bminister §7will appear in"
+            "text": "§7The §belected minister §7will appear as"
           },
           {
-            "text": "§7the next §aElection §7with §dall §7of "
+            "text": "§7a candidate with §dall §7of their perks"
           },
           {
-            "text": "§7their available perks."
+            "text": "§7in the §anext election cycle§7."
           },
           {
             "text": ""
@@ -10744,7 +10741,10 @@
             "text": "§6Shopping Spree"
           },
           {
-            "text": "§7Increase daily NPC buy limits by §e10x§7."
+            "text": "§7Increase daily NPC buy limits by"
+          },
+          {
+            "text": "§e10x§7."
           }
         ],
         "minecraft:profile": {
@@ -27831,7 +27831,7 @@
             "text": "§bLuck of the Sea 2.0"
           },
           {
-            "text": "§7Gain §315 Sea Creature Chance."
+            "text": "§7Gain §315 Sea Creature Chance§7."
           },
           {
             "text": ""
@@ -27840,10 +27840,10 @@
             "text": "§bFishing XP Buff"
           },
           {
-            "text": "§7Gain §3+50☯ Fishing Wisdom"
+            "text": "§7Gain §3+50☯ Fishing Wisdom §7on public"
           },
           {
-            "text": "§7on public islands."
+            "text": "§7islands."
           },
           {
             "text": ""
@@ -27852,13 +27852,10 @@
             "text": "§bFishing Festival"
           },
           {
-            "text": "§7Start a special fishing"
+            "text": "§7Start a special fishing event the"
           },
           {
-            "text": "§7event the first §b3 §7days"
-          },
-          {
-            "text": "§7of each month!"
+            "text": "first §b3 §7days of each month!"
           },
           {
             "text": ""
@@ -27867,10 +27864,10 @@
             "text": "§7Fish and fight dangerous"
           },
           {
-            "text": "§bsharks §7and earn unique"
+            "text": "§bSharks §7and earn unique §7Shark"
           },
           {
-            "text": "§7Shark loot."
+            "text": "§7loot."
           },
           {
             "text": ""

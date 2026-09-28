@@ -300557,6 +300557,44 @@
     }
   },
   {
+    "id": "minecraft:short_grass",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "SAFARI_BARN_SKIN"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Safari Barn Skin"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Consume this item to unlock the"
+        },
+        {
+          "text": "§6Safari Barn Skin §7on §aThe Garden§7!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eClick to consume!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6§lLEGENDARY COSMETIC"
+        }
+      ],
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:enchantments"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
     "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
