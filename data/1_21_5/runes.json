@@ -3762,6 +3762,105 @@
       }
     }
   ],
+  "EXPLOSIFALL": [
+    {
+      "tier": 3,
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4ODc4NTcyODYzMCwKICAicHJvZmlsZUlkIiA6ICJkMjU0ZjQxMDkyNTE0NTdlYmU5NGM5NDQ2ZmIzZTc3YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUcmFzaEFwcCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ZWE0YzIyODdhZDllNTA1MGRmMTEyZTYxMmE2NWI2NDkzMDZkYzUxMzg4OGYxNDU2MDdlNDU1ZWU1ZWEzNDdjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+      "name": "§6◆ Explosifall Rune III",
+      "lore": [
+        "§8Requires level 0",
+        "§8Weapons",
+        "",
+        "§7Let the slain be one with nature.",
+        "§7Changes color based on the current",
+        "§7SkyBlock season. Obtained from the",
+        "§7Taylor Fall Bundle.",
+        "",
+        "§7Apply this rune to weapons at the",
+        "§7Runic Pedestal!",
+        "",
+        "§6§lLEGENDARY COSMETIC"
+      ],
+      "item": {
+        "id": "minecraft:player_head",
+        "components": {
+          "minecraft:custom_data": {
+            "id": "UNIQUE_RUNE",
+            "runes": {
+              "EXPLOSIFALL": 3
+            }
+          },
+          "minecraft:enchantment_glint_override": true,
+          "minecraft:custom_name": {
+            "text": "§6◆ Explosifall Rune III"
+          },
+          "minecraft:lore": [
+            {
+              "text": "§8Requires level 0"
+            },
+            {
+              "text": "§8Weapons"
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": "§7Let the slain be one with nature."
+            },
+            {
+              "text": "§7Changes color based on the current"
+            },
+            {
+              "text": "§7SkyBlock season. Obtained from the"
+            },
+            {
+              "text": "§7Taylor Fall Bundle."
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": "§7Apply this rune to weapons at the"
+            },
+            {
+              "text": "§7Runic Pedestal!"
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": "§6§lLEGENDARY COSMETIC"
+            }
+          ],
+          "minecraft:profile": {
+            "properties": [
+              {
+                "name": "textures",
+                "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4ODc4NTcyODYzMCwKICAicHJvZmlsZUlkIiA6ICJkMjU0ZjQxMDkyNTE0NTdlYmU5NGM5NDQ2ZmIzZTc3YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUcmFzaEFwcCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ZWE0YzIyODdhZDllNTA1MGRmMTEyZTYxMmE2NWI2NDkzMDZkYzUxMzg4OGYxNDU2MDdlNDU1ZWU1ZWEzNDdjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+              }
+            ]
+          },
+          "minecraft:tooltip_display": {
+            "hidden_components": [
+              "minecraft:attribute_modifiers",
+              "minecraft:banner_patterns",
+              "minecraft:charged_projectiles",
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
+            ]
+          },
+          "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+        }
+      }
+    }
+  ],
   "FIERY_BURST": [
     {
       "tier": 1,
@@ -4367,6 +4466,97 @@
               "minecraft:attribute_modifiers",
               "minecraft:banner_patterns",
               "minecraft:block_entity_data",
+              "minecraft:dyed_color",
+              "minecraft:fireworks",
+              "minecraft:jukebox_playable",
+              "minecraft:map_id",
+              "minecraft:painting/variant",
+              "minecraft:potion_contents",
+              "minecraft:trim",
+              "minecraft:unbreakable",
+              "minecraft:written_book_content"
+            ]
+          },
+          "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+        }
+      }
+    }
+  ],
+  "FLOWING_FALL": [
+    {
+      "tier": 3,
+      "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4ODc4NTcyNjY4NiwKICAicHJvZmlsZUlkIiA6ICI2YTQ3NjRhZWEwNWY0MTE1OTc0NzFlZjNjYWU4ZTdmZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJiYWRlZW5kamVoIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlhNGQ1MjUzMDBlMmJiNjA2OTc1N2Q2ODk5NWNiNDQyYmEwMDZjODY1NTg4YTUxMDg2MjM3YTQzNTIyYTFlZTgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+      "name": "§c◆ Flowing Fall Rune III",
+      "lore": [
+        "§8Requires level 0",
+        "§8Boots",
+        "",
+        "§7Let the flowers hit the floor.",
+        "§7Obtained from the Taylor Fall Bundle.",
+        "",
+        "§7Apply this rune to boots at the Runic",
+        "§7Pedestal!",
+        "",
+        "§6§lLEGENDARY COSMETIC"
+      ],
+      "item": {
+        "id": "minecraft:player_head",
+        "components": {
+          "minecraft:custom_data": {
+            "id": "UNIQUE_RUNE",
+            "runes": {
+              "FLOWING_FALL": 3
+            }
+          },
+          "minecraft:enchantment_glint_override": true,
+          "minecraft:custom_name": {
+            "text": "§c◆ Flowing Fall Rune III"
+          },
+          "minecraft:lore": [
+            {
+              "text": "§8Requires level 0"
+            },
+            {
+              "text": "§8Boots"
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": "§7Let the flowers hit the floor."
+            },
+            {
+              "text": "§7Obtained from the Taylor Fall Bundle."
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": "§7Apply this rune to boots at the Runic"
+            },
+            {
+              "text": "§7Pedestal!"
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": "§6§lLEGENDARY COSMETIC"
+            }
+          ],
+          "minecraft:profile": {
+            "properties": [
+              {
+                "name": "textures",
+                "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4ODc4NTcyNjY4NiwKICAicHJvZmlsZUlkIiA6ICI2YTQ3NjRhZWEwNWY0MTE1OTc0NzFlZjNjYWU4ZTdmZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJiYWRlZW5kamVoIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlhNGQ1MjUzMDBlMmJiNjA2OTc1N2Q2ODk5NWNiNDQyYmEwMDZjODY1NTg4YTUxMDg2MjM3YTQzNTIyYTFlZTgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+              }
+            ]
+          },
+          "minecraft:tooltip_display": {
+            "hidden_components": [
+              "minecraft:attribute_modifiers",
+              "minecraft:banner_patterns",
+              "minecraft:charged_projectiles",
               "minecraft:dyed_color",
               "minecraft:fireworks",
               "minecraft:jukebox_playable",

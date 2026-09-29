@@ -12089,9 +12089,23 @@
   },
   {
     "type": "item",
+    "id": "DYE_SLUDGE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sludge_Dye"
+    }
+  },
+  {
+    "type": "item",
     "id": "DYE_SNOWFLAKE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Snowflake_Dye"
+    }
+  },
+  {
+    "type": "item",
+    "id": "DYE_SPIRIT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Spirit_Dye"
     }
   },
   {
@@ -23031,6 +23045,20 @@
     "id": "HARP",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Personal_Harp"
+    }
+  },
+  {
+    "type": "item",
+    "id": "HARVEST_BARN_SKIN",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Harvest_Barn_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "HARVEST_GREENHOUSE_SKIN",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Harvest_Greenhouse_Skin"
     }
   },
   {
@@ -35387,6 +35415,13 @@
   },
   {
     "type": "item",
+    "id": "PET_SKIN_ENDER_DRAGON_SMOL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Smol_Ender_Dragon_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "PET_SKIN_ENDER_DRAGON_SWAP_PLUSHIE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Super_Plushie_Ender_Dragon_Skin"
@@ -38157,6 +38192,13 @@
   },
   {
     "type": "item",
+    "id": "PRIMORDIAL_HUNTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hunter_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "PRIMORDIAL_LEGGINGS",
     "requirements": [
       {
@@ -38535,6 +38577,13 @@
     "id": "PUMPKIN_DICER_3",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Dicer"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PUMPKIN_FLUX",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Power_Orb_Skin"
     }
   },
   {
@@ -51686,6 +51735,13 @@
     "id": "WISHING_COMPASS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Wishing_Compass"
+    }
+  },
+  {
+    "type": "item",
+    "id": "WISP_SPIRIT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wisp_Spirit_Skin"
     }
   },
   {
