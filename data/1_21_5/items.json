@@ -137117,16 +137117,27 @@
           "text": ""
         },
         {
-          "text": "§7§8This item can be reforged!"
+          "text": "§8This item can be reforged!"
         },
         {
           "text": "§6§lLEGENDARY FISHING ROD"
         }
       ],
+      "minecraft:item_model": "hypixel_skyblock:item/fishing/rod/giant_fishing_rod",
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:unbreakable"
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:legendary"
