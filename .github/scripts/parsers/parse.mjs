@@ -11,6 +11,7 @@ import {Enchantments} from "./1_21_5/enchantments.mjs";
 import {Potions} from "./1_21_5/potions.mjs";
 import {Attributes} from "./1_21_5/attributes.mjs";
 import {fetchCollections} from "../utils/collection.mjs";
+import {sendAnnotations, warnSnbt} from "../utils/logger.mjs";
 
 const specialItems = JSON.parse(fs.readFileSync(".github/scripts/data/special_items.json", "utf-8"));
 const itemOverlayIndex = buildItemOverlayIndex();
@@ -48,7 +49,7 @@ async function run() {
                 throw new Error(`Failed to parse item overlay ${itemOverlay.path}: ${error.message}`, {cause: error});
             }
         } else {
-            console.warn(`[WARN] (Parse) Missing item SNBT overlay: ${itemId}`);
+            warnSnbt(itemId);
         }
 
         const attributes = data.nbt.ExtraAttributes;
@@ -90,6 +91,8 @@ async function run() {
         "1_21_5": Mc1215.shas(),
         ...clone(),
     }, null, 4));
+
+    sendAnnotations()
 }
 
 function isPotion(data) {
