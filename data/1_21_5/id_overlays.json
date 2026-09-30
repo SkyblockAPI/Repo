@@ -1127,6 +1127,13 @@
   },
   {
     "type": "item",
+    "id": "APOTHEJERRY_PERSONALITY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Apothejerry_Minion_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "APPLE",
     "vanilla": true
   },
@@ -36542,6 +36549,13 @@
   },
   {
     "type": "item",
+    "id": "PET_SKIN_SEAL_PUP",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pup_Seal_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "PET_SKIN_SEAL_SEA_LEOPARD",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Sea_Leopard_Seal_Skin"
@@ -49171,6 +49185,14 @@
   {
     "type": "item",
     "id": "TITAN_LINE",
+    "requirements": [
+      {
+        "level": 35,
+        "rawString": "Fishing XXXV",
+        "type": "skill",
+        "name": "Fishing"
+      }
+    ],
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Titan_Line"
     }
@@ -52585,6 +52607,13 @@
     "id": "ZOMBIE_COMMANDER_WHIP",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Zombie_Commander_Whip"
+    }
+  },
+  {
+    "type": "item",
+    "id": "ZOMBIE_EYE_PERSONALITY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Zombie_Eye_Minion_Skin"
     }
   },
   {
