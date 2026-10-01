@@ -15711,15 +15711,15 @@
           "§7stack as you increase your combo.",
           "",
           "§a5 Combo §8(lasts §a{0}s§8)",
-          "  §8+§b1% §b Magic Find",
+          "  §b+1%  Magic Find",
           "§a10 Combo §8(lasts §a{1}s§8)",
           "  §8+§62 §7coins per kill",
           "§a15 Combo §8(lasts §a{2}s§8)",
-          "  §8+§b1% §b Magic Find",
+          "  §b+1%  Magic Find",
           "§a20 Combo §8(lasts §a{3}s§8)",
-          "  §8+§35☯ Combat Wisdom",
+          "  §3+5☯ Combat Wisdom",
           "§a25 Combo §8(lasts §a{4}s§8)",
-          "  §8+§b1% §b Magic Find",
+          "  §b+1%  Magic Find",
           "§a30 Combo §8(lasts §a{5}s§8)",
           "  §8+§62 §7coins per kill",
           "",
@@ -15805,7 +15805,7 @@
                 "text": "§a5 Combo §8(lasts §a{0}s§8)"
               },
               {
-                "text": "  §8+§b1% §b Magic Find"
+                "text": "  §b+1%  Magic Find"
               },
               {
                 "text": "§a10 Combo §8(lasts §a{1}s§8)"
@@ -15817,19 +15817,19 @@
                 "text": "§a15 Combo §8(lasts §a{2}s§8)"
               },
               {
-                "text": "  §8+§b1% §b Magic Find"
+                "text": "  §b+1%  Magic Find"
               },
               {
                 "text": "§a20 Combo §8(lasts §a{3}s§8)"
               },
               {
-                "text": "  §8+§35☯ Combat Wisdom"
+                "text": "  §3+5☯ Combat Wisdom"
               },
               {
                 "text": "§a25 Combo §8(lasts §a{4}s§8)"
               },
               {
-                "text": "  §8+§b1% §b Magic Find"
+                "text": "  §b+1%  Magic Find"
               },
               {
                 "text": "§a30 Combo §8(lasts §a{5}s§8)"
@@ -15867,7 +15867,17 @@
             "minecraft:tooltip_display": {
               "hidden_components": [
                 "minecraft:attribute_modifiers",
-                "minecraft:dyed_color"
+                "minecraft:banner_patterns",
+                "minecraft:charged_projectiles",
+                "minecraft:dyed_color",
+                "minecraft:fireworks",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:painting/variant",
+                "minecraft:potion_contents",
+                "minecraft:trim",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -15887,15 +15897,15 @@
           "§7stack as you increase your combo.",
           "",
           "§a5 Combo §8(lasts §a{0}s§8)",
-          "  §8+§b1% §b Magic Find",
+          "  §b+1%  Magic Find",
           "§a10 Combo §8(lasts §a{1}s§8)",
           "  §8+§64 §7coins per kill",
           "§a15 Combo §8(lasts §a{2}s§8)",
-          "  §8+§b2% §b Magic Find",
+          "  §b+2%  Magic Find",
           "§a20 Combo §8(lasts §a{3}s§8)",
-          "  §8+§37☯ Combat Wisdom",
+          "  §3+7☯ Combat Wisdom",
           "§a25 Combo §8(lasts §a{4}s§8)",
-          "  §8+§b1% §b Magic Find",
+          "  §b+1%  Magic Find",
           "§a30 Combo §8(lasts §a{5}s§8)",
           "  §8+§64 §7coins per kill",
           "",
@@ -15981,7 +15991,7 @@
                 "text": "§a5 Combo §8(lasts §a{0}s§8)"
               },
               {
-                "text": "  §8+§b1% §b Magic Find"
+                "text": "  §b+1%  Magic Find"
               },
               {
                 "text": "§a10 Combo §8(lasts §a{1}s§8)"
@@ -15993,19 +16003,19 @@
                 "text": "§a15 Combo §8(lasts §a{2}s§8)"
               },
               {
-                "text": "  §8+§b2% §b Magic Find"
+                "text": "  §b+2%  Magic Find"
               },
               {
                 "text": "§a20 Combo §8(lasts §a{3}s§8)"
               },
               {
-                "text": "  §8+§37☯ Combat Wisdom"
+                "text": "  §3+7☯ Combat Wisdom"
               },
               {
                 "text": "§a25 Combo §8(lasts §a{4}s§8)"
               },
               {
-                "text": "  §8+§b1% §b Magic Find"
+                "text": "  §b+1%  Magic Find"
               },
               {
                 "text": "§a30 Combo §8(lasts §a{5}s§8)"
@@ -16043,7 +16053,17 @@
             "minecraft:tooltip_display": {
               "hidden_components": [
                 "minecraft:attribute_modifiers",
-                "minecraft:dyed_color"
+                "minecraft:banner_patterns",
+                "minecraft:charged_projectiles",
+                "minecraft:dyed_color",
+                "minecraft:fireworks",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:painting/variant",
+                "minecraft:potion_contents",
+                "minecraft:trim",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -16063,15 +16083,15 @@
           "§7stack as you increase your combo.",
           "",
           "§a5 Combo §8(lasts §a{0}s§8)",
-          "  §8+§b2% §b Magic Find",
+          "  §b+2%  Magic Find",
           "§a10 Combo §8(lasts §a{1}s§8)",
           "  §8+§66 §7coins per kill",
           "§a15 Combo §8(lasts §a{2}s§8)",
-          "  §8+§b2% §b Magic Find",
+          "  §b+2%  Magic Find",
           "§a20 Combo §8(lasts §a{3}s§8)",
-          "  §8§3+9☯ Combat Wisdom",
+          "  §3+9☯ Combat Wisdom",
           "§a25 Combo §8(lasts §a{4}s§8)",
-          "  §8+§b2% §b Magic Find",
+          "  §b+2%  Magic Find",
           "§a30 Combo §8(lasts §a{5}s§8)",
           "  §8+§66 §7coins per kill",
           "",
@@ -16157,7 +16177,7 @@
                 "text": "§a5 Combo §8(lasts §a{0}s§8)"
               },
               {
-                "text": "  §8+§b2% §b Magic Find"
+                "text": "  §b+2%  Magic Find"
               },
               {
                 "text": "§a10 Combo §8(lasts §a{1}s§8)"
@@ -16169,19 +16189,19 @@
                 "text": "§a15 Combo §8(lasts §a{2}s§8)"
               },
               {
-                "text": "  §8+§b2% §b Magic Find"
+                "text": "  §b+2%  Magic Find"
               },
               {
                 "text": "§a20 Combo §8(lasts §a{3}s§8)"
               },
               {
-                "text": "  §8§3+9☯ Combat Wisdom"
+                "text": "  §3+9☯ Combat Wisdom"
               },
               {
                 "text": "§a25 Combo §8(lasts §a{4}s§8)"
               },
               {
-                "text": "  §8+§b2% §b Magic Find"
+                "text": "  §b+2%  Magic Find"
               },
               {
                 "text": "§a30 Combo §8(lasts §a{5}s§8)"
@@ -16219,7 +16239,17 @@
             "minecraft:tooltip_display": {
               "hidden_components": [
                 "minecraft:attribute_modifiers",
-                "minecraft:dyed_color"
+                "minecraft:banner_patterns",
+                "minecraft:charged_projectiles",
+                "minecraft:dyed_color",
+                "minecraft:fireworks",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:painting/variant",
+                "minecraft:potion_contents",
+                "minecraft:trim",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -16239,15 +16269,15 @@
           "§7stack as you increase your combo.",
           "",
           "§a5 Combo §8(lasts §a{0}s§8)",
-          "  §8+§b2% §b Magic Find",
+          "  §b+2%  Magic Find",
           "§a10 Combo §8(lasts §a{1}s§8)",
           "  §8+§68 §7coins per kill",
           "§a15 Combo §8(lasts §a{2}s§8)",
-          "  §8+§b3% §b Magic Find",
+          "  §b+3%  Magic Find",
           "§a20 Combo §8(lasts §a{3}s§8)",
-          "  §8§3+12☯ Combat Wisdom",
+          "  §3+12☯ Combat Wisdom",
           "§a25 Combo §8(lasts §a{4}s§8)",
-          "  §8+§b2% §b Magic Find",
+          "  §b+2%  Magic Find",
           "§a30 Combo §8(lasts §a{5}s§8)",
           "  §8+§68 §7coins per kill",
           "",
@@ -16333,7 +16363,7 @@
                 "text": "§a5 Combo §8(lasts §a{0}s§8)"
               },
               {
-                "text": "  §8+§b2% §b Magic Find"
+                "text": "  §b+2%  Magic Find"
               },
               {
                 "text": "§a10 Combo §8(lasts §a{1}s§8)"
@@ -16345,19 +16375,19 @@
                 "text": "§a15 Combo §8(lasts §a{2}s§8)"
               },
               {
-                "text": "  §8+§b3% §b Magic Find"
+                "text": "  §b+3%  Magic Find"
               },
               {
                 "text": "§a20 Combo §8(lasts §a{3}s§8)"
               },
               {
-                "text": "  §8§3+12☯ Combat Wisdom"
+                "text": "  §3+12☯ Combat Wisdom"
               },
               {
                 "text": "§a25 Combo §8(lasts §a{4}s§8)"
               },
               {
-                "text": "  §8+§b2% §b Magic Find"
+                "text": "  §b+2%  Magic Find"
               },
               {
                 "text": "§a30 Combo §8(lasts §a{5}s§8)"
@@ -16395,7 +16425,17 @@
             "minecraft:tooltip_display": {
               "hidden_components": [
                 "minecraft:attribute_modifiers",
-                "minecraft:dyed_color"
+                "minecraft:banner_patterns",
+                "minecraft:charged_projectiles",
+                "minecraft:dyed_color",
+                "minecraft:fireworks",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:painting/variant",
+                "minecraft:potion_contents",
+                "minecraft:trim",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:epic"

@@ -2,7 +2,7 @@
     "1_21_5": {
         "items": "2c69eeded5e123fd6fcfa3d842dd16e06cfdda60",
         "id_overlays": "5bfb6f4ea4507c4b958d46e80c9a6fe81563e750",
-        "pets": "d28a58f262ae2f7a82d75656d08eb32baa9212e3",
+        "pets": "b3cd8ef66448a78f3ee55a30babe2ea038138911",
         "recipes": "d7b3a01c87eb52df48d0162da35ac20e09599858",
         "mobs": "b9d13d5019b5971cfa0416a373929368e311a16c",
         "runes": "a00b003a5fc1548904baa0b01e27b638d3b68d06",
@@ -12,5 +12,5 @@
     },
     "constants": "7f5c665a621c2b7b01ee3d0e45167f1e3c625594",
     "reforge_stones": "2d2b673a8d6955bea3e91b6adecf4b813f8969df",
-    "parents": "03840a3f8f5de0ff774948e947401c1d04461fd0"
+    "parents": "4f33517c6415c1012f5fa9454bb6fa8729a7c14e"
 }
