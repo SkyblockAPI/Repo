@@ -139725,6 +139725,346 @@
     }
   },
   {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "GLACITE_GUARDIAN_CYAN"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Cyan Guardian Glacite Helmet Skin"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Combinable in Anvil"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Item skins give your gear a fresh"
+        },
+        {
+          "text": "§7new look! Apply them just like an"
+        },
+        {
+          "text": "§7enchant book using the anvil."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This skin can be applied to §5Glacite"
+        },
+        {
+          "text": "§5Helmet§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC COSMETIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc5MDc3MzY2NDAzOSwKICAicHJvZmlsZUlkIiA6ICIwNDg0N2ZjNWM5YjY0NTQ1YjI1ZWJkYmJiNzdjNjg2NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYXFsdWEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjk1YjM4YjliNjI2MGIxMjNiNjM3ZTA4ODM5ZjZjZjI5YzhmZGMzYjNlYjRkY2JiMzA5ODJkZTMwN2U4NTFkYiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "GLACITE_GUARDIAN_DARK"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Dark Guardian Glacite Helmet Skin"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Combinable in Anvil"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Item skins give your gear a fresh"
+        },
+        {
+          "text": "§7new look! Apply them just like an"
+        },
+        {
+          "text": "§7enchant book using the anvil."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This skin can be applied to §5Glacite"
+        },
+        {
+          "text": "§5Helmet§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC COSMETIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc5MDc3MzY2MzExMywKICAicHJvZmlsZUlkIiA6ICI3MTJkNTYyZTJkYjc0Y2ZiYWVkNTRmM2Q2ODIxZjA0OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJJbElsSWxJSUlJSWxJIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRhYzUzN2MxNjNkODQ4NDIwODQyYWRiZGM5MDMzZGNkOWIwMmIzNmU2OTdjY2I1MzkzZDk1OTI5MDE5MDRkZjciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "GLACITE_GUARDIAN_GLACIAL"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Glacial Guardian Glacite Helmet Skin"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Combinable in Anvil"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Item skins give your gear a fresh"
+        },
+        {
+          "text": "§7new look! Apply them just like an"
+        },
+        {
+          "text": "§7enchant book using the anvil."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This skin can be applied to §5Glacite"
+        },
+        {
+          "text": "§5Helmet§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC COSMETIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc5MDc3MzY2NTMyMywKICAicHJvZmlsZUlkIiA6ICI1MzE4YWJhNDJiMTk0ODNiODFiMWY2N2Y1ODVjNDdkNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJocHllZiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYzUwMDQ0YWQwNGYwMTQwNWFiZGYyYmFjMGQ4MGQ3N2M1NTNmODQ0YzFjYWZmNmFiNTI3ODAzMzVhOGY3OTE5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "GLACITE_GUARDIAN_LIGHT"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Light Guardian Glacite Helmet Skin"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Combinable in Anvil"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Item skins give your gear a fresh"
+        },
+        {
+          "text": "§7new look! Apply them just like an"
+        },
+        {
+          "text": "§7enchant book using the anvil."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This skin can be applied to §5Glacite"
+        },
+        {
+          "text": "§5Helmet§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC COSMETIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc5MDc3MzY2NzcwOSwKICAicHJvZmlsZUlkIiA6ICIwNDg2YWUwMWI4Y2I0OWUzODMyZDcwOTNmMWJlNzI3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJfcGFrbWFuXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNTcyZWNjMmFkNDI4ZWEwNGY2YTdjZGIzM2FjMTE5MmZhYjU5Y2MzMmI3NGM4MjUxZjBkZGE4NTEzZDg1MDFjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "GLACITE_GUARDIAN_PURPLE"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Purple Guardian Glacite Helmet Skin"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Combinable in Anvil"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Item skins give your gear a fresh"
+        },
+        {
+          "text": "§7new look! Apply them just like an"
+        },
+        {
+          "text": "§7enchant book using the anvil."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This skin can be applied to §5Glacite"
+        },
+        {
+          "text": "§5Helmet§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC COSMETIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc5MDc3MzY2NTgxMCwKICAicHJvZmlsZUlkIiA6ICJhZTQyMTU2N2QzODg0YWUxOTJhNmNiNTY4ZmZkNGZhMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aW1vdGh5ZGVvZG9yYW50IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZlYWRjYWRkNDkyZjY4NzEwNDc5NTMyMjIwNGNjNzYxY2JjMDBmZmU5MTEwMzg0Y2I4NDM3MTczMmEzZWQ5MTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
     "id": "minecraft:packed_ice",
     "components": {
       "minecraft:custom_data": {
@@ -211986,16 +212326,19 @@
           "text": "§6Ability: Big Pull  §e§lRIGHT CLICK"
         },
         {
-          "text": "§7Throw a hook to grab and pull blazes."
+          "text": "§7Throw a hook to grab and pull blazes and"
+        },
+        {
+          "text": "§7certain other  Airborne mobs."
         },
         {
           "text": ""
         },
         {
-          "text": "§7Pulling a blaze multiplies its damage taken by"
+          "text": "§7Pulling a mob multiplies its damage taken by §c2x"
         },
         {
-          "text": "§c2x §7and stops it from flying."
+          "text": "§7and stops it from flying."
         },
         {
           "text": "§8Mana Cost: §b30"
@@ -212014,7 +212357,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",

@@ -20631,6 +20631,41 @@
   },
   {
     "type": "item",
+    "id": "GLACITE_GUARDIAN_CYAN",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cyan_Guardian_Glacite_Helmet_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "GLACITE_GUARDIAN_DARK",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dark_Guardian_Glacite_Helmet_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "GLACITE_GUARDIAN_GLACIAL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Glacial_Guardian_Glacite_Helmet_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "GLACITE_GUARDIAN_LIGHT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Light_Guardian_Glacite_Helmet_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "GLACITE_GUARDIAN_PURPLE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Purple_Guardian_Glacite_Helmet_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "GLACITE_HELMET",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Glacite_Helmet"
