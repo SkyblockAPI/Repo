@@ -280062,6 +280062,60 @@
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
+        "id": "PUMPKIN_DRESSER"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Pumpkin Dresser"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Furniture"
+        },
+        {
+          "text": "§8Halloween Cosmetic"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This exclusive §6Halloween §7cosmetic"
+        },
+        {
+          "text": "§7can be placed on your island or"
+        },
+        {
+          "text": "§7traded."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2NjM4NjQxMzg1MywKICAicHJvZmlsZUlkIiA6ICI4NDIzMzM5MTYwMjY0NjBiOWQ1MGFjZWU3MThiMjkxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmaXJlc2xpbmdlciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMmIyODEzZjNkYzkzM2EwZjdlM2FiODg0ODJhZGRlYzk4OThlYjUyYTg5MzU4NjZkNTJjNTY5NGM1NmZmYWY5IgogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:dyed_color": 10511680,
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:dyed_color",
+          "minecraft:enchantments"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
         "id": "PUMPKIN_FLUX"
       },
       "minecraft:custom_name": {
