@@ -26080,6 +26080,68 @@
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
+        "id": "BLACK_CAT_PLUSHIE"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Black Cat Plushie"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Furniture"
+        },
+        {
+          "text": "§8Halloween Cosmetic"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This exclusive §6Halloween §7cosmetic"
+        },
+        {
+          "text": "§7can be placed on your island or"
+        },
+        {
+          "text": "§7traded."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzY4MDg3ODQzMywKICAicHJvZmlsZUlkIiA6ICJjNzQ1Mzc4MDY5MzY0ODg2ODkwNzRkOTQ3ZjBlOTlmNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJjdWN1bWkwNyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYTNhOGFkY2ZkYjUzZTkzZjBjYTFiMDY4ZDc1OWQ4YzY1MTU3OGY3MzdkYzY1ZjIyNjlkZDMzOTY4YzNjZjk1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
         "id": "BLACK_COFFEE"
       },
       "minecraft:custom_name": {
@@ -45331,6 +45393,74 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "CANDY_CORN_SUPERIOR_DRAGON"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Candy Corn Superior Dragon Skin"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Combinable in Anvil"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Item skins give your gear a fresh"
+        },
+        {
+          "text": "§7new look! Apply them just like an"
+        },
+        {
+          "text": "§7enchant book using the anvil."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This skin can be applied to §6Superior"
+        },
+        {
+          "text": "§6Dragon Helmet§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC COSMETIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc5MDk2MjUxMDUwNCwKICAicHJvZmlsZUlkIiA6ICJiOWIzY2RlZmIyZmQ0YWY1ODQxMGViZWZjY2ZmYTBhYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJpbnRlcnNlY2F0byIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80Njc2ZGI4NjRmZmIyODg4MTEzNGJlMTYwODI3Njc1ZmQ4YWJhMTlhODFjOThkZjEzZGZkNDc0MTA5NGFjM2ZjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
@@ -264356,6 +264486,83 @@
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
+        "id": "PET_SKIN_SKELETON_WITHERING"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Withering Skeleton Skin"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Consumed on use"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Pet skins change the look and"
+        },
+        {
+          "text": "§7particle trail of your pet but only"
+        },
+        {
+          "text": "§7one skin can be active at a time!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This skin can only be applied to"
+        },
+        {
+          "text": "§aSkeleton§7 pets."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click on your summoned pet to"
+        },
+        {
+          "text": "§eapply this skin!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC COSMETIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc5MDk2MjUxMDc4MywKICAicHJvZmlsZUlkIiA6ICIwMmI5NmI1OTdlMDA0OTUyYmM1ZmZjNDUwNmNiNmE0OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaGFybGllc3RvbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82NmZmYmQxYWRkZTBmZTU3ZjMzNDg1NTE1Zjc1ZTY0OTQzZTRhM2YzZTdiY2Q4ZTBhNTliNGJkZTRlYjE2YmYzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
         "id": "PET_SKIN_SLOTH_TUXEDO"
       },
       "minecraft:custom_name": {
@@ -301783,6 +301990,192 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:common"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "SALEM_FIREPLACE"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Salem Fireplace"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Furniture"
+        },
+        {
+          "text": "§8Halloween Cosmetic"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This exclusive §6Halloween §7cosmetic"
+        },
+        {
+          "text": "§7can be placed on your island or"
+        },
+        {
+          "text": "§7traded."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwMTA2OTAwMzE5NSwKICAicHJvZmlsZUlkIiA6ICJhY2UwMjNlNTA5Nzk0YzUzYTBhOGU4ZTkzZDZhMTE1NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcnplcGgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDIwY2I3M2YyMDdiMDdkMjU5Y2ExZWVmN2NhZGUzMDJjN2VhMTA0YjhhMGMyNDBiODk3YTU3Nzk3MTEyMmU1NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "SALEM_LARGE_SOFA"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Salem Large Sofa"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Furniture"
+        },
+        {
+          "text": "§8Halloween Cosmetic"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This exclusive §6Halloween §7cosmetic"
+        },
+        {
+          "text": "§7can be placed on your island or"
+        },
+        {
+          "text": "§7traded."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5MzU2OTQ0NTMyNywKICAicHJvZmlsZUlkIiA6ICJhNzdkNmQ2YmFjOWE0NzY3YTFhNzU1NjYxOTllYmY5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwOEJFRDUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDgxZmNmZmI1M2FjYmM3YzAwYzUzYmM3MTIxY2EyNTkzNzFiNWI3NmMwMDFkYzUyMTM5ZTE4MDRjMjg3ZTU0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "SALEM_SMALL_SOFA"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Salem Small Sofa"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Furniture"
+        },
+        {
+          "text": "§8Halloween Cosmetic"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This exclusive §6Halloween §7cosmetic"
+        },
+        {
+          "text": "§7can be placed on your island or"
+        },
+        {
+          "text": "§7traded."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5MzU2OTQ0NTMyNywKICAicHJvZmlsZUlkIiA6ICJhNzdkNmQ2YmFjOWE0NzY3YTFhNzU1NjYxOTllYmY5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwOEJFRDUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDgxZmNmZmI1M2FjYmM3YzAwYzUzYmM3MTIxY2EyNTkzNzFiNWI3NmMwMDFkYzUyMTM5ZTE4MDRjMjg3ZTU0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
