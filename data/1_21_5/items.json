@@ -280101,7 +280101,6 @@
           }
         ]
       },
-      "minecraft:dyed_color": 10511680,
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
