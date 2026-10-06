@@ -31762,10 +31762,7 @@
           "text": "  §b/fishingbag§7, §d/timepocket§7, §f/anvil§7, §d/hex§7,"
         },
         {
-          "text": "  §b/etable§7, §d/potionbag§7, §d/rngmeter§7, §d/pity§7,"
-        },
-        {
-          "text": "  §7and §e/quiver"
+          "text": "  §b/etable§7, §d/potionbag§7, and §e/quiver"
         },
         {
           "text": "§8‣ §7Sell items directly to the trades and cookie menu"
@@ -42628,7 +42625,19 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7What does it all mean???"
+          "text": "§7Quickly click on a player several"
+        },
+        {
+          "text": "§7times while holding this item to"
+        },
+        {
+          "text": "§7capture their §dSoul§7 in it!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8Capturing a soul will soulbind this item."
         },
         {
           "text": ""
@@ -71877,9 +71886,6 @@
         },
         {
           "text": "§9Montezuma§7's soul."
-        },
-        {
-          "text": "§8Mana Cost: §b100"
         },
         {
           "text": "§8Cooldown: §a9s"
@@ -128955,10 +128961,7 @@
           "text": "  §b/fishingbag§7, §d/timepocket§7, §f/anvil§7, §d/hex§7,"
         },
         {
-          "text": "  §b/etable§7, §d/potionbag§7, §d/rngmeter§7, §d/pity§7,"
-        },
-        {
-          "text": "  §7and §e/quiver"
+          "text": "  §b/etable§7, §d/potionbag§7, and §e/quiver"
         },
         {
           "text": "§8‣ §7Sell items directly to the trades and cookie menu"
@@ -134582,7 +134585,7 @@
           "text": "§6Ability: Reduced To Atoms"
         },
         {
-          "text": "§7On §bMining Islands§7, mobs hit by this Gauntlet will"
+          "text": "§7On §6Mining Islands§7, mobs hit by this Gauntlet will"
         },
         {
           "text": "§7drop the same §dGemstones §7as your filled"
@@ -134600,7 +134603,7 @@
           "text": "§6Ability: Kinetic"
         },
         {
-          "text": "§7Killing mobs on §bMining Islands §7reduces your"
+          "text": "§7Killing mobs on §6Mining Islands §7reduces your"
         },
         {
           "text": "§6Forge Timers §7by §a0s§7."
@@ -160728,9 +160731,6 @@
         },
         {
           "text": ""
-        },
-        {
-          "text": "§8This item §8§lCANNOT§8 be reforged!"
         },
         {
           "text": "§5§kX§5 Rift-Transferable §5§kX"
@@ -284402,10 +284402,7 @@
           "text": "  §b/fishingbag§7, §d/timepocket§7, §f/anvil§7, §d/hex§7,"
         },
         {
-          "text": "  §b/etable§7, §d/potionbag§7, §d/rngmeter§7, §d/pity§7,"
-        },
-        {
-          "text": "  §7and §e/quiver"
+          "text": "  §b/etable§7, §d/potionbag§7, and §e/quiver"
         },
         {
           "text": "§8‣ §7Sell items directly to the trades and cookie menu"
@@ -286639,10 +286636,16 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Health: §c+75"
+          "text": "§7Health: §c+125"
         },
         {
           "text": "§7Defense: §a+40"
+        },
+        {
+          "text": "§7Strength: §c+20"
+        },
+        {
+          "text": "§7Crit Damage: §9+15%"
         },
         {
           "text": "§7Intelligence: §b+5"
@@ -286651,10 +286654,10 @@
           "text": ""
         },
         {
-          "text": "§7Grants §c+50❤ Health§7, §c+20❁ Strength§7,"
+          "text": "§7Grants §c+50 Health§7, §c+20 Strength§7,"
         },
         {
-          "text": "§7and §9+15☠ Crit Damage §7while on the"
+          "text": "§7and §9+15 Crit Damage §7while on the"
         },
         {
           "text": "§cCrimson Isle§7."
@@ -286669,9 +286672,6 @@
           "text": "§4❣ §cRequires §aCombat Skill 22§c."
         },
         {
-          "text": "§8§l* §8Co-op Soulbound §8§l*"
-        },
-        {
           "text": "§9§lRARE BOOTS"
         }
       ],
@@ -286680,15 +286680,13 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -286709,10 +286707,16 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Health: §c+175"
+          "text": "§7Health: §c+225"
         },
         {
           "text": "§7Defense: §a+60"
+        },
+        {
+          "text": "§7Strength: §c+20"
+        },
+        {
+          "text": "§7Crit Damage: §9+15%"
         },
         {
           "text": "§7Intelligence: §b+5"
@@ -286721,10 +286725,10 @@
           "text": ""
         },
         {
-          "text": "§7Grants §c+50❤ Health§7, §c+20❁ Strength§7,"
+          "text": "§7Grants §c+50 Health§7, §c+20 Strength§7,"
         },
         {
-          "text": "§7and §9+15☠ Crit Damage §7while on the"
+          "text": "§7and §9+15 Crit Damage §7while on the"
         },
         {
           "text": "§cCrimson Isle§7."
@@ -286739,9 +286743,6 @@
           "text": "§4❣ §cRequires §aCombat Skill 22§c."
         },
         {
-          "text": "§8§l* §8Co-op Soulbound §8§l*"
-        },
-        {
           "text": "§9§lRARE CHESTPLATE"
         }
       ],
@@ -286750,15 +286751,13 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -286778,10 +286777,16 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Health: §c+100"
+          "text": "§7Health: §c+150"
         },
         {
           "text": "§7Defense: §a+45"
+        },
+        {
+          "text": "§7Strength: §c+20"
+        },
+        {
+          "text": "§7Crit Damage: §9+15%"
         },
         {
           "text": "§7Intelligence: §b+15"
@@ -286790,10 +286795,10 @@
           "text": ""
         },
         {
-          "text": "§7Grants §c+50❤ Health§7, §c+20❁ Strength§7,"
+          "text": "§7Grants §c+50 Health§7, §c+20 Strength§7,"
         },
         {
-          "text": "§7and §9+15☠ Crit Damage §7while on the"
+          "text": "§7and §9+15 Crit Damage §7while on the"
         },
         {
           "text": "§cCrimson Isle§7."
@@ -286806,9 +286811,6 @@
         },
         {
           "text": "§4❣ §cRequires §aCombat Skill 22§c."
-        },
-        {
-          "text": "§8§l* §8Co-op Soulbound §8§l*"
         },
         {
           "text": "§9§lRARE HELMET"
@@ -286826,15 +286828,13 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -286855,10 +286855,16 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Health: §c+150"
+          "text": "§7Health: §c+200"
         },
         {
           "text": "§7Defense: §a+55"
+        },
+        {
+          "text": "§7Strength: §c+20"
+        },
+        {
+          "text": "§7Crit Damage: §9+15%"
         },
         {
           "text": "§7Intelligence: §b+5"
@@ -286867,10 +286873,10 @@
           "text": ""
         },
         {
-          "text": "§7Grants §c+50❤ Health§7, §c+20❁ Strength§7,"
+          "text": "§7Grants §c+50 Health§7, §c+20 Strength§7,"
         },
         {
-          "text": "§7and §9+15☠ Crit Damage §7while on the"
+          "text": "§7and §9+15 Crit Damage §7while on the"
         },
         {
           "text": "§cCrimson Isle§7."
@@ -286885,9 +286891,6 @@
           "text": "§4❣ §cRequires §aCombat Skill 22§c."
         },
         {
-          "text": "§8§l* §8Co-op Soulbound §8§l*"
-        },
-        {
           "text": "§9§lRARE LEGGINGS"
         }
       ],
@@ -286896,15 +286899,13 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -293958,10 +293959,7 @@
           "text": "  §b/fishingbag§7, §d/timepocket§7, §f/anvil§7, §d/hex§7,"
         },
         {
-          "text": "  §b/etable§7, §d/potionbag§7, §d/rngmeter§7, §d/pity§7,"
-        },
-        {
-          "text": "  §7and §e/quiver"
+          "text": "  §b/etable§7, §d/potionbag§7, and §e/quiver"
         },
         {
           "text": "§8‣ §7Sell items directly to the trades and cookie menu"
@@ -297303,7 +297301,7 @@
           "text": ""
         },
         {
-          "text": "§7§eThis item will vanish from your"
+          "text": "§eThis item will vanish from your"
         },
         {
           "text": "§einventory at the end of the Dungeon!"
@@ -297325,7 +297323,18 @@
       },
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:dyed_color"
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -302763,7 +302772,7 @@
           "text": "§8§oThe tried and true tool in an escape"
         },
         {
-          "text": "§8§oarist's arsenal."
+          "text": "§8§oartist's arsenal."
         },
         {
           "text": ""
@@ -302776,7 +302785,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -315599,7 +315608,7 @@
       },
       "minecraft:enchantment_glint_override": true,
       "minecraft:custom_name": {
-        "text": "§aSilver Fang"
+        "text": "§9Silver Fang"
       },
       "minecraft:lore": [
         {
@@ -315612,7 +315621,7 @@
           "text": "§5§kX§5 Rift-Transferable §5§kX"
         },
         {
-          "text": "§a§lUNCOMMON"
+          "text": "§9§lRARE"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/uncategorized/silver_fang",
@@ -315622,17 +315631,19 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
     }
   },
   {
@@ -334746,6 +334757,12 @@
           "text": "§4❣ §cRequires Catacombs Skill 15."
         },
         {
+          "text": "§4❣ §cRequires Master Mode The Catacombs Floor IV"
+        },
+        {
+          "text": "§cCompletion."
+        },
+        {
           "text": "§5§lEPIC DUNGEON HELMET"
         }
       ],
@@ -343228,6 +343245,12 @@
         },
         {
           "text": "§4❣ §cRequires Catacombs Skill 15."
+        },
+        {
+          "text": "§4❣ §cRequires Master Mode The Catacombs Floor IV"
+        },
+        {
+          "text": "§cCompletion."
         },
         {
           "text": "§6§lLEGENDARY DUNGEON HELMET"

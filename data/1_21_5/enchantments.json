@@ -67671,7 +67671,8 @@
           "",
           "§d§lHabanero Tactics IV",
           "§8ℏ §7Heal §a+6% §7more from wands.",
-          "§8ℏ §7Deal §c+20% damage §7with Slayer weapons.",
+          "§8ℏ §7Deal §c+20% damage §7against Slayer Bosses",
+          "§7with Slayer weapons.",
           "§8ℏ §7Gain §3+2.5☯ Combat Wisdom §7with Slayer",
           "§7weapons.",
           "§8ℏ §7With §aSmoldering Polarization§7, gain §b+10",
@@ -67697,7 +67698,6 @@
               },
               "id": "ENCHANTED_BOOK"
             },
-            "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
             },
@@ -67715,7 +67715,10 @@
                 "text": "§8ℏ §7Heal §a+6% §7more from wands."
               },
               {
-                "text": "§8ℏ §7Deal §c+20% damage §7with Slayer weapons."
+                "text": "§8ℏ §7Deal §c+20% damage §7against Slayer Bosses"
+              },
+              {
+                "text": "§7with Slayer weapons."
               },
               {
                 "text": "§8ℏ §7Gain §3+2.5☯ Combat Wisdom §7with Slayer"
@@ -67767,13 +67770,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -67791,7 +67796,8 @@
           "",
           "§d§lHabanero Tactics V",
           "§8ℏ §7Heal §a+7.5% §7more from wands.",
-          "§8ℏ §7Deal §c+25% damage §7with Slayer weapons.",
+          "§8ℏ §7Deal §c+25% damage §7against Slayer Bosses",
+          "§7with Slayer weapons.",
           "§8ℏ §7Gain §3+5☯ Combat Wisdom §7with Slayer",
           "§7weapons.",
           "§8ℏ §7With §aSmoldering Polarization§7, gain §b+15",
@@ -67835,7 +67841,10 @@
                 "text": "§8ℏ §7Heal §a+7.5% §7more from wands."
               },
               {
-                "text": "§8ℏ §7Deal §c+25% damage §7with Slayer weapons."
+                "text": "§8ℏ §7Deal §c+25% damage §7against Slayer Bosses"
+              },
+              {
+                "text": "§7with Slayer weapons."
               },
               {
                 "text": "§8ℏ §7Gain §3+5☯ Combat Wisdom §7with Slayer"
