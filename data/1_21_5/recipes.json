@@ -39659,6 +39659,34 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "HOTSPOT_WATER_ORB",
+        "count": 1
+      },
+      {
+        "id": "HOTSPOT_RING",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      -1,
+      1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "HOTSPOT_ARTIFACT",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENCHANTED_PUFFERFISH",
         "count": 1
       },
@@ -39755,6 +39783,38 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "ENCHANTED_CLAY_BALL",
+        "count": 8
+      },
+      {
+        "id": "BUSTED_BELT_BUCKLE",
+        "count": 1
+      },
+      {
+        "id": "HOTSPOT_TALISMAN",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "HOTSPOT_RING",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "SEARED_ESCARGOT",
         "count": 16
       },
@@ -39780,6 +39840,34 @@
     ],
     "result": {
       "id": "HOTSPOT_SINKER",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_CLAY_BALL",
+        "count": 1
+      },
+      {
+        "id": "RUSTY_COIN",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      1,
+      0,
+      1,
+      -1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "result": {
+      "id": "HOTSPOT_TALISMAN",
       "count": 1
     }
   },
@@ -46135,6 +46223,34 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "ENCHANTED_RAW_FISH",
+        "count": 16
+      },
+      {
+        "id": "MEDIUM_BAIT_SACK",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "LARGE_BAIT_SACK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "PUMPKIN_GUTS",
         "count": 4
       },
@@ -50951,6 +51067,20 @@
     "npc": "MALIK_NPC",
     "inputs": [
       {
+        "id": "ESSENCE_WITHER",
+        "count": 5000
+      }
+    ],
+    "result": {
+      "id": "INFINIPOT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "MALIK_NPC",
+    "inputs": [
+      {
         "id": "ESSENCE_UNDEAD",
         "count": 50000
       }
@@ -51947,6 +52077,34 @@
     ],
     "result": {
       "id": "MEDIUM_BACKPACK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_RAW_FISH",
+        "count": 1
+      },
+      {
+        "id": "SMALL_BAIT_SACK",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "MEDIUM_BAIT_SACK",
       "count": 1
     }
   },
@@ -57723,6 +57881,34 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "LIVING_METAL",
+        "count": 1
+      },
+      {
+        "id": "METAL_HEART",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "NOTHING_IN_A_BOTTLE",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "DEADGEHOG_SPINE",
         "count": 2
       },
@@ -63482,13 +63668,13 @@
     "input": {
       "type": "pet",
       "pet": "PHOENIX",
-      "tier": "EPIC",
+      "tier": "ULTIMATE",
       "count": 1
     },
     "output": {
       "type": "pet",
       "pet": "PHOENIX",
-      "tier": "LEGENDARY",
+      "tier": "SPECIAL",
       "count": 1
     },
     "items": [
@@ -65167,6 +65353,71 @@
     }
   },
   {
+    "type": "forge",
+    "inputs": [
+      {
+        "id": "REFINED_MINERAL",
+        "count": 1
+      },
+      {
+        "id": "REFINED_TITANIUM",
+        "count": 1
+      }
+    ],
+    "coins": 0,
+    "time": 3600,
+    "result": {
+      "id": "POWDER_OF_ONE",
+      "count": 1
+    }
+  },
+  {
+    "type": "forge",
+    "inputs": [
+      {
+        "id": "POWDER_OF_ONE",
+        "count": 1
+      },
+      {
+        "id": "GEMSTONE_MIXTURE",
+        "count": 4
+      },
+      {
+        "id": "REFINED_MINERAL",
+        "count": 32
+      }
+    ],
+    "coins": 0,
+    "time": 3600,
+    "result": {
+      "id": "POWDER_OF_THE_FEW",
+      "count": 1
+    }
+  },
+  {
+    "type": "forge",
+    "inputs": [
+      {
+        "id": "POWDER_OF_THE_FEW",
+        "count": 1
+      },
+      {
+        "id": "GLACITE_AMALGAMATION",
+        "count": 4
+      },
+      {
+        "id": "GLOSSY_GEMSTONE",
+        "count": 32
+      }
+    ],
+    "coins": 0,
+    "time": 21600,
+    "result": {
+      "id": "POWDER_OF_THE_MANY",
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {
@@ -65535,44 +65786,19 @@
     }
   },
   {
-    "type": "crafting",
-    "keys": [
-      {
-        "id": "FINE_CITRINE_GEM",
-        "count": 10
-      },
-      {
-        "id": "FINE_AQUAMARINE_GEM",
-        "count": 10
-      },
-      {
-        "id": "SUPER_EGG",
-        "count": 1
-      },
-      {
-        "id": "FINE_JADE_GEM",
-        "count": 10
-      },
+    "type": "forge",
+    "inputs": [
       {
         "id": "PRECURSOR_APPARATUS",
         "count": 1
       }
     ],
-    "pattern": [
-      -1,
-      0,
-      -1,
-      1,
-      2,
-      3,
-      -1,
-      4,
-      -1
-    ],
+    "coins": 300000,
+    "time": 259200,
     "result": {
       "type": "pet",
       "pet": "PRECURSOR_DRONE",
-      "tier": "COMMON",
+      "tier": "LEGENDARY",
       "count": 1
     }
   },
@@ -71238,6 +71464,34 @@
     ],
     "result": {
       "id": "HUNTING_WISDOM_BOOSTER_COMMON",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "ROSEMARY_NPC",
+    "inputs": [
+      {
+        "id": "ESSENCE_FOREST",
+        "count": 100
+      }
+    ],
+    "result": {
+      "id": "WOODEN_BAIT",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "ROSEMARY_NPC",
+    "inputs": [
+      {
+        "id": "ESSENCE_FOREST",
+        "count": 5000
+      }
+    ],
+    "result": {
+      "id": "FROGS_SPIRIT_SCROLL",
       "count": 1
     }
   },
@@ -77537,6 +77791,30 @@
     ],
     "result": {
       "id": "SMALL_BACKPACK",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "RAW_FISH",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "SMALL_BAIT_SACK",
       "count": 1
     }
   },

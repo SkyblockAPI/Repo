@@ -4066,6 +4066,13 @@
   },
   {
     "type": "item",
+    "id": "BLOOD_MOON_FISH_ORB",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blood_Moon_Fishing_Deployable_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "BLOOD_SOAKED_COINS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Blood-Soaked_Coins"
@@ -5947,6 +5954,13 @@
   },
   {
     "type": "item",
+    "id": "CANDY_CORN_SUPERIOR_DRAGON",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Candy_Corn_Superior_Dragon_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "CANDY_RELIC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Candy_Relic"
@@ -7470,8 +7484,8 @@
     "id": "CLAY_BRACELET",
     "requirements": [
       {
-        "level": 5,
-        "rawString": "Clay Ball V",
+        "level": 4,
+        "rawString": "Clay Ball IV",
         "type": "collection",
         "name": "Clay Ball",
         "id": "CLAY_BALL"
@@ -9287,6 +9301,13 @@
   },
   {
     "type": "item",
+    "id": "CRIMSON_SPOOKY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Spooky_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "CRITTER_CAPSULE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Critter_Capsule"
@@ -9360,6 +9381,13 @@
     "id": "CROWN_OF_AVARICE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Crown_of_Avarice"
+    }
+  },
+  {
+    "type": "item",
+    "id": "CROWN_OF_AVARICE_ROYAL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Grand_Royal_Skin"
     }
   },
   {
@@ -13139,8 +13167,8 @@
     "id": "ENCHANTED_CLAY_BALL",
     "requirements": [
       {
-        "level": 2,
-        "rawString": "Clay Ball II",
+        "level": 3,
+        "rawString": "Clay Ball III",
         "type": "collection",
         "name": "Clay Ball",
         "id": "CLAY_BALL"
@@ -13155,8 +13183,8 @@
     "id": "ENCHANTED_CLAY_BLOCK",
     "requirements": [
       {
-        "level": 7,
-        "rawString": "Clay Ball VII",
+        "level": 8,
+        "rawString": "Clay Ball VIII",
         "type": "collection",
         "name": "Clay Ball",
         "id": "CLAY_BALL"
@@ -24101,6 +24129,19 @@
   },
   {
     "type": "item",
+    "id": "HOTSPOT_ARTIFACT",
+    "requirements": [
+      {
+        "level": 9,
+        "rawString": "Clay Ball IX",
+        "type": "collection",
+        "name": "Clay Ball",
+        "id": "CLAY_BALL"
+      }
+    ]
+  },
+  {
+    "type": "item",
     "id": "HOTSPOT_BAIT",
     "requirements": [
       {
@@ -24131,10 +24172,36 @@
   },
   {
     "type": "item",
+    "id": "HOTSPOT_RING",
+    "requirements": [
+      {
+        "level": 7,
+        "rawString": "Clay Ball VII",
+        "type": "collection",
+        "name": "Clay Ball",
+        "id": "CLAY_BALL"
+      }
+    ]
+  },
+  {
+    "type": "item",
     "id": "HOTSPOT_SINKER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Hotspot_Sinker"
     }
+  },
+  {
+    "type": "item",
+    "id": "HOTSPOT_TALISMAN",
+    "requirements": [
+      {
+        "level": 5,
+        "rawString": "Clay Ball V",
+        "type": "collection",
+        "name": "Clay Ball",
+        "id": "CLAY_BALL"
+      }
+    ]
   },
   {
     "type": "item",
@@ -27207,6 +27274,18 @@
   },
   {
     "type": "item",
+    "id": "LARGE_BAIT_SACK",
+    "requirements": [
+      {
+        "level": 7,
+        "rawString": "Raw Fish VII",
+        "type": "unknown",
+        "name": "Raw Fish"
+      }
+    ]
+  },
+  {
+    "type": "item",
     "id": "LARGE_BED",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Large_Bed"
@@ -29508,6 +29587,18 @@
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Medium_Backpack"
     }
+  },
+  {
+    "type": "item",
+    "id": "MEDIUM_BAIT_SACK",
+    "requirements": [
+      {
+        "level": 5,
+        "rawString": "Raw Fish V",
+        "type": "unknown",
+        "name": "Raw Fish"
+      }
+    ]
   },
   {
     "type": "item",
@@ -32265,6 +32356,19 @@
     "type": "item",
     "id": "NOTE_BLOCK",
     "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "NOTHING_IN_A_BOTTLE",
+    "requirements": [
+      {
+        "level": 3,
+        "rawString": "Living Metal Heart III",
+        "type": "collection",
+        "name": "Living Metal Heart",
+        "id": "METAL_HEART"
+      }
+    ]
   },
   {
     "type": "item",
@@ -35660,6 +35764,13 @@
   },
   {
     "type": "item",
+    "id": "PET_SKIN_GRIFFIN_FAIRY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fairy_Griffin_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "PET_SKIN_GRIFFIN_MINOAN",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Minoan_Griffin_Skin"
@@ -35971,6 +36082,13 @@
     "id": "PET_SKIN_MITHRIL_GOLEM_GEODE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Geode_Mithril_Golem_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PET_SKIN_MITHRIL_GOLEM_GHOST",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ghost_Mithril_Golem_Skin"
     }
   },
   {
@@ -36818,6 +36936,13 @@
     "id": "PET_SKIN_SKELETON_SANTA",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Santa_Skeleton_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PET_SKIN_SKELETON_WITHERING",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Withering_Skeleton_Skin"
     }
   },
   {
@@ -37917,6 +38042,39 @@
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Potted_Cactus"
     }
+  },
+  {
+    "type": "item",
+    "id": "POWDER_OF_ONE",
+    "requirements": [
+      {
+        "level": 2,
+        "rawString": "HotM 2",
+        "type": "hotm"
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "id": "POWDER_OF_THE_FEW",
+    "requirements": [
+      {
+        "level": 5,
+        "rawString": "HotM 5",
+        "type": "hotm"
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "id": "POWDER_OF_THE_MANY",
+    "requirements": [
+      {
+        "level": 8,
+        "rawString": "HotM 8",
+        "type": "hotm"
+      }
+    ]
   },
   {
     "type": "item",
@@ -43972,6 +44130,18 @@
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Small_Backpack"
     }
+  },
+  {
+    "type": "item",
+    "id": "SMALL_BAIT_SACK",
+    "requirements": [
+      {
+        "level": 3,
+        "rawString": "Raw Fish III",
+        "type": "unknown",
+        "name": "Raw Fish"
+      }
+    ]
   },
   {
     "type": "item",
@@ -54787,7 +54957,7 @@
   {
     "type": "pet",
     "id": "PHOENIX",
-    "tier": "EPIC",
+    "tier": "SPECIAL",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Phoenix_Pet"
     }
@@ -54795,7 +54965,7 @@
   {
     "type": "pet",
     "id": "PHOENIX",
-    "tier": "LEGENDARY",
+    "tier": "VERY_SPECIAL",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Phoenix_Pet"
     }
@@ -54896,14 +55066,6 @@
     "tier": "LEGENDARY",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Pigman_Pet"
-    }
-  },
-  {
-    "type": "pet",
-    "id": "PRECURSOR_DRONE",
-    "tier": "COMMON",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Precursor_Drone_Pet"
     }
   },
   {

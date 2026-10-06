@@ -4436,6 +4436,104 @@
     }
   },
   {
+    "id": "CATACOMBS_CAP",
+    "lore": [
+      "§7Increases your §f Speed Cap§7 by §a+5",
+      "§7while in §cThe Catacombs§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 10§c.",
+      "§9§lRARE COMBAT SHARD"
+    ],
+    "attribute_id": "R28",
+    "shard_name": "Folf Shard",
+    "shard_id": "SHARD_FOLF",
+    "name": "Catacombs Cap",
+    "item": "minecraft:player_head",
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIzMTEwMTA3NiwKICAicHJvZmlsZUlkIiA6ICJmNThkZWJkNTlmNTA0MjIyOGY2MDIyMjExZDRjMTQwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ1bnZlbnRpdmV0YWxlbnQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWY0Mjk3ZTc2ZmUyNGY5ZDkwMTJlNDFlYjcwYzllMGUwMjY5ODU3ODAzNzZhZGFiZjU2MWE0YjJmNzc0NWUwOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "rarity": "RARE",
+    "max": 48,
+    "itemStack": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "attributes": {
+            "catacombs_cap": 1
+          },
+          "id": "ATTRIBUTE_SHARD"
+        },
+        "minecraft:custom_name": {
+          "text": "§9Folf Shard"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§6Catacombs Cap I"
+          },
+          {
+            "text": "§7Increases your §f Speed Cap§7 by §a+5"
+          },
+          {
+            "text": "§7while in §cThe Catacombs§7."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7You can Syphon this shard from"
+          },
+          {
+            "text": "§7your §aHunting Box§7."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§eRight-click to send to Hunting Box!"
+          },
+          {
+            "text": "§eShift Right-click to move all!"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§4❣ §cRequires §aHunting Skill 10§c."
+          },
+          {
+            "text": "§9§lRARE COMBAT SHARD §8(ID R28)"
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIzMTEwMTA3NiwKICAicHJvZmlsZUlkIiA6ICJmNThkZWJkNTlmNTA0MjIyOGY2MDIyMjExZDRjMTQwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ1bnZlbnRpdmV0YWxlbnQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWY0Mjk3ZTc2ZmUyNGY5ZDkwMTJlNDFlYjcwYzllMGUwMjY5ODU3ODAzNzZhZGFiZjU2MWE0YjJmNzc0NWUwOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:attribute_modifiers",
+            "minecraft:banner_patterns",
+            "minecraft:charged_projectiles",
+            "minecraft:dyed_color",
+            "minecraft:fireworks",
+            "minecraft:jukebox_playable",
+            "minecraft:map_id",
+            "minecraft:painting/variant",
+            "minecraft:potion_contents",
+            "minecraft:trim",
+            "minecraft:unbreakable",
+            "minecraft:written_book_content"
+          ]
+        },
+        "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      }
+    }
+  },
+  {
     "id": "CATACOMBS_EXPLORER",
     "lore": [
       "§7Grants §a+1% §7more §cCatacombs XP§7.",
@@ -11877,6 +11975,95 @@
     }
   },
   {
+    "id": "FLORA",
+    "lore": [
+      "§7Counts as §a+1§7 towards the §eUnique",
+      "§eCrop Bonus §7in your §aGreenhouse§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§4❣ §cRequires §aHunting Skill 20§c.",
+      "§6§lLEGENDARY FOREST SHARD"
+    ],
+    "attribute_id": "L52",
+    "shard_name": "Flora Shard",
+    "shard_id": "SHARD_FLORA",
+    "name": "Unique Bonus",
+    "item": "minecraft:sunflower",
+    "rarity": "LEGENDARY",
+    "max": 24,
+    "itemStack": {
+      "id": "minecraft:sunflower",
+      "components": {
+        "minecraft:custom_data": {
+          "attributes": {
+            "flora": 1
+          },
+          "id": "ATTRIBUTE_SHARD"
+        },
+        "minecraft:custom_name": {
+          "text": "§6Flora Shard"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§6Unique Bonus I"
+          },
+          {
+            "text": "§7Counts as §a+1§7 towards the §eUnique"
+          },
+          {
+            "text": "§eCrop Bonus §7in your §aGreenhouse§7."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7You can Syphon this shard from"
+          },
+          {
+            "text": "§7your §aHunting Box§7."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§eRight-click to send to Hunting Box!"
+          },
+          {
+            "text": "§eShift Right-click to move all!"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§4❣ §cRequires §aHunting Skill 20§c."
+          },
+          {
+            "text": "§6§lLEGENDARY FOREST SHARD §8(ID L52)"
+          }
+        ],
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:attribute_modifiers",
+            "minecraft:banner_patterns",
+            "minecraft:charged_projectiles",
+            "minecraft:dyed_color",
+            "minecraft:fireworks",
+            "minecraft:jukebox_playable",
+            "minecraft:map_id",
+            "minecraft:painting/variant",
+            "minecraft:potion_contents",
+            "minecraft:trim",
+            "minecraft:unbreakable",
+            "minecraft:written_book_content"
+          ]
+        },
+        "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+      }
+    }
+  },
+  {
     "id": "FLYING_FORTUNE",
     "lore": [
       "§7Grants §b+0.5  Magic Find §7on ",
@@ -17765,7 +17952,7 @@
     "id": "KING_OF_GREED",
     "lore": [
       "§7Increases §6Coin §7gain from §eGriffin",
-      "§eBurrows §7by §a+1%§7.",
+      "§eBurrows §7by §a+2.5%§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -17801,7 +17988,7 @@
             "text": "§7Increases §6Coin §7gain from §eGriffin"
           },
           {
-            "text": "§eBurrows §7by §a+1%§7."
+            "text": "§eBurrows §7by §a+2.5%§7."
           },
           {
             "text": ""
@@ -19317,7 +19504,7 @@
     "id": "LUNAR_POWER",
     "lore": [
       "§7Grants §6+5  Farming Fortune§7 during",
-      "§7the Night.",
+      "§7the night.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -19353,7 +19540,7 @@
             "text": "§7Grants §6+5  Farming Fortune§7 during"
           },
           {
-            "text": "§7the Night."
+            "text": "§7the night."
           },
           {
             "text": ""
@@ -22686,8 +22873,8 @@
   {
     "id": "QUARTZ_SPEED",
     "lore": [
-      "§6 Mining Speed §7from events is",
-      "§7increased by §6+10%§7.",
+      "§7Grants §6+10  Mining Speed§7 while any",
+      "§bWeather §7is active.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -22720,10 +22907,10 @@
             "text": "§6Quartz Speed I"
           },
           {
-            "text": "§6 Mining Speed §7from events is"
+            "text": "§7Grants §6+10  Mining Speed§7 while any"
           },
           {
-            "text": "§7increased by §6+10%§7."
+            "text": "§bWeather §7is active."
           },
           {
             "text": ""

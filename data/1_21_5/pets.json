@@ -25,7 +25,7 @@
           "§b+{2} Fishing Speed§7, §f+{3} Speed",
           "§7and §a+{4} Defense§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -122,7 +122,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -182,7 +182,7 @@
           "§7blocks. Enemies hit deal §a10% §7less",
           "§7damage for 10s.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -282,7 +282,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -337,7 +337,7 @@
           "§7your held item.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "DEFENSE": [
@@ -402,7 +402,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -451,7 +451,7 @@
           "§7your held item.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "DEFENSE": [
@@ -516,7 +516,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -569,7 +569,7 @@
           "§dGemstone §7you mine gives §a2x §7drops",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -650,7 +650,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -703,7 +703,7 @@
           "§dGemstone §7you mine gives §a2x §7drops",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -784,7 +784,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -841,7 +841,7 @@
           "§7mining Hard Stone.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -938,7 +938,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -998,7 +998,7 @@
           "§7Consumes §a{2}% §7less energy when",
           "§7tunneling.",
           "",
-          "§d§lMYTHIC"
+          "§d§lMYTHIC PET"
         ],
         "variables": {
           "0": [
@@ -1108,7 +1108,7 @@
                 "text": ""
               },
               {
-                "text": "§d§lMYTHIC"
+                "text": "§d§lMYTHIC PET"
               }
             ],
             "minecraft:profile": {
@@ -1160,7 +1160,7 @@
           "§7reduces its cooldown by §a{1}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -1232,7 +1232,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -1278,7 +1278,7 @@
           "§7reduces its cooldown by §a{1}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -1350,7 +1350,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -1401,7 +1401,7 @@
           "§cWorkshop§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -1492,7 +1492,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -1543,7 +1543,7 @@
           "§cWorkshop§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -1634,7 +1634,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -1689,7 +1689,7 @@
           "§fWinter Sea Creatures§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -1796,7 +1796,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -1855,7 +1855,7 @@
           "§7Grants §d10 Tracking §7while on",
           "§cJerry's Workshop§7.",
           "",
-          "§d§lMYTHIC"
+          "§d§lMYTHIC PET"
         ],
         "variables": {
           "0": [
@@ -1978,7 +1978,7 @@
                 "text": ""
               },
               {
-                "text": "§d§lMYTHIC"
+                "text": "§d§lMYTHIC PET"
               }
             ],
             "minecraft:profile": {
@@ -2032,7 +2032,7 @@
           "§7mobs reduces your §c Heat §7by §c{1}§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -2106,7 +2106,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -2156,7 +2156,7 @@
           "§6Cannibal",
           "§7Increases damage dealt to §c§lBal §7by §a{2}%§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -2240,7 +2240,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -2290,7 +2290,7 @@
           "§7from mobs by §a{0}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -2348,7 +2348,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -2394,7 +2394,7 @@
           "§7from mobs by §a{0}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -2452,7 +2452,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -2500,7 +2500,7 @@
           "§a{2} §f Speed§7, and §aNight Vision§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -2578,7 +2578,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -2626,7 +2626,7 @@
           "§a{2} §f Speed§7, and §aNight Vision§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -2704,7 +2704,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -2756,7 +2756,7 @@
           "§7enemies during the §6Spooky Festival§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -2850,7 +2850,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -2907,7 +2907,7 @@
           "§6Spooky Sea Creatures §7during the",
           "§6Spooky Festival§7.",
           "",
-          "§d§lMYTHIC"
+          "§d§lMYTHIC PET"
         ],
         "variables": {
           "0": [
@@ -3024,7 +3024,7 @@
                 "text": ""
               },
               {
-                "text": "§d§lMYTHIC"
+                "text": "§d§lMYTHIC PET"
               }
             ],
             "minecraft:profile": {
@@ -3078,7 +3078,7 @@
           "§8Max 15 players",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -3160,7 +3160,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -3208,7 +3208,7 @@
           "§8Max 15 players",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -3290,7 +3290,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -3347,7 +3347,7 @@
           "§6 Mining Fortune",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -3472,7 +3472,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -3529,7 +3529,7 @@
           "§6 Mining Fortune",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -3654,7 +3654,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -3715,7 +3715,7 @@
           "§aHoney Jar §7when farming crops.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -3856,7 +3856,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -3921,7 +3921,7 @@
           "§7and §6Wild Rose Fortune §7while in §aThe",
           "§aGarden§7.",
           "",
-          "§d§lMYTHIC"
+          "§d§lMYTHIC PET"
         ],
         "variables": {
           "0": [
@@ -4078,7 +4078,7 @@
                 "text": ""
               },
               {
-                "text": "§d§lMYTHIC"
+                "text": "§d§lMYTHIC PET"
               }
             ],
             "minecraft:profile": {
@@ -5104,7 +5104,7 @@
           "§7Grants §b+{2} Magic Find§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -5202,7 +5202,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -5257,7 +5257,7 @@
           "§7Gain §c{3}% §7more collection items from",
           "§7monsters!",
           "",
-          "§d§lMYTHIC"
+          "§d§lMYTHIC PET"
         ],
         "variables": {
           "0": [
@@ -5368,7 +5368,7 @@
                 "text": ""
               },
               {
-                "text": "§d§lMYTHIC"
+                "text": "§d§lMYTHIC PET"
               }
             ],
             "minecraft:profile": {
@@ -5419,7 +5419,7 @@
           "§cIsle§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -5480,7 +5480,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -5527,7 +5527,7 @@
           "§cIsle§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -5588,7 +5588,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -5637,7 +5637,7 @@
           "§7ability by §a{1}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -5714,7 +5714,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -5763,7 +5763,7 @@
           "§7ability by §a{1}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -5840,7 +5840,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -5891,7 +5891,7 @@
           "§6Fusion-Style Potato",
           "§7Double effects of hot potato books",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -5974,7 +5974,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -6023,7 +6023,7 @@
           "§7gain §a+{0}% Damage Reduction§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -6074,7 +6074,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -6117,7 +6117,7 @@
           "§7gain §a+{0}% Damage Reduction§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -6168,7 +6168,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -6215,7 +6215,7 @@
           "§cHealth§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -6282,7 +6282,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -6329,7 +6329,7 @@
           "§cHealth§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -6396,7 +6396,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -6445,7 +6445,7 @@
           "§6Archimedes",
           "§7Gain §c+{2}% Max  Health§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -6522,7 +6522,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -6572,7 +6572,7 @@
           "§7on §bPublic Islands§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -6630,7 +6630,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -6676,7 +6676,7 @@
           "§7on §bPublic Islands§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -6734,7 +6734,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -6783,7 +6783,7 @@
           "§7animals to drop an additional item.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -6860,7 +6860,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -6909,7 +6909,7 @@
           "§7animals to drop an additional item.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -6986,7 +6986,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -7037,7 +7037,7 @@
           "§6Light Feet",
           "§7Reduces fall damage by §a{2}%§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -7124,7 +7124,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -7174,7 +7174,7 @@
           "§7abilities by §a{0}§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -7232,7 +7232,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -7278,7 +7278,7 @@
           "§7abilities by §a{0}§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -7336,7 +7336,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -7386,7 +7386,7 @@
           "§8Capped at 500 Defense",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -7466,7 +7466,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -7516,7 +7516,7 @@
           "§8Capped at 500 Defense",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -7596,7 +7596,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -7649,7 +7649,7 @@
           "§7Gives a §a{2} §7chance to not consume",
           "§7Mana when using an ability.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -7742,7 +7742,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -7793,7 +7793,7 @@
           "§7players.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -7854,7 +7854,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -7899,7 +7899,7 @@
           "§7players.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -7960,7 +7960,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -8008,7 +8008,7 @@
           "§7Grants §3+{1} Sea Creature Chance§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -8082,7 +8082,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -8130,7 +8130,7 @@
           "§7Grants §3+{1} Sea Creature Chance§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -8204,7 +8204,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -8255,7 +8255,7 @@
           "§7Stun §3Sea Creatures §7for §a5s §7after",
           "§7fishing them up.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -8338,7 +8338,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -8395,14 +8395,15 @@
           "§7Next Upgrade: §a+30 §7& §f+3 §8(§a0§7/§c100§8)",
           "",
           "§6Blaze Slayer",
-          "§7Gain §b{0}x §7Combat XP against §aBlazes§7.",
+          "§7Gain §3+{0}☯ Combat Wisdom §7towards",
+          "§6Blazes§7.",
           "",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
-            1.003,
-            1.3
+            0.3,
+            30
           ],
           "HEALTH": [
             1,
@@ -8476,13 +8477,16 @@
                 "text": "§6Blaze Slayer"
               },
               {
-                "text": "§7Gain §b{0}x §7Combat XP against §aBlazes§7."
+                "text": "§7Gain §3+{0}☯ Combat Wisdom §7towards"
+              },
+              {
+                "text": "§6Blazes§7."
               },
               {
                 "text": ""
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -8515,6 +8519,481 @@
       }
     }
   },
+  "EAGLE": {
+    "id": "EAGLE",
+    "name": "Eagle",
+    "tiers": {
+      "COMMON": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYzODg0MzE3MDIyNSwKICAicHJvZmlsZUlkIiA6ICI5N2ViMDJkMWY5YmI0NjUwYmNmNzE2MTEzYjUzYjY4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTQmNhY3R1cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YWNkYTJlNWRjMDA3MGFmZmI0ODRhNmRiZGVhNWZjY2I1YjJmNjc5MGViZTVkYzIzZDg1YWViM2NhMzQ5MDNjIgogICAgfQogIH0KfQ==",
+        "lore": [
+          "§8Hunting Pet",
+          "",
+          "§7Health: §c+25",
+          "§7Speed: §f+50",
+          "",
+          "§6Critter Capturer",
+          "§7Your §cCritter Capsules §7are §a20% §7more",
+          "§7likely to catch §a Critters§7.",
+          "",
+          "§eUpgrade your Eagle Pet in the Safari",
+          "§eEssence Shop!",
+          "",
+          "§f§lCOMMON PET"
+        ],
+        "variables": {},
+        "item": {
+          "id": "minecraft:player_head",
+          "components": {
+            "minecraft:custom_data": {
+              "id": "PET",
+              "petInfo": "{\"type\":\"EAGLE\",\"tier\":\"COMMON\",\"exp\":0.0,\"candyUsed\":0}"
+            },
+            "minecraft:custom_name": {
+              "text": "§7[Lvl {LVL}] §fEagle"
+            },
+            "minecraft:lore": [
+              {
+                "text": "§8Hunting Pet"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§7Health: §c+25"
+              },
+              {
+                "text": "§7Speed: §f+50"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Critter Capturer"
+              },
+              {
+                "text": "§7Your §cCritter Capsules §7are §a20% §7more"
+              },
+              {
+                "text": "§7likely to catch §a Critters§7."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§eUpgrade your Eagle Pet in the Safari"
+              },
+              {
+                "text": "§eEssence Shop!"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§f§lCOMMON PET"
+              }
+            ],
+            "minecraft:profile": {
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzODg0MzE3MDIyNSwKICAicHJvZmlsZUlkIiA6ICI5N2ViMDJkMWY5YmI0NjUwYmNmNzE2MTEzYjUzYjY4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTQmNhY3R1cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YWNkYTJlNWRjMDA3MGFmZmI0ODRhNmRiZGVhNWZjY2I1YjJmNjc5MGViZTVkYzIzZDg1YWViM2NhMzQ5MDNjIgogICAgfQogIH0KfQ=="
+                }
+              ]
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:common"
+          }
+        }
+      },
+      "UNCOMMON": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYzODg0MzE3MDIyNSwKICAicHJvZmlsZUlkIiA6ICI5N2ViMDJkMWY5YmI0NjUwYmNmNzE2MTEzYjUzYjY4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTQmNhY3R1cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YWNkYTJlNWRjMDA3MGFmZmI0ODRhNmRiZGVhNWZjY2I1YjJmNjc5MGViZTVkYzIzZDg1YWViM2NhMzQ5MDNjIgogICAgfQogIH0KfQ==",
+        "lore": [
+          "§8Hunting Pet",
+          "",
+          "§7Health: §c+25",
+          "§7Speed: §f+50",
+          "",
+          "§6Critter Capturer",
+          "§7Your §cCritter Capsules §7are §a35% §7more",
+          "§7likely to catch §a Critters§7.",
+          "",
+          "§eUpgrade your Eagle Pet in the Safari",
+          "§eEssence Shop!",
+          "",
+          "§a§lUNCOMMON PET"
+        ],
+        "variables": {},
+        "item": {
+          "id": "minecraft:player_head",
+          "components": {
+            "minecraft:custom_data": {
+              "id": "PET",
+              "petInfo": "{\"type\":\"EAGLE\",\"tier\":\"UNCOMMON\",\"exp\":0.0,\"candyUsed\":0}"
+            },
+            "minecraft:custom_name": {
+              "text": "§7[Lvl {LVL}] §aEagle"
+            },
+            "minecraft:lore": [
+              {
+                "text": "§8Hunting Pet"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§7Health: §c+25"
+              },
+              {
+                "text": "§7Speed: §f+50"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Critter Capturer"
+              },
+              {
+                "text": "§7Your §cCritter Capsules §7are §a35% §7more"
+              },
+              {
+                "text": "§7likely to catch §a Critters§7."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§eUpgrade your Eagle Pet in the Safari"
+              },
+              {
+                "text": "§eEssence Shop!"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§a§lUNCOMMON PET"
+              }
+            ],
+            "minecraft:profile": {
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzODg0MzE3MDIyNSwKICAicHJvZmlsZUlkIiA6ICI5N2ViMDJkMWY5YmI0NjUwYmNmNzE2MTEzYjUzYjY4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTQmNhY3R1cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YWNkYTJlNWRjMDA3MGFmZmI0ODRhNmRiZGVhNWZjY2I1YjJmNjc5MGViZTVkYzIzZDg1YWViM2NhMzQ5MDNjIgogICAgfQogIH0KfQ=="
+                }
+              ]
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+          }
+        }
+      },
+      "RARE": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYzODg0MzE3MDIyNSwKICAicHJvZmlsZUlkIiA6ICI5N2ViMDJkMWY5YmI0NjUwYmNmNzE2MTEzYjUzYjY4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTQmNhY3R1cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YWNkYTJlNWRjMDA3MGFmZmI0ODRhNmRiZGVhNWZjY2I1YjJmNjc5MGViZTVkYzIzZDg1YWViM2NhMzQ5MDNjIgogICAgfQogIH0KfQ==",
+        "lore": [
+          "§8Hunting Pet",
+          "",
+          "§7Health: §c+25",
+          "§7Speed: §f+50",
+          "§7Hunting Wisdom: §3+15",
+          "",
+          "§6Critter Capturer",
+          "§7Your §cCritter Capsules §7are §a35% §7more",
+          "§7likely to catch §a Critters§7.",
+          "",
+          "§6Seer of the Skies",
+          "§7Grants §3+15☯ Hunting Wisdom§7 while in",
+          "§7the §2Critter Safari§7.",
+          "",
+          "§eUpgrade your Eagle Pet in the Safari",
+          "§eEssence Shop!",
+          "",
+          "§9§lRARE PET"
+        ],
+        "variables": {},
+        "item": {
+          "id": "minecraft:player_head",
+          "components": {
+            "minecraft:custom_data": {
+              "id": "PET",
+              "petInfo": "{\"type\":\"EAGLE\",\"tier\":\"RARE\",\"exp\":0.0,\"candyUsed\":0}"
+            },
+            "minecraft:custom_name": {
+              "text": "§7[Lvl {LVL}] §9Eagle"
+            },
+            "minecraft:lore": [
+              {
+                "text": "§8Hunting Pet"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§7Health: §c+25"
+              },
+              {
+                "text": "§7Speed: §f+50"
+              },
+              {
+                "text": "§7Hunting Wisdom: §3+15"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Critter Capturer"
+              },
+              {
+                "text": "§7Your §cCritter Capsules §7are §a35% §7more"
+              },
+              {
+                "text": "§7likely to catch §a Critters§7."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Seer of the Skies"
+              },
+              {
+                "text": "§7Grants §3+15☯ Hunting Wisdom§7 while in"
+              },
+              {
+                "text": "§7the §2Critter Safari§7."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§eUpgrade your Eagle Pet in the Safari"
+              },
+              {
+                "text": "§eEssence Shop!"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§9§lRARE PET"
+              }
+            ],
+            "minecraft:profile": {
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzODg0MzE3MDIyNSwKICAicHJvZmlsZUlkIiA6ICI5N2ViMDJkMWY5YmI0NjUwYmNmNzE2MTEzYjUzYjY4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTQmNhY3R1cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YWNkYTJlNWRjMDA3MGFmZmI0ODRhNmRiZGVhNWZjY2I1YjJmNjc5MGViZTVkYzIzZDg1YWViM2NhMzQ5MDNjIgogICAgfQogIH0KfQ=="
+                }
+              ]
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:rare"
+          }
+        }
+      },
+      "EPIC": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYzODg0MzE3MDIyNSwKICAicHJvZmlsZUlkIiA6ICI5N2ViMDJkMWY5YmI0NjUwYmNmNzE2MTEzYjUzYjY4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTQmNhY3R1cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YWNkYTJlNWRjMDA3MGFmZmI0ODRhNmRiZGVhNWZjY2I1YjJmNjc5MGViZTVkYzIzZDg1YWViM2NhMzQ5MDNjIgogICAgfQogIH0KfQ==",
+        "lore": [
+          "§8Hunting Pet",
+          "",
+          "§7Health: §c+25",
+          "§7Speed: §f+50",
+          "§7Hunting Wisdom: §3+30",
+          "",
+          "§6Critter Capturer",
+          "§7Your §cCritter Capsules §7are §a50% §7more",
+          "§7likely to catch §a Critters§7.",
+          "",
+          "§6Seer of the Skies",
+          "§7Grants §3+30☯ Hunting Wisdom§7 while in",
+          "§7the §2Critter Safari§7.",
+          "",
+          "§eUpgrade your Eagle Pet in the Safari",
+          "§eEssence Shop!",
+          "",
+          "§5§lEPIC PET"
+        ],
+        "variables": {},
+        "item": {
+          "id": "minecraft:player_head",
+          "components": {
+            "minecraft:custom_data": {
+              "id": "PET",
+              "petInfo": "{\"type\":\"EAGLE\",\"tier\":\"EPIC\",\"exp\":0.0,\"candyUsed\":0}"
+            },
+            "minecraft:custom_name": {
+              "text": "§7[Lvl {LVL}] §5Eagle"
+            },
+            "minecraft:lore": [
+              {
+                "text": "§8Hunting Pet"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§7Health: §c+25"
+              },
+              {
+                "text": "§7Speed: §f+50"
+              },
+              {
+                "text": "§7Hunting Wisdom: §3+30"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Critter Capturer"
+              },
+              {
+                "text": "§7Your §cCritter Capsules §7are §a50% §7more"
+              },
+              {
+                "text": "§7likely to catch §a Critters§7."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Seer of the Skies"
+              },
+              {
+                "text": "§7Grants §3+30☯ Hunting Wisdom§7 while in"
+              },
+              {
+                "text": "§7the §2Critter Safari§7."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§eUpgrade your Eagle Pet in the Safari"
+              },
+              {
+                "text": "§eEssence Shop!"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§5§lEPIC PET"
+              }
+            ],
+            "minecraft:profile": {
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzODg0MzE3MDIyNSwKICAicHJvZmlsZUlkIiA6ICI5N2ViMDJkMWY5YmI0NjUwYmNmNzE2MTEzYjUzYjY4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTQmNhY3R1cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YWNkYTJlNWRjMDA3MGFmZmI0ODRhNmRiZGVhNWZjY2I1YjJmNjc5MGViZTVkYzIzZDg1YWViM2NhMzQ5MDNjIgogICAgfQogIH0KfQ=="
+                }
+              ]
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:epic"
+          }
+        }
+      },
+      "LEGENDARY": {
+        "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYzODg0MzE3MDIyNSwKICAicHJvZmlsZUlkIiA6ICI5N2ViMDJkMWY5YmI0NjUwYmNmNzE2MTEzYjUzYjY4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTQmNhY3R1cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YWNkYTJlNWRjMDA3MGFmZmI0ODRhNmRiZGVhNWZjY2I1YjJmNjc5MGViZTVkYzIzZDg1YWViM2NhMzQ5MDNjIgogICAgfQogIH0KfQ==",
+        "lore": [
+          "§8Hunting Pet",
+          "",
+          "§7Health: §c+25",
+          "§7Speed: §f+50",
+          "§7Hunting Wisdom: §3+30",
+          "",
+          "§6Critter Capturer",
+          "§7Your §cCritter Capsules §7are §a50% §7more",
+          "§7likely to catch §a Critters§7.",
+          "",
+          "§6Seer of the Skies",
+          "§7Grants §3+30☯ Hunting Wisdom§7 while in",
+          "§7the §2Critter Safari§7.",
+          "",
+          "§6Flock Mentality",
+          "§7Grants §d+2.5 Hunting Fortune §7for",
+          "§7every §eEagle Pet §7in the §2Critter Safari§7.",
+          "",
+          "§6§lLEGENDARY PET"
+        ],
+        "variables": {},
+        "item": {
+          "id": "minecraft:player_head",
+          "components": {
+            "minecraft:custom_data": {
+              "id": "PET",
+              "petInfo": "{\"type\":\"EAGLE\",\"tier\":\"LEGENDARY\",\"exp\":0.0,\"candyUsed\":0}"
+            },
+            "minecraft:custom_name": {
+              "text": "§7[Lvl {LVL}] §6Eagle"
+            },
+            "minecraft:lore": [
+              {
+                "text": "§8Hunting Pet"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§7Health: §c+25"
+              },
+              {
+                "text": "§7Speed: §f+50"
+              },
+              {
+                "text": "§7Hunting Wisdom: §3+30"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Critter Capturer"
+              },
+              {
+                "text": "§7Your §cCritter Capsules §7are §a50% §7more"
+              },
+              {
+                "text": "§7likely to catch §a Critters§7."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Seer of the Skies"
+              },
+              {
+                "text": "§7Grants §3+30☯ Hunting Wisdom§7 while in"
+              },
+              {
+                "text": "§7the §2Critter Safari§7."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Flock Mentality"
+              },
+              {
+                "text": "§7Grants §d+2.5 Hunting Fortune §7for"
+              },
+              {
+                "text": "§7every §eEagle Pet §7in the §2Critter Safari§7."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6§lLEGENDARY PET"
+              }
+            ],
+            "minecraft:profile": {
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzODg0MzE3MDIyNSwKICAicHJvZmlsZUlkIiA6ICI5N2ViMDJkMWY5YmI0NjUwYmNmNzE2MTEzYjUzYjY4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTQmNhY3R1cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YWNkYTJlNWRjMDA3MGFmZmI0ODRhNmRiZGVhNWZjY2I1YjJmNjc5MGViZTVkYzIzZDg1YWViM2NhMzQ5MDNjIgogICAgfQogIH0KfQ=="
+                }
+              ]
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+          }
+        }
+      }
+    }
+  },
   "EERIE": {
     "id": "EERIE",
     "name": "Eerie",
@@ -8536,7 +9015,7 @@
           "§7aren't wearing it.",
           "",
           "§8§l* §8Soulbound §8§l*",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "SPEED": [
@@ -8602,7 +9081,7 @@
                 "text": "§8§l* §8Soulbound §8§l*"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -8645,7 +9124,7 @@
           "§7have.",
           "",
           "§8§l* §8Soulbound §8§l*",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -8733,7 +9212,7 @@
                 "text": "§8§l* §8Soulbound §8§l*"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -8779,7 +9258,7 @@
           "§cPrimal Fear Kills§7: (§a§k111§7/§a150§7)",
           "",
           "§8§l* §8Soulbound §8§l*",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -8880,7 +9359,7 @@
                 "text": "§8§l* §8Soulbound §8§l*"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -8930,7 +9409,7 @@
           "§fSpeed§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -8988,7 +9467,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -9032,7 +9511,7 @@
           "§f Speed§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -9090,7 +9569,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -9138,7 +9617,7 @@
           "§aDefense§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -9212,7 +9691,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -9260,7 +9739,7 @@
           "§aDefense§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -9334,7 +9813,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -9387,7 +9866,7 @@
           "§7drops.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -9480,7 +9959,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -9536,7 +10015,7 @@
           "§6Abundant Harvest",
           "§7Earn §2+{3}% Sowdust §7while farming.",
           "",
-          "§d§lMYTHIC"
+          "§d§lMYTHIC PET"
         ],
         "variables": {
           "0": [
@@ -9646,7 +10125,7 @@
                 "text": ""
               },
               {
-                "text": "§d§lMYTHIC"
+                "text": "§d§lMYTHIC PET"
               }
             ],
             "minecraft:profile": {
@@ -9695,7 +10174,7 @@
           "§7mobs",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -9746,7 +10225,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -9789,7 +10268,7 @@
           "§7mobs",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -9840,7 +10319,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -9887,7 +10366,7 @@
           "§a{1} §7weapon damage for 5s on use",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -9954,7 +10433,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -10001,7 +10480,7 @@
           "§a{1} §7weapon damage for 5s on use",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -10068,7 +10547,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -10119,7 +10598,7 @@
           "§7special Zealot by §a{2}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -10202,7 +10681,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -10253,10 +10732,10 @@
           "§7special Zealot by §a{2}%§7.",
           "",
           "§6Enderman Slayer",
-          "§7Gain §b{3}x §7Combat XP against",
-          "§aEndermen§7.",
+          "§7Gain §3+{3}☯ Combat Wisdom §7towards",
+          "§5Endermen§7.",
           "",
-          "§d§lMYTHIC"
+          "§d§lMYTHIC PET"
         ],
         "variables": {
           "0": [
@@ -10272,8 +10751,8 @@
             25
           ],
           "3": [
-            1.005,
-            1.5
+            0.5,
+            50
           ],
           "CRIT_DAMAGE": [
             0.75,
@@ -10343,16 +10822,16 @@
                 "text": "§6Enderman Slayer"
               },
               {
-                "text": "§7Gain §b{3}x §7Combat XP against"
+                "text": "§7Gain §3+{3}☯ Combat Wisdom §7towards"
               },
               {
-                "text": "§aEndermen§7."
+                "text": "§5Endermen§7."
               },
               {
                 "text": ""
               },
               {
-                "text": "§d§lMYTHIC"
+                "text": "§d§lMYTHIC PET"
               }
             ],
             "minecraft:profile": {
@@ -10403,7 +10882,7 @@
           "§7an extra block dropped",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -10464,7 +10943,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -10511,7 +10990,7 @@
           "§7an extra block dropped",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -10572,7 +11051,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -10621,7 +11100,7 @@
           "§7mana",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -10698,7 +11177,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -10747,7 +11226,7 @@
           "§7mana",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -10824,7 +11303,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -10878,7 +11357,7 @@
           "§8(Stacks above 100%)",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -10974,7 +11453,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -11032,7 +11511,7 @@
           "§7bonus items in the §cDraconic Altar §7by",
           "§a{3}%§7.",
           "",
-          "§d§lMYTHIC"
+          "§d§lMYTHIC PET"
         ],
         "variables": {
           "0": [
@@ -11144,7 +11623,7 @@
                 "text": ""
               },
               {
-                "text": "§d§lMYTHIC"
+                "text": "§d§lMYTHIC PET"
               }
             ],
             "minecraft:profile": {
@@ -11200,7 +11679,7 @@
           "§cStrength§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -11288,7 +11767,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -11341,7 +11820,7 @@
           "§7Increases all §cCombat §7stats and §b",
           "§bMagic Find §7by §a{3}%§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -11442,7 +11921,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -11495,7 +11974,7 @@
           "§7when near water",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -11566,7 +12045,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -11613,7 +12092,7 @@
           "§7when near water",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -11684,7 +12163,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -11735,7 +12214,7 @@
           "§7and §aAbyssal Armor §7by §a{2}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -11822,7 +12301,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -11877,7 +12356,7 @@
           "§7Increases the chance to activate",
           "§7the §d§lFlash Enchantment §7by §a{3}%§7.",
           "",
-          "§d§lMYTHIC"
+          "§d§lMYTHIC PET"
         ],
         "variables": {
           "0": [
@@ -11980,7 +12459,7 @@
                 "text": ""
               },
               {
-                "text": "§d§lMYTHIC"
+                "text": "§d§lMYTHIC PET"
               }
             ],
             "minecraft:profile": {
@@ -12030,7 +12509,7 @@
           "§7§7Gain §a+15ф Rift Time §7per",
           "§7soul piece.",
           "",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {},
         "item": {
@@ -12075,7 +12554,7 @@
                 "text": ""
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -12108,7 +12587,7 @@
           "§7§7Gain §b+2⚡ Mana Regen §7per",
           "§7soul piece found.",
           "",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {},
         "item": {
@@ -12168,7 +12647,7 @@
                 "text": ""
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -12201,10 +12680,11 @@
           "",
           "§6Hop",
           "§7Grants §6{0} Foraging Fortune §7for",
-          "§e20 §7seconds every time you jump.",
+          "§a20s §7every time you jump. Gain §bJump",
+          "§bBoost IV §7while on §2Foraging Islands§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -12267,7 +12747,10 @@
                 "text": "§7Grants §6{0} Foraging Fortune §7for"
               },
               {
-                "text": "§e20 §7seconds every time you jump."
+                "text": "§a20s §7every time you jump. Gain §bJump"
+              },
+              {
+                "text": "§bBoost IV §7while on §2Foraging Islands§7."
               },
               {
                 "text": ""
@@ -12276,7 +12759,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -12319,10 +12802,11 @@
           "",
           "§6Hop",
           "§7Grants §6{0} Foraging Fortune §7for",
-          "§e20 §7seconds every time you jump.",
+          "§a20s §7every time you jump. Gain §bJump",
+          "§bBoost IV §7while on §2Foraging Islands§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -12385,7 +12869,10 @@
                 "text": "§7Grants §6{0} Foraging Fortune §7for"
               },
               {
-                "text": "§e20 §7seconds every time you jump."
+                "text": "§a20s §7every time you jump. Gain §bJump"
+              },
+              {
+                "text": "§bBoost IV §7while on §2Foraging Islands§7."
               },
               {
                 "text": ""
@@ -12394,7 +12881,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -12437,7 +12924,8 @@
           "",
           "§6Hop",
           "§7Grants §6{0} Foraging Fortune §7for",
-          "§e20 §7seconds every time you jump.",
+          "§a20s §7every time you jump. Gain §bJump",
+          "§bBoost IV §7while on §2Foraging Islands§7.",
           "",
           "§6Happy Tree Friends",
           "§7Grants §6{1} Foraging Fortune §7for",
@@ -12445,7 +12933,7 @@
           "§7up to §b10 §7frogs.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -12512,7 +13000,10 @@
                 "text": "§7Grants §6{0} Foraging Fortune §7for"
               },
               {
-                "text": "§e20 §7seconds every time you jump."
+                "text": "§a20s §7every time you jump. Gain §bJump"
+              },
+              {
+                "text": "§bBoost IV §7while on §2Foraging Islands§7."
               },
               {
                 "text": ""
@@ -12536,7 +13027,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -12579,7 +13070,8 @@
           "",
           "§6Hop",
           "§7Grants §6{0} Foraging Fortune §7for",
-          "§e20 §7seconds every time you jump.",
+          "§a20s §7every time you jump. Gain §bJump",
+          "§bBoost IV §7while on §2Foraging Islands§7.",
           "",
           "§6Happy Tree Friends",
           "§7Grants §6{1} Foraging Fortune §7for",
@@ -12587,7 +13079,7 @@
           "§7up to §b10 §7frogs.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -12654,7 +13146,10 @@
                 "text": "§7Grants §6{0} Foraging Fortune §7for"
               },
               {
-                "text": "§e20 §7seconds every time you jump."
+                "text": "§a20s §7every time you jump. Gain §bJump"
+              },
+              {
+                "text": "§bBoost IV §7while on §2Foraging Islands§7."
               },
               {
                 "text": ""
@@ -12678,7 +13173,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -12721,7 +13216,8 @@
           "",
           "§6Hop",
           "§7Grants §6{0} Foraging Fortune §7for",
-          "§e20 §7seconds every time you jump.",
+          "§a20s §7every time you jump. Gain §bJump",
+          "§bBoost IV §7while on §2Foraging Islands§7.",
           "",
           "§6Happy Tree Friends",
           "§7Grants §6{1} Foraging Fortune §7for",
@@ -12734,7 +13230,7 @@
           "§2Foraging Islands§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -12805,7 +13301,10 @@
                 "text": "§7Grants §6{0} Foraging Fortune §7for"
               },
               {
-                "text": "§e20 §7seconds every time you jump."
+                "text": "§a20s §7every time you jump. Gain §bJump"
+              },
+              {
+                "text": "§bBoost IV §7while on §2Foraging Islands§7."
               },
               {
                 "text": ""
@@ -12844,7 +13343,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -12888,7 +13387,8 @@
           "",
           "§6Hop",
           "§7Grants §6{0} Foraging Fortune §7for",
-          "§e20 §7seconds every time you jump.",
+          "§a20s §7every time you jump. Gain §bJump",
+          "§bBoost IV §7while on §2Foraging Islands§7.",
           "",
           "§6Happy Tree Friends",
           "§7Grants §6{1} Foraging Fortune §7and",
@@ -12906,7 +13406,7 @@
           "§6§lGOLD §7and §b§lDIAMOND §2Trophy Frogs",
           "§7by §a{4}%§7.",
           "",
-          "§d§lMYTHIC"
+          "§d§lMYTHIC PET"
         ],
         "variables": {
           "0": [
@@ -12992,7 +13492,10 @@
                 "text": "§7Grants §6{0} Foraging Fortune §7for"
               },
               {
-                "text": "§e20 §7seconds every time you jump."
+                "text": "§a20s §7every time you jump. Gain §bJump"
+              },
+              {
+                "text": "§bBoost IV §7while on §2Foraging Islands§7."
               },
               {
                 "text": ""
@@ -13046,7 +13549,7 @@
                 "text": ""
               },
               {
-                "text": "§d§lMYTHIC"
+                "text": "§d§lMYTHIC PET"
               }
             ],
             "minecraft:profile": {
@@ -13105,7 +13608,8 @@
           "§7Next Upgrade: §a+30 §7& §f+3 §8(§a0§7/§c100§8)",
           "",
           "§6Blaze Slayer",
-          "§7Gain §b{0}x §7Combat XP against §aBlazes§7.",
+          "§7Gain §3+{0}☯ Combat Wisdom §7towards",
+          "§6Blazes§7.",
           "",
           "§6Extinguish",
           "§7While in combat on the Crimson Isle,",
@@ -13113,12 +13617,12 @@
           "§7Bathing in it heals §c15%❤ §7now and",
           "§c4%❤§7/s for §a8s§7.",
           "",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
-            1.004,
-            1.4
+            0.4,
+            40
           ],
           "HEALTH": [
             2.5,
@@ -13206,7 +13710,10 @@
                 "text": "§6Blaze Slayer"
               },
               {
-                "text": "§7Gain §b{0}x §7Combat XP against §aBlazes§7."
+                "text": "§7Gain §3+{0}☯ Combat Wisdom §7towards"
+              },
+              {
+                "text": "§6Blazes§7."
               },
               {
                 "text": ""
@@ -13230,7 +13737,7 @@
                 "text": ""
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -13279,8 +13786,8 @@
           "§7Mending: §a+{MENDING}",
           "",
           "§6Undead Slayer",
-          "§7Gain §b{0}x §7Combat XP against",
-          "§aZombies§7.",
+          "§7Gain §3+{0}☯ Combat Wisdom §7towards",
+          "§2Zombies§7.",
           "",
           "§6Army of the Dead",
           "§7Increases the amount of souls you",
@@ -13288,12 +13795,12 @@
           "§7getting a mob's soul by §a{1}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
-            1.005,
-            1.5
+            0.5,
+            50
           ],
           "1": [
             0.2,
@@ -13359,10 +13866,10 @@
                 "text": "§6Undead Slayer"
               },
               {
-                "text": "§7Gain §b{0}x §7Combat XP against"
+                "text": "§7Gain §3+{0}☯ Combat Wisdom §7towards"
               },
               {
-                "text": "§aZombies§7."
+                "text": "§2Zombies§7."
               },
               {
                 "text": ""
@@ -13386,7 +13893,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -13429,8 +13936,8 @@
           "§7Mending: §a+{MENDING}",
           "",
           "§6Undead Slayer",
-          "§7Gain §b{0}x §7Combat XP against",
-          "§aZombies§7.",
+          "§7Gain §3+{0}☯ Combat Wisdom §7towards",
+          "§2Zombies§7.",
           "",
           "§6Army of the Dead",
           "§7Increases the amount of souls you",
@@ -13443,12 +13950,12 @@
           "§7output by §a{3}%§7. Increases the health",
           "§7of all summoned mobs by §a{4}%§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
-            1.005,
-            1.5
+            0.5,
+            50
           ],
           "1": [
             0.2,
@@ -13526,10 +14033,10 @@
                 "text": "§6Undead Slayer"
               },
               {
-                "text": "§7Gain §b{0}x §7Combat XP against"
+                "text": "§7Gain §3+{0}☯ Combat Wisdom §7towards"
               },
               {
-                "text": "§aZombies§7."
+                "text": "§2Zombies§7."
               },
               {
                 "text": ""
@@ -13568,7 +14075,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -13618,7 +14125,7 @@
           "§7Grants §c+{0} Health Regen",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -13680,7 +14187,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -13724,7 +14231,7 @@
           "§7Grants §c+{0} Health Regen",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -13786,7 +14293,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -13836,7 +14343,7 @@
           "§e6§7)",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -13920,7 +14427,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -13970,7 +14477,7 @@
           "§e6§7)",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -14054,7 +14561,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -14108,7 +14615,7 @@
           "§c{2}% §7if you are more than 3 blocks",
           "§7away from the target",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -14208,7 +14715,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -14267,7 +14774,8 @@
           "§7Next Upgrade: §a+30 §7& §f+3 §8(§a0§7/§c100§8)",
           "",
           "§6Blaze Slayer",
-          "§7Gain §b{0}x §7Combat XP against §aBlazes§7.",
+          "§7Gain §3+{0}☯ Combat Wisdom §7towards",
+          "§6Blazes§7.",
           "",
           "§6Extinguish",
           "§7While in combat on the Crimson Isle,",
@@ -14275,12 +14783,12 @@
           "§7Bathing in it heals §c20%❤ §7now and",
           "§c7%❤§7/s for §a8s§7.",
           "",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
-            1.0045,
-            1.45
+            0.45,
+            45
           ],
           "HEALTH": [
             4,
@@ -14368,7 +14876,10 @@
                 "text": "§6Blaze Slayer"
               },
               {
-                "text": "§7Gain §b{0}x §7Combat XP against §aBlazes§7."
+                "text": "§7Gain §3+{0}☯ Combat Wisdom §7towards"
+              },
+              {
+                "text": "§6Blazes§7."
               },
               {
                 "text": ""
@@ -14392,7 +14903,7 @@
                 "text": ""
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -14442,7 +14953,7 @@
           "§7most sources.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -14500,7 +15011,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -14546,7 +15057,7 @@
           "§7most sources.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -14604,7 +15115,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -14652,7 +15163,7 @@
           "§7the §bGlacite Mineshafts§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -14726,7 +15237,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -14774,7 +15285,7 @@
           "§bGlacite Mineshafts§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -14848,7 +15359,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -14900,7 +15411,7 @@
           "§bFrozen Corpse §7you've looted in the",
           "§7current §bGlacite Mineshaft§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -14990,7 +15501,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -15047,7 +15558,7 @@
           "§7Increases the chance of finding",
           "§7rare goblin eggs by §a{2}%§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -15134,7 +15645,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -15205,7 +15716,7 @@
           "§7kill for every other unique maxed",
           "§7Combat Pet that you own.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -15346,7 +15857,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -15407,7 +15918,7 @@
           "§7attacker",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -15499,7 +16010,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -15557,7 +16068,7 @@
           "§7the air and deal §a5x §7damage §8(5s",
           "§8cooldown)",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -15661,7 +16172,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -15727,7 +16238,7 @@
           "§8when the pet is not summoned!",
           "",
           "§8§l* §8Soulbound §8§l*",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -15853,7 +16364,7 @@
                 "text": "§8§l* §8Soulbound §8§l*"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -15913,7 +16424,7 @@
           "§8when the pet is not summoned!",
           "",
           "§8§l* §8Soulbound §8§l*",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -16039,7 +16550,7 @@
                 "text": "§8§l* §8Soulbound §8§l*"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -16099,7 +16610,7 @@
           "§8when the pet is not summoned!",
           "",
           "§8§l* §8Soulbound §8§l*",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -16225,7 +16736,7 @@
                 "text": "§8§l* §8Soulbound §8§l*"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -16285,7 +16796,7 @@
           "§8when the pet is not summoned!",
           "",
           "§8§l* §8Soulbound §8§l*",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -16411,7 +16922,7 @@
                 "text": "§8§l* §8Soulbound §8§l*"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -16471,7 +16982,7 @@
           "§8when the pet is not summoned!",
           "",
           "§8§l* §8Soulbound §8§l*",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -16597,7 +17108,7 @@
                 "text": "§8§l* §8Soulbound §8§l*"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -16651,7 +17162,7 @@
           "§7rarity.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "CRIT_CHANCE": [
@@ -16725,7 +17236,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -16773,7 +17284,7 @@
           "§7rarity.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "CRIT_CHANCE": [
@@ -16847,7 +17358,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -16899,7 +17410,7 @@
           "§c85% ❤ Health§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -16989,7 +17500,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -17041,7 +17552,7 @@
           "§c85% ❤ Health§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -17131,7 +17642,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -17187,7 +17698,7 @@
           "§2Mythological §7mobs.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -17293,7 +17804,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -17353,7 +17864,7 @@
           "§eBurrows §7for each burrow excavated",
           "§7in your current chain.",
           "",
-          "§d§lMYTHIC"
+          "§d§lMYTHIC PET"
         ],
         "variables": {
           "0": [
@@ -17471,7 +17982,7 @@
                 "text": ""
               },
               {
-                "text": "§d§lMYTHIC"
+                "text": "§d§lMYTHIC PET"
               }
             ],
             "minecraft:profile": {
@@ -17521,7 +18032,7 @@
           "§bIntelligence §7every §a3s§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -17579,7 +18090,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -17623,7 +18134,7 @@
           "§bIntelligence §7every §a3s§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -17681,7 +18192,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -17728,7 +18239,7 @@
           "§7Grants §3+{1}☯ Enchanting Wisdom§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -17799,7 +18310,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -17846,7 +18357,7 @@
           "§7Grants §3+{1}☯ Enchanting Wisdom§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -17917,7 +18428,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -17968,7 +18479,7 @@
           "§7when near or in water",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -18055,7 +18566,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -18109,7 +18620,7 @@
           "§7Gain §b+{3}% §7chance to find §5ultra rare",
           "§7books in §dSuperpairs§7.",
           "",
-          "§d§lMYTHIC"
+          "§d§lMYTHIC PET"
         ],
         "variables": {
           "0": [
@@ -18209,7 +18720,7 @@
                 "text": ""
               },
               {
-                "text": "§d§lMYTHIC"
+                "text": "§d§lMYTHIC PET"
               }
             ],
             "minecraft:profile": {
@@ -18264,7 +18775,7 @@
           "§7Grants §6+0.7 Farming Fortune§7 per",
           "§7Pest Bestiary Tier.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -18341,7 +18852,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -18392,7 +18903,7 @@
           "§7upon catching §6Treasure§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -18457,7 +18968,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -18502,7 +19013,7 @@
           "§7upon catching §6Treasure§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -18567,7 +19078,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -18616,7 +19127,7 @@
           "§7likely to be §6§lGREAT §7or §d§lOUTSTANDING§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -18697,7 +19208,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -18746,7 +19257,7 @@
           "§7likely to be §6§lGREAT §7or §d§lOUTSTANDING§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -18827,7 +19338,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -18881,7 +19392,7 @@
           "§aPet §7within §a30 §7blocks, up to §a5 §7players.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -18981,7 +19492,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -19038,7 +19549,7 @@
           "§7Increases the chance of catching",
           "§dHotspot Sea Creatures §7by §a{3}%§7.",
           "",
-          "§d§lMYTHIC"
+          "§d§lMYTHIC PET"
         ],
         "variables": {
           "0": [
@@ -19151,7 +19662,7 @@
                 "text": ""
               },
               {
-                "text": "§d§lMYTHIC"
+                "text": "§d§lMYTHIC PET"
               }
             ],
             "minecraft:profile": {
@@ -19200,7 +19711,7 @@
           "§7Grants permanent §bJump Boost II§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "INTELLIGENCE": [
@@ -19251,7 +19762,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -19296,7 +19807,7 @@
           "§7Grants permanent §bJump Boost III§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "INTELLIGENCE": [
@@ -19347,7 +19858,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -19395,7 +19906,7 @@
           "§8(Max 20 stacks)",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -19469,7 +19980,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -19517,7 +20028,7 @@
           "§8(Max 20 stacks)",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -19591,7 +20102,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -19645,7 +20156,7 @@
           "§7every block fallen to mobs within §a3",
           "§7blocks.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -19741,7 +20252,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -19796,7 +20307,7 @@
           "§7to drop their armor by §a{1}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -19881,7 +20392,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -19932,7 +20443,7 @@
           "§6Pack Slayer",
           "§7Gain §b{2}x §7Combat XP against §aWolves§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -20027,7 +20538,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -20098,7 +20609,7 @@
           "§7every other unique maxed §aForaging",
           "§aPet §7that you own.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -20227,7 +20738,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -20284,7 +20795,7 @@
           "§a30s§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -20364,7 +20875,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -20418,7 +20929,7 @@
           "§7effectiveness of Dungeon Potions by",
           "§a{2}%§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -20514,7 +21025,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -20567,7 +21078,7 @@
           "§7normal amount of drops from mobs",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "INTELLIGENCE": [
@@ -20626,7 +21137,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -20675,7 +21186,7 @@
           "§7normal amount of drops from mobs",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "INTELLIGENCE": [
@@ -20734,7 +21245,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -20781,7 +21292,7 @@
           "§7normal amount of drops from mobs",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "INTELLIGENCE": [
@@ -20840,7 +21351,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -20888,7 +21399,7 @@
           "§7normal amount of drops from mobs",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "INTELLIGENCE": [
@@ -20947,7 +21458,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -20999,7 +21510,7 @@
           "§7Aspect of the Jerry",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -21074,7 +21585,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -21128,7 +21639,7 @@
           "§7Tiny chance to find Jerry Candies",
           "§7when killing mobs",
           "",
-          "§d§lMYTHIC"
+          "§d§lMYTHIC PET"
         ],
         "variables": {
           "0": [
@@ -21212,7 +21723,7 @@
                 "text": ""
               },
               {
-                "text": "§d§lMYTHIC"
+                "text": "§d§lMYTHIC PET"
               }
             ],
             "minecraft:profile": {
@@ -21274,7 +21785,7 @@
           "§cCrimson Isle§8!",
           "",
           "§8§l* §8Soulbound §8§l*",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -21369,7 +21880,7 @@
                 "text": "§8§l* §8Soulbound §8§l*"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -21424,7 +21935,7 @@
           "§cCrimson Isle§8!",
           "",
           "§8§l* §8Soulbound §8§l*",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -21519,7 +22030,7 @@
                 "text": "§8§l* §8Soulbound §8§l*"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -21578,7 +22089,7 @@
           "§cCrimson Isle§8!",
           "",
           "§8§l* §8Soulbound §8§l*",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -21689,7 +22200,7 @@
                 "text": "§8§l* §8Soulbound §8§l*"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -21752,7 +22263,7 @@
           "§cCrimson Isle§8!",
           "",
           "§8§l* §8Soulbound §8§l*",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -21879,7 +22390,7 @@
                 "text": "§8§l* §8Soulbound §8§l*"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -21946,7 +22457,7 @@
           "§cCrimson Isle§8!",
           "",
           "§8§l* §8Soulbound §8§l*",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -22089,7 +22600,7 @@
                 "text": "§8§l* §8Soulbound §8§l*"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -22140,7 +22651,7 @@
           "§cStrength §7to your weapons.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -22209,7 +22720,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -22254,7 +22765,7 @@
           "§cStrength §7to your weapons.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -22323,7 +22834,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -22372,7 +22883,7 @@
           "§d§lCombo §7are §a{2}% §7more effective.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -22457,7 +22968,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -22506,7 +23017,7 @@
           "§d§lCombo §7are §a{2}% §7more effective.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -22591,7 +23102,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -22643,7 +23154,7 @@
           "§7Deal §c+{3}%  Damage §7against mobs",
           "§7that have attacked you.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -22741,7 +23252,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -22791,7 +23302,7 @@
           "§7§7Slime and Magma Cube minions work",
           "§7§a{0}% §7faster while on your island.",
           "",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -22853,7 +23364,7 @@
                 "text": ""
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -22881,7 +23392,7 @@
           "§a{0}% §7faster while on your island",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -22946,7 +23457,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -22994,7 +23505,7 @@
           "§7Deal §a{1}% §7more damage to slimes",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -23072,7 +23583,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -23120,7 +23631,7 @@
           "§7Deal §a{1}% §7more damage to slimes",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -23198,7 +23709,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -23249,7 +23760,7 @@
           "§7Buffs the stats of §5Rekindled Ember",
           "§5Armor §7by §a{2}%§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -23340,7 +23851,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -23401,7 +23912,7 @@
           "§bFrozen Corpse §7looted in your",
           "§7current §bGlacite Mineshaft§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -23500,7 +24011,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -23557,7 +24068,7 @@
           "§7the §bFishing Festival§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -23648,7 +24159,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -23702,7 +24213,7 @@
           "§7Grants a §a+{1}% §7chance to catch",
           "§bSharks §7during the §bFishing Festival§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -23806,7 +24317,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -23856,7 +24367,7 @@
           "§2Mithril§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -23914,7 +24425,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -23960,7 +24471,7 @@
           "§2Mithril§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -24018,7 +24529,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -24066,7 +24577,7 @@
           "§7on §bMining Islands§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -24140,7 +24651,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -24188,7 +24699,7 @@
           "§7on §bMining Islands§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -24262,7 +24773,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -24314,7 +24825,7 @@
           "§7all sources.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -24404,7 +24915,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -24459,7 +24970,7 @@
           "§7Grants §b+{3}%  Magic Find §7while on",
           "§bMining Islands§7.",
           "",
-          "§d§lMYTHIC"
+          "§d§lMYTHIC PET"
         ],
         "variables": {
           "0": [
@@ -24562,7 +25073,7 @@
                 "text": ""
               },
               {
-                "text": "§d§lMYTHIC"
+                "text": "§d§lMYTHIC PET"
               }
             ],
             "minecraft:profile": {
@@ -24620,7 +25131,7 @@
           "§7The §5Crystal Nucleus §7has a §a{2}%",
           "§7chance to drop an additional item.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -24714,7 +25225,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -24765,7 +25276,7 @@
           "§7double logs.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -24826,7 +25337,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -24871,7 +25382,7 @@
           "§7double logs.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -24932,7 +25443,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -24980,7 +25491,7 @@
           "§7Grants §f{1}5 Speed §7while in §aThe Park§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -25054,7 +25565,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -25102,7 +25613,7 @@
           "§7Grants §f{1}5 Speed §7while in §aThe Park§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -25176,7 +25687,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -25226,7 +25737,7 @@
           "§6Evolved Axes",
           "§7Grants §2+{2} Sweep §7while in §aThe Park§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -25310,7 +25821,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -25360,7 +25871,7 @@
           "§7Mushroom when farming crops.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -25418,7 +25929,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -25462,7 +25973,7 @@
           "§7Mushroom when farming crops.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -25520,7 +26031,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -25568,7 +26079,7 @@
           "§7every §c{1}  Strength §7you have.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -25642,7 +26153,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -25690,7 +26201,7 @@
           "§7every §c{1}  Strength §7you have.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -25764,7 +26275,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -25816,7 +26327,7 @@
           "§aTasty Cheese §7or §aDung §7when farming",
           "§7crops.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -25906,7 +26417,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -25955,7 +26466,7 @@
           "§7Pest Vinyls are §a{0}% §7more effective.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -26010,7 +26521,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -26055,7 +26566,7 @@
           "§7Pest Vinyls are §a{0}% §7more effective.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -26110,7 +26621,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -26160,7 +26671,7 @@
           "§8Capped at 175 Fortune",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -26240,7 +26751,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -26290,7 +26801,7 @@
           "§8Capped at 175 Fortune",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -26370,7 +26881,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -26423,7 +26934,7 @@
           "§7When collected, §2Pest Traps §7will catch",
           "§7the next pest §a{2}% §7faster.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -26516,7 +27027,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -26565,7 +27076,7 @@
           "§7Grants §3+{0}☯ Foraging Wisdom§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -26620,7 +27131,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -26665,7 +27176,7 @@
           "§7Grants §3+{0}☯ Foraging Wisdom§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -26720,7 +27231,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -26767,7 +27278,7 @@
           "§7while on your island",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -26838,7 +27349,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -26885,7 +27396,7 @@
           "§7while on your island",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -26956,7 +27467,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -27006,7 +27517,7 @@
           "§7Gain a §a{2}% §7chance to get exp from",
           "§7breaking a log",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -27090,7 +27601,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -27139,7 +27650,7 @@
           "§7Earn §a+{0}% §7more Farming Tool Exp.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -27194,7 +27705,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -27237,7 +27748,7 @@
           "§7Earn §a+{0}% §7more Farming Tool Exp.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -27292,7 +27803,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -27340,7 +27851,7 @@
           "§6Fortune.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -27414,7 +27925,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -27462,7 +27973,7 @@
           "§6Fortune.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -27536,7 +28047,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -27588,7 +28099,7 @@
           "§aJelly §7or §aPlant Matter §7when farming",
           "§7crops.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -27678,7 +28189,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -27742,7 +28253,7 @@
           "§8This pet's perks are active even",
           "§8when the pet is not summoned!",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -27838,7 +28349,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -27891,7 +28402,7 @@
           "§7Boosts potions duration by §a{1}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -27962,7 +28473,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -28018,7 +28529,7 @@
           "§7boost the duration of consumed §cGod",
           "§cPotions §7and §cMixins §7by §a{3}%§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -28124,7 +28635,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -28182,7 +28693,7 @@
           "§7Grants §b+{2} Fishing Speed §7while in",
           "§7the §bGlacite Tunnels§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -28272,7 +28783,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -28309,7 +28820,7 @@
     "id": "PHOENIX",
     "name": "Phoenix",
     "tiers": {
-      "EPIC": {
+      "SPECIAL": {
         "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY0Mjg2NTc3MTM5MSwKICAicHJvZmlsZUlkIiA6ICJiYjdjY2E3MTA0MzQ0NDEyOGQzMDg5ZTEzYmRmYWI1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsYXVyZW5jaW8zMDMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZiMWI1OWJjODkwYzljOTc1Mjc3ODdkZGUyMDYwMGM4Yjg2ZjZiOTkxMmQ1MWE2YmZjZGIwZTRjMmFhM2M5NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
         "lore": [
           "§8Combat Pet",
@@ -28324,11 +28835,11 @@
           "",
           "§6Fourth Flare",
           "§7On 4th melee strike, §6ignite §7mobs,",
-          "§7dealing §c{2}x §7your §9 Crit Damage",
-          "§7each second for §a{3} §7seconds",
+          "§7dealing §c{2}x §7your §9 Crit Damage §7each",
+          "§7second for §a{3} §7seconds",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§c§lSPECIAL PET"
         ],
         "variables": {
           "0": [
@@ -28361,10 +28872,10 @@
           "components": {
             "minecraft:custom_data": {
               "id": "PET",
-              "petInfo": "{\"type\":\"PHOENIX\",\"tier\":\"EPIC\",\"exp\":0.0,\"candyUsed\":0}"
+              "petInfo": "{\"type\":\"PHOENIX\",\"tier\":\"SPECIAL\",\"exp\":0.0,\"candyUsed\":0}"
             },
             "minecraft:custom_name": {
-              "text": "§7[Lvl {LVL}] §5Phoenix"
+              "text": "§7[Lvl {LVL}] §cPhoenix"
             },
             "minecraft:lore": [
               {
@@ -28404,10 +28915,10 @@
                 "text": "§7On 4th melee strike, §6ignite §7mobs,"
               },
               {
-                "text": "§7dealing §c{2}x §7your §9 Crit Damage"
+                "text": "§7dealing §c{2}x §7your §9 Crit Damage §7each"
               },
               {
-                "text": "§7each second for §a{3} §7seconds"
+                "text": "§7second for §a{3} §7seconds"
               },
               {
                 "text": ""
@@ -28416,7 +28927,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§c§lSPECIAL PET"
               }
             ],
             "minecraft:profile": {
@@ -28443,11 +28954,11 @@
                 "minecraft:written_book_content"
               ]
             },
-            "minecraft:tooltip_style": "hypixel_skyblock:epic"
+            "minecraft:tooltip_style": "hypixel_skyblock:special"
           }
         }
       },
-      "LEGENDARY": {
+      "VERY_SPECIAL": {
         "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY0Mjg2NTc3MTM5MSwKICAicHJvZmlsZUlkIiA6ICJiYjdjY2E3MTA0MzQ0NDEyOGQzMDg5ZTEzYmRmYWI1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsYXVyZW5jaW8zMDMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZiMWI1OWJjODkwYzljOTc1Mjc3ODdkZGUyMDYwMGM4Yjg2ZjZiOTkxMmQ1MWE2YmZjZGIwZTRjMmFhM2M5NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
         "lore": [
           "§8Combat Pet",
@@ -28462,8 +28973,8 @@
           "",
           "§6Fourth Flare",
           "§7On 4th melee strike, §6ignite §7mobs,",
-          "§7dealing §c{2}x §7your §9 Crit Damage",
-          "§7each second for §a{3} §7seconds",
+          "§7dealing §c{2}x §7your §9 Crit Damage §7each",
+          "§7second for §a{3} §7seconds",
           "",
           "§6Magic Bird",
           "§7You may always fly on your private",
@@ -28472,7 +28983,7 @@
           "§6Eternal Coins",
           "§7Don't lose coins from death.",
           "",
-          "§6§lLEGENDARY"
+          "§c§lVERY SPECIAL PET"
         ],
         "variables": {
           "0": [
@@ -28505,10 +29016,10 @@
           "components": {
             "minecraft:custom_data": {
               "id": "PET",
-              "petInfo": "{\"type\":\"PHOENIX\",\"tier\":\"LEGENDARY\",\"exp\":0.0,\"candyUsed\":0}"
+              "petInfo": "{\"type\":\"PHOENIX\",\"tier\":\"VERY_SPECIAL\",\"exp\":0.0,\"candyUsed\":0}"
             },
             "minecraft:custom_name": {
-              "text": "§7[Lvl {LVL}] §6Phoenix"
+              "text": "§7[Lvl {LVL}] §cPhoenix"
             },
             "minecraft:lore": [
               {
@@ -28548,10 +29059,10 @@
                 "text": "§7On 4th melee strike, §6ignite §7mobs,"
               },
               {
-                "text": "§7dealing §c{2}x §7your §9 Crit Damage"
+                "text": "§7dealing §c{2}x §7your §9 Crit Damage §7each"
               },
               {
-                "text": "§7each second for §a{3} §7seconds"
+                "text": "§7second for §a{3} §7seconds"
               },
               {
                 "text": ""
@@ -28578,7 +29089,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§c§lVERY SPECIAL PET"
               }
             ],
             "minecraft:profile": {
@@ -28605,7 +29116,7 @@
                 "minecraft:written_book_content"
               ]
             },
-            "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+            "minecraft:tooltip_style": "hypixel_skyblock:very_special"
           }
         }
       }
@@ -28628,7 +29139,7 @@
           "§7by §a{0}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -28686,7 +29197,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -28730,7 +29241,7 @@
           "§7by §a{0}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -28788,7 +29299,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -28836,7 +29347,7 @@
           "§6Shiny Pig§7 §3Bestiary§7 tier.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -28910,7 +29421,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -28958,7 +29469,7 @@
           "§6Shiny Pig§7 §3Bestiary§7 tier.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -29032,7 +29543,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -29083,7 +29594,7 @@
           "§7Increases the base stats of this pet",
           "§7by §a{2}%§7 during the §dYear of the Pig§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -29170,7 +29681,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -29221,7 +29732,7 @@
           "§7your island",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -29286,7 +29797,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -29331,7 +29842,7 @@
           "§7your island",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -29396,7 +29907,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -29445,7 +29956,7 @@
           "§cDamage §7and §a{2} §c❁ Strength§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -29530,7 +30041,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -29579,7 +30090,7 @@
           "§cDamage §7and §a{2} §c Strength§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -29664,7 +30175,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -29717,7 +30228,7 @@
           "§a50+§7 and §c+75% §7damage to monsters",
           "§7Level §a100+§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -29814,7 +30325,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -29851,43 +30362,26 @@
     "id": "PRECURSOR_DRONE",
     "name": "Precursor Drone",
     "tiers": {
-      "COMMON": {
+      "LEGENDARY": {
         "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2NDY1OTI2MzU2NSwKICAicHJvZmlsZUlkIiA6ICI1MTAwZGZmZDI0NDI0M2I0OGQxMmVkZTVkMjgxMzk2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGVjdHJvbmljU2V4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUxYWFlMjg4YWI5ZDUzNTRmZGE0ZTM5NWEzNjQyMWJkMjYxYTliNjIxM2RiYjc4NmQ3YWIzOTQ2NWU0NzljZTkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
         "lore": [
-          "§8Combat Pet",
+          "§8All Skills",
           "",
-          "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}%",
-          "§7Mining Fortune: §6+{MINING_FORTUNE}",
-          "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
+          "§7Speed: §f+{SPEED}",
           "",
-          "§6Contraband",
-          "§7Catching a §3Sea Creature §7has a §a10%",
-          "§7chance to also give you §6Treasure§7.",
+          "§6Creative Mind",
+          "§7This pet can have §bDrone Mods",
+          "§7applied to it, which allows you to",
+          "§7modify its §6Perks §7to your liking.",
+          "§8Precursor Drones may possess up",
+          "§8to 3 perks at a time, this one included.",
           "",
-          "§6Grungle",
-          "§7You can now ONLY throw your",
-          "§7Foraging Axe, but it has §cno throwing",
-          "§cpenalty §7anymore.",
-          "",
-          "§6Mining Off Camera",
-          "§7While mining, each collection",
-          "§7progress grants a §a0.005% §7chance to",
-          "§7drop a random enchanted mining item.",
-          "",
-          "§f§lCOMMON"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
-          "SEA_CREATURE_CHANCE": [
-            0.1,
-            10
-          ],
-          "MINING_FORTUNE": [
-            0.3,
-            30
-          ],
-          "FORAGING_FORTUNE": [
-            0.3,
-            30
+          "SPEED": [
+            0.05,
+            25
           ]
         },
         "item": {
@@ -29895,74 +30389,47 @@
           "components": {
             "minecraft:custom_data": {
               "id": "PET",
-              "petInfo": "{\"type\":\"PRECURSOR_DRONE\",\"tier\":\"COMMON\",\"exp\":0.0,\"candyUsed\":0}"
+              "petInfo": "{\"type\":\"PRECURSOR_DRONE\",\"tier\":\"LEGENDARY\",\"exp\":0.0,\"candyUsed\":0}"
             },
             "minecraft:custom_name": {
-              "text": "§7[Lvl {LVL}] §fPrecursor Drone"
+              "text": "§7[Lvl {LVL}] §6Precursor Drone"
             },
             "minecraft:lore": [
               {
-                "text": "§8Combat Pet"
+                "text": "§8All Skills"
               },
               {
                 "text": ""
               },
               {
-                "text": "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}%"
-              },
-              {
-                "text": "§7Mining Fortune: §6+{MINING_FORTUNE}"
-              },
-              {
-                "text": "§7Foraging Fortune: §6+{FORAGING_FORTUNE}"
+                "text": "§7Speed: §f+{SPEED}"
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Contraband"
+                "text": "§6Creative Mind"
               },
               {
-                "text": "§7Catching a §3Sea Creature §7has a §a10%"
+                "text": "§7This pet can have §bDrone Mods"
               },
               {
-                "text": "§7chance to also give you §6Treasure§7."
+                "text": "§7applied to it, which allows you to"
               },
               {
-                "text": ""
+                "text": "§7modify its §6Perks §7to your liking."
               },
               {
-                "text": "§6Grungle"
+                "text": "§8Precursor Drones may possess up"
               },
               {
-                "text": "§7You can now ONLY throw your"
-              },
-              {
-                "text": "§7Foraging Axe, but it has §cno throwing"
-              },
-              {
-                "text": "§cpenalty §7anymore."
+                "text": "§8to 3 perks at a time, this one included."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Mining Off Camera"
-              },
-              {
-                "text": "§7While mining, each collection"
-              },
-              {
-                "text": "§7progress grants a §a0.005% §7chance to"
-              },
-              {
-                "text": "§7drop a random enchanted mining item."
-              },
-              {
-                "text": ""
-              },
-              {
-                "text": "§f§lCOMMON"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -29979,19 +30446,17 @@
                 "minecraft:banner_patterns",
                 "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
-                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
-                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
               ]
             },
-            "minecraft:tooltip_style": "hypixel_skyblock:common"
+            "minecraft:tooltip_style": "hypixel_skyblock:legendary"
           }
         }
       }
@@ -30013,7 +30478,7 @@
           "§7Jump potions also give §a+{0} §7speed",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -30068,7 +30533,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -30113,7 +30578,7 @@
           "§7Jump potions also give §a+{0} §7speed",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -30168,7 +30633,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -30214,7 +30679,7 @@
           "§7Grants §3+{1}☯ Farming Wisdom§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -30282,7 +30747,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -30328,7 +30793,7 @@
           "§7Grants §3+{1}☯ Farming Wisdom§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -30396,7 +30861,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -30446,7 +30911,7 @@
           "§7while on your island",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -30530,7 +30995,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -30585,7 +31050,7 @@
           "§aChocolate Rabbits §7that you find",
           "§7grant §6+{4}% Chocolate§7.",
           "",
-          "§d§lMYTHIC"
+          "§d§lMYTHIC PET"
         ],
         "variables": {
           "0": [
@@ -30692,7 +31157,7 @@
                 "text": ""
               },
               {
-                "text": "§d§lMYTHIC"
+                "text": "§d§lMYTHIC PET"
               }
             ],
             "minecraft:profile": {
@@ -30755,7 +31220,7 @@
           "§7chance to get it too.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -30860,7 +31325,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -30920,7 +31385,7 @@
           "§7The Rat is TWO times faster AND can",
           "§7fly!",
           "",
-          "§d§lMYTHIC"
+          "§d§lMYTHIC PET"
         ],
         "variables": {
           "0": [
@@ -31034,7 +31499,7 @@
                 "text": ""
               },
               {
-                "text": "§d§lMYTHIC"
+                "text": "§d§lMYTHIC PET"
               }
             ],
             "minecraft:profile": {
@@ -31096,7 +31561,7 @@
           "§7Grants §a+{2}% §7chance of getting",
           "§7double §bIce Essence§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -31202,7 +31667,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -31252,7 +31717,7 @@
           "",
           "§8§l* §8Soulbound §8§l*",
           "§5§kX§5 Rift-Transferable §5§kX",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "SPEED": [
@@ -31306,7 +31771,7 @@
                 "text": "§5§kX§5 Rift-Transferable §5§kX"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -31361,7 +31826,7 @@
           "§7location (15s cooldown)",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "DEFENSE": [
@@ -31427,7 +31892,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -31475,7 +31940,7 @@
           "§7location (15s cooldown)",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "DEFENSE": [
@@ -31541,7 +32006,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -31593,7 +32058,7 @@
           "§7defense",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -31675,7 +32140,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -31727,7 +32192,7 @@
           "§7defense",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -31809,7 +32274,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -31864,7 +32329,7 @@
           "§7While sitting on your rock, deal §c+{1}x",
           "§7damage",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -31959,7 +32424,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -32025,7 +32490,7 @@
           "§7every other unique maxed §aFarming",
           "§aPet §7that you own.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -32147,7 +32612,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -32182,7 +32647,7 @@
           "§eTreasure Chests §7while mining.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -32240,7 +32705,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -32288,7 +32753,7 @@
           "§7Drills.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -32362,7 +32827,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -32413,7 +32878,7 @@
           "§7Earn §a+{2}% §dGemstone Powder §7from all",
           "§7sources.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -32500,7 +32965,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -32553,7 +33018,7 @@
           "§9Seal§7 by §a{0}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -32624,7 +33089,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -32671,7 +33136,7 @@
           "§9Seal§7 by §a{0}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -32742,7 +33207,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -32796,7 +33261,7 @@
           "§7during the §9Year of the Seal§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -32892,7 +33357,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -32946,7 +33411,7 @@
           "§7during the §9Year of the Seal§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -33042,7 +33507,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -33099,7 +33564,7 @@
           "§7Increases the base stats of this pet",
           "§7by §a{2}%§7 during the §9Year of the Seal.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -33208,7 +33673,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -33258,7 +33723,7 @@
           "§a{0}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -33316,7 +33781,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -33360,7 +33825,7 @@
           "§a{0}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -33418,7 +33883,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -33466,7 +33931,7 @@
           "§7damage for 10s",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -33540,7 +34005,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -33588,7 +34053,7 @@
           "§7damage for 10s",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -33662,7 +34127,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -33713,7 +34178,7 @@
           "§7Increases your total mana by §a{2}%",
           "§7while in dungeons",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -33800,7 +34265,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -33849,7 +34314,7 @@
           "§7Earn §a+{0}% §7more Exp when mining.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -33904,7 +34369,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -33949,7 +34414,7 @@
           "§7Earn §a+{0}% §7more Exp when mining.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -34004,7 +34469,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -34050,7 +34515,7 @@
           "§7Grants §3+{1}☯ Mining Wisdom§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -34118,7 +34583,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -34164,7 +34629,7 @@
           "§7Grants §3+{1}☯ Mining Wisdom§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -34232,7 +34697,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -34281,7 +34746,7 @@
           "§7Grants §6+{2} Mining Speed §7and",
           "§7permanent §eHaste {3}§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -34366,7 +34831,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -34416,7 +34881,7 @@
           "§7which is doubled while in dungeons",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -34474,7 +34939,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -34520,7 +34985,7 @@
           "§7which is doubled while in dungeons",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -34578,7 +35043,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -34628,7 +35093,7 @@
           "§7seconds.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -34708,7 +35173,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -34758,7 +35223,7 @@
           "§7seconds.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -34838,7 +35303,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -34893,7 +35358,7 @@
           "§7when a mob gets close to you (5s",
           "§7cooldown).",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -34988,7 +35453,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -35049,7 +35514,7 @@
           "§7every block fallen to mobs within §a3",
           "§7blocks.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -35148,7 +35613,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -35199,7 +35664,7 @@
           "§6Fortune§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -35264,7 +35729,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -35309,7 +35774,7 @@
           "§6Fortune§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -35374,7 +35839,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -35423,7 +35888,7 @@
           "§6Foraging Fortune §7on §2Axe §7throws.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -35508,7 +35973,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -35557,7 +36022,7 @@
           "§6Foraging Fortune §7on §2Axe §7throws.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -35642,7 +36107,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -35694,7 +36159,7 @@
           "§7Cutting §aTrees §7give §a+{4}% §7more points",
           "§7towards §dStarlyn Contests§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -35792,7 +36257,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -35845,7 +36310,7 @@
           "§7Grants §2+{1} Bonus Pest Chance§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -35916,7 +36381,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -35967,7 +36432,7 @@
           "§aSprayonator§7, gain §6+{2} Farming",
           "§6Fortune§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -36054,7 +36519,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -36104,7 +36569,7 @@
           "§7while on your §bPrivate Island§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -36162,7 +36627,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -36208,7 +36673,7 @@
           "§7while on your §bPrivate Island§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -36266,7 +36731,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -36315,7 +36780,7 @@
           "§6Fortune§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -36392,7 +36857,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -36441,7 +36906,7 @@
           "§6Fortune§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -36518,7 +36983,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -36570,7 +37035,7 @@
           "§7Grants §e+{2} Mining Spread §7while",
           "§7mining §9Blocks§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -36660,7 +37125,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -36724,7 +37189,7 @@
           "§7capped at §f200,000§7. §8(1s cooldown)",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -36840,7 +37305,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -36901,7 +37366,7 @@
           "§7Your snowballs have §a50% §7chance of",
           "§7dealing §cdouble §7damage!",
           "",
-          "§d§lMYTHIC"
+          "§d§lMYTHIC PET"
         ],
         "variables": {
           "0": [
@@ -37026,7 +37491,7 @@
                 "text": ""
               },
               {
-                "text": "§d§lMYTHIC"
+                "text": "§d§lMYTHIC PET"
               }
             ],
             "minecraft:profile": {
@@ -37077,7 +37542,7 @@
           "§7equipment you have equipped.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -37138,7 +37603,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -37185,7 +37650,7 @@
           "§7equipment you have equipped.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -37246,7 +37711,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -37295,7 +37760,7 @@
           "§7slowed by §a{1}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -37372,7 +37837,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -37421,7 +37886,7 @@
           "§7slowed by §a{1}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -37498,7 +37963,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -37552,7 +38017,7 @@
           "§7your island.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -37648,7 +38113,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -37708,7 +38173,7 @@
           "§7where they died. §8Stacks up to 10",
           "§8times.",
           "",
-          "§d§lMYTHIC"
+          "§d§lMYTHIC PET"
         ],
         "variables": {
           "0": [
@@ -37822,7 +38287,7 @@
                 "text": ""
               },
               {
-                "text": "§d§lMYTHIC"
+                "text": "§d§lMYTHIC PET"
               }
             ],
             "minecraft:profile": {
@@ -37877,11 +38342,11 @@
           "§6§lGOLD §7and §b§lDIAMOND §7tier §6Trophy",
           "§6Fish §7by §a{1}%§7.",
           "",
-          "§6Primordial Fisher",
+          "§6Adaptive Predator",
           "§7Increases this pet's base stats by",
-          "§a{2}%§7 during §brain§7.",
+          "§a{2}%§7 during any §bWeather§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -37966,19 +38431,19 @@
                 "text": ""
               },
               {
-                "text": "§6Primordial Fisher"
+                "text": "§6Adaptive Predator"
               },
               {
                 "text": "§7Increases this pet's base stats by"
               },
               {
-                "text": "§a{2}%§7 during §brain§7."
+                "text": "§a{2}%§7 during any §bWeather§7."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -38035,7 +38500,7 @@
           "§8when the pet is not summoned!",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -38114,7 +38579,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -38169,7 +38634,7 @@
           "§8This pet's perks are active even",
           "§8when the pet is not summoned!",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -38260,7 +38725,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -38310,7 +38775,7 @@
           "§7drops from squids",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -38368,7 +38833,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -38412,7 +38877,7 @@
           "§7drops from squids",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -38470,7 +38935,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -38518,7 +38983,7 @@
           "§7and §a{2} §c Strength§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -38596,7 +39061,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -38644,7 +39109,7 @@
           "§7and §a{2} §c Strength§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -38722,7 +39187,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -38772,7 +39237,7 @@
           "§6Fishing Wisdom Boost",
           "§7Grants §3+{3}☯ Fishing Wisdom§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -38860,7 +39325,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -38919,7 +39384,8 @@
           "§7Next Upgrade: §a+30 §7& §f+3 §8(§a0§7/§c100§8)",
           "",
           "§6Blaze Slayer",
-          "§7Gain §b{0}x §7Combat XP against §aBlazes§7.",
+          "§7Gain §3+{0}☯ Combat Wisdom §7towards",
+          "§6Blazes§7.",
           "",
           "§6Extinguish",
           "§7While in combat on the Crimson Isle,",
@@ -38930,12 +39396,12 @@
           "§6Ephemeral Stability",
           "§7Regenerate mana §b40% §7faster",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
-            1.005,
-            1.5
+            0.5,
+            50
           ],
           "HEALTH": [
             6,
@@ -39023,7 +39489,10 @@
                 "text": "§6Blaze Slayer"
               },
               {
-                "text": "§7Gain §b{0}x §7Combat XP against §aBlazes§7."
+                "text": "§7Gain §3+{0}☯ Combat Wisdom §7towards"
+              },
+              {
+                "text": "§6Blazes§7."
               },
               {
                 "text": ""
@@ -39056,7 +39525,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -39113,7 +39582,7 @@
           "§7by §a{1}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -39200,7 +39669,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -39251,11 +39720,11 @@
           "§7by §a{1}%§7.",
           "",
           "§6Arachnid Slayer",
-          "§7Gain §b{2}x §7Combat XP against",
-          "§aSpiders§7.",
+          "§7Gain §3+{2}☯ Combat Wisdom §7towards",
+          "§4Spiders§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -39267,8 +39736,8 @@
             50
           ],
           "2": [
-            1.005,
-            1.5
+            0.5,
+            50
           ],
           "CRIT_CHANCE": [
             0.1,
@@ -39346,10 +39815,10 @@
                 "text": "§6Arachnid Slayer"
               },
               {
-                "text": "§7Gain §b{2}x §7Combat XP against"
+                "text": "§7Gain §3+{2}☯ Combat Wisdom §7towards"
               },
               {
-                "text": "§aSpiders§7."
+                "text": "§4Spiders§7."
               },
               {
                 "text": ""
@@ -39358,7 +39827,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -39409,8 +39878,8 @@
           "§7by §a{1}%§7.",
           "",
           "§6Arachnid Slayer",
-          "§7Gain §b{2}x §7Combat XP against",
-          "§aSpiders§7.",
+          "§7Gain §3+{2}☯ Combat Wisdom §7towards",
+          "§4Spiders§7.",
           "",
           "§6Web Battlefield",
           "§7Killing mobs grants §c+0.06 Strength",
@@ -39419,7 +39888,7 @@
           "§7where they died. §8Stacks up to 10",
           "§8times.",
           "",
-          "§d§lMYTHIC"
+          "§d§lMYTHIC PET"
         ],
         "variables": {
           "0": [
@@ -39431,8 +39900,8 @@
             50
           ],
           "2": [
-            1.005,
-            1.5
+            0.5,
+            50
           ],
           "CRIT_CHANCE": [
             0.1,
@@ -39510,10 +39979,10 @@
                 "text": "§6Arachnid Slayer"
               },
               {
-                "text": "§7Gain §b{2}x §7Combat XP against"
+                "text": "§7Gain §3+{2}☯ Combat Wisdom §7towards"
               },
               {
-                "text": "§aSpiders§7."
+                "text": "§4Spiders§7."
               },
               {
                 "text": ""
@@ -39540,7 +40009,7 @@
                 "text": ""
               },
               {
-                "text": "§d§lMYTHIC"
+                "text": "§d§lMYTHIC PET"
               }
             ],
             "minecraft:profile": {
@@ -39591,7 +40060,7 @@
           "§7Gain §c+{0}%  Ferocity§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -39660,7 +40129,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -39705,7 +40174,7 @@
           "§7Gain §c+{0}%  Ferocity§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -39774,7 +40243,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -39823,7 +40292,7 @@
           "§7for §a10s§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -39908,7 +40377,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -39957,7 +40426,7 @@
           "§7for §a10s§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -40042,7 +40511,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -40094,7 +40563,7 @@
           "§7Deal §c+{2}% §7damage against targets with",
           "§7no other mobs within §a15 §7blocks.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -40192,7 +40661,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -40248,7 +40717,7 @@
           "§7players within 50 blocks of you.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -40332,7 +40801,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -40389,7 +40858,7 @@
           "§a{2}% §7less damage. Gain §4+{3}",
           "§4Vitality §7after taking 10 hits.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -40502,7 +40971,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -40560,7 +41029,7 @@
           "§7Combat stats granted by pet items on",
           "§7this pet are increased by §a{2}%§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -40654,7 +41123,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -40705,7 +41174,7 @@
           "§5Witch§7 by §a{0}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -40766,7 +41235,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -40811,7 +41280,7 @@
           "§5Witch§7 by §a{0}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -40872,7 +41341,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -40921,7 +41390,7 @@
           "§7brew by §a{1}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -40998,7 +41467,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -41047,7 +41516,7 @@
           "§7brew by §a{1}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -41124,7 +41593,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -41176,7 +41645,7 @@
           "§7Increases the base stats of this pet",
           "§7by §a{2}%§7 during the §5Year of the Witch§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -41266,7 +41735,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -41319,7 +41788,7 @@
           "§fSkeletal §7mobs.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -41398,7 +41867,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -41447,7 +41916,7 @@
           "§fSkeletal §7mobs.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -41526,7 +41995,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -41577,7 +42046,7 @@
           "§7mobs.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -41672,7 +42141,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -41723,7 +42192,7 @@
           "§7mobs.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -41818,7 +42287,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -41874,7 +42343,7 @@
           "§7seconds",
           "§8Does not stack",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -41988,7 +42457,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -42039,7 +42508,7 @@
           "§7Take §a{0}% §7less damage from wolves",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -42108,7 +42577,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -42153,7 +42622,7 @@
           "§7Take §a{0}% §7less damage from wolves",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -42222,7 +42691,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -42272,7 +42741,7 @@
           "§8Max 10 wolves",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -42360,7 +42829,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -42410,7 +42879,7 @@
           "§8Max 10 wolves",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -42498,7 +42967,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -42550,7 +43019,7 @@
           "§6Combat Wisdom Boost",
           "§7Grants §3+{2}☯ Combat Wisdom§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -42648,7 +43117,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
@@ -42698,7 +43167,7 @@
           "§7zombies by §a{0}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§f§lCOMMON"
+          "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -42756,7 +43225,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§f§lCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -42802,7 +43271,7 @@
           "§7zombies by §a{0}%§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§a§lUNCOMMON"
+          "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
@@ -42860,7 +43329,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§a§lUNCOMMON PET"
               }
             ],
             "minecraft:profile": {
@@ -42908,7 +43377,7 @@
           "§7mobs",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§9§lRARE"
+          "§9§lRARE PET"
         ],
         "variables": {
           "0": [
@@ -42982,7 +43451,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§9§lRARE"
+                "text": "§9§lRARE PET"
               }
             ],
             "minecraft:profile": {
@@ -43030,7 +43499,7 @@
           "§7mobs",
           "",
           "§8Can be upgraded at Kat in The Hub!",
-          "§5§lEPIC"
+          "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
@@ -43104,7 +43573,7 @@
                 "text": "§8Can be upgraded at Kat in The Hub!"
               },
               {
-                "text": "§5§lEPIC"
+                "text": "§5§lEPIC PET"
               }
             ],
             "minecraft:profile": {
@@ -43155,7 +43624,7 @@
           "§7Increases all stats on §2Undead ༕",
           "§7armor by §a{2}%§7.",
           "",
-          "§6§lLEGENDARY"
+          "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
@@ -43242,7 +43711,7 @@
                 "text": ""
               },
               {
-                "text": "§6§lLEGENDARY"
+                "text": "§6§lLEGENDARY PET"
               }
             ],
             "minecraft:profile": {
