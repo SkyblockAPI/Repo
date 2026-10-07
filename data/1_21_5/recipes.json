@@ -15017,6 +15017,42 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "OLD_LEATHER_BOOT",
+        "count": 1
+      },
+      {
+        "id": "RUSTY_COIN",
+        "count": 32
+      },
+      {
+        "id": "WATER_ORB",
+        "count": 1
+      },
+      {
+        "id": "BUSTED_BELT_BUCKLE",
+        "count": 8
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      1,
+      2,
+      1,
+      -1,
+      3,
+      -1
+    ],
+    "result": {
+      "id": "CONTRABAND",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "WHEAT",
         "count": 1
       },
@@ -65356,7 +65392,7 @@
     "type": "forge",
     "inputs": [
       {
-        "id": "REFINED_MINERAL",
+        "id": "REFINED_MITHRIL",
         "count": 1
       },
       {
@@ -76011,7 +76047,7 @@
       {
         "type": "currency",
         "currency": "COIN",
-        "count": 20000
+        "count": 5000
       }
     ],
     "result": {

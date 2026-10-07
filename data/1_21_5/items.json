@@ -16358,7 +16358,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "BALLOON_SNAKE"
@@ -16398,14 +16398,7 @@
           "text": "§9§lRARE DUNGEON NECKLACE"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODI0MDc0MSwKICAicHJvZmlsZUlkIiA6ICI2ZDgwYjVkMjQyMGY0MWZkOTQxMjM4YzA3YzVlYzAxNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQb05pWW8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTUzMDg4ZGUzZWRmZDFiMTA5OGQ4ZDhmNTZmNTAwNGE4OTMwNTUxZTA2M2M3Nzg5MWZhMDA3MDNjZjAzMWI5OSIKICAgIH0KICB9Cn0="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/dungeons/balloon_snake",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -71565,7 +71558,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "DAY_CRYSTAL"
@@ -71596,25 +71589,20 @@
           "text": "§9§lRARE ACCESSORY"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5NDEzMzIzODc5MSwKICAicHJvZmlsZUlkIiA6ICI4ZGUyNDAzYTEyMjU0ZmFkOTM1OTYxYWFlYmQwNGUyOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJZdW5hbWkyNyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNTFlNTJiMWRlOTdiNTM0MzU4YjUzY2QyYzljNDU1MjYwODZkMmE2ZjBlMGFlNjVlNGJhMmZmNWM2MjkwZWMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/uncategorized/day_crystal",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -71974,6 +71962,105 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:chainmail_chestplate",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "DEAD_MANS_CHESTPLATE"
+      },
+      "minecraft:unbreakable": {},
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:custom_name": {
+        "text": "§9Dead Man's Chestplate"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7\"That horribly rigid, overfrozen"
+        },
+        {
+          "text": "§7water in nearby lake almost kills"
+        },
+        {
+          "text": "§7everything.\""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§9§lRARE"
+        }
+      ],
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "DEAD_MANS_JOURNAL"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Dead Man's Journal"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7A soggy journal that you retrieved"
+        },
+        {
+          "text": "§7from the §bGreat Glacite Lake§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§l* §8Soulbound §8§l*"
+        },
+        {
+          "text": "§5§lEPIC"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/uncategorized/dead_mans_journal",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
@@ -77218,13 +77305,13 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "DIRT_BOTTLE"
       },
       "minecraft:custom_name": {
-        "text": "§9Dirt Bottle"
+        "text": "§aDirt Bottle"
       },
       "minecraft:lore": [
         {
@@ -77240,49 +77327,54 @@
           "text": "§7Applies the §9Dirty §7reforge when"
         },
         {
-          "text": "§7combined with a melee weapon."
+          "text": "§7combined with a §cMelee Weapon§7 or"
+        },
+        {
+          "text": "§bFishing Rod§7."
         },
         {
           "text": ""
         },
         {
-          "text": "§9Dirty §7(§6Legendary§7):"
+          "text": "§7Grants the following stats that scale"
         },
         {
-          "text": "§7Strength: §c+12"
+          "text": "§7with the item's rarity:"
         },
         {
-          "text": "§7Attack Speed: §e+15%"
+          "text": " §c Strength"
         },
         {
-          "text": "§7Ferocity: §c+12"
+          "text": " §e Attack Speed"
         },
         {
-          "text": ""
-        },
-        {
-          "text": "§7Requires §aMining Skill Level X§7!"
+          "text": " §c Ferocity"
         },
         {
           "text": ""
         },
         {
-          "text": "§9§lRARE REFORGE STONE"
+          "text": "§eRight-click to view rarity scaling!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§4❣ §cRequires §aMining Skill 10§c."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§a§lUNCOMMON REFORGE STONE"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA2MTUzMTc1NSwKICAicHJvZmlsZUlkIiA6ICIzNDkxZjJiOTdjMDE0MWE2OTM2YjFjMjJhMmEwMGZiNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJKZXNzc3N1aGgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjQwMmIzZmYyMTI4OWRjYzQyNWM3NWZjMjVjNDRjY2FlMGY4ZWExOTIzOTEyYzRlOWRlM2EwMjljNzAyMWNjNCIKICAgIH0KICB9Cn0="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/reforge_stones/dirt_bottle",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -77294,7 +77386,7 @@
           "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
     }
   },
   {
@@ -123390,7 +123482,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "FLAMING_FIST"
@@ -123445,14 +123537,7 @@
           "text": "§5§lEPIC GLOVES"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NDUwMDUyMTI2NiwKICAicHJvZmlsZUlkIiA6ICI0ZDEzZWUyZjViOWI0N2I2OGU2NzhhMjAxN2VmZTc1MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcmF5ZGVyZWsiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTg3MTk4NDljZWY0MjY0ZDY3MGM2Yjg4ZTZiNWViZDQwYjMyYjUzNWE2OGEyYzIyODkyZGQwOGQ4YmNjMTNjNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/uncategorized/flaming_fist",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -130680,7 +130765,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "FROZEN_AMULET"
@@ -130714,14 +130799,7 @@
           "text": "§9§lRARE NECKLACE"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTczNjQyNzUxMTkwOSwKICAicHJvZmlsZUlkIiA6ICJlNzdlMDRhNmMyMzg0MGVmODZlOGViOWY4NGQ3OWVjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMT1JJU0pUMTYiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGVkYTI1OGY2ZmNlZDk1ZjQ0OWI0MTI4NzgxMDMyYmI2YTNiYWI2NWI3Mzc3ODI4NjBlMmJkYjhlOWQ5Yjg2YiIKICAgIH0KICB9Cn0="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/uncategorized/frozen_amulet",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -151110,7 +151188,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "GREAT_SPOOK_BELT"
@@ -151147,14 +151225,7 @@
           "text": "§5§lEPIC BELT"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2MzUxNzAyMTQ2MSwKICAicHJvZmlsZUlkIiA6ICIwOWQ3YmJjNGYxZmU0ZjlkYjRiZmE1MTY2NDA3OTcyYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJlemtkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I4ZjVkN2IyYmUwOTQ5NDAyZDU5YTZjOGRhNjdiYmIxZDg1NjI1ZWY0MzY0YjUxYTUzZmVmZGRhZjU5ZDc0N2EiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/great_spook/great_spook_belt",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -151335,7 +151406,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "GREAT_SPOOK_CLOAK"
@@ -151372,14 +151443,7 @@
           "text": "§5§lEPIC CLOAK"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2MzUxNzA0ODY2MSwKICAicHJvZmlsZUlkIiA6ICI2NmI0ZDRlMTFlNmE0YjhjYTFkN2Q5YzliZTBhNjQ5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcmFzdG9vWXNmIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVkYzEyMzFiYmI5Nzc2NDFiOWI0YTg1NDNlY2Y2NjA2ZjNhOTkwYmJhYmFlMzAwMTBiZDE1Y2RmMDcxOTM0OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/great_spook/great_spook_cloak",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -151400,7 +151464,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "GREAT_SPOOK_GLOVES"
@@ -151437,14 +151501,7 @@
           "text": "§5§lEPIC GLOVES"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2MzUxNzA3MzYxMCwKICAicHJvZmlsZUlkIiA6ICJmMjc0YzRkNjI1MDQ0ZTQxOGVmYmYwNmM3NWIyMDIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJIeXBpZ3NlbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNWY0YTBmZmE4MjJkYzA5YzM1M2NjYTZhN2QxNmZjODlmZTIwYzBkOTYwYmFmMzA0MjAxNDgwNmJkNTMzYmE3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/great_spook/great_spook_gloves",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -151625,7 +151682,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "GREAT_SPOOK_NECKLACE"
@@ -151662,19 +151719,12 @@
           "text": "§5§lEPIC NECKLACE"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2MzUxNzA5NTQzMiwKICAicHJvZmlsZUlkIiA6ICJhYzM2YmVkZGQxNGQ0YjVmYmQyYzc5OThlMWMwOTg3ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYWlzYWthIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RjZGUyZmY2MGU0ZjVjZDFjMmIxM2M2MDk3MDUzOWRiZGMzY2U5NDQyZTdlNjEyNDdkMWIxZjEyMmYwNDU4ZGQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/great_spook/great_spook_necklace",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -183700,7 +183750,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "KNUCKLE_SANDWICH"
@@ -183740,19 +183790,12 @@
           "text": "§6§lLEGENDARY GLOVES"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1Mjk3Mjk1OCwKICAicHJvZmlsZUlkIiA6ICJiMmQ4MTA2YTJjM2Y0ZTY4ODA0ODkzOWU0NGM1NmUyMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWdoeGQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDBkZDQ3OGZjNGYzMWM2OTA2NDI1NDczMTUzZTU3Mjk5MTBlYTQyOGNkMTNjNDVlMjE5NWUxN2FkNDg0YTIzNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/uncategorized/knuckle_sandwich",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -212180,7 +212223,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "MOIL_LOG"
@@ -212202,31 +212245,31 @@
           "text": "§7Applies the §9Moil §7reforge when"
         },
         {
-          "text": "§7combined with an axe."
+          "text": "§7combined with an §2Axe§7."
         },
         {
           "text": ""
         },
         {
-          "text": "§9Moil §7(§6Legendary§7):"
+          "text": "§7Grants the following stats that scale"
         },
         {
-          "text": "§7Foraging Wisdom: §3+3"
+          "text": "§7with the item's rarity:"
         },
         {
-          "text": ""
-        },
-        {
-          "text": "§9Moil Bonus"
-        },
-        {
-          "text": "§7Grants §3+3☯ Foraging Wisdom§7."
+          "text": " §6 Foraging Fortune"
         },
         {
           "text": ""
         },
         {
-          "text": "§7Requires §aMining Skill Level V§7!"
+          "text": "§eRight-click to view rarity scaling!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§4❣ §cRequires §aMining Skill 5§c."
         },
         {
           "text": ""
@@ -212235,19 +212278,12 @@
           "text": "§a§lUNCOMMON REFORGE STONE"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "eyJ0aW1lc3RhbXAiOjE1NTczMzQ4NjM2NjIsInByb2ZpbGVJZCI6IjkxZjA0ZmU5MGYzNjQzYjU4ZjIwZTMzNzVmODZkMzllIiwicHJvZmlsZU5hbWUiOiJTdG9ybVN0b3JteSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzM5MWU4NzNkZmMyODFmZWM1MzBjYTllY2JlYjk0NzEwZmNkMTdiNTA4NGE5N2I4OGZiMjcwMDY3MWYxN2I4ZiJ9fX0="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/reforge_stones/moil_log",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -212601,7 +212637,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "MOLTEN_BELT"
@@ -212650,14 +212686,7 @@
           "text": "§5§lEPIC BELT"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NzAxNjQ4ODIwMSwKICAicHJvZmlsZUlkIiA6ICI5ZDQyNWFiOGFmZjg0MGU1OWM3NzUzZjc5Mjg5YjMyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb21wa2luNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTdmN2Y1NzIzNGI5OTg2ZTg1ZGE4NzhmYjNiNjY3MGYxYzcwYTM1NzBkZGRiZTlmYjUzMDkxMzA4MmJhNDRiNSIKICAgIH0KICB9Cn0="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/uncategorized/molten_belt",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -212678,7 +212707,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "MOLTEN_BRACELET"
@@ -212727,14 +212756,7 @@
           "text": "§5§lEPIC BRACELET"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NzAxNjUwNTAzMSwKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIwNTI5NGY4OTE1YzhkYTliNmUzODI5ZjZkYmExMzVmODhhYjQ3NjFiOTQzMGUxOGZmMTI1ZWYzZTk1MGNjZGYiCiAgICB9CiAgfQp9"
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/uncategorized/molten_bracelet",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -212755,7 +212777,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "MOLTEN_CLOAK"
@@ -212804,14 +212826,7 @@
           "text": "§5§lEPIC CLOAK"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NzAxNjQzNDExNiwKICAicHJvZmlsZUlkIiA6ICJlZThjNWMzMGY3NWU0N2QxOTBmOTllNjI5NDgyOGZjMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTcGFya19QaGFudG9tIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZjMThiYjBmNTJmMjQ2ZWM5YmZmNWYwNTc2MTQ1NmJlMjczZTczMGNkMjc2NTU1ZmQ3NzJiYThjM2ZhMGYxNDQiCiAgICB9CiAgfQp9"
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/uncategorized/molten_cloak",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -212938,7 +212953,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "MOLTEN_NECKLACE"
@@ -212987,14 +213002,7 @@
           "text": "§5§lEPIC NECKLACE"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NzAxNjQxODA4MiwKICAicHJvZmlsZUlkIiA6ICI2NmI0ZDRlMTFlNmE0YjhjYTFkN2Q5YzliZTBhNjQ5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcmFzdG9vWXNmIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZiYzBjYTQ0YzY3OGM0ZmI0ZWJlNzNmMTI3MTdmOGFiNmRmM2I1YWI4NjhkMjE3ZTY4YzM2YWFmZTJhZDgwZTQiCiAgICB9CiAgfQp9"
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/uncategorized/molten_necklace",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -213598,7 +213606,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "MOONLIGHT_CRYSTAL"
@@ -213629,25 +213637,20 @@
           "text": "§5§lEPIC ACCESSORY"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc1NzAwNDU1NDc4MCwKICAicHJvZmlsZUlkIiA6ICIyYmQyZTAxNGI5YWE0YzRjYmRmMzdmZjc5MzE2NDE5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdXRvU2tpbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lODUzY2ZkYjUwNDk3NDg2ZjI1ZWEwN2U0YzZmMmE3NTIwM2ZiMTdhMmI1Yzg0ODJiMzg5NDc4NDAwODAwZGU2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/uncategorized/moonlight_crystal",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -221649,7 +221652,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "NIGHT_CRYSTAL"
@@ -221680,25 +221683,20 @@
           "text": "§9§lRARE ACCESSORY"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5NDEzMzI3MTE0MywKICAicHJvZmlsZUlkIiA6ICJjMTc2MDkwNTQ1OGE0NDE5OGY5ODdmYTZjMzI5YjljMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHb29kX05vcm1hbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84YzQ2NTc4YWQ1OGU5NzZmYTA1NDc4NTEwODg5YTU4NzM1YTY3YzRkZDAyMmQzOThjMDRkNTY2NzZmMGRjMTcxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/uncategorized/night_crystal",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -229342,7 +229340,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "PARTY_BELT"
@@ -229373,14 +229371,7 @@
           "text": "§a§lUNCOMMON BELT"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNDI0MTE1MzYwNSwKICAicHJvZmlsZUlkIiA6ICJhNzQ0NWIzOTdkMWY0ZjBiOTNkYTMwNGZjY2M2OTM1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJFc2tyYVRlVCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNjMxMjc0YjRiZDg0ZmFlZjY0ZGMwMWVjM2Y1OGU3YmZiOWU4ZWYxZGEwOTk4MjI1ZTk3YmUzMjQ0YzljZGRhIgogICAgfQogIH0KfQ=="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/uncategorized/party_belt",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -229401,7 +229392,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "PARTY_CLOAK"
@@ -229432,14 +229423,7 @@
           "text": "§a§lUNCOMMON CLOAK"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNDI0MTEyOTE3NCwKICAicHJvZmlsZUlkIiA6ICJiOThjNGFkOGM2MjY0NGYxOWUzYzhhZTE0ZThhMDI1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5cnRlZGR5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI2OWViODljMjYwMGE0OGIwOGMzMzBkNWEwNjUyNGE5OWY1MGNiNDhkMDg0MTQ0MThiMzJhY2I3YWJhYzIwZDkiCiAgICB9CiAgfQp9"
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/uncategorized/party_cloak",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -229510,7 +229494,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "PARTY_GLOVES"
@@ -229541,14 +229525,7 @@
           "text": "§a§lUNCOMMON GLOVES"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNDI0MTIyOTk1NSwKICAicHJvZmlsZUlkIiA6ICI3ZGEyYWIzYTkzY2E0OGVlODMwNDhhZmMzYjgwZTY4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHb2xkYXBmZWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWE5ZjM5M2Y5MGVhZWFmMzBjMjcyMDk0MDNjZmQxNTc3OGIxMTg3Njk1ZjhlYTBhOWNhNTU3MTFlZTFhODkiCiAgICB9CiAgfQp9"
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/uncategorized/party_gloves",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -231744,7 +231721,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "PARTY_NECKLACE"
@@ -231775,14 +231752,7 @@
           "text": "§a§lUNCOMMON NECKLACE"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxNDI0MTE3NzY5OCwKICAicHJvZmlsZUlkIiA6ICJmYjZkM2E5Zjk3MWY0ZTdlYmQ0MjE2Yjk0MjE5NDA3NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXJjaXhkZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNWUzMTNlMzBjNTNkZTE3NmU3ZjNjZmNjMjc4MjdmZDQ1ZTE3ZDBjNGI5OWM2YzFmYjUyYTcwYWIyOTM5MzI0IgogICAgfQogIH0KfQ=="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/uncategorized/party_necklace",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -301875,13 +301845,13 @@
           "text": ""
         },
         {
-          "text": "§7Heal back §a1% §7of your missing §c"
+          "text": "§7Gain §c+10 Health Regen §7for §a5s §7when"
         },
         {
-          "text": "§cHealth §7when using your §e§lRIGHT"
+          "text": "§7using your §e§lRIGHT CLICK §6Item"
         },
         {
-          "text": "§e§lCLICK §6Item Ability§7. Has a §c5s §7cooldown."
+          "text": "§6Ability§7. Has a §c5s §7cooldown."
         },
         {
           "text": ""
@@ -325471,7 +325441,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "SNOW_BELT"
@@ -325541,14 +325511,7 @@
           "text": "§9§lRARE BELT"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTM4OTk2Nzc3NSwKICAicHJvZmlsZUlkIiA6ICJmZTE0M2FhZTVmNGE0YTdiYjM4MzcxM2U1Mjg0YmIxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJKZWZveHk0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JjMDNlODdmYmZhOTAzMjQ4OTRlOTY4YmU5NmI5OTMwZDk5OGVjY2NmNjYzMmRlMDQ3YjNlOWNjNjkxMTFjYzciCiAgICB9CiAgfQp9"
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/winter/equipment/snow_belt",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -325727,7 +325690,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "SNOW_CLOAK"
@@ -325797,14 +325760,7 @@
           "text": "§9§lRARE CLOAK"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTM4OTk3ODk1NiwKICAicHJvZmlsZUlkIiA6ICJmYzg3ZTI3YTYwZjY0NjdhOGMwMDgyMmI2ZWY5ZTMyNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJhbmRyZWlvX28iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjEyNGJmYjIyZDZmZjZjMDBhNzNkNWY2NzY5YjkwNzIzMTFiZGU2YzgwMTBkZjU1MWU4Njc1OGU4OTg0YjhiZiIKICAgIH0KICB9Cn0="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/winter/equipment/snow_cloak",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -326677,7 +326633,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "SNOW_GLOVES"
@@ -326747,14 +326703,7 @@
           "text": "§9§lRARE GLOVES"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTM4OTk1MzIwMywKICAicHJvZmlsZUlkIiA6ICIwNDNkZWIzOGIyNjE0MTg1YTIzYzU4ZmI2YTc5ZWZkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaXRhbFNpZ256MiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lODg3NDUwNDk3OGJkODY4ODgwYjAwNGU4ZTYxMTEzYmI1OGExMDIzYWY4NjczN2U3NzUxMTEwOGEyNmVjMDViIgogICAgfQogIH0KfQ=="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/winter/equipment/snow_gloves",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -326846,7 +326795,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "SNOW_NECKLACE"
@@ -326916,14 +326865,7 @@
           "text": "§9§lRARE NECKLACE"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTM4OTk5MzM4NSwKICAicHJvZmlsZUlkIiA6ICJkMmM1MThjMzJjNTY0OGJmOTM2ZjY0YjhmZDQ1ZThjZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEcmFjb0JlbGxzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IxMmZhYTJlNzk4OTg5ZDkxMGVmYmY5MjgxYjhjYmEyNDE4NTYyMmU5YWEzNTdjNzUyODVhYTRiN2UzMzE0YmMiCiAgICB9CiAgfQp9"
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/winter/equipment/snow_necklace",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -328863,7 +328805,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "SOULWEAVER_GLOVES"
@@ -328924,14 +328866,7 @@
           "text": "§5§lEPIC DUNGEON GLOVES"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODIyMjY4MywKICAicHJvZmlsZUlkIiA6ICI4NzE3ZGFhNmM3OTU0NzE2YmJlYWQ0MDRkYzg0NDQzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa3VsbDAwMDAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTUyMjg2NzcyMTJiZTQzZWFhZDIzZDQ3ZWQ4NDNlMTVmYjFlNjgzODQ1OTRjMDliNThiMjNmODI0MjdlNTQ5YSIKICAgIH0KICB9Cn0="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/dungeons/soulweaver_gloves",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -349834,7 +349769,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "SUNSHINE_CRYSTAL"
@@ -349865,25 +349800,20 @@
           "text": "§5§lEPIC ACCESSORY"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2Mjg4NjQzMTEwMCwKICAicHJvZmlsZUlkIiA6ICJiNTQ1ZDcxNDJkZmM0MWVlYjBjMDcwOTkwOTI4NTE0MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJraXdpNDgxMiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xM2NmYzNjYmMwY2Y2ZjgxNzc0ZmEzN2IxZjY2MDg0MTdjMzZhYTE5ZTVhNDI5Yzk3Njk4ZmY5NGRhZmIzYTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/uncategorized/sunshine_crystal",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -349972,7 +349902,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "SUNS_GRASP"
@@ -350036,14 +349966,7 @@
           "text": "§6§lLEGENDARY GLOVES"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3NTI0NjY1NTE2NywKICAicHJvZmlsZUlkIiA6ICIzODY2ZTk1MmIxZWE0M2E4OGE3NGI1NzAxZDVjYTAwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGYWtlTWFybG93IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU1MGJhYmZmMzAyNjI3Y2QwNWE2MjZhZDEyNDAyZDk5ZGE1YmUxYmFkZDBiMWI5MDUwMTliODQzMzJiNjU5NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/community_center/mayor/finnegan/suns_grasp",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -370573,6 +370496,68 @@
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
+        "id": "VAMPIRE_CANDELABRA"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Vampire Candelabra"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Furniture"
+        },
+        {
+          "text": "§8Halloween Cosmetic"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This exclusive §6Halloween §7cosmetic"
+        },
+        {
+          "text": "§7can be placed on your island or"
+        },
+        {
+          "text": "§7traded."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc1NzM0NDg4NDY3MiwKICAicHJvZmlsZUlkIiA6ICIwNTAzNzZmZjAxY2I0OGVjOTUwM2NhMjhjMWU2MzlkMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJKb25haDU1OTAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDdhYjUxMjAyOTY2N2I0Y2NmOGI1Mzc0MDNkOTI4OWEzMTg3ZGZlZjRlY2RlMTgwNjJiMTAyMzM5YWI4OWI3NyIKICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
         "id": "VAMPIRE_DENTIST_RELIC"
       },
       "minecraft:custom_name": {
@@ -383873,6 +383858,68 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "WITCH_BELONGINGS"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Witch's Belongings"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Furniture"
+        },
+        {
+          "text": "§8Halloween Cosmetic"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This exclusive §6Halloween §7cosmetic"
+        },
+        {
+          "text": "§7can be placed on your island or"
+        },
+        {
+          "text": "§7traded."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5ODE1MzAwNzAwOSwKICAicHJvZmlsZUlkIiA6ICI3ZTc5YmUxNWIxOTA0NDE5YjdlZTM0MTZjZjA1Yjk4MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb25pZWtfT3dPIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk1YTM1YTQ5OWU1Mzg5ZTczZjU1MDcyNDVlMmE5NGZmYTc3M2Q3N2RlOTA5N2VkYjc3ZGEwMDhhZWU5NzZjZjUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {

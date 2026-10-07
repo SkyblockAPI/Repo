@@ -2678,6 +2678,13 @@
   },
   {
     "type": "item",
+    "id": "BEASTSLAYERS_CODEX",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Beastslayer%27s_Codex"
+    }
+  },
+  {
+    "type": "item",
     "id": "BEATING_HEART",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Beating_Heart"
@@ -2985,6 +2992,13 @@
     "id": "BERSERKER_SANDSTORM_CAT",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Sandstorm_Cat_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BESTIARY_TALISMAN",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bestiary_Talisman"
     }
   },
   {
@@ -8659,6 +8673,13 @@
   },
   {
     "type": "item",
+    "id": "CONTRABAND",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Drone_Mod:_Contraband"
+    }
+  },
+  {
+    "type": "item",
     "id": "CONTROL_SWITCH",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Control_Switch"
@@ -10168,6 +10189,20 @@
     "id": "DEAD_CAT_FOOD",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Tasty_Cat_Food"
+    }
+  },
+  {
+    "type": "item",
+    "id": "DEAD_MANS_CHESTPLATE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dead_Man%27s_Chestplate"
+    }
+  },
+  {
+    "type": "item",
+    "id": "DEAD_MANS_JOURNAL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dead_Man%27s_Journal"
     }
   },
   {
@@ -19346,6 +19381,13 @@
   },
   {
     "type": "item",
+    "id": "FROGS_SPIRIT_SCROLL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Frog%27s_Spirit"
+    }
+  },
+  {
+    "type": "item",
     "id": "FROG_BARN_SKIN",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Frog_Barn_Skin"
@@ -22659,6 +22701,13 @@
   },
   {
     "type": "item",
+    "id": "GRUNGLE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Drone_Mod:_Grungle"
+    }
+  },
+  {
+    "type": "item",
     "id": "GUARDIAN_CHESTPLATE",
     "requirements": [
       {
@@ -24138,7 +24187,10 @@
         "name": "Clay Ball",
         "id": "CLAY_BALL"
       }
-    ]
+    ],
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hotspot_Artifact"
+    }
   },
   {
     "type": "item",
@@ -24181,7 +24233,10 @@
         "name": "Clay Ball",
         "id": "CLAY_BALL"
       }
-    ]
+    ],
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hotspot_Ring"
+    }
   },
   {
     "type": "item",
@@ -24201,7 +24256,10 @@
         "name": "Clay Ball",
         "id": "CLAY_BALL"
       }
-    ]
+    ],
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hotspot_Talisman"
+    }
   },
   {
     "type": "item",
@@ -25443,6 +25501,13 @@
     "id": "INFINIDIRT_WAND",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/InfiniDirt™_Wand"
+    }
+  },
+  {
+    "type": "item",
+    "id": "INFINIPOT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Infinipot%E2%84%A2"
     }
   },
   {
@@ -27282,7 +27347,10 @@
         "type": "unknown",
         "name": "Raw Fish"
       }
-    ]
+    ],
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Large_Bait_Sack"
+    }
   },
   {
     "type": "item",
@@ -29598,7 +29666,10 @@
         "type": "unknown",
         "name": "Raw Fish"
       }
-    ]
+    ],
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Medium_Bait_Sack"
+    }
   },
   {
     "type": "item",
@@ -30546,6 +30617,13 @@
     "id": "MINING_3_TRAVEL_SCROLL",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_Dwarven_Mines"
+    }
+  },
+  {
+    "type": "item",
+    "id": "MINING_OFF_CAMERA",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Drone_Mod:_Mining_Off_Camera"
     }
   },
   {
@@ -40597,6 +40675,13 @@
   },
   {
     "type": "item",
+    "id": "REFRACTIVE_PAINT_PALETTE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Refractive_Paint_Palette"
+    }
+  },
+  {
+    "type": "item",
     "id": "REFUND_COOKIE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Booster_Cookie"
@@ -44141,7 +44226,10 @@
         "type": "unknown",
         "name": "Raw Fish"
       }
-    ]
+    ],
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Small_Bait_Sack"
+    }
   },
   {
     "type": "item",
@@ -53681,6 +53769,46 @@
   },
   {
     "type": "pet",
+    "id": "EAGLE",
+    "tier": "COMMON",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Eagle_Pet"
+    }
+  },
+  {
+    "type": "pet",
+    "id": "EAGLE",
+    "tier": "UNCOMMON",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Eagle_Pet"
+    }
+  },
+  {
+    "type": "pet",
+    "id": "EAGLE",
+    "tier": "RARE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Eagle_Pet"
+    }
+  },
+  {
+    "type": "pet",
+    "id": "EAGLE",
+    "tier": "EPIC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Eagle_Pet"
+    }
+  },
+  {
+    "type": "pet",
+    "id": "EAGLE",
+    "tier": "LEGENDARY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Eagle_Pet"
+    }
+  },
+  {
+    "type": "pet",
     "id": "EERIE",
     "tier": "COMMON",
     "wiki": {
@@ -55066,6 +55194,14 @@
     "tier": "LEGENDARY",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Pigman_Pet"
+    }
+  },
+  {
+    "type": "pet",
+    "id": "PRECURSOR_DRONE",
+    "tier": "LEGENDARY",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Precursor_Drone_Pet"
     }
   },
   {
@@ -56815,6 +56951,13 @@
     "id": "BYLMA_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Bylma"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "CALVIN_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Calvin"
     }
   },
   {
@@ -59965,6 +60108,13 @@
     "id": "PROFESSOR_BOSS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/The_Professor"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "PROFESSOR_WYND_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Professor_Wynd"
     }
   },
   {
@@ -69391,6 +69541,13 @@
   },
   {
     "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_CATACOMBS_CAP;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Folf_Shard"
+    }
+  },
+  {
+    "type": "attribute",
     "id": "ATTRIBUTE_SHARD_CATACOMBS_EXPLORER;1",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Bonzo_Shard"
@@ -69928,6 +70085,13 @@
     "id": "ATTRIBUTE_SHARD_FLOOR_FORTUNE;1",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Anteater_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FLORA;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flora_Shard"
     }
   },
   {
