@@ -56269,6 +56269,13 @@
   },
   {
     "type": "mob",
+    "id": "ANT_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ant"
+    }
+  },
+  {
+    "type": "mob",
     "id": "ANT_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Ant"
@@ -56703,6 +56710,13 @@
   },
   {
     "type": "mob",
+    "id": "BEEHEEMOTH_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Beeheemoth"
+    }
+  },
+  {
+    "type": "mob",
     "id": "BEEKEEPER_BARTHOLOMEW_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Beekeeper_Bartholomew"
@@ -56801,6 +56815,13 @@
   },
   {
     "type": "mob",
+    "id": "BLUE_JAY_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blue_Jay"
+    }
+  },
+  {
+    "type": "mob",
     "id": "BLUE_RINGED_OCTOPUS_SC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Blue_Ringed_Octopus"
@@ -56878,6 +56899,13 @@
   },
   {
     "type": "mob",
+    "id": "BRINELING_SC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Brineling"
+    }
+  },
+  {
+    "type": "mob",
     "id": "BROMM_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Bromm"
@@ -56930,6 +56958,13 @@
     "id": "BULVAR_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Bulvar"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "BUNBUN_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bunbun"
     }
   },
   {
@@ -57063,6 +57098,13 @@
     "id": "CHARLIE_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Charlie"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "CHEEKY_TIKI_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cheeky_Tiki"
     }
   },
   {
@@ -57480,6 +57522,13 @@
   },
   {
     "type": "mob",
+    "id": "DRYBARK_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Drybark"
+    }
+  },
+  {
+    "type": "mob",
     "id": "DR_HIBBLE_RIFT_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Dr._Hibble"
@@ -57536,6 +57585,13 @@
   },
   {
     "type": "mob",
+    "id": "DUSTYBIT_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dustybit"
+    }
+  },
+  {
+    "type": "mob",
     "id": "EDELIS_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Edelis"
@@ -57581,6 +57637,13 @@
     "id": "ELMAR_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Elmar"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "EMBER_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ember"
     }
   },
   {
@@ -57833,6 +57896,13 @@
     "id": "FINPLEX_RIFT_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Finplex"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "FIREFOX_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Firefox"
     }
   },
   {
@@ -58145,6 +58215,13 @@
   },
   {
     "type": "mob",
+    "id": "GIANT_ISOPOD_SC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Giant_Isopod"
+    }
+  },
+  {
+    "type": "mob",
     "id": "GIMLEY_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Gimley"
@@ -58218,6 +58295,13 @@
     "id": "GOLDEN_GOBLIN_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Golden_Goblin"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "GOLDOLOT_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Goldolot"
     }
   },
   {
@@ -58313,9 +58397,23 @@
   },
   {
     "type": "mob",
+    "id": "GRIZZLY_BEAR_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Grizzly_Bear"
+    }
+  },
+  {
+    "type": "mob",
     "id": "GROG_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Grog"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "GROUNDHOG_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Groundhog"
     }
   },
   {
@@ -58404,6 +58502,13 @@
   },
   {
     "type": "mob",
+    "id": "HAGGARD_SC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Haggard"
+    }
+  },
+  {
+    "type": "mob",
     "id": "HARPY_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Harpy"
@@ -58453,9 +58558,23 @@
   },
   {
     "type": "mob",
+    "id": "HEWVER_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hewver"
+    }
+  },
+  {
+    "type": "mob",
     "id": "HIDEONLEAF_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Hideonleaf"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "HIDEONSUN_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hideonsun"
     }
   },
   {
@@ -58474,9 +58593,37 @@
   },
   {
     "type": "mob",
+    "id": "HIVETHIEF_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hivethief"
+    }
+  },
+  {
+    "type": "mob",
     "id": "HOLY_LOST_ADVENTURER_MINIBOSS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Lost_Adventurer"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "HONEYBUZZ_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Honeybuzz"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "HONEYHOG_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Honeyhog"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "HONEYMITE_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Honeymite"
     }
   },
   {
@@ -59678,6 +59825,20 @@
   },
   {
     "type": "mob",
+    "id": "MOUNTAIN_GOAT_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mountain_Goat"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "MURKBAT_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Murkbat"
+    }
+  },
+  {
+    "type": "mob",
     "id": "MUSHROOM_BULL_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Mushroom_Bull"
@@ -59944,6 +60105,20 @@
   },
   {
     "type": "mob",
+    "id": "PANGOLIN_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pangolin"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "PARCHED_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Parched"
+    }
+  },
+  {
+    "type": "mob",
     "id": "PAT_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Pat"
@@ -60056,6 +60231,13 @@
   },
   {
     "type": "mob",
+    "id": "POLLENDART_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pollendart"
+    }
+  },
+  {
+    "type": "mob",
     "id": "POMTAIR_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Pomtair"
@@ -60126,6 +60308,13 @@
   },
   {
     "type": "mob",
+    "id": "PUCK_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Puck"
+    }
+  },
+  {
+    "type": "mob",
     "id": "PUDDLE_JUMPER_SC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Puddle_Jumper"
@@ -60150,6 +60339,13 @@
     "id": "PYROCLASTIC_WORM_SC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Pyroclastic_Worm"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "QUEEN_ANT_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Queen_Ant"
     }
   },
   {
@@ -60714,6 +60910,13 @@
   },
   {
     "type": "mob",
+    "id": "SEPIALOT_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sepialot"
+    }
+  },
+  {
+    "type": "mob",
     "id": "SERAPHINE_RIFT_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Seraphine"
@@ -60819,6 +61022,13 @@
   },
   {
     "type": "mob",
+    "id": "SHRIEKY_TIKI_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Shrieky_Tiki"
+    }
+  },
+  {
+    "type": "mob",
     "id": "SHY_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Shy"
@@ -60829,6 +61039,13 @@
     "id": "SIAMESE_LYNXES_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Siamese_Lynxes"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "SILKBREEZE_SC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Silkbreeze"
     }
   },
   {
@@ -60959,9 +61176,23 @@
   },
   {
     "type": "mob",
+    "id": "SNEAKY_TIKI_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sneaky_Tiki"
+    }
+  },
+  {
+    "type": "mob",
     "id": "SNIPER_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Sniper"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "SOLAR_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Solar"
     }
   },
   {
@@ -61029,9 +61260,23 @@
   },
   {
     "type": "mob",
+    "id": "SPRAWL_SC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sprawl"
+    }
+  },
+  {
+    "type": "mob",
     "id": "SQUID_SC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Squid"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "STAG_BEETLE_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Stag_Beetle"
     }
   },
   {
@@ -61400,6 +61645,13 @@
   },
   {
     "type": "mob",
+    "id": "TIMIL_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Timil"
+    }
+  },
+  {
+    "type": "mob",
     "id": "TITANOBOA_SC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Titanoboa"
@@ -61424,6 +61676,13 @@
     "id": "TONY_SHOP_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Tony"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "TORRID_SC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Torrid"
     }
   },
   {
@@ -61736,6 +61995,13 @@
   },
   {
     "type": "mob",
+    "id": "WATER_SNAKE_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Water_Snake"
+    }
+  },
+  {
+    "type": "mob",
     "id": "WATER_WORM_SC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Water_Worm"
@@ -61851,6 +62117,13 @@
     "id": "WOLF_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Wolf"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "WOODLOUSE_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Woodlouse"
     }
   },
   {

@@ -1045,6 +1045,96 @@
     "name": "Anita",
     "type": "NPC"
   },
+  "ANT_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA0Mzk0OCwKICAicHJvZmlsZUlkIiA6ICIzN2VhNTQ5MTE3MTU0NDgzYmY0N2VmNGM3MzMwMWIzYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSeXV6bG4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODhhNTEyMDg4ODU1NDhmYmJlMDgyNzExNDhkYjM2OTFmNTllMjc1YThkNzIzYmUwOTRiNDRkMzRjY2ZkOWM4NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "ANT_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aAnt (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §2 Pest§7, §a Animal"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Ants are not meant to serve"
+          },
+          {
+            "text": "§7grasshoppers!"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c2,500"
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA0Mzk0OCwKICAicHJvZmlsZUlkIiA6ICIzN2VhNTQ5MTE3MTU0NDgzYmY0N2VmNGM3MzMwMWIzYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSeXV6bG4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODhhNTEyMDg4ODU1NDhmYmJlMDgyNzExNDhkYjM2OTFmNTllMjc1YThkNzIzYmUwOTRiNDRkMzRjY2ZkOWM4NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Ant",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Ant",
+        "mobLevel": 32,
+        "xp": 0,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
+          {
+            "id": "HELIX_LOG",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 4
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "QUEEN_TRACKER",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Charm §cAnt§7.",
+              "§7 - Place §6Hunting Traps §7in §6Ant's Cave §7."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "ANT_NPC": {
     "island": "foraging_3",
     "position": {
@@ -4565,6 +4655,115 @@
     "name": "Bednom",
     "type": "NPC"
   },
+  "BEEHEEMOTH_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTk4NzI4NSwKICAicHJvZmlsZUlkIiA6ICJjODVhZTlmOWJkNTU0YzFmYjk1ZTg3ZDI2Zjg2MGFmNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdGV2ZW4xNzUzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdhOTYzMmMxOGJmZTViZGIwMjA1MzY2YjViMDhlYzFiMmM5YTk2OGFhNmNkYjg4YmI3ZjgzZTg4OThlM2FhZDAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "BEEHEEMOTH_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aBeeheemoth (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types:  Airborne, §a Critter"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Defies all scientific reasoning - how"
+          },
+          {
+            "text": "§7can it even fly?"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c1,000,000"
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTk4NzI4NSwKICAicHJvZmlsZUlkIiA6ICJjODVhZTlmOWJkNTU0YzFmYjk1ZTg3ZDI2Zjg2MGFmNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdGV2ZW4xNzUzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdhOTYzMmMxOGJmZTViZGIwMjA1MzY2YjViMDhlYzFiMmM5YTk2OGFhNmNkYjg4YmI3ZjgzZTg4OThlM2FhZDAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Beeheemoth",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Beeheemoth",
+        "mobLevel": 105,
+        "xp": 500,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 35,
+            "maxAmount": 35
+          },
+          {
+            "id": "ENCHANTED_HONEYCOMB",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "LATHERING_GREED",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Fusing §5Queen Bee §7Shard with §5Lunar Moth §7Shard.",
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Dropped by §eBeeheemoth§7."
+            ]
+          },
+          {
+            "id": "FUN_SIZED_POT_OF_HONEYCOMB",
+            "chance": 0.5,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "FAMILY_SIZED_POT_OF_HONEYCOMB",
+            "chance": 0.25,
+            "minAmount": 8,
+            "maxAmount": 8
+          },
+          {
+            "id": "JUMBO_POT_OF_HONEYCOMB",
+            "chance": 0.1,
+            "minAmount": 8,
+            "maxAmount": 8
+          },
+          {
+            "id": "BEHEMOTH_POT_OF_HONEYCOMB",
+            "chance": 0.01,
+            "minAmount": 8,
+            "maxAmount": 8
+          }
+        ]
+      }
+    ]
+  },
   "BEEKEEPER_BARTHOLOMEW_NPC": {
     "island": "foraging_3",
     "position": {
@@ -5343,6 +5542,107 @@
       }
     ]
   },
+  "BLUE_JAY_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTk4NzcxMywKICAicHJvZmlsZUlkIiA6ICI0YTQ1ZmY3NDM2Njk0YTNiYTc3OTdhYTgyN2IwNDM1NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YThjNDA1Y2ExN2Y4YTk2ZDdhMDg4MTRmMDJmMGE3YzcyZGNiMGUzZjY2MDVmYmJjZDkwZTU2Y2MxYzI4NjUwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "BLUE_JAY_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aBlue Jay (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types:  Airborne, §e Timid§7, §a Critter"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7High up in the sky, and your"
+          },
+          {
+            "text": "§7problems seem so far away."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c1,000"
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTk4NzcxMywKICAicHJvZmlsZUlkIiA6ICI0YTQ1ZmY3NDM2Njk0YTNiYTc3OTdhYTgyN2IwNDM1NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YThjNDA1Y2ExN2Y4YTk2ZDdhMDg4MTRmMDJmMGE3YzcyZGNiMGUzZjY2MDVmYmJjZDkwZTU2Y2MxYzI4NjUwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Blue Jay",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Parrot",
+        "mobLevel": 9,
+        "xp": 75,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 3,
+            "maxAmount": 3
+          },
+          {
+            "id": "HELIX_LOG",
+            "chance": 1,
+            "minAmount": 8,
+            "maxAmount": 16
+          },
+          {
+            "id": "EGG",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 4
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 0.1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "ENCHANTED_EGG",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "AIRBORNE_RESISTANCE",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §2Lasso§7."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "BLUE_RINGED_OCTOPUS_SC": {
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTczOTIyODE2NzU4NCwKICAicHJvZmlsZUlkIiA6ICJjZjc4YzFkZjE3ZTI0Y2Q5YTIxYmU4NWQ0NDk5ZWE4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXR0c0FybW9yU3RhbmRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IyYjYwNzRkMGM5ZDZiODlhNDk0Y2Y0Zjc0MTU4MjgyYTY0ZWUyM2JhOGEwNzI1NjMzYWQ3MDkzMmFkYTFhOGYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
     "itemId": "minecraft:player_head",
@@ -6064,6 +6364,123 @@
     "name": "Brigette",
     "type": "NPC"
   },
+  "BRINELING_SC": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjkyOTIyOCwKICAicHJvZmlsZUlkIiA6ICI0YzZhZTVkNzc0ZDE0MjBkYmJiNThjNDMzZGM3NjNlMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJKdXN0VHJhbnNHaXJsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE4ZGRmNDVmMmExNmU2NjJjNjY3NTQxNDIyY2JiZDk0NDM5OGIxYTkwYzUwMGIwMzMwOGIxYzk5YzEwMDAzZDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "BRINELING_SC"
+        },
+        "minecraft:custom_name": {
+          "text": "§3Brineling (Sea Creature)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7An old soul who's ready for a fight!"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c25,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Fished up on §6Torrhus Canyon§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjkyOTIyOCwKICAicHJvZmlsZUlkIiA6ICI0YzZhZTVkNzc0ZDE0MjBkYmJiNThjNDMzZGM3NjNlMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJKdXN0VHJhbnNHaXJsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE4ZGRmNDVmMmExNmU2NjJjNjY3NTQxNDIyY2JiZDk0NDM5OGIxYTkwYzUwMGIwMzMwOGIxYzk5YzEwMDAzZDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Brineling",
+    "type": "Sea Creature",
+    "lootTables": [
+      {
+        "name": "Brineling",
+        "mobLevel": 58,
+        "xp": 0,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 58,
+            "maxAmount": 58
+          },
+          {
+            "id": "HELIX_LOG",
+            "chance": 1,
+            "minAmount": 16,
+            "maxAmount": 32
+          },
+          {
+            "id": "RUBY_VEILSHROOM",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 4
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 0.1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": 0.025,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "SEA_BRINE",
+            "chance": 0.005,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_AQUAMARINE",
+            "chance": 1.9999999999999997e-9,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "ARCANE_RESISTANCE",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Charm §cBrineling§7.",
+              "§7 - Place §6Hunting Traps §7in §bSpring Shallows§7. §7(§bUnderwater§7)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "BROMM_NPC": {
     "island": "crimson_isle",
     "position": {
@@ -6441,6 +6858,96 @@
     },
     "name": "Bulvar",
     "type": "NPC"
+  },
+  "BUNBUN_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTk4NzIyMSwKICAicHJvZmlsZUlkIiA6ICI0MmU4MDAxM2I3ZWE0Y2FkYmE1NDJhZWJmNDVhNjBkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYW1hcmlpaWlpaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MzE4N2E3NzRmNzQ2YjU5ZjE0M2JjMDVjNDY4NDUxMTdhNjk1NDAyYWI2YTkwMWNkYjY2MmJkNTNhZWM5MThmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "BUNBUN_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aBunbun (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Type: §a Critter"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7So cute you just want to take one"
+          },
+          {
+            "text": "§7home."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c250"
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTk4NzIyMSwKICAicHJvZmlsZUlkIiA6ICI0MmU4MDAxM2I3ZWE0Y2FkYmE1NDJhZWJmNDVhNjBkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYW1hcmlpaWlpaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MzE4N2E3NzRmNzQ2YjU5ZjE0M2JjMDVjNDY4NDUxMTdhNjk1NDAyYWI2YTkwMWNkYjY2MmJkNTNhZWM5MThmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Bunbun",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Rabbit",
+        "mobLevel": 4,
+        "xp": 75,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "HELIX_LOG",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 4
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "CHOCOLATE_SPEED",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Place §6Hunting Traps §7in §6Torrhus Canyon§7. §7(§bOn Land§7)"
+            ]
+          }
+        ]
+      }
+    ]
   },
   "BURNINGSOUL_DEMON_MINIBOSS": {
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjc4ZWYyZTRjZjJjNDFhMmQxNGJmZGU5Y2FmZjEwMjE5ZjViMWJmNWIzNWE0OWViNTFjNjQ2Nzg4MmNiNWYwIn19fQ",
@@ -7182,7 +7689,7 @@
           },
           {
             "id": "DYE_AQUAMARINE",
-            "chance": 4.0000000000000003e-7,
+            "chance": 3.9999999999999994e-9,
             "minAmount": 1,
             "maxAmount": 1
           }
@@ -7473,6 +7980,101 @@
     },
     "name": "Charlie",
     "type": "NPC"
+  },
+  "CHEEKY_TIKI_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDMzNjY4MTU3NCwKICAicHJvZmlsZUlkIiA6ICIxMzEzZGFmMDc2OGQ0YmQ5Yjc1ODJkMGI1NWUwZGQxNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMZW50aWNjaGllIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JiMTllNWI3MjE2N2RiNTE3ZmY4YjllMmRkMDczNTk5NjY0MWJkYjZiNjI2N2E3NThhZDI4NjQwMjIwMjNjYjciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "CHEEKY_TIKI_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aCheeky Tiki (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types:  Construct, §2 Woodland"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7They lie dormant but aware, looking"
+          },
+          {
+            "text": "§7to spook fatigued explorers."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c50,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Hunted in §6Torrhus Canyon§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDMzNjY4MTU3NCwKICAicHJvZmlsZUlkIiA6ICIxMzEzZGFmMDc2OGQ0YmQ5Yjc1ODJkMGI1NWUwZGQxNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMZW50aWNjaGllIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JiMTllNWI3MjE2N2RiNTE3ZmY4YjllMmRkMDczNTk5NjY0MWJkYjZiNjI2N2E3NThhZDI4NjQwMjIwMjNjYjciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Cheeky Tiki",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Cheeky Tiki",
+        "mobLevel": 71,
+        "xp": 106,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 23,
+            "maxAmount": 23
+          },
+          {
+            "id": "HELIX_LOG",
+            "chance": 1,
+            "minAmount": 16,
+            "maxAmount": 32
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 0.2,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "BAYOU_TREASURE",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §cPocket Black Hole§7."
+            ]
+          }
+        ]
+      }
+    ]
   },
   "CHEF_RIFT_NPC": {
     "island": "rift",
@@ -11177,6 +11779,102 @@
       }
     ]
   },
+  "DRYBARK_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjAwNDU3OSwKICAicHJvZmlsZUlkIiA6ICI1MTAwZGZmZDI0NDI0M2I0OGQxMmVkZTVkMjgxMzk2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGVjdHJvbmljU2V4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZiYWQ2OTJmYWY2MDQ1MDllOGNlMzQ2YmU5Nzk4MTYyYzEzNjk2ZGJiZTAzZWZmN2M2ZjQ0MmIyOWQxNGM3NzYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "DRYBARK_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aDrybark (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §2 Woodland§7, §a Animal§7, §a Critter"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Ancient tales warn children to be"
+          },
+          {
+            "text": "§7weary of any strange-looking trees."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c50,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Found in Helix §2Tree Gifts§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjAwNDU3OSwKICAicHJvZmlsZUlkIiA6ICI1MTAwZGZmZDI0NDI0M2I0OGQxMmVkZTVkMjgxMzk2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGVjdHJvbmljU2V4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZiYWQ2OTJmYWY2MDQ1MDllOGNlMzQ2YmU5Nzk4MTYyYzEzNjk2ZGJiZTAzZWZmN2M2ZjQ0MmIyOWQxNGM3NzYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Drybark",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Drybark",
+        "mobLevel": 80,
+        "xp": 300,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 26,
+            "maxAmount": 26
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 2
+          },
+          {
+            "id": "PET_ITEM_FORAGING_SKILL_BOOST_RARE",
+            "chance": 0.001,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "AXE_COOLDOWN",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Found in Helix §2Tree Gifts§7."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "DR_HIBBLE_RIFT_NPC": {
     "island": "rift",
     "position": {
@@ -11523,6 +12221,98 @@
     },
     "name": "Dusk",
     "type": "NPC"
+  },
+  "DUSTYBIT_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMTc0MDEwODY2OCwKICAicHJvZmlsZUlkIiA6ICJkNzJlNGJjZDIyZGI0NjQ4OTUxNTc0M2UyYTRmMWFjMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJhdnZheSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85YmNiNjU0MDg2OTIxMmMwZjk2MjYxZjcxYzZmMTk5Njc1YjIyMzQ0NzM4NWEyNjU0YTExZjQxZGM1NmEzNzdlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "DUSTYBIT_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aDustybit (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §6 Subterranean§7, §a Critter"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7They burrow under the sand to keep"
+          },
+          {
+            "text": "§7cool"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c500"
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMTc0MDEwODY2OCwKICAicHJvZmlsZUlkIiA6ICJkNzJlNGJjZDIyZGI0NjQ4OTUxNTc0M2UyYTRmMWFjMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJhdnZheSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85YmNiNjU0MDg2OTIxMmMwZjk2MjYxZjcxYzZmMTk5Njc1YjIyMzQ0NzM4NWEyNjU0YTExZjQxZGM1NmEzNzdlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Dustybit",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Dustybit",
+        "mobLevel": 9,
+        "xp": 150,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 3,
+            "maxAmount": 3
+          },
+          {
+            "id": "RUBY_VEILSHROOM",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 4
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "COMBAT_TRAP",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Fusing §fTadgang §7Shard with §cCombat §7Category.",
+              "§7 - Hunted in §6Torrhus Springs§7.",
+              "§7 - Place §6Hunting Traps §7in §6Spring Path§7.",
+              "§7 - Place §6Hunting Traps §7in §bTorrhus Springs§7. §7(§bOn Land§7)"
+            ]
+          }
+        ]
+      }
+    ]
   },
   "EDELIS_NPC": {
     "island": "crimson_isle",
@@ -12032,6 +12822,103 @@
     },
     "name": "Elmar",
     "type": "NPC"
+  },
+  "EMBER_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzcwMzI2MDgyNSwKICAicHJvZmlsZUlkIiA6ICJlODE1MGY1MjlmZGU0YzdkYjI3OTAyZjJjNmU3NTc5ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcmFkQm90XzIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmY1MWRjNDhmMTQxMDcyMzVkYTQwNjAxODc2MmU4YjMxOWMxMDM2Yzc4NThhYjc0NTk5ZWZiOTNkM2FmNzBlZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "EMBER_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aEmber (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §9 Aquatic§7, §a Critter"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Schools of them light the way for"
+          },
+          {
+            "text": "§7each other."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c250"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Hunted in §bTorrhus Springs§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzcwMzI2MDgyNSwKICAicHJvZmlsZUlkIiA6ICJlODE1MGY1MjlmZGU0YzdkYjI3OTAyZjJjNmU3NTc5ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcmFkQm90XzIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmY1MWRjNDhmMTQxMDcyMzVkYTQwNjAxODc2MmU4YjMxOWMxMDM2Yzc4NThhYjc0NTk5ZWZiOTNkM2FmNzBlZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Ember",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Ember",
+        "mobLevel": 4,
+        "xp": 150,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "RUBY_VEILSHROOM",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 4
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "GALATEA_TRAINING",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with a §3Fishing Net§7.",
+              "§7 - Place §6Hunting Traps §7in §dHotspot Haven§7. §7(§bUnderwater§7)",
+              "§7 - Place §6Hunting Traps §7in §9Spring Depths§7. §7(§bUnderwater§7)"
+            ]
+          }
+        ]
+      }
+    ]
   },
   "EMERALD_SLIME_MONSTER": {
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTc3NGU4NmFhNGNmZjc5MjM5NWI3N2FkZDU3YjAwYmIxYTEwMmY4ZjBmMDk4MGY0ZDU1YjNkN2FmZjFlNmRhOSJ9fX0",
@@ -14098,6 +14985,105 @@
     },
     "name": "Finplex",
     "type": "Rift NPC"
+  },
+  "FIREFOX_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjAwNTIwMywKICAicHJvZmlsZUlkIiA6ICJhYzY1NDYwOWVkZjM0ODhmOTM0ZWNhMDRmNjlkNGIwMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGFjZUd1cmxTa3kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzIyZmMwMjQ4MTAxNjQ1ODhmYzE1M2E4ZTUxNjBlMWQwM2M3NTA5ZGJiZjg4Yjg3MGFkZGJlNmY1YTI5MjY0NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "FIREFOX_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aFirefox (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §2 Woodland§7, §a Animal§7, §a Critter"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Firefoxes glow so brightly in the"
+          },
+          {
+            "text": "§7dark that they can be spotted from"
+          },
+          {
+            "text": "§7nearly a mile away on a clear night"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c2,500"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Found in Helix §2Tree Gifts§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjAwNTIwMywKICAicHJvZmlsZUlkIiA6ICJhYzY1NDYwOWVkZjM0ODhmOTM0ZWNhMDRmNjlkNGIwMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGFjZUd1cmxTa3kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzIyZmMwMjQ4MTAxNjQ1ODhmYzE1M2E4ZTUxNjBlMWQwM2M3NTA5ZGJiZjg4Yjg3MGFkZGJlNmY1YTI5MjY0NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Firefox",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Fox",
+        "mobLevel": 32,
+        "xp": 75,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 10,
+            "maxAmount": 10
+          },
+          {
+            "id": "HELIX_LOG",
+            "chance": 1,
+            "minAmount": 16,
+            "maxAmount": 32
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 0.2,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "TORRHUS_MASTERY",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Found in Helix §2Tree Gifts§7."
+            ]
+          }
+        ]
+      }
+    ]
   },
   "FIREPROOF_WITCH_SC": {
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY1ODA3MzI4MDM2MywKICAicHJvZmlsZUlkIiA6ICI1MjhlYzVmMmEzZmM0MDA0YjYwY2IwOTA5Y2JiMjdjYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdWxpenppIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZjZTY2MDQxNTdmYzRhYjU1OTFlNGJjZjUwN2E3NDk5MThlZTljNDFlMzU3ZDQ3Mzc2ZTBlZTczNDIwNzRjOTAiCiAgICB9CiAgfQp9",
@@ -16865,6 +17851,132 @@
       }
     ]
   },
+  "GIANT_ISOPOD_SC": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzYxNDI3ODk3MSwKICAicHJvZmlsZUlkIiA6ICI3Mjc2ZThmYzVkNjE0ODNjYmMwN2IxYjIzNjI3MDA4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJXYWJvV2ViaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zZmNiMjAzYjAyOWFhYzQ5NTg0MDdkYWY0MDcyYTAxYTM1MzEwNTE2MjM3M2NlN2U1NTljNjY5ZDc4MzI1YmNiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "GIANT_ISOPOD_SC"
+        },
+        "minecraft:custom_name": {
+          "text": "§3Giant Isopod (Sea Creature)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §9 Aquatic§7, §4 Arthropod§7, §d Elusive"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7And you thought the Giant Water"
+          },
+          {
+            "text": "§7Bugs were big..."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c500,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Fished up on §6Torrhus Canyon§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzYxNDI3ODk3MSwKICAicHJvZmlsZUlkIiA6ICI3Mjc2ZThmYzVkNjE0ODNjYmMwN2IxYjIzNjI3MDA4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJXYWJvV2ViaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zZmNiMjAzYjAyOWFhYzQ5NTg0MDdkYWY0MDcyYTAxYTM1MzEwNTE2MjM3M2NlN2U1NTljNjY5ZDc4MzI1YmNiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Giant Isopod",
+    "type": "Sea Creature",
+    "lootTables": [
+      {
+        "name": "Giant Isopod",
+        "mobLevel": 186,
+        "xp": 0,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 930,
+            "maxAmount": 930
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 0.1,
+            "minAmount": 16,
+            "maxAmount": 32
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": 0.025,
+            "minAmount": 8,
+            "maxAmount": 8
+          },
+          {
+            "id": "VEILSHROOM_BUNCH",
+            "chance": 0.05,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "HELIXIS",
+            "chance": 0.05,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "ISOPOD_HUSK",
+            "chance": 0.02,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "REINFORCED_NETTING",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_AQUAMARINE",
+            "chance": 2.0000000000000002e-7,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "FISHERS_FORTUNE",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Charm §cGiant Isopod§7. (§aGuaranteed Drop§7)",
+              "§7 - Place §6Hunting Traps §7in §9Spring Depths§7. §7(§bUnderwater§7)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "GIMLEY_NPC": {
     "island": "mining_3",
     "position": {
@@ -17880,8 +18992,8 @@
             "minAmount": 1,
             "maxAmount": 1,
             "extraLore": [
-              "§7 §7- §7Catch with §cPocket Black Hole§7.",
-              "§7 §7- §7Kill §6Golden Ghoul §7while using §cSalts§7."
+              "§7 §7- §7Charm §6Golden Ghoul§7.",
+              "§7 §7- §7Catch with §cPocket Black Hole§7."
             ]
           }
         ]
@@ -17993,6 +19105,108 @@
             "chance": 1,
             "minAmount": 500,
             "maxAmount": 500
+          }
+        ]
+      }
+    ]
+  },
+  "GOLDOLOT_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMTgyMjg2ODE0NywKICAicHJvZmlsZUlkIiA6ICI0MmIwOTMyZDUwMWI0MWQ1YTM4YjEwOTcxYTYwYmYxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBaXJib2x0MDc4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ0MjM1ZGE3YjNhMGFhY2NjZGJhM2Q4ZTEzYzYxZWNjODc0YzdhZWZhNDk0MzM5MDNiOGNmNDM3NGE5YmY1NmEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "GOLDOLOT_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aGoldolot (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §a Critter§7, §e Timid§7, §d Elusive"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Though afraid of people, they get"
+          },
+          {
+            "text": "§7along with the other denizens of"
+          },
+          {
+            "text": "§7Torrhus."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c1,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Hunted in §bTorrhus Springs§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMTgyMjg2ODE0NywKICAicHJvZmlsZUlkIiA6ICI0MmIwOTMyZDUwMWI0MWQ1YTM4YjEwOTcxYTYwYmYxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBaXJib2x0MDc4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ0MjM1ZGE3YjNhMGFhY2NjZGJhM2Q4ZTEzYzYxZWNjODc0YzdhZWZhNDk0MzM5MDNiOGNmNDM3NGE5YmY1NmEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Goldolot",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Sepialot",
+        "mobLevel": 13,
+        "xp": 300,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 4,
+            "maxAmount": 4
+          },
+          {
+            "id": "RUBY_VEILSHROOM",
+            "chance": 1,
+            "minAmount": 8,
+            "maxAmount": 16
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": 0.1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "ECHO_OF_BUCKETS",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with a §3Fishing Net§7.",
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Place §6Hunting Traps §7in §9Spring Depths§7. §7(§bUnderwater§7)",
+              "§7 - Place §6Hunting Traps §7in §bSpring Shallows§7. §7(§bUnderwater§7)",
+              "§7 - Place §6Hunting Traps §7in §bTorrhus Springs§7. §7(§bOn Land§7)"
+            ]
           }
         ]
       }
@@ -18684,13 +19898,13 @@
           },
           {
             "id": "DYE_MIDNIGHT",
-            "chance": 0.00002,
+            "chance": 2.0000000000000002e-7,
             "minAmount": 1,
             "maxAmount": 1
           },
           {
             "id": "DYE_AQUAMARINE",
-            "chance": 0.00002,
+            "chance": 2.0000000000000002e-7,
             "minAmount": 1,
             "maxAmount": 1
           }
@@ -18782,7 +19996,13 @@
           },
           {
             "id": "DYE_ICEBERG",
-            "chance": 0.000002,
+            "chance": 2e-8,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_AQUAMARINE",
+            "chance": 3.9999999999999994e-9,
             "minAmount": 1,
             "maxAmount": 1
           }
@@ -18826,6 +20046,104 @@
     "name": "Gris",
     "type": "NPC"
   },
+  "GRIZZLY_BEAR_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjAzMzc5NjI5NywKICAicHJvZmlsZUlkIiA6ICJjMjVlMWMxZTE1YTQ0N2IwOTQ2Zjg2YzYzYzhjYjZkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiaWdpYm9zMzIxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU0MDYxMDhhYTZiZGRhNzNkZjEyMjQ1NGFhNDI1MGVjMGNkNDU3ZmQzMThhODkzZDlkN2M1NGQ5YzA3NjExNjgiCiAgICB9CiAgfQp9",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "GRIZZLY_BEAR_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aGrizzly Bear (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §2 Woodland§7, §a Animal§7, §d Elusive"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7On rainy days it becomes a drizzly"
+          },
+          {
+            "text": "§7bear."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c200,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Found in Helix §2Tree Gifts§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NjAzMzc5NjI5NywKICAicHJvZmlsZUlkIiA6ICJjMjVlMWMxZTE1YTQ0N2IwOTQ2Zjg2YzYzYzhjYjZkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiaWdpYm9zMzIxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU0MDYxMDhhYTZiZGRhNzNkZjEyMjQ1NGFhNDI1MGVjMGNkNDU3ZmQzMThhODkzZDlkN2M1NGQ5YzA3NjExNjgiCiAgICB9CiAgfQp9"
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Grizzly Bear",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Grizzly Bear",
+        "mobLevel": 101,
+        "xp": 151,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 33,
+            "maxAmount": 33
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 1,
+            "minAmount": 8,
+            "maxAmount": 16
+          },
+          {
+            "id": "HELIXIS",
+            "chance": 0.1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "TOUGH_CLAWS",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §cPocket Black Hole§7.",
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Charm §cQueen Ant§7. (§aGuaranteed Drop§7)",
+              "§7 - Found in Helix §2Tree Gifts§7."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "GROG_NPC": {
     "island": "crimson_isle",
     "position": {
@@ -18861,6 +20179,108 @@
     },
     "name": "Grog",
     "type": "NPC"
+  },
+  "GROUNDHOG_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjAwNTc3NSwKICAicHJvZmlsZUlkIiA6ICI3NzQ3ODc3M2ExZTE0NzUxODE0M2Q5ZDA5YTc1NmQ2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3aGF0YXJlZmVycmV0cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YzcxYWQxNzQyYTUxMzc4NTU5YjA1MjFlNDRkZGJkNWM3ODhjNzM0YWU1ZmJkZDU4ZDEwNDQzY2YwOTY3N2M4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "GROUNDHOG_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aGroundhog (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §2 Woodland§7, §a Animal§7, §a Critter"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7The Complex tunnel systems of"
+          },
+          {
+            "text": "§7Torrhus Canyon are hotly contested"
+          },
+          {
+            "text": "§7by many creatures, Groundhogs"
+          },
+          {
+            "text": "§7included"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c5,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Found in Helix §2Tree Gifts§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjAwNTc3NSwKICAicHJvZmlsZUlkIiA6ICI3NzQ3ODc3M2ExZTE0NzUxODE0M2Q5ZDA5YTc1NmQ2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3aGF0YXJlZmVycmV0cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YzcxYWQxNzQyYTUxMzc4NTU5YjA1MjFlNDRkZGJkNWM3ODhjNzM0YWU1ZmJkZDU4ZDEwNDQzY2YwOTY3N2M4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Groundhog",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Groundhog",
+        "mobLevel": 42,
+        "xp": 75,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 14,
+            "maxAmount": 14
+          },
+          {
+            "id": "HELIX_LOG",
+            "chance": 1,
+            "minAmount": 16,
+            "maxAmount": 32
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 0.2,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "DIURNAL_ANIMAL",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Found in Helix §2Tree Gifts§7."
+            ]
+          }
+        ]
+      }
+    ]
   },
   "GRUMBLEFOOT_NPC": {
     "island": "hub",
@@ -19407,6 +20827,123 @@
     "name": "Gwynnie",
     "type": "NPC"
   },
+  "HAGGARD_SC": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjAwNjAwMywKICAicHJvZmlsZUlkIiA6ICIxZjk0OTQzN2RlYmQ0ODgyYTlhYzZhZmZmN2RhNDcxMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWlra2FLIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgzN2JlNzc4MWEzYWU0NDU0ZjQ2NzBlMTY4NmRjMTdhMDdkZDMyMWQ2ZjY3MGJhODBmOTFlMzkxZjA3NjMzMjEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "HAGGARD_SC"
+        },
+        "minecraft:custom_name": {
+          "text": "§3Haggard (Sea Creature)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §f Skeletal§7, §9 Aquatic"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7An old soul who's ready for a fight!"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c10,000"
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjAwNjAwMywKICAicHJvZmlsZUlkIiA6ICIxZjk0OTQzN2RlYmQ0ODgyYTlhYzZhZmZmN2RhNDcxMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWlra2FLIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgzN2JlNzc4MWEzYWU0NDU0ZjQ2NzBlMTY4NmRjMTdhMDdkZDMyMWQ2ZjY3MGJhODBmOTFlMzkxZjA3NjMzMjEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Haggard",
+    "type": "Sea Creature",
+    "lootTables": [
+      {
+        "name": "Haggard",
+        "mobLevel": 44,
+        "xp": 0,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 33,
+            "maxAmount": 33
+          },
+          {
+            "id": "BONE",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 4
+          },
+          {
+            "id": "HELIX_LOG",
+            "chance": 1,
+            "minAmount": 8,
+            "maxAmount": 16
+          },
+          {
+            "id": "RUBY_VEILSHROOM",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 2
+          },
+          {
+            "id": "ENCHANTED_BONE",
+            "chance": 0.02,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 0.05,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_AQUAMARINE",
+            "chance": 1.9999999999999997e-9,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "SKELETAL_RESISTANCE",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Charm §cHaggard§7.",
+              "§7 - Place §6Hunting Traps §7in §bSpring Shallows§7. §7(§bUnderwater§7)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "HARPY_MONSTER": {
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc1NTY0NDM0MTE4NywKICAicHJvZmlsZUlkIiA6ICI2MTU1NTMyOTY2OWM0ZDA5YmFiOGJlNDNkYWUwYTRjMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmaTAxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NzBlZTkxZWUxYTAwNTkzMzFkN2VjOTI0YTA5Yjg2NDgwYmQ5NmRhZTE5MTRmZjg1YzJjZDNiNzEzNGFiNjgzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
     "itemId": "minecraft:player_head",
@@ -19884,6 +21421,102 @@
     "name": "Hendrik",
     "type": "NPC"
   },
+  "HEWVER_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MDU4NCwKICAicHJvZmlsZUlkIiA6ICI1OGZmZWI5NTMxNGQ0ODcwYTQwYjVjYjQyZDRlYTU5OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa2luREJuZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTNhMDM0ZTdlZDI2OWZiNGI3ZDNjZDg2NjJjZDk5N2JlODQ2MDVlMDI5YjllNzBjMTg0YjdlNTk3ZWI0MWIzNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "HEWVER_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aHewver (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §2 Woodland"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Unaware it even eats critters, just"
+          },
+          {
+            "text": "§7thinks the floor tastes nice."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c50,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Found when lathering §aFig Trees§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MDU4NCwKICAicHJvZmlsZUlkIiA6ICI1OGZmZWI5NTMxNGQ0ODcwYTQwYjVjYjQyZDRlYTU5OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa2luREJuZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTNhMDM0ZTdlZDI2OWZiNGI3ZDNjZDg2NjJjZDk5N2JlODQ2MDVlMDI5YjllNzBjMTg0YjdlNTk3ZWI0MWIzNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Hewver",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Hewver",
+        "mobLevel": 69,
+        "xp": 104,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 23,
+            "maxAmount": 23
+          },
+          {
+            "id": "ENCHANTED_HONEYCOMB",
+            "chance": 1,
+            "minAmount": 4,
+            "maxAmount": 8
+          },
+          {
+            "id": "ENCHANTED_FIG_LOG",
+            "chance": 1,
+            "minAmount": 8,
+            "maxAmount": 16
+          },
+          {
+            "type": "attribute",
+            "id": "CRITTER_FORTUNE",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Lather §6Honeycomb §7on §aFig Trees§7."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "HIDEONLEAF_MONSTER": {
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMzA4Mjc2NzIzNSwKICAicHJvZmlsZUlkIiA6ICI5OWY1MzhjMDhlN2E0NTg3YmU4MGJjNGVmNzU0ZmQyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb2xvV1MyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkwYjNiZGM5ODFiODE3NTRhMjU2MzViZWEyZGVmOTNmOTkyYzA0MDc5ODFjZDdjNTAwYWQ0OWQxY2FkYTA0YWYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
     "itemId": "minecraft:player_head",
@@ -19898,10 +21531,28 @@
         },
         "minecraft:lore": [
           {
-            "text": "§c❤ Health§8: §c1"
+            "text": "§7Mob Types: §a Critter§7, §2 Woodland"
           },
           {
-            "text": "§c❁ Damage§8: §c1"
+            "text": ""
+          },
+          {
+            "text": "§7Watch the foliage for the slightest"
+          },
+          {
+            "text": "§7sign of movement."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c2,500"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Hunted in the §2Moonglade Marsh§7."
           }
         ],
         "minecraft:profile": {
@@ -19924,10 +21575,17 @@
     "lootTables": [
       {
         "name": "Hideonleaf",
-        "mobLevel": 0,
-        "xp": 0,
+        "mobLevel": 14,
+        "xp": 75,
         "combatXp": 0,
         "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 4,
+            "maxAmount": 4
+          },
           {
             "type": "attribute",
             "id": "MOSSY_BOX",
@@ -19935,7 +21593,102 @@
             "minAmount": 1,
             "maxAmount": 1,
             "extraLore": [
-              "§7 §7- §7Hunted on §2Galatea§7."
+              "§7 - Hunted in §2Moonglade Marsh§7."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "HIDEONSUN_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMzA4Mjg0NzA3NywKICAicHJvZmlsZUlkIiA6ICI4NDIzMzM5MTYwMjY0NjBiOWQ1MGFjZWU3MThiMjkxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmaXJlc2xpbmdlciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MzM3ODFkYTUzYmUwNGNkN2I0ODMzNWRlNzIxMTIxNWQ3OTk2OGRjNzYyMjcwYWFhOTkyYzNlMzU0ZDcwNDUxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "HIDEONSUN_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aHideonsun (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §a Cubic§7, §a Critter"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Its colouring helps it blend in with the"
+          },
+          {
+            "text": "§7rest of the canyon."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c5,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Hunted in §6Torrhus Canyon§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMzA4Mjg0NzA3NywKICAicHJvZmlsZUlkIiA6ICI4NDIzMzM5MTYwMjY0NjBiOWQ1MGFjZWU3MThiMjkxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmaXJlc2xpbmdlciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MzM3ODFkYTUzYmUwNGNkN2I0ODMzNWRlNzIxMTIxNWQ3OTk2OGRjNzYyMjcwYWFhOTkyYzNlMzU0ZDcwNDUxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Hideonsun",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Hideonsun",
+        "mobLevel": 24,
+        "xp": 75,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 8,
+            "maxAmount": 8
+          },
+          {
+            "id": "HELIX_LOG",
+            "chance": 1,
+            "minAmount": 16,
+            "maxAmount": 32
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 0.2,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "GOLD_BOX",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Hunted in §6Torrhus Canyon§7."
             ]
           }
         ]
@@ -20014,6 +21767,105 @@
     "name": "Hina",
     "type": "NPC"
   },
+  "HIVETHIEF_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MjM3NCwKICAicHJvZmlsZUlkIiA6ICJjOWZkZjFiMThhZGI0MGE3OTQwMzMyMTg3NThhZDJkMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJfc3BhY2VfODAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjBjN2FhZTIxZWY4ODA3ZjY5YTdlYzhlMjk0NWU2MmVhZTI0OTY5MmJiYmU5M2IzM2M4ZGFlMTUwMGI5Mzg1NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "HIVETHIEF_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aHivethief (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §a Cubic§7,  Airborne, §a Critter"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7The bee equivalent of a UFO."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c50,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Found when lathering §6Helix Trees§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MjM3NCwKICAicHJvZmlsZUlkIiA6ICJjOWZkZjFiMThhZGI0MGE3OTQwMzMyMTg3NThhZDJkMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJfc3BhY2VfODAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjBjN2FhZTIxZWY4ODA3ZjY5YTdlYzhlMjk0NWU2MmVhZTI0OTY5MmJiYmU5M2IzM2M4ZGFlMTUwMGI5Mzg1NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Hivethief",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Hive Thief",
+        "mobLevel": 80,
+        "xp": 300,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 26,
+            "maxAmount": 26
+          },
+          {
+            "id": "ENCHANTED_HONEYCOMB",
+            "chance": 1,
+            "minAmount": 4,
+            "maxAmount": 8
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 1,
+            "minAmount": 8,
+            "maxAmount": 16
+          },
+          {
+            "id": "HELIXIS",
+            "chance": 0.15,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "CUBIC_FORTUNE",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Lather §6Honeycomb §7on §6Helix Trees§7."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "HOLY_LOST_ADVENTURER_MINIBOSS": {
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTljYzhiYTI2NzkzMjE4ZjZmNjQ5MTk0N2ExODM3ZmQ1Mjg3ODcwMWYzM2Y3NmJiZTI4ODNhNDVhYmE4YWI4ZiJ9fX0K",
     "itemId": "minecraft:player_head",
@@ -20091,6 +21943,295 @@
             "chance": 1,
             "minAmount": 3,
             "maxAmount": 5
+          }
+        ]
+      }
+    ]
+  },
+  "HONEYBUZZ_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3NjgwNDIzOTU2NywKICAicHJvZmlsZUlkIiA6ICJkNGUwNTFjZGRhNDU0NTUxYjk1ZWRiZjdkNTM1ZTA3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGVtZW50YWxfTWF4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg5MGVmYzhhYTVhYWMyNzQyYWIwNDU2NDUwMWM0ZjU2ZTljNzE2OWIyNzJkMDUzMGY3OGMyMDk4NjU1Nzc5MjgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "HONEYBUZZ_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aHoneybuzz (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types:  Airborne, §a Critter"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7So cute you just want to take one"
+          },
+          {
+            "text": "§7home."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c500"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Found when reaching into §6Honeyhives§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3NjgwNDIzOTU2NywKICAicHJvZmlsZUlkIiA6ICJkNGUwNTFjZGRhNDU0NTUxYjk1ZWRiZjdkNTM1ZTA3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGVtZW50YWxfTWF4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg5MGVmYzhhYTVhYWMyNzQyYWIwNDU2NDUwMWM0ZjU2ZTljNzE2OWIyNzJkMDUzMGY3OGMyMDk4NjU1Nzc5MjgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Honeybuzz",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Honeybuzz",
+        "mobLevel": 9,
+        "xp": 75,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 3,
+            "maxAmount": 3
+          },
+          {
+            "id": "HONEYCOMB",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 4
+          },
+          {
+            "id": "ENCHANTED_HONEYCOMB",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "HONEY_HAUL",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Found in §6Honeyhives§7."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "HONEYHOG_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MTg0MiwKICAicHJvZmlsZUlkIiA6ICI1MTAwZGZmZDI0NDI0M2I0OGQxMmVkZTVkMjgxMzk2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGVjdHJvbmljU2V4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI4N2JlNDVlNDUzYjgzMmY5YWNjZWU1NzA5Yjk0MzEzZjcxNjU1NGU5M2JmYWRiNmQzNjdhODNlNDNhZDZkOTciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "HONEYHOG_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aHoneyhog (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §2 Woodland§7, §a Critter"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Though still an adolescent, it will"
+          },
+          {
+            "text": "§7defend honey with its life."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c2,500"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Found when lathering §aFig Trees§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MTg0MiwKICAicHJvZmlsZUlkIiA6ICI1MTAwZGZmZDI0NDI0M2I0OGQxMmVkZTVkMjgxMzk2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGVjdHJvbmljU2V4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI4N2JlNDVlNDUzYjgzMmY5YWNjZWU1NzA5Yjk0MzEzZjcxNjU1NGU5M2JmYWRiNmQzNjdhODNlNDNhZDZkOTciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Honeyhog",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Honeyhog",
+        "mobLevel": 32,
+        "xp": 48,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 11,
+            "maxAmount": 11
+          },
+          {
+            "id": "ENCHANTED_HONEYCOMB",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 2
+          },
+          {
+            "id": "ENCHANTED_FIG_LOG",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 4
+          },
+          {
+            "type": "attribute",
+            "id": "HONEY_SPEED",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Lather §6Honeycomb §7on §aFig Trees§7."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "HONEYMITE_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MjA4NSwKICAicHJvZmlsZUlkIiA6ICI3NzQ3ODc3M2ExZTE0NzUxODE0M2Q5ZDA5YTc1NmQ2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3aGF0YXJlZmVycmV0cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMjE5MjA3MGIwOWRkODVmNzY2MDk2NWE3MDQ3NGY2MjhjODc3YzA3YWZmMTRkZjU2ZjM3YmQ2MWRmMmUwOGMyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "HONEYMITE_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aHoneymite (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §2 Woodland§7,  §4 Arthropod"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Loves honey, the bees are just"
+          },
+          {
+            "text": "§7collateral."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c20,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Found when lathering §aFig Trees§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MjA4NSwKICAicHJvZmlsZUlkIiA6ICI3NzQ3ODc3M2ExZTE0NzUxODE0M2Q5ZDA5YTc1NmQ2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3aGF0YXJlZmVycmV0cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMjE5MjA3MGIwOWRkODVmNzY2MDk2NWE3MDQ3NGY2MjhjODc3YzA3YWZmMTRkZjU2ZjM3YmQ2MWRmMmUwOGMyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Honeymite",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Honeymite",
+        "mobLevel": 52,
+        "xp": 78,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 18,
+            "maxAmount": 18
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 2
+          },
+          {
+            "id": "PET_ITEM_FORAGING_SKILL_BOOST_RARE",
+            "chance": 0.001,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "AXE_COOLDOWN",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §cPocket Black Hole§7.",
+              "§7 - Charm §cHoneymite§7.",
+              "§7 - Lather §6Honeycomb §7on §aFig Trees§7."
+            ]
           }
         ]
       }
@@ -30795,6 +32936,204 @@
     "name": "Motes Grubber",
     "type": "Rift NPC"
   },
+  "MOUNTAIN_GOAT_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNjIzNDI0MSwKICAicHJvZmlsZUlkIiA6ICI2YmU4ODdiZmRmZTk0OWQ0OGViZTcyYzA3OWM3ZGEyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGcmFuY3l2b2wiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmI0ZGRmZTZiOGI1Y2ZiMDNiZTZhMTczYmJiN2RmYzRhZDVkYzliN2ZkMzRkYzhlODRmYTdmNzFjMWI4NWEwMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "MOUNTAIN_GOAT_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aMountain Goat (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §a Critter"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Sometimes all that stands between"
+          },
+          {
+            "text": "§7you and the summit is an angry goat."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c20,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Hunted in §6Torrhus Canyon§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNjIzNDI0MSwKICAicHJvZmlsZUlkIiA6ICI2YmU4ODdiZmRmZTk0OWQ0OGViZTcyYzA3OWM3ZGEyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGcmFuY3l2b2wiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmI0ZGRmZTZiOGI1Y2ZiMDNiZTZhMTczYmJiN2RmYzRhZDVkYzliN2ZkMzRkYzhlODRmYTdmNzFjMWI4NWEwMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Mountain Goat",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Mountain Goat",
+        "mobLevel": 55,
+        "xp": 500,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 18,
+            "maxAmount": 18
+          },
+          {
+            "id": "HELIX_LOG",
+            "chance": 1,
+            "minAmount": 32,
+            "maxAmount": 64
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 0.4,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "SOCIAL_WISDOM",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Place §6Hunting Traps §7in §6Spring Path§7."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "MURKBAT_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjgwMzA3NywKICAicHJvZmlsZUlkIiA6ICI3MjU1MDA3NjQzYzQ0YTZiYjM3MjJlNzc3OTk5OTFkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4ZW50YW55IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FlYTNiMDAyMGQwM2EzYWVmNzJiYTE4ZjliMTkwOTM5NjgzYTZhNWEwMmMxMzAyM2VlYTY3ZmFmYWFlNjZkNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "MURKBAT_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aMurkbat (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types:  Airborne, §a Critter"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Drawn to the scent of mangrove"
+          },
+          {
+            "text": "§7trees."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c25,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Found when lathering §2Mangrove Trees§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjgwMzA3NywKICAicHJvZmlsZUlkIiA6ICI3MjU1MDA3NjQzYzQ0YTZiYjM3MjJlNzc3OTk5OTFkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4ZW50YW55IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FlYTNiMDAyMGQwM2EzYWVmNzJiYTE4ZjliMTkwOTM5NjgzYTZhNWEwMmMxMzAyM2VlYTY3ZmFmYWFlNjZkNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Murkbat",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Murkbat",
+        "mobLevel": 58,
+        "xp": 300,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 19,
+            "maxAmount": 19
+          },
+          {
+            "id": "ENCHANTED_HONEYCOMB",
+            "chance": 1,
+            "minAmount": 4,
+            "maxAmount": 8
+          },
+          {
+            "id": "ENCHANTED_MANGROVE_LOG",
+            "chance": 1,
+            "minAmount": 8,
+            "maxAmount": 16
+          },
+          {
+            "id": "MANGCORE",
+            "chance": 0.15,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "REKINDLE",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Lather §6Honeycomb §7on §2Mangrove Trees§7."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "MUSHROOM_BULL_MONSTER": {
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTE2M2JjNDE2YjhlNjA1OGY5MmIyMzFlOWE1MjRiN2ZlMTE4ZWI2ZTdlZWFiNGFkMTZkMWI1MmEzZWMwNGZjZCJ9fX0=",
     "itemId": "minecraft:player_head",
@@ -33652,6 +35991,198 @@
     },
     "name": "Pam",
     "type": "NPC"
+  },
+  "PANGOLIN_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MjE3OSwKICAicHJvZmlsZUlkIiA6ICI1ZTI1YzI0ZmIxMGI0MTlmOWIzYTQzMWIyOTYzYjQ2YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2NHIxbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MzgwYzEwMTVhMTlhNGI2ZjJmNDVjMmJjNzhlODc4NzUyZWRhMmZjMjYzYTY4ZGEzOTg3NmFmZGQwYjA0OWRkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "PANGOLIN_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aPangolin (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §a Critter§7, §e Timid§7, §a Animal"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Rolls into a tight ball when"
+          },
+          {
+            "text": "§7threatened."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c2,500"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Hunted in §6Torrhus Canyon§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MjE3OSwKICAicHJvZmlsZUlkIiA6ICI1ZTI1YzI0ZmIxMGI0MTlmOWIzYTQzMWIyOTYzYjQ2YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2NHIxbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MzgwYzEwMTVhMTlhNGI2ZjJmNDVjMmJjNzhlODc4NzUyZWRhMmZjMjYzYTY4ZGEzOTg3NmFmZGQwYjA0OWRkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Pangolin",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Pangolin",
+        "mobLevel": 14,
+        "xp": 300,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 4,
+            "maxAmount": 4
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 2
+          },
+          {
+            "id": "HELIXIS",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "ATOMIZED_WHISPERS",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §2Lasso§7."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "PARCHED_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MDk2OCwKICAicHJvZmlsZUlkIiA6ICJhYzY1NDYwOWVkZjM0ODhmOTM0ZWNhMDRmNjlkNGIwMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGFjZUd1cmxTa3kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2JhYjI2ZWExZTk1NDY4MWU1ZmQ4MmY3M2QwMTVjNTM3MDIxMjFjYzFjYzIxOGViYTUxY2I3Y2ZiMTA2MWFiYyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "PARCHED_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aParched (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §2 Woodland§7, §2 Undead"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7It shall remain thirsty, no matter how"
+          },
+          {
+            "text": "§7much it drinks."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c25,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Found when lathering §6Helix Trees§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MDk2OCwKICAicHJvZmlsZUlkIiA6ICJhYzY1NDYwOWVkZjM0ODhmOTM0ZWNhMDRmNjlkNGIwMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGFjZUd1cmxTa3kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2JhYjI2ZWExZTk1NDY4MWU1ZmQ4MmY3M2QwMTVjNTM3MDIxMjFjYzFjYzIxOGViYTUxY2I3Y2ZiMTA2MWFiYyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Parched",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Parched",
+        "mobLevel": 24,
+        "xp": 75,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 8,
+            "maxAmount": 8
+          },
+          {
+            "id": "ENCHANTED_HONEYCOMB",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 4
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 1,
+            "minAmount": 4,
+            "maxAmount": 8
+          },
+          {
+            "type": "attribute",
+            "id": "VISITOR_COMPOST",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §cPocket Black Hole§7.",
+              "§7 - Charm §cParched§7.",
+              "§7 - Lather §6Honeycomb §7on §6Helix Trees§7."
+            ]
+          }
+        ]
+      }
+    ]
   },
   "PAT_NPC": {
     "island": "hub",
@@ -36865,6 +39396,102 @@
       }
     ]
   },
+  "POLLENDART_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjgwMzc4OCwKICAicHJvZmlsZUlkIiA6ICI4OGQ1NDUxYjFlZjg0MjdlYWZmMmVlNDEwZjMzNDJmMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEb25hbGRUcnVtcDQyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgxNTBhYmExMDY5NDQ4MDRjMzkwZTdkYzcwMmRhMzY0NTVlZmRjMDE2OTZmMzNkZjE0ZDdmMTQ0NjY5YWIxYTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "POLLENDART_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aPollendart (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §a Critter§7,  Airborne"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Nobody has ever reported being"
+          },
+          {
+            "text": "§7stung by one."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c2,500"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Found when lathering §6Helix Trees§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjgwMzc4OCwKICAicHJvZmlsZUlkIiA6ICI4OGQ1NDUxYjFlZjg0MjdlYWZmMmVlNDEwZjMzNDJmMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEb25hbGRUcnVtcDQyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgxNTBhYmExMDY5NDQ4MDRjMzkwZTdkYzcwMmRhMzY0NTVlZmRjMDE2OTZmMzNkZjE0ZDdmMTQ0NjY5YWIxYTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Pollendart",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Pollendart",
+        "mobLevel": 24,
+        "xp": 36,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 8,
+            "maxAmount": 8
+          },
+          {
+            "id": "ENCHANTED_HONEYCOMB",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 2
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 4
+          },
+          {
+            "type": "attribute",
+            "id": "HONEY_LUCK",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Lather §6Honeycomb §7on §6Helix Trees§7."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "POMTAIR_NPC": {
     "island": "crimson_isle",
     "position": {
@@ -37819,6 +40446,102 @@
     "name": "Protester Violetta",
     "type": "Rift NPC"
   },
+  "PUCK_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjgwMTU0NSwKICAicHJvZmlsZUlkIiA6ICIwNWU0OTczZTk5ZDk0NGY2YjczNjY3ZTEzMzdiY2IzOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lX1NraW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDY5MDJhYmJmNTI2N2U5ODVlM2UwZDRlYmEwMzU4MDkzMTMzNDQxYmIwOGNlZTQ0ZWQzMTM2ODc4ZDMwN2FmOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "PUCK_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aPuck (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §2 Woodland§7,  Airborne, §a Critter"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7If they seem to be behaving, it means"
+          },
+          {
+            "text": "§7they've done bad elsewhere."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c25,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Found in Helix §2Tree Gifts§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjgwMTU0NSwKICAicHJvZmlsZUlkIiA6ICIwNWU0OTczZTk5ZDk0NGY2YjczNjY3ZTEzMzdiY2IzOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lX1NraW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDY5MDJhYmJmNTI2N2U5ODVlM2UwZDRlYmEwMzU4MDkzMTMzNDQxYmIwOGNlZTQ0ZWQzMTM2ODc4ZDMwN2FmOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Puck",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Puck",
+        "mobLevel": 58,
+        "xp": 300,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 19,
+            "maxAmount": 19
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 2
+          },
+          {
+            "id": "BOTTLED_MISCHIEF",
+            "chance": 0.05,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "FOREST_SERENDIPITY",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Found in Helix §2Tree Gifts§7."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "PUDDLE_JUMPER_SC": {
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc0NjQ2Mzc5MTAxNSwKICAicHJvZmlsZUlkIiA6ICJjNDIzYjQwMWZiOGU0ODc3YjMzMmVmMjhiZDdlZGZmZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFjdGlvbkJyaW5lWVQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDcxYTI0M2U1MzEwMDhiODM5MzhkMDI2NzFlNmYyNjQ0YWQ1ZGQ1MzMwNWJhYmJhMmJlMTI0YzViZTJjMWYxMSIKICAgIH0KICB9Cn0=",
     "itemId": "minecraft:player_head",
@@ -38089,6 +40812,97 @@
             "chance": 4.0000000000000003e-7,
             "minAmount": 1,
             "maxAmount": 1
+          }
+        ]
+      }
+    ]
+  },
+  "QUEEN_ANT_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA0NDYwNSwKICAicHJvZmlsZUlkIiA6ICI0N2U2MjJjNmE1OWU0NmNhOWU3OGNjYzE1ZDliNzhhZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbnRpbGFmTVgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzIxZmNmOTBkOTA5MGRlOGZkNzIwY2IyODE3YTRkZmRjMjI4M2U4MjhmZDQ0ZjhiZmRjN2ZmOWE4NTA1Y2MiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "QUEEN_ANT_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aQueen Ant (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §2 Pest§7, §a Animal§7, §d Elusive"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Ruler of Torrhus Canyon's ant"
+          },
+          {
+            "text": "§7colony."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c25,000"
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA0NDYwNSwKICAicHJvZmlsZUlkIiA6ICI0N2U2MjJjNmE1OWU0NmNhOWU3OGNjYzE1ZDliNzhhZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbnRpbGFmTVgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzIxZmNmOTBkOTA5MGRlOGZkNzIwY2IyODE3YTRkZmRjMjI4M2U4MjhmZDQ0ZjhiZmRjN2ZmOWE4NTA1Y2MiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Queen Ant",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Queen Ant",
+        "mobLevel": 69,
+        "xp": 0,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 23,
+            "maxAmount": 23
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 2
+          },
+          {
+            "id": "HELIXIS",
+            "chance": 0.001,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "ELUSIVE_RULER",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Fusing §fAnt §7Shard with §5Queen Bee §7Shard.",
+              "§7 - Charm §cQueen Ant§7. (§aGuaranteed Drop§7)",
+              "§7 - Place §6Hunting Traps §7in §6Ant's Cave§7."
+            ]
           }
         ]
       }
@@ -43546,6 +46360,109 @@
     "name": "Selenar",
     "type": "NPC"
   },
+  "SEPIALOT_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMTgyMjg4ODg3OSwKICAicHJvZmlsZUlkIiA6ICJjMzI3NDg4ZmRlOTg0MzMyYjljMzNjNzRkN2IyNWNkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBTVlfVXdVMTQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzZhZTFkOWZlN2I2YWM1MGVhNDY1NDFmYTAxZDZmZjc1YTIzNmYyYTMzN2Q4NDU2NWU5MTg3OGYyZTc5ZmVkZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "SEPIALOT_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aSepialot (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §a Critter§7, §e Timid§7, §9 Aquatic"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Though afraid of people, they get"
+          },
+          {
+            "text": "§7along with the other denizens of"
+          },
+          {
+            "text": "§7Torrhus."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c500"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Hunted in §bTorrhus Springs§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMTgyMjg4ODg3OSwKICAicHJvZmlsZUlkIiA6ICJjMzI3NDg4ZmRlOTg0MzMyYjljMzNjNzRkN2IyNWNkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBTVlfVXdVMTQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzZhZTFkOWZlN2I2YWM1MGVhNDY1NDFmYTAxZDZmZjc1YTIzNmYyYTMzN2Q4NDU2NWU5MTg3OGYyZTc5ZmVkZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Sepialot",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Sepialot",
+        "mobLevel": 9,
+        "xp": 150,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 3,
+            "maxAmount": 3
+          },
+          {
+            "id": "RUBY_VEILSHROOM",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 4
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "BUCKET_GREED",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with a §3Fishing Net§7.",
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Place §6Hunting Traps §7in §6Torrhus Canyon§7. §7(§bOn Land§7)",
+              "§7 - Place §6Hunting Traps §7in §9Spring Depths§7. §7(§bUnderwater§7)",
+              "§7 - Place §6Hunting Traps §7in §bSpring Shallows§7. §7(§bUnderwater§7)",
+              "§7 - Place §6Hunting Traps §7in §bTorrhus Springs§7. §7(§bOn Land§7)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "SERAPHINE_RIFT_NPC": {
     "island": "rift",
     "position": {
@@ -44197,6 +47114,101 @@
     "name": "Shifty",
     "type": "NPC"
   },
+  "SHRIEKY_TIKI_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDMzNjgzMDI4OSwKICAicHJvZmlsZUlkIiA6ICI2OTU3YjQyOTZiOTI0NGJkOGQzNWJiZGU4M2JiZDI3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjb2xpblBBUEEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjYyYmVmOGNhNThkODM3NjZjN2UyNmY5ZmI0ZmUwNmMxMWI5MzU0MmE5YzEwZjM2ZjQ2MGEzYjQyNzc0ODIyMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "SHRIEKY_TIKI_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aShrieky Tiki (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types:  Construct, §2 Woodland"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7They lie dormant but aware, looking"
+          },
+          {
+            "text": "§7to spook fatigued explorers."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c50,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Hunted in §6Torrhus Canyon§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDMzNjgzMDI4OSwKICAicHJvZmlsZUlkIiA6ICI2OTU3YjQyOTZiOTI0NGJkOGQzNWJiZGU4M2JiZDI3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjb2xpblBBUEEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjYyYmVmOGNhNThkODM3NjZjN2UyNmY5ZmI0ZmUwNmMxMWI5MzU0MmE5YzEwZjM2ZjQ2MGEzYjQyNzc0ODIyMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Shrieky Tiki",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Shrieky Tiki",
+        "mobLevel": 71,
+        "xp": 106,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 23,
+            "maxAmount": 23
+          },
+          {
+            "id": "HELIX_LOG",
+            "chance": 1,
+            "minAmount": 16,
+            "maxAmount": 32
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 0.2,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "CONSTRUCT_RULER",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §cPocket Black Hole§7."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "SHY_MONSTER": {
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTY0NzU4NzkyNDI4NywKICAicHJvZmlsZUlkIiA6ICJmMTYwZTMxMzJjYWM0YjRiOWM5OTk2NDQ1OGIxOWM0ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb255S0tLIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FjOWFkY2Q5NzVhOTE2OTE0YjVkMjlhZGFjZjVmNTJlNzk1MTQ3ODU4MzQ3NjU1MmE0ZjZmZThkOTRmNDhjMmEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
     "itemId": "minecraft:player_head",
@@ -44423,6 +47435,132 @@
             "chance": 0.0025,
             "minAmount": 1,
             "maxAmount": 1
+          }
+        ]
+      }
+    ]
+  },
+  "SILKBREEZE_SC": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTk4ODQ1MywKICAicHJvZmlsZUlkIiA6ICIxMTM0OTAxMTU3ZTE0Yzg0OTE1YTNjMGY3M2RmYzM0NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJab2xlZWV5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI2MzBjMzE3MWM0MDI4NTQ0ZmY5NzliYTg3ZmEwMzEwMmFhY2JjMWU5MTdhY2U5OTg0ZDhlZTUxYTliYmQ1YmEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "SILKBREEZE_SC"
+        },
+        "minecraft:custom_name": {
+          "text": "§3Silkbreeze (Sea Creature)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §9 Aquatic§7,  Airborne, §d Elusive"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7It weaves silk at impressive speeds"
+          },
+          {
+            "text": "§7as it moves."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c250,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Fished up on §6Torrhus Canyon§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTk4ODQ1MywKICAicHJvZmlsZUlkIiA6ICIxMTM0OTAxMTU3ZTE0Yzg0OTE1YTNjMGY3M2RmYzM0NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJab2xlZWV5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI2MzBjMzE3MWM0MDI4NTQ0ZmY5NzliYTg3ZmEwMzEwMmFhY2JjMWU5MTdhY2U5OTg0ZDhlZTUxYTliYmQ1YmEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Silkbreeze",
+    "type": "Sea Creature",
+    "lootTables": [
+      {
+        "name": "Silkbreeze",
+        "mobLevel": 105,
+        "xp": 0,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 210,
+            "maxAmount": 210
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 1,
+            "minAmount": 4,
+            "maxAmount": 8
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "SUBLIME_SILK",
+            "chance": 0.2,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "HELIXIS",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "VEILSHROOM_BUNCH",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DISTANT_ECHO",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_AQUAMARINE",
+            "chance": 2.0000000000000002e-7,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "FORAGERS_FORTUNE",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Charm §cSilkbreeze§7. (§aGuaranteed Drop§7)",
+              "§7 - Place §6Hunting Traps §7in §9Spring Depths§7. §7(§bUnderwater§7)"
+            ]
           }
         ]
       }
@@ -45742,6 +48880,101 @@
       }
     ]
   },
+  "SNEAKY_TIKI_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNzcyNzQ3NiwKICAicHJvZmlsZUlkIiA6ICIyM2RjZjc3NWQ5YzQ0MGE1ODc3MjE4ZjU3NzNlMTUzNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZWx1c2lvblNrZXRjaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMGZhZDBjMWViNDI2MzM2MTBkZjdlM2YyN2Q3YzM4Y2E5YzNlNjUzMGJmZTFiYWI1YTNkNTIzODgyNGE3MzA3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "SNEAKY_TIKI_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aSneaky Tiki (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types:  Construct, §2 Woodland"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7They lie dormant but aware, looking"
+          },
+          {
+            "text": "§7to spook fatigued explorers."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c50,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Hunted in §6Torrhus Canyon§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNzcyNzQ3NiwKICAicHJvZmlsZUlkIiA6ICIyM2RjZjc3NWQ5YzQ0MGE1ODc3MjE4ZjU3NzNlMTUzNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZWx1c2lvblNrZXRjaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMGZhZDBjMWViNDI2MzM2MTBkZjdlM2YyN2Q3YzM4Y2E5YzNlNjUzMGJmZTFiYWI1YTNkNTIzODgyNGE3MzA3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Sneaky Tiki",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Sneaky Tiki",
+        "mobLevel": 71,
+        "xp": 106,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 23,
+            "maxAmount": 23
+          },
+          {
+            "id": "HELIX_LOG",
+            "chance": 1,
+            "minAmount": 16,
+            "maxAmount": 32
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 0.2,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "TIKI_TRACKER",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §cPocket Black Hole§7."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "SNIPER_MONSTER": {
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjE4YzA3MWYwODBkYmE1MGE2MmE2MjYzZmY3MjRlZGMxNTdjZTRmYjQ4ODNjY2VmZjI0OTFkNWJiZGU4MzBjMSJ9fX0K",
     "itemId": "minecraft:player_head",
@@ -45822,6 +49055,105 @@
             "chance": 3.3e-7,
             "minAmount": 1,
             "maxAmount": 1
+          }
+        ]
+      }
+    ]
+  },
+  "SOLAR_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMTc2NDkxMTE5MiwKICAicHJvZmlsZUlkIiA6ICJiZWNlZGU1YmRkODY0YTkwOTc3MTRmODk0ZWUxNmE3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYW1hQ29tcG9zZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2I2YjE4N2RmNjc0MTRiNWU5MjJiMzRmMGIwZjdhYTU4MDFjMzFhYzZlMjExMjM0Y2VmMDlmYzZlYzg5MjYyOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "SOLAR_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aSolar (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §9 Aquatic§7, §a Critter"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7They enter a motionless, drifting"
+          },
+          {
+            "text": "§7state when they run out of stored"
+          },
+          {
+            "text": "§7sunlight."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c100"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Hunted in §bTorrhus Springs§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMTc2NDkxMTE5MiwKICAicHJvZmlsZUlkIiA6ICJiZWNlZGU1YmRkODY0YTkwOTc3MTRmODk0ZWUxNmE3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYW1hQ29tcG9zZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2I2YjE4N2RmNjc0MTRiNWU5MjJiMzRmMGIwZjdhYTU4MDFjMzFhYzZlMjExMjM0Y2VmMDlmYzZlYzg5MjYyOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Solar",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Solar",
+        "mobLevel": 80,
+        "xp": 300,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 26,
+            "maxAmount": 26
+          },
+          {
+            "id": "RUBY_VEILSHROOM",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 2
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": 0.005,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "STARLYN_TRAINING",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with a §3Fishing Net§7.",
+              "§7 - Place §6Hunting Traps §7in §bSpring Shallows§7. §7(§bUnderwater§7)"
+            ]
           }
         ]
       }
@@ -46662,6 +49994,120 @@
       }
     ]
   },
+  "SPRAWL_SC": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjYyNzI0NywKICAicHJvZmlsZUlkIiA6ICI4ODYyYjU4ZWI4YjE0MTg5OGY3MWE0YjI2MDA3ZWVkNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHYWJyaWV3RiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82YmJlNmE3OGI4YjliMWJlZTQ0NThmYWU2MzNkZWNhN2RjOWRhMzE1ODliOTg5MDNjOWU4NzFlZmNiNDE2YWVhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "SPRAWL_SC"
+        },
+        "minecraft:custom_name": {
+          "text": "§3Sprawl (Sea Creature)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §9 Aquatic§7,  Airborne"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7A distant relative of the Puck, it's"
+          },
+          {
+            "text": "§7always scheming."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c50,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Fished up on §6Torrhus Canyon§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjYyNzI0NywKICAicHJvZmlsZUlkIiA6ICI4ODYyYjU4ZWI4YjE0MTg5OGY3MWE0YjI2MDA3ZWVkNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHYWJyaWV3RiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82YmJlNmE3OGI4YjliMWJlZTQ0NThmYWU2MzNkZWNhN2RjOWRhMzE1ODliOTg5MDNjOWU4NzFlZmNiNDE2YWVhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Sprawl",
+    "type": "Sea Creature",
+    "lootTables": [
+      {
+        "name": "Sprawl",
+        "mobLevel": 71,
+        "xp": 0,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 88,
+            "maxAmount": 88
+          },
+          {
+            "id": "HELIX_LOG",
+            "chance": 1,
+            "minAmount": 32,
+            "maxAmount": 64
+          },
+          {
+            "id": "RUBY_VEILSHROOM",
+            "chance": 1,
+            "minAmount": 8,
+            "maxAmount": 16
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 0.25,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": 0.05,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_AQUAMARINE",
+            "chance": 1.9999999999999997e-9,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "ANIMAL_RULER",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Charm §cSprawl§7.",
+              "§7 - Place §6Hunting Traps §7in §bSpring Shallows§7. §7(§bUnderwater§7)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "SQUID_SC": {
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTc4NTkwNzc0NCwKICAicHJvZmlsZUlkIiA6ICI5MThhMDI5NTU5ZGQ0Y2U2YjE2ZjdhNWQ1M2VmYjQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWV2ZWxvcGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMyNTgxZDU2NGYwMWQ3MTIyNTUxMjVlMWYxMDFlNTM0MjE3Zjc2ZTM1OTlkYWI3ZjRhZTBmZmUzMjhmNzI5ZWIiCiAgICB9CiAgfQp9",
     "itemId": "minecraft:player_head",
@@ -46707,6 +50153,102 @@
     },
     "name": "Squid",
     "type": "Sea Creature"
+  },
+  "STAG_BEETLE_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzcwODg3MTA0MiwKICAicHJvZmlsZUlkIiA6ICI5MTU1ZmYzNTNlMzc0ZmZlYjE0MmE5NmU2MzU2ZjA4NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJlbG5hZFhCIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc1NGI1NGU1YmZmZmU3MjUwYWEzYTA5MWI2OGYxZGQzZjUxZmZjNzY5N2QyZTNmMjFhZDAzOTI1ODllYjYxMzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "STAG_BEETLE_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aStag Beetle (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §a Critter§7, §4 Arthropod"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Reaches a new level of intimidating"
+          },
+          {
+            "text": "§7once you realize it can fly."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c5,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Found when lathering §2Mangrove Trees§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzcwODg3MTA0MiwKICAicHJvZmlsZUlkIiA6ICI5MTU1ZmYzNTNlMzc0ZmZlYjE0MmE5NmU2MzU2ZjA4NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJlbG5hZFhCIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc1NGI1NGU1YmZmZmU3MjUwYWEzYTA5MWI2OGYxZGQzZjUxZmZjNzY5N2QyZTNmMjFhZDAzOTI1ODllYjYxMzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Stag Beetle",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Stag Beetle",
+        "mobLevel": 29,
+        "xp": 75,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 9,
+            "maxAmount": 9
+          },
+          {
+            "id": "ENCHANTED_HONEYCOMB",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 2
+          },
+          {
+            "id": "ENCHANTED_MANGROVE_LOG",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 4
+          },
+          {
+            "type": "attribute",
+            "id": "WOODLAND_RESISTANCE",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Lather §6Honeycomb §7on §2Mangrove Trees§7."
+            ]
+          }
+        ]
+      }
+    ]
   },
   "STAR_SENTRY_MONSTER": {
     "texture": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDg3YjhmM2NmMWMxMDE0ODgzMjc2ZjIzMDUwMWQ1YWYxMzk3Njk5MDcxYmZhYjFlZTI5NGM4NjE3MjJjYzJmIn19fQ",
@@ -51318,6 +54860,96 @@
     "name": "Tilus",
     "type": "NPC"
   },
+  "TIMIL_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3ODY1NjE5OTQ1OSwKICAicHJvZmlsZUlkIiA6ICIyYmQyZTAxNGI5YWE0YzRjYmRmMzdmZjc5MzE2NDE5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdXRvU2tpbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNWMwMjRhZWVjMWM4ZGM5OGYyYjQyYWRkNWIwZjAyMDc4OGMzZjk4MGRmZjVlODYzNjM2NzYxZTYwYzVlZmZlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "TIMIL_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aTimil (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §9 Aquatic§7, §a Critter§7, §e Timid"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Spooks at the slightest change in"
+          },
+          {
+            "text": "§7water pressure."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c50"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Hunted in §6Torrhus Canyon§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3ODY1NjE5OTQ1OSwKICAicHJvZmlsZUlkIiA6ICIyYmQyZTAxNGI5YWE0YzRjYmRmMzdmZjc5MzE2NDE5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdXRvU2tpbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNWMwMjRhZWVjMWM4ZGM5OGYyYjQyYWRkNWIwZjAyMDc4OGMzZjk4MGRmZjVlODYzNjM2NzYxZTYwYzVlZmZlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Timil",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Timil",
+        "mobLevel": 1,
+        "xp": 75,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "RAW_FISH",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "TORRHUS_DIVER",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with a §3Fishing Net§7.",
+              "§7 - Place §6Hunting Traps §7in §6Spring Path§7. §7(§bUnderwater§7)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "TITANOBOA_SC": {
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTczOTU0OTUyMDAxMCwKICAicHJvZmlsZUlkIiA6ICI2OGVmMmM5NTc5NjM0MjE4YjYwNTM5YWVlOTU3NWJiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVNdWx0aUFjb3VudCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82NDVmMmMwYmJmZTNiOGIxOWI3NDUyMDcyZGI2OWE1ZjU5ZGEzOGZmNjE0MTU1NDUxNTZlNTcwMWUxYmU3NTZkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
     "itemId": "minecraft:player_head",
@@ -51521,6 +55153,135 @@
     },
     "name": "Tony",
     "type": "NPC"
+  },
+  "TORRID_SC": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjgwMjE1MCwKICAicHJvZmlsZUlkIiA6ICI2YmU4ODdiZmRmZTk0OWQ0OGViZTcyYzA3OWM3ZGEyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGcmFuY3l2b2wiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWRhMTQ1MjU0YTU5ZWZjZTU3MTg2ZTZjOTliNjRiYTBlODY4MDNhNDQ5NmNkYmU4Yzk2Y2MxM2RkYTcxYWEyNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "TORRID_SC"
+        },
+        "minecraft:custom_name": {
+          "text": "§3Torrid (Sea Creature)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §9 Aquatic§7,  Airborne"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Always up to no good. When they get"
+          },
+          {
+            "text": "§7together with Pucks, even more"
+          },
+          {
+            "text": "§7trouble is caused."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c100,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Fished up on §6Torrhus Canyon§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjgwMjE1MCwKICAicHJvZmlsZUlkIiA6ICI2YmU4ODdiZmRmZTk0OWQ0OGViZTcyYzA3OWM3ZGEyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGcmFuY3l2b2wiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWRhMTQ1MjU0YTU5ZWZjZTU3MTg2ZTZjOTliNjRiYTBlODY4MDNhNDQ5NmNkYmU4Yzk2Y2MxM2RkYTcxYWEyNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Torrid",
+    "type": "Sea Creature",
+    "lootTables": [
+      {
+        "name": "Torrid",
+        "mobLevel": 85,
+        "xp": 0,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 127,
+            "maxAmount": 127
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "RUBY_VEILSHROOM",
+            "chance": 1,
+            "minAmount": 32,
+            "maxAmount": 32
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": 0.2,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "HELIXIS",
+            "chance": 0.002,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "VEILSHROOM_BUNCH",
+            "chance": 0.002,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "WATER_HYACINTH",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "DYE_AQUAMARINE",
+            "chance": 3.9999999999999994e-9,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "FIRST_SWEEP",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Charm §cTorrid§7.",
+              "§7 - Place §6Hunting Traps §7in §9Spring Depths§7. §7(§bUnderwater§7)"
+            ]
+          }
+        ]
+      }
+    ]
   },
   "TOXIC_RAIN_SLIME_MONSTER": {
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODk1YWVlYzZiODQyYWRhODY2OWY4NDZkNjViYzQ5NzYyNTk3ODI0YWI5NDRmMjJmNDViZjNiYmI5NDFhYmU2YyJ9fX0",
@@ -54556,6 +58317,100 @@
       }
     ]
   },
+  "WATER_SNAKE_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY4OTcwNjk0NywKICAicHJvZmlsZUlkIiA6ICI2NmRmYzFmNTRlNTU0ZTZmODJjNTA5ZjM1NTJiYTkwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJadWFyaWciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWIwNmQxNTE1NWM2MGQwZjBmMjY3YmUwNWM4NDM2YzVhMWU3NjRhOGM4YWNhMjM2YmIzNzIyM2Y0OWQ5YTFkMCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "WATER_SNAKE_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aWater Snake (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §9 Aquatic§7, §a Critter"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Bites first, asks questions later."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c1,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Hunted in §bTorrhus Springs§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY4OTcwNjk0NywKICAicHJvZmlsZUlkIiA6ICI2NmRmYzFmNTRlNTU0ZTZmODJjNTA5ZjM1NTJiYTkwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJadWFyaWciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWIwNmQxNTE1NWM2MGQwZjBmMjY3YmUwNWM4NDM2YzVhMWU3NjRhOGM4YWNhMjM2YmIzNzIyM2Y0OWQ5YTFkMCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Water Snake",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Water Snake",
+        "mobLevel": 25,
+        "xp": 150,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 8,
+            "maxAmount": 8
+          },
+          {
+            "id": "RUBY_VEILSHROOM",
+            "chance": 1,
+            "minAmount": 32,
+            "maxAmount": 64
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": 0.2,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "TITANOBOA_TRACKER",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with a §3Fishing Net§7.",
+              "§7 - Place §6Hunting Traps §7in §dHotspot Haven§7. §7(§bUnderwater§7)",
+              "§7 - Place §6Hunting Traps §7in §9Spring Depths§7. §7(§bUnderwater§7)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "WATER_WORM_SC": {
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjMyMTY5Njk3MSwKICAicHJvZmlsZUlkIiA6ICJlNzkzYjJjYTdhMmY0MTI2YTA5ODA5MmQ3Yzk5NDE3YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVfSG9zdGVyX01hbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MTFhMTE3M2FmM2JlYWQzMDVlNjMzOWY1NTU2NjJlOTkwZDVmYWFkYjg3ZTA3Mjk5ZmE2OGNhODI4YTZkMmZiIgogICAgfQogIH0KfQ==",
     "itemId": "minecraft:player_head",
@@ -56014,6 +59869,102 @@
             "chance": 0.0000029999999999999997,
             "minAmount": 1,
             "maxAmount": 1
+          }
+        ]
+      }
+    ]
+  },
+  "WOODLOUSE_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzcwODg2OTg0MywKICAicHJvZmlsZUlkIiA6ICJjMjVlMWMxZTE1YTQ0N2IwOTQ2Zjg2YzYzYzhjYjZkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiaWdpYm9zMzIxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcwNTU2ZDQ0YzFhOWNiNWU0OWFiZTRkYjgxZDViNzc1MGQ4ZjAxOGYzYWJkMTZlZmVjYjllNzJlYThlOGE3YzgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "WOODLOUSE_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aWoodlouse (Monster)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §a Critter§7, §4 Arthropod"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Lives on land and has a set of gills,"
+          },
+          {
+            "text": "§7how strange!"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§c❤ Health§8: §c1,000"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Found when lathering §2Mangrove Trees§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzcwODg2OTg0MywKICAicHJvZmlsZUlkIiA6ICJjMjVlMWMxZTE1YTQ0N2IwOTQ2Zjg2YzYzYzhjYjZkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiaWdpYm9zMzIxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcwNTU2ZDQ0YzFhOWNiNWU0OWFiZTRkYjgxZDViNzc1MGQ4ZjAxOGYzYWJkMTZlZmVjYjllNzJlYThlOGE3YzgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Woodlouse",
+    "type": "Monster",
+    "lootTables": [
+      {
+        "name": "Woodlouse",
+        "mobLevel": 29,
+        "xp": 75,
+        "combatXp": 0,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 9,
+            "maxAmount": 9
+          },
+          {
+            "id": "ENCHANTED_HONEYCOMB",
+            "chance": 1,
+            "minAmount": 2,
+            "maxAmount": 4
+          },
+          {
+            "id": "ENCHANTED_MANGROVE_LOG",
+            "chance": 1,
+            "minAmount": 4,
+            "maxAmount": 8
+          },
+          {
+            "type": "attribute",
+            "id": "VISITOR_CHEESE",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Lather §6Honeycomb §7on §2Mangrove Trees§7."
+            ]
           }
         ]
       }
