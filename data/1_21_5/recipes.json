@@ -33069,6 +33069,20 @@
     }
   },
   {
+    "type": "shop",
+    "npc": "GEMMA_NPC",
+    "inputs": [
+      {
+        "id": "ESSENCE_DIAMOND",
+        "count": 2500
+      }
+    ],
+    "result": {
+      "id": "MINING_OFF_CAMERA",
+      "count": 1
+    }
+  },
+  {
     "type": "forge",
     "inputs": [
       {
@@ -71528,6 +71542,20 @@
     ],
     "result": {
       "id": "FROGS_SPIRIT_SCROLL",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "ROSEMARY_NPC",
+    "inputs": [
+      {
+        "id": "ESSENCE_FOREST",
+        "count": 2500
+      }
+    ],
+    "result": {
+      "id": "GRUNGLE",
       "count": 1
     }
   },
