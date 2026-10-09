@@ -35723,6 +35723,27 @@
   },
   {
     "type": "item",
+    "id": "PET_SKIN_FROG_BURNING",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Burning_Frog_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PET_SKIN_FROG_FOSSIL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fossil_Frog_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PET_SKIN_FROG_ZOMBIE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Zombie_Frog_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "PET_SKIN_GHOUL_GHOULFRIEND",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Ghoulfriend_Ghoul_Skin"
