@@ -17511,6 +17511,13 @@
   },
   {
     "type": "item",
+    "id": "FIESTA_FLASK",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fiesta_Flask"
+    }
+  },
+  {
+    "type": "item",
     "id": "FIFTH_MASTER_STAR",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Fifth_Master_Star"
@@ -37827,8 +37834,8 @@
     "id": "POLARVOID_BOOK",
     "requirements": [
       {
-        "level": 4,
-        "rawString": "Living Metal Heart IV",
+        "level": 5,
+        "rawString": "Living Metal Heart V",
         "type": "collection",
         "name": "Living Metal Heart",
         "id": "METAL_HEART"
@@ -70300,6 +70307,13 @@
     "id": "ATTRIBUTE_SHARD_FANCY_VISIT;1",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Invisibug_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_FIESTA_FORTUNE;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Packrat_Shard"
     }
   },
   {
