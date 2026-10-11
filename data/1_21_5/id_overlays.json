@@ -64760,6 +64760,14 @@
   },
   {
     "type": "enchantment",
+    "id": "FOREST_PLEDGE",
+    "level": 6,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Forest_Pledge"
+    }
+  },
+  {
+    "type": "enchantment",
     "id": "FORTUNE",
     "level": 1,
     "wiki": {
