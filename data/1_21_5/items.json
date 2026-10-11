@@ -118082,6 +118082,77 @@
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
+        "id": "FIESTA_FLASK"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Fiesta Flask"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Consumable"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Grants §6+25%  Mining Fortune §7while"
+        },
+        {
+          "text": "§bMayor Cole's §6Mining Fiesta §7perk is"
+        },
+        {
+          "text": "§7active."
+        },
+        {
+          "text": "§7Duration: §a60m"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to consume!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§l* §8Soulbound §8§l*"
+        },
+        {
+          "text": "§6§lLEGENDARY"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY4ODc4ODc5MiwKICAicHJvZmlsZUlkIiA6ICI0YzZhZTVkNzc0ZDE0MjBkYmJiNThjNDMzZGM3NjNlMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJKdXN0VHJhbnNHaXJsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YyZjkxNzg2MGYwZDEwNjVhMWVhY2MxYzgwMzgwOGZhOTM4Y2ZiODk1MmNhY2ExNmVlNjQ3YzFkMzhhYjE3NWMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
         "id": "FIFTH_MASTER_STAR"
       },
       "minecraft:custom_name": {
@@ -294053,13 +294124,13 @@
           "text": "§7consume this item to permanently gain:"
         },
         {
-          "text": "§b+1 Magic Find"
+          "text": "§a+1% §7chance to find §cD§6y§ee§as"
+        },
+        {
+          "text": "§3+1☯ Carpentry Wisdom"
         },
         {
           "text": "§b+1 Intelligence"
-        },
-        {
-          "text": "§3+1☯ Combat Wisdom"
         },
         {
           "text": ""
@@ -294083,7 +294154,7 @@
           "text": "§8§oLike a wise man once said, you can"
         },
         {
-          "text": "§8§onever have enough Magic Find."
+          "text": "§8§onever have enough... dyes?"
         },
         {
           "text": ""

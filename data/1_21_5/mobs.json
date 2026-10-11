@@ -6709,10 +6709,10 @@
     "island": "mining_3",
     "position": {
       "x": 32,
-      "y": 203,
-      "z": -154
+      "y": 202,
+      "z": -155
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk3NzI2NDJmZmNjZmM5ZTExYjM1MGM4NzRmMmM4NDY3OGZjMDgwNDRiNTFlN2E4ZTNhMDkxOWY4Zjc4OGVkOWEifX19",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTc3MjY0MmZmY2NmYzllMTFiMzUwYzg3NGYyYzg0Njc4ZmMwODA0NGI1MWU3YThlM2EwOTE5ZjhmNzg4ZWQ5YSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJiZTFmMjBiZTE5ODkyZDg0YmRhNjU0ZTI2OWI4MzIyNiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzkxNjk0MDQ1ODQyfQ==",
     "itemId": "minecraft:player_head",
     "item": {
       "id": "minecraft:player_head",
@@ -6732,7 +6732,7 @@
           "properties": [
             {
               "name": "textures",
-              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTc3MjY0MmZmY2NmYzllMTFiMzUwYzg3NGYyYzg0Njc4ZmMwODA0NGI1MWU3YThlM2EwOTE5ZjhmNzg4ZWQ5YSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI4ODk5MWViNWM5ZWMyMzk5YWQwMGI2MTEyNGExOGI1OCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzUyMTU3NTYzNjQyfQ=="
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTc3MjY0MmZmY2NmYzllMTFiMzUwYzg3NGYyYzg0Njc4ZmMwODA0NGI1MWU3YThlM2EwOTE5ZjhmNzg4ZWQ5YSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJiZTFmMjBiZTE5ODkyZDg0YmRhNjU0ZTI2OWI4MzIyNiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzkxNjk0MDQ1ODQyfQ=="
             }
           ]
         }

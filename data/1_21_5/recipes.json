@@ -9440,6 +9440,37 @@
     }
   },
   {
+    "type": "shop",
+    "npc": "BRYNMOR_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 2500000
+      }
+    ],
+    "result": {
+      "id": "FIESTA_FLASK",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "BRYNMOR_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 250000
+      }
+    ],
+    "result": {
+      "type": "attribute",
+      "id": "FIESTA_FORTUNE",
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {
