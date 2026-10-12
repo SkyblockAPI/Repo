@@ -13,6 +13,16 @@
           "§6+2☘ Foraging Fortune§7.",
           "§81k logs to tier up!",
           "",
+          "§8Break 1k Logs for Tier II",
+          "§8Break 5k Logs for Tier III",
+          "§8Break 25k Logs for Tier IV",
+          "§8Break 100k Logs for Tier V",
+          "§8Break 300k Logs for Tier VI",
+          "§8Break 1.5M Logs for Tier VII",
+          "§8Break 5M Logs for Tier VIII",
+          "§8Break 10M Logs for Tier IX",
+          "§8Break 25M Logs for Tier X",
+          "",
           "§e▲ §7Absorb cannot be combined!",
           "",
           "§6Sources:",
@@ -55,6 +65,36 @@
               },
               {
                 "text": "§81k logs to tier up!"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§8Break 1k Logs for Tier II"
+              },
+              {
+                "text": "§8Break 5k Logs for Tier III"
+              },
+              {
+                "text": "§8Break 25k Logs for Tier IV"
+              },
+              {
+                "text": "§8Break 100k Logs for Tier V"
+              },
+              {
+                "text": "§8Break 300k Logs for Tier VI"
+              },
+              {
+                "text": "§8Break 1.5M Logs for Tier VII"
+              },
+              {
+                "text": "§8Break 5M Logs for Tier VIII"
+              },
+              {
+                "text": "§8Break 10M Logs for Tier IX"
+              },
+              {
+                "text": "§8Break 25M Logs for Tier X"
               },
               {
                 "text": ""
