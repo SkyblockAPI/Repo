@@ -1,6 +1,7 @@
 import fs from "fs";
 import {getOverlay} from "./id_overlays.mjs";
 import {buildItemStack} from "./items.mjs";
+import {warnDuplicateId} from "../../utils/logger.mjs";
 
 const enchantmentFile = {};
 const enchantmentOverlaysFile = [];
@@ -41,7 +42,7 @@ export const Enchantments = {
         enchantmentIds.push(enchantId)
 
         if (enchantmentFile[enchantId] && enchantmentFile[enchantId].levels.some(l => l.level === enchantLevel)) {
-            console.warn(`[WARN] (Enchantments) Duplicate enchantment ID and level found: ${enchantId} ${enchantLevel}`);
+            warnDuplicateId("Enchantments", enchantId, `level ${enchantLevel}`);
         }
 
         const enchant = enchantmentFile[enchantId] || {

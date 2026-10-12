@@ -2,6 +2,7 @@ import fs from "fs";
 import {checkPetVariables} from "../../tests/pet_variables.test.mjs";
 import {getOverlay} from "./id_overlays.mjs";
 import {buildItemStack} from "./items.mjs";
+import {warnDuplicateId} from "../../utils/logger.mjs";
 
 const RIGHT_CLICK_LORE_1 = "§7§eRight-click to add this pet to your";
 const RIGHT_CLICK_LORE_2 = "§7§eRight-click to add this pet to";
@@ -42,7 +43,7 @@ export const Pets = {
         petIds.push(petId)
 
         if (petsFile[petId] && petsFile[petId].tiers[item.pet.tier]) {
-            console.warn(`[WARN] (Pets) Duplicate pet ID and tier found: ${petId} ${item.pet.tier}`);
+            warnDuplicateId("Pets", petId, `tier ${item.pet.tier}`);
         }
         if (!petId || petId.includes(";")) throw new Error(`Unknown pet: ${petId} for ${item.internalname}`)
 

@@ -2,6 +2,7 @@ import fs from "fs";
 import {buildItemStack, getItemId} from "./items.mjs";
 import {NeuData} from "../../utils/common_neu_data.mjs";
 import {getOverlay} from "./id_overlays.mjs";
+import {warnAttributeShard, warnDuplicateId} from "../../utils/logger.mjs";
 
 const attributesFile = [];
 const attributeOverlaysFile = [];
@@ -41,13 +42,13 @@ export const Attributes = {
         const neuAttribute = NeuData.attributes.lookup[attributeId];
 
         if (!neuAttribute) {
-            console.warn(`Attribute shard ${attributeId} not found in neu/constants/attribute_shards.json`);
+            warnAttributeShard(attributeId)
             return;
         }
         attributeIds.push(attributeId)
 
         if (attributesFile.some(a => a.id === attributeId)) {
-            console.warn(`[WARN] (Attributes) Duplicate attribute ID found: ${attributeId}`);
+            warnDuplicateId("Attributes", attributeId);
         }
 
         const attribute = {

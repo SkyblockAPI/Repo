@@ -1,5 +1,6 @@
 import fs from "fs";
 import {getOverlay} from "./id_overlays.mjs";
+import {warnDuplicateId} from "../../utils/logger.mjs";
 
 const itemsFile = [];
 const itemOverlaysFile = [];
@@ -140,7 +141,7 @@ export const Items = {
 
         const skyblockId = itemStack.components["minecraft:custom_data"]?.id;
         if (skyblockId && itemsFile.some(existing => existing.components["minecraft:custom_data"]?.id === skyblockId)) {
-            console.warn(`[WARN] (Items) Duplicate item ID found: ${skyblockId}`);
+            warnDuplicateId("Items", skyblockId);
         }
 
         itemsFile.push(itemStack);

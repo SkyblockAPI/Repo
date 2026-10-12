@@ -1,6 +1,7 @@
 import fs from "fs";
 import {getOverlay} from "./id_overlays.mjs";
 import {buildItemStack} from "./items.mjs";
+import {warnDuplicateId} from "../../utils/logger.mjs";
 
 /**
  * @type {Object.<number, string>}
@@ -151,7 +152,7 @@ export const Potions = {
         potionIds.push(potionId)
 
         if (potionFile[potionId] && potionFile[potionId].levels.some(l => l.level === potionLevel)) {
-            console.warn(`[WARN] (Potions) Duplicate potion ID and level found: ${potionId} ${potionLevel}`);
+            warnDuplicateId("Potions", potionId, `level ${potionLevel}`);
         }
 
         const potion = potionFile[potionId] || {

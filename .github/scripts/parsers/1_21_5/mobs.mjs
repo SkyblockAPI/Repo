@@ -2,6 +2,7 @@ import fs from "fs";
 import {buildItemStack, getItemId} from "./items.mjs";
 import { getInputs } from "./recipes/ingredients.mjs";
 import { getOverlay } from "./id_overlays.mjs";
+import {warnDuplicateId} from "../../utils/logger.mjs";
 
 const mobsFile = {};
 const mobOverlaysFile = [];
@@ -61,7 +62,7 @@ export const Mobs = {
     parseMob: (item) => {
         const realId = item.internalname.replace("MAYOR_MONSTER", "MAYOR");
         if (mobsFile.hasOwnProperty(realId)) {
-            console.warn(`[WARN] (Mobs) Duplicate mob ID found: ${realId}`);
+            warnDuplicateId("Mobs", realId);
         }
         const [, realName, type] = item.displayname.match(/^§.(.*?)(?: \(([^)]+)\))?$/) || [];
 

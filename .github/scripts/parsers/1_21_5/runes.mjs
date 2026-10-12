@@ -1,6 +1,7 @@
 import fs from "fs";
 import {getOverlay} from "./id_overlays.mjs";
 import {buildItemStack} from "./items.mjs";
+import {warnDuplicateId} from "../../utils/logger.mjs";
 
 const runesFile = {}
 const runeOverlaysFile = []
@@ -20,7 +21,7 @@ export const Runes = {
         runeIds.push(rune);
 
         if (runesFile[rune] && runesFile[rune].some(r => r.tier === tier)) {
-            console.warn(`[WARN] (Runes) Duplicate rune ID and tier found: ${rune} ${tier}`);
+            warnDuplicateId("Runes", rune, `tier ${tier}`);
         }
 
         const runeInfo = runesFile[rune] || []
