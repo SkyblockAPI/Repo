@@ -19651,13 +19651,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -39853,7 +39855,7 @@
           "text": ""
         },
         {
-          "text": "§7Offline §2 Pests §7will spawn within §a10"
+          "text": "§7Offline §2 Pests §7will spawn within §a10"
         },
         {
           "text": "§7blocks of this if their Pest Vinyl has"
@@ -39874,11 +39876,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -47142,7 +47146,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -47164,11 +47168,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -57215,7 +57221,7 @@
           "text": ""
         },
         {
-          "text": "§7Adds §2+5,000♢ Fuel §7to a refuelable"
+          "text": "§7Adds §2+5,000 Fuel §7to a refuelable"
         },
         {
           "text": "§7machine."
@@ -57257,7 +57263,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -62698,7 +62704,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -68215,13 +68221,13 @@
           "text": ""
         },
         {
-          "text": "§7This exclusive §6Halloween"
+          "text": "§7This exclusive §6Halloween §7cosmetic"
         },
         {
-          "text": "§6§7cosmetic can be placed on your"
+          "text": "§7can be placed on your island or"
         },
         {
-          "text": "§7island or traded."
+          "text": "§7traded."
         },
         {
           "text": ""
@@ -68234,13 +68240,24 @@
         "properties": [
           {
             "name": "textures",
-            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGM3N2RmZDIxNTk4YTM5NzRmYTg1OTE5YTE1YzA5NDlmZWM3MzQ0NTFiMTIyMTg5YmEyMTVkMGE5ZDhiZWJmIn19fQ=="
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyMTQzMjI2ODgwOCwKICAicHJvZmlsZUlkIiA6ICJkZTU3MWExMDJjYjg0ODgwOGZlN2M5ZjQ0OTZlY2RhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNSEZfTWluZXNraW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjliMjRhOGM2MmVmNDgwODg0ZmEwZWRlYjI4MjU1OTIzNTNjNDQxNmM2MzE3ZDk2YzU2NmE2YWViYTE5Y2E1NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
           }
         ]
       },
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:dyed_color"
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -69944,7 +69961,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -71512,6 +71529,12 @@
       },
       "minecraft:lore": [
         {
+          "text": "§8Minion Fuel"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§7Can be placed in a Sunflower Minion"
         },
         {
@@ -71542,13 +71565,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -93021,6 +93046,9 @@
       },
       "minecraft:lore": [
         {
+          "text": "§8Minion Fuel"
+        },
+        {
           "text": "§8Collection Item"
         },
         {
@@ -93046,13 +93074,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -93529,6 +93559,9 @@
       },
       "minecraft:lore": [
         {
+          "text": "§8Minion Fuel"
+        },
+        {
           "text": "§8Collection Item"
         },
         {
@@ -93554,13 +93587,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -93944,19 +93979,16 @@
       },
       "minecraft:lore": [
         {
+          "text": "§8Machine Fuel"
+        },
+        {
           "text": "§8Collection Item"
         },
         {
           "text": ""
         },
         {
-          "text": "§8Machine Fuel"
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§7Adds §2+360♢ Fuel §7to a refuelable"
+          "text": "§7Adds §2+360 Fuel §7to a refuelable"
         },
         {
           "text": "§7machine."
@@ -93972,7 +94004,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -95823,6 +95855,12 @@
       },
       "minecraft:lore": [
         {
+          "text": "§8Minion Fuel"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§7Increases the speed of your minion"
         },
         {
@@ -95839,13 +95877,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -96670,19 +96710,16 @@
       },
       "minecraft:lore": [
         {
+          "text": "§8Machine Fuel"
+        },
+        {
           "text": "§8Collection Item"
         },
         {
           "text": ""
         },
         {
-          "text": "§8Machine Fuel"
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§7Adds §2+1,024♢ Fuel §7to a refuelable"
+          "text": "§7Adds §2+1,024 Fuel §7to a refuelable"
         },
         {
           "text": "§7machine."
@@ -96698,13 +96735,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -128773,6 +128812,9 @@
       },
       "minecraft:lore": [
         {
+          "text": "§8Minion Fuel"
+        },
+        {
           "text": "§8Brewing Ingredient"
         },
         {
@@ -128796,7 +128838,18 @@
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:dyed_color"
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -130904,7 +130957,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -143154,7 +143207,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -145316,7 +145369,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -154474,13 +154527,19 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7increases the speed of"
+          "text": "§8Minion Fuel"
         },
         {
-          "text": "§7your minion by §a50%"
+          "text": ""
         },
         {
-          "text": "§7for 24 hours!"
+          "text": "§7Increases the speed of"
+        },
+        {
+          "text": "§7your minion by §a50%§7 for 24"
+        },
+        {
+          "text": "§7hours!"
         },
         {
           "text": ""
@@ -154491,7 +154550,18 @@
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:dyed_color"
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -162490,6 +162560,9 @@
           "text": ""
         },
         {
+          "text": "§4☠ §cRequires §5Vampire Slayer 1§c."
+        },
+        {
           "text": "§9§lRARE"
         }
       ],
@@ -162499,11 +162572,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -163454,7 +163529,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -164319,7 +164394,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -168459,7 +168534,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -192657,7 +192732,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -197691,6 +197766,12 @@
       },
       "minecraft:lore": [
         {
+          "text": "§8Minion Fuel"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§7Increases the speed of your minion"
         },
         {
@@ -197710,11 +197791,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -209524,7 +209607,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -209546,11 +209629,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -221677,6 +221762,12 @@
       },
       "minecraft:lore": [
         {
+          "text": "§8Minion Fuel"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§7Can be placed in a Sunflower Minion"
         },
         {
@@ -221707,7 +221798,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -224121,7 +224212,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -224182,7 +224273,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -224243,7 +224334,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -224304,7 +224395,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -224365,7 +224456,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -224426,7 +224517,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -224487,7 +224578,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -224548,7 +224639,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -272540,6 +272631,12 @@
       },
       "minecraft:lore": [
         {
+          "text": "§8Minion Fuel"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§7Increases the speed of your minion"
         },
         {
@@ -272559,11 +272656,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -295795,13 +295894,16 @@
           "text": "§6Ability: Retentio  §e§lRIGHT CLICK"
         },
         {
-          "text": "§cTraps §7can be placed near the spawn"
+          "text": "§6Hunting Traps §7can be placed near"
         },
         {
-          "text": "§7location of a §9Shard §7creature, with"
+          "text": "§7the spawn location of a §9Shard"
         },
         {
-          "text": "§7time it will eventually catch it."
+          "text": "§7creature, with time it will eventually"
+        },
+        {
+          "text": "§7catch it."
         },
         {
           "text": ""
@@ -295870,13 +295972,16 @@
           "text": "§6Ability: Retentio  §e§lRIGHT CLICK"
         },
         {
-          "text": "§cTraps §7can be placed near the spawn"
+          "text": "§6Hunting Traps §7can be placed near"
         },
         {
-          "text": "§7location of a §9Shard §7creature, with"
+          "text": "§7the spawn location of a §9Shard"
         },
         {
-          "text": "§7time it will eventually catch it."
+          "text": "§7creature, with time it will eventually"
+        },
+        {
+          "text": "§7catch it."
         },
         {
           "text": ""
@@ -295910,11 +296015,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -295943,13 +296050,16 @@
           "text": "§6Ability: Retentio  §e§lRIGHT CLICK"
         },
         {
-          "text": "§cTraps §7can be placed near the spawn"
+          "text": "§6Hunting Traps §7can be placed near"
         },
         {
-          "text": "§7location of a §9Shard §7creature, with"
+          "text": "§7the spawn location of a §9Shard"
         },
         {
-          "text": "§7time it will eventually catch it."
+          "text": "§7creature, with time it will eventually"
+        },
+        {
+          "text": "§7catch it."
         },
         {
           "text": ""
@@ -296018,13 +296128,16 @@
           "text": "§6Ability: Retentio  §e§lRIGHT CLICK"
         },
         {
-          "text": "§cTraps §7can be placed near the spawn"
+          "text": "§6Hunting Traps §7can be placed near"
         },
         {
-          "text": "§7location of a §9Shard §7creature, with"
+          "text": "§7the spawn location of a §9Shard"
         },
         {
-          "text": "§7time it will eventually catch it."
+          "text": "§7creature, with time it will eventually"
+        },
+        {
+          "text": "§7catch it."
         },
         {
           "text": ""
@@ -311814,7 +311927,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -334638,7 +334751,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -335817,7 +335930,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -360757,6 +360870,12 @@
       },
       "minecraft:lore": [
         {
+          "text": "§8Minion Fuel"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§7Can be placed in a Flower Minion to"
         },
         {
@@ -360779,7 +360898,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -365495,7 +365614,7 @@
           "text": "§7only yourself within §a30 §7blocks."
         },
         {
-          "text": "§8Mana Cost: §b500"
+          "text": "§8Mana Cost: §3500"
         },
         {
           "text": ""
@@ -365565,13 +365684,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -366348,7 +366469,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -380776,7 +380897,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -386928,7 +387049,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
@@ -388272,7 +388393,7 @@
           "text": "§8Fishing Bait"
         },
         {
-          "text": "§8Consumes on Cast"
+          "text": "§8Consumes on Catch"
         },
         {
           "text": ""
