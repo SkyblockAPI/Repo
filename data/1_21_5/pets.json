@@ -24574,7 +24574,7 @@
           "",
           "§6Subterranean Battler",
           "§7Increases all §cCombat Stats §7by §a+{1}%",
-          "§7on §bMining Islands§7.",
+          "§7on §6Mining Islands§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE PET"
@@ -24642,7 +24642,7 @@
                 "text": "§7Increases all §cCombat Stats §7by §a+{1}%"
               },
               {
-                "text": "§7on §bMining Islands§7."
+                "text": "§7on §6Mining Islands§7."
               },
               {
                 "text": ""
@@ -24696,7 +24696,7 @@
           "",
           "§6Subterranean Battler",
           "§7Increases all §cCombat Stats §7by §a+{1}%",
-          "§7on §bMining Islands§7.",
+          "§7on §6Mining Islands§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC PET"
@@ -24764,7 +24764,7 @@
                 "text": "§7Increases all §cCombat Stats §7by §a+{1}%"
               },
               {
-                "text": "§7on §bMining Islands§7."
+                "text": "§7on §6Mining Islands§7."
               },
               {
                 "text": ""
@@ -24818,7 +24818,7 @@
           "",
           "§6Subterranean Battler",
           "§7Increases all §cCombat Stats §7by §a+{1}%",
-          "§7on §bMining Islands§7.",
+          "§7on §6Mining Islands§7.",
           "",
           "§6The Smell Of Powder",
           "§7Grants §2+{2}% ᠅ Mithril Powder §7from",
@@ -24894,7 +24894,7 @@
                 "text": "§7Increases all §cCombat Stats §7by §a+{1}%"
               },
               {
-                "text": "§7on §bMining Islands§7."
+                "text": "§7on §6Mining Islands§7."
               },
               {
                 "text": ""
@@ -24960,7 +24960,7 @@
           "",
           "§6Subterranean Battler",
           "§7Increases all §cCombat Stats §7by §a+{1}%",
-          "§7on §bMining Islands§7.",
+          "§7on §6Mining Islands§7.",
           "",
           "§6The Smell Of Powder",
           "§7Grants §2+{2}% ᠅ Mithril Powder §7from",
@@ -24968,7 +24968,7 @@
           "",
           "§6Refined Senses",
           "§7Grants §b+{3}%  Magic Find §7while on",
-          "§bMining Islands§7.",
+          "§6Mining Islands§7.",
           "",
           "§d§lMYTHIC PET"
         ],
@@ -25043,7 +25043,7 @@
                 "text": "§7Increases all §cCombat Stats §7by §a+{1}%"
               },
               {
-                "text": "§7on §bMining Islands§7."
+                "text": "§7on §6Mining Islands§7."
               },
               {
                 "text": ""
@@ -25067,7 +25067,7 @@
                 "text": "§7Grants §b+{3}%  Magic Find §7while on"
               },
               {
-                "text": "§bMining Islands§7."
+                "text": "§6Mining Islands§7."
               },
               {
                 "text": ""

@@ -38735,7 +38735,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Hunter Fortune: §d+1"
+          "text": "§7Hunting Fortune: §d+1"
         },
         {
           "text": "§7Accessory Power: §6+8"
@@ -38744,7 +38744,7 @@
           "text": ""
         },
         {
-          "text": "§7Grants §d+1 Hunter Fortune§7."
+          "text": "§7Grants §d+1 Hunting Fortune§7."
         },
         {
           "text": ""
@@ -41536,7 +41536,7 @@
           "text": ""
         },
         {
-          "text": "§7Consume to gain §a+90ф Rift Time§7."
+          "text": "§7Consume to gain §a+90 Rift Time§7."
         },
         {
           "text": "§7May only be used once per visit in the §dRift§7."
@@ -41561,13 +41561,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -48673,11 +48675,16 @@
       "minecraft:custom_data": {
         "id": "CATALYST"
       },
-      "minecraft:enchantment_glint_override": true,
       "minecraft:custom_name": {
         "text": "§9Catalyst"
       },
       "minecraft:lore": [
+        {
+          "text": "§8Minion Fuel"
+        },
+        {
+          "text": ""
+        },
         {
           "text": "§7When in a minion, this increases the"
         },
@@ -48698,13 +48705,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -54270,7 +54279,7 @@
           "text": ""
         },
         {
-          "text": "§7Effect: §5+0.1 Pristine §7while in §bGlacite"
+          "text": "§7Grants §5+0.1 Pristine §7while in §bGlacite"
         },
         {
           "text": "§bMineshafts§7."
@@ -54298,7 +54307,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -79167,7 +79176,7 @@
           "text": "§7This skin can be applied to §5Diver's"
         },
         {
-          "text": "§5Mask§7."
+          "text": "§5Mask§7 and §6Abyssal Helmet§7."
         },
         {
           "text": ""
@@ -79188,7 +79197,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -111805,7 +111814,7 @@
           "text": "§7Deals §a+150% §7damage to mobs on"
         },
         {
-          "text": "§bMining Islands§7."
+          "text": "§6Mining Islands§7."
         },
         {
           "text": ""
@@ -114450,10 +114459,10 @@
           "text": ""
         },
         {
-          "text": "§7This skin can be applied to §6Fermento"
+          "text": "§7This skin can be applied to §5Fermento"
         },
         {
-          "text": "§6Helmet§7."
+          "text": "§5Helmet§7 and §6Helianthus Helmet§7."
         },
         {
           "text": ""
@@ -114480,7 +114489,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -114839,10 +114848,10 @@
           "text": ""
         },
         {
-          "text": "§7This skin can be applied to §6Fermento"
+          "text": "§7This skin can be applied to §5Fermento"
         },
         {
-          "text": "§6Helmet§7."
+          "text": "§5Helmet§7 and §6Helianthus Helmet§7."
         },
         {
           "text": ""
@@ -114863,7 +114872,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -117651,7 +117660,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Hunter Fortune: §d+2"
+          "text": "§7Hunting Fortune: §d+2"
         },
         {
           "text": "§7Accessory Power: §6+12"
@@ -117660,7 +117669,7 @@
           "text": ""
         },
         {
-          "text": "§7Grants §d+2 Hunter Fortune§7."
+          "text": "§7Grants §d+2 Hunting Fortune§7."
         },
         {
           "text": ""
@@ -118927,7 +118936,10 @@
           "text": ""
         },
         {
-          "text": "§7This skin can be applied to §9Fig Cap§7."
+          "text": "§7This skin can be applied to §9Fig Cap"
+        },
+        {
+          "text": "§7and §5Helix Helmet§7."
         },
         {
           "text": ""
@@ -118957,7 +118969,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -118989,7 +119001,7 @@
           "text": ""
         },
         {
-          "text": "§7Effect: §6+20 Mining Fortune"
+          "text": "§7Grants §6+20 Mining Fortune."
         },
         {
           "text": "§7Duration: §a60m"
@@ -119014,7 +119026,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -140758,7 +140770,7 @@
           "text": "§bMineshaft§7, regardless of distance."
         },
         {
-          "text": "§8Costs 50% of max mana."
+          "text": "§8Mana Cost: §b50% of max"
         },
         {
           "text": ""
@@ -153242,19 +153254,16 @@
           "text": "§6Ability: Growth "
         },
         {
-          "text": "§7Heals you for §a1% §c Health §7after"
+          "text": "§7Regen §45 Vitality §7when killing a mob."
         },
         {
-          "text": "§7killing a Monster, and also increases"
+          "text": "§7Increase the §c Health §7bonus of this"
         },
         {
-          "text": "§7the §c Health §7bonus of a piece of"
+          "text": "§7armor by §c1 §8(Max 100)"
         },
         {
-          "text": "§7the armor by §a1§8 (Max 100)"
-        },
-        {
-          "text": "§8Cooldown: §a4s"
+          "text": "§8Cooldown: §a5s"
         },
         {
           "text": ""
@@ -153318,19 +153327,16 @@
           "text": "§6Ability: Growth "
         },
         {
-          "text": "§7Heals you for §a1% §c Health §7after"
+          "text": "§7Regen §45 Vitality §7when killing a mob."
         },
         {
-          "text": "§7killing a Monster, and also increases"
+          "text": "§7Increase the §c Health §7bonus of this"
         },
         {
-          "text": "§7the §c Health §7bonus of a piece of"
+          "text": "§7armor by §c1 §8(Max 100)"
         },
         {
-          "text": "§7the armor by §a1§8 (Max 100)"
-        },
-        {
-          "text": "§8Cooldown: §a4s"
+          "text": "§8Cooldown: §a5s"
         },
         {
           "text": ""
@@ -153394,19 +153400,16 @@
           "text": "§6Ability: Growth "
         },
         {
-          "text": "§7Heals you for §a1% §c Health §7after"
+          "text": "§7Regen §45 Vitality §7when killing a mob."
         },
         {
-          "text": "§7killing a Monster, and also increases"
+          "text": "§7Increase the §c Health §7bonus of this"
         },
         {
-          "text": "§7the §c Health §7bonus of a piece of"
+          "text": "§7armor by §c1 §8(Max 100)"
         },
         {
-          "text": "§7the armor by §a1§8 (Max 100)"
-        },
-        {
-          "text": "§8Cooldown: §a4s"
+          "text": "§8Cooldown: §a5s"
         },
         {
           "text": ""
@@ -153470,19 +153473,16 @@
           "text": "§6Ability: Growth "
         },
         {
-          "text": "§7Heals you for §a1% §c Health §7after"
+          "text": "§7Regen §45 Vitality §7when killing a mob."
         },
         {
-          "text": "§7killing a Monster, and also increases"
+          "text": "§7Increase the §c Health §7bonus of this"
         },
         {
-          "text": "§7the §c Health §7bonus of a piece of"
+          "text": "§7armor by §c1 §8(Max 100)"
         },
         {
-          "text": "§7the armor by §a1§8 (Max 100)"
-        },
-        {
-          "text": "§8Cooldown: §a4s"
+          "text": "§8Cooldown: §a5s"
         },
         {
           "text": ""
@@ -157350,7 +157350,7 @@
           "text": "§7Triple this piece's §a Defense §7and §c"
         },
         {
-          "text": "§cStrength §7while on §bMining Islands§7."
+          "text": "§cStrength §7while on §6Mining Islands§7."
         },
         {
           "text": ""
@@ -157438,7 +157438,7 @@
           "text": "§7Triple this piece's §a Defense §7and §c"
         },
         {
-          "text": "§cStrength §7while on §bMining Islands§7."
+          "text": "§cStrength §7while on §6Mining Islands§7."
         },
         {
           "text": ""
@@ -157586,7 +157586,7 @@
           "text": "§7Triple this piece's §a Defense §7and §c"
         },
         {
-          "text": "§cStrength §7while on §bMining Islands§7."
+          "text": "§cStrength §7while on §6Mining Islands§7."
         },
         {
           "text": ""
@@ -157674,7 +157674,7 @@
           "text": "§7Triple this piece's §a Defense §7and §c"
         },
         {
-          "text": "§cStrength §7while on §bMining Islands§7."
+          "text": "§cStrength §7while on §6Mining Islands§7."
         },
         {
           "text": ""
@@ -157705,11 +157705,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -172193,7 +172195,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Hunter Fortune: §d+3"
+          "text": "§7Hunting Fortune: §d+3"
         },
         {
           "text": "§7Accessory Power: §6+16"
@@ -172202,7 +172204,7 @@
           "text": ""
         },
         {
-          "text": "§7Grants §d+3 Hunter Fortune§7."
+          "text": "§7Grants §d+3 Hunting Fortune§7."
         },
         {
           "text": ""
@@ -186359,7 +186361,7 @@
           "text": "§7players within §a30 §7blocks."
         },
         {
-          "text": "§8Costs 50% of max mana."
+          "text": "§8Mana Cost: §b50% of max"
         },
         {
           "text": ""
@@ -196470,11 +196472,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -200211,19 +200215,19 @@
           "text": "§9Orb Buff: Mana Flux"
         },
         {
-          "text": "§9• §7Heal yourself for §c40❤§7 per second."
+          "text": "§8• §7Heal yourself for §c40❤§7 per second."
         },
         {
-          "text": "§9• §7Heal others for §c20❤§7 per second."
+          "text": "§8• §7Heal others for §c20❤§7 per second."
         },
         {
-          "text": "§9• §7Gain §c+50 Health Regen§7."
+          "text": "§8• §7Gain §c+50 Health Regen§7."
         },
         {
-          "text": "§9• §7Grants §b+50% §7base mana regen."
+          "text": "§8• §7Grants §b+50% §7base mana regen."
         },
         {
-          "text": "§9• §7Grants §c+10 Strength§7."
+          "text": "§8• §7Grants §c+10 Strength§7."
         },
         {
           "text": ""
@@ -200255,11 +200259,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -208653,10 +208659,10 @@
           "text": ""
         },
         {
-          "text": "§7Grants §f+25 Speed §7while on §bMining"
+          "text": "§7Grants §f+25 Speed §7while on §6Mining"
         },
         {
-          "text": "§bIslands§7."
+          "text": "§6Islands§7."
         },
         {
           "text": ""
@@ -209208,7 +209214,7 @@
           "text": ""
         },
         {
-          "text": "§7Effect: §2+15% Mithril Powder"
+          "text": "§7Grants §2+15% Mithril Powder"
         },
         {
           "text": "§7Duration: §a60m"
@@ -209239,7 +209245,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -211768,7 +211774,7 @@
           "text": "§7players within §a30 §7blocks."
         },
         {
-          "text": "§8Costs 50% of max mana."
+          "text": "§8Mana Cost: §b50% of max"
         },
         {
           "text": ""
@@ -219640,10 +219646,13 @@
           "text": ""
         },
         {
-          "text": "§7This skin can be applied to §cDiamond"
+          "text": "§7This skin can be applied to §cGolden"
         },
         {
-          "text": "§cNecron Head§7."
+          "text": "§cNecron Head§7 and §cDiamond Necron"
+        },
+        {
+          "text": "§cHead§7."
         },
         {
           "text": ""
@@ -219673,7 +219682,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -228363,19 +228372,19 @@
           "text": "§5Orb Buff: Overflux"
         },
         {
-          "text": "§5• §7Heal yourself for §c50❤§7 per second."
+          "text": "§8• §7Heal yourself for §c50❤§7 per second."
         },
         {
-          "text": "§5• §7Heal others for §c25❤§7 per second."
+          "text": "§8• §7Heal others for §c25❤§7 per second."
         },
         {
-          "text": "§5• §7Gain §c+100 Health Regen§7."
+          "text": "§8• §7Gain §c+100 Health Regen§7."
         },
         {
-          "text": "§5• §7Grants §b+100% §7base mana regen."
+          "text": "§8• §7Grants §b+100% §7base mana regen."
         },
         {
-          "text": "§5• §7Grants §c+25 Strength§7."
+          "text": "§8• §7Grants §c+25 Strength§7."
         },
         {
           "text": ""
@@ -235012,7 +235021,7 @@
           "text": "§7Defense: §a+230"
         },
         {
-          "text": "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]"
+          "text": "§7Gemstones: §8[§7§8] [§7§8] [§7§8]"
         },
         {
           "text": ""
@@ -235034,13 +235043,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -237805,7 +237816,7 @@
           "text": "§7Consume to cover yourself in a"
         },
         {
-          "text": "§7pleasant aroma that §2 Pests §7find"
+          "text": "§7pleasant aroma that §2 Pests §7find"
         },
         {
           "text": "§7truly revolting for §a60m§7."
@@ -237814,7 +237825,7 @@
           "text": ""
         },
         {
-          "text": "§7While active, §2 Pests §7will take §a2x §7as"
+          "text": "§7While active, §2 Pests §7will take §a2x §7as"
         },
         {
           "text": "§7long to spawn."
@@ -237872,7 +237883,7 @@
           "text": "§7Consume to cover yourself in a"
         },
         {
-          "text": "§7pleasant aroma that §2 Pests §7find"
+          "text": "§7pleasant aroma that §2 Pests §7find"
         },
         {
           "text": "§7truly revolting for §a60m§7."
@@ -237881,7 +237892,7 @@
           "text": ""
         },
         {
-          "text": "§7While active, §2 Pests §7will take §a4x §7as"
+          "text": "§7While active, §2 Pests §7will take §a4x §7as"
         },
         {
           "text": "§7long to spawn."
@@ -245830,7 +245841,7 @@
           "text": "§7This skin can only be applied to"
         },
         {
-          "text": "§7Chicken pets."
+          "text": "§aChicken§7 pets."
         },
         {
           "text": ""
@@ -245860,7 +245871,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -245907,7 +245918,7 @@
           "text": "§7This skin can only be applied to"
         },
         {
-          "text": "§7Chicken pets."
+          "text": "§aChicken§7 pets."
         },
         {
           "text": ""
@@ -245937,7 +245948,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -265391,7 +265402,7 @@
           "text": "§7This skin can only be applied to"
         },
         {
-          "text": "§7Silverfish pets."
+          "text": "§aSilverfish§7 pets."
         },
         {
           "text": ""
@@ -265421,7 +265432,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -272560,19 +272571,19 @@
           "text": "§6Orb Buff: Plasmaflux"
         },
         {
-          "text": "§6• §7Heal yourself for §c60❤§7 per second."
+          "text": "§8• §7Heal yourself for §c60❤§7 per second."
         },
         {
-          "text": "§6• §7Heal others for §c30❤§7 per second."
+          "text": "§8• §7Heal others for §c30❤§7 per second."
         },
         {
-          "text": "§6• §7Gain §c+125 Health Regen§7."
+          "text": "§8• §7Gain §c+125 Health Regen§7."
         },
         {
-          "text": "§6• §7Grants §b+125% §7base mana regen."
+          "text": "§8• §7Grants §b+125% §7base mana regen."
         },
         {
-          "text": "§6• §7Grants §c+35 Strength§7."
+          "text": "§8• §7Grants §c+35 Strength§7."
         },
         {
           "text": ""
@@ -286528,13 +286539,13 @@
           "text": "§aOrb Buff: Radiant"
         },
         {
-          "text": "§a• §7Heal yourself for §c30❤§7 per second."
+          "text": "§8• §7Heal yourself for §c30❤§7 per second."
         },
         {
-          "text": "§a• §7Heal others for §c15❤§7 per second."
+          "text": "§8• §7Heal others for §c15❤§7 per second."
         },
         {
-          "text": "§a• §7Gain §c+25 Health Regen§7."
+          "text": "§8• §7Gain §c+25 Health Regen§7."
         },
         {
           "text": ""
@@ -295831,13 +295842,16 @@
           "text": "§6Ability: Retentio  §e§lRIGHT CLICK"
         },
         {
-          "text": "§cTraps §7can be placed near the spawn"
+          "text": "§6Hunting Traps §7can be placed near"
         },
         {
-          "text": "§7location of a §9Shard §7creature, with"
+          "text": "§7the spawn location of a §9Shard"
         },
         {
-          "text": "§7time it will eventually catch it."
+          "text": "§7creature, with time it will eventually"
+        },
+        {
+          "text": "§7catch it."
         },
         {
           "text": ""
@@ -298766,10 +298780,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Bring this back to §dElise§7, she'll know"
+          "text": "§7Place this timecharm in the §dRift"
         },
         {
-          "text": "§7what to do with it!"
+          "text": "§dGallery §7to secure it forever!"
         },
         {
           "text": ""
@@ -336120,10 +336134,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Place this inside a jukebox to"
+          "text": "§7Place this inside a jukebox to play a"
         },
         {
-          "text": "§7play a spooky song!"
+          "text": "§7spooky song!"
         },
         {
           "text": ""
@@ -336143,7 +336157,18 @@
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:dyed_color"
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -354883,7 +354908,7 @@
           "text": "§7Doubles this piece's §a Defense §7while"
         },
         {
-          "text": "§7on §bMining Islands§7."
+          "text": "§7on §6Mining Islands§7."
         },
         {
           "text": ""
@@ -354941,7 +354966,7 @@
           "text": "§7Doubles this piece's §a Defense §7while"
         },
         {
-          "text": "§7on §bMining Islands§7."
+          "text": "§7on §6Mining Islands§7."
         },
         {
           "text": ""
@@ -354999,7 +355024,7 @@
           "text": "§7Doubles this piece's §a Defense §7while"
         },
         {
-          "text": "§7on §bMining Islands§7."
+          "text": "§7on §6Mining Islands§7."
         },
         {
           "text": ""
@@ -355057,7 +355082,7 @@
           "text": "§7Doubles this piece's §a Defense §7while"
         },
         {
-          "text": "§7on §bMining Islands§7."
+          "text": "§7on §6Mining Islands§7."
         },
         {
           "text": ""
@@ -357446,16 +357471,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Places a Teleport Pad down,"
+          "text": "§7Places a Teleport Pad down, allowing"
         },
         {
-          "text": "§7allowing you to teleport to any"
+          "text": "§7you to teleport to any other"
         },
         {
-          "text": "§7other Teleport Pad on your"
-        },
-        {
-          "text": "§7private island!"
+          "text": "§7Teleport Pad on your private island!"
         },
         {
           "text": "§8Maximum of 56 per island."
@@ -357469,7 +357491,18 @@
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:dyed_color"
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -363819,7 +363852,7 @@
           "text": "§7players within §a30 §7blocks."
         },
         {
-          "text": "§8Costs 50% of max mana."
+          "text": "§8Mana Cost: §b50% of max"
         },
         {
           "text": ""
@@ -378047,10 +378080,10 @@
           "text": "§7blocks."
         },
         {
-          "text": "§8Vitality Cost: §410"
+          "text": "§8Mana Cost: §b300"
         },
         {
-          "text": "§8Mana Cost: §b300"
+          "text": "§8Vitality Cost: §410"
         },
         {
           "text": "§8Cooldown: §a20s"
@@ -378095,13 +378128,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -382378,7 +382409,7 @@
           "text": "§bMineshaft§7, regardless of distance."
         },
         {
-          "text": "§8Costs 50% of max mana."
+          "text": "§8Mana Cost: §b50% of max"
         },
         {
           "text": ""
