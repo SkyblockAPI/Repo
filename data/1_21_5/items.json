@@ -8835,13 +8835,13 @@
           "text": "§8Tiered Bonus: Arachne's Faithful (0/8)"
         },
         {
-          "text": "§7Grants §c+5❤ Health §7and §a+5❈ Defense§7."
+          "text": "§7Grants §c+5 Health §7and §a+5 Defense§7."
         },
         {
           "text": ""
         },
         {
-          "text": "§4This item is Arachnal Ж!"
+          "text": "§4This item is Arachnal !"
         },
         {
           "text": ""
@@ -8861,15 +8861,13 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -8902,13 +8900,13 @@
           "text": "§8Tiered Bonus: Arachne's Faithful (0/8)"
         },
         {
-          "text": "§7Grants §c+5❤ Health §7and §a+5❈ Defense§7."
+          "text": "§7Grants §c+5 Health §7and §a+5 Defense§7."
         },
         {
           "text": ""
         },
         {
-          "text": "§4This item is Arachnal Ж!"
+          "text": "§4This item is Arachnal !"
         },
         {
           "text": ""
@@ -8928,15 +8926,13 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -9256,13 +9252,13 @@
           "text": "§8Tiered Bonus: Arachne's Faithful (0/8)"
         },
         {
-          "text": "§7Grants §c+5❤ Health §7and §a+5❈ Defense§7."
+          "text": "§7Grants §c+5 Health §7and §a+5 Defense§7."
         },
         {
           "text": ""
         },
         {
-          "text": "§4This item is Arachnal Ж!"
+          "text": "§4This item is Arachnal !"
         },
         {
           "text": ""
@@ -9289,15 +9285,13 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -9379,13 +9373,13 @@
           "text": "§8Tiered Bonus: Arachne's Faithful (0/8)"
         },
         {
-          "text": "§7Grants §c+5❤ Health §7and §a+5❈ Defense§7."
+          "text": "§7Grants §c+5 Health §7and §a+5 Defense§7."
         },
         {
           "text": ""
         },
         {
-          "text": "§4This item is Arachnal Ж!"
+          "text": "§4This item is Arachnal !"
         },
         {
           "text": ""
@@ -9405,15 +9399,13 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -10093,7 +10085,7 @@
           "text": "§6Passive: Defense Reduction"
         },
         {
-          "text": "§7Hits ignore §a5% §7of target's §a❈ Defense§7."
+          "text": "§7Hits ignore §a5% §7of target's §a Defense§7."
         },
         {
           "text": ""
@@ -23029,7 +23021,7 @@
           "text": "§9Dedication IV"
         },
         {
-          "text": "§7Grants §62☘ Farming Fortune §7for"
+          "text": "§7Grants §62 Farming Fortune §7for"
         },
         {
           "text": "§7crops, multiplied by your §aGarden"
@@ -23062,7 +23054,7 @@
           "text": ""
         },
         {
-          "text": "§7Gives §6+3☘ Farming Fortune §7for each"
+          "text": "§7Gives §6+3 Farming Fortune §7for each"
         },
         {
           "text": "§7SkyBlock Level (Max 25)."
@@ -31528,7 +31520,7 @@
           "text": "§7When applied to a vacuum, grants"
         },
         {
-          "text": "§c+10❁ Damage§7."
+          "text": "§c+20 Damage§7."
         },
         {
           "text": ""
@@ -31550,7 +31542,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -32269,7 +32261,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Provides a boost to your §b✎"
+          "text": "§7Provides a boost to your §b"
         },
         {
           "text": "§bIntelligence§7! The longer this item"
@@ -92332,7 +92324,7 @@
           "text": "§9Big Brain III"
         },
         {
-          "text": "§7Grants §b+15✎ Intelligence§7."
+          "text": "§7Grants §b+15 Intelligence§7."
         },
         {
           "text": ""
@@ -92671,7 +92663,7 @@
           "text": "§9Quantum III"
         },
         {
-          "text": "§7Grants §4+2.4♨ Vitality §7on weekdays"
+          "text": "§7Grants §4+2.4 Vitality §7on weekdays"
         },
         {
           "text": "§7and §3+1.2☯ §7of a random §3Wisdom §7stat"
@@ -92814,7 +92806,7 @@
           "text": "§7When damaged by an arrow, deal §b2x §7your"
         },
         {
-          "text": "§b✎ Intelligence §7to its shooter."
+          "text": "§b Intelligence §7to its shooter."
         },
         {
           "text": ""
@@ -92939,7 +92931,7 @@
           "text": "§d§lThe One IV"
         },
         {
-          "text": "§7Grants §c+0.5❤ Health §7and §c+0.1❁"
+          "text": "§7Grants §c+0.5 Health §7and §c+0.1"
         },
         {
           "text": "§cStrength §7per maxed out collection."
@@ -93002,7 +92994,7 @@
           "text": "§9Vicious III"
         },
         {
-          "text": "§7Grants §c+3⫽ Ferocity§7."
+          "text": "§7Grants §c+3 Ferocity§7."
         },
         {
           "text": ""
@@ -106463,7 +106455,7 @@
           "text": ""
         },
         {
-          "text": "§7You will lose §c10% §7of your §c❤ Health §7if"
+          "text": "§7You will lose §c10% §7of your §c Health §7if"
         },
         {
           "text": "§7you are in the explosion."
@@ -112531,7 +112523,7 @@
           "text": ""
         },
         {
-          "text": "§7Grants §6+1☘ Farming Fortune §7when"
+          "text": "§7Grants §6+1 Farming Fortune §7when"
         },
         {
           "text": "§7applied to a Farming Tool or Vacuum."
@@ -112553,7 +112545,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -192228,7 +192220,7 @@
           "text": "§6Ability: Friendship is Power "
         },
         {
-          "text": "§7Gain §5+1❁ Rift Damage §7and §b+2⚡ Mana"
+          "text": "§7Gain §5+1 Rift Damage §7and §b+2 Mana"
         },
         {
           "text": "§bRegen §7for each other wearer within"
@@ -192263,13 +192255,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -202039,11 +202033,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -202118,11 +202114,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -202207,11 +202205,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -202286,11 +202286,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -210290,13 +210292,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -272415,6 +272419,21 @@
           "text": ""
         },
         {
+          "text": "§6Ability: Sanity Check  §e§lLEFT CLICK"
+        },
+        {
+          "text": "§7Click a block in your §aGreenhouse §7to"
+        },
+        {
+          "text": "§7find out what §cMutations §7can grow"
+        },
+        {
+          "text": "§7there."
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§9§lRARE"
         }
       ],
@@ -289210,13 +289229,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Consume this §r§odangerous §7pepper to"
+          "text": "§7Consume this §7§odangerous §7pepper to"
         },
         {
-          "text": "§7permanently gain §c+1❤ Health §7and"
+          "text": "§7permanently gain §c+1 Health §7and"
         },
         {
-          "text": "§b+1❄ Cold Resistance§7."
+          "text": "§b+1 Cold Resistance§7."
         },
         {
           "text": ""
@@ -289246,7 +289265,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -293626,7 +293645,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Consume to gain §b+300✎ Intelligence"
+          "text": "§7Consume to gain §b+300 Intelligence"
         },
         {
           "text": "§7for §a60m§7!"
@@ -293641,7 +293660,7 @@
           "text": "§7Consuming this grants permanent"
         },
         {
-          "text": "§b+1✎ Intelligence§7."
+          "text": "§b+1 Intelligence§7."
         },
         {
           "text": ""
@@ -293663,7 +293682,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -298427,7 +298446,7 @@
           "text": "§7Grants §cStrength §7(10:00), granting"
         },
         {
-          "text": "§5+3❁ Rift Damage§7."
+          "text": "§5+3 Rift Damage§7."
         },
         {
           "text": ""
@@ -318668,7 +318687,7 @@
           "text": "§6Full Set Bonus: Dungeon Lord §7(0/4)"
         },
         {
-          "text": "§7Gains §c+5❁ Strength §7and §9+10☠ Crit"
+          "text": "§7Gains §c+5 Strength §7and §9+10 Crit"
         },
         {
           "text": "§9Damage §7every minute spent in the"
@@ -318750,7 +318769,7 @@
           "text": "§6Full Set Bonus: Dungeon Lord §7(0/4)"
         },
         {
-          "text": "§7Gains §c+5❁ Strength §7and §9+10☠ Crit"
+          "text": "§7Gains §c+5 Strength §7and §9+10 Crit"
         },
         {
           "text": "§9Damage §7every minute spent in the"
@@ -318832,7 +318851,7 @@
           "text": "§6Full Set Bonus: Dungeon Lord §7(0/4)"
         },
         {
-          "text": "§7Gains §c+5❁ Strength §7and §9+10☠ Crit"
+          "text": "§7Gains §c+5 Strength §7and §9+10 Crit"
         },
         {
           "text": "§9Damage §7every minute spent in the"
@@ -318913,7 +318932,7 @@
           "text": "§6Full Set Bonus: Dungeon Lord §7(0/4)"
         },
         {
-          "text": "§7Gains §c+5❁ Strength §7and §9+10☠ Crit"
+          "text": "§7Gains §c+5 Strength §7and §9+10 Crit"
         },
         {
           "text": "§9Damage §7every minute spent in the"
@@ -319846,7 +319865,7 @@
           "text": "§6Full Set Bonus: Skeletor §7(0/4)"
         },
         {
-          "text": "§7Grants §c+1❁ Strength §7and §9+1☠ Crit"
+          "text": "§7Grants §c+1 Strength §7and §9+1 Crit"
         },
         {
           "text": "§9Damage §7for every §b10 §7Skeletor kills"
@@ -319933,7 +319952,7 @@
           "text": "§6Full Set Bonus: Skeletor §7(0/4)"
         },
         {
-          "text": "§7Grants §c+1❁ Strength §7and §9+1☠ Crit"
+          "text": "§7Grants §c+1 Strength §7and §9+1 Crit"
         },
         {
           "text": "§9Damage §7for every §b10 §7Skeletor kills"
@@ -320031,7 +320050,7 @@
           "text": "§6Full Set Bonus: Skeletor §7(0/4)"
         },
         {
-          "text": "§7Grants §c+1❁ Strength §7and §9+1☠ Crit"
+          "text": "§7Grants §c+1 Strength §7and §9+1 Crit"
         },
         {
           "text": "§9Damage §7for every §b10 §7Skeletor kills"
@@ -320126,7 +320145,7 @@
           "text": "§6Full Set Bonus: Skeletor §7(0/4)"
         },
         {
-          "text": "§7Grants §c+1❁ Strength §7and §9+1☠ Crit"
+          "text": "§7Grants §c+1 Strength §7and §9+1 Crit"
         },
         {
           "text": "§9Damage §7for every §b10 §7Skeletor kills"
@@ -331189,13 +331208,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Grants §a+18❈ Defense §7while burning."
+          "text": "§7Accessory Power: §6+8"
         },
         {
           "text": ""
         },
         {
-          "text": "§3Trial of Blue Flames 9"
+          "text": "§7Grants §a+9 Defense §7while burning."
         },
         {
           "text": "§8§o\"Fire guy!\""
@@ -360260,7 +360279,7 @@
           "text": ""
         },
         {
-          "text": "§7Grants §c+40❤ Health §7when applied to"
+          "text": "§7Grants §c+40 Health §7when applied to"
         },
         {
           "text": "§7an armor piece. Can only be applied"
@@ -360288,7 +360307,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -368441,7 +368460,7 @@
           "text": "§6Ability: Cropshot "
         },
         {
-          "text": "§7Grants §6+3☘ Farming Fortune §7per"
+          "text": "§7Grants §6+3 Farming Fortune §7per"
         },
         {
           "text": "§9Chip §7Level!"
@@ -386153,10 +386172,22 @@
       },
       "minecraft:lore": [
         {
+          "text": "§7Rift Time: §a+100s"
+        },
+        {
+          "text": "§7Hearts: §c+1"
+        },
+        {
+          "text": "§7Mana Regen: §b+8%"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§6Ability: Friendship is Power "
         },
         {
-          "text": "§7Gain §5+1❁ Rift Damage §7and §b+2⚡ Mana"
+          "text": "§7Gain §5+1 Rift Damage §7and §b+2 Mana"
         },
         {
           "text": "§bRegen §7for each other wearer within"
@@ -386180,9 +386211,6 @@
           "text": ""
         },
         {
-          "text": "§8This item can be reforged!"
-        },
-        {
           "text": "§d§lMYTHIC LEGGINGS"
         }
       ],
@@ -386191,13 +386219,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -390931,7 +390961,7 @@
           "text": "§7Every §950 Zombies killed§7 gives the"
         },
         {
-          "text": "§7wearer §a+5 §c❤ Health§7 while wearing"
+          "text": "§7wearer §a+5 §c Health§7 while wearing"
         },
         {
           "text": "§7the set. Max 500."
@@ -391013,7 +391043,7 @@
           "text": "§7Every §950 Zombies killed§7 gives the"
         },
         {
-          "text": "§7wearer §a+5 §c❤ Health§7 while wearing"
+          "text": "§7wearer §a+5 §c Health§7 while wearing"
         },
         {
           "text": "§7the set. Max 500."
@@ -391104,7 +391134,7 @@
           "text": "§7Every §950 Zombies killed§7 gives the"
         },
         {
-          "text": "§7wearer §a+5 §c❤ Health§7 while wearing"
+          "text": "§7wearer §a+5 §c Health§7 while wearing"
         },
         {
           "text": "§7the set. Max 500."
@@ -391186,7 +391216,7 @@
           "text": "§7Every §950 Zombies killed§7 gives the"
         },
         {
-          "text": "§7wearer §a+5 §c❤ Health§7 while wearing"
+          "text": "§7wearer §a+5 §c Health§7 while wearing"
         },
         {
           "text": "§7the set. Max 500."
@@ -392329,7 +392359,7 @@
           "text": "§6Full Set Bonus: Zombie Knight §7(0/4)"
         },
         {
-          "text": "§7Gains §a+50❈ Defense §7when used with"
+          "text": "§7Gains §a+50 Defense §7when used with"
         },
         {
           "text": "§7the Zombie Knight Sword"
@@ -392404,7 +392434,7 @@
           "text": "§6Full Set Bonus: Zombie Knight §7(0/4)"
         },
         {
-          "text": "§7Gains §a+50❈ Defense §7when used with"
+          "text": "§7Gains §a+50 Defense §7when used with"
         },
         {
           "text": "§7the Zombie Knight Sword"
@@ -392479,7 +392509,7 @@
           "text": "§6Full Set Bonus: Zombie Knight §7(0/4)"
         },
         {
-          "text": "§7Gains §a+50❈ Defense §7when used with"
+          "text": "§7Gains §a+50 Defense §7when used with"
         },
         {
           "text": "§7the Zombie Knight Sword"
@@ -392554,7 +392584,7 @@
           "text": "§6Full Set Bonus: Zombie Knight §7(0/4)"
         },
         {
-          "text": "§7Gains §a+50❈ Defense §7when used with"
+          "text": "§7Gains §a+50 Defense §7when used with"
         },
         {
           "text": "§7the Zombie Knight Sword"
@@ -392761,7 +392791,7 @@
           "text": "§6Full Set Bonus: Dungeon Lord §7(0/4)"
         },
         {
-          "text": "§7Gains §c+10❁ Strength §7and §a+10❈"
+          "text": "§7Gains §c+10 Strength §7and §a+10"
         },
         {
           "text": "§aDefense §7every minute spent in the"
@@ -392843,7 +392873,7 @@
           "text": "§6Full Set Bonus: Dungeon Lord §7(0/4)"
         },
         {
-          "text": "§7Gains §c+10❁ Strength §7and §a+10❈"
+          "text": "§7Gains §c+10 Strength §7and §a+10"
         },
         {
           "text": "§aDefense §7every minute spent in the"
@@ -392925,7 +392955,7 @@
           "text": "§6Full Set Bonus: Dungeon Lord §7(0/4)"
         },
         {
-          "text": "§7Gains §c+10❁ Strength §7and §a+10❈"
+          "text": "§7Gains §c+10 Strength §7and §a+10"
         },
         {
           "text": "§aDefense §7every minute spent in the"
@@ -393006,7 +393036,7 @@
           "text": "§6Full Set Bonus: Dungeon Lord §7(0/4)"
         },
         {
-          "text": "§7Gains §c+10❁ Strength §7and §a+10❈"
+          "text": "§7Gains §c+10 Strength §7and §a+10"
         },
         {
           "text": "§aDefense §7every minute spent in the"
@@ -393281,7 +393311,7 @@
           "text": "§6Full Set Bonus: §cShoal §7(0/4)"
         },
         {
-          "text": "§7Gain §a+30❈ Defense §7for each §cZombie"
+          "text": "§7Gain §a+30 Defense §7for each §cZombie"
         },
         {
           "text": "§cSoldier Set §7within §a30 §7blocks."
@@ -393497,7 +393527,7 @@
           "text": "§6Full Set Bonus: §cShoal §7(0/4)"
         },
         {
-          "text": "§7Gain §a+30❈ Defense §7for each §cZombie"
+          "text": "§7Gain §a+30 Defense §7for each §cZombie"
         },
         {
           "text": "§cSoldier Set §7within §a30 §7blocks."
@@ -393570,7 +393600,7 @@
           "text": "§6Full Set Bonus: §cShoal §7(0/4)"
         },
         {
-          "text": "§7Gain §a+30❈ Defense §7for each §cZombie"
+          "text": "§7Gain §a+30 Defense §7for each §cZombie"
         },
         {
           "text": "§cSoldier Set §7within §a30 §7blocks."

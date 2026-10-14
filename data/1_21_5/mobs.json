@@ -55805,11 +55805,11 @@
   "TYASHOI_ALCHEMIST_NPC": {
     "island": "hub",
     "position": {
-      "x": 41,
-      "y": 68,
-      "z": -56
+      "x": 70,
+      "y": 71,
+      "z": -86
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzdiNDA2MDc0YjA2YmUzYWM5MWY1ZTk5Nzc0NDE2NzEwYWFiYzIyMTBhMmZiNjdhNzYyMDUxZDViNTYwYWQ4NCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJhYTFiOTAxMThkYTgyYmZmODQyMjE5YjQzZjU0YjllOCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzYwNjYwMDE2NzI4fQ==",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzdiNDA2MDc0YjA2YmUzYWM5MWY1ZTk5Nzc0NDE2NzEwYWFiYzIyMTBhMmZiNjdhNzYyMDUxZDViNTYwYWQ4NCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI1ZGM5YWIwZGJmYzYyZmFiOGQ5OWYyODgzMTQyNGZlMSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzkxOTkzOTM4Mzg2fQ==",
     "itemId": "minecraft:player_head",
     "item": {
       "id": "minecraft:player_head",
@@ -55829,7 +55829,7 @@
           "properties": [
             {
               "name": "textures",
-              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzdiNDA2MDc0YjA2YmUzYWM5MWY1ZTk5Nzc0NDE2NzEwYWFiYzIyMTBhMmZiNjdhNzYyMDUxZDViNTYwYWQ4NCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJhYTFiOTAxMThkYTgyYmZmODQyMjE5YjQzZjU0YjllOCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzYwNjYwMDE2NzI4fQ=="
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzdiNDA2MDc0YjA2YmUzYWM5MWY1ZTk5Nzc0NDE2NzEwYWFiYzIyMTBhMmZiNjdhNzYyMDUxZDViNTYwYWQ4NCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI1ZGM5YWIwZGJmYzYyZmFiOGQ5OWYyODgzMTQyNGZlMSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzkxOTkzOTM4Mzg2fQ=="
             }
           ]
         }
@@ -56539,6 +56539,12 @@
     ]
   },
   "VARGUL_NPC": {
+    "island": "hub",
+    "position": {
+      "x": -118,
+      "y": 62,
+      "z": 103
+    },
     "itemId": "minecraft:zombie_head",
     "item": {
       "id": "minecraft:zombie_head",

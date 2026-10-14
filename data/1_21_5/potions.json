@@ -621,7 +621,7 @@
         "literal_level": "I",
         "lore": [
           "§cAdrenaline I §f(3:00)",
-          "§7Grants §a+20 §7of absorption and §a+5 §f✦",
+          "§7Grants §a+20 §7of absorption and §a+5 §f",
           "§fSpeed§7.",
           "",
           "§f§lCOMMON"
@@ -653,7 +653,7 @@
                 "text": "§cAdrenaline I §f(3:00)"
               },
               {
-                "text": "§7Grants §a+20 §7of absorption and §a+5 §f✦"
+                "text": "§7Grants §a+20 §7of absorption and §a+5 §f"
               },
               {
                 "text": "§fSpeed§7."
@@ -679,13 +679,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -700,7 +702,7 @@
         "literal_level": "II",
         "lore": [
           "§cAdrenaline II §f(3:00)",
-          "§7Grants §a+40 §7of absorption and §a+10 §f✦",
+          "§7Grants §a+40 §7of absorption and §a+10 §f",
           "§fSpeed§7.",
           "",
           "§f§lCOMMON"
@@ -732,7 +734,7 @@
                 "text": "§cAdrenaline II §f(3:00)"
               },
               {
-                "text": "§7Grants §a+40 §7of absorption and §a+10 §f✦"
+                "text": "§7Grants §a+40 §7of absorption and §a+10 §f"
               },
               {
                 "text": "§fSpeed§7."
@@ -759,13 +761,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -780,7 +784,7 @@
         "literal_level": "III",
         "lore": [
           "§cAdrenaline III §f(3:00)",
-          "§7Grants §a+60 §7of absorption and §a+15 §f✦",
+          "§7Grants §a+60 §7of absorption and §a+15 §f",
           "§fSpeed§7.",
           "",
           "§a§lUNCOMMON"
@@ -812,7 +816,7 @@
                 "text": "§cAdrenaline III §f(3:00)"
               },
               {
-                "text": "§7Grants §a+60 §7of absorption and §a+15 §f✦"
+                "text": "§7Grants §a+60 §7of absorption and §a+15 §f"
               },
               {
                 "text": "§fSpeed§7."
@@ -839,13 +843,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -860,7 +866,7 @@
         "literal_level": "IV",
         "lore": [
           "§cAdrenaline IV §f(3:00)",
-          "§7Grants §a+80 §7of absorption and §a+20 §f✦",
+          "§7Grants §a+80 §7of absorption and §a+20 §f",
           "§fSpeed§7.",
           "",
           "§a§lUNCOMMON"
@@ -892,7 +898,7 @@
                 "text": "§cAdrenaline IV §f(3:00)"
               },
               {
-                "text": "§7Grants §a+80 §7of absorption and §a+20 §f✦"
+                "text": "§7Grants §a+80 §7of absorption and §a+20 §f"
               },
               {
                 "text": "§fSpeed§7."
@@ -919,13 +925,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -941,7 +949,7 @@
         "lore": [
           "§cAdrenaline V §f(3:00)",
           "§7Grants §a+100 §7of absorption and §a+25",
-          "§a§f✦ Speed§7.",
+          "§f Speed§7.",
           "",
           "§9§lRARE"
         ],
@@ -975,7 +983,7 @@
                 "text": "§7Grants §a+100 §7of absorption and §a+25"
               },
               {
-                "text": "§a§f✦ Speed§7."
+                "text": "§f Speed§7."
               },
               {
                 "text": ""
@@ -999,13 +1007,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -1021,7 +1031,7 @@
         "lore": [
           "§cAdrenaline VI §f(3:00)",
           "§7Grants §a+150 §7of absorption and §a+30",
-          "§a§f✦ Speed§7.",
+          "§f Speed§7.",
           "",
           "§9§lRARE"
         ],
@@ -1055,7 +1065,7 @@
                 "text": "§7Grants §a+150 §7of absorption and §a+30"
               },
               {
-                "text": "§a§f✦ Speed§7."
+                "text": "§f Speed§7."
               },
               {
                 "text": ""
@@ -1079,13 +1089,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -1101,7 +1113,7 @@
         "lore": [
           "§cAdrenaline VII §f(3:00)",
           "§7Grants §a+200 §7of absorption and §a+35",
-          "§a§f✦ Speed§7.",
+          "§f Speed§7.",
           "",
           "§5§lEPIC"
         ],
@@ -1135,7 +1147,7 @@
                 "text": "§7Grants §a+200 §7of absorption and §a+35"
               },
               {
-                "text": "§a§f✦ Speed§7."
+                "text": "§f Speed§7."
               },
               {
                 "text": ""
@@ -1159,13 +1171,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -1181,7 +1195,7 @@
         "lore": [
           "§cAdrenaline VIII §f(3:00)",
           "§7Grants §a+300 §7of absorption and §a+40",
-          "§a§f✦ Speed§7.",
+          "§f Speed§7.",
           "",
           "§5§lEPIC"
         ],
@@ -1215,7 +1229,7 @@
                 "text": "§7Grants §a+300 §7of absorption and §a+40"
               },
               {
-                "text": "§a§f✦ Speed§7."
+                "text": "§f Speed§7."
               },
               {
                 "text": ""
@@ -1239,13 +1253,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -1259,7 +1275,7 @@
     "type": "POTION",
     "internal_potion": "adrenaline",
     "name": "Adrenaline",
-    "vanilla_effect": "regeneration"
+    "vanilla_effect": "water"
   },
   "POTION_AGILITY": {
     "levels": [
@@ -1268,7 +1284,7 @@
         "literal_level": "I",
         "lore": [
           "§5Agility I §f(3:00)",
-          "§7Grants §a+10 §f✦ Speed §7and increases",
+          "§7Grants §a+10 §f Speed §7and increases",
           "§7the chance for mob attacks to miss",
           "§7by §a10%§7.",
           "",
@@ -1301,7 +1317,7 @@
                 "text": "§5Agility I §f(3:00)"
               },
               {
-                "text": "§7Grants §a+10 §f✦ Speed §7and increases"
+                "text": "§7Grants §a+10 §f Speed §7and increases"
               },
               {
                 "text": "§7the chance for mob attacks to miss"
@@ -1330,13 +1346,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -1351,7 +1369,7 @@
         "literal_level": "II",
         "lore": [
           "§5Agility II §f(3:00)",
-          "§7Grants §a+20 §f✦ Speed §7and increases",
+          "§7Grants §a+20 §f Speed §7and increases",
           "§7the chance for mob attacks to miss",
           "§7by §a20%§7.",
           "",
@@ -1384,7 +1402,7 @@
                 "text": "§5Agility II §f(3:00)"
               },
               {
-                "text": "§7Grants §a+20 §f✦ Speed §7and increases"
+                "text": "§7Grants §a+20 §f Speed §7and increases"
               },
               {
                 "text": "§7the chance for mob attacks to miss"
@@ -1414,13 +1432,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -1435,7 +1455,7 @@
         "literal_level": "III",
         "lore": [
           "§5Agility III §f(3:00)",
-          "§7Grants §a+30 §f✦ Speed §7and increases",
+          "§7Grants §a+30 §f Speed §7and increases",
           "§7the chance for mob attacks to miss",
           "§7by §a30%§7.",
           "",
@@ -1468,7 +1488,7 @@
                 "text": "§5Agility III §f(3:00)"
               },
               {
-                "text": "§7Grants §a+30 §f✦ Speed §7and increases"
+                "text": "§7Grants §a+30 §f Speed §7and increases"
               },
               {
                 "text": "§7the chance for mob attacks to miss"
@@ -1498,13 +1518,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -1519,7 +1541,7 @@
         "literal_level": "IV",
         "lore": [
           "§5Agility IV §f(3:00)",
-          "§7Grants §a+40 §f✦ Speed §7and increases",
+          "§7Grants §a+40 §f Speed §7and increases",
           "§7the chance for mob attacks to miss",
           "§7by §a40%§7.",
           "",
@@ -1552,7 +1574,7 @@
                 "text": "§5Agility IV §f(3:00)"
               },
               {
-                "text": "§7Grants §a+40 §f✦ Speed §7and increases"
+                "text": "§7Grants §a+40 §f Speed §7and increases"
               },
               {
                 "text": "§7the chance for mob attacks to miss"
@@ -1582,13 +1604,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -1602,7 +1626,7 @@
     "type": "POTION",
     "internal_potion": "agility",
     "name": "Agility",
-    "vanilla_effect": "night_vision"
+    "vanilla_effect": "water"
   },
   "POTION_ALCHEMY_XP_BOOST": {
     "levels": [
@@ -2806,7 +2830,7 @@
         "literal_level": "I",
         "lore": [
           "§bCold Resistance I §f(3:00)",
-          "§7Gain §b+2.5❄ Cold Resistance§7.",
+          "§7Gain §b+2.5 Cold Resistance§7.",
           "",
           "§f§lCOMMON"
         ],
@@ -2837,7 +2861,7 @@
                 "text": "§bCold Resistance I §f(3:00)"
               },
               {
-                "text": "§7Gain §b+2.5❄ Cold Resistance§7."
+                "text": "§7Gain §b+2.5 Cold Resistance§7."
               },
               {
                 "text": ""
@@ -2860,13 +2884,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -2881,7 +2907,7 @@
         "literal_level": "II",
         "lore": [
           "§bCold Resistance II §f(3:00)",
-          "§7Gain §b+5❄ Cold Resistance§7.",
+          "§7Gain §b+5 Cold Resistance§7.",
           "",
           "§f§lCOMMON"
         ],
@@ -2912,7 +2938,7 @@
                 "text": "§bCold Resistance II §f(3:00)"
               },
               {
-                "text": "§7Gain §b+5❄ Cold Resistance§7."
+                "text": "§7Gain §b+5 Cold Resistance§7."
               },
               {
                 "text": ""
@@ -2936,13 +2962,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -2957,7 +2985,7 @@
         "literal_level": "III",
         "lore": [
           "§bCold Resistance III §f(3:00)",
-          "§7Gain §b+7.5❄ Cold Resistance§7.",
+          "§7Gain §b+7.5 Cold Resistance§7.",
           "",
           "§a§lUNCOMMON"
         ],
@@ -2988,7 +3016,7 @@
                 "text": "§bCold Resistance III §f(3:00)"
               },
               {
-                "text": "§7Gain §b+7.5❄ Cold Resistance§7."
+                "text": "§7Gain §b+7.5 Cold Resistance§7."
               },
               {
                 "text": ""
@@ -3012,13 +3040,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -3033,7 +3063,7 @@
         "literal_level": "IV",
         "lore": [
           "§bCold Resistance IV §f(3:00)",
-          "§7Gain §b+10❄ Cold Resistance§7.",
+          "§7Gain §b+10 Cold Resistance§7.",
           "",
           "§a§lUNCOMMON"
         ],
@@ -3064,7 +3094,7 @@
                 "text": "§bCold Resistance IV §f(3:00)"
               },
               {
-                "text": "§7Gain §b+10❄ Cold Resistance§7."
+                "text": "§7Gain §b+10 Cold Resistance§7."
               },
               {
                 "text": ""
@@ -3088,13 +3118,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -3108,7 +3140,7 @@
     "type": "POTION",
     "internal_potion": "cold_resistance",
     "name": "Cold Resistance",
-    "vanilla_effect": "swiftness"
+    "vanilla_effect": "water"
   },
   "POTION_COMBAT_XP_BOOST": {
     "levels": [
@@ -3349,8 +3381,8 @@
         "literal_level": "I",
         "lore": [
           "§4Critical I §f(3:00)",
-          "§7Increases §9☣ Crit Chance §7by §a10% §7and",
-          "§7§9☠ Crit Damage §7by §a10%§7.",
+          "§7Increases §9 Crit Chance §7by §a10% §7and",
+          "§9 Crit Damage §7by §a10%§7.",
           "",
           "§f§lCOMMON"
         ],
@@ -3381,10 +3413,10 @@
                 "text": "§4Critical I §f(3:00)"
               },
               {
-                "text": "§7Increases §9☣ Crit Chance §7by §a10% §7and"
+                "text": "§7Increases §9 Crit Chance §7by §a10% §7and"
               },
               {
-                "text": "§7§9☠ Crit Damage §7by §a10%§7."
+                "text": "§9 Crit Damage §7by §a10%§7."
               },
               {
                 "text": ""
@@ -3407,13 +3439,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -3428,8 +3462,8 @@
         "literal_level": "II",
         "lore": [
           "§4Critical II §f(3:00)",
-          "§7Increases §9☣ Crit Chance §7by §a15% §7and",
-          "§7§9☠ Crit Damage §7by §a20%§7.",
+          "§7Increases §9 Crit Chance §7by §a15% §7and",
+          "§9 Crit Damage §7by §a20%§7.",
           "",
           "§f§lCOMMON"
         ],
@@ -3460,10 +3494,10 @@
                 "text": "§4Critical II §f(3:00)"
               },
               {
-                "text": "§7Increases §9☣ Crit Chance §7by §a15% §7and"
+                "text": "§7Increases §9 Crit Chance §7by §a15% §7and"
               },
               {
-                "text": "§7§9☠ Crit Damage §7by §a20%§7."
+                "text": "§9 Crit Damage §7by §a20%§7."
               },
               {
                 "text": ""
@@ -3487,13 +3521,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -3508,8 +3544,8 @@
         "literal_level": "III",
         "lore": [
           "§4Critical III §f(3:00)",
-          "§7Increases §9☣ Crit Chance §7by §a20% §7and",
-          "§7§9☠ Crit Damage §7by §a30%§7.",
+          "§7Increases §9 Crit Chance §7by §a20% §7and",
+          "§9 Crit Damage §7by §a30%§7.",
           "",
           "§a§lUNCOMMON"
         ],
@@ -3540,10 +3576,10 @@
                 "text": "§4Critical III §f(3:00)"
               },
               {
-                "text": "§7Increases §9☣ Crit Chance §7by §a20% §7and"
+                "text": "§7Increases §9 Crit Chance §7by §a20% §7and"
               },
               {
-                "text": "§7§9☠ Crit Damage §7by §a30%§7."
+                "text": "§9 Crit Damage §7by §a30%§7."
               },
               {
                 "text": ""
@@ -3567,13 +3603,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -3588,8 +3626,8 @@
         "literal_level": "IV",
         "lore": [
           "§4Critical IV §f(3:00)",
-          "§7Increases §9☣ Crit Chance §7by §a25% §7and",
-          "§7§9☠ Crit Damage §7by §a40%§7.",
+          "§7Increases §9 Crit Chance §7by §a25% §7and",
+          "§9 Crit Damage §7by §a40%§7.",
           "",
           "§a§lUNCOMMON"
         ],
@@ -3620,10 +3658,10 @@
                 "text": "§4Critical IV §f(3:00)"
               },
               {
-                "text": "§7Increases §9☣ Crit Chance §7by §a25% §7and"
+                "text": "§7Increases §9 Crit Chance §7by §a25% §7and"
               },
               {
-                "text": "§7§9☠ Crit Damage §7by §a40%§7."
+                "text": "§9 Crit Damage §7by §a40%§7."
               },
               {
                 "text": ""
@@ -3647,13 +3685,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -3667,7 +3707,7 @@
     "type": "POTION",
     "internal_potion": "critical",
     "name": "Critical",
-    "vanilla_effect": "harming"
+    "vanilla_effect": "water"
   },
   "POTION_DAMAGE": {
     "levels": [
@@ -7162,7 +7202,7 @@
         "literal_level": "I",
         "lore": [
           "§eHaste I §f(3:00)",
-          "§7Grants §a+50 §6⸕ Mining Speed§7.",
+          "§7Grants §a+50 §6 Mining Speed§7.",
           "",
           "§f§lCOMMON"
         ],
@@ -7193,7 +7233,7 @@
                 "text": "§eHaste I §f(3:00)"
               },
               {
-                "text": "§7Grants §a+50 §6⸕ Mining Speed§7."
+                "text": "§7Grants §a+50 §6 Mining Speed§7."
               },
               {
                 "text": ""
@@ -7216,13 +7256,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -7237,7 +7279,7 @@
         "literal_level": "II",
         "lore": [
           "§eHaste II §f(3:00)",
-          "§7Grants §a+100 §6⸕ Mining Speed§7.",
+          "§7Grants §a+100 §6 Mining Speed§7.",
           "",
           "§f§lCOMMON"
         ],
@@ -7268,7 +7310,7 @@
                 "text": "§eHaste II §f(3:00)"
               },
               {
-                "text": "§7Grants §a+100 §6⸕ Mining Speed§7."
+                "text": "§7Grants §a+100 §6 Mining Speed§7."
               },
               {
                 "text": ""
@@ -7292,13 +7334,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -7313,7 +7357,7 @@
         "literal_level": "III",
         "lore": [
           "§eHaste III §f(3:00)",
-          "§7Grants §a+150 §6⸕ Mining Speed§7.",
+          "§7Grants §a+150 §6 Mining Speed§7.",
           "",
           "§a§lUNCOMMON"
         ],
@@ -7344,7 +7388,7 @@
                 "text": "§eHaste III §f(3:00)"
               },
               {
-                "text": "§7Grants §a+150 §6⸕ Mining Speed§7."
+                "text": "§7Grants §a+150 §6 Mining Speed§7."
               },
               {
                 "text": ""
@@ -7368,13 +7412,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -7389,7 +7435,7 @@
         "literal_level": "IV",
         "lore": [
           "§eHaste IV §f(3:00)",
-          "§7Grants §a+200 §6⸕ Mining Speed§7.",
+          "§7Grants §a+200 §6 Mining Speed§7.",
           "",
           "§a§lUNCOMMON"
         ],
@@ -7420,7 +7466,7 @@
                 "text": "§eHaste IV §f(3:00)"
               },
               {
-                "text": "§7Grants §a+200 §6⸕ Mining Speed§7."
+                "text": "§7Grants §a+200 §6 Mining Speed§7."
               },
               {
                 "text": ""
@@ -7444,13 +7490,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -7464,7 +7512,7 @@
     "type": "POTION",
     "internal_potion": "haste",
     "name": "Haste",
-    "vanilla_effect": "fire_resistance"
+    "vanilla_effect": "water"
   },
   "POTION_HEALING": {
     "levels": [
@@ -10787,7 +10835,7 @@
         "literal_level": "I",
         "lore": [
           "§aRabbit I §f(3:00)",
-          "§7Grants Jump Boost I and §a+10 §f✦",
+          "§7Grants Jump Boost I and §a+10 §f",
           "§fSpeed§7.",
           "",
           "§f§lCOMMON"
@@ -10819,7 +10867,7 @@
                 "text": "§aRabbit I §f(3:00)"
               },
               {
-                "text": "§7Grants Jump Boost I and §a+10 §f✦"
+                "text": "§7Grants Jump Boost I and §a+10 §f"
               },
               {
                 "text": "§fSpeed§7."
@@ -10845,13 +10893,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -10866,7 +10916,7 @@
         "literal_level": "II",
         "lore": [
           "§aRabbit II §f(3:00)",
-          "§7Grants Jump Boost I and §a+20 §f✦",
+          "§7Grants Jump Boost I and §a+20 §f",
           "§fSpeed§7.",
           "",
           "§f§lCOMMON"
@@ -10898,7 +10948,7 @@
                 "text": "§aRabbit II §f(3:00)"
               },
               {
-                "text": "§7Grants Jump Boost I and §a+20 §f✦"
+                "text": "§7Grants Jump Boost I and §a+20 §f"
               },
               {
                 "text": "§fSpeed§7."
@@ -10925,13 +10975,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -10946,7 +10998,7 @@
         "literal_level": "III",
         "lore": [
           "§aRabbit III §f(3:00)",
-          "§7Grants Jump Boost II and §a+30 §f✦",
+          "§7Grants Jump Boost II and §a+30 §f",
           "§fSpeed§7.",
           "",
           "§a§lUNCOMMON"
@@ -10978,7 +11030,7 @@
                 "text": "§aRabbit III §f(3:00)"
               },
               {
-                "text": "§7Grants Jump Boost II and §a+30 §f✦"
+                "text": "§7Grants Jump Boost II and §a+30 §f"
               },
               {
                 "text": "§fSpeed§7."
@@ -11005,13 +11057,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -11026,7 +11080,7 @@
         "literal_level": "IV",
         "lore": [
           "§aRabbit IV §f(3:00)",
-          "§7Grants Jump Boost II and §a+40 §f✦",
+          "§7Grants Jump Boost II and §a+40 §f",
           "§fSpeed§7.",
           "",
           "§a§lUNCOMMON"
@@ -11058,7 +11112,7 @@
                 "text": "§aRabbit IV §f(3:00)"
               },
               {
-                "text": "§7Grants Jump Boost II and §a+40 §f✦"
+                "text": "§7Grants Jump Boost II and §a+40 §f"
               },
               {
                 "text": "§fSpeed§7."
@@ -11085,13 +11139,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -11106,7 +11162,7 @@
         "literal_level": "V",
         "lore": [
           "§aRabbit V §f(3:00)",
-          "§7Grants Jump Boost III and §a+50 §f✦",
+          "§7Grants Jump Boost III and §a+50 §f",
           "§fSpeed§7.",
           "",
           "§9§lRARE"
@@ -11138,7 +11194,7 @@
                 "text": "§aRabbit V §f(3:00)"
               },
               {
-                "text": "§7Grants Jump Boost III and §a+50 §f✦"
+                "text": "§7Grants Jump Boost III and §a+50 §f"
               },
               {
                 "text": "§fSpeed§7."
@@ -11165,13 +11221,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -11186,7 +11244,7 @@
         "literal_level": "VI",
         "lore": [
           "§aRabbit VI §f(3:00)",
-          "§7Grants Jump Boost III and §a+60 §f✦",
+          "§7Grants Jump Boost III and §a+60 §f",
           "§fSpeed§7.",
           "",
           "§9§lRARE"
@@ -11218,7 +11276,7 @@
                 "text": "§aRabbit VI §f(3:00)"
               },
               {
-                "text": "§7Grants Jump Boost III and §a+60 §f✦"
+                "text": "§7Grants Jump Boost III and §a+60 §f"
               },
               {
                 "text": "§fSpeed§7."
@@ -11245,13 +11303,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -11265,7 +11325,7 @@
     "type": "POTION",
     "internal_potion": "rabbit",
     "name": "Rabbit",
-    "vanilla_effect": "poison"
+    "vanilla_effect": "water"
   },
   "POTION_REGENERATION": {
     "levels": [
@@ -11971,7 +12031,7 @@
         "literal_level": "I",
         "lore": [
           "§aResistance I §f(3:00)",
-          "§7Increases §a❈ Defense §7by §a+5§7.",
+          "§7Increases §a Defense §7by §a+5§7.",
           "",
           "§f§lCOMMON"
         ],
@@ -12002,7 +12062,7 @@
                 "text": "§aResistance I §f(3:00)"
               },
               {
-                "text": "§7Increases §a❈ Defense §7by §a+5§7."
+                "text": "§7Increases §a Defense §7by §a+5§7."
               },
               {
                 "text": ""
@@ -12025,13 +12085,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -12046,7 +12108,7 @@
         "literal_level": "II",
         "lore": [
           "§aResistance II §f(3:00)",
-          "§7Increases §a❈ Defense §7by §a+10§7.",
+          "§7Increases §a Defense §7by §a+10§7.",
           "",
           "§f§lCOMMON"
         ],
@@ -12077,7 +12139,7 @@
                 "text": "§aResistance II §f(3:00)"
               },
               {
-                "text": "§7Increases §a❈ Defense §7by §a+10§7."
+                "text": "§7Increases §a Defense §7by §a+10§7."
               },
               {
                 "text": ""
@@ -12101,13 +12163,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -12122,7 +12186,7 @@
         "literal_level": "III",
         "lore": [
           "§aResistance III §f(3:00)",
-          "§7Increases §a❈ Defense §7by §a+15§7.",
+          "§7Increases §a Defense §7by §a+15§7.",
           "",
           "§a§lUNCOMMON"
         ],
@@ -12153,7 +12217,7 @@
                 "text": "§aResistance III §f(3:00)"
               },
               {
-                "text": "§7Increases §a❈ Defense §7by §a+15§7."
+                "text": "§7Increases §a Defense §7by §a+15§7."
               },
               {
                 "text": ""
@@ -12177,13 +12241,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -12198,7 +12264,7 @@
         "literal_level": "IV",
         "lore": [
           "§aResistance IV §f(3:00)",
-          "§7Increases §a❈ Defense §7by §a+20§7.",
+          "§7Increases §a Defense §7by §a+20§7.",
           "",
           "§a§lUNCOMMON"
         ],
@@ -12229,7 +12295,7 @@
                 "text": "§aResistance IV §f(3:00)"
               },
               {
-                "text": "§7Increases §a❈ Defense §7by §a+20§7."
+                "text": "§7Increases §a Defense §7by §a+20§7."
               },
               {
                 "text": ""
@@ -12253,13 +12319,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -12274,7 +12342,7 @@
         "literal_level": "V",
         "lore": [
           "§aResistance V §f(3:00)",
-          "§7Increases §a❈ Defense §7by §a+30§7.",
+          "§7Increases §a Defense §7by §a+30§7.",
           "",
           "§9§lRARE"
         ],
@@ -12305,7 +12373,7 @@
                 "text": "§aResistance V §f(3:00)"
               },
               {
-                "text": "§7Increases §a❈ Defense §7by §a+30§7."
+                "text": "§7Increases §a Defense §7by §a+30§7."
               },
               {
                 "text": ""
@@ -12329,13 +12397,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -12350,7 +12420,7 @@
         "literal_level": "VI",
         "lore": [
           "§aResistance VI §f(3:00)",
-          "§7Increases §a❈ Defense §7by §a+40§7.",
+          "§7Increases §a Defense §7by §a+40§7.",
           "",
           "§9§lRARE"
         ],
@@ -12381,7 +12451,7 @@
                 "text": "§aResistance VI §f(3:00)"
               },
               {
-                "text": "§7Increases §a❈ Defense §7by §a+40§7."
+                "text": "§7Increases §a Defense §7by §a+40§7."
               },
               {
                 "text": ""
@@ -12405,13 +12475,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -12426,7 +12498,7 @@
         "literal_level": "VII",
         "lore": [
           "§aResistance VII §f(3:00)",
-          "§7Increases §a❈ Defense §7by §a+50§7.",
+          "§7Increases §a Defense §7by §a+50§7.",
           "",
           "§5§lEPIC"
         ],
@@ -12457,7 +12529,7 @@
                 "text": "§aResistance VII §f(3:00)"
               },
               {
-                "text": "§7Increases §a❈ Defense §7by §a+50§7."
+                "text": "§7Increases §a Defense §7by §a+50§7."
               },
               {
                 "text": ""
@@ -12481,13 +12553,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -12502,7 +12576,7 @@
         "literal_level": "VIII",
         "lore": [
           "§aResistance VIII §f(3:00)",
-          "§7Increases §a❈ Defense §7by §a+60§7.",
+          "§7Increases §a Defense §7by §a+60§7.",
           "",
           "§5§lEPIC"
         ],
@@ -12533,7 +12607,7 @@
                 "text": "§aResistance VIII §f(3:00)"
               },
               {
-                "text": "§7Increases §a❈ Defense §7by §a+60§7."
+                "text": "§7Increases §a Defense §7by §a+60§7."
               },
               {
                 "text": ""
@@ -12557,13 +12631,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -12577,7 +12653,7 @@
     "type": "POTION",
     "internal_potion": "resistance",
     "name": "Resistance",
-    "vanilla_effect": "poison"
+    "vanilla_effect": "water"
   },
   "POTION_RIFT_GRAVITY": {
     "levels": [
@@ -12767,7 +12843,7 @@
         "literal_level": "I",
         "lore": [
           "§7Slowness I §f(3:00)",
-          "§7Removes §f20✦ Speed§7.",
+          "§7Removes §f20 Speed§7.",
           "",
           "§f§lCOMMON"
         ],
@@ -12798,7 +12874,7 @@
                 "text": "§7Slowness I §f(3:00)"
               },
               {
-                "text": "§7Removes §f20✦ Speed§7."
+                "text": "§7Removes §f20 Speed§7."
               },
               {
                 "text": ""
@@ -12821,13 +12897,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -12842,7 +12920,7 @@
         "literal_level": "II",
         "lore": [
           "§7Slowness II §f(3:00)",
-          "§7Removes §f40✦ Speed§7.",
+          "§7Removes §f40 Speed§7.",
           "",
           "§f§lCOMMON"
         ],
@@ -12873,7 +12951,7 @@
                 "text": "§7Slowness II §f(3:00)"
               },
               {
-                "text": "§7Removes §f40✦ Speed§7."
+                "text": "§7Removes §f40 Speed§7."
               },
               {
                 "text": ""
@@ -12897,13 +12975,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -12918,7 +12998,7 @@
         "literal_level": "III",
         "lore": [
           "§7Slowness III §f(3:00)",
-          "§7Removes §f75✦ Speed§7.",
+          "§7Removes §f75 Speed§7.",
           "",
           "§a§lUNCOMMON"
         ],
@@ -12949,7 +13029,7 @@
                 "text": "§7Slowness III §f(3:00)"
               },
               {
-                "text": "§7Removes §f75✦ Speed§7."
+                "text": "§7Removes §f75 Speed§7."
               },
               {
                 "text": ""
@@ -12973,13 +13053,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -12994,7 +13076,7 @@
         "literal_level": "IV",
         "lore": [
           "§7Slowness IV §f(3:00)",
-          "§7Removes §f99✦ Speed§7.",
+          "§7Removes §f99 Speed§7.",
           "",
           "§a§lUNCOMMON"
         ],
@@ -13025,7 +13107,7 @@
                 "text": "§7Slowness IV §f(3:00)"
               },
               {
-                "text": "§7Removes §f99✦ Speed§7."
+                "text": "§7Removes §f99 Speed§7."
               },
               {
                 "text": ""
@@ -13049,13 +13131,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -13070,7 +13154,7 @@
         "literal_level": "V",
         "lore": [
           "§7Slowness V §f(3:00)",
-          "§7Removes §f150✦ Speed§7.",
+          "§7Removes §f150 Speed§7.",
           "",
           "§9§lRARE"
         ],
@@ -13101,7 +13185,7 @@
                 "text": "§7Slowness V §f(3:00)"
               },
               {
-                "text": "§7Removes §f150✦ Speed§7."
+                "text": "§7Removes §f150 Speed§7."
               },
               {
                 "text": ""
@@ -13125,13 +13209,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -13146,7 +13232,7 @@
         "literal_level": "VI",
         "lore": [
           "§7Slowness VI §f(3:00)",
-          "§7Removes §f240✦ Speed§7.",
+          "§7Removes §f240 Speed§7.",
           "",
           "§9§lRARE"
         ],
@@ -13177,7 +13263,7 @@
                 "text": "§7Slowness VI §f(3:00)"
               },
               {
-                "text": "§7Removes §f240✦ Speed§7."
+                "text": "§7Removes §f240 Speed§7."
               },
               {
                 "text": ""
@@ -13201,13 +13287,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -13222,7 +13310,7 @@
         "literal_level": "VII",
         "lore": [
           "§7Slowness VII §f(3:00)",
-          "§7Removes §f380✦ Speed§7.",
+          "§7Removes §f380 Speed§7.",
           "",
           "§5§lEPIC"
         ],
@@ -13253,7 +13341,7 @@
                 "text": "§7Slowness VII §f(3:00)"
               },
               {
-                "text": "§7Removes §f380✦ Speed§7."
+                "text": "§7Removes §f380 Speed§7."
               },
               {
                 "text": ""
@@ -13277,13 +13365,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -13298,7 +13388,7 @@
         "literal_level": "VIII",
         "lore": [
           "§7Slowness VIII §f(3:00)",
-          "§7Removes §f500✦ Speed§7.",
+          "§7Removes §f500 Speed§7.",
           "",
           "§5§lEPIC"
         ],
@@ -13329,7 +13419,7 @@
                 "text": "§7Slowness VIII §f(3:00)"
               },
               {
-                "text": "§7Removes §f500✦ Speed§7."
+                "text": "§7Removes §f500 Speed§7."
               },
               {
                 "text": ""
@@ -13353,13 +13443,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -13373,7 +13465,7 @@
     "type": "POTION",
     "internal_potion": "slowness",
     "name": "Slowness",
-    "vanilla_effect": "slowness"
+    "vanilla_effect": "water"
   },
   "POTION_SPEED": {
     "levels": [
@@ -13382,7 +13474,7 @@
         "literal_level": "I",
         "lore": [
           "§9Speed I §f(3:00)",
-          "§7Grants §a+5 §f✦ Speed§7.",
+          "§7Grants §a+5 §f Speed§7.",
           "",
           "§f§lCOMMON"
         ],
@@ -13413,7 +13505,7 @@
                 "text": "§9Speed I §f(3:00)"
               },
               {
-                "text": "§7Grants §a+5 §f✦ Speed§7."
+                "text": "§7Grants §a+5 §f Speed§7."
               },
               {
                 "text": ""
@@ -13436,13 +13528,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -13457,7 +13551,7 @@
         "literal_level": "II",
         "lore": [
           "§9Speed II §f(3:00)",
-          "§7Grants §a+10 §f✦ Speed§7.",
+          "§7Grants §a+10 §f Speed§7.",
           "",
           "§f§lCOMMON"
         ],
@@ -13488,7 +13582,7 @@
                 "text": "§9Speed II §f(3:00)"
               },
               {
-                "text": "§7Grants §a+10 §f✦ Speed§7."
+                "text": "§7Grants §a+10 §f Speed§7."
               },
               {
                 "text": ""
@@ -13512,13 +13606,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -13533,7 +13629,7 @@
         "literal_level": "III",
         "lore": [
           "§9Speed III §f(3:00)",
-          "§7Grants §a+15 §f✦ Speed§7.",
+          "§7Grants §a+15 §f Speed§7.",
           "",
           "§a§lUNCOMMON"
         ],
@@ -13564,7 +13660,7 @@
                 "text": "§9Speed III §f(3:00)"
               },
               {
-                "text": "§7Grants §a+15 §f✦ Speed§7."
+                "text": "§7Grants §a+15 §f Speed§7."
               },
               {
                 "text": ""
@@ -13588,13 +13684,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -13609,7 +13707,7 @@
         "literal_level": "IV",
         "lore": [
           "§9Speed IV §f(3:00)",
-          "§7Grants §a+20 §f✦ Speed§7.",
+          "§7Grants §a+20 §f Speed§7.",
           "",
           "§a§lUNCOMMON"
         ],
@@ -13640,7 +13738,7 @@
                 "text": "§9Speed IV §f(3:00)"
               },
               {
-                "text": "§7Grants §a+20 §f✦ Speed§7."
+                "text": "§7Grants §a+20 §f Speed§7."
               },
               {
                 "text": ""
@@ -13664,13 +13762,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -13685,7 +13785,7 @@
         "literal_level": "V",
         "lore": [
           "§9Speed V §f(3:00)",
-          "§7Grants §a+25 §f✦ Speed§7.",
+          "§7Grants §a+25 §f Speed§7.",
           "",
           "§9§lRARE"
         ],
@@ -13716,7 +13816,7 @@
                 "text": "§9Speed V §f(3:00)"
               },
               {
-                "text": "§7Grants §a+25 §f✦ Speed§7."
+                "text": "§7Grants §a+25 §f Speed§7."
               },
               {
                 "text": ""
@@ -13740,13 +13840,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -13761,7 +13863,7 @@
         "literal_level": "VI",
         "lore": [
           "§9Speed VI §f(3:00)",
-          "§7Grants §a+30 §f✦ Speed§7.",
+          "§7Grants §a+30 §f Speed§7.",
           "",
           "§9§lRARE"
         ],
@@ -13792,7 +13894,7 @@
                 "text": "§9Speed VI §f(3:00)"
               },
               {
-                "text": "§7Grants §a+30 §f✦ Speed§7."
+                "text": "§7Grants §a+30 §f Speed§7."
               },
               {
                 "text": ""
@@ -13816,13 +13918,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -13837,7 +13941,7 @@
         "literal_level": "VII",
         "lore": [
           "§9Speed VII §f(3:00)",
-          "§7Grants §a+35 §f✦ Speed§7.",
+          "§7Grants §a+35 §f Speed§7.",
           "",
           "§5§lEPIC"
         ],
@@ -13868,7 +13972,7 @@
                 "text": "§9Speed VII §f(3:00)"
               },
               {
-                "text": "§7Grants §a+35 §f✦ Speed§7."
+                "text": "§7Grants §a+35 §f Speed§7."
               },
               {
                 "text": ""
@@ -13892,13 +13996,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -13913,7 +14019,7 @@
         "literal_level": "VIII",
         "lore": [
           "§9Speed VIII §f(3:00)",
-          "§7Grants §a+40 §f✦ Speed§7.",
+          "§7Grants §a+40 §f Speed§7.",
           "",
           "§5§lEPIC"
         ],
@@ -13944,7 +14050,7 @@
                 "text": "§9Speed VIII §f(3:00)"
               },
               {
-                "text": "§7Grants §a+40 §f✦ Speed§7."
+                "text": "§7Grants §a+40 §f Speed§7."
               },
               {
                 "text": ""
@@ -13968,13 +14074,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -13988,7 +14096,7 @@
     "type": "POTION",
     "internal_potion": "speed",
     "name": "Speed",
-    "vanilla_effect": "swiftness"
+    "vanilla_effect": "water"
   },
   "POTION_SPELUNKER": {
     "levels": [
@@ -13997,7 +14105,7 @@
         "literal_level": "I",
         "lore": [
           "§bSpelunker I §f(3:00)",
-          "§7Grants §a5 §6☘ Mining Fortune§7.",
+          "§7Grants §a5 §6 Mining Fortune§7.",
           "",
           "§f§lCOMMON"
         ],
@@ -14028,7 +14136,7 @@
                 "text": "§bSpelunker I §f(3:00)"
               },
               {
-                "text": "§7Grants §a5 §6☘ Mining Fortune§7."
+                "text": "§7Grants §a5 §6 Mining Fortune§7."
               },
               {
                 "text": ""
@@ -14051,13 +14159,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -14072,7 +14182,7 @@
         "literal_level": "II",
         "lore": [
           "§bSpelunker II §f(3:00)",
-          "§7Grants §a10 §6☘ Mining Fortune§7.",
+          "§7Grants §a10 §6 Mining Fortune§7.",
           "",
           "§f§lCOMMON"
         ],
@@ -14103,7 +14213,7 @@
                 "text": "§bSpelunker II §f(3:00)"
               },
               {
-                "text": "§7Grants §a10 §6☘ Mining Fortune§7."
+                "text": "§7Grants §a10 §6 Mining Fortune§7."
               },
               {
                 "text": ""
@@ -14127,13 +14237,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -14148,7 +14260,7 @@
         "literal_level": "III",
         "lore": [
           "§bSpelunker III §f(3:00)",
-          "§7Grants §a15 §6☘ Mining Fortune§7.",
+          "§7Grants §a15 §6 Mining Fortune§7.",
           "",
           "§a§lUNCOMMON"
         ],
@@ -14179,7 +14291,7 @@
                 "text": "§bSpelunker III §f(3:00)"
               },
               {
-                "text": "§7Grants §a15 §6☘ Mining Fortune§7."
+                "text": "§7Grants §a15 §6 Mining Fortune§7."
               },
               {
                 "text": ""
@@ -14203,13 +14315,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -14224,7 +14338,7 @@
         "literal_level": "IV",
         "lore": [
           "§bSpelunker IV §f(3:00)",
-          "§7Grants §a20 §6☘ Mining Fortune§7.",
+          "§7Grants §a20 §6 Mining Fortune§7.",
           "",
           "§a§lUNCOMMON"
         ],
@@ -14255,7 +14369,7 @@
                 "text": "§bSpelunker IV §f(3:00)"
               },
               {
-                "text": "§7Grants §a20 §6☘ Mining Fortune§7."
+                "text": "§7Grants §a20 §6 Mining Fortune§7."
               },
               {
                 "text": ""
@@ -14279,13 +14393,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -14300,7 +14416,7 @@
         "literal_level": "V",
         "lore": [
           "§bSpelunker V §f(3:00)",
-          "§7Grants §a25 §6☘ Mining Fortune§7.",
+          "§7Grants §a25 §6 Mining Fortune§7.",
           "",
           "§9§lRARE"
         ],
@@ -14331,7 +14447,7 @@
                 "text": "§bSpelunker V §f(3:00)"
               },
               {
-                "text": "§7Grants §a25 §6☘ Mining Fortune§7."
+                "text": "§7Grants §a25 §6 Mining Fortune§7."
               },
               {
                 "text": ""
@@ -14365,7 +14481,7 @@
     "type": "POTION",
     "internal_potion": "spelunker",
     "name": "Spelunker",
-    "vanilla_effect": "night_vision"
+    "vanilla_effect": "water"
   },
   "POTION_SPIRIT": {
     "levels": [
@@ -15127,7 +15243,7 @@
         "literal_level": "I",
         "lore": [
           "§4Strength I §f(3:00)",
-          "§7Increases §c❁ Strength §7by §a5§7.",
+          "§7Increases §c Strength §7by §a5§7.",
           "",
           "§f§lCOMMON"
         ],
@@ -15158,7 +15274,7 @@
                 "text": "§4Strength I §f(3:00)"
               },
               {
-                "text": "§7Increases §c❁ Strength §7by §a5§7."
+                "text": "§7Increases §c Strength §7by §a5§7."
               },
               {
                 "text": ""
@@ -15181,13 +15297,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -15202,7 +15320,7 @@
         "literal_level": "II",
         "lore": [
           "§4Strength II §f(3:00)",
-          "§7Increases §c❁ Strength §7by §a12.5§7.",
+          "§7Increases §c Strength §7by §a12.5§7.",
           "",
           "§f§lCOMMON"
         ],
@@ -15233,7 +15351,7 @@
                 "text": "§4Strength II §f(3:00)"
               },
               {
-                "text": "§7Increases §c❁ Strength §7by §a12.5§7."
+                "text": "§7Increases §c Strength §7by §a12.5§7."
               },
               {
                 "text": ""
@@ -15257,13 +15375,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -15278,7 +15398,7 @@
         "literal_level": "III",
         "lore": [
           "§4Strength III §f(3:00)",
-          "§7Increases §c❁ Strength §7by §a20§7.",
+          "§7Increases §c Strength §7by §a20§7.",
           "",
           "§a§lUNCOMMON"
         ],
@@ -15309,7 +15429,7 @@
                 "text": "§4Strength III §f(3:00)"
               },
               {
-                "text": "§7Increases §c❁ Strength §7by §a20§7."
+                "text": "§7Increases §c Strength §7by §a20§7."
               },
               {
                 "text": ""
@@ -15333,13 +15453,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -15354,7 +15476,7 @@
         "literal_level": "IV",
         "lore": [
           "§4Strength IV §f(3:00)",
-          "§7Increases §c❁ Strength §7by §a30§7.",
+          "§7Increases §c Strength §7by §a30§7.",
           "",
           "§a§lUNCOMMON"
         ],
@@ -15385,7 +15507,7 @@
                 "text": "§4Strength IV §f(3:00)"
               },
               {
-                "text": "§7Increases §c❁ Strength §7by §a30§7."
+                "text": "§7Increases §c Strength §7by §a30§7."
               },
               {
                 "text": ""
@@ -15409,13 +15531,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -15430,7 +15554,7 @@
         "literal_level": "V",
         "lore": [
           "§4Strength V §f(3:00)",
-          "§7Increases §c❁ Strength §7by §a40§7.",
+          "§7Increases §c Strength §7by §a40§7.",
           "",
           "§9§lRARE"
         ],
@@ -15461,7 +15585,7 @@
                 "text": "§4Strength V §f(3:00)"
               },
               {
-                "text": "§7Increases §c❁ Strength §7by §a40§7."
+                "text": "§7Increases §c Strength §7by §a40§7."
               },
               {
                 "text": ""
@@ -15485,13 +15609,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -15506,7 +15632,7 @@
         "literal_level": "VI",
         "lore": [
           "§4Strength VI §f(3:00)",
-          "§7Increases §c❁ Strength §7by §a50§7.",
+          "§7Increases §c Strength §7by §a50§7.",
           "",
           "§9§lRARE"
         ],
@@ -15537,7 +15663,7 @@
                 "text": "§4Strength VI §f(3:00)"
               },
               {
-                "text": "§7Increases §c❁ Strength §7by §a50§7."
+                "text": "§7Increases §c Strength §7by §a50§7."
               },
               {
                 "text": ""
@@ -15561,13 +15687,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -15582,7 +15710,7 @@
         "literal_level": "VII",
         "lore": [
           "§4Strength VII §f(3:00)",
-          "§7Increases §c❁ Strength §7by §a60§7.",
+          "§7Increases §c Strength §7by §a60§7.",
           "",
           "§5§lEPIC"
         ],
@@ -15613,7 +15741,7 @@
                 "text": "§4Strength VII §f(3:00)"
               },
               {
-                "text": "§7Increases §c❁ Strength §7by §a60§7."
+                "text": "§7Increases §c Strength §7by §a60§7."
               },
               {
                 "text": ""
@@ -15637,13 +15765,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -15658,7 +15788,7 @@
         "literal_level": "VIII",
         "lore": [
           "§4Strength VIII §f(3:00)",
-          "§7Increases §c❁ Strength §7by §a75§7.",
+          "§7Increases §c Strength §7by §a75§7.",
           "",
           "§5§lEPIC"
         ],
@@ -15689,7 +15819,7 @@
                 "text": "§4Strength VIII §f(3:00)"
               },
               {
-                "text": "§7Increases §c❁ Strength §7by §a75§7."
+                "text": "§7Increases §c Strength §7by §a75§7."
               },
               {
                 "text": ""
@@ -15713,13 +15843,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -15733,7 +15865,7 @@
     "type": "POTION",
     "internal_potion": "strength",
     "name": "Strength",
-    "vanilla_effect": "strength"
+    "vanilla_effect": "water"
   },
   "POTION_STUN": {
     "levels": [
@@ -16408,8 +16540,8 @@
         "literal_level": "I",
         "lore": [
           "§5Venomous I §f(3:00)",
-          "§7Grants §c-5 §f✦ Speed §7and deals §c5",
-          "§c§7damage per second.",
+          "§7Grants §c-5 §f Speed §7and deals §c5",
+          "§7damage per second.",
           "",
           "§f§lCOMMON"
         ],
@@ -16440,10 +16572,10 @@
                 "text": "§5Venomous I §f(3:00)"
               },
               {
-                "text": "§7Grants §c-5 §f✦ Speed §7and deals §c5"
+                "text": "§7Grants §c-5 §f Speed §7and deals §c5"
               },
               {
-                "text": "§c§7damage per second."
+                "text": "§7damage per second."
               },
               {
                 "text": ""
@@ -16466,13 +16598,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -16487,8 +16621,8 @@
         "literal_level": "II",
         "lore": [
           "§5Venomous II §f(3:00)",
-          "§7Grants §c-10 §f✦ Speed §7and deals §c10",
-          "§c§7damage per second.",
+          "§7Grants §c-10 §f Speed §7and deals §c10",
+          "§7damage per second.",
           "",
           "§f§lCOMMON"
         ],
@@ -16519,10 +16653,10 @@
                 "text": "§5Venomous II §f(3:00)"
               },
               {
-                "text": "§7Grants §c-10 §f✦ Speed §7and deals §c10"
+                "text": "§7Grants §c-10 §f Speed §7and deals §c10"
               },
               {
-                "text": "§c§7damage per second."
+                "text": "§7damage per second."
               },
               {
                 "text": ""
@@ -16546,13 +16680,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -16567,8 +16703,8 @@
         "literal_level": "III",
         "lore": [
           "§5Venomous III §f(3:00)",
-          "§7Grants §c-15 §f✦ Speed §7and deals §c15",
-          "§c§7damage per second.",
+          "§7Grants §c-15 §f Speed §7and deals §c15",
+          "§7damage per second.",
           "",
           "§a§lUNCOMMON"
         ],
@@ -16599,10 +16735,10 @@
                 "text": "§5Venomous III §f(3:00)"
               },
               {
-                "text": "§7Grants §c-15 §f✦ Speed §7and deals §c15"
+                "text": "§7Grants §c-15 §f Speed §7and deals §c15"
               },
               {
-                "text": "§c§7damage per second."
+                "text": "§7damage per second."
               },
               {
                 "text": ""
@@ -16626,13 +16762,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -16647,8 +16785,8 @@
         "literal_level": "IV",
         "lore": [
           "§5Venomous IV §f(3:00)",
-          "§7Grants §c-20 §f✦ Speed §7and deals §c20",
-          "§c§7damage per second.",
+          "§7Grants §c-20 §f Speed §7and deals §c20",
+          "§7damage per second.",
           "",
           "§a§lUNCOMMON"
         ],
@@ -16679,10 +16817,10 @@
                 "text": "§5Venomous IV §f(3:00)"
               },
               {
-                "text": "§7Grants §c-20 §f✦ Speed §7and deals §c20"
+                "text": "§7Grants §c-20 §f Speed §7and deals §c20"
               },
               {
-                "text": "§c§7damage per second."
+                "text": "§7damage per second."
               },
               {
                 "text": ""
@@ -16706,13 +16844,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -16726,7 +16866,7 @@
     "type": "POTION",
     "internal_potion": "venomous",
     "name": "Venomous",
-    "vanilla_effect": "poison"
+    "vanilla_effect": "water"
   },
   "POTION_WATER_BREATHING": {
     "levels": [
@@ -17222,7 +17362,7 @@
         "literal_level": "I",
         "lore": [
           "§7Weakness I §f(3:00)",
-          "§7Reduces §c❁ Damage §7when attacking",
+          "§7Reduces §c Damage §7when attacking",
           "§7enemies by §c5§7.",
           "",
           "§f§lCOMMON"
@@ -17254,7 +17394,7 @@
                 "text": "§7Weakness I §f(3:00)"
               },
               {
-                "text": "§7Reduces §c❁ Damage §7when attacking"
+                "text": "§7Reduces §c Damage §7when attacking"
               },
               {
                 "text": "§7enemies by §c5§7."
@@ -17280,13 +17420,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -17301,7 +17443,7 @@
         "literal_level": "II",
         "lore": [
           "§7Weakness II §f(3:00)",
-          "§7Reduces §c❁ Damage §7when attacking",
+          "§7Reduces §c Damage §7when attacking",
           "§7enemies by §c10§7.",
           "",
           "§f§lCOMMON"
@@ -17333,7 +17475,7 @@
                 "text": "§7Weakness II §f(3:00)"
               },
               {
-                "text": "§7Reduces §c❁ Damage §7when attacking"
+                "text": "§7Reduces §c Damage §7when attacking"
               },
               {
                 "text": "§7enemies by §c10§7."
@@ -17360,13 +17502,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -17381,7 +17525,7 @@
         "literal_level": "III",
         "lore": [
           "§7Weakness III §f(3:00)",
-          "§7Reduces §c❁ Damage §7when attacking",
+          "§7Reduces §c Damage §7when attacking",
           "§7enemies by §c15§7.",
           "",
           "§a§lUNCOMMON"
@@ -17413,7 +17557,7 @@
                 "text": "§7Weakness III §f(3:00)"
               },
               {
-                "text": "§7Reduces §c❁ Damage §7when attacking"
+                "text": "§7Reduces §c Damage §7when attacking"
               },
               {
                 "text": "§7enemies by §c15§7."
@@ -17440,13 +17584,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -17461,7 +17607,7 @@
         "literal_level": "IV",
         "lore": [
           "§7Weakness IV §f(3:00)",
-          "§7Reduces §c❁ Damage §7when attacking",
+          "§7Reduces §c Damage §7when attacking",
           "§7enemies by §c20§7.",
           "",
           "§a§lUNCOMMON"
@@ -17493,7 +17639,7 @@
                 "text": "§7Weakness IV §f(3:00)"
               },
               {
-                "text": "§7Reduces §c❁ Damage §7when attacking"
+                "text": "§7Reduces §c Damage §7when attacking"
               },
               {
                 "text": "§7enemies by §c20§7."
@@ -17520,13 +17666,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -17541,7 +17689,7 @@
         "literal_level": "V",
         "lore": [
           "§7Weakness V §f(3:00)",
-          "§7Reduces §c❁ Damage §7when attacking",
+          "§7Reduces §c Damage §7when attacking",
           "§7enemies by §c25§7.",
           "",
           "§9§lRARE"
@@ -17573,7 +17721,7 @@
                 "text": "§7Weakness V §f(3:00)"
               },
               {
-                "text": "§7Reduces §c❁ Damage §7when attacking"
+                "text": "§7Reduces §c Damage §7when attacking"
               },
               {
                 "text": "§7enemies by §c25§7."
@@ -17600,13 +17748,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -17621,7 +17771,7 @@
         "literal_level": "VI",
         "lore": [
           "§7Weakness VI §f(3:00)",
-          "§7Reduces §c❁ Damage §7when attacking",
+          "§7Reduces §c Damage §7when attacking",
           "§7enemies by §c30§7.",
           "",
           "§9§lRARE"
@@ -17653,7 +17803,7 @@
                 "text": "§7Weakness VI §f(3:00)"
               },
               {
-                "text": "§7Reduces §c❁ Damage §7when attacking"
+                "text": "§7Reduces §c Damage §7when attacking"
               },
               {
                 "text": "§7enemies by §c30§7."
@@ -17680,13 +17830,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -17701,7 +17853,7 @@
         "literal_level": "VII",
         "lore": [
           "§7Weakness VII §f(3:00)",
-          "§7Reduces §c❁ Damage §7when attacking",
+          "§7Reduces §c Damage §7when attacking",
           "§7enemies by §c40§7.",
           "",
           "§5§lEPIC"
@@ -17733,7 +17885,7 @@
                 "text": "§7Weakness VII §f(3:00)"
               },
               {
-                "text": "§7Reduces §c❁ Damage §7when attacking"
+                "text": "§7Reduces §c Damage §7when attacking"
               },
               {
                 "text": "§7enemies by §c40§7."
@@ -17760,13 +17912,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -17781,7 +17935,7 @@
         "literal_level": "VIII",
         "lore": [
           "§7Weakness VIII §f(3:00)",
-          "§7Reduces §c❁ Damage §7when attacking",
+          "§7Reduces §c Damage §7when attacking",
           "§7enemies by §c50§7.",
           "",
           "§5§lEPIC"
@@ -17813,7 +17967,7 @@
                 "text": "§7Weakness VIII §f(3:00)"
               },
               {
-                "text": "§7Reduces §c❁ Damage §7when attacking"
+                "text": "§7Reduces §c Damage §7when attacking"
               },
               {
                 "text": "§7enemies by §c50§7."
@@ -17840,13 +17994,15 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
+                "minecraft:enchantments",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
                 "minecraft:map_id",
                 "minecraft:painting/variant",
                 "minecraft:potion_contents",
+                "minecraft:stored_enchantments",
                 "minecraft:trim",
                 "minecraft:unbreakable",
                 "minecraft:written_book_content"
@@ -17860,7 +18016,7 @@
     "type": "POTION",
     "internal_potion": "weakness",
     "name": "Weakness",
-    "vanilla_effect": "weakness"
+    "vanilla_effect": "water"
   },
   "POTION_WISP_ICE": {
     "levels": [

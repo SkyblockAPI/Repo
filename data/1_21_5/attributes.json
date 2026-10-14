@@ -14768,7 +14768,8 @@
     "lore": [
       "§7Increases your chance of finding",
       "§5Glossy Gemstones §7during §6Mining",
-      "§6Fiestas §7by §a+1%§7.",
+      "§6Fiestas §7by §a+1%§7. Effects are §adoubled",
+      "§7if you have a §6Fiesta Flask §7active!",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -14807,7 +14808,10 @@
             "text": "§5Glossy Gemstones §7during §6Mining"
           },
           {
-            "text": "§6Fiestas §7by §a+1%§7."
+            "text": "§6Fiestas §7by §a+1%§7. Effects are §adoubled"
+          },
+          {
+            "text": "§7if you have a §6Fiesta Flask §7active!"
           },
           {
             "text": ""
@@ -23659,7 +23663,8 @@
     "lore": [
       "§7Increases your chance of finding",
       "§9Refined Minerals §7during §6Mining",
-      "§6Fiestas §7by §a+1%§7.",
+      "§6Fiestas §7by §a+1%§7. Effects are §adoubled",
+      "§7if you have a §6Fiesta Flask §7active!",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -23698,7 +23703,10 @@
             "text": "§9Refined Minerals §7during §6Mining"
           },
           {
-            "text": "§6Fiestas §7by §a+1%§7."
+            "text": "§6Fiestas §7by §a+1%§7. Effects are §adoubled"
+          },
+          {
+            "text": "§7if you have a §6Fiesta Flask §7active!"
           },
           {
             "text": ""

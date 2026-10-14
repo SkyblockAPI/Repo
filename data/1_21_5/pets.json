@@ -4893,8 +4893,8 @@
           "§c{5}% §7more time",
           "",
           "§6Power Of Completion",
-          "§7Gain §c+2❁ Strength§7, §9+1☣",
-          "§9Crit Chance§7, and §c+5❤",
+          "§7Gain §c+2 Strength§7, §9+1",
+          "§9Crit Chance§7, and §c+5",
           "§cHealth§7 per completed Personal",
           "§7Bingo Goal in the current Bingo",
           "§7Event",
@@ -5042,10 +5042,10 @@
                 "text": "§6Power Of Completion"
               },
               {
-                "text": "§7Gain §c+2❁ Strength§7, §9+1☣"
+                "text": "§7Gain §c+2 Strength§7, §9+1"
               },
               {
-                "text": "§9Crit Chance§7, and §c+5❤"
+                "text": "§9Crit Chance§7, and §c+5"
               },
               {
                 "text": "§cHealth§7 per completed Personal"
@@ -6774,7 +6774,7 @@
           "§7Farming Fortune: §6+{FARMING_FORTUNE}",
           "",
           "§6Free Range",
-          "§7Grants §6+{0}☘ Farming Fortune §7while",
+          "§7Grants §6+{0} Farming Fortune §7while",
           "§7on §bPublic Islands§7.",
           "",
           "§6Eggstra Loot",
@@ -6833,7 +6833,7 @@
                 "text": "§6Free Range"
               },
               {
-                "text": "§7Grants §6+{0}☘ Farming Fortune §7while"
+                "text": "§7Grants §6+{0} Farming Fortune §7while"
               },
               {
                 "text": "§7on §bPublic Islands§7."
@@ -11813,7 +11813,7 @@
           "",
           "§6One With The Dragon",
           "§7Buffs the §6Aspect of the Dragons",
-          "§7sword by §a{1} §c❁ Damage §7and §a{2} §c❁",
+          "§7sword by §a{1} §c Damage §7and §a{2} §c",
           "§cStrength§7.",
           "",
           "§6Superior",
@@ -11900,7 +11900,7 @@
                 "text": "§7Buffs the §6Aspect of the Dragons"
               },
               {
-                "text": "§7sword by §a{1} §c❁ Damage §7and §a{2} §c❁"
+                "text": "§7sword by §a{1} §c Damage §7and §a{2} §c"
               },
               {
                 "text": "§cStrength§7."
@@ -12584,7 +12584,7 @@
           "§7soul piece.",
           "",
           "§6Trickery",
-          "§7§7Gain §b+2⚡ Mana Regen §7per",
+          "§7§7Gain §b+2 Mana Regen §7per",
           "§7soul piece found.",
           "",
           "§5§lEPIC PET"
@@ -12638,7 +12638,7 @@
                 "text": "§6Trickery"
               },
               {
-                "text": "§7§7Gain §b+2⚡ Mana Regen §7per"
+                "text": "§7§7Gain §b+2 Mana Regen §7per"
               },
               {
                 "text": "§7soul piece found."
@@ -17406,8 +17406,8 @@
           "§7rarity.",
           "",
           "§6Sacred Strength",
-          "§7Gain §c+{0}% ❁ Strength §7when above",
-          "§c85% ❤ Health§7.",
+          "§7Gain §c+{0}%  Strength §7when above",
+          "§c85%  Health§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE PET"
@@ -17488,10 +17488,10 @@
                 "text": "§6Sacred Strength"
               },
               {
-                "text": "§7Gain §c+{0}% ❁ Strength §7when above"
+                "text": "§7Gain §c+{0}%  Strength §7when above"
               },
               {
-                "text": "§c85% ❤ Health§7."
+                "text": "§c85%  Health§7."
               },
               {
                 "text": ""
@@ -17548,8 +17548,8 @@
           "§7rarity.",
           "",
           "§6Sacred Strength",
-          "§7Gain §c+{0}% ❁ Strength §7when above",
-          "§c85% ❤ Health§7.",
+          "§7Gain §c+{0}%  Strength §7when above",
+          "§c85%  Health§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC PET"
@@ -17630,10 +17630,10 @@
                 "text": "§6Sacred Strength"
               },
               {
-                "text": "§7Gain §c+{0}% ❁ Strength §7when above"
+                "text": "§7Gain §c+{0}%  Strength §7when above"
               },
               {
-                "text": "§c85% ❤ Health§7."
+                "text": "§c85%  Health§7."
               },
               {
                 "text": ""
@@ -22077,7 +22077,7 @@
           "§7vanquisher by §a{1}%§7.",
           "",
           "§6Kuudra Fortune",
-          "§7Grants §6+{2}☘ Mining Fortune §7while on",
+          "§7Grants §6+{2} Mining Fortune §7while on",
           "§7the §cCrimson Isle§7.",
           "",
           "§8This pet's perks are active even",
@@ -22164,7 +22164,7 @@
                 "text": "§6Kuudra Fortune"
               },
               {
-                "text": "§7Grants §6+{2}☘ Mining Fortune §7while on"
+                "text": "§7Grants §6+{2} Mining Fortune §7while on"
               },
               {
                 "text": "§7the §cCrimson Isle§7."
@@ -22247,7 +22247,7 @@
           "§7vanquisher by §a{1}%§7.",
           "",
           "§6Kuudra Fortune",
-          "§7Grants §6+{2}☘ Mining Fortune §7while on",
+          "§7Grants §6+{2} Mining Fortune §7while on",
           "§7the §cCrimson Isle§7.",
           "",
           "§6Trophy Bait",
@@ -22342,7 +22342,7 @@
                 "text": "§6Kuudra Fortune"
               },
               {
-                "text": "§7Grants §6+{2}☘ Mining Fortune §7while on"
+                "text": "§7Grants §6+{2} Mining Fortune §7while on"
               },
               {
                 "text": "§7the §cCrimson Isle§7."
@@ -22437,7 +22437,7 @@
           "§7vanquisher by §a{1}%§7.",
           "",
           "§6Kuudra Fortune",
-          "§7Grants §6+{2}☘ Mining Fortune §7while on",
+          "§7Grants §6+{2} Mining Fortune §7while on",
           "§7the §cCrimson Isle§7.",
           "",
           "§6Trophy Bait",
@@ -22540,7 +22540,7 @@
                 "text": "§6Kuudra Fortune"
               },
               {
-                "text": "§7Grants §6+{2}☘ Mining Fortune §7while on"
+                "text": "§7Grants §6+{2} Mining Fortune §7while on"
               },
               {
                 "text": "§7the §cCrimson Isle§7."
@@ -24467,7 +24467,7 @@
           "§7Mining Fortune: §6+{MINING_FORTUNE}",
           "",
           "§6Mithril Affinity",
-          "§7Grants §6+{0}⸕ Mining Speed §7when mining",
+          "§7Grants §6+{0} Mining Speed §7when mining",
           "§2Mithril§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -24517,7 +24517,7 @@
                 "text": "§6Mithril Affinity"
               },
               {
-                "text": "§7Grants §6+{0}⸕ Mining Speed §7when mining"
+                "text": "§7Grants §6+{0} Mining Speed §7when mining"
               },
               {
                 "text": "§2Mithril§7."
@@ -24569,7 +24569,7 @@
           "§7Mining Fortune: §6+{MINING_FORTUNE}",
           "",
           "§6Mithril Affinity",
-          "§7Grants §6+{0}⸕ Mining Speed §7when mining",
+          "§7Grants §6+{0} Mining Speed §7when mining",
           "§2Mithril§7.",
           "",
           "§6Subterranean Battler",
@@ -24627,7 +24627,7 @@
                 "text": "§6Mithril Affinity"
               },
               {
-                "text": "§7Grants §6+{0}⸕ Mining Speed §7when mining"
+                "text": "§7Grants §6+{0} Mining Speed §7when mining"
               },
               {
                 "text": "§2Mithril§7."
@@ -24691,7 +24691,7 @@
           "§7Mining Fortune: §6+{MINING_FORTUNE}",
           "",
           "§6Mithril Affinity",
-          "§7Grants §6+{0}⸕ Mining Speed §7when mining",
+          "§7Grants §6+{0} Mining Speed §7when mining",
           "§2Mithril§7.",
           "",
           "§6Subterranean Battler",
@@ -24749,7 +24749,7 @@
                 "text": "§6Mithril Affinity"
               },
               {
-                "text": "§7Grants §6+{0}⸕ Mining Speed §7when mining"
+                "text": "§7Grants §6+{0} Mining Speed §7when mining"
               },
               {
                 "text": "§2Mithril§7."
@@ -26664,7 +26664,7 @@
           "§7Pest Vinyls are §a{0}% §7more effective.",
           "",
           "§6Buzzin' Barterer",
-          "§7Gain §6+{1}☘ Sugar Cane Fortune§7 for",
+          "§7Gain §6+{1} Sugar Cane Fortune§7 for",
           "§7every unique visitor you've served",
           "§7in §aThe Garden§7.",
           "§8Your Bonus: 1.7 Sugar Cane Fortune",
@@ -26730,7 +26730,7 @@
                 "text": "§6Buzzin' Barterer"
               },
               {
-                "text": "§7Gain §6+{1}☘ Sugar Cane Fortune§7 for"
+                "text": "§7Gain §6+{1} Sugar Cane Fortune§7 for"
               },
               {
                 "text": "§7every unique visitor you've served"
@@ -26794,7 +26794,7 @@
           "§7Pest Vinyls are §a{0}% §7more effective.",
           "",
           "§6Buzzin' Barterer",
-          "§7Gain §6+{1}☘ Sugar Cane Fortune§7 for",
+          "§7Gain §6+{1} Sugar Cane Fortune§7 for",
           "§7every unique visitor you've served",
           "§7in §aThe Garden§7.",
           "§8Your Bonus: 1.7 Sugar Cane Fortune",
@@ -26860,7 +26860,7 @@
                 "text": "§6Buzzin' Barterer"
               },
               {
-                "text": "§7Gain §6+{1}☘ Sugar Cane Fortune§7 for"
+                "text": "§7Gain §6+{1} Sugar Cane Fortune§7 for"
               },
               {
                 "text": "§7every unique visitor you've served"
@@ -29952,8 +29952,8 @@
           "§7your island",
           "",
           "§6Pork Master",
-          "§7Buffs the §6Pigman Sword §7by §a{1} §c❁",
-          "§cDamage §7and §a{2} §c❁ Strength§7.",
+          "§7Buffs the §6Pigman Sword §7by §a{1} §c",
+          "§cDamage §7and §a{2} §c Strength§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE PET"
@@ -30029,10 +30029,10 @@
                 "text": "§6Pork Master"
               },
               {
-                "text": "§7Buffs the §6Pigman Sword §7by §a{1} §c❁"
+                "text": "§7Buffs the §6Pigman Sword §7by §a{1} §c"
               },
               {
-                "text": "§cDamage §7and §a{2} §c❁ Strength§7."
+                "text": "§cDamage §7and §a{2} §c Strength§7."
               },
               {
                 "text": ""
@@ -32871,7 +32871,7 @@
           "§eTreasure Chests §7while mining.",
           "",
           "§6Drill Infusion",
-          "§7Grants §6+{1}☘ Gemstone Fortune §7to",
+          "§7Grants §6+{1} Gemstone Fortune §7to",
           "§7Drills.",
           "",
           "§6Bejeweled Eyes",
@@ -32944,7 +32944,7 @@
                 "text": "§6Drill Infusion"
               },
               {
-                "text": "§7Grants §6+{1}☘ Gemstone Fortune §7to"
+                "text": "§7Grants §6+{1} Gemstone Fortune §7to"
               },
               {
                 "text": "§7Drills."
@@ -37645,8 +37645,8 @@
           "§7Crit Chance: §9+{CRIT_CHANCE}%",
           "",
           "§6One With The Spider",
-          "§7Applies §c+{0}❁ Strength §7to all",
-          "§4Arachnal Ж §7weapons, armor, and",
+          "§7Applies §c+{0} Strength §7to all",
+          "§4Arachnal  §7weapons, armor, and",
           "§7equipment you have equipped.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -37696,10 +37696,10 @@
                 "text": "§6One With The Spider"
               },
               {
-                "text": "§7Applies §c+{0}❁ Strength §7to all"
+                "text": "§7Applies §c+{0} Strength §7to all"
               },
               {
-                "text": "§4Arachnal Ж §7weapons, armor, and"
+                "text": "§4Arachnal  §7weapons, armor, and"
               },
               {
                 "text": "§7equipment you have equipped."
@@ -37751,8 +37751,8 @@
           "§7Crit Chance: §9+{CRIT_CHANCE}%",
           "",
           "§6One With The Spider",
-          "§7Applies §c+{0}❁ Strength §7to all",
-          "§4Arachnal Ж §7weapons, armor, and",
+          "§7Applies §c+{0} Strength §7to all",
+          "§4Arachnal  §7weapons, armor, and",
           "§7equipment you have equipped.",
           "",
           "§6Web-weaver",
@@ -37810,10 +37810,10 @@
                 "text": "§6One With The Spider"
               },
               {
-                "text": "§7Applies §c+{0}❁ Strength §7to all"
+                "text": "§7Applies §c+{0} Strength §7to all"
               },
               {
-                "text": "§4Arachnal Ж §7weapons, armor, and"
+                "text": "§4Arachnal  §7weapons, armor, and"
               },
               {
                 "text": "§7equipment you have equipped."
@@ -40285,7 +40285,7 @@
           "§7Ferocity: §c+{FEROCITY}",
           "",
           "§6Merciless Swipe",
-          "§7Gain §c+{0}% ⫽ Ferocity§7.",
+          "§7Gain §c+{0}%  Ferocity§7.",
           "",
           "§6Hemorrhage",
           "§7Melee attacks reduce healing by §6{1}%",
@@ -40356,7 +40356,7 @@
                 "text": "§6Merciless Swipe"
               },
               {
-                "text": "§7Gain §c+{0}% ⫽ Ferocity§7."
+                "text": "§7Gain §c+{0}%  Ferocity§7."
               },
               {
                 "text": ""
@@ -42736,8 +42736,8 @@
           "§7Take §a{0}% §7less damage from wolves",
           "",
           "§6Pack Leader",
-          "§7Gain §a{1} §9☠ Crit Damage §7for every",
-          "§7nearby wolf monster.",
+          "§7Gain §a{1} §9 Crit Damage §7for every",
+          "§7nearby wolf monster",
           "§8Max 10 wolves",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -42814,10 +42814,10 @@
                 "text": "§6Pack Leader"
               },
               {
-                "text": "§7Gain §a{1} §9☠ Crit Damage §7for every"
+                "text": "§7Gain §a{1} §9 Crit Damage §7for every"
               },
               {
-                "text": "§7nearby wolf monster."
+                "text": "§7nearby wolf monster"
               },
               {
                 "text": "§8Max 10 wolves"
