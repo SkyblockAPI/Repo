@@ -9009,10 +9009,9 @@
           "§7Speed: §f+{SPEED}",
           "",
           "§6Fearnesy",
-          "§7§7§5Fear §7from §5Great Spook",
-          "§5Armor §7in your §bwardrobe",
-          "§b§7applies to you, even if you",
-          "§7aren't wearing it.",
+          "§5Fear §7from §5Great Spook Armor §7in",
+          "§7your §bwardrobe §7applies to you, even",
+          "§7if you aren't wearing it.",
           "",
           "§8§l* §8Soulbound §8§l*",
           "§f§lCOMMON PET"
@@ -9063,16 +9062,13 @@
                 "text": "§6Fearnesy"
               },
               {
-                "text": "§7§7§5Fear §7from §5Great Spook"
+                "text": "§5Fear §7from §5Great Spook Armor §7in"
               },
               {
-                "text": "§5Armor §7in your §bwardrobe"
+                "text": "§7your §bwardrobe §7applies to you, even"
               },
               {
-                "text": "§b§7applies to you, even if you"
-              },
-              {
-                "text": "§7aren't wearing it."
+                "text": "§7if you aren't wearing it."
               },
               {
                 "text": ""
@@ -9094,7 +9090,18 @@
             },
             "minecraft:tooltip_display": {
               "hidden_components": [
-                "minecraft:dyed_color"
+                "minecraft:attribute_modifiers",
+                "minecraft:banner_patterns",
+                "minecraft:charged_projectiles",
+                "minecraft:dyed_color",
+                "minecraft:fireworks",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:painting/variant",
+                "minecraft:potion_contents",
+                "minecraft:trim",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:common"

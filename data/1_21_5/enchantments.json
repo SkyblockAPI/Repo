@@ -22561,8 +22561,8 @@
           "§8Combinable in Anvil",
           "",
           "§9Great Spook I",
-          "§7Grants §a+1 §5Fear §7on",
-          "§5Great Spook Armor§7.",
+          "§7Grants §a+1 §5Fear §7on §5Great Spook",
+          "§5Armor§7.",
           "",
           "§6Source:",
           " §7- Tyashoi Alchemist (§aI§7)",
@@ -22581,7 +22581,6 @@
               },
               "id": "ENCHANTED_BOOK"
             },
-            "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
               "text": "§fEnchanted Book"
             },
@@ -22596,10 +22595,10 @@
                 "text": "§9Great Spook I"
               },
               {
-                "text": "§7Grants §a+1 §5Fear §7on"
+                "text": "§7Grants §a+1 §5Fear §7on §5Great Spook"
               },
               {
-                "text": "§5Great Spook Armor§7."
+                "text": "§5Armor§7."
               },
               {
                 "text": ""
@@ -22628,8 +22627,18 @@
             ],
             "minecraft:tooltip_display": {
               "hidden_components": [
+                "minecraft:attribute_modifiers",
+                "minecraft:banner_patterns",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
-                "minecraft:stored_enchantments"
+                "minecraft:fireworks",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:painting/variant",
+                "minecraft:potion_contents",
+                "minecraft:trim",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:common"
