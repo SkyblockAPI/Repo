@@ -18509,13 +18509,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -39907,6 +39909,12 @@
           "text": "§8Brewing Ingredient"
         },
         {
+          "text": "§8Collection Item"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§f§lCOMMON"
         }
       ],
@@ -39914,7 +39922,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -89656,7 +89664,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Material Extracted from the heart of"
+          "text": "§7Material extracted from the heart of"
         },
         {
           "text": "§7giant Magma Cubes. It can be used to"
@@ -89689,7 +89697,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -89715,13 +89723,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Health: §c+60"
+          "text": "§7Health: §c+40"
         },
         {
-          "text": "§7Defense: §a+52.5"
+          "text": "§7Defense: §a+35"
         },
         {
-          "text": "§7Intelligence: §b+7.5"
+          "text": "§7Intelligence: §b+5"
         },
         {
           "text": ""
@@ -89772,13 +89780,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -133383,7 +133393,7 @@
     }
   },
   {
-    "id": "minecraft:tnt",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "GAME_BREAKER"
@@ -133409,11 +133419,12 @@
           "text": "§c§lSPECIAL"
         }
       ],
+      "minecraft:item_model": "minecraft:tnt",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -168160,11 +168171,16 @@
       "minecraft:custom_data": {
         "id": "HYPER_CATALYST"
       },
-      "minecraft:enchantment_glint_override": true,
       "minecraft:custom_name": {
         "text": "§5Hyper Catalyst"
       },
       "minecraft:lore": [
+        {
+          "text": "§8Minion Fuel"
+        },
+        {
+          "text": ""
+        },
         {
           "text": "§7When in a minion, this increases the"
         },
@@ -168185,13 +168201,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -311878,13 +311896,16 @@
           "text": ""
         },
         {
-          "text": "§7Deal §c+1 Damage §7per §c50 max ❤§7."
+          "text": "§7Deal §c+10 Damage §7per §5Wolf Slayer §7level"
         },
         {
-          "text": "§7Receive §a-20% §7damage from §a Animal §7mobs."
+          "text": "§7Deal §c+100%  Damage §7against Wolves"
         },
         {
-          "text": "§7Gain §3+30☯ Combat Wisdom§7 against §a Animal §7mobs."
+          "text": "§7Take §a-20% §7damage from §a Animal §7mobs"
+        },
+        {
+          "text": "§7Gain §3+30☯ Combat Wisdom §7against §a Animal §7mobs"
         },
         {
           "text": ""
@@ -333553,16 +333574,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Drops sometimes from §4Ж Arthropod"
+          "text": "§7Drops sometimes from §4 Arthropod"
         },
         {
           "text": "§7mobs during the §5Year of the Witch§7!"
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§7Drop Chance: §a5%"
         },
         {
           "text": ""
@@ -333595,7 +333610,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -334506,7 +334521,7 @@
           "text": ""
         },
         {
-          "text": "§7When worn, §4Ж Arthropod §7mobs deal"
+          "text": "§7When worn, §4 Arthropod §7mobs deal"
         },
         {
           "text": "§a-30%§7 damage."
@@ -334533,7 +334548,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:enchantments",
           "minecraft:fireworks",
