@@ -55822,7 +55822,10 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Only appears during §5Great Spook §7in October."
+            "text": "§7Only appears during §5The Great Spook"
+          },
+          {
+            "text": "§7in §fOctober§7."
           }
         ],
         "minecraft:profile": {
@@ -56557,7 +56560,10 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Only appears during §5Great Spook §7in October."
+            "text": "§7Only appears during §5The Great Spook"
+          },
+          {
+            "text": "§7in §fOctober§7."
           }
         ]
       }

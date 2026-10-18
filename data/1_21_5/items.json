@@ -97932,16 +97932,19 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7This item can be used as a"
+          "text": "§8Minion Upgrade"
         },
         {
-          "text": "§7minion upgrade for sheep"
+          "text": ""
         },
         {
-          "text": "§7generators. This will"
+          "text": "§7This item can be used as a minion"
         },
         {
-          "text": "§7automatically shear sheep for"
+          "text": "§7upgrade for sheep generators. This"
+        },
+        {
+          "text": "§7will automatically shear sheep for"
         },
         {
           "text": "§7you as they spawn."
@@ -97955,8 +97958,18 @@
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:unbreakable"
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:common"
@@ -102733,13 +102746,10 @@
           "text": ""
         },
         {
-          "text": "§7When applied to to a sword,"
+          "text": "§7When applied to a sword, increases"
         },
         {
-          "text": "§7increases its §9Bane of Arthropods"
-        },
-        {
-          "text": "§7level by §a1§7!"
+          "text": "§7its §9Bane of Arthropods §7level by §a1§7!"
         },
         {
           "text": "§8Can be applied once."
@@ -102781,7 +102791,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -111244,7 +111254,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -224972,13 +224982,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7§7Darkened by shadow."
+          "text": "§7Darkened by shadow."
         },
         {
           "text": ""
         },
         {
-          "text": "§8§l* §8Soulbound §8§l*"
+          "text": "§8§l* §8Co-op Soulbound §8§l*"
         },
         {
           "text": "§9§lRARE"
@@ -224991,7 +225001,24 @@
             "value": "ewogICJ0aW1lc3RhbXAiIDogMTY2Mzk1OTUxNDUxNywKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M1MDQ5YjlhNTU2MzQyMjZiOWNiYmEzZmI3NjllZWU5ZmNiMjUyNWFhZGZkOTg5NjMwNDllMzgyMGZlMjVmZWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
           }
         ]
-      }
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
     }
   },
   {
@@ -294785,13 +294812,6 @@
     "id": "minecraft:armor_stand",
     "components": {
       "minecraft:custom_data": {
-        "gems": {
-          "CHISEL_0": {
-            "quality": "FLAWLESS",
-            "uuid": "73e3d827-2ffe-4896-bdf0-b2db06d4a562"
-          },
-          "CHISEL_0_gem": "CITRINE"
-        },
         "id": "REINFORCED_CHISEL"
       },
       "minecraft:custom_name": {
@@ -294799,10 +294819,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Highlight Chance: §a+60%"
-        },
-        {
-          "text": "§7Gemstones: §5[§4❥§5]"
+          "text": "§7Gemstones: §8[§7❥§8]"
         },
         {
           "text": ""
@@ -308057,22 +308074,22 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Powers §bBeacons §7for up to"
+          "text": "§7Powers §bBeacons §7for up to §348 hours"
         },
         {
-          "text": "§348 hours §7at a time!"
+          "text": "§7at a time!"
         },
         {
           "text": ""
         },
         {
-          "text": "§7Adds §6+1% §7minion speed buff and"
+          "text": "§7Adds §6+1% §7minion speed buff and §a+20%"
         },
         {
-          "text": "§a+20% §7profile stats to beacons"
+          "text": "§7profile stats to beacons fueled by this"
         },
         {
-          "text": "§7fueled by this power crystal!"
+          "text": "§7power crystal!"
         },
         {
           "text": ""
@@ -308091,13 +308108,24 @@
         "properties": [
           {
             "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTY0MDI4NzI0NCwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjA5OWQ0ZTI1YTU2OWUyZDAxOGJkOGQ3ZTFhNDBhZDJjY2JjOWJkMWZkMmVkNDg2ODhiY2MzZjYyYTk2MjEzYSIKICAgIH0KICB9Cn0="
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1OTc5NzQwMDEzNCwKICAicHJvZmlsZUlkIiA6ICI0NDA3OTk4M2Q0ZTU0MTZiYmY4NzAzNDU2YzczYTc5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBeWFhbjEzMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mMDk5ZDRlMjVhNTY5ZTJkMDE4YmQ4ZDdlMWE0MGFkMmNjYmM5YmQxZmQyZWQ0ODY4OGJjYzNmNjJhOTYyMTNhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
           }
         ]
       },
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:dyed_color"
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -328113,6 +328141,12 @@
       },
       "minecraft:lore": [
         {
+          "text": "§8Minion Fuel"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§7Increases the speed of your minion"
         },
         {
@@ -328132,7 +328166,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -366291,7 +366325,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -380970,10 +381004,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7§7A squishy moist mess."
+          "text": "§7A squishy moist mess."
         },
         {
           "text": ""
+        },
+        {
+          "text": "§8§l* §8Co-op Soulbound §8§l*"
         },
         {
           "text": "§5§lEPIC"
@@ -380986,7 +381023,24 @@
             "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzNDkyNzY3NjA4MSwKICAicHJvZmlsZUlkIiA6ICJmYzUwMjkzYTVkMGI0NzViYWYwNDJhNzIwMWJhMzBkMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkzNTdmMjVkY2NhNWZhZDFkOWI5ZDc2YTJhOGQxYmE1ZGY4OTM2MGU2NDJjN2ZiMzE3MTgwODdhODUxNTcxZWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
           }
         ]
-      }
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
