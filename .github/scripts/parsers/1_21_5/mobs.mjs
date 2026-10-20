@@ -7,6 +7,13 @@ import {warnDuplicateId} from "../../utils/logger.mjs";
 const mobsFile = {};
 const mobOverlaysFile = [];
 
+let abiphoneContacts = {};
+try {
+    abiphoneContacts = JSON.parse(fs.readFileSync("neu/constants/abiphone.json", "utf-8"));
+} catch (e) {
+    console.warn("[WARN] Could not load abiphone.json");
+}
+
 const stripColorCodes = (str) => {
     if (typeof str !== 'string') return str;
     return str.replace(/§[0-9a-fk-or]/g, '');
@@ -139,7 +146,18 @@ export const Mobs = {
             lootTables: lootTables.length === 0 ? undefined : lootTables,
         };
 
-        const overlayProps = getOverlay(item);
+        let overlayProps = getOverlay(item);
+        const contact = abiphoneContacts[realName];
+
+        if (contact && contact.island === item.island) {
+            overlayProps = overlayProps || {};
+            if (contact.callNames && contact.callNames.length > 0) {
+                overlayProps.abiphone_callnames = contact.callNames;
+            } else {
+                overlayProps.abiphone_callnames = [realName.toLowerCase()];
+            }
+        }
+
         if (overlayProps) {
             mobOverlaysFile.push({
                 type: "mob",
