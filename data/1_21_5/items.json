@@ -112072,10 +112072,10 @@
           "text": "§7Health: §c+40"
         },
         {
-          "text": "§7Defense: §a+34"
+          "text": "§7Defense: §a+20"
         },
         {
-          "text": "§7Speed: §f+38"
+          "text": "§7Speed: §f+10"
         },
         {
           "text": "§7Gemstones: §8[]"
@@ -112121,13 +112121,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -287448,10 +287446,10 @@
           "text": "§7Health: §c+100"
         },
         {
-          "text": "§7Defense: §a+84"
+          "text": "§7Defense: §a+70"
         },
         {
-          "text": "§7Speed: §f+78"
+          "text": "§7Speed: §f+50"
         },
         {
           "text": "§7Gemstones: §8[] []"
@@ -287496,10 +287494,10 @@
           "text": ""
         },
         {
-          "text": "§7Bonus Defense: §a14"
+          "text": "§7Bonus Defense: §a0"
         },
         {
-          "text": "§7Bonus Speed: §a28"
+          "text": "§7Bonus Speed: §a0"
         },
         {
           "text": ""
@@ -287527,13 +287525,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
