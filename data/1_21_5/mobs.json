@@ -37123,7 +37123,7 @@
           },
           {
             "id": "DYE_DUNG",
-            "chance": 0.00001,
+            "chance": 0.00002,
             "minAmount": 1,
             "maxAmount": 1
           }
@@ -37550,7 +37550,7 @@
           },
           {
             "id": "DYE_DUNG",
-            "chance": 0.000002,
+            "chance": 0.000004,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -37699,7 +37699,7 @@
           },
           {
             "id": "DYE_DUNG",
-            "chance": 0.000002,
+            "chance": 0.00002,
             "minAmount": 1,
             "maxAmount": 1
           },
