@@ -35051,6 +35051,27 @@
   },
   {
     "type": "item",
+    "id": "PET_SKIN_BAT_HUNTER_ALBINO",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Albino_Hunter_Bat_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PET_SKIN_BAT_HUNTER_MIDNIGHT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Midnight_Hunter_Bat_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PET_SKIN_BAT_HUNTER_PURPLE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Purple_Hunter_Bat_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "PET_SKIN_BAT_SUGAR_GLIDER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Sugar_Glider_Bat_Skin"
