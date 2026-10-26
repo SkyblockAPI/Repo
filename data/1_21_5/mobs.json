@@ -53567,7 +53567,7 @@
           },
           {
             "id": "SHRIVELED_WASP",
-            "chance": 0.0007099999999999999,
+            "chance": 0.0014199999999999998,
             "minAmount": 1,
             "maxAmount": 1,
             "extraLore": [
