@@ -9119,16 +9119,14 @@
           "§7Speed: §f+{SPEED}",
           "",
           "§6Fearnesy",
-          "§7§7§5Fear §7from §5Great Spook",
-          "§5Armor §7in your §bwardrobe",
-          "§b§7applies to you, even if you",
-          "§7aren't wearing it.",
+          "§5Fear §7from §5Great Spook Armor §7in",
+          "§7your §bwardrobe §7applies to you, even",
+          "§7if you aren't wearing it.",
           "",
-          "§6Fearama §8Edition #???",
-          "§7§7§7Increases §cdamage §7dealt",
-          "§7to Primal Fears and Spooky Mobs",
-          "§7by §a{0} §7for every §5Fear §7you",
-          "§7have.",
+          "§6Fearama",
+          "§7Increases §cdamage §7dealt to Primal",
+          "§7Fears and Spooky Mobs by §a{0}% §7for",
+          "§7every §5Fear §7you have.",
           "",
           "§8§l* §8Soulbound §8§l*",
           "§9§lRARE PET"
@@ -9183,34 +9181,28 @@
                 "text": "§6Fearnesy"
               },
               {
-                "text": "§7§7§5Fear §7from §5Great Spook"
+                "text": "§5Fear §7from §5Great Spook Armor §7in"
               },
               {
-                "text": "§5Armor §7in your §bwardrobe"
+                "text": "§7your §bwardrobe §7applies to you, even"
               },
               {
-                "text": "§b§7applies to you, even if you"
-              },
-              {
-                "text": "§7aren't wearing it."
+                "text": "§7if you aren't wearing it."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Fearama §8Edition #???"
+                "text": "§6Fearama"
               },
               {
-                "text": "§7§7§7Increases §cdamage §7dealt"
+                "text": "§7Increases §cdamage §7dealt to Primal"
               },
               {
-                "text": "§7to Primal Fears and Spooky Mobs"
+                "text": "§7Fears and Spooky Mobs by §a{0}% §7for"
               },
               {
-                "text": "§7by §a{0} §7for every §5Fear §7you"
-              },
-              {
-                "text": "§7have."
+                "text": "§7every §5Fear §7you have."
               },
               {
                 "text": ""
@@ -9228,11 +9220,6 @@
                   "name": "textures",
                   "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5NTY2NTQ5MTMwMiwKICAicHJvZmlsZUlkIiA6ICJkYmQ4MDQ2M2EwMzY0Y2FjYjI3OGNhODBhMDBkZGIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4bG9nMjEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzNhZjcwYzZmZjc2YmE0OGYyNGVlOGEyMDYzYTViNTBiYmZhYmY0MDlmNDc5NTI0OGEyOTJmODI4OWY0N2M5OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
                 }
-              ]
-            },
-            "minecraft:tooltip_display": {
-              "hidden_components": [
-                "minecraft:dyed_color"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:rare"

@@ -63462,11 +63462,26 @@
       {
         "type": "currency",
         "currency": "PEST",
-        "count": 40
+        "count": 100
       }
     ],
     "result": {
       "id": "PESTHUNTERS_GLOVES",
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "PESTHUNTER_PHILLIP_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "PEST",
+        "count": 40
+      }
+    ],
+    "result": {
+      "id": "VINYL_SACK",
       "count": 1
     }
   },
@@ -64955,6 +64970,34 @@
     "time": 43200,
     "result": {
       "id": "POLISHED_TOPAZ_ROD",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ECTOPLASM",
+        "count": 1
+      },
+      {
+        "id": "BEJEWELED_HANDLE",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      0,
+      -1,
+      1,
+      0,
+      1,
+      -1,
+      -1
+    ],
+    "result": {
+      "id": "POLTERGEIST_PITCHFORK",
       "count": 1
     }
   },

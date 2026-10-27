@@ -22661,6 +22661,7 @@
           "§9Green Thumb I",
           "§7Grants §60.05 Farming Fortune",
           "§7per unique visitor served.",
+          "§8(Excludes §lSPECIAL §8Visitors)",
           "",
           "§7Can be applied to Equipment.",
           "",
@@ -22708,6 +22709,9 @@
               },
               {
                 "text": "§7per unique visitor served."
+              },
+              {
+                "text": "§8(Excludes §lSPECIAL §8Visitors)"
               },
               {
                 "text": ""
@@ -22783,6 +22787,7 @@
           "§9Green Thumb II",
           "§7Grants §60.1 Farming Fortune",
           "§7per unique visitor served.",
+          "§8(Excludes §lSPECIAL §8Visitors)",
           "",
           "§7Can be applied to Equipment.",
           "",
@@ -22830,6 +22835,9 @@
               },
               {
                 "text": "§7per unique visitor served."
+              },
+              {
+                "text": "§8(Excludes §lSPECIAL §8Visitors)"
               },
               {
                 "text": ""
@@ -22905,6 +22913,7 @@
           "§9Green Thumb III",
           "§7Grants §60.15 Farming Fortune",
           "§7per unique visitor served.",
+          "§8(Excludes §lSPECIAL §8Visitors)",
           "",
           "§7Can be applied to Equipment.",
           "",
@@ -22952,6 +22961,9 @@
               },
               {
                 "text": "§7per unique visitor served."
+              },
+              {
+                "text": "§8(Excludes §lSPECIAL §8Visitors)"
               },
               {
                 "text": ""
@@ -23027,6 +23039,7 @@
           "§9Green Thumb IV",
           "§7Grants §60.2 Farming Fortune",
           "§7per unique visitor served.",
+          "§8(Excludes §lSPECIAL §8Visitors)",
           "",
           "§7Can be applied to Equipment.",
           "",
@@ -23074,6 +23087,9 @@
               },
               {
                 "text": "§7per unique visitor served."
+              },
+              {
+                "text": "§8(Excludes §lSPECIAL §8Visitors)"
               },
               {
                 "text": ""
@@ -23149,6 +23165,7 @@
           "§9Green Thumb V",
           "§7Grants §60.25 Farming Fortune",
           "§7per unique visitor served.",
+          "§8(Excludes §lSPECIAL §8Visitors)",
           "",
           "§7Can be applied to Equipment.",
           "",
@@ -23196,6 +23213,9 @@
               },
               {
                 "text": "§7per unique visitor served."
+              },
+              {
+                "text": "§8(Excludes §lSPECIAL §8Visitors)"
               },
               {
                 "text": ""

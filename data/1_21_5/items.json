@@ -5451,7 +5451,7 @@
     }
   },
   {
-    "id": "minecraft:green_dye",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "ALLIGATOR_SKIN"
@@ -8567,7 +8567,8 @@
     "id": "minecraft:carrot_on_a_stick",
     "components": {
       "minecraft:custom_data": {
-        "id": "AQUAMASTER_HYDROMAX"
+        "id": "AQUAMASTER_HYDROMAX",
+        "water_level": 20000
       },
       "minecraft:custom_name": {
         "text": "§6AquaMaster™ Hydromax"
@@ -8631,7 +8632,6 @@
           "text": "§6§lLEGENDARY WATERING CAN"
         }
       ],
-      "minecraft:damage": 25,
       "minecraft:item_model": "hypixel_skyblock:item/island_relevant/garden/tools/aquamaster_hydromax",
       "minecraft:tooltip_display": {
         "hidden_components": [
@@ -26236,7 +26236,7 @@
     }
   },
   {
-    "id": "minecraft:black_wool",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "BLACK_WOOLEN_YARN"
@@ -26258,11 +26258,12 @@
           "text": "§d§lMYTHIC"
         }
       ],
+      "minecraft:item_model": "hypixel_skyblock:item/great_spook/black_woolen_yarn",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -30605,7 +30606,7 @@
     }
   },
   {
-    "id": "minecraft:ghast_tear",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "BLUE_SHARK_TOOTH"
@@ -55142,6 +55143,12 @@
       },
       "minecraft:lore": [
         {
+          "text": "§7Rift Damage: §5+5"
+        },
+        {
+          "text": ""
+        },
+        {
           "text": "§7Allows you to break living metal,"
         },
         {
@@ -55160,9 +55167,6 @@
           "text": ""
         },
         {
-          "text": "§8This item can be reforged!"
-        },
-        {
           "text": "§5§lEPIC SWORD"
         }
       ],
@@ -55173,13 +55177,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -70092,7 +70094,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "DARK_CANDY"
@@ -70117,19 +70119,12 @@
           "text": "§9§lRARE"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTYzNTEyMjkwMDI5NSwKICAicHJvZmlsZUlkIiA6ICI4ODBiZWMwYTE0MmM0YzRlYTJlZjliMTFiMTBkNWNiNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmZ2FiIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdjODY2ZTQyMzk1NTE0MjhmOWM4MTRkOWRjMTFlNzAwMmUwNDNiODdmNTkwZjFmZGNiNGZmNmJiNDk3YjhlMTgiCiAgICB9CiAgfQp9"
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/great_spook/dark_candy",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -87943,12 +87938,11 @@
     }
   },
   {
-    "id": "minecraft:prismarine_crystals",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "ECTOPLASM"
       },
-      "minecraft:enchantment_glint_override": true,
       "minecraft:custom_name": {
         "text": "§9Ectoplasm"
       },
@@ -87969,9 +87963,21 @@
           "text": "§9§lRARE"
         }
       ],
+      "minecraft:item_model": "hypixel_skyblock:item/great_spook/ectoplasm",
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:dyed_color"
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -95940,13 +95946,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -97243,13 +97251,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -97864,7 +97874,7 @@
     }
   },
   {
-    "id": "minecraft:prismarine_shard",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "ENCHANTED_SHARK_FIN"
@@ -106159,7 +106169,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "EXPIRED_PUMPKIN"
@@ -106187,14 +106197,7 @@
           "text": "§a§lUNCOMMON"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5OTcxNjQ1NjU0MiwKICAicHJvZmlsZUlkIiA6ICIzNzdmYzE2NzE2ZDY0NDM4YjNkYjQzYzYyOWExYTkyOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTd2VkZW5zdHlsZTM0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyODkyMDk5MjBkNWYxOTE3NWQ3OWFlNmFhNmFhN2JiODk5MTQ0YTdiYzRmMzYxMmY0MzQ3ZWNhMjVlNTcyZmEiCiAgICB9CiAgfQp9"
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/great_spook/expired_pumpkin",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -111398,7 +111401,7 @@
     }
   },
   {
-    "id": "minecraft:nether_star",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "FAKE_SHURIKEN"
@@ -125475,7 +125478,7 @@
     }
   },
   {
-    "id": "minecraft:bone",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "FLEXBONE"
@@ -129925,7 +129928,7 @@
     }
   },
   {
-    "id": "minecraft:feather",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "FRIED_FEATHER"
@@ -137212,14 +137215,17 @@
       },
       "minecraft:unbreakable": {},
       "minecraft:custom_name": {
-        "text": "§9Ghostly Boots"
+        "text": "§5Ghostly Boots"
       },
       "minecraft:lore": [
         {
-          "text": "§7§oBoots made of pure ghost"
+          "text": "§7Fear: §5+1"
         },
         {
-          "text": "§7§oessence."
+          "text": ""
+        },
+        {
+          "text": "§8§oFor ghosts, by ghosts."
         },
         {
           "text": ""
@@ -137228,17 +137234,27 @@
           "text": "§8This item can be reforged!"
         },
         {
-          "text": "§9§lRARE BOOTS"
+          "text": "§5§lEPIC BOOTS"
         }
       ],
       "minecraft:dyed_color": 8421504,
       "minecraft:tooltip_display": {
         "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:unbreakable"
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
@@ -141509,7 +141525,7 @@
     }
   },
   {
-    "id": "minecraft:purple_dye",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "GLOSSY_GEMSTONE"
@@ -141522,7 +141538,7 @@
           "text": "§7Drops rarely from §dGemstones§7 while"
         },
         {
-          "text": "§6Mayor Cole§7 is in office."
+          "text": "§bMayor Cole's §6Mining Fiesta §7is active."
         },
         {
           "text": ""
@@ -150026,10 +150042,7 @@
           "text": ""
         },
         {
-          "text": "§bVisitors §7appear §a5% §7faster while"
-        },
-        {
-          "text": "§7you're in §aThe Garden§7."
+          "text": "§bVisitors §7give §c+5% Copper."
         },
         {
           "text": ""
@@ -150055,13 +150068,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -150087,10 +150098,7 @@
           "text": ""
         },
         {
-          "text": "§bVisitors §7appear §a3% §7faster while"
-        },
-        {
-          "text": "§7you're in §aThe Garden§7."
+          "text": "§bVisitors §7give §c+3% Copper."
         },
         {
           "text": ""
@@ -150116,13 +150124,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -150148,10 +150154,7 @@
           "text": ""
         },
         {
-          "text": "§bVisitors §7appear §a1% §7faster while"
-        },
-        {
-          "text": "§7you're in §aThe Garden§7."
+          "text": "§bVisitors §7give §c+1% Copper."
         },
         {
           "text": ""
@@ -150177,13 +150180,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -151114,13 +151115,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -152279,7 +152282,7 @@
     }
   },
   {
-    "id": "minecraft:ghast_tear",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "GREAT_WHITE_SHARK_TOOTH"
@@ -152560,7 +152563,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "GREEN_CANDY"
@@ -152585,19 +152588,12 @@
           "text": "§a§lUNCOMMON"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzA4ODM1NSwKICAicHJvZmlsZUlkIiA6ICIyMWNjMzkxZmNkMjc0NzY5OTg5Y2M3M2VjYWRiNTE3YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHT1NUTFk5NyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMzFjMGJkNzZhNjU1ZDVkOGZlYTViMDZkYWFmMWZiOGQ4MDYwYmYwODIzZWJiYzZlYjZmOTljOGVlNWEzNWFhIgogICAgfQogIH0KfQ=="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/great_spook/green_candy",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -163377,7 +163373,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "HORSEMAN_CANDLE"
@@ -163414,19 +163410,12 @@
           "text": "§5§lEPIC"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0Mjc0Nzk4NiwKICAicHJvZmlsZUlkIiA6ICJlOTUyODY0OGZhYzU0ZDdlOGI0ZGU1NDhiMzU3MDY5OCIsCiAgInByb2ZpbGVOYW1lIiA6ICIwNjAwMDEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzQ2Zjc0NjliN2Q5Y2MzNGM4OTkwYTBhZGQ2MzU4NDE5MTdhZjg5Y2E1MmNhZmRkZTU3NTAwN2QxYThjMzk4ZSIKICAgIH0KICB9Cn0="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/great_spook/horsemans_candle",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -175494,7 +175483,7 @@
           "text": ""
         },
         {
-          "text": "§7Can be used to damage §2 Pests§7."
+          "text": "§7Can be used to damage §2 Pests§7."
         },
         {
           "text": ""
@@ -175506,7 +175495,7 @@
           "text": "§7Deals §c300  Damage §7per second to"
         },
         {
-          "text": "§7nearby §2 Pests§7."
+          "text": "§7nearby §2 Pests§7."
         },
         {
           "text": ""
@@ -175518,7 +175507,7 @@
           "text": "§7Leads you in the direction of the"
         },
         {
-          "text": "§7nearest §2 Pest§7."
+          "text": "§7nearest §2 Pest§7."
         },
         {
           "text": "§8Cooldown: §a1s"
@@ -175530,7 +175519,7 @@
           "text": "§7Vacuum Bag: §20 Pests"
         },
         {
-          "text": "§8Vacuum  Pests in your Garden to"
+          "text": "§8Vacuum  Pests in your Garden to"
         },
         {
           "text": "§8increase!"
@@ -175588,7 +175577,7 @@
           "text": ""
         },
         {
-          "text": "§7Can be used to damage §2 Pests§7."
+          "text": "§7Can be used to damage §2 Pests§7."
         },
         {
           "text": ""
@@ -175600,7 +175589,7 @@
           "text": "§7Deals §c400  Damage §7per second to"
         },
         {
-          "text": "§7nearby §2 Pests§7."
+          "text": "§7nearby §2 Pests§7."
         },
         {
           "text": ""
@@ -175612,7 +175601,7 @@
           "text": "§7Leads you in the direction of the"
         },
         {
-          "text": "§7nearest §2 Pest§7."
+          "text": "§7nearest §2 Pest§7."
         },
         {
           "text": "§8Cooldown: §a1s"
@@ -175624,7 +175613,7 @@
           "text": "§6Ability: Stereo Harmony  §e§lSNEAK LEFT CLICK"
         },
         {
-          "text": "§7Plays vinyls at a frequency only §2"
+          "text": "§7Plays vinyls at a frequency only §2"
         },
         {
           "text": "§2Pests §7can hear. Certain Pests are"
@@ -175648,7 +175637,7 @@
           "text": "§7Vacuum Bag: §20 Pests"
         },
         {
-          "text": "§8Vacuum  Pests in your Garden to"
+          "text": "§8Vacuum  Pests in your Garden to"
         },
         {
           "text": "§8increase!"
@@ -180699,7 +180688,7 @@
           "text": "§7spraying. Certain materials attract"
         },
         {
-          "text": "§7certain types of §2 Pests§7."
+          "text": "§7certain types of §2 Pests§7."
         },
         {
           "text": ""
@@ -180741,7 +180730,7 @@
           "text": "§7   in a sprayed plot."
         },
         {
-          "text": "§8➜ §2 Pests §7are §a2x §7more likely to"
+          "text": "§8➜ §2 Pests §7are §a2x §7more likely to"
         },
         {
           "text": "§7   spawn in sprayed plots."
@@ -187973,13 +187962,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -197902,7 +197893,7 @@
     }
   },
   {
-    "id": "minecraft:magma_cream",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "MAGMA_CORE"
@@ -203128,13 +203119,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -213438,7 +213431,7 @@
     }
   },
   {
-    "id": "minecraft:leather",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "MOOGMA_PELT"
@@ -214365,7 +214358,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "MOUND_OF_SEAGRASS"
@@ -214420,14 +214413,6 @@
           "text": "§5§lEPIC"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc1Mjc2Nzg5NzQ4MywKICAicHJvZmlsZUlkIiA6ICJjN2Y2Nzk3ZmE4ZGM0NTdiYTkxNTU0NWIwMGU3M2UzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJlZGd5c3BlbmNlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg5MDJmMWM1NTgzODEyMWE4MzczNjFkMzVlM2MwNTRhOTc1ZWU2MDZlMTk3YzI0MTVmOTFiZWZmODg4ZmFkMWMiCiAgICB9CiAgfQp9"
-          }
-        ]
-      },
       "minecraft:item_model": "minecraft:seagrass",
       "minecraft:tooltip_display": {
         "hidden_components": [
@@ -214462,7 +214447,7 @@
           "text": "§7Place in a §aGarden §7plot and fill with"
         },
         {
-          "text": "§7bait to catch §2 Pests §7while offline."
+          "text": "§7bait to catch §2 Pests §7while offline."
         },
         {
           "text": "§8Maximum Capacity: 3 Pests"
@@ -222801,7 +222786,7 @@
     }
   },
   {
-    "id": "minecraft:ghast_tear",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "NURSE_SHARK_TOOTH"
@@ -230315,7 +230300,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Magic Find: §b+1.5"
+          "text": "§7Magic Find: §b+1"
         },
         {
           "text": "§7Accessory Power: §6+3"
@@ -230375,7 +230360,7 @@
           "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:very_special"
+      "minecraft:tooltip_style": "hypixel_skyblock:special"
     }
   },
   {
@@ -238027,7 +238012,7 @@
           "text": "§7Place in a §aGarden §7plot and fill with"
         },
         {
-          "text": "§7bait to catch §2 Pests §7while offline."
+          "text": "§7bait to catch §2 Pests §7while offline."
         },
         {
           "text": "§8Maximum Capacity: 2 Pests"
@@ -244027,7 +244012,7 @@
           "text": ""
         },
         {
-          "text": "§7This skin can only be applied to Bee"
+          "text": "§7This skin can only be applied to §aBee"
         },
         {
           "text": "§7pets."
@@ -244060,7 +244045,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -270114,10 +270099,10 @@
           "text": ""
         },
         {
-          "text": "§7This skin can only be applied to Baby"
+          "text": "§7This skin can only be applied to §aBaby"
         },
         {
-          "text": "§7Yeti pets."
+          "text": "§aYeti§7 pets."
         },
         {
           "text": ""
@@ -270147,7 +270132,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -274321,6 +274306,83 @@
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
+    }
+  },
+  {
+    "id": "minecraft:wooden_sword",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "POLTERGEIST_PITCHFORK"
+      },
+      "minecraft:unbreakable": {},
+      "minecraft:custom_name": {
+        "text": "§5Poltergeist Pitchfork"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Damage: §c+170"
+        },
+        {
+          "text": "§7Strength: §c+120"
+        },
+        {
+          "text": "§7Gemstones: §8[] []"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Deals §c+200%  Damage §7to §fGhosts§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6Ability: Haymaker  §e§lRIGHT CLICK"
+        },
+        {
+          "text": "§7Thrust §a3 §7prongs forward §e6 §7blocks,"
+        },
+        {
+          "text": "§7which deals §c Damage§7. Any §fGhost §7or"
+        },
+        {
+          "text": "§2 Pest §7pierced gets stunned for §a3s§7."
+        },
+        {
+          "text": "§8Mana Cost: §b180"
+        },
+        {
+          "text": "§8Cooldown: §a1s"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8This item can be reforged!"
+        },
+        {
+          "text": "§5§lEPIC SWORD"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/great_spook/poltergeist_pitchfork",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
@@ -283067,12 +283129,11 @@
     }
   },
   {
-    "id": "minecraft:pumpkin_seeds",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "PUMPKIN_GUTS"
       },
-      "minecraft:enchantment_glint_override": true,
       "minecraft:custom_name": {
         "text": "§aPumpkin Guts"
       },
@@ -283096,9 +283157,21 @@
           "text": "§a§lUNCOMMON"
         }
       ],
+      "minecraft:item_model": "hypixel_skyblock:item/great_spook/pumpkin_guts",
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:dyed_color"
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -283624,7 +283697,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "PURPLE_CANDY"
@@ -283649,19 +283722,12 @@
           "text": "§5§lEPIC"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwMzQxNDc0NTAyNSwKICAicHJvZmlsZUlkIiA6ICIyYzEwNjRmY2Q5MTc0MjgyODRlM2JmN2ZhYTdlM2UxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYWVtZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MTYxMWQ4NzRlODc0ZTMyMmExMTk5YjNiN2I5ZTkzNGJiYjBkYmVkNTg3ZWU4ZmNkNmNjYzFiMDdlMjgxNjUxIgogICAgfQogIH0KfQ=="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/great_spook/purple_candy",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -283982,7 +284048,7 @@
     }
   },
   {
-    "id": "minecraft:prismarine_shard",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "PYROCLASTIC_SCALE"
@@ -290149,13 +290215,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -294157,7 +294221,7 @@
     }
   },
   {
-    "id": "minecraft:light_blue_dye",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "REFINED_MINERAL"
@@ -294170,10 +294234,10 @@
           "text": "§7Drops rarely from §6Ores§7 and"
         },
         {
-          "text": "§2Dwarven Metals§7 while §6Mayor Cole§7 is in"
+          "text": "§2Dwarven Metals§7 while §bMayor Cole's"
         },
         {
-          "text": "§7office."
+          "text": "§6Mining Fiesta §7is active."
         },
         {
           "text": ""
@@ -297907,7 +297971,7 @@
     }
   },
   {
-    "id": "minecraft:clay_ball",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "REVERSE_REFORGE_STONE_CORE"
@@ -297935,7 +297999,7 @@
           "text": "§9§lERAR"
         }
       ],
-      "minecraft:item_model": "minecraft:popped_chorus_fruit",
+      "minecraft:item_model": "hypixel_skyblock:item/fishing/lotus_atoll/eroc_enots_egrofer",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -305163,7 +305227,7 @@
           "text": "§7spraying. Certain materials attract"
         },
         {
-          "text": "§7certain types of §2 Pests§7."
+          "text": "§7certain types of §2 Pests§7."
         },
         {
           "text": ""
@@ -305205,7 +305269,7 @@
           "text": "§7   in a sprayed plot."
         },
         {
-          "text": "§8➜ §2 Pests §7are §a3x §7more likely to"
+          "text": "§8➜ §2 Pests §7are §a3x §7more likely to"
         },
         {
           "text": "§7   spawn in sprayed plots."
@@ -307458,7 +307522,7 @@
     }
   },
   {
-    "id": "minecraft:black_stained_glass",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "SCARE_FRAGMENT"
@@ -307489,11 +307553,12 @@
           "text": "§9§lRARE"
         }
       ],
+      "minecraft:item_model": "hypixel_skyblock:item/great_spook/scare_fragment",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -312367,7 +312432,7 @@
     }
   },
   {
-    "id": "minecraft:prismarine_shard",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "SHARK_FIN"
@@ -313236,13 +313301,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -320938,7 +321001,6 @@
       "minecraft:custom_data": {
         "id": "SKYBLOCK_MENU"
       },
-      "minecraft:enchantment_glint_override": true,
       "minecraft:custom_name": {
         "text": "§aSkyBlock Menu §7(Click)"
       },
@@ -321127,7 +321189,7 @@
           "text": ""
         },
         {
-          "text": "§7Can be used to damage §2 Pests§7."
+          "text": "§7Can be used to damage §2 Pests§7."
         },
         {
           "text": ""
@@ -321139,7 +321201,7 @@
           "text": "§7Deals §c200  Damage §7per second to"
         },
         {
-          "text": "§7nearby §2 Pests§7."
+          "text": "§7nearby §2 Pests§7."
         },
         {
           "text": ""
@@ -321151,7 +321213,7 @@
           "text": "§7Leads you in the direction of the"
         },
         {
-          "text": "§7nearest §2 Pest§7."
+          "text": "§7nearest §2 Pest§7."
         },
         {
           "text": "§8Cooldown: §a1s"
@@ -321163,7 +321225,7 @@
           "text": "§7Vacuum Bag: §20 Pests"
         },
         {
-          "text": "§8Vacuum  Pests in your Garden to"
+          "text": "§8Vacuum  Pests in your Garden to"
         },
         {
           "text": "§8increase!"
@@ -321218,7 +321280,7 @@
           "text": ""
         },
         {
-          "text": "§7Can be used to damage §2 Pests§7."
+          "text": "§7Can be used to damage §2 Pests§7."
         },
         {
           "text": ""
@@ -321230,7 +321292,7 @@
           "text": "§7Deals §c150  Damage §7per second to"
         },
         {
-          "text": "§7nearby §2 Pests§7."
+          "text": "§7nearby §2 Pests§7."
         },
         {
           "text": ""
@@ -321242,7 +321304,7 @@
           "text": "§7Leads you in the direction of the"
         },
         {
-          "text": "§7nearest §2 Pest§7."
+          "text": "§7nearest §2 Pest§7."
         },
         {
           "text": "§8Cooldown: §a1s"
@@ -321254,7 +321316,7 @@
           "text": "§7Vacuum Bag: §20 Pests"
         },
         {
-          "text": "§8Vacuum  Pests in your Garden to"
+          "text": "§8Vacuum  Pests in your Garden to"
         },
         {
           "text": "§8increase!"
@@ -321309,7 +321371,7 @@
           "text": ""
         },
         {
-          "text": "§7Can be used to damage §2 Pests§7."
+          "text": "§7Can be used to damage §2 Pests§7."
         },
         {
           "text": ""
@@ -321321,7 +321383,7 @@
           "text": "§7Deals §c100  Damage §7per second to"
         },
         {
-          "text": "§7nearby §2 Pests§7."
+          "text": "§7nearby §2 Pests§7."
         },
         {
           "text": ""
@@ -321333,7 +321395,7 @@
           "text": "§7Leads you in the direction of the"
         },
         {
-          "text": "§7nearest §2 Pest§7."
+          "text": "§7nearest §2 Pest§7."
         },
         {
           "text": "§8Cooldown: §a1s"
@@ -321345,7 +321407,7 @@
           "text": "§7Vacuum Bag: §20 Pests"
         },
         {
-          "text": "§8Vacuum  Pests in your Garden to"
+          "text": "§8Vacuum  Pests in your Garden to"
         },
         {
           "text": "§8increase!"
@@ -323316,13 +323378,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -324536,7 +324600,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -336752,7 +336816,7 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "SPOOKY_SHARD"
@@ -336771,19 +336835,12 @@
           "text": "§5§lEPIC"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY5ODMzMzYxODQyNCwKICAicHJvZmlsZUlkIiA6ICI0YzhjNTIxZjMxZDI0ZDc1OThlNTI4YjRlODExOGMwNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXR5YXdhbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kODg0ZWQxOTUwYmI4YjE5OGFkYTgxOTE2ODQ0MDBiZDY2NDBlMDM3MTA0ODFjODEyMmI3ODBiOWVkMWJkOThjIgogICAgfQogIH0KfQ=="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/great_spook/spooky_fragment",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -337114,7 +337171,7 @@
           "text": "§7spraying. Certain materials attract"
         },
         {
-          "text": "§7certain types of §2 Pests§7."
+          "text": "§7certain types of §2 Pests§7."
         },
         {
           "text": ""
@@ -337156,7 +337213,7 @@
           "text": "§7   in a sprayed plot."
         },
         {
-          "text": "§8➜ §2 Pests §7are §a1.5x §7more likely to"
+          "text": "§8➜ §2 Pests §7are §a1.5x §7more likely to"
         },
         {
           "text": "§7   spawn in sprayed plots."
@@ -339533,7 +339590,7 @@
           "text": "§7Launches an explosive moon towards the"
         },
         {
-          "text": "§7target location, dealing §c1❤ Heart §7of damage"
+          "text": "§7target location, dealing §c1 Heart §7of damage"
         },
         {
           "text": "§7to §cWizardman §7when hit."
@@ -339548,9 +339605,21 @@
           "text": "§5§lEPIC WAND"
         }
       ],
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/rift/wands/staff_of_the_rising_moon",
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:dyed_color"
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -346981,7 +347050,7 @@
     }
   },
   {
-    "id": "minecraft:stick",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "STRETCHING_STICKS"
@@ -362632,7 +362701,7 @@
     }
   },
   {
-    "id": "minecraft:ghast_tear",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "TIGER_SHARK_TOOTH"
@@ -373606,7 +373675,7 @@
           "text": "§7Place in a §aGarden §7plot and fill with"
         },
         {
-          "text": "§7bait to catch §2 Pests §7while offline."
+          "text": "§7bait to catch §2 Pests §7while offline."
         },
         {
           "text": "§8Maximum Capacity: 4 Pests"
@@ -374526,7 +374595,7 @@
     }
   },
   {
-    "id": "minecraft:music_disc_mellohi",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "VINYL_BEETLE"
@@ -374557,6 +374626,7 @@
           "text": "§a§lUNCOMMON"
         }
       ],
+      "minecraft:item_model": "minecraft:music_disc_mellohi",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -374577,7 +374647,7 @@
     }
   },
   {
-    "id": "minecraft:music_disc_ward",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "VINYL_BUZZIN_BEATS"
@@ -374608,6 +374678,7 @@
           "text": "§a§lUNCOMMON"
         }
       ],
+      "minecraft:item_model": "minecraft:music_disc_ward",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -374628,7 +374699,7 @@
     }
   },
   {
-    "id": "minecraft:music_disc_blocks",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "VINYL_CICADA_SYMPHONY"
@@ -374659,6 +374730,7 @@
           "text": "§a§lUNCOMMON"
         }
       ],
+      "minecraft:item_model": "minecraft:music_disc_blocks",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -374679,7 +374751,7 @@
     }
   },
   {
-    "id": "minecraft:music_disc_chirp",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "VINYL_CRICKET_CHOIR"
@@ -374710,6 +374782,7 @@
           "text": "§a§lUNCOMMON"
         }
       ],
+      "minecraft:item_model": "minecraft:music_disc_chirp",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -374730,7 +374803,7 @@
     }
   },
   {
-    "id": "minecraft:music_disc_strad",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "VINYL_DYNAMITES"
@@ -374761,6 +374834,7 @@
           "text": "§a§lUNCOMMON"
         }
       ],
+      "minecraft:item_model": "minecraft:music_disc_strad",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -374781,7 +374855,7 @@
     }
   },
   {
-    "id": "minecraft:music_disc_mall",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "VINYL_EARTHWORM_ENSEMBLE"
@@ -374812,6 +374886,7 @@
           "text": "§a§lUNCOMMON"
         }
       ],
+      "minecraft:item_model": "minecraft:music_disc_mall",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -374884,7 +374959,7 @@
     }
   },
   {
-    "id": "minecraft:music_disc_cat",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "VINYL_IMAGINE_DRAGONFLIES"
@@ -374936,7 +375011,7 @@
     }
   },
   {
-    "id": "minecraft:music_disc_mellohi",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "VINYL_PRAY_FOR_ME"
@@ -374988,7 +375063,7 @@
     }
   },
   {
-    "id": "minecraft:music_disc_stal",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "VINYL_PRETTY_FLY"
@@ -375019,6 +375094,7 @@
           "text": "§a§lUNCOMMON"
         }
       ],
+      "minecraft:item_model": "minecraft:music_disc_stal",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -375039,7 +375115,7 @@
     }
   },
   {
-    "id": "minecraft:music_disc_13",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "VINYL_RODENT_REVOLUTION"
@@ -375070,6 +375146,7 @@
           "text": "§a§lUNCOMMON"
         }
       ],
+      "minecraft:item_model": "minecraft:music_disc_13",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -375090,7 +375167,75 @@
     }
   },
   {
-    "id": "minecraft:music_disc_far",
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "VINYL_SACK"
+      },
+      "minecraft:custom_name": {
+        "text": "§5Vinyl Sack"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7Holds §bVinyls §7dropped by §2 Pests§7!"
+        },
+        {
+          "text": "§7Items you pickup go directly into"
+        },
+        {
+          "text": "§7your sacks."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Capacity: §e20,160 of each item"
+        },
+        {
+          "text": "§8Multiple sacks sum their capacity!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight Click to open!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§5§lEPIC SACK"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc5MjUwMjU3MjY2NSwKICAicHJvZmlsZUlkIiA6ICJlMzk1NjU0YzdmMmU0NzI0YmE0Y2FhMDhkYTgzNGJjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJwZHNfXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ZTYwMzA1ZmY4MGJlYTljY2ZlNmE4NzVjOGU3M2UxZjM3YzYwYmM4YzkxZGI3ODdmN2EzMWUwNmJkMGY5MzJkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0"
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+    }
+  },
+  {
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "VINYL_SLOW_AND_GROOVY"
@@ -375121,6 +375266,7 @@
           "text": "§a§lUNCOMMON"
         }
       ],
+      "minecraft:item_model": "minecraft:music_disc_far",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -375141,7 +375287,7 @@
     }
   },
   {
-    "id": "minecraft:music_disc_wait",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "VINYL_WINGS_OF_HARMONY"
@@ -375172,6 +375318,7 @@
           "text": "§a§lUNCOMMON"
         }
       ],
+      "minecraft:item_model": "minecraft:music_disc_wait",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -388887,7 +389034,7 @@
     }
   },
   {
-    "id": "minecraft:rotten_flesh",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "WORM_MEMBRANE"
