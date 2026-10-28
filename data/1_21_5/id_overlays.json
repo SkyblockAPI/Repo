@@ -1253,7 +1253,7 @@
     "type": "item",
     "id": "ARACHNE_SANCTUARY_PORTAL",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_Arachne%27s_Sanctuary"
     }
   },
   {
@@ -2256,6 +2256,13 @@
   },
   {
     "type": "item",
+    "id": "BASE_CAMP_PORTAL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Dwarven_Base_Camp"
+    }
+  },
+  {
+    "type": "item",
     "id": "BASE_CAMP_TRAVEL_SCROLL",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_the_Dwarven_Base_Camp"
@@ -2342,7 +2349,7 @@
     "type": "item",
     "id": "BASKET_OF_SEEDS",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Basket_Of_Seeds"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Basket_of_Seeds"
     }
   },
   {
@@ -2854,6 +2861,13 @@
     "id": "BEHEADED_HORROR",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Beheaded_Horror"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BEHEMOTH_POT_OF_HONEYCOMB",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Behemoth_Pot_of_Honeycomb"
     }
   },
   {
@@ -4175,7 +4189,7 @@
     "type": "item",
     "id": "BLUE_ICE_HUNK",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hunk_Of_Blue_Ice"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hunk_of_Blue_Ice"
     }
   },
   {
@@ -4455,6 +4469,13 @@
     "vanilla": true,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Bowl"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BOX_OF_JUNK",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Box_of_Junk"
     }
   },
   {
@@ -5655,7 +5676,7 @@
     "type": "item",
     "id": "CAKE_HAT_2026_ORANGE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/7th_Anniversary_Cake_Hat"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Orange_7th_Anniversary_Cake_Hat"
     }
   },
   {
@@ -6751,6 +6772,13 @@
   },
   {
     "type": "item",
+    "id": "CENTURY_ARTIFACT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Artifact_of_the_Century"
+    }
+  },
+  {
+    "type": "item",
     "id": "CENTURY_MEMENTO_BLUE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Cake_Slice_of_the_Century"
@@ -7777,7 +7805,7 @@
     "type": "item",
     "id": "CLUCK_THE_FISH",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cluck_The_Fish"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cluck_the_Fish"
     }
   },
   {
@@ -9406,6 +9434,13 @@
   },
   {
     "type": "item",
+    "id": "CROWN_OF_AVARICE_CELEBRATION",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Crown_of_Avarice"
+    }
+  },
+  {
+    "type": "item",
     "id": "CROWN_OF_AVARICE_ROYAL",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Grand_Royal_Skin"
@@ -9612,7 +9647,7 @@
     "type": "item",
     "id": "CRYSTAL_HOLLOWS_PORTAL",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Crystal_Hollows"
     }
   },
   {
@@ -9640,7 +9675,7 @@
     "type": "item",
     "id": "CRYSTAL_NUCLEUS_PORTAL",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Crystal_Nucleus"
     }
   },
   {
@@ -9776,7 +9811,7 @@
       }
     ],
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_The_End"
     }
   },
   {
@@ -9820,7 +9855,7 @@
     "type": "item",
     "id": "DARK_AUCTION_PORTAL",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Dark_Auction"
     }
   },
   {
@@ -10181,7 +10216,7 @@
     "type": "item",
     "id": "DEAD_CAT_DETECTOR",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cat_Detector"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dead_Cat_Detector"
     }
   },
   {
@@ -11104,7 +11139,7 @@
       }
     ],
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Boots_Of_Divan"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Boots_of_Divan"
     }
   },
   {
@@ -11118,7 +11153,7 @@
       }
     ],
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Chestplate_Of_Divan"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Chestplate_of_Divan"
     }
   },
   {
@@ -11153,7 +11188,7 @@
       }
     ],
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Helmet_Of_Divan"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Helmet_of_Divan"
     }
   },
   {
@@ -11167,7 +11202,7 @@
       }
     ],
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Leggings_Of_Divan"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Leggings_of_Divan"
     }
   },
   {
@@ -11407,7 +11442,7 @@
     "type": "item",
     "id": "DRAGON_NEST_PORTAL",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Dragon%27s_Nest"
     }
   },
   {
@@ -11692,7 +11727,7 @@
     "type": "item",
     "id": "DWARVEN_MINES_PORTAL",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Dwarven_Mines"
     }
   },
   {
@@ -15717,7 +15752,7 @@
     "type": "item",
     "id": "EON_THE_FISH",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Eon_The_Fish"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Eon_the_Fish"
     }
   },
   {
@@ -15830,6 +15865,13 @@
     "id": "EPOCH_CAKE_RED",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Fruit_Century_Cake"
+    }
+  },
+  {
+    "type": "item",
+    "id": "EPOCH_CAKE_SEVEN_SEAS",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Century_Cake_of_the_Seven_Seas"
     }
   },
   {
@@ -16196,7 +16238,7 @@
     "type": "item",
     "id": "EXTRA_LARGE_GEMSTONE_SACK",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Gemstone"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Extra_Large_Gemstone_Sack"
     }
   },
   {
@@ -16733,7 +16775,10 @@
         "name": "Honeycomb",
         "id": "HONEYCOMB"
       }
-    ]
+    ],
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Family-Sized_Pot_of_Honeycomb"
+    }
   },
   {
     "type": "item",
@@ -16822,7 +16867,7 @@
       }
     ],
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Barn"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_The_Barn"
     }
   },
   {
@@ -16838,7 +16883,7 @@
       }
     ],
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_the_Barn"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_The_Barn"
     }
   },
   {
@@ -18023,6 +18068,13 @@
   },
   {
     "type": "item",
+    "id": "FISHING_1_PORTAL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Backwater_Bayou"
+    }
+  },
+  {
+    "type": "item",
     "id": "FISHING_CRYSTAL",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Fishing_Crystal"
@@ -19022,7 +19074,7 @@
     "type": "item",
     "id": "FORAGING_1_TRAVEL_SCROLL",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_the_Park"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_The_Park"
     }
   },
   {
@@ -19144,7 +19196,7 @@
     "type": "item",
     "id": "FORGE_PORTAL",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_The_Forge"
     }
   },
   {
@@ -19701,7 +19753,10 @@
         "name": "Honeycomb",
         "id": "HONEYCOMB"
       }
-    ]
+    ],
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fun-Sized_Pot_of_Honeycomb"
+    }
   },
   {
     "type": "item",
@@ -19748,7 +19803,7 @@
     "type": "item",
     "id": "GABAGOOL_THE_FISH",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Gabagool_The_Fish"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Gabagool_the_Fish"
     }
   },
   {
@@ -20911,6 +20966,13 @@
     "id": "GLOWING_MUSHROOM",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Glowing_Mushroom"
+    }
+  },
+  {
+    "type": "item",
+    "id": "GLOWING_MUSHROOM_CAVE_PORTAL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Glowing_Mushroom_Cave"
     }
   },
   {
@@ -22104,7 +22166,7 @@
     "type": "item",
     "id": "GORF_THE_FISH",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/HsiF_ehT_gorF"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hsif_Eht_Gorf"
     }
   },
   {
@@ -23837,7 +23899,7 @@
     "type": "item",
     "id": "HILT_OF_REVELATIONS",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hilt_Of_Revelations"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hilt_of_Revelations"
     }
   },
   {
@@ -24507,14 +24569,14 @@
     "type": "item",
     "id": "HOWLING_CAVE_PORTAL",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Howling_Cave"
     }
   },
   {
     "type": "item",
     "id": "HUB_CASTLE_PORTAL",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Hub_Castle"
     }
   },
   {
@@ -24528,7 +24590,7 @@
     "type": "item",
     "id": "HUB_CRYPTS_PORTAL",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Hub_Crypts"
     }
   },
   {
@@ -26340,7 +26402,10 @@
         "name": "Honeycomb",
         "id": "HONEYCOMB"
       }
-    ]
+    ],
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Jumbo_Pot_of_Honeycomb"
+    }
   },
   {
     "type": "item",
@@ -26887,7 +26952,7 @@
     "type": "item",
     "id": "KUUDRA_SKULL_PORTAL",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Forgotten_Skull"
     }
   },
   {
@@ -31365,7 +31430,7 @@
     "type": "item",
     "id": "MOUND_OF_SEAGRASS",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mound_Of_Seagrass"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mound_of_Seagrass"
     }
   },
   {
@@ -31391,6 +31456,13 @@
   },
   {
     "type": "item",
+    "id": "MURKWATER_LOCH_PORTAL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Murkwater_Loch"
+    }
+  },
+  {
+    "type": "item",
     "id": "MURKWATER_TRAVEL_SCROLL",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_Murkwater_Loch"
@@ -31400,7 +31472,7 @@
     "type": "item",
     "id": "MUSEUM_PORTAL",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Museum"
     }
   },
   {
@@ -31977,7 +32049,7 @@
     "type": "item",
     "id": "MYTH_THE_FISH",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Myth_The_Fish"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Myth_the_Fish"
     }
   },
   {
@@ -32427,7 +32499,7 @@
     "type": "item",
     "id": "NOPE_THE_FISH",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Nope_The_Fish"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Nope_the_Fish"
     }
   },
   {
@@ -37926,6 +37998,13 @@
   },
   {
     "type": "item",
+    "id": "POLTERGEIST_PITCHFORK",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Poltergeist_Pitchfork"
+    }
+  },
+  {
+    "type": "item",
     "id": "POND_ISLAND",
     "requirements": [
       {
@@ -38013,7 +38092,7 @@
     "type": "item",
     "id": "POTATO_BASKET",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Basket_of_Hope_from_the_Great_Potato_War"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Basket_of_Hope_From_the_Great_Potato_War"
     }
   },
   {
@@ -38179,7 +38258,10 @@
         "rawString": "HotM 2",
         "type": "hotm"
       }
-    ]
+    ],
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Powder_of_One"
+    }
   },
   {
     "type": "item",
@@ -38190,7 +38272,10 @@
         "rawString": "HotM 5",
         "type": "hotm"
       }
-    ]
+    ],
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Powder_of_the_Few"
+    }
   },
   {
     "type": "item",
@@ -38201,7 +38286,17 @@
         "rawString": "HotM 8",
         "type": "hotm"
       }
-    ]
+    ],
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Powder_of_the_Many"
+    }
+  },
+  {
+    "type": "item",
+    "id": "POWDER_OF_THE_PEOPLE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Powder_of_the_People"
+    }
   },
   {
     "type": "item",
@@ -41294,6 +41389,20 @@
   },
   {
     "type": "item",
+    "id": "RIFT_WIZARD_TOWER_PORTAL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_The_Rift"
+    }
+  },
+  {
+    "type": "item",
+    "id": "RIFT_WIZARD_TOWER_TRAVEL_SCROLL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_The_Rift"
+    }
+  },
+  {
+    "type": "item",
     "id": "RING_OF_BROKEN_LOVE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Ring_of_Broken_Love"
@@ -41310,7 +41419,7 @@
     "type": "item",
     "id": "RING_OF_ETERNAL_LOVE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ring_Of_Eternal_Love"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ring_of_Eternal_Love"
     }
   },
   {
@@ -41396,7 +41505,7 @@
     "type": "item",
     "id": "ROD_OF_THE_SEA",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rod_Of_The_Sea"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rod_of_the_Sea"
     }
   },
   {
@@ -44558,6 +44667,13 @@
     "id": "SMOLDERING_EMBERS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Smoldering_Embers"
+    }
+  },
+  {
+    "type": "item",
+    "id": "SMOLDERING_TOMB_PORTAL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Smoldering_Tomb"
     }
   },
   {
@@ -48941,14 +49057,14 @@
     "type": "item",
     "id": "THE_ART_OF_PEACE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/The_Art_Of_Peace"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/The_Art_of_Peace"
     }
   },
   {
     "type": "item",
     "id": "THE_ART_OF_WAR",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/The_Art_Of_War"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/The_Art_of_War"
     }
   },
   {
@@ -49548,7 +49664,7 @@
     "type": "item",
     "id": "TOIL_LOG",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Toil_Log"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rotting_Branch"
     }
   },
   {
@@ -49576,7 +49692,7 @@
     "type": "item",
     "id": "TOP_OF_SPIDERS_DEN_PORTAL",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Top_of_the_Nest"
     }
   },
   {
@@ -49614,6 +49730,13 @@
   },
   {
     "type": "item",
+    "id": "TORRHUS_CANYON_PORTAL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Torrhus_Canyon"
+    }
+  },
+  {
+    "type": "item",
     "id": "TORRHUS_CANYON_TRAVEL_SCROLL",
     "requirements": [
       {
@@ -49623,7 +49746,10 @@
         "name": "Helix Log",
         "id": "HELIX_LOG"
       }
-    ]
+    ],
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_Torrhus_Canyon"
+    }
   },
   {
     "type": "item",
@@ -49634,9 +49760,23 @@
   },
   {
     "type": "item",
+    "id": "TORRHUS_SAFARI_ENTRANCE_PORTAL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Critter_Safari_Entrance"
+    }
+  },
+  {
+    "type": "item",
     "id": "TORRHUS_SAFARI_ENTRANCE_TRAVEL_SCROLL",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_Critter_Safari_Entrance"
+    }
+  },
+  {
+    "type": "item",
+    "id": "TORRHUS_SPRINGS_PORTAL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Torrhus_Springs"
     }
   },
   {
@@ -49650,7 +49790,10 @@
         "name": "Ruby Veilshroom",
         "id": "RUBY_VEILSHROOM"
       }
-    ]
+    ],
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_Torrhus_Springs"
+    }
   },
   {
     "type": "item",
@@ -49756,7 +49899,7 @@
     "type": "item",
     "id": "TRAPPER_DEN_PORTAL",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Trapper%27s_Den"
     }
   },
   {
@@ -50774,7 +50917,7 @@
     "type": "item",
     "id": "VERY_OFFICIAL_YELLOW_ROCK",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Very_Official_Yellow_Rock_of_Love!"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Very_Official_Yellow_Rock_of_Love%21"
     }
   },
   {
@@ -50782,6 +50925,13 @@
     "id": "VERY_SCIENTIFIC_PAPER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Very_Scientific_Paper"
+    }
+  },
+  {
+    "type": "item",
+    "id": "VIAL_OF_SPRING_WATER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vial_of_Spring_Water"
     }
   },
   {
@@ -50899,6 +51049,13 @@
     "id": "VINYL_RODENT_REVOLUTION",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Rodent_Revolution_Vinyl"
+    }
+  },
+  {
+    "type": "item",
+    "id": "VINYL_SACK",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vinyl_Sack"
     }
   },
   {
@@ -51039,7 +51196,7 @@
     "type": "item",
     "id": "VOID_SEPULTURE_PORTAL",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Void_Sepulture"
     }
   },
   {
@@ -51490,7 +51647,7 @@
       }
     ],
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Weather_Stick"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Weather_Wand"
     }
   },
   {
@@ -52302,6 +52459,13 @@
     "id": "WIZARD_PORTAL_MEMENTO",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Piece_of_Wizard_Portal"
+    }
+  },
+  {
+    "type": "item",
+    "id": "WIZARD_TOWER_PORTAL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_The_Wizard_Tower"
     }
   },
   {
@@ -59634,7 +59798,7 @@
     "type": "mob",
     "id": "MADDOX_THE_SLAYER_NPC",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Maddox_The_Slayer"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Maddox_the_Slayer"
     },
     "abiphone_callnames": [
       "maddox",
@@ -59645,7 +59809,7 @@
     "type": "mob",
     "id": "MADDOX_THE_SLAYER_RIFT_NPC",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Maddox_The_Slayer"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Maddox_the_Slayer"
     }
   },
   {
@@ -61461,6 +61625,13 @@
     "id": "SOUL_OF_THE_ALPHA_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Soul_of_the_Alpha"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "SPACEMAN_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Spaceman"
     }
   },
   {
@@ -70226,6 +70397,13 @@
     "id": "ATTRIBUTE_SHARD_COMBAT_TRAP;1",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Dustybit_Shard"
+    }
+  },
+  {
+    "type": "attribute",
+    "id": "ATTRIBUTE_SHARD_COMBO;1",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Soul_of_the_Alpha_Shard"
     }
   },
   {

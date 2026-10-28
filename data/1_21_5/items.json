@@ -92171,7 +92171,7 @@
     }
   },
   {
-    "id": "minecraft:chiseled_quartz_block",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "ENCHANTED_BONE_BLOCK"
@@ -92191,17 +92191,20 @@
           "text": "§9§lRARE"
         }
       ],
+      "minecraft:item_model": "minecraft:bone_block",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
