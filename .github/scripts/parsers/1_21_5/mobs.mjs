@@ -147,9 +147,16 @@ export const Mobs = {
         };
 
         let overlayProps = getOverlay(item);
-        const contact = abiphoneContacts[realName];
 
-        if (contact && contact.island === item.island) {
+        const [_, contact] = Object.entries(abiphoneContacts).find(([name, contact]) => {
+             if (contact.id === realId) {
+                 return true
+             }
+
+             return realName === name && contact.island === item.island
+        })
+
+        if (contact) {
             overlayProps = overlayProps || {};
             if (contact.callNames && contact.callNames.length > 0) {
                 overlayProps.abiphone_callnames = contact.callNames;
