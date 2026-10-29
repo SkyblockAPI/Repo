@@ -58139,14 +58139,20 @@
     "id": "FEAST_BAKER_SCOTT_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Feast_Baker_Scott"
-    }
+    },
+    "abiphone_callnames": [
+      "feast baker scott"
+    ]
   },
   {
     "type": "mob",
     "id": "FEAST_CHEF_TED_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Feast_Chef_Ted"
-    }
+    },
+    "abiphone_callnames": [
+      "feast chef ted"
+    ]
   },
   {
     "type": "mob",
@@ -60149,7 +60155,10 @@
     "id": "MOBY_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Moby"
-    }
+    },
+    "abiphone_callnames": [
+      "moby"
+    ]
   },
   {
     "type": "mob",
@@ -60523,7 +60532,10 @@
     "id": "PESTHUNTER_PHILLIP_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Pesthunter_Phillip"
-    }
+    },
+    "abiphone_callnames": [
+      "pesthunter phillip"
+    ]
   },
   {
     "type": "mob",
