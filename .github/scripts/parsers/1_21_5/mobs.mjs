@@ -2,7 +2,7 @@ import fs from "fs";
 import {buildItemStack, getItemId} from "./items.mjs";
 import { getInputs } from "./recipes/ingredients.mjs";
 import { getOverlay } from "./id_overlays.mjs";
-import {warnDuplicateId} from "../../utils/logger.mjs";
+import {warnDuplicateId, warnNpcMatchedByName} from "../../utils/logger.mjs";
 
 const mobsFile = {};
 const mobOverlaysFile = [];
@@ -147,19 +147,26 @@ export const Mobs = {
         };
 
         let overlayProps = getOverlay(item);
+        const entries = Object.entries(abiphoneContacts)
 
-        const [_, contact] = Object.entries(abiphoneContacts).find(([name, contact]) => {
-             if (contact.id === realId) {
-                 return true
-             }
+        let abiphoneContact
+        for (const [name, contact] of entries) {
+            if (contact.id === realId) {
+                abiphoneContact = contact
+                break
+            }
 
-             return realName === name && contact.island === item.island
-        })
+            if (realName === name && contact.island === item.island) {
+                warnNpcMatchedByName(realId, contact.id)
+                abiphoneContact = contact
+                break
+            }
+        }
 
-        if (contact) {
+        if (abiphoneContact) {
             overlayProps = overlayProps || {};
-            if (contact.callNames && contact.callNames.length > 0) {
-                overlayProps.abiphone_callnames = contact.callNames;
+            if (abiphoneContact.callNames && abiphoneContact.callNames.length > 0) {
+                overlayProps.abiphone_callnames = abiphoneContact.callNames;
             } else {
                 overlayProps.abiphone_callnames = [realName.toLowerCase()];
             }
