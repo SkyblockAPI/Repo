@@ -37125,6 +37125,13 @@
   },
   {
     "type": "item",
+    "id": "PET_SKIN_SKELETON_FALLEN_KING",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fallen_King_Skeleton_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "PET_SKIN_SKELETON_PEARL",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Pearl_Skeleton_Skin"

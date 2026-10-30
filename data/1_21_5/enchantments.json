@@ -50209,9 +50209,9 @@
           "§8Combinable in Anvil",
           "",
           "§9Smite I",
-          "§7Increases damage dealt to §8☠ Wither§7,",
-          "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by",
-          "§a5%§7.",
+          "§7Increases damage dealt to §f",
+          "§fSkeletal§7, §8 Wither §7and §2 Undead",
+          "§7mobs by §a5%§7.",
           "",
           "§6Sources:",
           " §7- Enchantment Table (§aI-V§7)",
@@ -50250,13 +50250,13 @@
                 "text": "§9Smite I"
               },
               {
-                "text": "§7Increases damage dealt to §8☠ Wither§7,"
+                "text": "§7Increases damage dealt to §f"
               },
               {
-                "text": "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by"
+                "text": "§fSkeletal§7, §8 Wither §7and §2 Undead"
               },
               {
-                "text": "§a5%§7."
+                "text": "§7mobs by §a5%§7."
               },
               {
                 "text": ""
@@ -50315,9 +50315,9 @@
           "§8Combinable in Anvil",
           "",
           "§9Smite II",
-          "§7Increases damage dealt to §8☠ Wither§7,",
-          "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by",
-          "§a10%§7.",
+          "§7Increases damage dealt to §f",
+          "§fSkeletal§7, §8 Wither §7and §2 Undead",
+          "§7mobs by §a10%§7.",
           "",
           "§6Sources:",
           " §7- Enchantment Table (§aI-V§7)",
@@ -50356,13 +50356,13 @@
                 "text": "§9Smite II"
               },
               {
-                "text": "§7Increases damage dealt to §8☠ Wither§7,"
+                "text": "§7Increases damage dealt to §f"
               },
               {
-                "text": "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by"
+                "text": "§fSkeletal§7, §8 Wither §7and §2 Undead"
               },
               {
-                "text": "§a10%§7."
+                "text": "§7mobs by §a10%§7."
               },
               {
                 "text": ""
@@ -50421,9 +50421,9 @@
           "§8Combinable in Anvil",
           "",
           "§9Smite III",
-          "§7Increases damage dealt to §8☠ Wither§7,",
-          "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by",
-          "§a15%§7.",
+          "§7Increases damage dealt to §f",
+          "§fSkeletal§7, §8 Wither §7and §2 Undead",
+          "§7mobs by §a15%§7.",
           "",
           "§6Sources:",
           " §7- Enchantment Table (§aI-V§7)",
@@ -50462,13 +50462,13 @@
                 "text": "§9Smite III"
               },
               {
-                "text": "§7Increases damage dealt to §8☠ Wither§7,"
+                "text": "§7Increases damage dealt to §f"
               },
               {
-                "text": "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by"
+                "text": "§fSkeletal§7, §8 Wither §7and §2 Undead"
               },
               {
-                "text": "§a15%§7."
+                "text": "§7mobs by §a15%§7."
               },
               {
                 "text": ""
@@ -50527,9 +50527,9 @@
           "§8Combinable in Anvil",
           "",
           "§9Smite IV",
-          "§7Increases damage dealt to §8☠ Wither§7,",
-          "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by",
-          "§a20%§7.",
+          "§7Increases damage dealt to §f",
+          "§fSkeletal§7, §8 Wither §7and §2 Undead",
+          "§7mobs by §a20%§7.",
           "",
           "§6Sources:",
           " §7- Enchantment Table (§aI-V§7)",
@@ -50568,13 +50568,13 @@
                 "text": "§9Smite IV"
               },
               {
-                "text": "§7Increases damage dealt to §8☠ Wither§7,"
+                "text": "§7Increases damage dealt to §f"
               },
               {
-                "text": "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by"
+                "text": "§fSkeletal§7, §8 Wither §7and §2 Undead"
               },
               {
-                "text": "§a20%§7."
+                "text": "§7mobs by §a20%§7."
               },
               {
                 "text": ""
@@ -50633,9 +50633,9 @@
           "§8Combinable in Anvil",
           "",
           "§9Smite V",
-          "§7Increases damage dealt to §8☠ Wither§7,",
-          "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by",
-          "§a30%§7.",
+          "§7Increases damage dealt to §f",
+          "§fSkeletal§7, §8 Wither §7and §2 Undead",
+          "§7mobs by §a30%§7.",
           "",
           "§6Sources:",
           " §7- Enchantment Table (§aI-V§7)",
@@ -50674,13 +50674,13 @@
                 "text": "§9Smite V"
               },
               {
-                "text": "§7Increases damage dealt to §8☠ Wither§7,"
+                "text": "§7Increases damage dealt to §f"
               },
               {
-                "text": "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by"
+                "text": "§fSkeletal§7, §8 Wither §7and §2 Undead"
               },
               {
-                "text": "§a30%§7."
+                "text": "§7mobs by §a30%§7."
               },
               {
                 "text": ""
@@ -50739,9 +50739,9 @@
           "§8Combinable in Anvil",
           "",
           "§9Smite VI",
-          "§7Increases damage dealt to §8☠ Wither§7,",
-          "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by",
-          "§a40%§7.",
+          "§7Increases damage dealt to §f",
+          "§fSkeletal§7, §8 Wither §7and §2 Undead",
+          "§7mobs by §a40%§7.",
           "",
           "§6Sources:",
           " §7- Enchantment Table (§aI-V§7)",
@@ -50780,13 +50780,13 @@
                 "text": "§9Smite VI"
               },
               {
-                "text": "§7Increases damage dealt to §8☠ Wither§7,"
+                "text": "§7Increases damage dealt to §f"
               },
               {
-                "text": "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by"
+                "text": "§fSkeletal§7, §8 Wither §7and §2 Undead"
               },
               {
-                "text": "§a40%§7."
+                "text": "§7mobs by §a40%§7."
               },
               {
                 "text": ""
@@ -50855,9 +50855,9 @@
           "§8Combinable in Anvil",
           "",
           "§9Smite VII",
-          "§7Increases damage dealt to §8☠ Wither§7,",
-          "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by",
-          "§a50%§7.",
+          "§7Increases damage dealt to §f",
+          "§fSkeletal§7, §8 Wither §7and §2 Undead",
+          "§7mobs by §a50%§7.",
           "",
           "§6Sources:",
           " §7- Enchantment Table (§aI-V§7)",
@@ -50896,13 +50896,13 @@
                 "text": "§9Smite VII"
               },
               {
-                "text": "§7Increases damage dealt to §8☠ Wither§7,"
+                "text": "§7Increases damage dealt to §f"
               },
               {
-                "text": "§2༕ Undead §7and §f🦴 Skeletal§7 mobs by"
+                "text": "§fSkeletal§7, §8 Wither §7and §2 Undead"
               },
               {
-                "text": "§a50%§7."
+                "text": "§7mobs by §a50%§7."
               },
               {
                 "text": ""
