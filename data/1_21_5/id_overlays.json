@@ -18007,11 +18007,6 @@
   },
   {
     "type": "item",
-    "id": "FIREWORK",
-    "vanilla": true
-  },
-  {
-    "type": "item",
     "id": "FIREWORKS_SHADOW_ASSASSIN",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Fireworks_Shadow_Assassin_Skin"
