@@ -137145,6 +137145,67 @@
     }
   },
   {
+    "id": "minecraft:paper",
+    "components": {
+      "minecraft:custom_data": {
+        "id": "GHOSTFLY_SOUL"
+      },
+      "minecraft:custom_name": {
+        "text": "§cGhostfly's Soul"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§7A soul torn from its host and"
+        },
+        {
+          "text": "§7obliterated by a vacuum fan."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Discoverer: §b[MVP§f+§b] Alex33856"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8Edition #190"
+        },
+        {
+          "text": "§8November 1st, 2026"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§l* §8Soulbound §8§l*"
+        },
+        {
+          "text": "§c§lSPECIAL MEMENTO"
+        }
+      ],
+      "minecraft:item_model": "hypixel_skyblock:item/great_spook/ghost_fly_soul",
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:special"
+    }
+  },
+  {
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {

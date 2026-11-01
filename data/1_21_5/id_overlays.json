@@ -57616,6 +57616,13 @@
   },
   {
     "type": "mob",
+    "id": "DALIR_NPC",
+    "abiphone_callnames": [
+      "dalir"
+    ]
+  },
+  {
+    "type": "mob",
     "id": "DAMIA_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Damia"
@@ -58530,6 +58537,41 @@
     "id": "GHOST_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Ghost"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "GHOST_OF_ARMORSMITH_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ghost_of_Armorsmith"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "GHOST_OF_BAKING_SPECIALIST_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ghost_of_Baking_Specialist"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "GHOST_OF_GAME_AGENT_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ghost_of_Game_Agent"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "GHOST_OF_GOON_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ghost_of_Goon"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "GHOST_OF_WARREN_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ghost_of_Warren"
     }
   },
   {
