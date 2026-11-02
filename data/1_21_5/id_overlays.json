@@ -20368,6 +20368,13 @@
   },
   {
     "type": "item",
+    "id": "GHOSTFLY_SOUL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ghostfly%27s_Soul"
+    }
+  },
+  {
+    "type": "item",
     "id": "GHOST_BOOK",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Ghost_Book"
@@ -57135,6 +57142,13 @@
   },
   {
     "type": "mob",
+    "id": "BRARNAS_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Brarnas"
+    }
+  },
+  {
+    "type": "mob",
     "id": "BRIAN_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Brian"
@@ -57617,6 +57631,9 @@
   {
     "type": "mob",
     "id": "DALIR_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dalir"
+    },
     "abiphone_callnames": [
       "dalir"
     ]
@@ -62092,6 +62109,13 @@
     "id": "THE_LOCH_EMPEROR_SC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/The_Loch_Emperor"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "THONDIN_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Thondin"
     }
   },
   {
