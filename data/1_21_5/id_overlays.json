@@ -56445,6 +56445,13 @@
   },
   {
     "type": "mob",
+    "id": "ALIXER_NPC",
+    "abiphone_callnames": [
+      "alixer"
+    ]
+  },
+  {
+    "type": "mob",
     "id": "ALLIGATOR_SC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Alligator"
