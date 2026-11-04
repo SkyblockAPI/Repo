@@ -153,7 +153,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c55,000"
@@ -679,7 +679,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal§7, §d❃ Elusive"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal§7, §d Elusive"
           },
           {
             "text": "§c❤ Health§8: §c600,000"
@@ -2864,7 +2864,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c15,000"
@@ -3080,7 +3080,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §6⛏ Subterranean§7, ⚙ Construct, §5♃ Arcane"
+            "text": "§7Mob Types: §6 Subterranean§7,  Construct, §5 Arcane"
           },
           {
             "text": "§c❤ Health§8: §c15,000"
@@ -3523,7 +3523,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §a⚂ Cubic§7, §4♨ Infernal§7, §e⛨ Shielded"
+            "text": "§7Mob Types: §a Cubic§7, §4 Infernal§7, §e Shielded"
           },
           {
             "text": "§c❤ Health§8: §c200"
@@ -3787,7 +3787,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §e✰ Humanoid"
+            "text": "§7Mob Types: §9 Aquatic§7, §e Humanoid"
           },
           {
             "text": "§c❤ Health§8: §c17,500"
@@ -4524,7 +4524,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a⚂ Cubic"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Cubic"
           },
           {
             "text": "§c❤ Health§8: §c20,000"
@@ -5696,7 +5696,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal§7, §d❃ Elusive"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal§7, §d Elusive"
           },
           {
             "text": "§c❤ Health§8: §c4,000,000"
@@ -5788,7 +5788,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c25,000"
@@ -5904,7 +5904,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §f🦴 Skeletal§7, §9⚓ Aquatic"
+            "text": "§7Mob Types: §f Skeletal§7, §9 Aquatic"
           },
           {
             "text": "§c❤ Health§8: §c3,000"
@@ -6236,7 +6236,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §e✰ Humanoid§7, §6⛏ Subterranean"
+            "text": "§7Mob Types: §e Humanoid§7, §6 Subterranean"
           },
           {
             "text": "§c❤ Health§8: §c1,000,000"
@@ -7116,7 +7116,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §5♃ Arcane§7, ✈ Airborne, §6⛏ Subterranean"
+            "text": "§7Mob Types: §5 Arcane§7,  Airborne, §6 Subterranean"
           },
           {
             "text": "§c❤ Health§8: §c100"
@@ -7554,7 +7554,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c32,000"
@@ -7677,7 +7677,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c26,000"
@@ -8474,7 +8474,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Type: §2⸙ Woodland§7, §f🦴 Skeletal"
+            "text": "§7Mob Type: §2 Woodland§7, §f Skeletal"
           },
           {
             "text": "§c❤ Health§8: §c400"
@@ -8578,7 +8578,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Type: §2⸙ Woodland§7, §f🦴 Skeletal"
+            "text": "§7Mob Type: §2 Woodland§7, §f Skeletal"
           },
           {
             "text": "§c❤ Health§8: §c400"
@@ -8895,7 +8895,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §2⸙ Woodland§7, §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §2 Woodland§7, §9 Aquatic§7, §a Animal"
           }
         ],
         "minecraft:profile": {
@@ -9374,7 +9374,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §6☽ Spooky§7, §e⛨ Shielded"
+            "text": "§7Mob Types: §6☽ Spooky§7, §e Shielded"
           },
           {
             "text": "§c❤ Health§8: §c17"
@@ -9447,7 +9447,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §2✿ Mythological§7, §a☮ Animal"
+            "text": "§7Mob Types: §2✿ Mythological§7, §a Animal"
           },
           {
             "text": ""
@@ -10758,7 +10758,7 @@
             "text": "§7Shoots terrifying arrows that deal"
           },
           {
-            "text": "§a9sф §7Damage."
+            "text": "§a9s §7Damage."
           },
           {
             "text": ""
@@ -10767,7 +10767,7 @@
             "text": "§7Also has a melee attack that deals"
           },
           {
-            "text": "§a2sф §7Damage."
+            "text": "§a2s §7Damage."
           },
           {
             "text": ""
@@ -10873,7 +10873,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, ⚙ Construct"
+            "text": "§7Mob Types: §9 Aquatic§7,  Construct"
           },
           {
             "text": "§c❤ Health§8: §c150,000"
@@ -11265,7 +11265,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §e✰ Humanoid§7, §e⛨ Shielded§7, §d♣ Elusive"
+            "text": "§7Mob Types: §e Humanoid§7, §e Shielded§7, §d♣ Elusive"
           },
           {
             "text": "§c❤ Health§8: §c5"
@@ -11740,7 +11740,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Type: §2⸙ Woodland§7, ✈ Airborne"
+            "text": "§7Mob Type: §2 Woodland§7,  Airborne"
           },
           {
             "text": "§c❤ Health§8: §c200"
@@ -11817,7 +11817,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §2༕ Undead"
+            "text": "§7Mob Types: §9 Aquatic§7, §2 Undead"
           },
           {
             "text": "§c❤ Health§8: §c60,000"
@@ -12190,7 +12190,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §e✰ Humanoid"
+            "text": "§7Mob Types: §9 Aquatic§7, §e Humanoid"
           },
           {
             "text": "§c❤ Health§8: §c2,500"
@@ -13060,7 +13060,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Type: §a⚂ Cubic"
+            "text": "§7Mob Type: §a Cubic"
           },
           {
             "text": "§c❤ Health§8: §c80 - 250"
@@ -14050,7 +14050,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §2⸙ Woodland§7, §9⚓ Aquatic"
+            "text": "§7Mob Types: §2 Woodland§7, §9 Aquatic"
           },
           {
             "text": "§c❤ Health§8: §c25,000"
@@ -14862,7 +14862,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §c♆ Magmatic§7, §a☮ Animal§7, §d❃ Elusive"
+            "text": "§7Mob Types: §c Magmatic§7, §a Animal§7, §d Elusive"
           },
           {
             "text": "§c❤ Health§8: §c10,000,000"
@@ -15216,7 +15216,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §c♆ Magmatic§7, §e✰ Humanoid§7, §5♃ Arcane"
+            "text": "§7Mob Types: §c Magmatic§7, §e Humanoid§7, §5 Arcane"
           },
           {
             "text": "§c❤ Health§8: §c65,000"
@@ -15328,7 +15328,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §c♆ Magmatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §c Magmatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c2,000,000"
@@ -15707,7 +15707,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §c♆ Magmatic§7, §4 Arthropod"
+            "text": "§7Mob Types: §c Magmatic§7, §4 Arthropod"
           },
           {
             "text": "§c❤ Health§8: §c100,000"
@@ -16023,7 +16023,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal§7, §d❃ Elusive"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal§7, §d Elusive"
           },
           {
             "text": "§c❤ Health§8: §c500"
@@ -16480,7 +16480,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §c♆ Magmatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §c Magmatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c65,000"
@@ -16658,7 +16658,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal§7, §e✰ Humanoid"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal§7, §e Humanoid"
           },
           {
             "text": "§c❤ Health§8: §c2,500"
@@ -16738,7 +16738,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal§7, §d❃ Elusive"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal§7, §d Elusive"
           },
           {
             "text": ""
@@ -17107,7 +17107,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §f☃ Frozen§7, §e✰ Humanoid"
+            "text": "§7Mob Types: §9 Aquatic§7, §f Frozen§7, §e Humanoid"
           },
           {
             "text": "§c❤ Health§8: §c700"
@@ -17302,7 +17302,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §2✿ Mythological§7, ⚙ Construct"
+            "text": "§7Mob Types: §2✿ Mythological§7,  Construct"
           },
           {
             "text": "§c❤ Health§8:"
@@ -17896,7 +17896,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §5♃ Arcane§7, §6⛏ Subterranean"
+            "text": "§7Mob Types: §5 Arcane§7, §6 Subterranean"
           },
           {
             "text": "§c❤ Health§8: §c1,000,000"
@@ -18360,7 +18360,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §b❄ Glacial§7, §e✰ Humanoid"
+            "text": "§7Mob Types: §b Glacial§7, §e Humanoid"
           },
           {
             "text": "§c❤ Health§8: §c750,000"
@@ -18471,7 +18471,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §b❄ Glacial§7, §e✰ Humanoid"
+            "text": "§7Mob Types: §b Glacial§7, §e Humanoid"
           },
           {
             "text": "§c❤ Health§8: §c800,000"
@@ -18582,7 +18582,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §b❄ Glacial§7, §e✰ Humanoid"
+            "text": "§7Mob Types: §b Glacial§7, §e Humanoid"
           },
           {
             "text": "§c❤ Health§8: §c625,000"
@@ -18693,7 +18693,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §b❄ Glacial§7, §a☮ Animal"
+            "text": "§7Mob Types: §b Glacial§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c750,000"
@@ -18887,7 +18887,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §e✰ Humanoid§7, §6⛏ Subterranean"
+            "text": "§7Mob Types: §e Humanoid§7, §6 Subterranean"
           },
           {
             "text": "§c❤ Health§8: §c200 - 50,000"
@@ -19377,7 +19377,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §e✰ Humanoid§7, §e⛨ Shielded"
+            "text": "§7Mob Types: §e Humanoid§7, §e Shielded"
           },
           {
             "text": "§c❤ Health§8: §c3"
@@ -19727,7 +19727,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal§7, §5♃ Arcane"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal§7, §5 Arcane"
           },
           {
             "text": "§c❤ Health§8: §c40,000"
@@ -19888,7 +19888,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Type: §f🦴 Skeletal"
+            "text": "§7Mob Type: §f Skeletal"
           },
           {
             "text": "§c❤ Health§8: §c100"
@@ -19963,7 +19963,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal§7, §d❃ Elusive"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal§7, §d Elusive"
           },
           {
             "text": "§c❤ Health§8: §c1,500,000"
@@ -20131,7 +20131,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §6☽ Spooky§7, §d❃ Elusive"
+            "text": "§7Mob Types: §9 Aquatic§7, §6☽ Spooky§7, §d Elusive"
           },
           {
             "text": "§c❤ Health§8: §c3,000,000"
@@ -20253,7 +20253,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §f☃ Frozen§7, §e⛨ Shielded"
+            "text": "§7Mob Types: §9 Aquatic§7, §f Frozen§7, §e Shielded"
           },
           {
             "text": "§c❤ Health§8: §c3"
@@ -20665,7 +20665,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Type: §e✰ Humanoid"
+            "text": "§7Mob Type: §e Humanoid"
           },
           {
             "text": "§c❤ Health§8: §c153,000"
@@ -20738,7 +20738,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §5♃ Arcane"
+            "text": "§7Mob Types: §9 Aquatic§7, §5 Arcane"
           },
           {
             "text": "§c❤ Health§8: §c70,000"
@@ -21285,7 +21285,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §2✿ Mythological§7, §e✰ Humanoid§7, §a☮ Animal"
+            "text": "§7Mob Types: §2✿ Mythological§7, §e Humanoid§7, §a Animal"
           },
           {
             "text": ""
@@ -21575,7 +21575,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §6☽ Spooky§7, §f🦴 Skeletal§7, §a☮ Animal"
+            "text": "§7Mob Types: §6☽ Spooky§7, §f Skeletal§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c3,000,000"
@@ -22806,7 +22806,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §a☮ Animal§7, §5♃ Arcane"
+            "text": "§7Mob Types: §a Animal§7, §5 Arcane"
           },
           {
             "text": "§c❤ Health§8: §c7,000"
@@ -23437,7 +23437,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §2⸙ Woodland§7, §9⚓ Aquatic§7, §2༕ Undead"
+            "text": "§7Mob Types: §2 Woodland§7, §9 Aquatic§7, §2 Undead"
           },
           {
             "text": "§c❤ Health§8: §c5,000"
@@ -23603,7 +23603,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §b❄ Glacial§7, §e✰ Humanoid"
+            "text": "§7Mob Types: §b Glacial§7, §e Humanoid"
           },
           {
             "text": "§c❤ Health§8: §c888"
@@ -24627,7 +24627,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c6,500"
@@ -25490,7 +25490,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §2⸙ Woodland§7, §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §2 Woodland§7, §9 Aquatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c200"
@@ -25945,7 +25945,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §2༕ Undead§7, §6⛏ Subterranean"
+            "text": "§7Mob Types: §2 Undead§7, §6 Subterranean"
           },
           {
             "text": "§c❤ Health§8: §c250,000"
@@ -26210,7 +26210,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §2✿ Mythological§7, §e✰ Humanoid§7, §d❃ Elusive"
+            "text": "§7Mob Types: §2✿ Mythological§7, §e Humanoid§7, §d Elusive"
           },
           {
             "text": "§c❤ Health§8:"
@@ -26687,7 +26687,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Type: §2༕ Undead"
+            "text": "§7Mob Type: §2 Undead"
           },
           {
             "text": "§c❤ Health§8: §c200"
@@ -26880,7 +26880,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §c♆ Magmatic§7, §4♨ Infernal"
+            "text": "§7Mob Types: §c Magmatic§7, §4 Infernal"
           },
           {
             "text": "§c❤ Health§8: §c400,000"
@@ -26978,7 +26978,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §c♆ Magmatic§7, §4♨ Infernal"
+            "text": "§7Mob Types: §c Magmatic§7, §4 Infernal"
           },
           {
             "text": "§c❤ Health§8: §c1,500,000"
@@ -27078,7 +27078,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §c♆ Magmatic§7, §4 Arthropod"
+            "text": "§7Mob Types: §c Magmatic§7, §4 Arthropod"
           },
           {
             "text": "§c❤ Health§8: §c1,000,000"
@@ -27170,7 +27170,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §c♆ Magmatic§7, §2༕ Undead"
+            "text": "§7Mob Types: §c Magmatic§7, §2 Undead"
           },
           {
             "text": "§c❤ Health§8: §c450,000"
@@ -27521,7 +27521,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §b❄ Glacial§7, §e✰ Humanoid§7, §d❃ Elusive"
+            "text": "§7Mob Types: §b Glacial§7, §e Humanoid§7, §d Elusive"
           },
           {
             "text": "§c❤ Health§8: §c25,000,000"
@@ -28132,7 +28132,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §c♆ Magmatic§7, ⚙ Construct, §d❃ Elusive"
+            "text": "§7Mob Types: §c Magmatic§7,  Construct, §d Elusive"
           },
           {
             "text": "§c❤ Health§8: §c100,000,000"
@@ -28240,7 +28240,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c4"
@@ -28323,7 +28323,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c250"
@@ -28439,7 +28439,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, ⚙ Construct"
+            "text": "§7Mob Types: §9 Aquatic§7,  Construct"
           },
           {
             "text": "§c❤ Health§8: §c25,000"
@@ -29802,7 +29802,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §c♆ Magmatic§7, §a⚂ Cubic"
+            "text": "§7Mob Types: §c Magmatic§7, §a Cubic"
           },
           {
             "text": ""
@@ -29882,7 +29882,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §c♆ Magmatic§7, §a⚂ Cubic"
+            "text": "§7Mob Types: §c Magmatic§7, §a Cubic"
           },
           {
             "text": "§c❤ Health§8: §c500,000"
@@ -30071,7 +30071,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal"
           },
           {
             "text": ""
@@ -30155,7 +30155,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §2✿ Mythological§7, §a☮ Animal§7, §d❃ Elusive"
+            "text": "§7Mob Types: §2✿ Mythological§7, §a Animal§7, §d Elusive"
           },
           {
             "text": "§c❤ Health§8:"
@@ -30385,7 +30385,7 @@
             "text": "§7For every §31 Sea Creature"
           },
           {
-            "text": "§3Chance§7, gain §9+0.1⚓ Double Hook"
+            "text": "§3Chance§7, gain §9+0.1 Double Hook"
           },
           {
             "text": "§9Chance§7."
@@ -30889,7 +30889,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §e✰ Humanoid§7, §e⛨ Shielded"
+            "text": "§7Mob Types: §e Humanoid§7, §e Shielded"
           },
           {
             "text": "§c❤ Health§8: §c4"
@@ -30964,7 +30964,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §e✰ Humanoid§7, §e⛨ Shielded"
+            "text": "§7Mob Types: §e Humanoid§7, §e Shielded"
           },
           {
             "text": "§c❤ Health§8: §c6"
@@ -31039,7 +31039,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §e✰ Humanoid§7, §e⛨ Shielded"
+            "text": "§7Mob Types: §e Humanoid§7, §e Shielded"
           },
           {
             "text": "§c❤ Health§8: §c3"
@@ -31114,7 +31114,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §e✰ Humanoid§7, §e⛨ Shielded"
+            "text": "§7Mob Types: §e Humanoid§7, §e Shielded"
           },
           {
             "text": "§c❤ Health§8: §c5"
@@ -31517,7 +31517,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Type: §f🦴 Skeletal"
+            "text": "§7Mob Type: §f Skeletal"
           },
           {
             "text": "§c❤ Health§8: §c250 - 300"
@@ -31677,7 +31677,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Type: §2༕ Undead"
+            "text": "§7Mob Type: §2 Undead"
           },
           {
             "text": "§c❤ Health§8: §c250 - 300"
@@ -31935,7 +31935,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §2✿ Mythological§7, §e✰ Humanoid"
+            "text": "§7Mob Types: §2✿ Mythological§7, §e Humanoid"
           },
           {
             "text": "§c❤ Health§8:"
@@ -32081,7 +32081,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §2✿ Mythological§7, §2༕ Undead"
+            "text": "§7Mob Types: §2✿ Mythological§7, §2 Undead"
           },
           {
             "text": "§c❤ Health§8:"
@@ -32374,7 +32374,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §2✿ Mythological§7, §e✰ Humanoid§7, §d♣ Elusive"
+            "text": "§7Mob Types: §2✿ Mythological§7, §e Humanoid§7, §d♣ Elusive"
           },
           {
             "text": "§c❤ Health§8:"
@@ -32507,7 +32507,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §2✿ Mythological§7, §e✰ Humanoid"
+            "text": "§7Mob Types: §2✿ Mythological§7, §e Humanoid"
           },
           {
             "text": "§c❤ Health§8:"
@@ -32716,7 +32716,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §4 Arthropod"
+            "text": "§7Mob Types: §9 Aquatic§7, §4 Arthropod"
           },
           {
             "text": "§c❤ Health§8: §c6,000 - 15,000"
@@ -33138,7 +33138,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §c♆ Magmatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §c Magmatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c750,000"
@@ -34416,7 +34416,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §d❃ Elusive§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §d Elusive§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c2,000,000"
@@ -34652,7 +34652,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §6☽ Spooky§7, §2༕ Undead"
+            "text": "§7Mob Types: §9 Aquatic§7, §6☽ Spooky§7, §2 Undead"
           },
           {
             "text": "§c❤ Health§8: §c35,000"
@@ -34771,7 +34771,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c4,000"
@@ -34943,7 +34943,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c2,500"
@@ -35023,7 +35023,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §f☃ Frozen§7, §e✰ Humanoid"
+            "text": "§7Mob Types: §9 Aquatic§7, §f Frozen§7, §e Humanoid"
           },
           {
             "text": "§c❤ Health§8: §c4,000,000"
@@ -35114,7 +35114,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c10,000"
@@ -35205,7 +35205,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c10,000"
@@ -36221,7 +36221,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §a☮ Animal§7, §5♃ Arcane"
+            "text": "§7Mob Types: §a Animal§7, §5 Arcane"
           },
           {
             "text": "§c❤ Health§8: §c5,000"
@@ -38973,7 +38973,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Type: §2⸙ Woodland§7, ✈ Airborne"
+            "text": "§7Mob Type: §2 Woodland§7,  Airborne"
           },
           {
             "text": "§c❤ Health§8: §c200"
@@ -39052,7 +39052,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Type: §2⸙ Woodland§7, ✈ Airborne"
+            "text": "§7Mob Type: §2 Woodland§7,  Airborne"
           },
           {
             "text": "§c❤ Health§8: §c200"
@@ -39122,7 +39122,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §6☽ Spooky§7, §d❃ Elusive"
+            "text": "§7Mob Types: §9 Aquatic§7, §6☽ Spooky§7, §d Elusive"
           },
           {
             "text": "§c❤ Health§8: §c1,000,000"
@@ -39232,7 +39232,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §6☽ Spooky§7, §e⛨ Shielded"
+            "text": "§7Mob Types: §6☽ Spooky§7, §e Shielded"
           },
           {
             "text": "§c❤ Health§8: §c10"
@@ -39489,7 +39489,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §c♆ Magmatic§7, §d❃ Elusive§7, §a☮ Animal"
+            "text": "§7Mob Types: §c Magmatic§7, §d Elusive§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c500,000,000"
@@ -39670,7 +39670,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §6⛏ Subterranean§7, §4 Arthropod"
+            "text": "§7Mob Types: §9 Aquatic§7, §6 Subterranean§7, §4 Arthropod"
           },
           {
             "text": "§c❤ Health§8: §c75,000"
@@ -39897,7 +39897,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c2,000"
@@ -40109,7 +40109,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §a⚂ Cubic§7, ✈ Airborne, §e⛨ Shielded"
+            "text": "§7Mob Types: §a Cubic§7,  Airborne, §e Shielded"
           },
           {
             "text": "§c❤ Health§8: §c50(hits)"
@@ -40908,7 +40908,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal§7, §d❃ Elusive"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal§7, §d Elusive"
           },
           {
             "text": "§c❤ Health§8: §c5"
@@ -41089,7 +41089,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §c♆ Magmatic§7, §a⚂ Cubic"
+            "text": "§7Mob Types: §c Magmatic§7, §a Cubic"
           },
           {
             "text": "§c❤ Health§8: §c1.200,000"
@@ -41345,7 +41345,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §c♆ Magmatic§7, §f🦴 Skeletal§7, §d❃ Elusive"
+            "text": "§7Mob Types: §c Magmatic§7, §f Skeletal§7, §d Elusive"
           },
           {
             "text": "§c❤ Health§8: §c125,000,000"
@@ -41606,7 +41606,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Type: §2༕ Undead"
+            "text": "§7Mob Type: §2 Undead"
           },
           {
             "text": "§c❤ Health§8: §c250"
@@ -43118,7 +43118,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §2༕ Undead§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §2 Undead§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c20,000"
@@ -44819,7 +44819,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §2⸙ Woodland§7, §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §2 Woodland§7, §9 Aquatic§7, §a Animal"
           }
         ],
         "minecraft:profile": {
@@ -45030,7 +45030,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §6☽ Spooky"
+            "text": "§7Mob Types: §9 Aquatic§7, §6☽ Spooky"
           },
           {
             "text": "§c❤ Health§8: §c4,500"
@@ -45359,7 +45359,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §6☽ Spooky§7, §e⛨ Shielded"
+            "text": "§7Mob Types: §6☽ Spooky§7, §e Shielded"
           },
           {
             "text": "§c❤ Health§8: §c12"
@@ -45438,7 +45438,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §6⛏ Subterranean§7, §e⛨ Shielded§7, §d❃ Elusive"
+            "text": "§7Mob Types: §6 Subterranean§7, §e Shielded§7, §d Elusive"
           },
           {
             "text": "§c❤ Health§8: §c10"
@@ -45811,7 +45811,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §2⸙ Woodland§7, §9⚓ Aquatic§7, §2༕ Undead"
+            "text": "§7Mob Types: §2 Woodland§7, §9 Aquatic§7, §2 Undead"
           },
           {
             "text": "§c❤ Health§8: §c5,000"
@@ -45897,7 +45897,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal§7, §d❃ Elusive"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal§7, §d Elusive"
           },
           {
             "text": "§c❤ Health§8: §c1,000"
@@ -45984,7 +45984,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §f🦴 Skeletal"
+            "text": "§7Mob Types: §9 Aquatic§7, §f Skeletal"
           },
           {
             "text": "§c❤ Health§8: §c7,000"
@@ -46081,7 +46081,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §f🦴 Skeletal§7, §5♃ Arcan"
+            "text": "§7Mob Types: §9 Aquatic§7, §f Skeletal§7, §5 Arcan"
           },
           {
             "text": "§c❤ Health§8: §c800,000"
@@ -46229,7 +46229,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §5♃ Arcane"
+            "text": "§7Mob Types: §9 Aquatic§7, §5 Arcane"
           },
           {
             "text": "§c❤ Health§8: §c5,000"
@@ -46316,7 +46316,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c60,000"
@@ -46416,7 +46416,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §2༕ Undead"
+            "text": "§7Mob Types: §9 Aquatic§7, §2 Undead"
           },
           {
             "text": "§c❤ Health§8: §c100"
@@ -46502,7 +46502,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §e✰ Humanoid§7, §5♃ Arcane"
+            "text": "§7Mob Types: §9 Aquatic§7, §e Humanoid§7, §5 Arcane"
           },
           {
             "text": "§c❤ Health§8: §c6,000"
@@ -47229,7 +47229,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §2⸙ Woodland§7, §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §2 Woodland§7, §9 Aquatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c1,000 - 1,500"
@@ -47657,7 +47657,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §2✿ Mythological§7, §a☮ Animal"
+            "text": "§7Mob Types: §2✿ Mythological§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8:"
@@ -48868,7 +48868,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §2༕ Undead§7, §6⛏ Subterranean"
+            "text": "§7Mob Types: §2 Undead§7, §6 Subterranean"
           },
           {
             "text": "§c❤ Health§8: §c5,000"
@@ -49055,7 +49055,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c35,000"
@@ -49170,7 +49170,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Type: §a⚂ Cubic"
+            "text": "§7Mob Type: §a Cubic"
           },
           {
             "text": "§c❤ Health§8: §c120"
@@ -49573,7 +49573,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §a☮ Animal§7, §5♃ Arcane"
+            "text": "§7Mob Types: §a Animal§7, §5 Arcane"
           },
           {
             "text": "§c❤ Health§8: §c31.150"
@@ -49717,7 +49717,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §2✿ Mythological§7, §e✰ Humanoid§7, §d❃ Elusive"
+            "text": "§7Mob Types: §2✿ Mythological§7, §e Humanoid§7, §d Elusive"
           },
           {
             "text": "§c❤ Health§8:"
@@ -50109,7 +50109,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §2⸙ Woodland§7, §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §2 Woodland§7, §9 Aquatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c5,000"
@@ -50505,7 +50505,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c50"
@@ -50665,7 +50665,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §5♃ Arcane§7, ⚙ Construct, §e⛨ Shielded"
+            "text": "§7Mob Types: §5 Arcane§7,  Construct, §e Shielded"
           },
           {
             "text": "§c❤ Health§8: §c10"
@@ -50779,7 +50779,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §2✿ Mythological§7, §9⚓ Aquatic§7, §e✰ Humanoid"
+            "text": "§7Mob Types: §2✿ Mythological§7, §9 Aquatic§7, §e Humanoid"
           },
           {
             "text": ""
@@ -51024,7 +51024,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §c♆ Magmatic§7, §2༕ Undead§7, §2⸙ Woodland"
+            "text": "§7Mob Types: §c Magmatic§7, §2 Undead§7, §2 Woodland"
           },
           {
             "text": "§c❤ Health§8: §c20,000"
@@ -52525,7 +52525,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c5,000"
@@ -52691,7 +52691,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c5,000"
@@ -54094,7 +54094,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §c♆ Magmatic§7, §e✰ Humanoid§7, §a☮ Animal"
+            "text": "§7Mob Types: §c Magmatic§7, §e Humanoid§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c3,000,000"
@@ -54461,7 +54461,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §f🦴 Skeletal§7, §d❃ Elusive"
+            "text": "§7Mob Types: §9 Aquatic§7, §f Skeletal§7, §d Elusive"
           },
           {
             "text": "§c❤ Health§8: §c800,000"
@@ -54877,7 +54877,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §c♆ Magmatic§7, §5♃ Arcane§7, §d❃ Elusive"
+            "text": "§7Mob Types: §c Magmatic§7, §5 Arcane§7, §d Elusive"
           },
           {
             "text": "§c❤ Health§8: §c35,000,000"
@@ -54974,7 +54974,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §4 Arthropod§7, §6⛏ Subterranean"
+            "text": "§7Mob Types: §4 Arthropod§7, §6 Subterranean"
           },
           {
             "text": "§c❤ Health§8: §c5,000"
@@ -55089,7 +55089,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §2⸙ Woodland§7, §9⚓ Aquatic§7, §2༕ Undead"
+            "text": "§7Mob Types: §2 Woodland§7, §9 Aquatic§7, §2 Undead"
           },
           {
             "text": "§c❤ Health§8: §c4,000"
@@ -55166,7 +55166,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c250,000"
@@ -55380,7 +55380,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal§7, §d❃ Elusive"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal§7, §d Elusive"
           },
           {
             "text": "§c❤ Health§8: §c45,000,000"
@@ -55804,7 +55804,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §4 Arthropod"
+            "text": "§7Mob Types: §9 Aquatic§7, §4 Arthropod"
           },
           {
             "text": "§c❤ Health§8: §c2,000"
@@ -55896,7 +55896,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §e✰ Humanoid§7, §6⛏ Subterranean"
+            "text": "§7Mob Types: §e Humanoid§7, §6 Subterranean"
           },
           {
             "text": "§c❤ Health§8: §c15,000"
@@ -56082,7 +56082,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §6☽ Spooky§7, §e⛨ Shielded"
+            "text": "§7Mob Types: §6☽ Spooky§7, §e Shielded"
           },
           {
             "text": "§c❤ Health§8: §c10"
@@ -58128,7 +58128,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §c♆ Magmatic§7, §a☮ Animal"
+            "text": "§7Mob Types: §c Magmatic§7, §a Animal"
           },
           {
             "text": ""
@@ -58527,7 +58527,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Type: §5⊙ Ender"
+            "text": "§7Mob Type: §5 Ender"
           },
           {
             "text": "§c❤ Health§8: §c9,500"
@@ -58555,7 +58555,7 @@
     "type": "Monster",
     "lootTables": [
       {
-        "name": "⊙ Seer",
+        "name": " Seer",
         "mobLevel": 55,
         "xp": 10,
         "combatXp": 40,
@@ -58656,7 +58656,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §a☮ Animal§7, §d❃ Elusive"
+            "text": "§7Mob Types: §9 Aquatic§7, §a Animal§7, §d Elusive"
           },
           {
             "text": "§c❤ Health§8: §c500,000"
@@ -58883,7 +58883,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §6⛏ Subterranean"
+            "text": "§7Mob Types: §9 Aquatic§7, §6 Subterranean"
           },
           {
             "text": "§c❤ Health§8: §c50,000"
@@ -59196,7 +59196,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §6☽ Spooky§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §6☽ Spooky§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c50,000"
@@ -59300,7 +59300,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §2༕ Undead§7, §a☮ Animal"
+            "text": "§7Mob Types: §9 Aquatic§7, §2 Undead§7, §a Animal"
           },
           {
             "text": "§c❤ Health§8: §c8,000"
@@ -59386,7 +59386,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, ⚙ Construct, §d❃ Elusive"
+            "text": "§7Mob Types: §9 Aquatic§7,  Construct, §d Elusive"
           },
           {
             "text": "§c❤ Health§8: §c75,000,000"
@@ -59862,7 +59862,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §6☽ Spooky§7, §e⛨ Shielded"
+            "text": "§7Mob Types: §6☽ Spooky§7, §e Shielded"
           },
           {
             "text": "§c❤ Health§8: §c11"
@@ -60484,7 +60484,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §6⛏ Subterranean§7, §e⛨ Shielded"
+            "text": "§7Mob Types: §6 Subterranean§7, §e Shielded"
           },
           {
             "text": "§c❤ Health§8: §c5"
@@ -60587,7 +60587,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §6☽ Spooky§7, §e⛨ Shielded"
+            "text": "§7Mob Types: §6☽ Spooky§7, §e Shielded"
           },
           {
             "text": "§c❤ Health§8: §c15"
@@ -60666,7 +60666,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §f☃ Frozen§7, §d❃ Elusive"
+            "text": "§7Mob Types: §9 Aquatic§7, §f Frozen§7, §d Elusive"
           },
           {
             "text": "§c❤ Health§8: §c2,000,000"
@@ -60793,7 +60793,7 @@
             "text": ""
           },
           {
-            "text": "§7Mob Types: §a⚂ Cubic§7, §4♨ Infernal§7, §6⛏ Subterranean"
+            "text": "§7Mob Types: §a Cubic§7, §4 Infernal§7, §6 Subterranean"
           },
           {
             "text": "§c❤ Health§8: §c35,000"
@@ -61866,7 +61866,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7Mob Types: §9⚓ Aquatic§7, §6⛏ Subterranean§7, §d❃ Elusive"
+            "text": "§7Mob Types: §9 Aquatic§7, §6 Subterranean§7, §d Elusive"
           },
           {
             "text": "§c❤ Health§8: §c2,000,000"

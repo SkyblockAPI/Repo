@@ -4774,7 +4774,7 @@
           "text": "§6Ability: Helmets All The Way Down "
         },
         {
-          "text": "§7Regain §a+2ф §7when killing a monster."
+          "text": "§7Regain §a+2 §7when killing a monster."
         },
         {
           "text": ""
@@ -4795,7 +4795,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -33590,7 +33590,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Drops sometimes from §8☠ Wither§7 mobs"
+          "text": "§7Drops sometimes from §8 Wither§7 mobs"
         },
         {
           "text": "§7during the §5Year of the Witch§7!"
@@ -61959,7 +61959,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Drops sometimes from ⚙ Construct"
+          "text": "§7Drops sometimes from  Construct"
         },
         {
           "text": "§7mobs during the §5Year of the Witch§7!"
@@ -67513,7 +67513,7 @@
           "text": ""
         },
         {
-          "text": "§7Defeat crux mobs to gain §a+5ф Rift Time §7and"
+          "text": "§7Defeat crux mobs to gain §a+5 Rift Time §7and"
         },
         {
           "text": "§6+5 Crux Fortune §7per kill milestone."
@@ -73864,7 +73864,7 @@
           "text": "§6Ability: Faces All The Way Down "
         },
         {
-          "text": "§7Regain §a+2ф §7when killing a monster."
+          "text": "§7Regain §a+2 §7when killing a monster."
         },
         {
           "text": ""
@@ -77286,7 +77286,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Drops sometimes from §e✰ Humanoid"
+          "text": "§7Drops sometimes from §e Humanoid"
         },
         {
           "text": "§7mobs during the §5Year of the Witch§7!"
@@ -115598,7 +115598,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Drops sometimes from §2༕ Undead"
+          "text": "§7Drops sometimes from §2 Undead"
         },
         {
           "text": "§7mobs during the §5Year of the Witch§7!"
@@ -128372,7 +128372,7 @@
           "text": ""
         },
         {
-          "text": "§7Applies the §b⸙ Foraging Wisdom"
+          "text": "§7Applies the §b Foraging Wisdom"
         },
         {
           "text": "§7booster when combined with Foraging"
@@ -130687,7 +130687,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Drops sometimes from §a☮ Animal§7 mobs"
+          "text": "§7Drops sometimes from §a Animal§7 mobs"
         },
         {
           "text": "§7during the §5Year of the Witch§7!"
@@ -132854,7 +132854,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Drops sometimes from §f🦴 Skeletal"
+          "text": "§7Drops sometimes from §f Skeletal"
         },
         {
           "text": "§7mobs during the §5Year of the Witch§7!"
@@ -133978,7 +133978,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Drops sometimes from §a⚂ Cubic§7 mobs"
+          "text": "§7Drops sometimes from §a Cubic§7 mobs"
         },
         {
           "text": "§7during the §5Year of the Witch§7!"
@@ -140016,7 +140016,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Drops sometimes from §b❄ Glacial§7 mobs"
+          "text": "§7Drops sometimes from §b Glacial§7 mobs"
         },
         {
           "text": "§7during the §5Year of the Witch§7!"
@@ -179345,7 +179345,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Drops sometimes from §6⛏"
+          "text": "§7Drops sometimes from §6"
         },
         {
           "text": "§6Subterranean§7 mobs during the §5Year"
@@ -202881,7 +202881,7 @@
           "text": "§7Each §dstack §7grants:"
         },
         {
-          "text": " §a+12ф Rift Time"
+          "text": " §a+12 Rift Time"
         },
         {
           "text": " §d+5% Motes §7from §dMotes Grubber"
@@ -221382,7 +221382,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Drops sometimes from §f☃ Frozen"
+          "text": "§7Drops sometimes from §f Frozen"
         },
         {
           "text": "§7mobs during the §5Year of the Witch§7!"
@@ -222449,7 +222449,7 @@
           "text": "§6Ability: Helmets All The Way Up "
         },
         {
-          "text": "§7Regain §a+1ф §7when killing a monster."
+          "text": "§7Regain §a+1 §7when killing a monster."
         },
         {
           "text": ""
@@ -222470,7 +222470,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -272660,7 +272660,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Drops sometimes from §d❃ Elusive"
+          "text": "§7Drops sometimes from §d Elusive"
         },
         {
           "text": "§7mobs during the §5Year of the Witch§7!"
@@ -301302,7 +301302,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Drops sometimes from §2⸙ Woodland"
+          "text": "§7Drops sometimes from §2 Woodland"
         },
         {
           "text": "§7mobs during the §5Year of the Witch§7!"
@@ -302971,7 +302971,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Drops sometimes from ✈ Airborne"
+          "text": "§7Drops sometimes from  Airborne"
         },
         {
           "text": "§7mobs during the §5Year of the Witch§7!"
@@ -314621,7 +314621,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Drops sometimes from §e⛨ Shielded"
+          "text": "§7Drops sometimes from §e Shielded"
         },
         {
           "text": "§7mobs during the §5Year of the Witch§7!"
@@ -325116,7 +325116,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Drops sometimes from §4♨ Infernal"
+          "text": "§7Drops sometimes from §4 Infernal"
         },
         {
           "text": "§7mobs during the §5Year of the Witch§7!"
@@ -333731,7 +333731,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Drops sometimes from §5♃ Arcane"
+          "text": "§7Drops sometimes from §5 Arcane"
         },
         {
           "text": "§7mobs during the §5Year of the Witch§7!"
@@ -376616,7 +376616,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Drops sometimes from §5⊙ Ender§7 mobs"
+          "text": "§7Drops sometimes from §5 Ender§7 mobs"
         },
         {
           "text": "§7during the §5Year of the Witch§7!"
@@ -378529,7 +378529,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Drops sometimes from §c♆ Magmatic"
+          "text": "§7Drops sometimes from §c Magmatic"
         },
         {
           "text": "§7mobs during the §5Year of the Witch§7!"
@@ -379081,7 +379081,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Drops sometimes from §9⚓ Aquatic"
+          "text": "§7Drops sometimes from §9 Aquatic"
         },
         {
           "text": "§7mobs during the §5Year of the Witch§7!"
@@ -389648,7 +389648,7 @@
           "text": "§6Ability: Helmets All The Way Down "
         },
         {
-          "text": "§7Regain §a+1ф §7when killing a monster."
+          "text": "§7Regain §a+1 §7when killing a monster."
         },
         {
           "text": "§8Note: Monsters already grant time on"
@@ -389675,7 +389675,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",

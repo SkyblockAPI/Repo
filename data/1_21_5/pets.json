@@ -10164,7 +10164,7 @@
           "§7Crit Damage: §9+{CRIT_DAMAGE}%",
           "",
           "§6Enderian",
-          "§7Take §a{0}% §7less damage from §5⊙ Ender",
+          "§7Take §a{0}% §7less damage from §5 Ender",
           "§7mobs",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -10207,7 +10207,7 @@
                 "text": "§6Enderian"
               },
               {
-                "text": "§7Take §a{0}% §7less damage from §5⊙ Ender"
+                "text": "§7Take §a{0}% §7less damage from §5 Ender"
               },
               {
                 "text": "§7mobs"
@@ -11802,7 +11802,7 @@
           "§7Crit Chance: §9+{CRIT_CHANCE}%",
           "",
           "§6End Strike",
-          "§7Deal §a{0}% §7more damage to §5⊙ Ender",
+          "§7Deal §a{0}% §7more damage to §5 Ender",
           "§7mobs.",
           "",
           "§6One With The Dragon",
@@ -11879,7 +11879,7 @@
                 "text": "§6End Strike"
               },
               {
-                "text": "§7Deal §a{0}% §7more damage to §5⊙ Ender"
+                "text": "§7Deal §a{0}% §7more damage to §5 Ender"
               },
               {
                 "text": "§7mobs."
@@ -12500,7 +12500,7 @@
           "§7Rift Time: §a+25s",
           "",
           "§6Nine Lives",
-          "§7§7Gain §a+15ф Rift Time §7per",
+          "§7§7Gain §a+15 Rift Time §7per",
           "§7soul piece.",
           "",
           "§9§lRARE PET"
@@ -12539,7 +12539,7 @@
                 "text": "§6Nine Lives"
               },
               {
-                "text": "§7§7Gain §a+15ф Rift Time §7per"
+                "text": "§7§7Gain §a+15 Rift Time §7per"
               },
               {
                 "text": "§7soul piece."
@@ -12574,7 +12574,7 @@
           "§7Mana Regen: §a+12%",
           "",
           "§6Nine Lives",
-          "§7§7Gain §a+15ф Rift Time §7per",
+          "§7§7Gain §a+15 Rift Time §7per",
           "§7soul piece.",
           "",
           "§6Trickery",
@@ -12620,7 +12620,7 @@
                 "text": "§6Nine Lives"
               },
               {
-                "text": "§7§7Gain §a+15ф Rift Time §7per"
+                "text": "§7§7Gain §a+15 Rift Time §7per"
               },
               {
                 "text": "§7soul piece."
@@ -41906,7 +41906,7 @@
           "§7Intelligence: §b+{INTELLIGENCE}",
           "",
           "§6Stronger Bones",
-          "§7Take §a{0}% §7less damage from §f🦴",
+          "§7Take §a{0}% §7less damage from §f",
           "§fSkeletal §7mobs.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -41977,7 +41977,7 @@
                 "text": "§6Stronger Bones"
               },
               {
-                "text": "§7Take §a{0}% §7less damage from §f🦴"
+                "text": "§7Take §a{0}% §7less damage from §f"
               },
               {
                 "text": "§fSkeletal §7mobs."
@@ -43367,7 +43367,7 @@
           "§7zombies by §a{0}%§7.",
           "",
           "§6Rotten Blade",
-          "§7Deal §a{1}% §7more damage to §2༕ Undead",
+          "§7Deal §a{1}% §7more damage to §2 Undead",
           "§7mobs",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -43433,7 +43433,7 @@
                 "text": "§6Rotten Blade"
               },
               {
-                "text": "§7Deal §a{1}% §7more damage to §2༕ Undead"
+                "text": "§7Deal §a{1}% §7more damage to §2 Undead"
               },
               {
                 "text": "§7mobs"
@@ -43489,7 +43489,7 @@
           "§7zombies by §a{0}%§7.",
           "",
           "§6Rotten Blade",
-          "§7Deal §a{1}% §7more damage to §2༕ Undead",
+          "§7Deal §a{1}% §7more damage to §2 Undead",
           "§7mobs",
           "",
           "§8Can be upgraded at Kat in The Hub!",
@@ -43555,7 +43555,7 @@
                 "text": "§6Rotten Blade"
               },
               {
-                "text": "§7Deal §a{1}% §7more damage to §2༕ Undead"
+                "text": "§7Deal §a{1}% §7more damage to §2 Undead"
               },
               {
                 "text": "§7mobs"
@@ -43615,7 +43615,7 @@
           "§7mobs",
           "",
           "§6Living Dead",
-          "§7Increases all stats on §2Undead ༕",
+          "§7Increases all stats on §2Undead ",
           "§7armor by §a{2}%§7.",
           "",
           "§6§lLEGENDARY PET"
@@ -43696,7 +43696,7 @@
                 "text": "§6Living Dead"
               },
               {
-                "text": "§7Increases all stats on §2Undead ༕"
+                "text": "§7Increases all stats on §2Undead "
               },
               {
                 "text": "§7armor by §a{2}%§7."
