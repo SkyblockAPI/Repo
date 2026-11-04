@@ -89373,6 +89373,40 @@
     }
   },
   {
+    "type": "shop",
+    "npc": "TRINITY_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 10000000
+      }
+    ],
+    "result": {
+      "type": "potion",
+      "id": "POTION_REGENERATION",
+      "level": 9,
+      "count": 1
+    }
+  },
+  {
+    "type": "shop",
+    "npc": "TRINITY_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 100000
+      }
+    ],
+    "result": {
+      "type": "potion",
+      "id": "POTION_SPEED",
+      "level": 5,
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {

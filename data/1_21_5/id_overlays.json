@@ -56446,6 +56446,9 @@
   {
     "type": "mob",
     "id": "ALIXER_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Alixer"
+    },
     "abiphone_callnames": [
       "alixer"
     ]
@@ -62284,6 +62287,13 @@
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Spooky_Mobs"
     }
+  },
+  {
+    "type": "mob",
+    "id": "TRINITY_NPC",
+    "abiphone_callnames": [
+      "trinity"
+    ]
   },
   {
     "type": "mob",

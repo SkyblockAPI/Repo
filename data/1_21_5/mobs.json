@@ -12282,7 +12282,7 @@
         },
         "minecraft:lore": [
           {
-            "text": ""
+            "text": "§7Found in §cThe Catacombs§7."
           }
         ],
         "minecraft:profile": {
@@ -56141,6 +56141,36 @@
       }
     ]
   },
+  "TRINITY_NPC": {
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTg0MWExNmE1YmQ0YTY0NmNlZGI0YjU0Mzc3MjMyMjZjN2NmOWY4NjY5ZTU1ODc3M2ZhZTBhOTQ1MmM5NGQ5MCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI4OTEwNTVhNTY5MTgyY2UyYjJjMzk5NDJjY2U2NDZjMSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzkzODAyMzU2MTczfQ==",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "TRINITY_NPC"
+        },
+        "minecraft:custom_name": {
+          "text": "§9Trinity (NPC)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Found in §cThe Catacombs§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTg0MWExNmE1YmQ0YTY0NmNlZGI0YjU0Mzc3MjMyMjZjN2NmOWY4NjY5ZTU1ODc3M2ZhZTBhOTQ1MmM5NGQ5MCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI4OTEwNTVhNTY5MTgyY2UyYjJjMzk5NDJjY2U2NDZjMSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzkzODAyMzU2MTczfQ=="
+            }
+          ]
+        }
+      }
+    },
+    "name": "Trinity",
+    "type": "NPC"
+  },
   "TRUU_NPC": {
     "island": "crimson_isle",
     "position": {
@@ -61462,7 +61492,7 @@
         },
         "minecraft:lore": [
           {
-            "text": "§7This NPC can be found in §cThe Catacombs§7."
+            "text": "§7Found in §cThe Catacombs§7."
           }
         ],
         "minecraft:profile": {
