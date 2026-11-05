@@ -3010,13 +3010,6 @@
   },
   {
     "type": "item",
-    "id": "BESTIARY_TALISMAN",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bestiary_Talisman"
-    }
-  },
-  {
-    "type": "item",
     "id": "BEST_WEAPON_RACK",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Weapon_Rack+"
