@@ -52410,6 +52410,27 @@
   },
   {
     "type": "item",
+    "id": "WITHER_GOGGLES_ECLIPSED_SPECTRE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Eclipsed_Spectre_Wither_Goggles_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "WITHER_GOGGLES_LAGOON_SPECTRE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lagoon_Spectre_Wither_Goggles_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "WITHER_GOGGLES_MIDNIGHT_SPECTRE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Midnight_Spectre_Wither_Goggles_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "WITHER_HELMET",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Wither_Helmet"
@@ -62284,6 +62305,9 @@
   {
     "type": "mob",
     "id": "TRINITY_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Trinity"
+    },
     "abiphone_callnames": [
       "trinity"
     ]
