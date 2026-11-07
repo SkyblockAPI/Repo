@@ -357479,7 +357479,7 @@
           "text": "§7This skin can be applied to §5Tarantula"
         },
         {
-          "text": "§5Helmet§7."
+          "text": "§5Helmet§7 and §6Primordial Helmet§7."
         },
         {
           "text": ""
@@ -357506,7 +357506,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
