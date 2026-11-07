@@ -3868,13 +3868,14 @@
       "name": "§c◆ Fiery Burst Rune I",
       "lore": [
         "§8Requires level 25",
-        "§8Hoes",
+        "§8Farming Tools",
         "",
         "§7Obtained very rarely from slaying",
         "§7Inferno Demonlord.",
         "",
-        "§7Apply this rune to hoes or fuse two",
-        "§7together at the Runic Pedestal!",
+        "§7Apply this rune to farming tools or",
+        "§7fuse two together at the Runic",
+        "§7Pedestal!",
         "",
         "§6§lLEGENDARY COSMETIC"
       ],
@@ -3896,7 +3897,7 @@
               "text": "§8Requires level 25"
             },
             {
-              "text": "§8Hoes"
+              "text": "§8Farming Tools"
             },
             {
               "text": ""
@@ -3911,10 +3912,13 @@
               "text": ""
             },
             {
-              "text": "§7Apply this rune to hoes or fuse two"
+              "text": "§7Apply this rune to farming tools or"
             },
             {
-              "text": "§7together at the Runic Pedestal!"
+              "text": "§7fuse two together at the Runic"
+            },
+            {
+              "text": "§7Pedestal!"
             },
             {
               "text": ""
@@ -3935,7 +3939,7 @@
             "hidden_components": [
               "minecraft:attribute_modifiers",
               "minecraft:banner_patterns",
-              "minecraft:block_entity_data",
+              "minecraft:charged_projectiles",
               "minecraft:dyed_color",
               "minecraft:fireworks",
               "minecraft:jukebox_playable",
@@ -3957,13 +3961,14 @@
       "name": "§c◆ Fiery Burst Rune II",
       "lore": [
         "§8Requires level 25",
-        "§8Hoes",
+        "§8Farming Tools",
         "",
         "§7Obtained very rarely from slaying",
         "§7Inferno Demonlord.",
         "",
-        "§7Apply this rune to hoes or fuse two",
-        "§7together at the Runic Pedestal!",
+        "§7Apply this rune to farming tools or",
+        "§7fuse two together at the Runic",
+        "§7Pedestal!",
         "",
         "§6§lLEGENDARY COSMETIC"
       ],
@@ -3985,7 +3990,7 @@
               "text": "§8Requires level 25"
             },
             {
-              "text": "§8Hoes"
+              "text": "§8Farming Tools"
             },
             {
               "text": ""
@@ -4000,10 +4005,13 @@
               "text": ""
             },
             {
-              "text": "§7Apply this rune to hoes or fuse two"
+              "text": "§7Apply this rune to farming tools or"
             },
             {
-              "text": "§7together at the Runic Pedestal!"
+              "text": "§7fuse two together at the Runic"
+            },
+            {
+              "text": "§7Pedestal!"
             },
             {
               "text": ""
@@ -4024,7 +4032,7 @@
             "hidden_components": [
               "minecraft:attribute_modifiers",
               "minecraft:banner_patterns",
-              "minecraft:block_entity_data",
+              "minecraft:charged_projectiles",
               "minecraft:dyed_color",
               "minecraft:fireworks",
               "minecraft:jukebox_playable",
@@ -4046,13 +4054,13 @@
       "name": "§c◆ Fiery Burst Rune III",
       "lore": [
         "§8Requires level 25",
-        "§8Hoes",
+        "§8Farming Tools",
         "",
         "§7Obtained very rarely from slaying",
         "§7Inferno Demonlord.",
         "",
-        "§7Apply this rune to hoes or fuse two",
-        "§7together at the Runic Pedestal!",
+        "§7Apply this rune to farming tools at",
+        "§7the Runic Pedestal!",
         "",
         "§6§lLEGENDARY COSMETIC"
       ],
@@ -4074,7 +4082,7 @@
               "text": "§8Requires level 25"
             },
             {
-              "text": "§8Hoes"
+              "text": "§8Farming Tools"
             },
             {
               "text": ""
@@ -4089,10 +4097,10 @@
               "text": ""
             },
             {
-              "text": "§7Apply this rune to hoes or fuse two"
+              "text": "§7Apply this rune to farming tools at"
             },
             {
-              "text": "§7together at the Runic Pedestal!"
+              "text": "§7the Runic Pedestal!"
             },
             {
               "text": ""
@@ -4113,7 +4121,7 @@
             "hidden_components": [
               "minecraft:attribute_modifiers",
               "minecraft:banner_patterns",
-              "minecraft:block_entity_data",
+              "minecraft:charged_projectiles",
               "minecraft:dyed_color",
               "minecraft:fireworks",
               "minecraft:jukebox_playable",
