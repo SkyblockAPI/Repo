@@ -1941,6 +1941,13 @@
   },
   {
     "type": "item",
+    "id": "BALLOON_CART",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Balloon_Cart"
+    }
+  },
+  {
+    "type": "item",
     "id": "BALLOON_HAT_2024_AQUA",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Aqua_5th_Anniversary_Balloon_Hat"
@@ -2646,6 +2653,41 @@
     "id": "BEADY_EYES",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Beady_Eyes"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BEAR_BED",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bear_Bed"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BEAR_BENCH",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bear_Bench"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BEAR_BOOKSHELF",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bear_Bookshelf"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BEAR_CHAIR",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bear_Chair"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BEAR_SIDE_TABLE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bear_Side_Table"
     }
   },
   {
@@ -3512,6 +3554,13 @@
     "id": "BLACK_CAT_PLUSH",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Black_Cat_Plush"
+    }
+  },
+  {
+    "type": "item",
+    "id": "BLACK_CAT_PLUSHIE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Black_Cat_Plushie"
     }
   },
   {
@@ -5975,6 +6024,20 @@
   },
   {
     "type": "item",
+    "id": "CANDY_CANE_CHAIR",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Candy_Cane_Bench"
+    }
+  },
+  {
+    "type": "item",
+    "id": "CANDY_CANE_TABLE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Candy_Cane_Table"
+    }
+  },
+  {
+    "type": "item",
     "id": "CANDY_CORN",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Candy_Corn"
@@ -8395,6 +8458,13 @@
     ],
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Cocoa_Beans_Minion"
+    }
+  },
+  {
+    "type": "item",
+    "id": "COCONUT_DRINK",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Coconut_Drink"
     }
   },
   {
@@ -11315,6 +11385,13 @@
     "id": "DOJO_YELLOW_BELT",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Yellow_Belt"
+    }
+  },
+  {
+    "type": "item",
+    "id": "DOLLHOUSE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dollhouse"
     }
   },
   {
@@ -16775,6 +16852,13 @@
   },
   {
     "type": "item",
+    "id": "FANCY_BEACH_CHAIR",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fancy_Beach_Chair"
+    }
+  },
+  {
+    "type": "item",
     "id": "FANCY_FLOWER_POT",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Flower_Pot"
@@ -18064,6 +18148,13 @@
   },
   {
     "type": "item",
+    "id": "FISHERMAN_COOLER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fisherman%27s_Cooler"
+    }
+  },
+  {
+    "type": "item",
     "id": "FISHING_1_PORTAL",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Backwater_Bayou"
@@ -18435,6 +18526,13 @@
     ],
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Flamebreaker_Leggings"
+    }
+  },
+  {
+    "type": "item",
+    "id": "FLAMINGO",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flamingo_Float"
     }
   },
   {
@@ -20494,6 +20592,13 @@
   },
   {
     "type": "item",
+    "id": "GIANT_TEDDY_BEAR",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Giant_Teddy_Bear"
+    }
+  },
+  {
+    "type": "item",
     "id": "GIANT_TOOTH",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Giant_Tooth"
@@ -20609,6 +20714,13 @@
     "id": "GILL_MEMBRANE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Gill_Membrane"
+    }
+  },
+  {
+    "type": "item",
+    "id": "GINGERBREAD_BED",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Gingerbread_Bed"
     }
   },
   {
@@ -22601,6 +22713,13 @@
   },
   {
     "type": "item",
+    "id": "GREENHOUSE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Greenhouse_Planter"
+    }
+  },
+  {
+    "type": "item",
     "id": "GREENHOUSE_BLUEPRINT",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Greenhouse_Blueprint"
@@ -23991,6 +24110,13 @@
   },
   {
     "type": "item",
+    "id": "HOLIDAY_FIREPLACE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Holiday_Fireplace"
+    }
+  },
+  {
+    "type": "item",
     "id": "HOLIDAY_TRAIN",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Holiday_Train"
@@ -24210,6 +24336,13 @@
     "type": "item",
     "id": "HOPPER_MINECART",
     "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "HOPSCOTCH",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hopscotch"
+    }
   },
   {
     "type": "item",
@@ -26426,6 +26559,13 @@
   },
   {
     "type": "item",
+    "id": "JUNGLE_BED",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Jungle_Bed"
+    }
+  },
+  {
+    "type": "item",
     "id": "JUNGLE_BIOME_STICK",
     "requirements": [
       {
@@ -26442,8 +26582,29 @@
   },
   {
     "type": "item",
+    "id": "JUNGLE_CABIN",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Jungle_Cabin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "JUNGLE_CHAIR",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Jungle_Chair"
+    }
+  },
+  {
+    "type": "item",
     "id": "JUNGLE_DOOR_ITEM",
     "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "JUNGLE_DRESSER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Jungle_Dresser"
+    }
   },
   {
     "type": "item",
@@ -26664,6 +26825,13 @@
     ],
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Jungle_Pickaxe"
+    }
+  },
+  {
+    "type": "item",
+    "id": "JUNGLE_TABLE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Jungle_Table"
     }
   },
   {
@@ -28206,6 +28374,13 @@
   },
   {
     "type": "item",
+    "id": "LEMONADE_STAND",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lemonade_Stand"
+    }
+  },
+  {
+    "type": "item",
     "id": "LESSER_ORB_OF_HEALING",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Lesser_Orb_of_Healing"
@@ -28230,6 +28405,13 @@
     "type": "item",
     "id": "LEVER",
     "vanilla": true
+  },
+  {
+    "type": "item",
+    "id": "LIFEGUARD_CHAIR",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lifeguard_Chair"
+    }
   },
   {
     "type": "item",
@@ -30505,6 +30687,13 @@
     "id": "MILLENIA_OLD_BLAZE_ASHES",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Millennia-Old_Blaze_Ashes"
+    }
+  },
+  {
+    "type": "item",
+    "id": "MIMIC_CHEST",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mimic_Chest"
     }
   },
   {
@@ -33620,6 +33809,41 @@
     "id": "PASTEL_SUPERIOR_DRAGON",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Pastel_Superior_Dragon_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PATIO_BENCH",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Patio_Bench"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PATIO_FIRE_PIT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Patio_Fire_Pit"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PATIO_SIDE_TABLE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Patio_Side_Table"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PATIO_SOFA",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Patio_Sofa"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PATIO_STOOL",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Patio_Stool"
     }
   },
   {
@@ -37757,6 +37981,13 @@
   },
   {
     "type": "item",
+    "id": "PIRATE_CUTOUT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pirate_Cutout"
+    }
+  },
+  {
+    "type": "item",
     "id": "PISTON_BASE",
     "vanilla": true
   },
@@ -38953,6 +39184,20 @@
   },
   {
     "type": "item",
+    "id": "PUMPKIN_ARMCHAIR",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Armchair"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PUMPKIN_BED",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Bed"
+    }
+  },
+  {
+    "type": "item",
     "id": "PUMPKIN_BOMB",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Blast_o%27_Lantern"
@@ -38976,6 +39221,13 @@
   },
   {
     "type": "item",
+    "id": "PUMPKIN_CANDY_HANDOUT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Candy_Handout"
+    }
+  },
+  {
+    "type": "item",
     "id": "PUMPKIN_CHESTPLATE",
     "requirements": [
       {
@@ -38988,6 +39240,13 @@
     ],
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Sprout_Chestplate"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PUMPKIN_COUCH",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Couch"
     }
   },
   {
@@ -39016,6 +39275,13 @@
     "id": "PUMPKIN_DICER_3",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Dicer"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PUMPKIN_DRESSER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Dresser"
     }
   },
   {
@@ -39900,6 +40166,13 @@
   },
   {
     "type": "item",
+    "id": "READING_NOOK",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Reading_Nook"
+    }
+  },
+  {
+    "type": "item",
     "id": "REALITY_HOPPER_BRONZE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Reality_Hopper"
@@ -39924,6 +40197,13 @@
     "id": "REALITY_HOPPER_SILVER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Reality_Hopper"
+    }
+  },
+  {
+    "type": "item",
+    "id": "REANIMATED_PAINTING",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Reanimated_Painting"
     }
   },
   {
@@ -41478,6 +41758,13 @@
   },
   {
     "type": "item",
+    "id": "ROCKING_REINDEER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rocking_Reindeer"
+    }
+  },
+  {
+    "type": "item",
     "id": "ROCK_CANDY",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Rock_Candy"
@@ -41970,6 +42257,27 @@
     "id": "SAFETY_BADGE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Safety_Badge"
+    }
+  },
+  {
+    "type": "item",
+    "id": "SALEM_FIREPLACE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Salem_Fireplace"
+    }
+  },
+  {
+    "type": "item",
+    "id": "SALEM_LARGE_SOFA",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Salem_Large_Sofa"
+    }
+  },
+  {
+    "type": "item",
+    "id": "SALEM_SMALL_SOFA",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Salem_Small_Sofa"
     }
   },
   {
@@ -43700,6 +44008,13 @@
     "id": "SIRIUS_PERSONAL_PHONE_NUMBER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Sirius%27_Personal_Phone_Number"
+    }
+  },
+  {
+    "type": "item",
+    "id": "SKELETON_CHAIR",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Chair"
     }
   },
   {
@@ -46244,6 +46559,13 @@
   },
   {
     "type": "item",
+    "id": "SPRINKLER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sprinkler"
+    }
+  },
+  {
+    "type": "item",
     "id": "SPRUCE_DOOR_ITEM",
     "vanilla": true
   },
@@ -48437,6 +48759,13 @@
   },
   {
     "type": "item",
+    "id": "TALL_NUTCRACKER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Extra_Large_Nutcracker"
+    }
+  },
+  {
+    "type": "item",
     "id": "TANK_DUNGEON_ABILITY_1",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Stun_Potion"
@@ -49858,6 +50187,13 @@
   },
   {
     "type": "item",
+    "id": "TOY_BOX",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Toy_Box"
+    }
+  },
+  {
+    "type": "item",
     "id": "TRADING_POST_BARN_SKIN",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Trading_Post_Barn_Skin"
@@ -50204,6 +50540,13 @@
     "id": "TURTLELLINI",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Turtlellini"
+    }
+  },
+  {
+    "type": "item",
+    "id": "TURTLE_SANDBOX",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Turtle_Sandbox"
     }
   },
   {
@@ -50562,6 +50905,20 @@
   },
   {
     "type": "item",
+    "id": "VAMPIRE_BED",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampire_Bed"
+    }
+  },
+  {
+    "type": "item",
+    "id": "VAMPIRE_CANDELABRA",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampire_Candelabra"
+    }
+  },
+  {
+    "type": "item",
     "id": "VAMPIRE_DENTIST_RELIC",
     "requirements": [
       {
@@ -50756,6 +51113,27 @@
     "id": "VAMPIRE_MASK",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampire_Mask"
+    }
+  },
+  {
+    "type": "item",
+    "id": "VAMPIRE_SOFA",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampire_Sofa"
+    }
+  },
+  {
+    "type": "item",
+    "id": "VAMPIRE_TABLE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampire_Table"
+    }
+  },
+  {
+    "type": "item",
+    "id": "VAMPIRE_THRONE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Vampire_Throne"
     }
   },
   {
@@ -52284,6 +52662,13 @@
   },
   {
     "type": "item",
+    "id": "WITCH_BELONGINGS",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Witch%27s_Belongings"
+    }
+  },
+  {
+    "type": "item",
     "id": "WITCH_BROOMSTICK",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Witch%27s_Broomstick"
@@ -53033,6 +53418,13 @@
     "id": "YOUNG_SHIMMER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Shimmer_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "YULE_LOG",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Yule_Log"
     }
   },
   {
