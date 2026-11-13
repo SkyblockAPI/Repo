@@ -15449,7 +15449,10 @@
   {
     "type": "item",
     "id": "ENDER_STONE",
-    "vanilla": true
+    "vanilla": true,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/End_Stone"
+    }
   },
   {
     "type": "item",
@@ -33018,7 +33021,10 @@
   {
     "type": "item",
     "id": "OBSIDIAN",
-    "vanilla": true
+    "vanilla": true,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Obsidian"
+    }
   },
   {
     "type": "item",

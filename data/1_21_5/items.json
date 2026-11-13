@@ -94308,13 +94308,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -225015,7 +225017,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -315951,7 +315953,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -316074,7 +316076,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -346588,7 +346590,7 @@
       "minecraft:unbreakable": {},
       "minecraft:enchantment_glint_override": true,
       "minecraft:custom_name": {
-        "text": "§5Fortunate Stonk"
+        "text": "§5Stonk"
       },
       "minecraft:lore": [
         {
@@ -346598,10 +346600,7 @@
           "text": ""
         },
         {
-          "text": "§7Mining Speed: §6+384 §9(+4)"
-        },
-        {
-          "text": "§7Mining Fortune: §6+2 §9(+2)"
+          "text": "§7Mining Speed: §6+510"
         },
         {
           "text": ""
@@ -346610,10 +346609,7 @@
           "text": "§9Efficiency VI"
         },
         {
-          "text": "§7Increases how quickly your tool"
-        },
-        {
-          "text": "§7breaks blocks."
+          "text": "§7Grants §a+130 §6 Mining Speed§7."
         },
         {
           "text": ""
@@ -346637,12 +346633,12 @@
           "text": ""
         },
         {
+          "text": "§8This item can be reforged!"
+        },
+        {
           "text": "§5§lEPIC PICKAXE"
         }
       ],
-      "minecraft:enchantments": {
-        "minecraft:efficiency": 6
-      },
       "minecraft:item_model": "hypixel_skyblock:item/uncategorized/stonk",
       "minecraft:tooltip_display": {
         "hidden_components": [
