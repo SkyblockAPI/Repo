@@ -2701,28 +2701,28 @@
     "type": "item",
     "id": "BEASTMASTER_CREST_EPIC",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Beastmaster_Crest"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Venerable_Beastmaster_Crest"
     }
   },
   {
     "type": "item",
     "id": "BEASTMASTER_CREST_LEGENDARY",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Beastmaster_Crest"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Exalted_Beastmaster_Crest"
     }
   },
   {
     "type": "item",
     "id": "BEASTMASTER_CREST_RARE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Beastmaster_Crest"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Stalwart_Beastmaster_Crest"
     }
   },
   {
     "type": "item",
     "id": "BEASTMASTER_CREST_UNCOMMON",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Beastmaster_Crest"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blessed_Beastmaster_Crest"
     }
   },
   {
@@ -6543,6 +6543,13 @@
     "id": "CATACOMBS_EXPERT_RING",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Catacombs_Expert_Ring"
+    }
+  },
+  {
+    "type": "item",
+    "id": "CATACOMBS_GOBBLER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Catacombs_Gobbler"
     }
   },
   {
@@ -11343,6 +11350,13 @@
     "id": "DIVER_PUFFER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Puffer_Fish_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "DIVINE_GIFT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Divine_Gift"
     }
   },
   {
@@ -34670,6 +34684,48 @@
   },
   {
     "type": "item",
+    "id": "PERSONAL_COMPACTOR_COMBAT_4000",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Personal_Combat_Compactor_4000"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PERSONAL_COMPACTOR_FARMING_4000",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Personal_Farming_Compactor_4000"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PERSONAL_COMPACTOR_FISHING_4000",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Personal_Fishing_Compactor_4000"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PERSONAL_COMPACTOR_FORAGING_4000",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Personal_Foraging_Compactor_4000"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PERSONAL_COMPACTOR_HUSBANDRY_4000",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Personal_Husbandry_Compactor_4000"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PERSONAL_COMPACTOR_MINING_4000",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Personal_Mining_Compactor_4000"
+    }
+  },
+  {
+    "type": "item",
     "id": "PERSONAL_DELETOR_4000",
     "requirements": [
       {
@@ -40158,7 +40214,7 @@
     "type": "item",
     "id": "RAZOR_SHARP_SHARK_TOOTH_NECKLACE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Razor-Sharp_Shark_Tooth_Necklace"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Shark_Tooth_Heirloom"
     }
   },
   {
@@ -43426,7 +43482,7 @@
     "type": "item",
     "id": "SHARP_SHARK_TOOTH_NECKLACE",
     "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sharp_Shark_Tooth_Necklace"
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Shark_Tooth_Relic"
     }
   },
   {
@@ -66518,6 +66574,22 @@
   },
   {
     "type": "enchantment",
+    "id": "LOOTING_NEW",
+    "level": 6,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Looting"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "LOOTING_NEW",
+    "level": 7,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Looting"
+    }
+  },
+  {
+    "type": "enchantment",
     "id": "LUCK",
     "level": 1,
     "wiki": {
@@ -68011,6 +68083,14 @@
     "type": "enchantment",
     "id": "SMOLDERING",
     "level": 5,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Smoldering"
+    }
+  },
+  {
+    "type": "enchantment",
+    "id": "SMOLDERING",
+    "level": 6,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Smoldering"
     }

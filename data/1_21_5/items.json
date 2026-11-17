@@ -17980,6 +17980,9 @@
       },
       "minecraft:lore": [
         {
+          "text": "§7Accessory Power: §6+16"
+        },
+        {
           "text": "§7Health: §c+5"
         },
         {
@@ -17987,9 +17990,6 @@
         },
         {
           "text": "§7Speed: §f+3"
-        },
-        {
-          "text": "§7Accessory Power: §6+16"
         },
         {
           "text": ""
@@ -18039,19 +18039,16 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Launches a firework that"
+          "text": "§7Launches a firework that explodes"
         },
         {
-          "text": "§7explodes into several Bat"
+          "text": "§7into several §6Bat Piñatas§7, each"
         },
         {
-          "text": "§7Piñatas, each dropping a bunch"
+          "text": "§7dropping a bunch of candies. Only"
         },
         {
-          "text": "§7of candies. Only usable in the"
-        },
-        {
-          "text": "§bVillage§7."
+          "text": "§7usable in the §bVillage§7."
         },
         {
           "text": ""
@@ -18063,13 +18060,10 @@
           "text": ""
         },
         {
-          "text": "§8§oBat Piñata drops do not"
+          "text": "§8§oBat Piñata drops do not count"
         },
         {
-          "text": "§8§ocount towards leaderboard"
-        },
-        {
-          "text": "§8§oprogress!"
+          "text": "§8§otowards leaderboard progress!"
         },
         {
           "text": ""
@@ -18081,7 +18075,17 @@
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
-          "minecraft:dyed_color"
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:rare"
@@ -18753,6 +18757,9 @@
       },
       "minecraft:lore": [
         {
+          "text": "§7Accessory Power: §6+12"
+        },
+        {
           "text": "§7Health: §c+3"
         },
         {
@@ -18760,9 +18767,6 @@
         },
         {
           "text": "§7Speed: §f+2"
-        },
-        {
-          "text": "§7Accessory Power: §6+12"
         },
         {
           "text": ""
@@ -88064,7 +88068,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -115651,20 +115655,20 @@
       },
       "minecraft:unbreakable": {},
       "minecraft:custom_name": {
-        "text": "§6Fervor Leggings ✪"
+        "text": "§6Fervor Leggings"
       },
       "minecraft:lore": [
         {
-          "text": "§7Health: §c+214.2"
+          "text": "§7Health: §c+210"
         },
         {
-          "text": "§7Defense: §a+117.3"
+          "text": "§7Defense: §a+115"
         },
         {
-          "text": "§7True Defense: §f+5.1"
+          "text": "§7True Defense: §f+5"
         },
         {
-          "text": "§7Intelligence: §b+5.1"
+          "text": "§7Intelligence: §b+5"
         },
         {
           "text": "§7Gemstones: §8[⚔] [⚔]"
@@ -118326,13 +118330,28 @@
           "text": ""
         },
         {
-          "text": "§7Grants §6+25%  Mining Fortune §7while"
+          "text": "§7Consume while §bMayor Cole's §6Mining"
         },
         {
-          "text": "§bMayor Cole's §6Mining Fiesta §7perk is"
+          "text": "§6Fiesta §7perk is active to gain the"
         },
         {
-          "text": "§7active."
+          "text": "§7following effects:"
+        },
+        {
+          "text": "§8• §6+25%  Mining Fortune"
+        },
+        {
+          "text": "§8• §a+100% §7chance of finding §9Refined"
+        },
+        {
+          "text": "§9Minerals§7."
+        },
+        {
+          "text": "§8• §a+100% §7chance of finding §5Glossy"
+        },
+        {
+          "text": "§5Gemstones§7."
         },
         {
           "text": "§7Duration: §a60m"
@@ -176816,7 +176835,7 @@
           "text": ""
         },
         {
-          "text": "§7Monsters at or below Level §a5 §7will no"
+          "text": "§7Mobs at or below §aLevel 5 §7will no"
         },
         {
           "text": "§7longer target you."
@@ -176875,10 +176894,10 @@
           "text": ""
         },
         {
-          "text": "§7Level §a1 §7monsters will no longer"
+          "text": "§aLevel 1 §7mobs will no longer target"
         },
         {
-          "text": "§7target you."
+          "text": "§7you."
         },
         {
           "text": ""
@@ -186798,7 +186817,7 @@
           "text": "§6Piece Bonus: Magnetic"
         },
         {
-          "text": "§7Earn §a+50% §7more Exp when mining."
+          "text": "§7Earn §a+50% XP Orbs §7from mining."
         },
         {
           "text": ""
@@ -186818,7 +186837,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -186860,7 +186879,7 @@
           "text": "§6Piece Bonus: Magnetic"
         },
         {
-          "text": "§7Earn §a+50% §7more Exp when mining."
+          "text": "§7Earn §a+50% XP Orbs §7from mining."
         },
         {
           "text": ""
@@ -186880,7 +186899,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -186921,7 +186940,7 @@
           "text": "§6Piece Bonus: Magnetic"
         },
         {
-          "text": "§7Earn §a+50% §7more Exp when mining."
+          "text": "§7Earn §a+50% XP Orbs §7from mining."
         },
         {
           "text": ""
@@ -186940,7 +186959,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -186982,7 +187001,7 @@
           "text": "§6Piece Bonus: Magnetic"
         },
         {
-          "text": "§7Earn §a+50% §7more Exp when mining."
+          "text": "§7Earn §a+50% XP Orbs §7from mining."
         },
         {
           "text": ""
@@ -187002,7 +187021,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -187153,7 +187172,7 @@
           "text": "§9Magnetic Bonus"
         },
         {
-          "text": "§7Earn §a+100% §7more Exp when mining."
+          "text": "§7Earn §a+100% XP Orbs §7from mining."
         },
         {
           "text": ""
@@ -294371,7 +294390,7 @@
           "text": ""
         },
         {
-          "text": "§7Seems to attract §aBullfrogs §7due to its"
+          "text": "§7Seems to attract §9Bullfrogs §7due to its"
         },
         {
           "text": "§7red hue."
@@ -294391,7 +294410,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -337218,7 +337237,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -337286,7 +337305,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -337411,7 +337430,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -337479,7 +337498,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",

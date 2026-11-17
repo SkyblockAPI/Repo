@@ -5088,52 +5088,43 @@
         "lore": [
           "§8Combat Pet",
           "",
-          "§7Intelligence: §b+{INTELLIGENCE}",
+          "§7Attack Speed: §e+{ATTACK_SPEED}%",
           "§7Speed: §f+{SPEED}",
-          "§7Magic Find: §b+{MAGIC_FIND}",
-          "§7Pet Luck: §d+{PET_LUCK}",
+          "",
+          "§6Candy Lover",
+          "§7Mobs drop Candy §a{0}% §7more often",
+          "§7during §6Spooky Festivals§7.",
+          "",
+          "§6Long Claws",
+          "§7Grants a §a{1}% §7chance to deal §c+1",
+          "§cDamage §7to §6 Spooky §7mobs.",
           "",
           "§6Hunter",
-          "§7Increases your §f Speed §7and speed",
-          "§7cap by §a+{0}§7.",
-          "",
-          "§6Omen",
-          "§7Grants §d+{1} Pet Luck§7.",
-          "",
-          "§6Supernatural",
-          "§7Grants §b+{2} Magic Find§7.",
+          "§7Grants §f+{2} Speed Cap§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
-            1,
-            100
+            0.2,
+            20
           ],
           "1": [
-            0.15,
-            15
-          ],
-          "2": [
-            0.15,
-            15
-          ],
-          "INTELLIGENCE": [
             1,
             100
           ],
+          "2": [
+            1,
+            100
+          ],
+          "ATTACK_SPEED": [
+            0.4,
+            40
+          ],
           "SPEED": [
-            1.25,
-            125
-          ],
-          "PET_LUCK": [
-            0.15,
-            15
-          ],
-          "MAGIC_FIND": [
-            0.15,
-            15
+            0.75,
+            75
           ]
         },
         "item": {
@@ -5154,16 +5145,34 @@
                 "text": ""
               },
               {
-                "text": "§7Intelligence: §b+{INTELLIGENCE}"
+                "text": "§7Attack Speed: §e+{ATTACK_SPEED}%"
               },
               {
                 "text": "§7Speed: §f+{SPEED}"
               },
               {
-                "text": "§7Magic Find: §b+{MAGIC_FIND}"
+                "text": ""
               },
               {
-                "text": "§7Pet Luck: §d+{PET_LUCK}"
+                "text": "§6Candy Lover"
+              },
+              {
+                "text": "§7Mobs drop Candy §a{0}% §7more often"
+              },
+              {
+                "text": "§7during §6Spooky Festivals§7."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Long Claws"
+              },
+              {
+                "text": "§7Grants a §a{1}% §7chance to deal §c+1"
+              },
+              {
+                "text": "§cDamage §7to §6 Spooky §7mobs."
               },
               {
                 "text": ""
@@ -5172,28 +5181,7 @@
                 "text": "§6Hunter"
               },
               {
-                "text": "§7Increases your §f Speed §7and speed"
-              },
-              {
-                "text": "§7cap by §a+{0}§7."
-              },
-              {
-                "text": ""
-              },
-              {
-                "text": "§6Omen"
-              },
-              {
-                "text": "§7Grants §d+{1} Pet Luck§7."
-              },
-              {
-                "text": ""
-              },
-              {
-                "text": "§6Supernatural"
-              },
-              {
-                "text": "§7Grants §b+{2} Magic Find§7."
+                "text": "§7Grants §f+{2} Speed Cap§7."
               },
               {
                 "text": ""
@@ -5217,7 +5205,7 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
@@ -5238,59 +5226,49 @@
         "lore": [
           "§8Combat Pet",
           "",
-          "§7Intelligence: §b+{INTELLIGENCE}",
+          "§7Attack Speed: §e+{ATTACK_SPEED}%",
           "§7Speed: §f+{SPEED}",
-          "§7Magic Find: §b+{MAGIC_FIND}",
-          "§7Pet Luck: §d+{PET_LUCK}",
+          "",
+          "§6Candy Lover",
+          "§7Mobs drop Candy §a{0}% §7more often",
+          "§7during §6Spooky Festivals§7.",
+          "",
+          "§6Long Claws",
+          "§7Grants a §a{1}% §7chance to deal §c+1",
+          "§cDamage §7to §6 Spooky §7mobs.",
           "",
           "§6Hunter",
-          "§7Increases your §f Speed §7and speed",
-          "§7cap by §a+{0}§7.",
-          "",
-          "§6Omen",
-          "§7Grants §d+{1} Pet Luck§7.",
-          "",
-          "§6Supernatural",
-          "§7Grants §b+{2} Magic Find§7.",
+          "§7Grants §f+{2} Speed Cap§7.",
           "",
           "§6Looting",
-          "§7Gain §c{3}% §7more collection items from",
-          "§7monsters!",
+          "§7Mobs drop §a{3}% §7more collection items.",
           "",
           "§d§lMYTHIC PET"
         ],
         "variables": {
           "0": [
+            0.2,
+            20
+          ],
+          "1": [
             1,
             100
           ],
-          "1": [
-            0.15,
-            15
-          ],
           "2": [
-            0.15,
-            15
+            1,
+            100
           ],
           "3": [
             0.1,
             15
           ],
-          "INTELLIGENCE": [
-            1,
-            100
+          "ATTACK_SPEED": [
+            0.4,
+            40
           ],
           "SPEED": [
-            1.25,
-            125
-          ],
-          "PET_LUCK": [
-            0.15,
-            15
-          ],
-          "MAGIC_FIND": [
-            0.15,
-            15
+            0.75,
+            75
           ]
         },
         "item": {
@@ -5311,16 +5289,34 @@
                 "text": ""
               },
               {
-                "text": "§7Intelligence: §b+{INTELLIGENCE}"
+                "text": "§7Attack Speed: §e+{ATTACK_SPEED}%"
               },
               {
                 "text": "§7Speed: §f+{SPEED}"
               },
               {
-                "text": "§7Magic Find: §b+{MAGIC_FIND}"
+                "text": ""
               },
               {
-                "text": "§7Pet Luck: §d+{PET_LUCK}"
+                "text": "§6Candy Lover"
+              },
+              {
+                "text": "§7Mobs drop Candy §a{0}% §7more often"
+              },
+              {
+                "text": "§7during §6Spooky Festivals§7."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Long Claws"
+              },
+              {
+                "text": "§7Grants a §a{1}% §7chance to deal §c+1"
+              },
+              {
+                "text": "§cDamage §7to §6 Spooky §7mobs."
               },
               {
                 "text": ""
@@ -5329,28 +5325,7 @@
                 "text": "§6Hunter"
               },
               {
-                "text": "§7Increases your §f Speed §7and speed"
-              },
-              {
-                "text": "§7cap by §a+{0}§7."
-              },
-              {
-                "text": ""
-              },
-              {
-                "text": "§6Omen"
-              },
-              {
-                "text": "§7Grants §d+{1} Pet Luck§7."
-              },
-              {
-                "text": ""
-              },
-              {
-                "text": "§6Supernatural"
-              },
-              {
-                "text": "§7Grants §b+{2} Magic Find§7."
+                "text": "§7Grants §f+{2} Speed Cap§7."
               },
               {
                 "text": ""
@@ -5359,10 +5334,7 @@
                 "text": "§6Looting"
               },
               {
-                "text": "§7Gain §c{3}% §7more collection items from"
-              },
-              {
-                "text": "§7monsters!"
+                "text": "§7Mobs drop §a{3}% §7more collection items."
               },
               {
                 "text": ""
@@ -5383,7 +5355,7 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
                 "minecraft:fireworks",
                 "minecraft:jukebox_playable",
