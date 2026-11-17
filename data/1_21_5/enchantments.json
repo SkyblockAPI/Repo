@@ -30800,8 +30800,8 @@
     "name": "Life Steal",
     "isUltimate": false
   },
-  "LOOTING": {
-    "id": "LOOTING",
+  "LOOTING_NEW": {
+    "id": "LOOTING_NEW",
     "levels": [
       {
         "level": 1,
@@ -30810,21 +30810,23 @@
           "§8Combinable in Anvil",
           "",
           "§9Looting I",
-          "§7Increases the chance of a",
-          "§7Monster dropping an item by",
-          "§a15%§7.",
+          "§7Grants §b+2.5 Magic Find§7.",
           "",
           "§6Sources:",
-          " §7- Enchantment Table (§aI-III§7)",
-          " §7- Season of Jerry (§aIV§7)",
-          " §7- Experiments (§aIV-V§7)",
-          " §7- Bazaar (§aIV-V§7)",
+          " §7- Enchantment Table (§aI-V§7)",
+          " §7- Einary's Shop (§aVI§7)",
+          " §7- Bazaar (§aVI-VII§7)",
+          " §7- Sphinx (§aVII§7)",
           "",
           "§6Applied To:",
           " §7- §fFishing Rod",
           " §7- §fSword",
+          " §7- §fPickaxe",
+          " §7- §fAxe",
           " §7- §fLongsword",
+          " §7- §fDrill",
           " §7- §fGauntlet",
+          " §7- §fBow",
           "",
           "§f§lCOMMON"
         ],
@@ -30833,7 +30835,7 @@
           "components": {
             "minecraft:custom_data": {
               "enchantments": {
-                "looting": 1
+                "looting_new": 1
               },
               "id": "ENCHANTED_BOOK"
             },
@@ -30852,13 +30854,7 @@
                 "text": "§9Looting I"
               },
               {
-                "text": "§7Increases the chance of a"
-              },
-              {
-                "text": "§7Monster dropping an item by"
-              },
-              {
-                "text": "§a15%§7."
+                "text": "§7Grants §b+2.5 Magic Find§7."
               },
               {
                 "text": ""
@@ -30867,16 +30863,16 @@
                 "text": "§6Sources:"
               },
               {
-                "text": " §7- Enchantment Table (§aI-III§7)"
+                "text": " §7- Enchantment Table (§aI-V§7)"
               },
               {
-                "text": " §7- Season of Jerry (§aIV§7)"
+                "text": " §7- Einary's Shop (§aVI§7)"
               },
               {
-                "text": " §7- Experiments (§aIV-V§7)"
+                "text": " §7- Bazaar (§aVI-VII§7)"
               },
               {
-                "text": " §7- Bazaar (§aIV-V§7)"
+                "text": " §7- Sphinx (§aVII§7)"
               },
               {
                 "text": ""
@@ -30891,10 +30887,22 @@
                 "text": " §7- §fSword"
               },
               {
+                "text": " §7- §fPickaxe"
+              },
+              {
+                "text": " §7- §fAxe"
+              },
+              {
                 "text": " §7- §fLongsword"
               },
               {
+                "text": " §7- §fDrill"
+              },
+              {
                 "text": " §7- §fGauntlet"
+              },
+              {
+                "text": " §7- §fBow"
               },
               {
                 "text": ""
@@ -30920,21 +30928,24 @@
           "§8Combinable in Anvil",
           "",
           "§9Looting II",
-          "§7Increases the chance of a",
-          "§7Monster dropping an item by",
-          "§a30%§7.",
+          "§7Grants §b+5 Magic Find§7.",
           "",
           "§6Sources:",
-          " §7- Enchantment Table (§aI-III§7)",
-          " §7- Season of Jerry (§aIV§7)",
-          " §7- Experiments (§aIV-V§7)",
-          " §7- Bazaar (§aIV-V§7)",
+          " §7- Enchantment Table (§aI-V§7)",
+          " §7- Einary's Shop (§aVI§7)",
+          " §7- Bazaar (§aVI-VII§7)",
+          " §7- Sphinx (§aVII§7)",
           "",
           "§6Applied To:",
           " §7- §fFishing Rod",
           " §7- §fSword",
+          " §7- §fPickaxe",
+          " §7- §fAxe",
           " §7- §fLongsword",
+          " §7- §fDrill",
           " §7- §fGauntlet",
+          " §7- §fBow",
+          "",
           "§f§lCOMMON"
         ],
         "item": {
@@ -30942,7 +30953,7 @@
           "components": {
             "minecraft:custom_data": {
               "enchantments": {
-                "looting": 2
+                "looting_new": 2
               },
               "id": "ENCHANTED_BOOK"
             },
@@ -30961,13 +30972,7 @@
                 "text": "§9Looting II"
               },
               {
-                "text": "§7Increases the chance of a"
-              },
-              {
-                "text": "§7Monster dropping an item by"
-              },
-              {
-                "text": "§a30%§7."
+                "text": "§7Grants §b+5 Magic Find§7."
               },
               {
                 "text": ""
@@ -30976,16 +30981,16 @@
                 "text": "§6Sources:"
               },
               {
-                "text": " §7- Enchantment Table (§aI-III§7)"
+                "text": " §7- Enchantment Table (§aI-V§7)"
               },
               {
-                "text": " §7- Season of Jerry (§aIV§7)"
+                "text": " §7- Einary's Shop (§aVI§7)"
               },
               {
-                "text": " §7- Experiments (§aIV-V§7)"
+                "text": " §7- Bazaar (§aVI-VII§7)"
               },
               {
-                "text": " §7- Bazaar (§aIV-V§7)"
+                "text": " §7- Sphinx (§aVII§7)"
               },
               {
                 "text": ""
@@ -31000,10 +31005,25 @@
                 "text": " §7- §fSword"
               },
               {
+                "text": " §7- §fPickaxe"
+              },
+              {
+                "text": " §7- §fAxe"
+              },
+              {
                 "text": " §7- §fLongsword"
               },
               {
+                "text": " §7- §fDrill"
+              },
+              {
                 "text": " §7- §fGauntlet"
+              },
+              {
+                "text": " §7- §fBow"
+              },
+              {
+                "text": ""
               },
               {
                 "text": "§f§lCOMMON"
@@ -31026,21 +31046,23 @@
           "§8Combinable in Anvil",
           "",
           "§9Looting III",
-          "§7Increases the chance of a",
-          "§7Monster dropping an item by",
-          "§a45%§7.",
+          "§7Grants §b+7.5 Magic Find§7.",
           "",
           "§6Sources:",
-          " §7- Enchantment Table (§aI-III§7)",
-          " §7- Season of Jerry (§aIV§7)",
-          " §7- Experiments (§aIV-V§7)",
-          " §7- Bazaar (§aIV-V§7)",
+          " §7- Enchantment Table (§aI-V§7)",
+          " §7- Einary's Shop (§aVI§7)",
+          " §7- Bazaar (§aVI-VII§7)",
+          " §7- Sphinx (§aVII§7)",
           "",
           "§6Applied To:",
           " §7- §fFishing Rod",
           " §7- §fSword",
+          " §7- §fPickaxe",
+          " §7- §fAxe",
           " §7- §fLongsword",
+          " §7- §fDrill",
           " §7- §fGauntlet",
+          " §7- §fBow",
           "",
           "§f§lCOMMON"
         ],
@@ -31049,7 +31071,7 @@
           "components": {
             "minecraft:custom_data": {
               "enchantments": {
-                "looting": 3
+                "looting_new": 3
               },
               "id": "ENCHANTED_BOOK"
             },
@@ -31068,13 +31090,7 @@
                 "text": "§9Looting III"
               },
               {
-                "text": "§7Increases the chance of a"
-              },
-              {
-                "text": "§7Monster dropping an item by"
-              },
-              {
-                "text": "§a45%§7."
+                "text": "§7Grants §b+7.5 Magic Find§7."
               },
               {
                 "text": ""
@@ -31083,16 +31099,16 @@
                 "text": "§6Sources:"
               },
               {
-                "text": " §7- Enchantment Table (§aI-III§7)"
+                "text": " §7- Enchantment Table (§aI-V§7)"
               },
               {
-                "text": " §7- Season of Jerry (§aIV§7)"
+                "text": " §7- Einary's Shop (§aVI§7)"
               },
               {
-                "text": " §7- Experiments (§aIV-V§7)"
+                "text": " §7- Bazaar (§aVI-VII§7)"
               },
               {
-                "text": " §7- Bazaar (§aIV-V§7)"
+                "text": " §7- Sphinx (§aVII§7)"
               },
               {
                 "text": ""
@@ -31107,10 +31123,22 @@
                 "text": " §7- §fSword"
               },
               {
+                "text": " §7- §fPickaxe"
+              },
+              {
+                "text": " §7- §fAxe"
+              },
+              {
                 "text": " §7- §fLongsword"
               },
               {
+                "text": " §7- §fDrill"
+              },
+              {
                 "text": " §7- §fGauntlet"
+              },
+              {
+                "text": " §7- §fBow"
               },
               {
                 "text": ""
@@ -31136,21 +31164,23 @@
           "§8Combinable in Anvil",
           "",
           "§9Looting IV",
-          "§7Increases the chance of a",
-          "§7Monster dropping an item by",
-          "§a60%§7.",
+          "§7Grants §b+10 Magic Find§7.",
           "",
           "§6Sources:",
-          " §7- Enchantment Table (§aI-III§7)",
-          " §7- Season of Jerry (§aIV§7)",
-          " §7- Experiments (§aIV-V§7)",
-          " §7- Bazaar (§aIV-V§7)",
+          " §7- Enchantment Table (§aI-V§7)",
+          " §7- Einary's Shop (§aVI§7)",
+          " §7- Bazaar (§aVI-VII§7)",
+          " §7- Sphinx (§aVII§7)",
           "",
           "§6Applied To:",
           " §7- §fFishing Rod",
           " §7- §fSword",
+          " §7- §fPickaxe",
+          " §7- §fAxe",
           " §7- §fLongsword",
+          " §7- §fDrill",
           " §7- §fGauntlet",
+          " §7- §fBow",
           "",
           "§f§lCOMMON"
         ],
@@ -31159,7 +31189,7 @@
           "components": {
             "minecraft:custom_data": {
               "enchantments": {
-                "looting": 4
+                "looting_new": 4
               },
               "id": "ENCHANTED_BOOK"
             },
@@ -31178,13 +31208,7 @@
                 "text": "§9Looting IV"
               },
               {
-                "text": "§7Increases the chance of a"
-              },
-              {
-                "text": "§7Monster dropping an item by"
-              },
-              {
-                "text": "§a60%§7."
+                "text": "§7Grants §b+10 Magic Find§7."
               },
               {
                 "text": ""
@@ -31193,16 +31217,16 @@
                 "text": "§6Sources:"
               },
               {
-                "text": " §7- Enchantment Table (§aI-III§7)"
+                "text": " §7- Enchantment Table (§aI-V§7)"
               },
               {
-                "text": " §7- Season of Jerry (§aIV§7)"
+                "text": " §7- Einary's Shop (§aVI§7)"
               },
               {
-                "text": " §7- Experiments (§aIV-V§7)"
+                "text": " §7- Bazaar (§aVI-VII§7)"
               },
               {
-                "text": " §7- Bazaar (§aIV-V§7)"
+                "text": " §7- Sphinx (§aVII§7)"
               },
               {
                 "text": ""
@@ -31217,10 +31241,22 @@
                 "text": " §7- §fSword"
               },
               {
+                "text": " §7- §fPickaxe"
+              },
+              {
+                "text": " §7- §fAxe"
+              },
+              {
                 "text": " §7- §fLongsword"
               },
               {
+                "text": " §7- §fDrill"
+              },
+              {
                 "text": " §7- §fGauntlet"
+              },
+              {
+                "text": " §7- §fBow"
               },
               {
                 "text": ""
@@ -31246,21 +31282,23 @@
           "§8Combinable in Anvil",
           "",
           "§9Looting V",
-          "§7Increases the chance of a",
-          "§7Monster dropping an item by",
-          "§a75%§7.",
+          "§7Grants §b+15 Magic Find§7.",
           "",
           "§6Sources:",
-          " §7- Enchantment Table (§aI-III§7)",
-          " §7- Season of Jerry (§aIV§7)",
-          " §7- Experiments (§aIV-V§7)",
-          " §7- Bazaar (§aIV-V§7)",
+          " §7- Enchantment Table (§aI-V§7)",
+          " §7- Einary's Shop (§aVI§7)",
+          " §7- Bazaar (§aVI-VII§7)",
+          " §7- Sphinx (§aVII§7)",
           "",
           "§6Applied To:",
           " §7- §fFishing Rod",
           " §7- §fSword",
+          " §7- §fPickaxe",
+          " §7- §fAxe",
           " §7- §fLongsword",
+          " §7- §fDrill",
           " §7- §fGauntlet",
+          " §7- §fBow",
           "",
           "§a§lUNCOMMON"
         ],
@@ -31269,7 +31307,7 @@
           "components": {
             "minecraft:custom_data": {
               "enchantments": {
-                "looting": 5
+                "looting_new": 5
               },
               "id": "ENCHANTED_BOOK"
             },
@@ -31288,13 +31326,7 @@
                 "text": "§9Looting V"
               },
               {
-                "text": "§7Increases the chance of a"
-              },
-              {
-                "text": "§7Monster dropping an item by"
-              },
-              {
-                "text": "§a75%§7."
+                "text": "§7Grants §b+15 Magic Find§7."
               },
               {
                 "text": ""
@@ -31303,16 +31335,16 @@
                 "text": "§6Sources:"
               },
               {
-                "text": " §7- Enchantment Table (§aI-III§7)"
+                "text": " §7- Enchantment Table (§aI-V§7)"
               },
               {
-                "text": " §7- Season of Jerry (§aIV§7)"
+                "text": " §7- Einary's Shop (§aVI§7)"
               },
               {
-                "text": " §7- Experiments (§aIV-V§7)"
+                "text": " §7- Bazaar (§aVI-VII§7)"
               },
               {
-                "text": " §7- Bazaar (§aIV-V§7)"
+                "text": " §7- Sphinx (§aVII§7)"
               },
               {
                 "text": ""
@@ -31327,10 +31359,22 @@
                 "text": " §7- §fSword"
               },
               {
+                "text": " §7- §fPickaxe"
+              },
+              {
+                "text": " §7- §fAxe"
+              },
+              {
                 "text": " §7- §fLongsword"
               },
               {
+                "text": " §7- §fDrill"
+              },
+              {
                 "text": " §7- §fGauntlet"
+              },
+              {
+                "text": " §7- §fBow"
               },
               {
                 "text": ""
@@ -31347,6 +31391,260 @@
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+          }
+        }
+      },
+      {
+        "level": 6,
+        "literal_level": "VI",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Looting VI",
+          "§7Grants §b+20 Magic Find§7.",
+          "",
+          "§6Sources:",
+          " §7- Enchantment Table (§aI-V§7)",
+          " §7- Einary's Shop (§aVI§7)",
+          " §7- Bazaar (§aVI-VII§7)",
+          " §7- Sphinx (§aVII§7)",
+          "",
+          "§6Applied To:",
+          " §7- §fFishing Rod",
+          " §7- §fSword",
+          " §7- §fPickaxe",
+          " §7- §fAxe",
+          " §7- §fLongsword",
+          " §7- §fDrill",
+          " §7- §fGauntlet",
+          " §7- §fBow",
+          "",
+          "§9§lRARE"
+        ],
+        "item": {
+          "id": "minecraft:enchanted_book",
+          "components": {
+            "minecraft:custom_data": {
+              "enchantments": {
+                "looting_new": 6
+              },
+              "id": "ENCHANTED_BOOK"
+            },
+            "minecraft:custom_name": {
+              "text": "§9Enchanted Book"
+            },
+            "minecraft:lore": [
+              {
+                "text": "§8Combinable in Anvil"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§9Looting VI"
+              },
+              {
+                "text": "§7Grants §b+20 Magic Find§7."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Sources:"
+              },
+              {
+                "text": " §7- Enchantment Table (§aI-V§7)"
+              },
+              {
+                "text": " §7- Einary's Shop (§aVI§7)"
+              },
+              {
+                "text": " §7- Bazaar (§aVI-VII§7)"
+              },
+              {
+                "text": " §7- Sphinx (§aVII§7)"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Applied To:"
+              },
+              {
+                "text": " §7- §fFishing Rod"
+              },
+              {
+                "text": " §7- §fSword"
+              },
+              {
+                "text": " §7- §fPickaxe"
+              },
+              {
+                "text": " §7- §fAxe"
+              },
+              {
+                "text": " §7- §fLongsword"
+              },
+              {
+                "text": " §7- §fDrill"
+              },
+              {
+                "text": " §7- §fGauntlet"
+              },
+              {
+                "text": " §7- §fBow"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§9§lRARE"
+              }
+            ],
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:attribute_modifiers",
+                "minecraft:banner_patterns",
+                "minecraft:charged_projectiles",
+                "minecraft:dyed_color",
+                "minecraft:fireworks",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:painting/variant",
+                "minecraft:potion_contents",
+                "minecraft:trim",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content"
+              ]
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:rare"
+          }
+        }
+      },
+      {
+        "level": 7,
+        "literal_level": "VII",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§9Looting VII",
+          "§7Grants §b+25 Magic Find§7.",
+          "",
+          "§6Sources:",
+          " §7- Enchantment Table (§aI-V§7)",
+          " §7- Einary's Shop (§aVI§7)",
+          " §7- Bazaar (§aVI-VII§7)",
+          " §7- Sphinx (§aVII§7)",
+          "",
+          "§6Applied To:",
+          " §7- §fFishing Rod",
+          " §7- §fSword",
+          " §7- §fPickaxe",
+          " §7- §fAxe",
+          " §7- §fLongsword",
+          " §7- §fDrill",
+          " §7- §fGauntlet",
+          " §7- §fBow",
+          "",
+          "§5§lEPIC"
+        ],
+        "item": {
+          "id": "minecraft:enchanted_book",
+          "components": {
+            "minecraft:custom_data": {
+              "enchantments": {
+                "looting_new": 7
+              },
+              "id": "ENCHANTED_BOOK"
+            },
+            "minecraft:custom_name": {
+              "text": "§5Enchanted Book"
+            },
+            "minecraft:lore": [
+              {
+                "text": "§8Combinable in Anvil"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§9Looting VII"
+              },
+              {
+                "text": "§7Grants §b+25 Magic Find§7."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Sources:"
+              },
+              {
+                "text": " §7- Enchantment Table (§aI-V§7)"
+              },
+              {
+                "text": " §7- Einary's Shop (§aVI§7)"
+              },
+              {
+                "text": " §7- Bazaar (§aVI-VII§7)"
+              },
+              {
+                "text": " §7- Sphinx (§aVII§7)"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Applied To:"
+              },
+              {
+                "text": " §7- §fFishing Rod"
+              },
+              {
+                "text": " §7- §fSword"
+              },
+              {
+                "text": " §7- §fPickaxe"
+              },
+              {
+                "text": " §7- §fAxe"
+              },
+              {
+                "text": " §7- §fLongsword"
+              },
+              {
+                "text": " §7- §fDrill"
+              },
+              {
+                "text": " §7- §fGauntlet"
+              },
+              {
+                "text": " §7- §fBow"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§5§lEPIC"
+              }
+            ],
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:attribute_modifiers",
+                "minecraft:banner_patterns",
+                "minecraft:charged_projectiles",
+                "minecraft:dyed_color",
+                "minecraft:fireworks",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:painting/variant",
+                "minecraft:potion_contents",
+                "minecraft:trim",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content"
+              ]
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:epic"
           }
         }
       }
@@ -50972,14 +51270,15 @@
           "§4Infernal§7 mobs by §a5%§7.",
           "",
           "§6Sources:",
-          " §7- Smoldering Blazes (§aI§7)",
-          " §7- Bazaar (§aI-V§7)",
+          " §7- Enchantment Table (§aI-V§7)",
+          " §7- Inferno Demonlord (§aVI§7)",
+          " §7- Bazaar (§aVI§7)",
           "",
           "§6Applied To:",
           " §7- §fSword",
           " §7- §fLongsword",
-          " §7- §fGauntlet",
           " §7- §fBow",
+          " §7- §fGauntlet",
           "",
           "§6Requirements:",
           " §7- §bEnchanting Level 23",
@@ -51022,10 +51321,13 @@
                 "text": "§6Sources:"
               },
               {
-                "text": " §7- Smoldering Blazes (§aI§7)"
+                "text": " §7- Enchantment Table (§aI-V§7)"
               },
               {
-                "text": " §7- Bazaar (§aI-V§7)"
+                "text": " §7- Inferno Demonlord (§aVI§7)"
+              },
+              {
+                "text": " §7- Bazaar (§aVI§7)"
               },
               {
                 "text": ""
@@ -51040,10 +51342,10 @@
                 "text": " §7- §fLongsword"
               },
               {
-                "text": " §7- §fGauntlet"
+                "text": " §7- §fBow"
               },
               {
-                "text": " §7- §fBow"
+                "text": " §7- §fGauntlet"
               },
               {
                 "text": ""
@@ -51082,14 +51384,15 @@
           "§4Infernal§7 mobs by §a10%§7.",
           "",
           "§6Sources:",
-          " §7- Smoldering Blazes (§aI§7)",
-          " §7- Bazaar (§aI-V§7)",
+          " §7- Enchantment Table (§aI-V§7)",
+          " §7- Inferno Demonlord (§aVI§7)",
+          " §7- Bazaar (§aVI§7)",
           "",
           "§6Applied To:",
           " §7- §fSword",
           " §7- §fLongsword",
-          " §7- §fGauntlet",
           " §7- §fBow",
+          " §7- §fGauntlet",
           "",
           "§6Requirements:",
           " §7- §bEnchanting Level 23",
@@ -51132,10 +51435,13 @@
                 "text": "§6Sources:"
               },
               {
-                "text": " §7- Smoldering Blazes (§aI§7)"
+                "text": " §7- Enchantment Table (§aI-V§7)"
               },
               {
-                "text": " §7- Bazaar (§aI-V§7)"
+                "text": " §7- Inferno Demonlord (§aVI§7)"
+              },
+              {
+                "text": " §7- Bazaar (§aVI§7)"
               },
               {
                 "text": ""
@@ -51150,10 +51456,10 @@
                 "text": " §7- §fLongsword"
               },
               {
-                "text": " §7- §fGauntlet"
+                "text": " §7- §fBow"
               },
               {
-                "text": " §7- §fBow"
+                "text": " §7- §fGauntlet"
               },
               {
                 "text": ""
@@ -51192,14 +51498,15 @@
           "§4Infernal§7 mobs by §a15%§7.",
           "",
           "§6Sources:",
-          " §7- Smoldering Blazes (§aI§7)",
-          " §7- Bazaar (§aI-V§7)",
+          " §7- Enchantment Table (§aI-V§7)",
+          " §7- Inferno Demonlord (§aVI§7)",
+          " §7- Bazaar (§aVI§7)",
           "",
           "§6Applied To:",
           " §7- §fSword",
           " §7- §fLongsword",
-          " §7- §fGauntlet",
           " §7- §fBow",
+          " §7- §fGauntlet",
           "",
           "§6Requirements:",
           " §7- §bEnchanting Level 23",
@@ -51242,10 +51549,13 @@
                 "text": "§6Sources:"
               },
               {
-                "text": " §7- Smoldering Blazes (§aI§7)"
+                "text": " §7- Enchantment Table (§aI-V§7)"
               },
               {
-                "text": " §7- Bazaar (§aI-V§7)"
+                "text": " §7- Inferno Demonlord (§aVI§7)"
+              },
+              {
+                "text": " §7- Bazaar (§aVI§7)"
               },
               {
                 "text": ""
@@ -51260,10 +51570,10 @@
                 "text": " §7- §fLongsword"
               },
               {
-                "text": " §7- §fGauntlet"
+                "text": " §7- §fBow"
               },
               {
-                "text": " §7- §fBow"
+                "text": " §7- §fGauntlet"
               },
               {
                 "text": ""
@@ -51302,14 +51612,15 @@
           "§4Infernal§7 mobs by §a20%§7.",
           "",
           "§6Sources:",
-          " §7- Smoldering Blazes (§aI§7)",
-          " §7- Bazaar (§aI-V§7)",
+          " §7- Enchantment Table (§aI-V§7)",
+          " §7- Inferno Demonlord (§aVI§7)",
+          " §7- Bazaar (§aVI§7)",
           "",
           "§6Applied To:",
           " §7- §fSword",
           " §7- §fLongsword",
-          " §7- §fGauntlet",
           " §7- §fBow",
+          " §7- §fGauntlet",
           "",
           "§6Requirements:",
           " §7- §bEnchanting Level 23",
@@ -51352,10 +51663,13 @@
                 "text": "§6Sources:"
               },
               {
-                "text": " §7- Smoldering Blazes (§aI§7)"
+                "text": " §7- Enchantment Table (§aI-V§7)"
               },
               {
-                "text": " §7- Bazaar (§aI-V§7)"
+                "text": " §7- Inferno Demonlord (§aVI§7)"
+              },
+              {
+                "text": " §7- Bazaar (§aVI§7)"
               },
               {
                 "text": ""
@@ -51370,10 +51684,10 @@
                 "text": " §7- §fLongsword"
               },
               {
-                "text": " §7- §fGauntlet"
+                "text": " §7- §fBow"
               },
               {
-                "text": " §7- §fBow"
+                "text": " §7- §fGauntlet"
               },
               {
                 "text": ""
@@ -51412,14 +51726,15 @@
           "§4Infernal§7 mobs by §a30%§7.",
           "",
           "§6Sources:",
-          " §7- Smoldering Blazes (§aI§7)",
-          " §7- Bazaar (§aI-V§7)",
+          " §7- Enchantment Table (§aI-V§7)",
+          " §7- Inferno Demonlord (§aVI§7)",
+          " §7- Bazaar (§aVI§7)",
           "",
           "§6Applied To:",
           " §7- §fSword",
           " §7- §fLongsword",
-          " §7- §fGauntlet",
           " §7- §fBow",
+          " §7- §fGauntlet",
           "",
           "§6Requirements:",
           " §7- §bEnchanting Level 23",
@@ -51462,10 +51777,13 @@
                 "text": "§6Sources:"
               },
               {
-                "text": " §7- Smoldering Blazes (§aI§7)"
+                "text": " §7- Enchantment Table (§aI-V§7)"
               },
               {
-                "text": " §7- Bazaar (§aI-V§7)"
+                "text": " §7- Inferno Demonlord (§aVI§7)"
+              },
+              {
+                "text": " §7- Bazaar (§aVI§7)"
               },
               {
                 "text": ""
@@ -51480,10 +51798,10 @@
                 "text": " §7- §fLongsword"
               },
               {
-                "text": " §7- §fGauntlet"
+                "text": " §7- §fBow"
               },
               {
-                "text": " §7- §fBow"
+                "text": " §7- §fGauntlet"
               },
               {
                 "text": ""
@@ -51508,6 +51826,129 @@
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+          }
+        }
+      },
+      {
+        "level": 6,
+        "literal_level": "VI",
+        "lore": [
+          "§8Combinable in Anvil",
+          "",
+          "§7Smoldering VI",
+          "§7Increases damage dealt to §4",
+          "§4Infernal§7 mobs by §a40%§7.",
+          "",
+          "§6Sources:",
+          " §7- Enchantment Table (§aI-V§7)",
+          " §7- Inferno Demonlord (§aVI§7)",
+          " §7- Bazaar (§aVI§7)",
+          "",
+          "§6Applied To:",
+          " §7- §fSword",
+          " §7- §fLongsword",
+          " §7- §fBow",
+          " §7- §fGauntlet",
+          "",
+          "§6Requirements:",
+          " §7- §bEnchanting Level 23",
+          "",
+          "§9§lRARE"
+        ],
+        "item": {
+          "id": "minecraft:enchanted_book",
+          "components": {
+            "minecraft:custom_data": {
+              "enchantments": {
+                "smoldering": 6
+              },
+              "id": "ENCHANTED_BOOK"
+            },
+            "minecraft:custom_name": {
+              "text": "§9Enchanted Book"
+            },
+            "minecraft:lore": [
+              {
+                "text": "§8Combinable in Anvil"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§7Smoldering VI"
+              },
+              {
+                "text": "§7Increases damage dealt to §4"
+              },
+              {
+                "text": "§4Infernal§7 mobs by §a40%§7."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Sources:"
+              },
+              {
+                "text": " §7- Enchantment Table (§aI-V§7)"
+              },
+              {
+                "text": " §7- Inferno Demonlord (§aVI§7)"
+              },
+              {
+                "text": " §7- Bazaar (§aVI§7)"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Applied To:"
+              },
+              {
+                "text": " §7- §fSword"
+              },
+              {
+                "text": " §7- §fLongsword"
+              },
+              {
+                "text": " §7- §fBow"
+              },
+              {
+                "text": " §7- §fGauntlet"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Requirements:"
+              },
+              {
+                "text": " §7- §bEnchanting Level 23"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§9§lRARE"
+              }
+            ],
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:attribute_modifiers",
+                "minecraft:banner_patterns",
+                "minecraft:charged_projectiles",
+                "minecraft:dyed_color",
+                "minecraft:fireworks",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:painting/variant",
+                "minecraft:potion_contents",
+                "minecraft:trim",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content"
+              ]
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:rare"
           }
         }
       }
@@ -70200,9 +70641,12 @@
           "§8Combinable in Anvil",
           "",
           "§d§lBobbin' Time III",
-          "§7Increases all §bFishing Stats §7and §b Magic Find §7by",
-          "§b+0.6% §7per fishing bobber within §a30 blocks§7, up to",
-          "§b5 §7bobbers.",
+          "§7Grants the following stats for each",
+          "§7bobber within §a30 blocks§7, up to §b5",
+          "§7bobbers.",
+          "§8• §b+0.6% §7to all §bFishing Stats§7.",
+          "§8• §d+0.6 Tracking §7on §3Sea Creatures§7.",
+          "§8• §b+0.6 Magic Find §7on §3Sea Creatures§7.",
           "",
           "§cYou can only have 1 Ultimate",
           "§cEnchantment on an item!",
@@ -70243,13 +70687,22 @@
                 "text": "§d§lBobbin' Time III"
               },
               {
-                "text": "§7Increases all §bFishing Stats §7and §b Magic Find §7by"
+                "text": "§7Grants the following stats for each"
               },
               {
-                "text": "§b+0.6% §7per fishing bobber within §a30 blocks§7, up to"
+                "text": "§7bobber within §a30 blocks§7, up to §b5"
               },
               {
-                "text": "§b5 §7bobbers."
+                "text": "§7bobbers."
+              },
+              {
+                "text": "§8• §b+0.6% §7to all §bFishing Stats§7."
+              },
+              {
+                "text": "§8• §d+0.6 Tracking §7on §3Sea Creatures§7."
+              },
+              {
+                "text": "§8• §b+0.6 Magic Find §7on §3Sea Creatures§7."
               },
               {
                 "text": ""
@@ -70314,9 +70767,12 @@
           "§8Combinable in Anvil",
           "",
           "§d§lBobbin' Time IV",
-          "§7Increases all §bFishing Stats §7and §b Magic Find §7by",
-          "§b+0.8% §7per fishing bobber within §a30 blocks§7, up to",
-          "§b5 §7bobbers.",
+          "§7Grants the following stats for each",
+          "§7bobber within §a30 blocks§7, up to §b5",
+          "§7bobbers.",
+          "§8• §b+0.8% §7to all §bFishing Stats§7.",
+          "§8• §d+0.8 Tracking §7on §3Sea Creatures§7.",
+          "§8• §b+0.8 Magic Find §7on §3Sea Creatures§7.",
           "",
           "§cYou can only have 1 Ultimate",
           "§cEnchantment on an item!",
@@ -70357,13 +70813,22 @@
                 "text": "§d§lBobbin' Time IV"
               },
               {
-                "text": "§7Increases all §bFishing Stats §7and §b Magic Find §7by"
+                "text": "§7Grants the following stats for each"
               },
               {
-                "text": "§b+0.8% §7per fishing bobber within §a30 blocks§7, up to"
+                "text": "§7bobber within §a30 blocks§7, up to §b5"
               },
               {
-                "text": "§b5 §7bobbers."
+                "text": "§7bobbers."
+              },
+              {
+                "text": "§8• §b+0.8% §7to all §bFishing Stats§7."
+              },
+              {
+                "text": "§8• §d+0.8 Tracking §7on §3Sea Creatures§7."
+              },
+              {
+                "text": "§8• §b+0.8 Magic Find §7on §3Sea Creatures§7."
               },
               {
                 "text": ""
@@ -70428,9 +70893,12 @@
           "§8Combinable in Anvil",
           "",
           "§d§lBobbin' Time V",
-          "§7Increases all §bFishing Stats §7and §b Magic Find §7by",
-          "§b1.0% §7per fishing bobber within §a30 blocks§7, up to",
-          "§b5 §7bobbers.",
+          "§7Grants the following stats for each",
+          "§7bobber within §a30 blocks§7, up to §b5",
+          "§7bobbers.",
+          "§8• §b+1% §7to all §bFishing Stats§7.",
+          "§8• §d+1 Tracking §7on §3Sea Creatures§7.",
+          "§8• §b+1 Magic Find §7on §3Sea Creatures§7.",
           "",
           "§cYou can only have 1 Ultimate",
           "§cEnchantment on an item!",
@@ -70456,7 +70924,6 @@
               },
               "id": "ENCHANTED_BOOK"
             },
-            "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
               "text": "§aEnchanted Book"
             },
@@ -70471,13 +70938,22 @@
                 "text": "§d§lBobbin' Time V"
               },
               {
-                "text": "§7Increases all §bFishing Stats §7and §b Magic Find §7by"
+                "text": "§7Grants the following stats for each"
               },
               {
-                "text": "§b1.0% §7per fishing bobber within §a30 blocks§7, up to"
+                "text": "§7bobber within §a30 blocks§7, up to §b5"
               },
               {
-                "text": "§b5 §7bobbers."
+                "text": "§7bobbers."
+              },
+              {
+                "text": "§8• §b+1% §7to all §bFishing Stats§7."
+              },
+              {
+                "text": "§8• §d+1 Tracking §7on §3Sea Creatures§7."
+              },
+              {
+                "text": "§8• §b+1 Magic Find §7on §3Sea Creatures§7."
               },
               {
                 "text": ""
@@ -70527,8 +71003,18 @@
             ],
             "minecraft:tooltip_display": {
               "hidden_components": [
+                "minecraft:attribute_modifiers",
+                "minecraft:banner_patterns",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
-                "minecraft:stored_enchantments"
+                "minecraft:fireworks",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:painting/variant",
+                "minecraft:potion_contents",
+                "minecraft:trim",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
@@ -74732,12 +75218,13 @@
           "",
           "§d§lHabanero Tactics IV",
           "§8ℏ §7Heal §a+6% §7more from wands.",
-          "§8ℏ §7Deal §c+20% damage §7against Slayer Bosses",
-          "§7with Slayer weapons.",
-          "§8ℏ §7Gain §3+2.5☯ Combat Wisdom §7with Slayer",
-          "§7weapons.",
-          "§8ℏ §7With §aSmoldering Polarization§7, gain §b+10",
-          "§bMagic Find §7on your slayer weapon.",
+          "§8ℏ §7Deal §c+20% damage §7against §4Slayer Bosses",
+          "§7with §4Slayer Weapons§7.",
+          "§8ℏ §7Gain §3+2.5☯ Combat Wisdom §7with §4Slayer",
+          "§4Weapons§7.",
+          "§8ℏ §7Gain §b+4 Magic Find §7while killing §4Slayer",
+          "§4Bosses §7with §4Slayer Weapons §7if §aSmoldering",
+          "§aPolarization§7 is active.",
           "",
           "§cYou can only have 1 Ultimate",
           "§cEnchantment on an item!",
@@ -74780,22 +75267,25 @@
                 "text": "§8ℏ §7Heal §a+6% §7more from wands."
               },
               {
-                "text": "§8ℏ §7Deal §c+20% damage §7against Slayer Bosses"
+                "text": "§8ℏ §7Deal §c+20% damage §7against §4Slayer Bosses"
               },
               {
-                "text": "§7with Slayer weapons."
+                "text": "§7with §4Slayer Weapons§7."
               },
               {
-                "text": "§8ℏ §7Gain §3+2.5☯ Combat Wisdom §7with Slayer"
+                "text": "§8ℏ §7Gain §3+2.5☯ Combat Wisdom §7with §4Slayer"
               },
               {
-                "text": "§7weapons."
+                "text": "§4Weapons§7."
               },
               {
-                "text": "§8ℏ §7With §aSmoldering Polarization§7, gain §b+10"
+                "text": "§8ℏ §7Gain §b+4 Magic Find §7while killing §4Slayer"
               },
               {
-                "text": "§bMagic Find §7on your slayer weapon."
+                "text": "§4Bosses §7with §4Slayer Weapons §7if §aSmoldering"
+              },
+              {
+                "text": "§aPolarization§7 is active."
               },
               {
                 "text": ""
@@ -74873,12 +75363,13 @@
           "",
           "§d§lHabanero Tactics V",
           "§8ℏ §7Heal §a+7.5% §7more from wands.",
-          "§8ℏ §7Deal §c+25% damage §7against Slayer Bosses",
-          "§7with Slayer weapons.",
-          "§8ℏ §7Gain §3+5☯ Combat Wisdom §7with Slayer",
-          "§7weapons.",
-          "§8ℏ §7With §aSmoldering Polarization§7, gain §b+15",
-          "§bMagic Find §7on your slayer weapon.",
+          "§8ℏ §7Deal §c+25% damage §7against §4Slayer Bosses",
+          "§7with §4Slayer Weapons§7.",
+          "§8ℏ §7Gain §3+5☯ Combat Wisdom §7with §4Slayer",
+          "§4Weapons§7.",
+          "§8ℏ §7Gain §b+5 Magic Find §7while killing §4Slayer",
+          "§4Bosses §7with §4Slayer Weapons §7if §aSmoldering",
+          "§aPolarization§7 is active.",
           "",
           "§cYou can only have 1 Ultimate",
           "§cEnchantment on an item!",
@@ -74904,7 +75395,6 @@
               },
               "id": "ENCHANTED_BOOK"
             },
-            "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
               "text": "§aEnchanted Book"
             },
@@ -74922,22 +75412,25 @@
                 "text": "§8ℏ §7Heal §a+7.5% §7more from wands."
               },
               {
-                "text": "§8ℏ §7Deal §c+25% damage §7against Slayer Bosses"
+                "text": "§8ℏ §7Deal §c+25% damage §7against §4Slayer Bosses"
               },
               {
-                "text": "§7with Slayer weapons."
+                "text": "§7with §4Slayer Weapons§7."
               },
               {
-                "text": "§8ℏ §7Gain §3+5☯ Combat Wisdom §7with Slayer"
+                "text": "§8ℏ §7Gain §3+5☯ Combat Wisdom §7with §4Slayer"
               },
               {
-                "text": "§7weapons."
+                "text": "§4Weapons§7."
               },
               {
-                "text": "§8ℏ §7With §aSmoldering Polarization§7, gain §b+15"
+                "text": "§8ℏ §7Gain §b+5 Magic Find §7while killing §4Slayer"
               },
               {
-                "text": "§bMagic Find §7on your slayer weapon."
+                "text": "§4Bosses §7with §4Slayer Weapons §7if §aSmoldering"
+              },
+              {
+                "text": "§aPolarization§7 is active."
               },
               {
                 "text": ""
@@ -74988,11 +75481,20 @@
             "minecraft:tooltip_display": {
               "hidden_components": [
                 "minecraft:attribute_modifiers",
+                "minecraft:banner_patterns",
+                "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
-                "minecraft:stored_enchantments"
+                "minecraft:fireworks",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:painting/variant",
+                "minecraft:potion_contents",
+                "minecraft:trim",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content"
               ]
             },
-            "minecraft:tooltip_style": "hypixel_skyblock:common"
+            "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
           }
         }
       }

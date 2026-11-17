@@ -31,10 +31,10 @@
             "text": "§aPathfinder"
           },
           {
-            "text": "§7Gain rare drops §d20% §7more"
+            "text": "§7Gain §b+20 Magic Find§7, doubled on"
           },
           {
-            "text": "§7often."
+            "text": "§4Slayer Bosses§7."
           },
           {
             "text": ""
@@ -43,10 +43,10 @@
             "text": "§aSLASHED Pricing"
           },
           {
-            "text": "§7Starting slayer quests is"
+            "text": "§7Starting slayer quests is §ehalf"
           },
           {
-            "text": "§ehalf price§7."
+            "text": "§eprice§7."
           }
         ],
         "minecraft:profile": {
@@ -49787,7 +49787,15 @@
           },
           {
             "id": "BRAIN_FOOD",
-            "chance": 0.0025,
+            "chance": 0.005,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "enchantment",
+            "id": "LOOTING_NEW",
+            "level": 7,
+            "chance": 0.005,
             "minAmount": 1,
             "maxAmount": 1
           },
@@ -49832,6 +49840,14 @@
           },
           {
             "id": "BRAIN_FOOD",
+            "chance": 0.01,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "enchantment",
+            "id": "LOOTING_NEW",
+            "level": 7,
             "chance": 0.005,
             "minAmount": 1,
             "maxAmount": 1

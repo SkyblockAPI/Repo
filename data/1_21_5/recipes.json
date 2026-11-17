@@ -20030,30 +20030,13 @@
       {
         "type": "currency",
         "currency": "NORTH_STAR",
-        "count": 10
+        "count": 25
       }
     ],
     "result": {
       "type": "enchantment",
-      "id": "LUCK",
+      "id": "LOOTING_NEW",
       "level": 6,
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "npc": "EINARY_NPC",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "NORTH_STAR",
-        "count": 10
-      }
-    ],
-    "result": {
-      "type": "enchantment",
-      "id": "LOOTING",
-      "level": 4,
       "count": 1
     }
   },
@@ -20642,6 +20625,10 @@
         "type": "currency",
         "currency": "BIT",
         "count": 25000
+      },
+      {
+        "id": "ABICASE_SUMSUNG_1",
+        "count": 1
       }
     ],
     "result": {
@@ -47298,10 +47285,6 @@
       {
         "id": "STRING",
         "count": 1
-      },
-      {
-        "id": "SLIME_BALL",
-        "count": 1
       }
     ],
     "pattern": [
@@ -47309,7 +47292,7 @@
       0,
       -1,
       0,
-      1,
+      0,
       -1,
       -1,
       -1,
@@ -47317,7 +47300,7 @@
     ],
     "result": {
       "id": "LEASH",
-      "count": 1
+      "count": 2
     }
   },
   {
@@ -63053,27 +63036,119 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_REDSTONE",
-        "count": 4
-      },
-      {
-        "id": "SUPER_COMPACTOR_3000",
+        "id": "ENCHANTED_SPIDER_EYE",
         "count": 1
       }
     ],
     "pattern": [
+      -1,
       0,
-      0,
-      0,
+      -1,
       0,
       -1,
       0,
       0,
-      1,
+      0,
       0
     ],
     "result": {
-      "id": "PERSONAL_COMPACTOR_4000",
+      "id": "PERSONAL_COMPACTOR_COMBAT_4000",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_CARROT",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "PERSONAL_COMPACTOR_FARMING_4000",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_CLAY_BALL",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "PERSONAL_COMPACTOR_FISHING_4000",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_SPRUCE_LOG",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "PERSONAL_COMPACTOR_FORAGING_4000",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
+        "id": "ENCHANTED_LEATHER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      -1,
+      0,
+      -1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "PERSONAL_COMPACTOR_HUSBANDRY_4000",
       "count": 1
     }
   },
@@ -63082,82 +63157,22 @@
     "keys": [
       {
         "id": "ENCHANTED_REDSTONE",
-        "count": 12
-      },
-      {
-        "id": "PERSONAL_COMPACTOR_4000",
         "count": 1
       }
     ],
     "pattern": [
+      -1,
       0,
-      0,
-      0,
+      -1,
       0,
       -1,
       0,
       0,
-      1,
+      0,
       0
     ],
     "result": {
-      "id": "PERSONAL_COMPACTOR_5000",
-      "count": 1
-    }
-  },
-  {
-    "type": "crafting",
-    "keys": [
-      {
-        "id": "ENCHANTED_REDSTONE_BLOCK",
-        "count": 1
-      },
-      {
-        "id": "PERSONAL_COMPACTOR_5000",
-        "count": 1
-      }
-    ],
-    "pattern": [
-      0,
-      0,
-      0,
-      0,
-      -1,
-      0,
-      0,
-      1,
-      0
-    ],
-    "result": {
-      "id": "PERSONAL_COMPACTOR_6000",
-      "count": 1
-    }
-  },
-  {
-    "type": "crafting",
-    "keys": [
-      {
-        "id": "ENCHANTED_REDSTONE_BLOCK",
-        "count": 3
-      },
-      {
-        "id": "PERSONAL_COMPACTOR_6000",
-        "count": 1
-      }
-    ],
-    "pattern": [
-      0,
-      0,
-      0,
-      0,
-      -1,
-      0,
-      0,
-      1,
-      0
-    ],
-    "result": {
-      "id": "PERSONAL_COMPACTOR_7000",
+      "id": "PERSONAL_COMPACTOR_MINING_4000",
       "count": 1
     }
   },

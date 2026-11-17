@@ -34664,15 +34664,6 @@
   {
     "type": "item",
     "id": "PERSONAL_COMPACTOR_7000",
-    "requirements": [
-      {
-        "level": 9,
-        "rawString": "Redstone Dust IX",
-        "type": "collection",
-        "name": "Redstone Dust",
-        "id": "REDSTONE"
-      }
-    ],
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Personal_Compactor_7000"
     }
@@ -66487,7 +66478,7 @@
   },
   {
     "type": "enchantment",
-    "id": "LOOTING",
+    "id": "LOOTING_NEW",
     "level": 1,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Looting"
@@ -66495,7 +66486,7 @@
   },
   {
     "type": "enchantment",
-    "id": "LOOTING",
+    "id": "LOOTING_NEW",
     "level": 2,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Looting"
@@ -66503,7 +66494,7 @@
   },
   {
     "type": "enchantment",
-    "id": "LOOTING",
+    "id": "LOOTING_NEW",
     "level": 3,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Looting"
@@ -66511,7 +66502,7 @@
   },
   {
     "type": "enchantment",
-    "id": "LOOTING",
+    "id": "LOOTING_NEW",
     "level": 4,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Looting"
@@ -66519,7 +66510,7 @@
   },
   {
     "type": "enchantment",
-    "id": "LOOTING",
+    "id": "LOOTING_NEW",
     "level": 5,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Looting"
