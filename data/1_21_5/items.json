@@ -207,10 +207,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Fishing Wisdom: §3+1.5"
+          "text": "§7Accessory Power: §6+8"
         },
         {
-          "text": "§7Accessory Power: §6+8"
+          "text": "§7Fishing Wisdom: §3+1.5"
         },
         {
           "text": ""
@@ -279,10 +279,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Mining Wisdom: §3+1.5"
+          "text": "§7Accessory Power: §6+8"
         },
         {
-          "text": "§7Accessory Power: §6+8"
+          "text": "§7Mining Wisdom: §3+1.5"
         },
         {
           "text": ""
@@ -351,10 +351,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Foraging Wisdom: §3+1.5"
+          "text": "§7Accessory Power: §6+8"
         },
         {
-          "text": "§7Accessory Power: §6+8"
+          "text": "§7Foraging Wisdom: §3+1.5"
         },
         {
           "text": ""
@@ -423,10 +423,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Combat Wisdom: §3+1.5"
+          "text": "§7Accessory Power: §6+8"
         },
         {
-          "text": "§7Accessory Power: §6+8"
+          "text": "§7Combat Wisdom: §3+1.5"
         },
         {
           "text": ""
@@ -495,10 +495,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Farming Wisdom: §3+1.5"
+          "text": "§7Accessory Power: §6+8"
         },
         {
-          "text": "§7Accessory Power: §6+8"
+          "text": "§7Farming Wisdom: §3+1.5"
         },
         {
           "text": ""
@@ -18816,6 +18816,9 @@
       },
       "minecraft:lore": [
         {
+          "text": "§7Accessory Power: §6+8"
+        },
+        {
           "text": "§7Health: §c+1"
         },
         {
@@ -18823,9 +18826,6 @@
         },
         {
           "text": "§7Speed: §f+1"
-        },
-        {
-          "text": "§7Accessory Power: §6+8"
         },
         {
           "text": ""
@@ -20834,10 +20834,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Strength: §c+1"
+          "text": "§7Accessory Power: §6+3"
         },
         {
-          "text": "§7Accessory Power: §6+3"
+          "text": "§7Strength: §c+1"
         },
         {
           "text": ""
@@ -43872,10 +43872,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Health Regen: §c+1"
+          "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": "§7Accessory Power: §6+16"
+          "text": "§7Health Regen: §c+1"
         },
         {
           "text": ""
@@ -43943,10 +43943,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Health Regen: §c+1.5"
+          "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": "§7Accessory Power: §6+16"
+          "text": "§7Health Regen: §c+1.5"
         },
         {
           "text": ""
@@ -44014,10 +44014,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Health Regen: §c+2"
+          "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": "§7Accessory Power: §6+16"
+          "text": "§7Health Regen: §c+2"
         },
         {
           "text": ""
@@ -44085,10 +44085,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Health Regen: §c+2.5"
+          "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": "§7Accessory Power: §6+16"
+          "text": "§7Health Regen: §c+2.5"
         },
         {
           "text": ""
@@ -44156,10 +44156,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Health Regen: §c+3"
+          "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": "§7Accessory Power: §6+16"
+          "text": "§7Health Regen: §c+3"
         },
         {
           "text": ""
@@ -44227,10 +44227,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Health Regen: §c+3.5"
+          "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": "§7Accessory Power: §6+16"
+          "text": "§7Health Regen: §c+3.5"
         },
         {
           "text": ""
@@ -44298,10 +44298,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Health Regen: §c+4"
+          "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": "§7Accessory Power: §6+16"
+          "text": "§7Health Regen: §c+4"
         },
         {
           "text": ""
@@ -44369,10 +44369,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Health Regen: §c+4.5"
+          "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": "§7Accessory Power: §6+16"
+          "text": "§7Health Regen: §c+4.5"
         },
         {
           "text": ""
@@ -67651,13 +67651,13 @@
       },
       "minecraft:lore": [
         {
+          "text": "§7Rift Time: §a+130s"
+        },
+        {
           "text": "§7Intelligence: §b+20"
         },
         {
           "text": "§7Speed: §f+3"
-        },
-        {
-          "text": "§7Accessory Power: §6+28"
         },
         {
           "text": ""
@@ -67685,9 +67685,6 @@
         },
         {
           "text": ""
-        },
-        {
-          "text": "§8Works while in Accessory Bag!"
         },
         {
           "text": "§b§lDIVINE ACCESSORY"
@@ -83160,10 +83157,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Dwarven Metal Fortune: §6+15"
+          "text": "§7Accessory Power: §6+5"
         },
         {
-          "text": "§7Accessory Power: §6+5"
+          "text": "§7Dwarven Metal Fortune: §6+15"
         },
         {
           "text": ""
@@ -100255,10 +100252,16 @@
           "text": ""
         },
         {
-          "text": "§7Reduces the damage taken from §5"
+          "text": "§7Take §c20% §7less §c Damage §7from §5"
         },
         {
-          "text": "§5Ender §7mobs by §a20%§7."
+          "text": "§5Ender §7mobs."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
         },
         {
           "text": ""
@@ -100899,10 +100902,10 @@
           "text": ""
         },
         {
-          "text": "§7Reduces the damage taken from §5"
+          "text": "§7Take §c25% §7less §c Damage §7from §5"
         },
         {
-          "text": "§5Ender §7mobs by §a25%§7."
+          "text": "§5Ender §7mobs."
         },
         {
           "text": ""
@@ -118493,10 +118496,10 @@
           "text": ""
         },
         {
-          "text": "§7Increases damage against Foraging"
+          "text": "§7Increases damage against §2Foraging"
         },
         {
-          "text": "§7Island creatures."
+          "text": "§2Island §7mobs."
         },
         {
           "text": ""
@@ -122759,10 +122762,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Fishing Speed: §b+10"
+          "text": "§7Accessory Power: §6+8"
         },
         {
-          "text": "§7Accessory Power: §6+8"
+          "text": "§7Fishing Speed: §b+10"
         },
         {
           "text": ""
@@ -129748,10 +129751,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Overbloom: §e+3"
+          "text": "§7Accessory Power: §6+8"
         },
         {
-          "text": "§7Accessory Power: §6+8"
+          "text": "§7Overbloom: §e+6"
         },
         {
           "text": ""
@@ -129810,10 +129813,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Overbloom: §e+5"
+          "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": "§7Accessory Power: §6+16"
+          "text": "§7Overbloom: §e+10"
         },
         {
           "text": ""
@@ -129872,10 +129875,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Overbloom: §e+4"
+          "text": "§7Accessory Power: §6+12"
         },
         {
-          "text": "§7Accessory Power: §6+12"
+          "text": "§7Overbloom: §e+8"
         },
         {
           "text": ""
@@ -129934,10 +129937,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Overbloom: §e+2"
+          "text": "§7Accessory Power: §6+5"
         },
         {
-          "text": "§7Accessory Power: §6+5"
+          "text": "§7Overbloom: §e+4"
         },
         {
           "text": ""
@@ -129996,10 +129999,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Overbloom: §e+1"
+          "text": "§7Accessory Power: §6+3"
         },
         {
-          "text": "§7Accessory Power: §6+3"
+          "text": "§7Overbloom: §e+2"
         },
         {
           "text": ""
@@ -130166,6 +130169,9 @@
       },
       "minecraft:lore": [
         {
+          "text": "§7Accessory Power: §6+12"
+        },
+        {
           "text": "§7Speed: §f+1"
         },
         {
@@ -130173,9 +130179,6 @@
         },
         {
           "text": "§7Cold Resistance: §b+1"
-        },
-        {
-          "text": "§7Accessory Power: §6+12"
         },
         {
           "text": ""
@@ -130213,11 +130216,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -140158,6 +140163,12 @@
         },
         {
           "text": "§cWorkshop§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
         },
         {
           "text": ""
@@ -151567,10 +151578,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Fear: §5+6"
+          "text": "§7Accessory Power: §6+8"
         },
         {
-          "text": "§7Accessory Power: §6+8"
+          "text": "§7Fear: §5+6"
         },
         {
           "text": ""
@@ -152295,10 +152306,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Fear: §5+4"
+          "text": "§7Accessory Power: §6+5"
         },
         {
-          "text": "§7Accessory Power: §6+5"
+          "text": "§7Fear: §5+4"
         },
         {
           "text": ""
@@ -152501,10 +152512,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Fear: §5+2"
+          "text": "§7Accessory Power: §6+3"
         },
         {
-          "text": "§7Accessory Power: §6+3"
+          "text": "§7Fear: §5+2"
         },
         {
           "text": ""
@@ -158968,10 +158979,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Farming Fortune: §6+40"
+          "text": "§7Accessory Power: §6+12"
         },
         {
-          "text": "§7Accessory Power: §6+12"
+          "text": "§7Farming Fortune: §6+40"
         },
         {
           "text": ""
@@ -181376,10 +181387,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Gemstone Fortune: §6+10"
+          "text": "§7Accessory Power: §6+5"
         },
         {
-          "text": "§7Accessory Power: §6+5"
+          "text": "§7Gemstone Fortune: §6+10"
         },
         {
           "text": ""
@@ -197524,13 +197535,13 @@
       },
       "minecraft:lore": [
         {
+          "text": "§7Accessory Power: §6+12"
+        },
+        {
           "text": "§7Farming Fortune: §6+50"
         },
         {
           "text": "§7Farming Wisdom: §3+1"
-        },
-        {
-          "text": "§7Accessory Power: §6+12"
         },
         {
           "text": ""
@@ -213913,13 +213924,13 @@
       },
       "minecraft:lore": [
         {
+          "text": "§7Accessory Power: §6+8"
+        },
+        {
           "text": "§7Fig Fortune: §6+15"
         },
         {
           "text": "§7Mangrove Fortune: §6+15"
-        },
-        {
-          "text": "§7Accessory Power: §6+8"
         },
         {
           "text": ""
@@ -214048,13 +214059,13 @@
       },
       "minecraft:lore": [
         {
+          "text": "§7Accessory Power: §6+5"
+        },
+        {
           "text": "§7Fig Fortune: §6+10"
         },
         {
           "text": "§7Mangrove Fortune: §6+10"
-        },
-        {
-          "text": "§7Accessory Power: §6+5"
         },
         {
           "text": ""
@@ -214104,13 +214115,13 @@
       },
       "minecraft:lore": [
         {
+          "text": "§7Accessory Power: §6+3"
+        },
+        {
           "text": "§7Fig Fortune: §6+5"
         },
         {
           "text": "§7Mangrove Fortune: §6+5"
-        },
-        {
-          "text": "§7Accessory Power: §6+3"
         },
         {
           "text": ""
@@ -228223,10 +228234,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Cold Resistance: §b+1"
+          "text": "§7Accessory Power: §6+5"
         },
         {
-          "text": "§7Accessory Power: §6+5"
+          "text": "§7Cold Resistance: §b+1"
         },
         {
           "text": ""
@@ -228294,10 +228305,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Cold Resistance: §b+0.5"
+          "text": "§7Accessory Power: §6+3"
         },
         {
-          "text": "§7Accessory Power: §6+3"
+          "text": "§7Cold Resistance: §b+0.5"
         },
         {
           "text": ""
@@ -238112,10 +238123,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Bonus Pest Chance: §2+60%"
+          "text": "§7Accessory Power: §6+12"
         },
         {
-          "text": "§7Accessory Power: §6+12"
+          "text": "§7Bonus Pest Chance: §2+60%"
         },
         {
           "text": ""
@@ -238183,10 +238194,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Bonus Pest Chance: §2+20%"
+          "text": "§7Accessory Power: §6+5"
         },
         {
-          "text": "§7Accessory Power: §6+5"
+          "text": "§7Bonus Pest Chance: §2+20%"
         },
         {
           "text": ""
@@ -238254,10 +238265,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Bonus Pest Chance: §2+80%"
+          "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": "§7Accessory Power: §6+16"
+          "text": "§7Bonus Pest Chance: §2+80%"
         },
         {
           "text": ""
@@ -238325,10 +238336,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Bonus Pest Chance: §2+40%"
+          "text": "§7Accessory Power: §6+8"
         },
         {
-          "text": "§7Accessory Power: §6+8"
+          "text": "§7Bonus Pest Chance: §2+40%"
         },
         {
           "text": ""
@@ -276761,10 +276772,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Speed: §f+1"
+          "text": "§7Accessory Power: §6+3"
         },
         {
-          "text": "§7Accessory Power: §6+3"
+          "text": "§7Speed: §f+1"
         },
         {
           "text": ""
@@ -296568,16 +296579,16 @@
           "text": ""
         },
         {
-          "text": "§7A lot of coins start appearing"
+          "text": "§7Spawns a lot of §6Coins §7occasionally"
         },
         {
-          "text": "§7around you occasionally on public"
+          "text": "§7on §fPublic Islands §7that you can pick"
         },
         {
-          "text": "§7islands. You may even pick up a"
+          "text": "§7up. You may even pick up a §5Stock of"
         },
         {
-          "text": "§5Stock of Stonks§7!"
+          "text": "§5Stonks§7!"
         },
         {
           "text": ""
@@ -310038,13 +310049,13 @@
       },
       "minecraft:lore": [
         {
+          "text": "§7Accessory Power: §6+8"
+        },
+        {
           "text": "§7Sea Creature Chance: §3+1%"
         },
         {
           "text": "§7Treasure Chance: §6+0.2%"
-        },
-        {
-          "text": "§7Accessory Power: §6+8"
         },
         {
           "text": ""
@@ -310094,13 +310105,13 @@
       },
       "minecraft:lore": [
         {
+          "text": "§7Accessory Power: §6+5"
+        },
+        {
           "text": "§7Sea Creature Chance: §3+0.5%"
         },
         {
           "text": "§7Treasure Chance: §6+0.1%"
-        },
-        {
-          "text": "§7Accessory Power: §6+5"
         },
         {
           "text": ""
@@ -331419,10 +331430,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Mending: §a+2"
+          "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": "§7Accessory Power: §6+16"
+          "text": "§7Mending: §a+2"
         },
         {
           "text": ""
@@ -331490,10 +331501,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Mending: §a+3"
+          "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": "§7Accessory Power: §6+16"
+          "text": "§7Mending: §a+3"
         },
         {
           "text": ""
@@ -331561,10 +331572,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Mending: §a+4"
+          "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": "§7Accessory Power: §6+16"
+          "text": "§7Mending: §a+4"
         },
         {
           "text": ""
@@ -331632,10 +331643,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Mending: §a+5"
+          "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": "§7Accessory Power: §6+16"
+          "text": "§7Mending: §a+5"
         },
         {
           "text": ""
@@ -331703,10 +331714,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Mending: §a+6"
+          "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": "§7Accessory Power: §6+16"
+          "text": "§7Mending: §a+6"
         },
         {
           "text": ""
@@ -331774,10 +331785,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Mending: §a+7"
+          "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": "§7Accessory Power: §6+16"
+          "text": "§7Mending: §a+7"
         },
         {
           "text": ""
@@ -331845,10 +331856,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Mending: §a+8"
+          "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": "§7Accessory Power: §6+16"
+          "text": "§7Mending: §a+8"
         },
         {
           "text": ""
@@ -331916,10 +331927,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Mending: §a+9"
+          "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": "§7Accessory Power: §6+16"
+          "text": "§7Mending: §a+9"
         },
         {
           "text": ""
@@ -333672,6 +333683,9 @@
       },
       "minecraft:lore": [
         {
+          "text": "§7Accessory Power: §6+12"
+        },
+        {
           "text": "§7Attack Speed: §e+1%"
         },
         {
@@ -333682,9 +333696,6 @@
         },
         {
           "text": "§7Speed: §f+7"
-        },
-        {
-          "text": "§7Accessory Power: §6+12"
         },
         {
           "text": ""
@@ -335850,10 +335861,10 @@
           "text": ""
         },
         {
-          "text": "§7Reduces the damage taken from §4"
+          "text": "§7Take §c5% §7less §c Damage §7from §4"
         },
         {
-          "text": "§4Arthropod §7mobs by §a5%§7."
+          "text": "§4Arthropod §7mobs."
         },
         {
           "text": ""
@@ -358316,10 +358327,16 @@
           "text": ""
         },
         {
-          "text": "§7Every §a10th §7melee hit on the same"
+          "text": "§7Every §a10th melee hit §7on the same"
         },
         {
-          "text": "§7enemy deals §c+10% §7damage."
+          "text": "§7mob deals §c+10%  Damage§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
         },
         {
           "text": ""
@@ -364176,10 +364193,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Mining Speed: §6+45"
+          "text": "§7Accessory Power: §6+12"
         },
         {
-          "text": "§7Accessory Power: §6+12"
+          "text": "§7Mining Speed: §6+45"
         },
         {
           "text": ""
@@ -365321,10 +365338,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Mining Speed: §6+60"
+          "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": "§7Accessory Power: §6+16"
+          "text": "§7Mining Speed: §6+60"
         },
         {
           "text": ""
@@ -365377,10 +365394,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Mining Speed: §6+30"
+          "text": "§7Accessory Power: §6+8"
         },
         {
-          "text": "§7Accessory Power: §6+8"
+          "text": "§7Mining Speed: §6+30"
         },
         {
           "text": ""
@@ -365433,10 +365450,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Mining Speed: §6+15"
+          "text": "§7Accessory Power: §6+5"
         },
         {
-          "text": "§7Accessory Power: §6+5"
+          "text": "§7Mining Speed: §6+15"
         },
         {
           "text": ""
@@ -366221,10 +366238,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Helix Fortune: §6+15"
+          "text": "§7Accessory Power: §6+8"
         },
         {
-          "text": "§7Accessory Power: §6+8"
+          "text": "§7Helix Fortune: §6+15"
         },
         {
           "text": ""
@@ -366450,10 +366467,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Helix Fortune: §6+10"
+          "text": "§7Accessory Power: §6+5"
         },
         {
-          "text": "§7Accessory Power: §6+5"
+          "text": "§7Helix Fortune: §6+10"
         },
         {
           "text": ""
@@ -366734,10 +366751,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Helix Fortune: §6+5"
+          "text": "§7Accessory Power: §6+3"
         },
         {
-          "text": "§7Accessory Power: §6+3"
+          "text": "§7Helix Fortune: §6+5"
         },
         {
           "text": ""
@@ -372243,13 +372260,13 @@
       },
       "minecraft:lore": [
         {
+          "text": "§7Accessory Power: §6+16"
+        },
+        {
           "text": "§7Health Regen: §c+5"
         },
         {
           "text": "§7Vitality: §4+1"
-        },
-        {
-          "text": "§7Accessory Power: §6+16"
         },
         {
           "text": ""
@@ -372258,7 +372275,10 @@
           "text": "§7Apply a natural regen tick when you"
         },
         {
-          "text": "§7deal melee damage. §8(20s cooldown)"
+          "text": "§7deal §c Melee Damage§7."
+        },
+        {
+          "text": "§8Cooldown: §a20s"
         },
         {
           "text": ""
@@ -372290,11 +372310,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -385572,10 +385594,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Alchemy Wisdom: §3+1.5"
+          "text": "§7Accessory Power: §6+8"
         },
         {
-          "text": "§7Accessory Power: §6+8"
+          "text": "§7Alchemy Wisdom: §3+1.5"
         },
         {
           "text": ""
@@ -385894,10 +385916,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Alchemy Wisdom: §3+1"
+          "text": "§7Accessory Power: §6+5"
         },
         {
-          "text": "§7Accessory Power: §6+5"
+          "text": "§7Alchemy Wisdom: §3+1"
         },
         {
           "text": ""
@@ -386027,10 +386049,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Alchemy Wisdom: §3+0.5"
+          "text": "§7Accessory Power: §6+3"
         },
         {
-          "text": "§7Accessory Power: §6+3"
+          "text": "§7Alchemy Wisdom: §3+0.5"
         },
         {
           "text": ""
@@ -387389,10 +387411,10 @@
           "text": ""
         },
         {
-          "text": "§7Reduces the damage taken from §8"
+          "text": "§7Take §c25% §7less §c Damage §7from §8"
         },
         {
-          "text": "§8Wither §7mobs by §a25%§7."
+          "text": "§8Wither §7mobs."
         },
         {
           "text": ""
@@ -388262,10 +388284,16 @@
           "text": ""
         },
         {
-          "text": "§7Reduces the damage taken from §a"
+          "text": "§7Take §c5% §7less §c Damage §7from §a"
         },
         {
-          "text": "§aAnimal §7mobs by §a5%§7."
+          "text": "§aAnimal §7mobs."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
         },
         {
           "text": ""
