@@ -69,7 +69,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Wasssaaaaa?  §e§lRIGHT CLICK"
+          "text": "§6Ability: Wasssaaaaa? §e§lRIGHT CLICK"
         },
         {
           "text": "§7Instantly calls §5Maddox§7!"
@@ -128,7 +128,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Whassup?  §e§lRIGHT CLICK"
+          "text": "§6Ability: Whassup? §e§lRIGHT CLICK"
         },
         {
           "text": "§7Lets you call §5Maddox§7, when he's not busy."
@@ -2255,7 +2255,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Throw  §e§lRIGHT CLICK"
+          "text": "§6Ability: Throw §e§lRIGHT CLICK"
         },
         {
           "text": "§7Throw the Lasso at §2Forest"
@@ -2270,7 +2270,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Reel In  §e§lRIGHT CLICK"
+          "text": "§6Ability: Reel In §e§lRIGHT CLICK"
         },
         {
           "text": "§7Reel in creatures caught by the"
@@ -4837,7 +4837,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Helmets All The Way Down "
+          "text": "§6Ability: Helmets All The Way Down"
         },
         {
           "text": "§7Regain §a+2 §7when killing a monster."
@@ -5323,7 +5323,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Coin Conversion  §e§lRIGHT CLICK"
+          "text": "§6Ability: Coin Conversion §e§lRIGHT CLICK"
         },
         {
           "text": "§7Spend coins to cast a projectile which deals"
@@ -5445,7 +5445,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Deploy  §e§lRIGHT CLICK"
+          "text": "§6Ability: Deploy §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoot the flare up in the sky for §a3m"
@@ -6555,7 +6555,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Echo  §e§lRIGHT CLICK"
+          "text": "§6Ability: Echo §e§lRIGHT CLICK"
         },
         {
           "text": "§7Show the way to the next or nearby Griffin"
@@ -7993,7 +7993,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Helmets All The Way Around "
+          "text": "§6Ability: Helmets All The Way Around"
         },
         {
           "text": "§7Regain §a+2 §7when killing a monster."
@@ -8062,7 +8062,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Helmets All The Way Around "
+          "text": "§6Ability: Helmets All The Way Around"
         },
         {
           "text": "§7Regain §a+2 §7when killing a monster."
@@ -8354,7 +8354,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Absorptio  §e§lRIGHT CLICK"
+          "text": "§6Ability: Absorptio §e§lRIGHT CLICK"
         },
         {
           "text": "§7This weapon lets you absorb §c20% §7of"
@@ -8369,7 +8369,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Vis Temperata "
+          "text": "§6Ability: Vis Temperata"
         },
         {
           "text": "§7Each strike of this weapon has its"
@@ -8684,7 +8684,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Hydrate  §e§lHOLD RIGHT CLICK"
+          "text": "§6Ability: Hydrate §e§lHOLD RIGHT CLICK"
         },
         {
           "text": "§7Aim and hold in the direction of a"
@@ -8699,7 +8699,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Fill  §e§lRIGHT CLICK"
+          "text": "§6Ability: Fill §e§lRIGHT CLICK"
         },
         {
           "text": "§7When aiming at a water source, fills"
@@ -8711,7 +8711,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Aquaburst EX "
+          "text": "§6Ability: Aquaburst EX"
         },
         {
           "text": "§7Spreads water in a larger area at"
@@ -8772,7 +8772,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Hydrate  §e§lHOLD RIGHT CLICK"
+          "text": "§6Ability: Hydrate §e§lHOLD RIGHT CLICK"
         },
         {
           "text": "§7Aim and hold in the direction of a"
@@ -8787,7 +8787,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Fill  §e§lRIGHT CLICK"
+          "text": "§6Ability: Fill §e§lRIGHT CLICK"
         },
         {
           "text": "§7When aiming at a water source, fills"
@@ -8799,7 +8799,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Aquaburst "
+          "text": "§6Ability: Aquaburst"
         },
         {
           "text": "§7Spreads water in a larger area at"
@@ -9727,7 +9727,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Venom Mold "
+          "text": "§6Ability: Venom Mold"
         },
         {
           "text": "§7Grants §c+100 Strength §7while"
@@ -9782,16 +9782,19 @@
           "text": ""
         },
         {
-          "text": "§7Right-click to point towards the"
+          "text": "§6Ability: Relic Magnet §e§lRIGHT CLICK"
         },
         {
-          "text": "§7nearest §bRelic§7!"
+          "text": "§7Points towards the nearest §bRelic"
+        },
+        {
+          "text": "§7while on the §cSpider's Den§7."
         },
         {
           "text": ""
         },
         {
-          "text": "§7Relics Found: §b28/28"
+          "text": "§7Relics Found: §b28§8/28"
         },
         {
           "text": ""
@@ -9874,7 +9877,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Echo  §e§lRIGHT CLICK"
+          "text": "§6Ability: Echo §e§lRIGHT CLICK"
         },
         {
           "text": "§7Show the way to the next or nearby Griffin"
@@ -9984,7 +9987,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Try Your Luck  §e§lRIGHT CLICK"
+          "text": "§6Ability: Try Your Luck §e§lRIGHT CLICK"
         },
         {
           "text": "§7Costs §6666.7k §7coins to roll between 1-6."
@@ -10116,7 +10119,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Soiling! Soiling! Soiling! "
+          "text": "§6Ability: Soiling! Soiling! Soiling!"
         },
         {
           "text": "§7Grants §6+50 Block Fortune§7."
@@ -11728,7 +11731,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Dragon Rage  §e§lRIGHT CLICK"
+          "text": "§6Ability: Dragon Rage §e§lRIGHT CLICK"
         },
         {
           "text": "§7All Monsters in front of you take §a12,000"
@@ -11796,7 +11799,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Instant Transmission  §e§lRIGHT CLICK"
+          "text": "§6Ability: Instant Transmission §e§lRIGHT CLICK"
         },
         {
           "text": "§7Teleport §a8 blocks§7 ahead of you and"
@@ -11857,7 +11860,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Parley  §e§lRIGHT CLICK"
+          "text": "§6Ability: Parley §e§lRIGHT CLICK"
         },
         {
           "text": "§7Channel your inner Jerry."
@@ -11928,7 +11931,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Parley  §e§lRIGHT CLICK"
+          "text": "§6Ability: Parley §e§lRIGHT CLICK"
         },
         {
           "text": "§7Channel your inner Jerry."
@@ -11978,7 +11981,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Weird Transmission  §e§lRIGHT CLICK"
+          "text": "§6Ability: Weird Transmission §e§lRIGHT CLICK"
         },
         {
           "text": "§7Teleport §a3 blocks§7 ahead of you."
@@ -12027,7 +12030,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Weird Transmission  §e§lRIGHT CLICK"
+          "text": "§6Ability: Weird Transmission §e§lRIGHT CLICK"
         },
         {
           "text": "§7Teleport §a4 blocks§7 ahead of you."
@@ -12077,7 +12080,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Weird Transmission  §e§lRIGHT CLICK"
+          "text": "§6Ability: Weird Transmission §e§lRIGHT CLICK"
         },
         {
           "text": "§7Teleport §a5 blocks§7 ahead of you."
@@ -12138,7 +12141,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Instant Transmission  §e§lRIGHT CLICK"
+          "text": "§6Ability: Instant Transmission §e§lRIGHT CLICK"
         },
         {
           "text": "§7Teleport §a8 blocks§7 ahead of you and"
@@ -12190,7 +12193,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Aspiring Leap  §e§lRIGHT CLICK"
+          "text": "§6Ability: Aspiring Leap §e§lRIGHT CLICK"
         },
         {
           "text": "§7Allows you to teleport to co-op members on"
@@ -12621,7 +12624,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Soulcry  §e§lRIGHT CLICK"
+          "text": "§6Ability: Soulcry §e§lRIGHT CLICK"
         },
         {
           "text": "§7Gain §c+400 Ferocity §7against Endermen for §a4s"
@@ -12645,7 +12648,7 @@
           "text": "§4☠ §cRequires §5Enderman Slayer 6§c."
         },
         {
-          "text": "§6§lLEGENDARY SWORD"
+          "text": "§6§lLEGENDARY SLAYER SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/slayer/enderman/weapons/katanas/atomsplit_katana",
@@ -13187,7 +13190,7 @@
         "id": "AUTO_RECOMBOBULATOR"
       },
       "minecraft:custom_name": {
-        "text": "§6Auto Recombobulator"
+        "text": "§6Auto Recombobulator 3000"
       },
       "minecraft:lore": [
         {
@@ -13200,10 +13203,7 @@
           "text": "§7Grants a §a1% §7chance to automatically"
         },
         {
-          "text": "§7recombobulate drops you get from"
-        },
-        {
-          "text": "§7enemies."
+          "text": "§7recombobulate a drop from a mob."
         },
         {
           "text": ""
@@ -13555,7 +13555,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Throw  §e§lRIGHT CLICK"
+          "text": "§6Ability: Throw §e§lRIGHT CLICK"
         },
         {
           "text": "§7Throw your Halberd, damaging all"
@@ -13585,7 +13585,7 @@
           "text": "§4☠ §cRequires §5Zombie Slayer 8§c."
         },
         {
-          "text": "§6§lLEGENDARY SWORD"
+          "text": "§6§lLEGENDARY SLAYER SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/slayer/zombie/weapons/halberd_of_the_shredded",
@@ -17454,7 +17454,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Yoink  §e§lRIGHT CLICK"
+          "text": "§6Ability: Yoink §e§lRIGHT CLICK"
         },
         {
           "text": "§7Throw your fishing net at swimming"
@@ -17877,7 +17877,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Seed Storage  §e§lLEFT CLICK"
+          "text": "§6Ability: Seed Storage §e§lLEFT CLICK"
         },
         {
           "text": "§7Place seeds in the basket."
@@ -17886,7 +17886,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Farmer's Delight  §e§lRIGHT CLICK"
+          "text": "§6Ability: Farmer's Delight §e§lRIGHT CLICK"
         },
         {
           "text": "§7Automatically seed a row of farmland."
@@ -18926,7 +18926,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Guided Bat  §e§lRIGHT CLICK"
+          "text": "§6Ability: Guided Bat §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoots a guided spirit bat, following your aim"
@@ -19014,7 +19014,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -20429,7 +20429,7 @@
           "text": ""
         },
         {
-          "text": "§7Pet Exp Boost: §a+0.1%"
+          "text": "§7Your Pets earn §a+0% §7Exp."
         },
         {
           "text": ""
@@ -20438,16 +20438,19 @@
           "text": "§7Gains stats based on how many §2"
         },
         {
-          "text": "§2Mythological §7mobs and Minos"
-        },
-        {
-          "text": "§7followers you've slain."
+          "text": "§2Mythological §7mobs you've slain."
         },
         {
           "text": ""
         },
         {
-          "text": "§7Your kills: §20§8/25"
+          "text": "§7Your Kills: §a0§8/25"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
         },
         {
           "text": ""
@@ -20495,9 +20498,12 @@
         "id": "BEASTMASTER_CREST_EPIC"
       },
       "minecraft:custom_name": {
-        "text": "§5Beastmaster Crest"
+        "text": "§5Venerable Beastmaster Crest"
       },
       "minecraft:lore": [
+        {
+          "text": "§7Accessory Power: §6+12"
+        },
         {
           "text": "§7Health: §c+0.2"
         },
@@ -20505,13 +20511,10 @@
           "text": "§7Intelligence: §b+0.2"
         },
         {
-          "text": "§7Accessory Power: §6+12"
-        },
-        {
           "text": ""
         },
         {
-          "text": "§7Pet Exp Boost: §a+0.4%"
+          "text": "§7Your Pets earn §a+0.4% §7Exp."
         },
         {
           "text": ""
@@ -20520,16 +20523,19 @@
           "text": "§7Gains stats based on how many §2"
         },
         {
-          "text": "§2Mythological §7mobs and Minos"
-        },
-        {
-          "text": "§7followers you've slain."
+          "text": "§2Mythological §7mobs you've slain."
         },
         {
           "text": ""
         },
         {
-          "text": "§7Your kills: §20§8/25"
+          "text": "§7Your Kills: §a0§8/25"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
         },
         {
           "text": ""
@@ -20577,9 +20583,12 @@
         "id": "BEASTMASTER_CREST_LEGENDARY"
       },
       "minecraft:custom_name": {
-        "text": "§6Beastmaster Crest"
+        "text": "§6Exalted Beastmaster Crest"
       },
       "minecraft:lore": [
+        {
+          "text": "§7Accessory Power: §6+16"
+        },
         {
           "text": "§7Health: §c+0.3"
         },
@@ -20587,13 +20596,10 @@
           "text": "§7Intelligence: §b+0.3"
         },
         {
-          "text": "§7Accessory Power: §6+16"
-        },
-        {
           "text": ""
         },
         {
-          "text": "§7Pet Exp Boost: §a+0.5%"
+          "text": "§7Your Pets earn §a+0.5% §7Exp."
         },
         {
           "text": ""
@@ -20602,16 +20608,13 @@
           "text": "§7Gains stats based on how many §2"
         },
         {
-          "text": "§2Mythological §7mobs and Minos"
-        },
-        {
-          "text": "§7followers you've slain."
+          "text": "§2Mythological §7mobs you've slain."
         },
         {
           "text": ""
         },
         {
-          "text": "§7Your kills: §20§8/25"
+          "text": "§7Your Kills: §a0§8/25"
         },
         {
           "text": ""
@@ -20659,20 +20662,20 @@
         "id": "BEASTMASTER_CREST_RARE"
       },
       "minecraft:custom_name": {
-        "text": "§9Beastmaster Crest"
+        "text": "§9Stalwart Beastmaster Crest"
       },
       "minecraft:lore": [
         {
-          "text": "§7Intelligence: §b+0.2"
+          "text": "§7Accessory Power: §6+8"
         },
         {
-          "text": "§7Accessory Power: §6+8"
+          "text": "§7Intelligence: §b+0.2"
         },
         {
           "text": ""
         },
         {
-          "text": "§7Pet Exp Boost: §a+0.3%"
+          "text": "§7Your Pets earn §a+0.3% §7Exp."
         },
         {
           "text": ""
@@ -20681,16 +20684,19 @@
           "text": "§7Gains stats based on how many §2"
         },
         {
-          "text": "§2Mythological §7mobs and Minos"
-        },
-        {
-          "text": "§7followers you've slain."
+          "text": "§2Mythological §7mobs you've slain."
         },
         {
           "text": ""
         },
         {
-          "text": "§7Your kills: §20§8/25"
+          "text": "§7Your Kills: §a0§8/25"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
         },
         {
           "text": ""
@@ -20738,20 +20744,20 @@
         "id": "BEASTMASTER_CREST_UNCOMMON"
       },
       "minecraft:custom_name": {
-        "text": "§aBeastmaster Crest"
+        "text": "§aBlessed Beastmaster Crest"
       },
       "minecraft:lore": [
         {
-          "text": "§7Intelligence: §b+0.1"
+          "text": "§7Accessory Power: §6+5"
         },
         {
-          "text": "§7Accessory Power: §6+5"
+          "text": "§7Intelligence: §b+0.1"
         },
         {
           "text": ""
         },
         {
-          "text": "§7Pet Exp Boost: §a+0.2%"
+          "text": "§7Your Pets earn §a+0.2% §7Exp."
         },
         {
           "text": ""
@@ -20760,16 +20766,19 @@
           "text": "§7Gains stats based on how many §2"
         },
         {
-          "text": "§2Mythological §7mobs and Minos"
-        },
-        {
-          "text": "§7followers you've slain."
+          "text": "§2Mythological §7mobs you've slain."
         },
         {
           "text": ""
         },
         {
-          "text": "§7Your kills: §20§8/25"
+          "text": "§7Your Kills: §a0§8/25"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
         },
         {
           "text": ""
@@ -21218,7 +21227,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Buzzy Little Bee "
+          "text": "§6Ability: Buzzy Little Bee"
         },
         {
           "text": "§aDouble §7the base pet stats of your"
@@ -22067,7 +22076,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Swhooomp  §e§lRIGHT CLICK"
+          "text": "§6Ability: Swhooomp §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoot an arrow. Doesn't deal damage. Except"
@@ -23272,7 +23281,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Bingo Blast  §e§lRIGHT CLICK"
+          "text": "§6Ability: Bingo Blast §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoots out a piercing ray of"
@@ -23824,10 +23833,10 @@
           "text": ""
         },
         {
-          "text": "§7Increases the chance for §acrops §7to"
+          "text": "§7Grants a §a+15% §7chance for a crop to"
         },
         {
-          "text": "§cmutate §7by §a15%§7."
+          "text": "§emutate §7in the §aGreenhouse§7."
         },
         {
           "text": ""
@@ -26567,7 +26576,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Telecommunications "
+          "text": "§6Ability: Telecommunications"
         },
         {
           "text": "§7If exactly two players within §a110 §7blocks are"
@@ -26594,7 +26603,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Tuning 4 Dummies  §e§lCLICK"
+          "text": "§6Ability: Tuning 4 Dummies §e§lCLICK"
         },
         {
           "text": "§7Switches to the next radio channel."
@@ -26722,7 +26731,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Blazing Palisade "
+          "text": "§6Ability: Blazing Palisade"
         },
         {
           "text": "§7Gain a §a10% §7chance to reflect"
@@ -29180,7 +29189,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Grand... Zapper?  §e§lRIGHT CLICK"
+          "text": "§6Ability: Grand... Zapper? §e§lRIGHT CLICK"
         },
         {
           "text": "§7Right-Click a block to zap all"
@@ -29483,19 +29492,19 @@
           "text": ""
         },
         {
-          "text": "§7Tracks a counter for each mob"
+          "text": "§7Tracks how many mobs you have"
         },
         {
-          "text": "§7killed while worn."
+          "text": "§7killed with a counter."
         },
         {
           "text": ""
         },
         {
-          "text": "§7Gain §c+1 Strength §7for each digit"
+          "text": "§7Grants §c+1 Strength §7per digit on"
         },
         {
-          "text": "§7on the counter. §8(Max 7)"
+          "text": "§7the counter. §8(Max: +7)"
         },
         {
           "text": ""
@@ -29563,19 +29572,19 @@
           "text": ""
         },
         {
-          "text": "§7Tracks a counter for each mob"
+          "text": "§7Tracks how many mobs you have"
         },
         {
-          "text": "§7killed while worn."
+          "text": "§7killed with a counter."
         },
         {
           "text": ""
         },
         {
-          "text": "§7Gain §c+2 Strength §7for each digit"
+          "text": "§7Grants §c+2 Strength §7per digit on"
         },
         {
-          "text": "§7on the counter. §8(Max 7)"
+          "text": "§7the counter. §8(Max: +14)"
         },
         {
           "text": ""
@@ -29607,11 +29616,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -30862,7 +30873,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Swing  §e§lRIGHT CLICK"
+          "text": "§6Ability: Swing §e§lRIGHT CLICK"
         },
         {
           "text": "§7Throw the bone a short distance,"
@@ -30934,7 +30945,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Gladiator's Will "
+          "text": "§6Ability: Gladiator's Will"
         },
         {
           "text": "§7Gain §a+3 Defense §7for each enemy"
@@ -31028,7 +31039,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Reaving Strike  §e§lRIGHT CLICK"
+          "text": "§6Ability: Reaving Strike §e§lRIGHT CLICK"
         },
         {
           "text": "§7Slash in a huge arc, dealing §c125% §7melee"
@@ -31147,7 +31158,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Clownin' Around "
+          "text": "§6Ability: Clownin' Around"
         },
         {
           "text": "§7Instead of dying, gain damage"
@@ -31316,7 +31327,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Showtime  §e§lRIGHT CLICK"
+          "text": "§6Ability: Showtime §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoots balloons that create a large explosion"
@@ -32422,7 +32433,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Bounce Bonanza  §e§lRIGHT CLICK"
+          "text": "§6Ability: Bounce Bonanza §e§lRIGHT CLICK"
         },
         {
           "text": "§7Toss this ball into the air and try"
@@ -32775,7 +32786,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Petal Barrage  §e§lRIGHT CLICK"
+          "text": "§6Ability: Petal Barrage §e§lRIGHT CLICK"
         },
         {
           "text": "§7Fire a §cbarrage §7of §c3 §7roses that ricochets"
@@ -34734,7 +34745,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Inhale  §e§lRIGHT CLICK"
+          "text": "§6Ability: Inhale §e§lRIGHT CLICK"
         },
         {
           "text": "§7Refill your air bubbles when under water on"
@@ -34993,7 +35004,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Area Planner  §e§lRIGHT CLICK"
+          "text": "§6Ability: Area Planner §e§lRIGHT CLICK"
         },
         {
           "text": "§7Right-Click the top of a block to"
@@ -35005,7 +35016,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Organized Builder  §e§lSNEAK RIGHT CLICK"
+          "text": "§6Ability: Organized Builder §e§lSNEAK RIGHT CLICK"
         },
         {
           "text": "§7Sneak Right-Click a block to collect"
@@ -35017,7 +35028,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Built-in Storage  §e§lLEFT CLICK"
+          "text": "§6Ability: Built-in Storage §e§lLEFT CLICK"
         },
         {
           "text": "§7Opens the ruler storage. Blocks will"
@@ -35067,7 +35078,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Grand Architect  §e§lRIGHT CLICK"
+          "text": "§6Ability: Grand Architect §e§lRIGHT CLICK"
         },
         {
           "text": "§7Right-Click the face of a block to"
@@ -35079,7 +35090,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Built-in Storage  §e§lLEFT CLICK"
+          "text": "§6Ability: Built-in Storage §e§lLEFT CLICK"
         },
         {
           "text": "§7Opens the wand storage. Blocks will"
@@ -38755,22 +38766,16 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Hunting Fortune: §d+1"
-        },
-        {
           "text": "§7Accessory Power: §6+8"
         },
         {
-          "text": ""
-        },
-        {
-          "text": "§7Grants §d+1 Hunting Fortune§7."
+          "text": "§7Hunting Fortune: §d+1"
         },
         {
           "text": ""
         },
         {
-          "text": "§7§oA remnant of the core of Kuudra!"
+          "text": "§8§oA remnant of the core of Kuudra!"
         },
         {
           "text": ""
@@ -39428,7 +39433,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Attunement  §e§lRIGHT CLICK"
+          "text": "§6Ability: Attunement §e§lRIGHT CLICK"
         },
         {
           "text": "§7Swap between §8Ashen §7and §eAuric §7mode in order"
@@ -39467,7 +39472,7 @@
           "text": "§4☠ §cRequires §5Blaze Slayer 4§c."
         },
         {
-          "text": "§5§lEPIC SWORD"
+          "text": "§5§lEPIC SLAYER SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/slayer/blaze/swords/kindlebane_dagger",
@@ -39537,7 +39542,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Attunement  §e§lRIGHT CLICK"
+          "text": "§6Ability: Attunement §e§lRIGHT CLICK"
         },
         {
           "text": "§7Swap between §fSpirit §7and §bCrystal §7mode in order"
@@ -39576,7 +39581,7 @@
           "text": "§4☠ §cRequires §5Blaze Slayer 4§c."
         },
         {
-          "text": "§5§lEPIC SWORD"
+          "text": "§5§lEPIC SLAYER SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/slayer/blaze/swords/mawdredge_dagger",
@@ -41074,7 +41079,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Swift Slicer "
+          "text": "§6Ability: Swift Slicer"
         },
         {
           "text": "§7Increases your speed cap by 100"
@@ -41158,7 +41163,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Swift Slicer "
+          "text": "§6Ability: Swift Slicer"
         },
         {
           "text": "§7Increases your speed cap by 100"
@@ -41244,7 +41249,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Swift Slicer "
+          "text": "§6Ability: Swift Slicer"
         },
         {
           "text": "§7Increases your speed cap by 100"
@@ -41896,15 +41901,6 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Magic Find: §b+1"
-        },
-        {
-          "text": "§7Accessory Power: §6+3"
-        },
-        {
-          "text": ""
-        },
-        {
           "text": "§7Show your pride for SkyBlock's §d7th"
         },
         {
@@ -41914,16 +41910,22 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Party Time! "
+          "text": "§6Ability: Party Time!"
         },
         {
-          "text": "§7Gain §b+1 Intelligence §7while on your"
+          "text": "§7Grants §b+1 Intelligence §7while on"
         },
         {
-          "text": "§7head for each SkyBlock year you've"
+          "text": "§7your head for each §aSkyBlock Year"
         },
         {
-          "text": "§7been playing."
+          "text": "§7that has passed since you first"
+        },
+        {
+          "text": "§7joined."
+        },
+        {
+          "text": "§8Max Bonus: 100"
         },
         {
           "text": ""
@@ -41935,10 +41937,10 @@
           "text": ""
         },
         {
-          "text": "§8Works while in Accessory Bag!"
+          "text": "§8This item can be reforged!"
         },
         {
-          "text": "§c§lSPECIAL HATCESSORY"
+          "text": "§c§lSPECIAL HELMET"
         }
       ],
       "minecraft:profile": {
@@ -41981,15 +41983,6 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Magic Find: §b+1"
-        },
-        {
-          "text": "§7Accessory Power: §6+3"
-        },
-        {
-          "text": ""
-        },
-        {
           "text": "§7Show your pride for SkyBlock's §d7th"
         },
         {
@@ -41999,16 +41992,22 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Party Time! "
+          "text": "§6Ability: Party Time!"
         },
         {
-          "text": "§7Gain §b+1 Intelligence §7while on your"
+          "text": "§7Grants §b+1 Intelligence §7while on"
         },
         {
-          "text": "§7head for each SkyBlock year you've"
+          "text": "§7your head for each §aSkyBlock Year"
         },
         {
-          "text": "§7been playing."
+          "text": "§7that has passed since you first"
+        },
+        {
+          "text": "§7joined."
+        },
+        {
+          "text": "§8Max Bonus: 100"
         },
         {
           "text": ""
@@ -42020,10 +42019,10 @@
           "text": ""
         },
         {
-          "text": "§8Works while in Accessory Bag!"
+          "text": "§8This item can be reforged!"
         },
         {
-          "text": "§c§lSPECIAL HATCESSORY"
+          "text": "§c§lSPECIAL HELMET"
         }
       ],
       "minecraft:profile": {
@@ -42148,15 +42147,6 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Magic Find: §b+1"
-        },
-        {
-          "text": "§7Accessory Power: §6+3"
-        },
-        {
-          "text": ""
-        },
-        {
           "text": "§7Show your pride for SkyBlock's §d7th"
         },
         {
@@ -42166,16 +42156,22 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Party Time! "
+          "text": "§6Ability: Party Time!"
         },
         {
-          "text": "§7Gain §b+1 Intelligence §7while on your"
+          "text": "§7Grants §b+1 Intelligence §7while on"
         },
         {
-          "text": "§7head for each SkyBlock year you've"
+          "text": "§7your head for each §aSkyBlock Year"
         },
         {
-          "text": "§7been playing."
+          "text": "§7that has passed since you first"
+        },
+        {
+          "text": "§7joined."
+        },
+        {
+          "text": "§8Max Bonus: 100"
         },
         {
           "text": ""
@@ -42187,10 +42183,10 @@
           "text": ""
         },
         {
-          "text": "§8Works while in Accessory Bag!"
+          "text": "§8This item can be reforged!"
         },
         {
-          "text": "§c§lSPECIAL HATCESSORY"
+          "text": "§c§lSPECIAL HELMET"
         }
       ],
       "minecraft:profile": {
@@ -42233,15 +42229,6 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Magic Find: §b+1"
-        },
-        {
-          "text": "§7Accessory Power: §6+3"
-        },
-        {
-          "text": ""
-        },
-        {
           "text": "§7Show your pride for SkyBlock's §d7th"
         },
         {
@@ -42251,16 +42238,22 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Party Time! "
+          "text": "§6Ability: Party Time!"
         },
         {
-          "text": "§7Gain §b+1 Intelligence §7while on your"
+          "text": "§7Grants §b+1 Intelligence §7while on"
         },
         {
-          "text": "§7head for each SkyBlock year you've"
+          "text": "§7your head for each §aSkyBlock Year"
         },
         {
-          "text": "§7been playing."
+          "text": "§7that has passed since you first"
+        },
+        {
+          "text": "§7joined."
+        },
+        {
+          "text": "§8Max Bonus: 100"
         },
         {
           "text": ""
@@ -42272,10 +42265,10 @@
           "text": ""
         },
         {
-          "text": "§8Works while in Accessory Bag!"
+          "text": "§8This item can be reforged!"
         },
         {
-          "text": "§c§lSPECIAL HATCESSORY"
+          "text": "§c§lSPECIAL HELMET"
         }
       ],
       "minecraft:profile": {
@@ -42318,15 +42311,6 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Magic Find: §b+1"
-        },
-        {
-          "text": "§7Accessory Power: §6+3"
-        },
-        {
-          "text": ""
-        },
-        {
           "text": "§7Show your pride for SkyBlock's §d7th"
         },
         {
@@ -42336,16 +42320,22 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Party Time! "
+          "text": "§6Ability: Party Time!"
         },
         {
-          "text": "§7Gain §b+1 Intelligence §7while on your"
+          "text": "§7Grants §b+1 Intelligence §7while on"
         },
         {
-          "text": "§7head for each SkyBlock year you've"
+          "text": "§7your head for each §aSkyBlock Year"
         },
         {
-          "text": "§7been playing."
+          "text": "§7that has passed since you first"
+        },
+        {
+          "text": "§7joined."
+        },
+        {
+          "text": "§8Max Bonus: 100"
         },
         {
           "text": ""
@@ -42357,10 +42347,10 @@
           "text": ""
         },
         {
-          "text": "§8Works while in Accessory Bag!"
+          "text": "§8This item can be reforged!"
         },
         {
-          "text": "§c§lSPECIAL HATCESSORY"
+          "text": "§c§lSPECIAL HELMET"
         }
       ],
       "minecraft:profile": {
@@ -42403,15 +42393,6 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Magic Find: §b+1"
-        },
-        {
-          "text": "§7Accessory Power: §6+3"
-        },
-        {
-          "text": ""
-        },
-        {
           "text": "§7Show your pride for SkyBlock's §d7th"
         },
         {
@@ -42421,16 +42402,22 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Party Time! "
+          "text": "§6Ability: Party Time!"
         },
         {
-          "text": "§7Gain §b+1 Intelligence §7while on your"
+          "text": "§7Grants §b+1 Intelligence §7while on"
         },
         {
-          "text": "§7head for each SkyBlock year you've"
+          "text": "§7your head for each §aSkyBlock Year"
         },
         {
-          "text": "§7been playing."
+          "text": "§7that has passed since you first"
+        },
+        {
+          "text": "§7joined."
+        },
+        {
+          "text": "§8Max Bonus: 100"
         },
         {
           "text": ""
@@ -42442,10 +42429,10 @@
           "text": ""
         },
         {
-          "text": "§8Works while in Accessory Bag!"
+          "text": "§8This item can be reforged!"
         },
         {
-          "text": "§c§lSPECIAL HATCESSORY"
+          "text": "§c§lSPECIAL HELMET"
         }
       ],
       "minecraft:profile": {
@@ -42570,15 +42557,6 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Magic Find: §b+1"
-        },
-        {
-          "text": "§7Accessory Power: §6+3"
-        },
-        {
-          "text": ""
-        },
-        {
           "text": "§7Show your pride for SkyBlock's §d7th"
         },
         {
@@ -42588,16 +42566,22 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Party Time! "
+          "text": "§6Ability: Party Time!"
         },
         {
-          "text": "§7Gain §b+1 Intelligence §7while on your"
+          "text": "§7Grants §b+1 Intelligence §7while on"
         },
         {
-          "text": "§7head for each SkyBlock year you've"
+          "text": "§7your head for each §aSkyBlock Year"
         },
         {
-          "text": "§7been playing."
+          "text": "§7that has passed since you first"
+        },
+        {
+          "text": "§7joined."
+        },
+        {
+          "text": "§8Max Bonus: 100"
         },
         {
           "text": ""
@@ -42609,10 +42593,10 @@
           "text": ""
         },
         {
-          "text": "§8Works while in Accessory Bag!"
+          "text": "§8This item can be reforged!"
         },
         {
-          "text": "§c§lSPECIAL HATCESSORY"
+          "text": "§c§lSPECIAL HELMET"
         }
       ],
       "minecraft:profile": {
@@ -44452,10 +44436,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Health Regen: §c+5"
+          "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": "§7Accessory Power: §6+16"
+          "text": "§7Health Regen: §c+5"
         },
         {
           "text": ""
@@ -45184,13 +45168,10 @@
           "text": ""
         },
         {
-          "text": "§7Increases the drop chance of"
+          "text": "§7Mobs have a §a+15% §7chance to drop"
         },
         {
-          "text": "§7candies from mobs by §a15% §7during the"
-        },
-        {
-          "text": "§6Spooky Festival§7."
+          "text": "§7candy during the §6Spooky Festival§7."
         },
         {
           "text": ""
@@ -45579,13 +45560,10 @@
           "text": ""
         },
         {
-          "text": "§7Increases the drop chance of"
+          "text": "§7Mobs have a §a+20% §7chance to drop"
         },
         {
-          "text": "§7candies from mobs by §a20% §7during the"
-        },
-        {
-          "text": "§6Spooky Festival§7."
+          "text": "§7candy during the §6Spooky Festival§7."
         },
         {
           "text": ""
@@ -45641,13 +45619,10 @@
           "text": ""
         },
         {
-          "text": "§7Increases the drop chance of"
+          "text": "§7Mobs have a §a+10% §7chance to drop"
         },
         {
-          "text": "§7candies from mobs by §a10% §7during the"
-        },
-        {
-          "text": "§6Spooky Festival§7."
+          "text": "§7candy during the §6Spooky Festival§7."
         },
         {
           "text": ""
@@ -45703,13 +45678,10 @@
           "text": ""
         },
         {
-          "text": "§7Increases the drop chance of"
+          "text": "§7Mobs have a §a+5% §7chance to drop"
         },
         {
-          "text": "§7candies from mobs by §a5% §7during the"
-        },
-        {
-          "text": "§6Spooky Festival§7."
+          "text": "§7candy during the §6Spooky Festival§7."
         },
         {
           "text": ""
@@ -46256,7 +46228,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Phwomp  §e§lRIGHT CLICK"
+          "text": "§6Ability: Phwomp §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoots a dart. Can only damage"
@@ -48838,10 +48810,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Speed: §f+1"
+          "text": "§7Accessory Power: §6+5"
         },
         {
-          "text": "§7Accessory Power: §6+5"
+          "text": "§7Speed: §f+1"
         },
         {
           "text": ""
@@ -50157,7 +50129,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Lightning Strike  §e§lRIGHT CLICK"
+          "text": "§6Ability: Lightning Strike §e§lRIGHT CLICK"
         },
         {
           "text": "§7Strikes lightning up to §f10 blocks §7away, dealing"
@@ -51226,7 +51198,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Mythos' Might "
+          "text": "§6Ability: Mythos' Might"
         },
         {
           "text": "§7Grants §a2x §7this equipment's stats"
@@ -51311,7 +51283,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Mythos' Might "
+          "text": "§6Ability: Mythos' Might"
         },
         {
           "text": "§7Grants §a2x §7this armor's stats while in"
@@ -51389,7 +51361,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Mythos' Might "
+          "text": "§6Ability: Mythos' Might"
         },
         {
           "text": "§7Grants §a2x §7this equipment's stats"
@@ -51474,7 +51446,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Mythos' Might "
+          "text": "§6Ability: Mythos' Might"
         },
         {
           "text": "§7Grants §a2x §7this armor's stats while in"
@@ -51551,7 +51523,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Mythos' Might "
+          "text": "§6Ability: Mythos' Might"
         },
         {
           "text": "§7Grants §a2x §7this equipment's stats"
@@ -51635,7 +51607,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Mythos' Might "
+          "text": "§6Ability: Mythos' Might"
         },
         {
           "text": "§7Grants §a2x §7this armor's stats while in"
@@ -51721,7 +51693,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Mythos' Might "
+          "text": "§6Ability: Mythos' Might"
         },
         {
           "text": "§7Grants §a2x §7this armor's stats while in"
@@ -51799,7 +51771,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Mythos' Might "
+          "text": "§6Ability: Mythos' Might"
         },
         {
           "text": "§7Grants §a2x §7this equipment's stats"
@@ -52671,10 +52643,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Speed: §f+3"
+          "text": "§7Accessory Power: §6+12"
         },
         {
-          "text": "§7Accessory Power: §6+12"
+          "text": "§7Speed: §f+3"
         },
         {
           "text": ""
@@ -55351,22 +55323,22 @@
       },
       "minecraft:lore": [
         {
+          "text": "§7Accessory Power: §6+5"
+        },
+        {
           "text": "§7Fishing Speed: §b+1"
         },
         {
           "text": "§7Fishing Wisdom: §3+1"
         },
         {
-          "text": "§7Accessory Power: §6+5"
-        },
-        {
           "text": ""
         },
         {
-          "text": "§7Listen, it's for real chums of Moby,"
+          "text": "§8§oListen, it's for real chums of Moby,"
         },
         {
-          "text": "§7ok?"
+          "text": "§8§ook?"
         },
         {
           "text": ""
@@ -56758,7 +56730,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Cleave "
+          "text": "§6Ability: Cleave"
         },
         {
           "text": "§7When hitting an entity, monsters in a §a3§7 block"
@@ -60943,7 +60915,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Combo Mania "
+          "text": "§6Ability: Combo Mania"
         },
         {
           "text": "§7Combos in the §aTime Chamber §7take §a+0.5"
@@ -65267,7 +65239,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Detonate "
+          "text": "§6Ability: Detonate"
         },
         {
           "text": "§7Causes an explosion when dropping"
@@ -65883,7 +65855,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Capture  §e§lRIGHT CLICK"
+          "text": "§6Ability: Capture §e§lRIGHT CLICK"
         },
         {
           "text": "§7Throw your §cCritter Capsule§7 in the"
@@ -66186,7 +66158,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Farmer's Grace "
+          "text": "§6Ability: Farmer's Grace"
         },
         {
           "text": "§7Grants immunity to trampling crops."
@@ -66580,7 +66552,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Cropshot "
+          "text": "§6Ability: Cropshot"
         },
         {
           "text": "§7Grants §6+3 Farming Fortune §7per"
@@ -66759,7 +66731,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Overindulgence "
+          "text": "§6Ability: Overindulgence"
         },
         {
           "text": "§2 Mythological §7mobs deal §c1.5x"
@@ -67891,7 +67863,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Dreadlord  §e§lRIGHT CLICK"
+          "text": "§6Ability: Dreadlord §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoot a skull that deals §a504§7 damage."
@@ -68148,7 +68120,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Witherlord  §e§lRIGHT CLICK"
+          "text": "§6Ability: Witherlord §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoot 3 skulls each dealing §a304.5§7 Damage."
@@ -69093,7 +69065,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Absorptio  §e§lRIGHT CLICK"
+          "text": "§6Ability: Absorptio §e§lRIGHT CLICK"
         },
         {
           "text": "§7This weapon lets you absorb §c15% §7of"
@@ -69108,7 +69080,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Vis Temperata "
+          "text": "§6Ability: Vis Temperata"
         },
         {
           "text": "§7Each strike of this weapon has its"
@@ -69943,22 +69915,22 @@
           "text": ""
         },
         {
-          "text": "§7Official medal proving your eternal"
-        },
-        {
-          "text": "§7support for Dante."
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§7Can be shown to goons in place of a"
+          "text": "§7Can be shown to Goons in place of a"
         },
         {
           "text": "§7Happy Mask for entry into official"
         },
         {
           "text": "§7buildings."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§oAn official medal proving your"
+        },
+        {
+          "text": "§8§oeternal support for Dante."
         },
         {
           "text": ""
@@ -69982,7 +69954,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -71537,9 +71509,6 @@
           "text": "§7Health: §c+50"
         },
         {
-          "text": "§7Magic Find: §b+2"
-        },
-        {
           "text": ""
         },
         {
@@ -71707,10 +71676,16 @@
           "text": ""
         },
         {
-          "text": "§7Increases your §c Strength §7and §a"
+          "text": "§7Grants §c+5 Strength §7and §a+5"
         },
         {
-          "text": "§aDefense§7 by §a+5§7 during the Day."
+          "text": "§aDefense §7during the day."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
         },
         {
           "text": ""
@@ -72000,7 +71975,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Meownar  §e§lRIGHT CLICK"
+          "text": "§6Ability: Meownar §e§lRIGHT CLICK"
         },
         {
           "text": "§7Ping the §5Rift §7for parts of"
@@ -72468,7 +72443,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Throwing Axe  §e§lRIGHT CLICK"
+          "text": "§6Ability: Throwing Axe §e§lRIGHT CLICK"
         },
         {
           "text": "§7While on §2Foraging Islands§7, throw your Axe at a"
@@ -73052,10 +73027,10 @@
           "text": ""
         },
         {
-          "text": "§7Obtained from a Kloon who doesn't"
+          "text": "§8§oObtained from a Kloon who doesn't"
         },
         {
-          "text": "§7seem too stable."
+          "text": "§8§oseem too stable."
         },
         {
           "text": ""
@@ -73076,7 +73051,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -73199,7 +73174,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Echo  §e§lRIGHT CLICK"
+          "text": "§6Ability: Echo §e§lRIGHT CLICK"
         },
         {
           "text": "§7Show the way to the next or nearby Griffin"
@@ -73800,7 +73775,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Detect!  §e§lRIGHT CLICK"
+          "text": "§6Ability: Detect! §e§lRIGHT CLICK"
         },
         {
           "text": "§7Investigate a clue or abnormality."
@@ -73949,7 +73924,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Faces All The Way Down "
+          "text": "§6Ability: Faces All The Way Down"
         },
         {
           "text": "§7Regain §a+2 §7when killing a monster."
@@ -74160,7 +74135,7 @@
         "id": "DIAMOND_ATOM"
       },
       "minecraft:custom_name": {
-        "text": "§9Diamond Atom"
+        "text": "§5Diamond Atom"
       },
       "minecraft:lore": [
         {
@@ -74224,7 +74199,7 @@
           "text": ""
         },
         {
-          "text": "§9§lRARE REFORGE STONE"
+          "text": "§5§lEPIC REFORGE STONE"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/reforge_stones/diamond_atom",
@@ -74244,7 +74219,7 @@
           "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
@@ -78016,7 +77991,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Copycat  §e§lRIGHT CLICK"
+          "text": "§6Ability: Copycat §e§lRIGHT CLICK"
         },
         {
           "text": "§7Click on a player to copy their skin"
@@ -78075,7 +78050,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Copycat  §e§lRIGHT CLICK"
+          "text": "§6Ability: Copycat §e§lRIGHT CLICK"
         },
         {
           "text": "§7Click on a player to copy their skin's"
@@ -81402,7 +81377,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Dragon Stalker "
+          "text": "§6Ability: Dragon Stalker"
         },
         {
           "text": "§7Deal §a15% §7bonus damage to Dragons."
@@ -82703,7 +82678,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -88170,7 +88145,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: ME SMASH HEAD  §e§lRIGHT CLICK"
+          "text": "§6Ability: ME SMASH HEAD §e§lRIGHT CLICK"
         },
         {
           "text": "§7Your next attack deals §cdouble damage §7and"
@@ -88611,7 +88586,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Egglocator  §e§lRIGHT CLICK"
+          "text": "§6Ability: Egglocator §e§lRIGHT CLICK"
         },
         {
           "text": "§7Points towards the nearest unclaimed"
@@ -90070,7 +90045,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Fire Blast  §e§lRIGHT CLICK"
+          "text": "§6Ability: Fire Blast §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoot 3 Fireballs which deal §c30§7 damage in"
@@ -98725,7 +98700,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Time Warp  §e§lRIGHT CLICK"
+          "text": "§6Ability: Time Warp §e§lRIGHT CLICK"
         },
         {
           "text": "§7Advance Time by §d1 hour§7!"
@@ -100406,7 +100381,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Ender Warp  §e§lLEFT CLICK"
+          "text": "§6Ability: Ender Warp §e§lLEFT CLICK"
         },
         {
           "text": "§7Shoots an Ender Pearl. Upon landing you deal"
@@ -102534,7 +102509,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Extreme Focus  §e§lLEFT CLICK"
+          "text": "§6Ability: Extreme Focus §e§lLEFT CLICK"
         },
         {
           "text": "§7Consumes all your mana, and your next hit will"
@@ -102675,7 +102650,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Extreme Focus  §e§lRIGHT CLICK"
+          "text": "§6Ability: Extreme Focus §e§lRIGHT CLICK"
         },
         {
           "text": "§7While in the §dThe End§7, consume all of your"
@@ -102875,7 +102850,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Enrage  §e§lRIGHT CLICK"
+          "text": "§6Ability: Enrage §e§lRIGHT CLICK"
         },
         {
           "text": "§7Taunt enemies in a §a10 block §7radius and reduce"
@@ -103021,7 +102996,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Throw  §e§lRIGHT CLICK"
+          "text": "§6Ability: Throw §e§lRIGHT CLICK"
         },
         {
           "text": "§7Throw the Lasso at §2Forest"
@@ -103036,7 +103011,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Reel In  §e§lRIGHT CLICK"
+          "text": "§6Ability: Reel In §e§lRIGHT CLICK"
         },
         {
           "text": "§7Reel in creatures caught by the"
@@ -103057,7 +103032,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Tug "
+          "text": "§6Ability: Tug"
         },
         {
           "text": "§7Grants §d+2.5 Hunting Fortune §7on"
@@ -105623,7 +105598,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Ether Transmission  §e§lRIGHT CLICK"
+          "text": "§6Ability: Ether Transmission §e§lRIGHT CLICK"
         },
         {
           "text": "§7Teleport to your targeted block up"
@@ -105807,7 +105782,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Evergreen "
+          "text": "§6Ability: Evergreen"
         },
         {
           "text": "§7Gain §a2% §7more base crops when"
@@ -105877,7 +105852,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Throw  §e§lRIGHT CLICK"
+          "text": "§6Ability: Throw §e§lRIGHT CLICK"
         },
         {
           "text": "§7Throw the Lasso at §2Forest"
@@ -105892,7 +105867,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Reel In  §e§lRIGHT CLICK"
+          "text": "§6Ability: Reel In §e§lRIGHT CLICK"
         },
         {
           "text": "§7Reel in creatures caught by the"
@@ -105913,7 +105888,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Wrangle "
+          "text": "§6Ability: Wrangle"
         },
         {
           "text": "§7Grants §d+5 Hunting Fortune §7on"
@@ -106732,7 +106707,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Explosive Shot "
+          "text": "§6Ability: Explosive Shot"
         },
         {
           "text": "§7Creates an explosion on impact!"
@@ -111710,7 +111685,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Rezonate  §e§lRIGHT CLICK"
+          "text": "§6Ability: Rezonate §e§lRIGHT CLICK"
         },
         {
           "text": "§7Leads you to the nearest §5Fallen Star §7while in"
@@ -111732,7 +111707,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -112011,7 +111986,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Bejeweled Blade "
+          "text": "§6Ability: Bejeweled Blade"
         },
         {
           "text": "§7Deals §a+150% §7damage to mobs on"
@@ -114075,7 +114050,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Reaving Strike  §e§lRIGHT CLICK"
+          "text": "§6Ability: Reaving Strike §e§lRIGHT CLICK"
         },
         {
           "text": "§7Slash in a huge arc, dealing §c135% §7melee"
@@ -114785,7 +114760,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Farmer's Grace "
+          "text": "§6Ability: Farmer's Grace"
         },
         {
           "text": "§7Grants immunity to trampling crops."
@@ -117872,22 +117847,16 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Hunting Fortune: §d+2"
-        },
-        {
           "text": "§7Accessory Power: §6+12"
         },
         {
-          "text": ""
-        },
-        {
-          "text": "§7Grants §d+2 Hunting Fortune§7."
+          "text": "§7Hunting Fortune: §d+2"
         },
         {
           "text": ""
         },
         {
-          "text": "§7§oA fragment of the core of Kuudra."
+          "text": "§8§oA fragment of the core of Kuudra."
         },
         {
           "text": ""
@@ -117919,11 +117888,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -118675,7 +118646,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Super Frenzy "
+          "text": "§6Ability: Super Frenzy"
         },
         {
           "text": "§7Gains §21 Sweep §7every §a10,000 Logs"
@@ -118758,7 +118729,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Frenzy "
+          "text": "§6Ability: Frenzy"
         },
         {
           "text": "§7Gains §21 Sweep §7every §a2,000 Logs"
@@ -120912,7 +120883,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Attunement  §e§lRIGHT CLICK"
+          "text": "§6Ability: Attunement §e§lRIGHT CLICK"
         },
         {
           "text": "§7Swap between §8Ashen §7and §eAuric §7mode in order"
@@ -120951,7 +120922,7 @@
           "text": "§4☠ §cRequires §5Blaze Slayer 2§c."
         },
         {
-          "text": "§9§lRARE SWORD"
+          "text": "§9§lRARE SLAYER SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/slayer/blaze/swords/firedust_dagger",
@@ -121176,7 +121147,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Fire Freeze  §e§lRIGHT CLICK"
+          "text": "§6Ability: Fire Freeze §e§lRIGHT CLICK"
         },
         {
           "text": "§7Creates a circle with a radius of §a5 blocks§7."
@@ -121246,7 +121217,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Firestorm  §e§lRIGHT CLICK"
+          "text": "§6Ability: Firestorm §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoots a projectile that on impact creates a"
@@ -121438,7 +121409,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Fire Veil  §e§lRIGHT CLICK"
+          "text": "§6Ability: Fire Veil §e§lRIGHT CLICK"
         },
         {
           "text": "§7Creates a veil of fire around you for §a5s§7,"
@@ -122943,7 +122914,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Splash  §e§lSNEAK"
+          "text": "§6Ability: Splash §e§lSNEAK"
         },
         {
           "text": "§7Crouch to splash some water around."
@@ -123921,7 +123892,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Flay  §e§lRIGHT CLICK"
+          "text": "§6Ability: Flay §e§lRIGHT CLICK"
         },
         {
           "text": "§7Flay your whip in an arc, dealing your melee"
@@ -126209,7 +126180,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Instant Heal  §e§lRIGHT CLICK"
+          "text": "§6Ability: Instant Heal §e§lRIGHT CLICK"
         },
         {
           "text": "§7Heal for §c500❤ §7and heal players within §a8"
@@ -127337,7 +127308,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Heat-Seeking Rose  §e§lRIGHT CLICK"
+          "text": "§6Ability: Heat-Seeking Rose §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoots a rose that ricochets between enemies,"
@@ -130417,7 +130388,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Reality Check "
+          "text": "§6Ability: Reality Check"
         },
         {
           "text": "§7Allows you to conceptualize and"
@@ -130485,7 +130456,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Reality Check "
+          "text": "§6Ability: Reality Check"
         },
         {
           "text": "§7Allows you to conceptualize and"
@@ -130500,7 +130471,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Hi-Vis Wormhole Helmet "
+          "text": "§6Ability: Hi-Vis Wormhole Helmet"
         },
         {
           "text": "§7Allows you to get some §7§ovibes §7about"
@@ -130582,7 +130553,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Reality Check "
+          "text": "§6Ability: Reality Check"
         },
         {
           "text": "§7Allows you to conceptualize and"
@@ -130597,7 +130568,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Hi-Vis Wormhole Helmet "
+          "text": "§6Ability: Hi-Vis Wormhole Helmet"
         },
         {
           "text": "§7Allows you to get some §7§ovibes §7about"
@@ -130676,7 +130647,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Reality Check "
+          "text": "§6Ability: Reality Check"
         },
         {
           "text": "§7Allows you to conceptualize and"
@@ -130766,7 +130737,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Leapfrog  §e§lDOUBLE TAP JUMP"
+          "text": "§6Ability: Leapfrog §e§lDOUBLE TAP JUMP"
         },
         {
           "text": "§7Grants you the abilities of a §aFrog"
@@ -130954,7 +130925,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Stick Around "
+          "text": "§6Ability: Stick Around"
         },
         {
           "text": "§7Every §bSkyBlock §7day, a random region"
@@ -131880,10 +131851,16 @@
       },
       "minecraft:lore": [
         {
+          "text": "§7Accessory Power: §6+8"
+        },
+        {
           "text": "§7Speed: §f+1"
         },
         {
-          "text": "§7Accessory Power: §6+8"
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
         },
         {
           "text": ""
@@ -131993,7 +131970,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Ice Bolt  §e§lRIGHT CLICK"
+          "text": "§6Ability: Ice Bolt §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoots §a1 §7Ice Bolt that deals §c1,000 §7damage and"
@@ -132146,7 +132123,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Snake Taming  §e§lHOLD RIGHT CLICK"
+          "text": "§6Ability: Snake Taming §e§lHOLD RIGHT CLICK"
         },
         {
           "text": "§7Aim at a §9Living Metal Snake §7to deeply"
@@ -135477,7 +135454,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Ray of Hope  §e§lRIGHT CLICK"
+          "text": "§6Ability: Ray of Hope §e§lRIGHT CLICK"
         },
         {
           "text": "§7Channels your energy towards the target"
@@ -136384,7 +136361,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Blazing Restoration "
+          "text": "§6Ability: Blazing Restoration"
         },
         {
           "text": "§7Restores §c+5 Health §7every second"
@@ -137595,7 +137572,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Spooktacular "
+          "text": "§6Ability: Spooktacular"
         },
         {
           "text": "§7Deal §a100% §7more damage to §6 Spooky"
@@ -137659,7 +137636,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Eye Beam  §e§lRIGHT CLICK"
+          "text": "§6Ability: Eye Beam §e§lRIGHT CLICK"
         },
         {
           "text": "§7Fire a laser in front of you"
@@ -137739,7 +137716,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Giant's Slam  §e§lRIGHT CLICK"
+          "text": "§6Ability: Giant's Slam §e§lRIGHT CLICK"
         },
         {
           "text": "§7Slam your sword into the ground dealing"
@@ -137806,7 +137783,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Bounce Bonanza EX  §e§lRIGHT CLICK"
+          "text": "§6Ability: Bounce Bonanza EX §e§lRIGHT CLICK"
         },
         {
           "text": "§7Toss this ball and try bouncing it on"
@@ -137879,7 +137856,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Cleave "
+          "text": "§6Ability: Cleave"
         },
         {
           "text": "§7When hitting an entity, monsters in a §a5§7 block"
@@ -139279,7 +139256,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Yoink  §e§lRIGHT CLICK"
+          "text": "§6Ability: Yoink §e§lRIGHT CLICK"
         },
         {
           "text": "§7Throw your fishing net at swimming"
@@ -139300,7 +139277,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Overhaul "
+          "text": "§6Ability: Overhaul"
         },
         {
           "text": "§7Grants §d+10 Hunting Fortune §7on"
@@ -140092,7 +140069,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Ice Bolt  §e§lRIGHT CLICK"
+          "text": "§6Ability: Ice Bolt §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoots §a1 §7Ice Bolt that deals §c1,500 §7damage and"
@@ -141047,7 +141024,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Deploy  §e§lRIGHT CLICK"
+          "text": "§6Ability: Deploy §e§lRIGHT CLICK"
         },
         {
           "text": "§7Place an orb for §a5m §7buffing up to §b5"
@@ -141722,7 +141699,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Life Tap  §e§lLEFT CLICK"
+          "text": "§6Ability: Life Tap §e§lLEFT CLICK"
         },
         {
           "text": "§7Convert §315⸎ Soulflow §7to gain up to §3600"
@@ -141740,7 +141717,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Extreme Measures  §e§lRIGHT CLICK"
+          "text": "§6Ability: Extreme Measures §e§lRIGHT CLICK"
         },
         {
           "text": "§7Heal for §c1,000❤§7."
@@ -145822,7 +145799,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Gravity Falls "
+          "text": "§6Ability: Gravity Falls"
         },
         {
           "text": "§7Increases your total §a Rift Time §7by"
@@ -146338,7 +146315,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Empyrean Intuition "
+          "text": "§6Ability: Empyrean Intuition"
         },
         {
           "text": "§7Grants §d+15 Tracking §7on §eGriffin"
@@ -149927,7 +149904,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Iron Punch  §e§lRIGHT CLICK"
+          "text": "§6Ability: Iron Punch §e§lRIGHT CLICK"
         },
         {
           "text": "§7Punch the ground, damaging enemies in a"
@@ -152382,7 +152359,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Spook  §e§lRIGHT CLICK"
+          "text": "§6Ability: Spook §e§lRIGHT CLICK"
         },
         {
           "text": "§7Will make you appear as a §eDead Bush §7to other"
@@ -153553,7 +153530,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Growth "
+          "text": "§6Ability: Growth"
         },
         {
           "text": "§7Regen §45 Vitality §7when killing a mob."
@@ -153626,7 +153603,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Growth "
+          "text": "§6Ability: Growth"
         },
         {
           "text": "§7Regen §45 Vitality §7when killing a mob."
@@ -153699,7 +153676,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Growth "
+          "text": "§6Ability: Growth"
         },
         {
           "text": "§7Regen §45 Vitality §7when killing a mob."
@@ -153772,7 +153749,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Growth "
+          "text": "§6Ability: Growth"
         },
         {
           "text": "§7Regen §45 Vitality §7when killing a mob."
@@ -153927,7 +153904,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Block Damage "
+          "text": "§6Ability: Block Damage"
         },
         {
           "text": "§7If you are at full §c Health§7, the first damage"
@@ -154332,7 +154309,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Gravity Storm  §e§lLEFT CLICK"
+          "text": "§6Ability: Gravity Storm §e§lLEFT CLICK"
         },
         {
           "text": "§7Create a large §5rift §7at the aimed"
@@ -154359,7 +154336,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Cells Alignment  §e§lRIGHT CLICK"
+          "text": "§6Ability: Cells Alignment §e§lRIGHT CLICK"
         },
         {
           "text": "§7Apply §aAligned §7to yourself for §a6s§7,"
@@ -156854,7 +156831,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Haunt  §e§lRIGHT CLICK"
+          "text": "§6Ability: Haunt §e§lRIGHT CLICK"
         },
         {
           "text": "§7Teleport to an alive player!"
@@ -157208,7 +157185,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Succulence  §e§lRIGHT CLICK"
+          "text": "§6Ability: Succulence §e§lRIGHT CLICK"
         },
         {
           "text": "§7Take a bite and heal §c7❤§7."
@@ -157448,7 +157425,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Attunement  §e§lRIGHT CLICK"
+          "text": "§6Ability: Attunement §e§lRIGHT CLICK"
         },
         {
           "text": "§7Swap between §8Ashen §7and §eAuric §7mode in order"
@@ -157487,7 +157464,7 @@
           "text": "§4☠ §cRequires §5Blaze Slayer 6§c."
         },
         {
-          "text": "§6§lLEGENDARY SWORD"
+          "text": "§6§lLEGENDARY SLAYER SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/slayer/blaze/swords/pyrochaos_dagger",
@@ -157560,7 +157537,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Attunement  §e§lRIGHT CLICK"
+          "text": "§6Ability: Attunement §e§lRIGHT CLICK"
         },
         {
           "text": "§7Swap between §fSpirit §7and §bCrystal §7mode in order"
@@ -157599,7 +157576,7 @@
           "text": "§4☠ §cRequires §5Blaze Slayer 6§c."
         },
         {
-          "text": "§6§lLEGENDARY SWORD"
+          "text": "§6§lLEGENDARY SLAYER SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/slayer/blaze/swords/deathripper_dagger",
@@ -157660,7 +157637,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Pressurized Coating "
+          "text": "§6Ability: Pressurized Coating"
         },
         {
           "text": "§7Triple this piece's §a Defense §7and §c"
@@ -157748,7 +157725,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Pressurized Coating "
+          "text": "§6Ability: Pressurized Coating"
         },
         {
           "text": "§7Triple this piece's §a Defense §7and §c"
@@ -157896,7 +157873,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Pressurized Coating "
+          "text": "§6Ability: Pressurized Coating"
         },
         {
           "text": "§7Triple this piece's §a Defense §7and §c"
@@ -157984,7 +157961,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Pressurized Coating "
+          "text": "§6Ability: Pressurized Coating"
         },
         {
           "text": "§7Triple this piece's §a Defense §7and §c"
@@ -158582,7 +158559,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Farmer's Grace "
+          "text": "§6Ability: Farmer's Grace"
         },
         {
           "text": "§7Grants immunity to trampling crops."
@@ -159388,7 +159365,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Mega Frenzy "
+          "text": "§6Ability: Mega Frenzy"
         },
         {
           "text": "§7Gains §21 Sweep §7every §a20,000 Logs"
@@ -159662,7 +159639,7 @@
     }
   },
   {
-    "id": "minecraft:redstone_torch",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "HELLSTORM_STAFF"
@@ -159687,7 +159664,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Hellstorm  §e§lRIGHT CLICK"
+          "text": "§6Ability: Hellstorm §e§lRIGHT CLICK"
         },
         {
           "text": "§7Gain §c5 Ability Damage§7, but take double"
@@ -161009,7 +160986,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Try Your Luck  §e§lRIGHT CLICK"
+          "text": "§6Ability: Try Your Luck §e§lRIGHT CLICK"
         },
         {
           "text": "§7Costs §66.7M §7coins to roll between 1-6."
@@ -162862,7 +162839,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Splash Yo Face  §e§lRIGHT CLICK"
+          "text": "§6Ability: Splash Yo Face §e§lRIGHT CLICK"
         },
         {
           "text": "§7For the next §a1.5s§7, reduce §c❤ §7damage taken by"
@@ -163373,7 +163350,7 @@
     }
   },
   {
-    "id": "minecraft:sunflower",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
         "id": "HOPE_OF_THE_RESISTANCE"
@@ -163384,13 +163361,13 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Ray of Hope  §e§lRIGHT CLICK"
+          "text": "§6Ability: Ray of Hope §e§lRIGHT CLICK"
         },
         {
           "text": "§7Channels your energy towards the target"
         },
         {
-          "text": "§7location, exploding on impact for §c503.5 §7damage."
+          "text": "§7location, exploding on impact for §c525.3 §7damage."
         },
         {
           "text": "§7Costs §b10% §7of your total mana to use. This is"
@@ -163742,7 +163719,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Shoot  §e§lRIGHT CLICK"
+          "text": "§6Ability: Shoot §e§lRIGHT CLICK"
         },
         {
           "text": "§7Launches a horse to clear out hay."
@@ -163980,7 +163957,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Hotspotter  §e§lRIGHT CLICK"
+          "text": "§6Ability: Hotspotter §e§lRIGHT CLICK"
         },
         {
           "text": "§7Points towards the nearest §dFishing Hotspot§7."
@@ -167774,7 +167751,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Tempest "
+          "text": "§6Ability: Tempest"
         },
         {
           "text": "§7The more kills you get using this bow"
@@ -167964,7 +167941,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Hydrate  §e§lHOLD RIGHT CLICK"
+          "text": "§6Ability: Hydrate §e§lHOLD RIGHT CLICK"
         },
         {
           "text": "§7Aim and hold in the direction of a"
@@ -167979,7 +167956,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Fill  §e§lRIGHT CLICK"
+          "text": "§6Ability: Fill §e§lRIGHT CLICK"
         },
         {
           "text": "§7When aiming at a water source, fills"
@@ -168041,7 +168018,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Hydrate  §e§lHOLD RIGHT CLICK"
+          "text": "§6Ability: Hydrate §e§lHOLD RIGHT CLICK"
         },
         {
           "text": "§7Aim and hold in the direction of a"
@@ -168056,7 +168033,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Fill  §e§lRIGHT CLICK"
+          "text": "§6Ability: Fill §e§lRIGHT CLICK"
         },
         {
           "text": "§7When aiming at a water source, fills"
@@ -168118,7 +168095,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Hydrate  §e§lHOLD RIGHT CLICK"
+          "text": "§6Ability: Hydrate §e§lHOLD RIGHT CLICK"
         },
         {
           "text": "§7Aim and hold in the direction of a"
@@ -168133,7 +168110,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Fill  §e§lRIGHT CLICK"
+          "text": "§6Ability: Fill §e§lRIGHT CLICK"
         },
         {
           "text": "§7When aiming at a water source, fills"
@@ -168145,7 +168122,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Aquaburst "
+          "text": "§6Ability: Aquaburst"
         },
         {
           "text": "§7Spreads water in a larger area at"
@@ -168204,7 +168181,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Hypercharge "
+          "text": "§6Ability: Hypercharge"
         },
         {
           "text": "§7Temporary §6 Farming Fortune §7buffs"
@@ -168612,7 +168589,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Cleave "
+          "text": "§6Ability: Cleave"
         },
         {
           "text": "§7When hitting an entity, monsters in a §a4§7 block"
@@ -170398,7 +170375,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Ice Spray  §e§lRIGHT CLICK"
+          "text": "§6Ability: Ice Spray §e§lRIGHT CLICK"
         },
         {
           "text": "§7Produces a cone of ice in front of the caster"
@@ -170815,7 +170792,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Consolidated "
+          "text": "§6Ability: Consolidated"
         },
         {
           "text": "§7Increases all explosion damage dealt by §a25%§7."
@@ -170891,7 +170868,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Implosion  §e§lRIGHT CLICK"
+          "text": "§6Ability: Implosion §e§lRIGHT CLICK"
         },
         {
           "text": "§7Deals §c35,375.8 §7damage to nearby"
@@ -172534,22 +172511,16 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Hunting Fortune: §d+3"
-        },
-        {
           "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": ""
-        },
-        {
-          "text": "§7Grants §d+3 Hunting Fortune§7."
+          "text": "§7Hunting Fortune: §d+3"
         },
         {
           "text": ""
         },
         {
-          "text": "§7§oThe dark core of Kuudra!"
+          "text": "§8§oThe dark core of Kuudra!"
         },
         {
           "text": ""
@@ -172575,11 +172546,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -175477,7 +175450,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Place Dirt  §e§lRIGHT CLICK"
+          "text": "§6Ability: Place Dirt §e§lRIGHT CLICK"
         },
         {
           "text": "§7Place a dirt block."
@@ -175632,7 +175605,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Spirit Leap  §e§lRIGHT CLICK"
+          "text": "§6Ability: Spirit Leap §e§lRIGHT CLICK"
         },
         {
           "text": "§7Allows you to teleport to any teammate! Grants"
@@ -175802,7 +175775,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Vacuum  §e§lHOLD RIGHT CLICK"
+          "text": "§6Ability: Vacuum §e§lHOLD RIGHT CLICK"
         },
         {
           "text": "§7Deals §c300  Damage §7per second to"
@@ -175814,7 +175787,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Pest Tracker  §e§lLEFT CLICK"
+          "text": "§6Ability: Pest Tracker §e§lLEFT CLICK"
         },
         {
           "text": "§7Leads you in the direction of the"
@@ -175896,7 +175869,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Vacuum  §e§lHOLD RIGHT CLICK"
+          "text": "§6Ability: Vacuum §e§lHOLD RIGHT CLICK"
         },
         {
           "text": "§7Deals §c400  Damage §7per second to"
@@ -175908,7 +175881,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Pest Tracker  §e§lLEFT CLICK"
+          "text": "§6Ability: Pest Tracker §e§lLEFT CLICK"
         },
         {
           "text": "§7Leads you in the direction of the"
@@ -175923,7 +175896,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Stereo Harmony  §e§lSNEAK LEFT CLICK"
+          "text": "§6Ability: Stereo Harmony §e§lSNEAK LEFT CLICK"
         },
         {
           "text": "§7Plays vinyls at a frequency only §2"
@@ -176656,7 +176629,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Ink Bomb  §e§lRIGHT CLICK"
+          "text": "§6Ability: Ink Bomb §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoot an ink bomb in front of you dealing"
@@ -176719,10 +176692,16 @@
           "text": ""
         },
         {
-          "text": "§7Monsters at or below Level §a25 §7will no"
+          "text": "§7Mobs at or below §aLevel 25 §7will no"
         },
         {
           "text": "§7longer target you."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
         },
         {
           "text": ""
@@ -176778,7 +176757,7 @@
           "text": ""
         },
         {
-          "text": "§7Monsters at or below Level §a30 §7will no"
+          "text": "§7Mobs at or below §aLevel 30 §7will no"
         },
         {
           "text": "§7longer target you."
@@ -176807,13 +176786,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -178825,7 +178802,7 @@
           "text": ""
         },
         {
-          "text": "§6Spirit Ability: Spirit Bomb "
+          "text": "§6Spirit Ability: Spirit Bomb"
         },
         {
           "text": "§7Shoots a spirit that deals §c8000"
@@ -179017,13 +178994,13 @@
       },
       "minecraft:lore": [
         {
+          "text": "§7Accessory Power: §6+16"
+        },
+        {
           "text": "§7Health: §c+10"
         },
         {
           "text": "§7Pet Luck: §d+1"
-        },
-        {
-          "text": "§7Accessory Power: §6+16"
         },
         {
           "text": ""
@@ -179295,25 +179272,22 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Health: §c+2"
-        },
-        {
           "text": "§7Accessory Power: §6+5"
         },
         {
-          "text": ""
-        },
-        {
-          "text": "§7A mystery was solved!"
+          "text": "§7Health: §c+2"
         },
         {
           "text": ""
         },
         {
-          "text": "§7Increases the number of §5pelts"
+          "text": "§7Earn §5+1 Pelt §7from tracker quests."
         },
         {
-          "text": "§7obtained when hunting animals by §5+1§7."
+          "text": ""
+        },
+        {
+          "text": "§8§oA mystery was solved!"
         },
         {
           "text": ""
@@ -180351,7 +180325,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Rapid-fire  §e§lRIGHT CLICK"
+          "text": "§6Ability: Rapid-fire §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoots a Jerry bullet, dealing §c500"
@@ -180556,13 +180530,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -180646,19 +180618,19 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Intelligence: §b-1"
+          "text": "§7Accessory Power: §6+5"
         },
         {
-          "text": "§7Accessory Power: §6+5"
+          "text": "§7Intelligence: §b-1"
         },
         {
           "text": ""
         },
         {
-          "text": "§7Wear to prove you love Jerry, or"
+          "text": "§8§oWear to prove you love Jerry, or"
         },
         {
-          "text": "§7wear to prove you hate Jerry."
+          "text": "§8§owear to prove you hate Jerry."
         },
         {
           "text": ""
@@ -180758,13 +180730,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -180784,7 +180754,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Jingle Bells  §e§lRIGHT CLICK"
+          "text": "§6Ability: Jingle Bells §e§lRIGHT CLICK"
         },
         {
           "text": "§7Angers all monsters in a §a10 block"
@@ -180823,7 +180793,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -180896,7 +180866,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Succulence  §e§lRIGHT CLICK"
+          "text": "§6Ability: Succulence §e§lRIGHT CLICK"
         },
         {
           "text": "§7Take a bite and heal §c9❤§7."
@@ -180992,7 +180962,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Configure  §e§lLEFT CLICK"
+          "text": "§6Ability: Configure §e§lLEFT CLICK"
         },
         {
           "text": "§7Select a nozzle and material for"
@@ -181019,7 +180989,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Spray  §e§lRIGHT CLICK"
+          "text": "§6Ability: Spray §e§lRIGHT CLICK"
         },
         {
           "text": "§7Sprays your selected material onto"
@@ -181450,7 +181420,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Throwing Axe  §e§lRIGHT CLICK"
+          "text": "§6Ability: Throwing Axe §e§lRIGHT CLICK"
         },
         {
           "text": "§7While on §2Foraging Islands§7, throw your Axe at a"
@@ -181468,7 +181438,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Park Enjoyer "
+          "text": "§6Ability: Park Enjoyer"
         },
         {
           "text": "§7Gain §6+50 Foraging Fortune §7while in §aThe Park§7."
@@ -185065,10 +185035,10 @@
           "text": ""
         },
         {
-          "text": "§7Reduces damage taken from Kuudra"
+          "text": "§7Take §c65% §7less §c Damage §7from"
         },
         {
-          "text": "§7Followers by §a65%§7."
+          "text": "§7Kuudra Followers."
         },
         {
           "text": ""
@@ -186691,7 +186661,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Deploy  §e§lRIGHT CLICK"
+          "text": "§6Ability: Deploy §e§lRIGHT CLICK"
         },
         {
           "text": "§7Place an orb for §a5m §7buffing up to §b5"
@@ -190017,7 +189987,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Black Hole  §e§lRIGHT CLICK"
+          "text": "§6Ability: Black Hole §e§lRIGHT CLICK"
         },
         {
           "text": "§7Place the Black Hole for §a180s§7, and"
@@ -190053,7 +190023,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Blessing from the Void "
+          "text": "§6Ability: Blessing from the Void"
         },
         {
           "text": "§7Grants §d5 Hunting Fortune §7on"
@@ -190110,7 +190080,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Climb!  §e§lRIGHT CLICK"
+          "text": "§6Ability: Climb! §e§lRIGHT CLICK"
         },
         {
           "text": "§7Each click allows you to climb §a4§7 blocks, up to"
@@ -191506,7 +191476,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Leap  §e§lRIGHT CLICK"
+          "text": "§6Ability: Leap §e§lRIGHT CLICK"
         },
         {
           "text": "§7Leap into the air and deal §c350§7 damage to"
@@ -192579,7 +192549,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Friendship is Power "
+          "text": "§6Ability: Friendship is Power"
         },
         {
           "text": "§7Gain §5+1 Rift Damage §7and §b+2 Mana"
@@ -194211,7 +194181,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Throw  §e§lRIGHT CLICK"
+          "text": "§6Ability: Throw §e§lRIGHT CLICK"
         },
         {
           "text": "§7Throw your dagger at your enemies!"
@@ -194421,7 +194391,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Spawn  §e§lRIGHT CLICK"
+          "text": "§6Ability: Spawn §e§lRIGHT CLICK"
         },
         {
           "text": "§7Spawns a living metal autoarmor which can be"
@@ -194469,7 +194439,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Spawn  §e§lRIGHT CLICK"
+          "text": "§6Ability: Spawn §e§lRIGHT CLICK"
         },
         {
           "text": "§7Spawns a living metal autoarmor which can be"
@@ -194517,7 +194487,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Spawn  §e§lRIGHT CLICK"
+          "text": "§6Ability: Spawn §e§lRIGHT CLICK"
         },
         {
           "text": "§7Spawns a living metal autoarmor which can be"
@@ -194565,7 +194535,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Spawn  §e§lRIGHT CLICK"
+          "text": "§6Ability: Spawn §e§lRIGHT CLICK"
         },
         {
           "text": "§7Spawns a living metal autoarmor which can be"
@@ -195285,7 +195255,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -196689,7 +196659,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Succulence  §e§lRIGHT CLICK"
+          "text": "§6Ability: Succulence §e§lRIGHT CLICK"
         },
         {
           "text": "§7Take a bite and heal §c12❤§7."
@@ -197248,10 +197218,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Speed: §f+2"
+          "text": "§7Accessory Power: §6+8"
         },
         {
-          "text": "§7Accessory Power: §6+8"
+          "text": "§7Speed: §f+2"
         },
         {
           "text": ""
@@ -197322,7 +197292,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Rapid Fire  §e§lRIGHT CLICK"
+          "text": "§6Ability: Rapid Fire §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoots §a5§7 Arrows per second for §a8"
@@ -198091,7 +198061,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Arrow Infusion  §e§lON SHOOT"
+          "text": "§6Ability: Arrow Infusion §e§lON SHOOT"
         },
         {
           "text": "§7Consumes 1 §6Magma Cream§7 from the"
@@ -199351,7 +199321,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Splash  §e§lSNEAK"
+          "text": "§6Ability: Splash §e§lSNEAK"
         },
         {
           "text": "§7Crouch to splash some magma around."
@@ -200083,7 +200053,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Cube Fanatic "
+          "text": "§6Ability: Cube Fanatic"
         },
         {
           "text": "§7Gain §a10% §7more §cMagma Cream §7when"
@@ -200557,7 +200527,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Deploy  §e§lRIGHT CLICK"
+          "text": "§6Ability: Deploy §e§lRIGHT CLICK"
         },
         {
           "text": "§7Place an orb for §a1m §7buffing up to §b5"
@@ -201330,7 +201300,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Chimeric Core "
+          "text": "§6Ability: Chimeric Core"
         },
         {
           "text": "§7Copies §a10% §7of your active pet's"
@@ -201730,7 +201700,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Certain Capture  §e§lRIGHT CLICK"
+          "text": "§6Ability: Certain Capture §e§lRIGHT CLICK"
         },
         {
           "text": "§7Throw your §cMasterful Critter"
@@ -202917,7 +202887,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Attunement  §e§lRIGHT CLICK"
+          "text": "§6Ability: Attunement §e§lRIGHT CLICK"
         },
         {
           "text": "§7Swap between §fSpirit §7and §bCrystal §7mode in order"
@@ -202956,7 +202926,7 @@
           "text": "§4☠ §cRequires §5Blaze Slayer 2§c."
         },
         {
-          "text": "§9§lRARE SWORD"
+          "text": "§9§lRARE SLAYER SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/slayer/blaze/swords/twilight_dagger",
@@ -203232,7 +203202,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Mechamind "
+          "text": "§6Ability: Mechamind"
         },
         {
           "text": "§7Grants §a1.5% §7more §eFarming Tool"
@@ -203768,7 +203738,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Yoink  §e§lRIGHT CLICK"
+          "text": "§6Ability: Yoink §e§lRIGHT CLICK"
         },
         {
           "text": "§7Throw your fishing net at swimming"
@@ -203789,7 +203759,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Grab "
+          "text": "§6Ability: Grab"
         },
         {
           "text": "§7Grants §d+2.5 Hunting Fortune §7on"
@@ -204601,7 +204571,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Black Hole  §e§lRIGHT CLICK"
+          "text": "§6Ability: Black Hole §e§lRIGHT CLICK"
         },
         {
           "text": "§7Place the Black Hole for §a180s§7, and"
@@ -204634,7 +204604,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Blessing from the Dark "
+          "text": "§6Ability: Blessing from the Dark"
         },
         {
           "text": "§7Grants §d2.5 Hunting Fortune §7on"
@@ -204690,7 +204660,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Climb!  §e§lRIGHT CLICK"
+          "text": "§6Ability: Climb! §e§lRIGHT CLICK"
         },
         {
           "text": "§7Each click allows you to climb §a3§7 blocks, up to §a9§7."
@@ -205020,19 +204990,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Intelligence: §b+6"
-        },
-        {
           "text": "§7Accessory Power: §6+12"
         },
         {
-          "text": ""
-        },
-        {
-          "text": "§7A single strand of hair from"
-        },
-        {
-          "text": "§7Melody's head."
+          "text": "§7Intelligence: §b+6"
         },
         {
           "text": ""
@@ -205042,6 +205003,15 @@
         },
         {
           "text": "§7Right-Click: §dPlay note!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§8§oA single strand of hair from"
+        },
+        {
+          "text": "§8§oMelody's head."
         },
         {
           "text": ""
@@ -205305,7 +205275,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Farmer's Grace "
+          "text": "§6Ability: Farmer's Grace"
         },
         {
           "text": "§7Grants immunity to trampling crops."
@@ -207977,7 +207947,7 @@
         "id": "MIDAS_JEWEL"
       },
       "minecraft:custom_name": {
-        "text": "§5Midas Jewel"
+        "text": "§6Midas Jewel"
       },
       "minecraft:lore": [
         {
@@ -208068,7 +208038,7 @@
           "text": ""
         },
         {
-          "text": "§5§lEPIC REFORGE STONE"
+          "text": "§6§lLEGENDARY REFORGE STONE"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/reforge_stones/midas_jewel",
@@ -208088,7 +208058,7 @@
           "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
     }
   },
   {
@@ -208115,7 +208085,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Molten Wave  §e§lRIGHT CLICK"
+          "text": "§6Ability: Molten Wave §e§lRIGHT CLICK"
         },
         {
           "text": "§7Cast a wave of molten gold in the direction"
@@ -208133,7 +208103,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Greed "
+          "text": "§6Ability: Greed"
         },
         {
           "text": "§7The §3ability damage bonus §7of this item"
@@ -208204,7 +208174,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Greed "
+          "text": "§6Ability: Greed"
         },
         {
           "text": "§7The strength and damage bonus of"
@@ -209165,16 +209135,19 @@
       },
       "minecraft:lore": [
         {
+          "text": "§7Accessory Power: §6+5"
+        },
+        {
           "text": "§7Health: §c+1"
         },
         {
           "text": ""
         },
         {
-          "text": "§7Don't hate the player, hate the game."
+          "text": "§8§oDon't hate the player, hate the game."
         },
         {
-          "text": "§7- Ice T"
+          "text": "§8§o- Ice T"
         },
         {
           "text": ""
@@ -209183,7 +209156,7 @@
           "text": "§8§l* §8Soulbound §8§l*"
         },
         {
-          "text": "§5§kX§5 Rift-Transferable §r§5§kX"
+          "text": "§5§kX§5 Rift-Transferable §5§kX"
         },
         {
           "text": "§8Works while in Accessory Bag!"
@@ -209204,7 +209177,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -210653,7 +210626,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Mithril's Protection "
+          "text": "§6Ability: Mithril's Protection"
         },
         {
           "text": "§7Any damage taken is max §a40% §7of the wearer's"
@@ -212155,7 +212128,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Deploy  §e§lRIGHT CLICK"
+          "text": "§6Ability: Deploy §e§lRIGHT CLICK"
         },
         {
           "text": "§7Place an orb for §a5m §7buffing up to §b5"
@@ -213658,7 +213631,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Big Pull  §e§lRIGHT CLICK"
+          "text": "§6Ability: Big Pull §e§lRIGHT CLICK"
         },
         {
           "text": "§7Throw a hook to grab and pull blazes and"
@@ -214174,10 +214147,10 @@
           "text": ""
         },
         {
-          "text": "§7Increases your §c Strength §7and §a"
+          "text": "§7Grants §c+10 Strength §7and §a+10"
         },
         {
-          "text": "§aDefense§7 by §a+10§7 during the Night."
+          "text": "§aDefense §7during the night."
         },
         {
           "text": ""
@@ -214605,7 +214578,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Eggsecute "
+          "text": "§6Ability: Eggsecute"
         },
         {
           "text": "§7Arrows fired from this weapon deal"
@@ -214620,7 +214593,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Nasty Bite  §e§lLEFT CLICK"
+          "text": "§6Ability: Nasty Bite §e§lLEFT CLICK"
         },
         {
           "text": "§7Shoot an enhanced shot, healing you"
@@ -215189,7 +215162,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -219634,7 +219607,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Raise Souls  §e§lRIGHT CLICK"
+          "text": "§6Ability: Raise Souls §e§lRIGHT CLICK"
         },
         {
           "text": "§7Monsters you kill using this item will drop their"
@@ -221552,7 +221525,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Nether Wart Storage  §e§lLEFT CLICK"
+          "text": "§6Ability: Nether Wart Storage §e§lLEFT CLICK"
         },
         {
           "text": "§7Place nether wart in the pouch."
@@ -221561,7 +221534,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Alchemist's Bliss  §e§lRIGHT CLICK"
+          "text": "§6Ability: Alchemist's Bliss §e§lRIGHT CLICK"
         },
         {
           "text": "§7Automatically plant nether wart on a"
@@ -221908,7 +221881,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Absorptio  §e§lRIGHT CLICK"
+          "text": "§6Ability: Absorptio §e§lRIGHT CLICK"
         },
         {
           "text": "§7This weapon lets you absorb §c25% §7of"
@@ -221923,7 +221896,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Vis Temperata "
+          "text": "§6Ability: Vis Temperata"
         },
         {
           "text": "§7Each strike of this weapon has its"
@@ -222176,10 +222149,16 @@
           "text": ""
         },
         {
-          "text": "§7Increases your §c Strength §7and §a"
+          "text": "§7Grants §c+5 Strength §7and §a+5"
         },
         {
-          "text": "§aDefense§7 by §a+5§7 during the Night."
+          "text": "§aDefense §7during the night."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
         },
         {
           "text": ""
@@ -222671,7 +222650,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Helmets All The Way Up "
+          "text": "§6Ability: Helmets All The Way Up"
         },
         {
           "text": "§7Regain §a+1 §7when killing a monster."
@@ -228154,10 +228133,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Cold Resistance: §b+1.5"
+          "text": "§7Accessory Power: §6+8"
         },
         {
-          "text": "§7Accessory Power: §6+8"
+          "text": "§7Cold Resistance: §b+1.5"
         },
         {
           "text": ""
@@ -228383,7 +228362,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Instant Heal  §e§lRIGHT CLICK"
+          "text": "§6Ability: Instant Heal §e§lRIGHT CLICK"
         },
         {
           "text": "§7Heal for §c420❤ §7and heal players within §a7"
@@ -228501,7 +228480,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Overdrive "
+          "text": "§6Ability: Overdrive"
         },
         {
           "text": "§7Grants §6+5 Crop Fortune §7for the"
@@ -228696,7 +228675,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Deploy  §e§lRIGHT CLICK"
+          "text": "§6Ability: Deploy §e§lRIGHT CLICK"
         },
         {
           "text": "§7Place an orb for §a1m §7buffing up to §b5"
@@ -229801,7 +229780,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Party Flock "
+          "text": "§6Ability: Party Flock"
         },
         {
           "text": "§7Nearby players within §a20 §7blocks gain"
@@ -271568,7 +271547,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Burning Souls  §e§lRIGHT CLICK"
+          "text": "§6Ability: Burning Souls §e§lRIGHT CLICK"
         },
         {
           "text": "§7Gain §a+75 Defense §7for §a5s§7 and cast vortex of"
@@ -271628,19 +271607,19 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Speed: §f+1"
+          "text": "§7Accessory Power: §6+8"
         },
         {
-          "text": "§7Accessory Power: §6+8"
+          "text": "§7Speed: §f+1"
         },
         {
           "text": ""
         },
         {
-          "text": "§7Like a Rabbit's Foot, but more"
+          "text": "§8§oLike a Rabbit's Foot, but more"
         },
         {
-          "text": "§7useless."
+          "text": "§8§ouseless."
         },
         {
           "text": ""
@@ -273390,7 +273369,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Analyze  §e§lRIGHT CLICK"
+          "text": "§6Ability: Analyze §e§lRIGHT CLICK"
         },
         {
           "text": "§7View the detailed properties of a"
@@ -273402,7 +273381,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Sanity Check  §e§lLEFT CLICK"
+          "text": "§6Ability: Sanity Check §e§lLEFT CLICK"
         },
         {
           "text": "§7Click a block in your §aGreenhouse §7to"
@@ -273552,7 +273531,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Deploy  §e§lRIGHT CLICK"
+          "text": "§6Ability: Deploy §e§lRIGHT CLICK"
         },
         {
           "text": "§7Place an orb for §a1m §7buffing up to §b5"
@@ -274928,10 +274907,10 @@
           "text": "§7Strength: §c+100"
         },
         {
-          "text": "§7Fishing Speed: §b+50"
+          "text": "§7Fishing Speed: §b+40"
         },
         {
-          "text": "§7Sea Creature Chance: §3+2%"
+          "text": "§7Sea Creature Chance: §3+10%"
         },
         {
           "text": "§7Gemstones: §8[]"
@@ -275023,7 +275002,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Haymaker  §e§lRIGHT CLICK"
+          "text": "§6Ability: Haymaker §e§lRIGHT CLICK"
         },
         {
           "text": "§7Thrust §a3 §7prongs forward §e6 §7blocks,"
@@ -275186,7 +275165,7 @@
           "text": "§4☠ §cRequires §5Wolf Slayer 6§c."
         },
         {
-          "text": "§6§lLEGENDARY SWORD"
+          "text": "§6§lLEGENDARY SLAYER SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/slayer/wolf/weapons/pooch_sword",
@@ -278163,7 +278142,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Eye Beam  §e§lSNEAK"
+          "text": "§6Ability: Eye Beam §e§lSNEAK"
         },
         {
           "text": "§7Fire a laser in front of you dealing §c4000"
@@ -279426,7 +279405,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Double Jump "
+          "text": "§6Ability: Double Jump"
         },
         {
           "text": "§7Allows you to double jump by"
@@ -280032,7 +280011,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Pipeline  §e§lRIGHT CLICK"
+          "text": "§6Ability: Pipeline §e§lRIGHT CLICK"
         },
         {
           "text": "§7When used, pumps water in the direction the"
@@ -280241,7 +280220,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Arrow Infusion  §e§lON SHOOT"
+          "text": "§6Ability: Arrow Infusion §e§lON SHOOT"
         },
         {
           "text": "§7Consumes §aPrismarine Shards§7 in your"
@@ -280634,7 +280613,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Stored Potential "
+          "text": "§6Ability: Stored Potential"
         },
         {
           "text": "§7Grants §6+10 Mining Speed §7for every"
@@ -281678,7 +281657,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Spiky "
+          "text": "§6Ability: Spiky"
         },
         {
           "text": "§7While wearing, your attacks have a"
@@ -281762,7 +281741,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Spiky "
+          "text": "§6Ability: Spiky"
         },
         {
           "text": "§7While wearing, your attacks have a"
@@ -284229,7 +284208,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Punch in!  §e§lLEFT CLICK"
+          "text": "§6Ability: Punch in! §e§lLEFT CLICK"
         },
         {
           "text": "§7Punch another player while this is in"
@@ -284665,7 +284644,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Puzzle  §e§lRIGHT CLICK"
+          "text": "§6Ability: Puzzle §e§lRIGHT CLICK"
         },
         {
           "text": "§7Lets you solve a puzzle."
@@ -285978,7 +285957,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Quickdraw "
+          "text": "§6Ability: Quickdraw"
         },
         {
           "text": "§7Decreases the time for §bVisitors §7to"
@@ -287634,7 +287613,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Deploy  §e§lRIGHT CLICK"
+          "text": "§6Ability: Deploy §e§lRIGHT CLICK"
         },
         {
           "text": "§7Place an orb for §a1m §7buffing up to §b5"
@@ -287847,7 +287826,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Ragnarock  §e§lRIGHT CLICK"
+          "text": "§6Ability: Ragnarock §e§lRIGHT CLICK"
         },
         {
           "text": "§7Begin a channel."
@@ -288460,7 +288439,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Farmer's Speed  §e§lLEFT CLICK"
+          "text": "§6Ability: Farmer's Speed §e§lLEFT CLICK"
         },
         {
           "text": "§7Set a maximum amount of §f Speed§7."
@@ -288469,7 +288448,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Farmer's Grace "
+          "text": "§6Ability: Farmer's Grace"
         },
         {
           "text": "§7Grants immunity to trampling crops."
@@ -288602,7 +288581,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Rarefinder "
+          "text": "§6Ability: Rarefinder"
         },
         {
           "text": "§7Grants §e+1.5 Overbloom §7per §9Chip"
@@ -290108,7 +290087,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Evil Incarnate "
+          "text": "§6Ability: Evil Incarnate"
         },
         {
           "text": "§7While wearing:"
@@ -290462,7 +290441,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Raise Souls  §e§lRIGHT CLICK"
+          "text": "§6Ability: Raise Souls §e§lRIGHT CLICK"
         },
         {
           "text": "§7Monsters you kill using this item will drop their"
@@ -290743,7 +290722,7 @@
           "text": "§4☠ §cRequires §5Zombie Slayer 6§c."
         },
         {
-          "text": "§5§lEPIC SWORD"
+          "text": "§5§lEPIC SLAYER SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/slayer/zombie/weapons/reaper_falchion",
@@ -290791,7 +290770,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Ancient Recall  §e§lRIGHT CLICK"
+          "text": "§6Ability: Ancient Recall §e§lRIGHT CLICK"
         },
         {
           "text": "§7When in the §5Crystal Hollows §7allows you to save"
@@ -290866,7 +290845,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Webcutter "
+          "text": "§6Ability: Webcutter"
         },
         {
           "text": "§7This weapon can be used to clear"
@@ -290887,7 +290866,7 @@
           "text": "§4☠ §cRequires §5Spider Slayer 2§c."
         },
         {
-          "text": "§a§lUNCOMMON SWORD"
+          "text": "§a§lUNCOMMON SLAYER SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/slayer/spider/weapons/recluse_fang",
@@ -290897,11 +290876,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -296968,7 +296949,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Retentio  §e§lRIGHT CLICK"
+          "text": "§6Ability: Retentio §e§lRIGHT CLICK"
         },
         {
           "text": "§6Hunting Traps §7can be placed near"
@@ -297034,7 +297015,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Retentio  §e§lRIGHT CLICK"
+          "text": "§6Ability: Retentio §e§lRIGHT CLICK"
         },
         {
           "text": "§6Hunting Traps §7can be placed near"
@@ -297052,7 +297033,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Forta "
+          "text": "§6Ability: Forta"
         },
         {
           "text": "§7Reduces the time to capture by §c35%§7."
@@ -297112,7 +297093,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Retentio  §e§lRIGHT CLICK"
+          "text": "§6Ability: Retentio §e§lRIGHT CLICK"
         },
         {
           "text": "§6Hunting Traps §7can be placed near"
@@ -297130,7 +297111,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Meliora "
+          "text": "§6Ability: Meliora"
         },
         {
           "text": "§7Reduces the time to capture by §c10%§7."
@@ -297190,7 +297171,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Retentio  §e§lRIGHT CLICK"
+          "text": "§6Ability: Retentio §e§lRIGHT CLICK"
         },
         {
           "text": "§6Hunting Traps §7can be placed near"
@@ -297208,7 +297189,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Robusta "
+          "text": "§6Ability: Robusta"
         },
         {
           "text": "§7Reduces the time to capture by §c20%§7."
@@ -297268,7 +297249,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Retentio  §e§lRIGHT CLICK"
+          "text": "§6Ability: Retentio §e§lRIGHT CLICK"
         },
         {
           "text": "§6Hunting Traps §7can be placed near"
@@ -297286,7 +297267,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Suprema "
+          "text": "§6Ability: Suprema"
         },
         {
           "text": "§7Reduces the time to capture by §c50%§7."
@@ -298615,7 +298596,7 @@
           "text": "§4☠ §cRequires §5Zombie Slayer 3§c."
         },
         {
-          "text": "§9§lRARE SWORD"
+          "text": "§9§lRARE SLAYER SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/slayer/zombie/weapons/revenant_falchion",
@@ -298817,7 +298798,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Revive  §e§lRIGHT CLICK"
+          "text": "§6Ability: Revive §e§lRIGHT CLICK"
         },
         {
           "text": "§7Revive a player who has died in a dungeon."
@@ -299285,10 +299266,11 @@
     }
   },
   {
-    "id": "minecraft:player_head",
+    "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
-        "id": "RIFT_NECKLACE_OUTSIDE"
+        "id": "RIFT_NECKLACE_OUTSIDE",
+        "rift_timecharms": 8
       },
       "minecraft:custom_name": {
         "text": "§dRift Necklace"
@@ -299301,13 +299283,13 @@
           "text": "§7Defense: §a+30"
         },
         {
+          "text": "§7True Defense: §f+4"
+        },
+        {
           "text": "§7Strength: §c+25"
         },
         {
           "text": "§7Intelligence: §b+85"
-        },
-        {
-          "text": "§7Magic Find: §b+8"
         },
         {
           "text": "§7Combat Wisdom: §3+1"
@@ -299322,22 +299304,16 @@
           "text": ""
         },
         {
-          "text": "§7A very powerful piece of equipment"
+          "text": "§7Gains more stats and increases in"
         },
         {
-          "text": "§7originating from the §dRift Dimension§7."
+          "text": "§7rarity as you obtain more §cTimecharms§7."
         },
         {
           "text": ""
         },
         {
-          "text": "§7Becomes more powerful as you fill"
-        },
-        {
-          "text": "§7the §dRift Gallery§7."
-        },
-        {
-          "text": "§7Secured: §c8/8 Timecharms"
+          "text": "§7Obtained: §c8/8 Timecharms"
         },
         {
           "text": ""
@@ -299355,17 +299331,10 @@
           "text": "§8§l* §8Soulbound §8§l*"
         },
         {
-          "text": "§6§lLEGENDARY NECKLACE"
+          "text": "§d§lMYTHIC NECKLACE"
         }
       ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0Nzg2ODQ3MDQxOCwKICAicHJvZmlsZUlkIiA6ICIwNjNhMTc2Y2RkMTU0ODRiYjU1MjRhNjQyMGM1YjdhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXZpcGF0dXJ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzljMDg5NDkzMWE1MTAzODdlNGY2MTM4MjhmMDIzOWNhNGQ5MDg1MzQ5OTYzN2Y2MDc5ZDM5MzI3ZjE0NmYwZTkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
-          }
-        ]
-      },
+      "minecraft:item_model": "hypixel_skyblock:item/island_relevant/rift/equipment/necklace/rift_necklace_outside",
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
@@ -299382,7 +299351,7 @@
           "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+      "minecraft:tooltip_style": "hypixel_skyblock:mythic"
     }
   },
   {
@@ -300058,10 +300027,10 @@
           "text": ""
         },
         {
-          "text": "§7This time around, fate really got in"
+          "text": "§8§oThis time around, fate really got in"
         },
         {
-          "text": "§7the way of love."
+          "text": "§8§othe way of love."
         },
         {
           "text": ""
@@ -300082,7 +300051,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -301091,7 +301060,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Speed Boost  §e§lRIGHT CLICK"
+          "text": "§6Ability: Speed Boost §e§lRIGHT CLICK"
         },
         {
           "text": "§7Grants §f+100 Speed §7for §a30s§7."
@@ -303053,7 +303022,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: True Dwarth  §e§lRIGHT CLICK"
+          "text": "§6Ability: True Dwarth §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shows the way towards the nearest §6Emissary"
@@ -303155,7 +303124,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Seek the King  §e§lRIGHT CLICK"
+          "text": "§6Ability: Seek the King §e§lRIGHT CLICK"
         },
         {
           "text": "§7Reach out to the King and open the"
@@ -303609,7 +303578,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Triple Shot "
+          "text": "§6Ability: Triple Shot"
         },
         {
           "text": "§7Shoots 3 arrows at a time! The 2"
@@ -303698,13 +303667,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -303765,13 +303732,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -303797,10 +303762,10 @@
           "text": ""
         },
         {
-          "text": "§7Your Axes deal §c5% §7more §c Damage"
+          "text": "§7Your Axes deal §c+5%  Damage §7to §a"
         },
         {
-          "text": "§7to §2 Woodland §7mobs."
+          "text": "§aWoodland §7mobs."
         },
         {
           "text": ""
@@ -304034,7 +303999,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Runic Zap  §e§lRIGHT CLICK"
+          "text": "§6Ability: Runic Zap §e§lRIGHT CLICK"
         },
         {
           "text": "§7Fires a beam of energy, hitting the"
@@ -304655,13 +304620,13 @@
       },
       "minecraft:lore": [
         {
+          "text": "§7Accessory Power: §6+3"
+        },
+        {
           "text": "§7Defense: §a+3"
         },
         {
           "text": "§7Intelligence: §b+1"
-        },
-        {
-          "text": "§7Accessory Power: §6+3"
         },
         {
           "text": ""
@@ -304923,7 +304888,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Water Burst  §e§lSNEAK"
+          "text": "§6Ability: Water Burst §e§lSNEAK"
         },
         {
           "text": "§7When wearing the full set, grants the"
@@ -304997,7 +304962,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Water Burst  §e§lSNEAK"
+          "text": "§6Ability: Water Burst §e§lSNEAK"
         },
         {
           "text": "§7When wearing the full set, grants the"
@@ -305071,7 +305036,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Water Burst  §e§lSNEAK"
+          "text": "§6Ability: Water Burst §e§lSNEAK"
         },
         {
           "text": "§7When wearing the full set, grants the"
@@ -305145,7 +305110,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Water Burst  §e§lSNEAK"
+          "text": "§6Ability: Water Burst §e§lSNEAK"
         },
         {
           "text": "§7When wearing the full set, grants the"
@@ -305214,7 +305179,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Water Burst  §e§lSNEAK"
+          "text": "§6Ability: Water Burst §e§lSNEAK"
         },
         {
           "text": "§7When wearing the full set, grants the"
@@ -305307,7 +305272,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Water Burst  §e§lSNEAK"
+          "text": "§6Ability: Water Burst §e§lSNEAK"
         },
         {
           "text": "§7When wearing the full set, grants the"
@@ -305383,7 +305348,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Water Burst  §e§lSNEAK"
+          "text": "§6Ability: Water Burst §e§lSNEAK"
         },
         {
           "text": "§7When wearing the full set, grants the"
@@ -305457,7 +305422,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Water Burst  §e§lSNEAK"
+          "text": "§6Ability: Water Burst §e§lSNEAK"
         },
         {
           "text": "§7When wearing the full set, grants the"
@@ -305531,7 +305496,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Water Burst  §e§lSNEAK"
+          "text": "§6Ability: Water Burst §e§lSNEAK"
         },
         {
           "text": "§7When wearing the full set, grants the"
@@ -305605,7 +305570,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Water Burst  §e§lSNEAK"
+          "text": "§6Ability: Water Burst §e§lSNEAK"
         },
         {
           "text": "§7When wearing the full set, grants the"
@@ -305671,7 +305636,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Slippery Slope "
+          "text": "§6Ability: Slippery Slope"
         },
         {
           "text": "§7Gain §f+10 Speed §7and §b+10 Fishing"
@@ -305928,7 +305893,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Configure  §e§lLEFT CLICK"
+          "text": "§6Ability: Configure §e§lLEFT CLICK"
         },
         {
           "text": "§7Select a nozzle and material for"
@@ -305955,7 +305920,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Spray  §e§lRIGHT CLICK"
+          "text": "§6Ability: Spray §e§lRIGHT CLICK"
         },
         {
           "text": "§7Sprays your selected material onto"
@@ -307817,7 +307782,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Bullet Time "
+          "text": "§6Ability: Bullet Time"
         },
         {
           "text": "§7Slow down the loss of §a Rift Time §7by"
@@ -308348,13 +308313,13 @@
           "text": ""
         },
         {
-          "text": "§7§oDark and powerful spells, includes"
+          "text": "§8§oDark and powerful spells, includes"
         },
         {
-          "text": "§7§ohis favorite \"Barrier\" that his"
+          "text": "§8§ohis favorite \"Barrier\" that his"
         },
         {
-          "text": "§7§oProfessor taught him."
+          "text": "§8§oProfessor taught him."
         },
         {
           "text": ""
@@ -308383,11 +308348,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -308422,10 +308389,10 @@
           "text": ""
         },
         {
-          "text": "§7§oThe collection of his studies,"
+          "text": "§8§oThe collection of his studies,"
         },
         {
-          "text": "§7§obeautiful handwriting!"
+          "text": "§8§obeautiful handwriting!"
         },
         {
           "text": ""
@@ -308499,10 +308466,10 @@
           "text": ""
         },
         {
-          "text": "§7§oA research on how to preserve and"
+          "text": "§8§oA research on how to preserve and"
         },
         {
-          "text": "§7§oenhance class abilities in death."
+          "text": "§8§oenhance class abilities in death."
         },
         {
           "text": ""
@@ -308537,11 +308504,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -309232,7 +309201,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Eggsecute "
+          "text": "§6Ability: Eggsecute"
         },
         {
           "text": "§7Arrows fired from this weapon deal"
@@ -309323,7 +309292,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Webcutter "
+          "text": "§6Ability: Webcutter"
         },
         {
           "text": "§7This weapon can be used to clear"
@@ -309344,7 +309313,7 @@
           "text": "§4☠ §cRequires §5Spider Slayer 6§c."
         },
         {
-          "text": "§5§lEPIC SWORD"
+          "text": "§5§lEPIC SLAYER SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/slayer/spider/weapons/scorpion_foil",
@@ -311234,7 +311203,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Echolocation  §e§lRIGHT CLICK"
+          "text": "§6Ability: Echolocation §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shows you where the nearest dungeon secret"
@@ -311491,7 +311460,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Throwing Axe  §e§lRIGHT CLICK"
+          "text": "§6Ability: Throwing Axe §e§lRIGHT CLICK"
         },
         {
           "text": "§7While on §2Foraging Islands§7, throw your Axe at a"
@@ -312677,7 +312646,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Shadow Fury  §e§lRIGHT CLICK"
+          "text": "§6Ability: Shadow Fury §e§lRIGHT CLICK"
         },
         {
           "text": "§7Rapidly teleports you to up to §b5 §7enemies within"
@@ -312815,7 +312784,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Shadow Warp  §e§lRIGHT CLICK"
+          "text": "§6Ability: Shadow Warp §e§lRIGHT CLICK"
         },
         {
           "text": "§7Creates a spatial distortion §e10"
@@ -312972,7 +312941,7 @@
           "text": "§4☠ §cRequires §5Wolf Slayer 3§c."
         },
         {
-          "text": "§5§lEPIC SWORD"
+          "text": "§5§lEPIC SLAYER SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/slayer/wolf/weapons/shaman_sword",
@@ -313988,7 +313957,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: A bit of Impalement  §e§lLEFT CLICK"
+          "text": "§6Ability: A bit of Impalement §e§lLEFT CLICK"
         },
         {
           "text": "§7Stab a §4Vampire §7at §c20%❤ §7to instantly"
@@ -314003,7 +313972,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Bloodcrave "
+          "text": "§6Ability: Bloodcrave"
         },
         {
           "text": "§7After vanquishing a §4Vampire§7, your"
@@ -316653,7 +316622,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Shadowstep  §e§lRIGHT CLICK"
+          "text": "§6Ability: Shadowstep §e§lRIGHT CLICK"
         },
         {
           "text": "§7Teleport behind the enemy you are looking at,"
@@ -316970,7 +316939,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Leap  §e§lRIGHT CLICK"
+          "text": "§6Ability: Leap §e§lRIGHT CLICK"
         },
         {
           "text": "§7Leap into the air and deal §c400§7 damage to"
@@ -317044,7 +317013,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Absorptio  §e§lRIGHT CLICK"
+          "text": "§6Ability: Absorptio §e§lRIGHT CLICK"
         },
         {
           "text": "§7This weapon lets you absorb §c10% §7of"
@@ -317059,7 +317028,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Vis Temperata "
+          "text": "§6Ability: Vis Temperata"
         },
         {
           "text": "§7Each strike of this weapon has its"
@@ -318078,7 +318047,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Sinrecall Transmission  §e§lRIGHT CLICK"
+          "text": "§6Ability: Sinrecall Transmission §e§lRIGHT CLICK"
         },
         {
           "text": "§7Zap a line §54 §7blocks forward."
@@ -319633,7 +319602,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Bone Shield "
+          "text": "§6Ability: Bone Shield"
         },
         {
           "text": "§7A Bone Shield will surround you,"
@@ -321925,7 +321894,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Vacuum  §e§lHOLD RIGHT CLICK"
+          "text": "§6Ability: Vacuum §e§lHOLD RIGHT CLICK"
         },
         {
           "text": "§7Deals §c200  Damage §7per second to"
@@ -321937,7 +321906,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Pest Tracker  §e§lLEFT CLICK"
+          "text": "§6Ability: Pest Tracker §e§lLEFT CLICK"
         },
         {
           "text": "§7Leads you in the direction of the"
@@ -322016,7 +321985,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Vacuum  §e§lHOLD RIGHT CLICK"
+          "text": "§6Ability: Vacuum §e§lHOLD RIGHT CLICK"
         },
         {
           "text": "§7Deals §c150  Damage §7per second to"
@@ -322028,7 +321997,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Pest Tracker  §e§lLEFT CLICK"
+          "text": "§6Ability: Pest Tracker §e§lLEFT CLICK"
         },
         {
           "text": "§7Leads you in the direction of the"
@@ -322107,7 +322076,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Vacuum  §e§lHOLD RIGHT CLICK"
+          "text": "§6Ability: Vacuum §e§lHOLD RIGHT CLICK"
         },
         {
           "text": "§7Deals §c100  Damage §7per second to"
@@ -322119,7 +322088,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Pest Tracker  §e§lLEFT CLICK"
+          "text": "§6Ability: Pest Tracker §e§lLEFT CLICK"
         },
         {
           "text": "§7Leads you in the direction of the"
@@ -322858,7 +322827,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Arrow Infusion  §e§lON SHOOT"
+          "text": "§6Ability: Arrow Infusion §e§lON SHOOT"
         },
         {
           "text": "§7Will consume §aSlimeballs§7 in your"
@@ -323959,7 +323928,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Bouncy  §e§lSNEAK"
+          "text": "§6Ability: Bouncy §e§lSNEAK"
         },
         {
           "text": "§7When falling from a great height, you'll bounce"
@@ -325173,7 +325142,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Black Hole  §e§lRIGHT CLICK"
+          "text": "§6Ability: Black Hole §e§lRIGHT CLICK"
         },
         {
           "text": "§7Place the Black Hole for §a180s§7, and"
@@ -326907,7 +326876,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Feelin' Festive "
+          "text": "§6Ability: Feelin' Festive"
         },
         {
           "text": "§7Gain §a+10% §7more §6Coins §7and §3Skill XP"
@@ -328505,7 +328474,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Snow Placer  §e§lRIGHT CLICK"
+          "text": "§6Ability: Snow Placer §e§lRIGHT CLICK"
         },
         {
           "text": "§7Right-Click a block to place a 3x3"
@@ -329880,7 +329849,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Deploy  §e§lRIGHT CLICK"
+          "text": "§6Ability: Deploy §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoot the flare up in the sky for §a3m"
@@ -330036,7 +330005,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Overflow Mana "
+          "text": "§6Ability: Overflow Mana"
         },
         {
           "text": "§7When leaving combat, convert up to"
@@ -330213,7 +330182,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Overflow Mana "
+          "text": "§6Ability: Overflow Mana"
         },
         {
           "text": "§7When leaving combat, convert up to"
@@ -330307,7 +330276,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Overflow Mana "
+          "text": "§6Ability: Overflow Mana"
         },
         {
           "text": "§7When leaving combat, convert up to"
@@ -331999,10 +331968,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Mending: §a+10"
+          "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": "§7Accessory Power: §6+16"
+          "text": "§7Mending: §a+10"
         },
         {
           "text": ""
@@ -332541,7 +332510,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Soulward  §e§lRIGHT CLICK"
+          "text": "§6Ability: Soulward §e§lRIGHT CLICK"
         },
         {
           "text": "§7Become §9invulnerable§7 for §a5s§7, but can't deal"
@@ -332959,7 +332928,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Flay  §e§lRIGHT CLICK"
+          "text": "§6Ability: Flay §e§lRIGHT CLICK"
         },
         {
           "text": "§7Flay your whip in an arc, dealing your melee"
@@ -333019,7 +332988,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Sowledge "
+          "text": "§6Ability: Sowledge"
         },
         {
           "text": "§7Grants §3+1☯ Farming Wisdom §7per §9Chip"
@@ -334250,7 +334219,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Typo "
+          "text": "§6Ability: Typo"
         },
         {
           "text": "§7Mobs hit by this stick will gain §c+1 Typo§7."
@@ -334553,7 +334522,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Double Jump  §e§lDOUBLE TAP JUMP"
+          "text": "§6Ability: Double Jump §e§lDOUBLE TAP JUMP"
         },
         {
           "text": "§7Allows you to double jump mid air!"
@@ -335817,12 +335786,6 @@
           "text": ""
         },
         {
-          "text": "§4This item is Arachnal !"
-        },
-        {
-          "text": ""
-        },
-        {
           "text": "§8This item can be reforged!"
         },
         {
@@ -336239,7 +336202,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Spirit Leap  §e§lRIGHT CLICK"
+          "text": "§6Ability: Spirit Leap §e§lRIGHT CLICK"
         },
         {
           "text": "§7Allows you to teleport to any teammate! Grants"
@@ -336315,7 +336278,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Second Wind "
+          "text": "§6Ability: Second Wind"
         },
         {
           "text": "§7Instead of dying, gain §f+50 Speed"
@@ -336414,7 +336377,7 @@
           "text": ""
         },
         {
-          "text": "§6Spirit Ability: Spirit Bomb "
+          "text": "§6Spirit Ability: Spirit Bomb"
         },
         {
           "text": "§7Shoots a spirit that deals §c8000"
@@ -337928,7 +337891,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Configure  §e§lLEFT CLICK"
+          "text": "§6Ability: Configure §e§lLEFT CLICK"
         },
         {
           "text": "§7Select a nozzle and material for"
@@ -337955,7 +337918,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Spray  §e§lRIGHT CLICK"
+          "text": "§6Ability: Spray §e§lRIGHT CLICK"
         },
         {
           "text": "§7Sprays your selected material onto"
@@ -338161,7 +338124,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: To the Moon!  §e§lSNEAK"
+          "text": "§6Ability: To the Moon! §e§lSNEAK"
         },
         {
           "text": "§7Charge your jump by sneaking. The"
@@ -339345,7 +339308,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Farmer's Grace "
+          "text": "§6Ability: Farmer's Grace"
         },
         {
           "text": "§7Grants immunity to trampling crops."
@@ -339749,7 +339712,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Set  §e§lRIGHT CLICK"
+          "text": "§6Ability: Set §e§lRIGHT CLICK"
         },
         {
           "text": "§7Set your yaw and pitch."
@@ -339758,7 +339721,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Snap  §e§lLEFT CLICK"
+          "text": "§6Ability: Snap §e§lLEFT CLICK"
         },
         {
           "text": "§7Look in the direction of your selected yaw"
@@ -340356,7 +340319,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Ray of Hope  §e§lRIGHT CLICK"
+          "text": "§6Ability: Ray of Hope §e§lRIGHT CLICK"
         },
         {
           "text": "§7Launches an explosive moon towards the"
@@ -340417,7 +340380,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Explode  §e§lRIGHT CLICK"
+          "text": "§6Ability: Explode §e§lRIGHT CLICK"
         },
         {
           "text": "§7Creates an explosion around you dealing"
@@ -342501,7 +342464,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Starfall  §e§lRIGHT CLICK"
+          "text": "§6Ability: Starfall §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shower stars in a §f3 blocks §7area for §a5s§7,"
@@ -343155,7 +343118,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Guided Bat  §e§lRIGHT CLICK"
+          "text": "§6Ability: Guided Bat §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoots a guided spirit bat, following your aim"
@@ -343225,7 +343188,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Swing  §e§lRIGHT CLICK"
+          "text": "§6Ability: Swing §e§lRIGHT CLICK"
         },
         {
           "text": "§7Throw the bone a short distance,"
@@ -343297,7 +343260,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Gladiator's Will "
+          "text": "§6Ability: Gladiator's Will"
         },
         {
           "text": "§7Gain §a+3 Defense §7for each enemy"
@@ -343390,7 +343353,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Clownin' Around "
+          "text": "§6Ability: Clownin' Around"
         },
         {
           "text": "§7Instead of dying, gain damage"
@@ -343484,7 +343447,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Showtime  §e§lRIGHT CLICK"
+          "text": "§6Ability: Showtime §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoots balloons that create a large explosion"
@@ -343645,7 +343608,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Reaving Strike  §e§lRIGHT CLICK"
+          "text": "§6Ability: Reaving Strike §e§lRIGHT CLICK"
         },
         {
           "text": "§7Slash in a huge arc, dealing §c135% §7melee"
@@ -343719,7 +343682,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Ice Bolt  §e§lRIGHT CLICK"
+          "text": "§6Ability: Ice Bolt §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoots §a1 §7Ice Bolt that deals §c1,700 §7damage and"
@@ -343793,7 +343756,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Ice Spray  §e§lRIGHT CLICK"
+          "text": "§6Ability: Ice Spray §e§lRIGHT CLICK"
         },
         {
           "text": "§7Produces a cone of ice in front of the caster"
@@ -343891,7 +343854,7 @@
           "text": ""
         },
         {
-          "text": "§6Spirit Ability: Spirit Bomb "
+          "text": "§6Spirit Ability: Spirit Bomb"
         },
         {
           "text": "§7Shoots a spirit that deals §c8000"
@@ -344034,7 +343997,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Molten Wave  §e§lRIGHT CLICK"
+          "text": "§6Ability: Molten Wave §e§lRIGHT CLICK"
         },
         {
           "text": "§7Cast a wave of molten gold in the direction"
@@ -344052,7 +344015,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Greed "
+          "text": "§6Ability: Greed"
         },
         {
           "text": "§7The §3ability damage bonus §7of this item"
@@ -344125,7 +344088,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Greed "
+          "text": "§6Ability: Greed"
         },
         {
           "text": "§7The strength and damage bonus of"
@@ -344673,7 +344636,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Shadow Fury  §e§lRIGHT CLICK"
+          "text": "§6Ability: Shadow Fury §e§lRIGHT CLICK"
         },
         {
           "text": "§7Rapidly teleports you to up to §b5 §7enemies within"
@@ -344821,7 +344784,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Second Wind "
+          "text": "§6Ability: Second Wind"
         },
         {
           "text": "§7Instead of dying, gain §f+50 Speed"
@@ -345028,7 +344991,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Spirit Glide "
+          "text": "§6Ability: Spirit Glide"
         },
         {
           "text": "§7Press and hold Sneak to fly around"
@@ -345172,7 +345135,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Terrain Toss  §e§lRIGHT CLICK"
+          "text": "§6Ability: Terrain Toss §e§lRIGHT CLICK"
         },
         {
           "text": "§7Throws a chunk of terrain in the direction you"
@@ -345508,7 +345471,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: A bit of Impalement  §e§lLEFT CLICK"
+          "text": "§6Ability: A bit of Impalement §e§lLEFT CLICK"
         },
         {
           "text": "§7Stab a §4Vampire §7at §c20%❤ §7to instantly"
@@ -346231,7 +346194,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Webcutter "
+          "text": "§6Ability: Webcutter"
         },
         {
           "text": "§7This weapon can be used to clear"
@@ -346246,7 +346209,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Stinger "
+          "text": "§6Ability: Stinger"
         },
         {
           "text": "§7Attacks from this sword will always"
@@ -346264,7 +346227,7 @@
           "text": "§4☠ §cRequires §5Spider Slayer 8§c."
         },
         {
-          "text": "§6§lLEGENDARY SWORD"
+          "text": "§6§lLEGENDARY SLAYER SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/slayer/spider/weapons/sting",
@@ -349892,7 +349855,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Arrow Infusion  §e§lON SHOOT"
+          "text": "§6Ability: Arrow Infusion §e§lON SHOOT"
         },
         {
           "text": "§7Consumes 1 §6Sulphur§7 from the"
@@ -350261,7 +350224,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Raise Souls  §e§lRIGHT CLICK"
+          "text": "§6Ability: Raise Souls §e§lRIGHT CLICK"
         },
         {
           "text": "§7Monsters you kill while you have this item will"
@@ -351331,7 +351294,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Sparkle  §e§lRIGHT CLICK"
+          "text": "§6Ability: Sparkle §e§lRIGHT CLICK"
         },
         {
           "text": "§7Spread happiness to someone one §cs§6p§ea§ar§bk§dl§ce §7at"
@@ -351454,10 +351417,10 @@
           "text": ""
         },
         {
-          "text": "§7Increases your §c Strength §7and §a"
+          "text": "§7Grants §c+10 Strength §7and §a+10"
         },
         {
-          "text": "§aDefense§7 by §a+10§7 during the Day."
+          "text": "§aDefense §7during the day."
         },
         {
           "text": ""
@@ -352512,7 +352475,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Cleave "
+          "text": "§6Ability: Cleave"
         },
         {
           "text": "§7When hitting an entity, monsters in a §a3§7 block"
@@ -353534,10 +353497,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Vitality: §4+3"
+          "text": "§7Accessory Power: §6+8"
         },
         {
-          "text": "§7Accessory Power: §6+8"
+          "text": "§7Vitality: §4+3"
         },
         {
           "text": ""
@@ -354208,7 +354171,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Bad Health  §e§lRIGHT CLICK"
+          "text": "§6Ability: Bad Health §e§lRIGHT CLICK"
         },
         {
           "text": "§7Gain §c+5 Strength §7for every 5% of total HP"
@@ -354336,7 +354299,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Synthesis "
+          "text": "§6Ability: Synthesis"
         },
         {
           "text": "§7Analyzing a mutation in the §eCrop"
@@ -354784,7 +354747,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Gorilla Tactics  §e§lRIGHT CLICK"
+          "text": "§6Ability: Gorilla Tactics §e§lRIGHT CLICK"
         },
         {
           "text": "§7Marks your location and teleport back there"
@@ -355046,7 +355009,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Track  §e§lRIGHT CLICK"
+          "text": "§6Ability: Track §e§lRIGHT CLICK"
         },
         {
           "text": "§7Indicates the approximate height difference"
@@ -355997,7 +355960,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Stun Potion  §e§lRIGHT CLICK"
+          "text": "§6Ability: Stun Potion §e§lRIGHT CLICK"
         },
         {
           "text": "§7Throw a potion which temporarily stuns all"
@@ -356053,7 +356016,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Absorption Potion  §e§lRIGHT CLICK"
+          "text": "§6Ability: Absorption Potion §e§lRIGHT CLICK"
         },
         {
           "text": "§7Throw a potion which gives all teammates in a"
@@ -356122,7 +356085,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Depth Coating "
+          "text": "§6Ability: Depth Coating"
         },
         {
           "text": "§7Doubles this piece's §a Defense §7while"
@@ -356180,7 +356143,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Depth Coating "
+          "text": "§6Ability: Depth Coating"
         },
         {
           "text": "§7Doubles this piece's §a Defense §7while"
@@ -356238,7 +356201,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Depth Coating "
+          "text": "§6Ability: Depth Coating"
         },
         {
           "text": "§7Doubles this piece's §a Defense §7while"
@@ -356296,7 +356259,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Depth Coating "
+          "text": "§6Ability: Depth Coating"
         },
         {
           "text": "§7Doubles this piece's §a Defense §7while"
@@ -356811,7 +356774,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Double Jump  §e§lDOUBLE TAP JUMP"
+          "text": "§6Ability: Double Jump §e§lDOUBLE TAP JUMP"
         },
         {
           "text": "§7Allows you to double jump mid air!"
@@ -357064,7 +357027,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Webcutter "
+          "text": "§6Ability: Webcutter"
         },
         {
           "text": "§7This weapon can be used to clear"
@@ -357085,7 +357048,7 @@
           "text": "§4☠ §cRequires §5Spider Slayer 4§c."
         },
         {
-          "text": "§9§lRARE SWORD"
+          "text": "§9§lRARE SLAYER SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/slayer/spider/weapons/tarantula_fang",
@@ -359080,7 +359043,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Salvation  §e§lLEFT CLICK"
+          "text": "§6Ability: Salvation §e§lLEFT CLICK"
         },
         {
           "text": "§7Can be cast after landing §63 §7hits."
@@ -361649,7 +361612,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Forced Metamorphosis "
+          "text": "§6Ability: Forced Metamorphosis"
         },
         {
           "text": "§7When killing a §cSlayer Boss§7 or §cSlayer Miniboss§7,"
@@ -362064,7 +362027,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Spirit Glide "
+          "text": "§6Ability: Spirit Glide"
         },
         {
           "text": "§7Press and hold Sneak to fly around"
@@ -363085,7 +363048,7 @@
         "id": "THUNDER_IN_A_BOTTLE"
       },
       "minecraft:custom_name": {
-        "text": "§5Thunder in a Bottle"
+        "text": "§5Filled Thunder in a Bottle"
       },
       "minecraft:lore": [
         {
@@ -363125,7 +363088,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -363147,7 +363110,7 @@
         "id": "THUNDER_IN_A_BOTTLE_EMPTY"
       },
       "minecraft:custom_name": {
-        "text": "§5Empty Thunder Bottle"
+        "text": "§5Empty Thunder in a Bottle"
       },
       "minecraft:lore": [
         {
@@ -363181,13 +363144,15 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -363838,7 +363803,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Quantum Projection  §e§lRIGHT CLICK"
+          "text": "§6Ability: Quantum Projection §e§lRIGHT CLICK"
         },
         {
           "text": "§7Aim at §9Timite Ores §7to wackify their time."
@@ -364093,7 +364058,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Climb!  §e§lRIGHT CLICK"
+          "text": "§6Ability: Climb! §e§lRIGHT CLICK"
         },
         {
           "text": "§7Each click allows you to climb §a2§7 blocks, up to §a4§7."
@@ -365066,7 +365031,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Deploy  §e§lRIGHT CLICK"
+          "text": "§6Ability: Deploy §e§lRIGHT CLICK"
         },
         {
           "text": "§7Place an orb for §a5m §7buffing up to §b5"
@@ -366109,7 +366074,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Angered "
+          "text": "§6Ability: Angered"
         },
         {
           "text": "§7You take §c+50%§7 damage while holding"
@@ -366121,7 +366086,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Chain of Agony  §e§lRIGHT CLICK"
+          "text": "§6Ability: Chain of Agony §e§lRIGHT CLICK"
         },
         {
           "text": "§8Toggles On/Off on use"
@@ -366861,7 +366826,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Deploy  §e§lRIGHT CLICK"
+          "text": "§6Ability: Deploy §e§lRIGHT CLICK"
         },
         {
           "text": "§7Place a totem down for §a5m§7, buffing"
@@ -368014,7 +367979,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Throwing Axe  §e§lRIGHT CLICK"
+          "text": "§6Ability: Throwing Axe §e§lRIGHT CLICK"
         },
         {
           "text": "§7While on §2Foraging Islands§7, throw your Axe at a"
@@ -368032,7 +367997,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Park Enthusiast "
+          "text": "§6Ability: Park Enthusiast"
         },
         {
           "text": "§7Gain §6+100 Foraging Fortune §7while in §aThe Park§7."
@@ -368334,7 +368299,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Thwack  §e§lRIGHT CLICK"
+          "text": "§6Ability: Thwack §e§lRIGHT CLICK"
         },
         {
           "text": "§7Throw the spear like an arrow which"
@@ -369234,7 +369199,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Vacuum  §e§lHOLD RIGHT CLICK"
+          "text": "§6Ability: Vacuum §e§lHOLD RIGHT CLICK"
         },
         {
           "text": "§7Creates an air pressure differential"
@@ -369301,7 +369266,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Yoink  §e§lRIGHT CLICK"
+          "text": "§6Ability: Yoink §e§lRIGHT CLICK"
         },
         {
           "text": "§7Throw your fishing net at swimming"
@@ -369322,7 +369287,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Haul "
+          "text": "§6Ability: Haul"
         },
         {
           "text": "§7Grants §d+5 Hunting Fortune §7on"
@@ -369663,7 +369628,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Cropshot "
+          "text": "§6Ability: Cropshot"
         },
         {
           "text": "§7Grants §6+3 Farming Fortune §7per"
@@ -369847,7 +369812,7 @@
         "id": "TWO_IQ_POINT"
       },
       "minecraft:custom_name": {
-        "text": "§a2 IQ Points"
+        "text": "§aTwo IQ Points"
       },
       "minecraft:lore": [
         {
@@ -369857,10 +369822,7 @@
           "text": ""
         },
         {
-          "text": "§7Increases your total §b Intelligence"
-        },
-        {
-          "text": "§7by §a2%§7."
+          "text": "§7Grants §b+2%  Intelligence§7."
         },
         {
           "text": ""
@@ -369892,11 +369854,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -369916,7 +369880,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Split or Steal  §e§lRIGHT CLICK"
+          "text": "§6Ability: Split or Steal §e§lRIGHT CLICK"
         },
         {
           "text": "§7Click a Player or NPC to challenge"
@@ -369931,7 +369895,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Stats  §e§lLEFT CLICK"
+          "text": "§6Ability: Stats §e§lLEFT CLICK"
         },
         {
           "text": "§7View the §aSplit §7or §cSteal §7stats of other"
@@ -370302,7 +370266,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Deploy  §e§lRIGHT CLICK"
+          "text": "§6Ability: Deploy §e§lRIGHT CLICK"
         },
         {
           "text": "§7Place an orb for §a5m §7buffing up to §b5"
@@ -373085,7 +373049,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Rejuvenate "
+          "text": "§6Ability: Rejuvenate"
         },
         {
           "text": "§7While wearing, drains §a5 §7health per"
@@ -373339,7 +373303,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Bat Swarm "
+          "text": "§6Ability: Bat Swarm"
         },
         {
           "text": "§7Summons two bats that will follow you"
@@ -373357,7 +373321,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Rejuvenate "
+          "text": "§6Ability: Rejuvenate"
         },
         {
           "text": "§7While wearing, drains §a5 §7health per"
@@ -373693,7 +373657,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Blazing Palisade "
+          "text": "§6Ability: Blazing Palisade"
         },
         {
           "text": "§7Gain a §a20% §7chance to reflect"
@@ -373777,7 +373741,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Blazing Restoration "
+          "text": "§6Ability: Blazing Restoration"
         },
         {
           "text": "§7Restores §c+15 Health §7every second"
@@ -373933,7 +373897,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Cube Fanatic "
+          "text": "§6Ability: Cube Fanatic"
         },
         {
           "text": "§7Gain §a20% §7more §cMagma Cream §7when"
@@ -374248,7 +374212,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Absorptio  §e§lRIGHT CLICK"
+          "text": "§6Ability: Absorptio §e§lRIGHT CLICK"
         },
         {
           "text": "§7This weapon lets you absorb §c5% §7of"
@@ -374263,7 +374227,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Vis Temperata "
+          "text": "§6Ability: Vis Temperata"
         },
         {
           "text": "§7Each strike of this weapon has its"
@@ -374521,7 +374485,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Vermin Vaporizer "
+          "text": "§6Ability: Vermin Vaporizer"
         },
         {
           "text": "§7Grants §2+3 Bonus Pest Chance §7per"
@@ -375265,7 +375229,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Throw  §e§lRIGHT CLICK"
+          "text": "§6Ability: Throw §e§lRIGHT CLICK"
         },
         {
           "text": "§7Throw the Lasso at §2Forest"
@@ -375280,7 +375244,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Reel In  §e§lRIGHT CLICK"
+          "text": "§6Ability: Reel In §e§lRIGHT CLICK"
         },
         {
           "text": "§7Reel in creatures caught by the"
@@ -376378,7 +376342,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Soulcry  §e§lRIGHT CLICK"
+          "text": "§6Ability: Soulcry §e§lRIGHT CLICK"
         },
         {
           "text": "§7Gain §c+200 Ferocity §7against Endermen for §a4s"
@@ -376402,7 +376366,7 @@
           "text": "§4☠ §cRequires §5Enderman Slayer 3§c."
         },
         {
-          "text": "§9§lRARE SWORD"
+          "text": "§9§lRARE SLAYER SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/slayer/enderman/weapons/katanas/voidedge_katana",
@@ -377943,7 +377907,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Acupuncture  §e§lRIGHT CLICK"
+          "text": "§6Ability: Acupuncture §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoot arrows from every direction around"
@@ -378013,7 +377977,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Acupuncture  §e§lRIGHT CLICK"
+          "text": "§6Ability: Acupuncture §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoot arrows from every direction around"
@@ -378118,7 +378082,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Soulcry  §e§lRIGHT CLICK"
+          "text": "§6Ability: Soulcry §e§lRIGHT CLICK"
         },
         {
           "text": "§7Gain §c+300 Ferocity §7against Endermen for §a4s"
@@ -378142,7 +378106,7 @@
           "text": "§4☠ §cRequires §5Enderman Slayer 5§c."
         },
         {
-          "text": "§5§lEPIC SWORD"
+          "text": "§5§lEPIC SLAYER SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/slayer/enderman/weapons/katanas/vorpal_katana",
@@ -378489,7 +378453,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Huge Heal  §e§lRIGHT CLICK"
+          "text": "§6Ability: Huge Heal §e§lRIGHT CLICK"
         },
         {
           "text": "§7Heal §c120❤ §7per second for 6s."
@@ -378547,7 +378511,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Small Heal  §e§lRIGHT CLICK"
+          "text": "§6Ability: Small Heal §e§lRIGHT CLICK"
         },
         {
           "text": "§7Heal §c60❤ §7per second for 5s."
@@ -378605,7 +378569,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Medium Heal  §e§lRIGHT CLICK"
+          "text": "§6Ability: Medium Heal §e§lRIGHT CLICK"
         },
         {
           "text": "§7Heal §c80❤ §7per second for 5s."
@@ -378663,7 +378627,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Big Heal  §e§lRIGHT CLICK"
+          "text": "§6Ability: Big Heal §e§lRIGHT CLICK"
         },
         {
           "text": "§7Heal §c100❤ §7per second for 6s."
@@ -378730,7 +378694,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Life Blood  §e§lRIGHT CLICK"
+          "text": "§6Ability: Life Blood §e§lRIGHT CLICK"
         },
         {
           "text": "§7Use §c10% §7of your max health to boost your"
@@ -378798,7 +378762,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Glyph Incantation "
+          "text": "§6Ability: Glyph Incantation"
         },
         {
           "text": "§7Activate §5Glyphs §7to imbue them with a"
@@ -378962,7 +378926,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Brute Force "
+          "text": "§6Ability: Brute Force"
         },
         {
           "text": "§7Halves your §f+25 Speed §7but grants"
@@ -379242,7 +379206,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Wizards All The Way Around "
+          "text": "§6Ability: Wizards All The Way Around"
         },
         {
           "text": "§7Regain §a+2 §7when killing a monster."
@@ -379316,7 +379280,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Wizards All The Way Around "
+          "text": "§6Ability: Wizards All The Way Around"
         },
         {
           "text": "§7Regain §a+2 §7when killing a monster."
@@ -379385,7 +379349,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Deploy  §e§lRIGHT CLICK"
+          "text": "§6Ability: Deploy §e§lRIGHT CLICK"
         },
         {
           "text": "§7Shoot the flare up in the sky for §a3m"
@@ -380452,7 +380416,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Weather  §e§lRIGHT CLICK"
+          "text": "§6Ability: Weather §e§lRIGHT CLICK"
         },
         {
           "text": "§7Allows you to change the weather on your"
@@ -381234,25 +381198,19 @@
           "text": ""
         },
         {
-          "text": "§7Grants a 1 in 100 chance to deal"
+          "text": "§7Grants a §a1% §7chance to deal §c+100%"
         },
         {
-          "text": "§c+100% §7damage."
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§8True love is tough to find, but"
-        },
-        {
-          "text": "§8finding it hits you hard!"
+          "text": "§c Damage §7when hitting a mob."
         },
         {
           "text": ""
         },
         {
-          "text": "§7Requires quest progress!"
+          "text": "§8§oTrue love is tough to find, but"
+        },
+        {
+          "text": "§8§ofinding it hits you hard!"
         },
         {
           "text": ""
@@ -381303,7 +381261,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Howl  §e§lRIGHT CLICK"
+          "text": "§6Ability: Howl §e§lRIGHT CLICK"
         },
         {
           "text": "§7You and 4 nearby players gain:"
@@ -381381,7 +381339,7 @@
       },
       "minecraft:lore": [
         {
-          "text": "§6Ability: Howl  §e§lRIGHT CLICK"
+          "text": "§6Ability: Howl §e§lRIGHT CLICK"
         },
         {
           "text": "§7You and 4 nearby players gain:"
@@ -383731,7 +383689,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Deploy  §e§lRIGHT CLICK"
+          "text": "§6Ability: Deploy §e§lRIGHT CLICK"
         },
         {
           "text": "§7Place an orb for §a5m §7buffing up to §b10"
@@ -385855,7 +385813,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Bat Swarm "
+          "text": "§6Ability: Bat Swarm"
         },
         {
           "text": "§7Summons two bats that will follow you"
@@ -386699,7 +386657,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Creeper Veil  §e§lRIGHT CLICK"
+          "text": "§6Ability: Creeper Veil §e§lRIGHT CLICK"
         },
         {
           "text": "§7Spawns a layered veil that negates"
@@ -387581,7 +387539,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Wither Shield  §e§lRIGHT CLICK"
+          "text": "§6Ability: Wither Shield §e§lRIGHT CLICK"
         },
         {
           "text": "§7Reduces damage taken by §c10% §7for §e5"
@@ -387704,7 +387662,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Friendship is Power "
+          "text": "§6Ability: Friendship is Power"
         },
         {
           "text": "§7Gain §5+1 Rift Damage §7and §b+2 Mana"
@@ -388000,7 +387958,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Time Warp!  §e§lRIGHT CLICK"
+          "text": "§6Ability: Time Warp! §e§lRIGHT CLICK"
         },
         {
           "text": "§7Teleport through time (a work in progress)."
@@ -388162,10 +388120,10 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7Speed: §f+1"
+          "text": "§7Accessory Power: §6+5"
         },
         {
-          "text": "§7Accessory Power: §6+5"
+          "text": "§7Speed: §f+1"
         },
         {
           "text": ""
@@ -390484,7 +390442,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Helmets All The Way Down "
+          "text": "§6Ability: Helmets All The Way Down"
         },
         {
           "text": "§7Regain §a+1 §7when killing a monster."
@@ -391149,7 +391107,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Terrain Toss  §e§lRIGHT CLICK"
+          "text": "§6Ability: Terrain Toss §e§lRIGHT CLICK"
         },
         {
           "text": "§7Throws a chunk of terrain in the direction you"
@@ -392807,7 +392765,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Commander Whip "
+          "text": "§6Ability: Commander Whip"
         },
         {
           "text": "§7Every §91 Zombies killed§7 during a"
@@ -394624,7 +394582,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Exanimate Blessing "
+          "text": "§6Ability: Exanimate Blessing"
         },
         {
           "text": "§7Increases the stats of §2Undead "
@@ -394699,7 +394657,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Rotten "
+          "text": "§6Ability: Rotten"
         },
         {
           "text": "§7Grants §6+5 Mining Fortune §7per"
@@ -394985,7 +394943,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Love Tap "
+          "text": "§6Ability: Love Tap"
         },
         {
           "text": "§7Heals you for §c+10 Health §7when you hit an"
@@ -395201,7 +395159,7 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Instant Heal  §e§lRIGHT CLICK"
+          "text": "§6Ability: Instant Heal §e§lRIGHT CLICK"
         },
         {
           "text": "§7Heal for §c320❤ §7and heal players within §a7"
