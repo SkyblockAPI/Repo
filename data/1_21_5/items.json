@@ -14816,13 +14816,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -335950,7 +335948,13 @@
           "text": ""
         },
         {
-          "text": "§a10%§7 chance not to consume bait."
+          "text": "§7Grants a §a+10% §7chance to not"
+        },
+        {
+          "text": "§7consume §6Bait §7when fishing something"
+        },
+        {
+          "text": "§7up."
         },
         {
           "text": ""
