@@ -11419,10 +11419,7 @@
           "text": ""
         },
         {
-          "text": "§7Holding this artifact will grant you §a2x"
-        },
-        {
-          "text": "§7voting power in Mayor Elections!"
+          "text": "§7Grants §a2x Votes §7in §dMayor Elections§7."
         },
         {
           "text": ""
@@ -23223,13 +23220,10 @@
           "text": ""
         },
         {
-          "text": "§7B.I.N.G.O."
+          "text": "§8§oB.I.N.G.O."
         },
         {
           "text": ""
-        },
-        {
-          "text": "§cRequires §5Ⓑ Bingo Rank III§c!"
         },
         {
           "text": "§8Works while in Accessory Bag!"
@@ -23250,7 +23244,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -23528,13 +23522,10 @@
           "text": ""
         },
         {
-          "text": "§7B.I.N.G.O."
+          "text": "§8§oB.I.N.G.O."
         },
         {
           "text": ""
-        },
-        {
-          "text": "§cRequires §6Ⓑ Bingo Rank IV§c!"
         },
         {
           "text": "§8Works while in Accessory Bag!"
@@ -30489,10 +30480,10 @@
           "text": ""
         },
         {
-          "text": "§7Gain §a+15% §7more §6Coins §7and §3Skill XP"
+          "text": "§7Earn §6+15% Coins §7and §3Skill XP §7from"
         },
         {
-          "text": "§7from gifts."
+          "text": "§7Gifts."
         },
         {
           "text": ""
@@ -62467,10 +62458,10 @@
           "text": ""
         },
         {
-          "text": "§9§lRARE §7and above §aGarden Visitors"
+          "text": "§bGarden Visitors §7are §a12% §7more likely"
         },
         {
-          "text": "§7have a §a12% §7higher chance to arrive."
+          "text": "§7to be §9§lRARE §7or higher."
         },
         {
           "text": ""
@@ -62526,10 +62517,10 @@
           "text": ""
         },
         {
-          "text": "§9§lRARE §7and above §aGarden Visitors"
+          "text": "§bGarden Visitors §7are §a8% §7more likely to"
         },
         {
-          "text": "§7have a §a8% §7higher chance to arrive."
+          "text": "§7be §9§lRARE §7or higher."
         },
         {
           "text": ""
@@ -62585,10 +62576,10 @@
           "text": ""
         },
         {
-          "text": "§9§lRARE §7and above §aGarden Visitors"
+          "text": "§bGarden Visitors §7are §a4% §7more likely to"
         },
         {
-          "text": "§7have a §a4% §7higher chance to arrive."
+          "text": "§7be §9§lRARE §7or higher."
         },
         {
           "text": ""
@@ -105502,10 +105493,10 @@
           "text": ""
         },
         {
-          "text": "§7Gain §a2% §7chance to find Trick or"
+          "text": "§7Find §a200% §7more §6Trick or Treat"
         },
         {
-          "text": "§7Treat Chests."
+          "text": "§6Chests §7during the §6Spooky Festival§7."
         },
         {
           "text": ""
@@ -105523,11 +105514,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -129754,7 +129747,7 @@
           "text": "§7Accessory Power: §6+8"
         },
         {
-          "text": "§7Overbloom: §e+6"
+          "text": "§7Overbloom: §e+3"
         },
         {
           "text": ""
@@ -129816,7 +129809,7 @@
           "text": "§7Accessory Power: §6+16"
         },
         {
-          "text": "§7Overbloom: §e+10"
+          "text": "§7Overbloom: §e+5"
         },
         {
           "text": ""
@@ -129878,7 +129871,7 @@
           "text": "§7Accessory Power: §6+12"
         },
         {
-          "text": "§7Overbloom: §e+8"
+          "text": "§7Overbloom: §e+4"
         },
         {
           "text": ""
@@ -129940,7 +129933,7 @@
           "text": "§7Accessory Power: §6+5"
         },
         {
-          "text": "§7Overbloom: §e+4"
+          "text": "§7Overbloom: §e+2"
         },
         {
           "text": ""
@@ -130002,7 +129995,7 @@
           "text": "§7Accessory Power: §6+3"
         },
         {
-          "text": "§7Overbloom: §e+2"
+          "text": "§7Overbloom: §e+1"
         },
         {
           "text": ""
@@ -148156,10 +148149,10 @@
           "text": ""
         },
         {
-          "text": "§7Gain §a+25% §7more §6Coins §7and §3Skill XP"
+          "text": "§7Earn §6+25% Coins §7and §3Skill XP §7from"
         },
         {
-          "text": "§7from gifts."
+          "text": "§7Gifts."
         },
         {
           "text": ""
@@ -153023,10 +153016,10 @@
           "text": ""
         },
         {
-          "text": "§7Gain §a+10% §7more §6Coins §7and §3Skill XP"
+          "text": "§7Earn §6+10% Coins §7and §3Skill XP §7from"
         },
         {
-          "text": "§7from gifts."
+          "text": "§7Gifts."
         },
         {
           "text": ""
@@ -163397,7 +163390,7 @@
           "text": "§7Channels your energy towards the target"
         },
         {
-          "text": "§7location, exploding on impact for §c525.3 §7damage."
+          "text": "§7location, exploding on impact for §c500 §7damage."
         },
         {
           "text": "§7Costs §b10% §7of your total mana to use. This is"
@@ -175525,6 +175518,7 @@
     "id": "minecraft:paper",
     "components": {
       "minecraft:custom_data": {
+        "accessory_disabled": 1,
         "id": "INFINIPOT"
       },
       "minecraft:custom_name": {
@@ -175571,19 +175565,13 @@
           "text": ""
         },
         {
-          "text": "§7Selected Potion: §fDungeon I Potion"
-        },
-        {
-          "text": "§eLeft-click to select a potion!"
+          "text": "§7Selected Potion: §8None"
         },
         {
           "text": ""
         },
         {
-          "text": "§7Enabled: §aOn"
-        },
-        {
-          "text": "§eRight-click to toggle!"
+          "text": "§eRight-click to configure!"
         },
         {
           "text": ""
@@ -184388,10 +184376,13 @@
           "text": ""
         },
         {
-          "text": "§7You pick up crates §a30% §7faster."
+          "text": "§7While in  §cKuudra's Hollow§7:"
         },
         {
-          "text": "§7You build the ballista §a15% §7faster."
+          "text": "§7• Pick up crates §a30% §7faster."
+        },
+        {
+          "text": "§7• Build the ballista §a15% §7faster."
         },
         {
           "text": ""
@@ -184447,10 +184438,19 @@
           "text": ""
         },
         {
-          "text": "§7You pick up crates §a10% §7faster."
+          "text": "§7While in  §cKuudra's Hollow§7:"
         },
         {
-          "text": "§7You build the ballista §a5% §7faster."
+          "text": "§7• Pick up crates §a10% §7faster."
+        },
+        {
+          "text": "§7• Build the ballista §a5% §7faster."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
         },
         {
           "text": ""
@@ -184476,11 +184476,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -184506,10 +184508,19 @@
           "text": ""
         },
         {
-          "text": "§7You pick up crates §a20% §7faster."
+          "text": "§7While in  §cKuudra's Hollow§7:"
         },
         {
-          "text": "§7You build the ballista §a10% §7faster."
+          "text": "§7• Pick up crates §a20% §7faster."
+        },
+        {
+          "text": "§7• Build the ballista §a10% §7faster."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
         },
         {
           "text": ""
@@ -184535,11 +184546,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -189325,10 +189338,10 @@
           "text": ""
         },
         {
-          "text": "§aDoubles §7the odds of fishing a rare"
+          "text": "§7Find Shards from fishing §a100% §7more"
         },
         {
-          "text": "§7Shard."
+          "text": "§7often."
         },
         {
           "text": ""
@@ -196258,10 +196271,16 @@
           "text": ""
         },
         {
-          "text": "§7Gain §a1% §7chance to find Trick or"
+          "text": "§7Find §a100% §7more §6Trick or Treat"
         },
         {
-          "text": "§7Treat Chests."
+          "text": "§6Chests §7during the §6Spooky Festival§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
         },
         {
           "text": ""
@@ -201800,10 +201819,10 @@
           "text": ""
         },
         {
-          "text": "§7Grants §a+1% §c Health§7 and §c"
+          "text": "§7Grants §c+1%  Health §7and §c"
         },
         {
-          "text": "§cStrength§7 while in §cMaster Mode"
+          "text": "§cStrength §7while in §cMaster Mode"
         },
         {
           "text": "§7Dungeons."
@@ -201868,10 +201887,10 @@
           "text": ""
         },
         {
-          "text": "§7Grants §a+2% §c Health§7 and §c"
+          "text": "§7Grants §c+2%  Health §7and §c"
         },
         {
-          "text": "§cStrength§7 while in §cMaster Mode"
+          "text": "§cStrength §7while in §cMaster Mode"
         },
         {
           "text": "§7Dungeons."
@@ -201906,11 +201925,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -201936,10 +201957,10 @@
           "text": ""
         },
         {
-          "text": "§7Grants §a+3% §c Health§7 and §c"
+          "text": "§7Grants §c+3%  Health §7and §c"
         },
         {
-          "text": "§cStrength§7 while in §cMaster Mode"
+          "text": "§cStrength §7while in §cMaster Mode"
         },
         {
           "text": "§7Dungeons."
@@ -201974,11 +201995,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -202004,10 +202027,10 @@
           "text": ""
         },
         {
-          "text": "§7Grants §a+4% §c Health§7 and §c"
+          "text": "§7Grants §c+4%  Health §7and §c"
         },
         {
-          "text": "§cStrength§7 while in §cMaster Mode"
+          "text": "§cStrength §7while in §cMaster Mode"
         },
         {
           "text": "§7Dungeons."
@@ -202042,11 +202065,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -202072,10 +202097,10 @@
           "text": ""
         },
         {
-          "text": "§7Grants §a+6% §c Health§7 and §c"
+          "text": "§7Grants §c+6%  Health §7and §c"
         },
         {
-          "text": "§cStrength§7 while in §cMaster Mode"
+          "text": "§cStrength §7while in §cMaster Mode"
         },
         {
           "text": "§7Dungeons."
@@ -202110,11 +202135,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -202140,10 +202167,10 @@
           "text": ""
         },
         {
-          "text": "§7Grants §a+8% §c Health§7 and §c"
+          "text": "§7Grants §c+8%  Health §7and §c"
         },
         {
-          "text": "§cStrength§7 while in §cMaster Mode"
+          "text": "§cStrength §7while in §cMaster Mode"
         },
         {
           "text": "§7Dungeons."
@@ -202178,11 +202205,13 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -202208,10 +202237,10 @@
           "text": ""
         },
         {
-          "text": "§7Grants §a+10% §c Health§7 and §c"
+          "text": "§7Grants §c+10%  Health §7and §c"
         },
         {
-          "text": "§cStrength§7 while in §cMaster Mode"
+          "text": "§cStrength §7while in §cMaster Mode"
         },
         {
           "text": "§7Dungeons."
@@ -203911,10 +203940,16 @@
           "text": ""
         },
         {
-          "text": "§7Increase the odds of fishing a rare"
+          "text": "§7Find Shards from fishing §a60% §7more"
         },
         {
-          "text": "§7Shard by §a60%§7."
+          "text": "§7often."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
         },
         {
           "text": ""
@@ -222281,10 +222316,7 @@
           "text": ""
         },
         {
-          "text": "§7Grants Night Vision while this item is"
-        },
-        {
-          "text": "§7in your inventory."
+          "text": "§7Grants permanent §9Night Vision I§7."
         },
         {
           "text": ""
@@ -229430,37 +229462,31 @@
           "text": ""
         },
         {
-          "text": "§7Complete challenges to earn stats"
+          "text": "§7Every §a2 §7challenges you complete"
         },
         {
-          "text": "§7and level up the Pandora's Box."
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§7Challenges completed: §a0§7/§a20"
-        },
-        {
-          "text": "§7You receive §c+1 §7 and §c+1 §7 per"
-        },
-        {
-          "text": "§72 challenges you complete."
+          "text": "§7adds §c+1 Health §7and §c+1 Strength§7."
         },
         {
           "text": ""
         },
         {
-          "text": "§cNote! §7You must have this item in your inventory"
+          "text": "§bComplete 3 challenges for the next"
         },
         {
-          "text": "§7or accessory bag when completing a challenge!"
+          "text": "§brarity upgrade!"
         },
         {
           "text": ""
         },
         {
-          "text": "§eRight-click to open!"
+          "text": "§7Completed Challenges: §a0§8/20"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to open Pandora's Box!"
         },
         {
           "text": ""
@@ -284594,10 +284620,10 @@
           "text": ""
         },
         {
-          "text": "§7Gain §a+20% §7more §6Coins §7and §3Skill XP"
+          "text": "§7Earn §6+20% Coins §7and §3Skill XP §7from"
         },
         {
-          "text": "§7from gifts."
+          "text": "§7Gifts."
         },
         {
           "text": ""
@@ -285888,7 +285914,7 @@
           "text": "§8‣ §3+25☯ §7on all §3Wisdom §7stats"
         },
         {
-          "text": "§8‣ §b+15 §7Magic Find"
+          "text": "§8‣ §b+10 §7Magic Find"
         },
         {
           "text": "§8‣ §7Keep §6coins §7on death"
@@ -285909,7 +285935,10 @@
           "text": "  §b/fishingbag§7, §d/timepocket§7, §f/anvil§7, §d/hex§7,"
         },
         {
-          "text": "  §b/etable§7, §d/potionbag§7, and §e/quiver"
+          "text": "  §b/etable§7, §d/potionbag§7, §e/quiver§7,"
+        },
+        {
+          "text": "  §c/compactor§7, and §c/deletor"
         },
         {
           "text": "§8‣ §7Sell items directly to the trades and cookie menu"
@@ -290270,13 +290299,10 @@
           "text": ""
         },
         {
-          "text": "§7Gain a stack of §c2 Strength §7for"
+          "text": "§7Gain a stack of §c2 Strength §7that"
         },
         {
-          "text": "§7every mob killed in the last §a5"
-        },
-        {
-          "text": "§7seconds."
+          "text": "§7lasts §a5s §7each time you kill a mob."
         },
         {
           "text": ""
@@ -290305,13 +290331,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -315090,19 +315114,25 @@
           "text": ""
         },
         {
-          "text": "§7According to the rumors, §6Shen"
+          "text": "§7Grants access to the  §6Regalia"
         },
         {
-          "text": "§7himself is crafting special items. Have"
+          "text": "§6Room §7underneath the  §6Auction"
         },
         {
-          "text": "§7this in your inventory to gain access"
+          "text": "§6House§7."
         },
         {
-          "text": "§7to a unique room hidden below the"
+          "text": ""
         },
         {
-          "text": "§6Auction House§7."
+          "text": "§8§oAccording to rumors, Shen himself"
+        },
+        {
+          "text": "§8§ohas been crafting special items for"
+        },
+        {
+          "text": "§8§osale to SkyBlock's richest players."
         },
         {
           "text": ""
@@ -324478,10 +324508,10 @@
           "text": ""
         },
         {
-          "text": "§7Increase the odds of fishing a rare"
+          "text": "§7Find Shards from fishing §a30% §7more"
         },
         {
-          "text": "§7Shard by §a30%§7."
+          "text": "§7often."
         },
         {
           "text": ""
@@ -362314,13 +362344,13 @@
           "text": ""
         },
         {
-          "text": "§7Damage taken from §c Magmatic§7 mobs"
+          "text": "§7Damage taken from §cLava Sea"
         },
         {
-          "text": "§7is reduced by §a5% §7and damage dealt"
+          "text": "§cCreatures§7 is reduced by §a5% §7and"
         },
         {
-          "text": "§7is increased by §c1.1x§7."
+          "text": "§7damage dealt is increased by §c1.1x§7."
         },
         {
           "text": ""
@@ -362828,13 +362858,13 @@
           "text": ""
         },
         {
-          "text": "§7Damage taken from §c Magmatic§7 mobs"
+          "text": "§7Damage taken from §cLava Sea"
         },
         {
-          "text": "§7is reduced by §a10% §7and damage dealt"
+          "text": "§cCreatures§7 is reduced by §a10% §7and"
         },
         {
-          "text": "§7is increased by §c1.2x§7."
+          "text": "§7damage dealt is increased by §c1.2x§7."
         },
         {
           "text": ""
@@ -362928,13 +362958,13 @@
           "text": ""
         },
         {
-          "text": "§7Damage taken from §c Magmatic§7 mobs"
+          "text": "§7Damage taken from §cLava Sea"
         },
         {
-          "text": "§7is reduced by §a10% §7and damage dealt"
+          "text": "§cCreatures§7 is reduced by §a10% §7and"
         },
         {
-          "text": "§7is increased by §c1.2x§7."
+          "text": "§7damage dealt is increased by §c1.2x§7."
         },
         {
           "text": ""
@@ -363027,13 +363057,13 @@
           "text": ""
         },
         {
-          "text": "§7Damage taken from §c Magmatic§7 mobs"
+          "text": "§7Damage taken from §cLava Sea"
         },
         {
-          "text": "§7is reduced by §a10% §7and damage dealt"
+          "text": "§cCreatures§7 is reduced by §a10% §7and"
         },
         {
-          "text": "§7is increased by §c1.2x§7."
+          "text": "§7damage dealt is increased by §c1.2x§7."
         },
         {
           "text": ""
@@ -363254,13 +363284,13 @@
           "text": ""
         },
         {
-          "text": "§7Damage taken from §c Magmatic§7 mobs"
+          "text": "§7Damage taken from §cLava Sea"
         },
         {
-          "text": "§7is reduced by §a10% §7and damage dealt"
+          "text": "§cCreatures§7 is reduced by §a10% §7and"
         },
         {
-          "text": "§7is increased by §c1.2x§7."
+          "text": "§7damage dealt is increased by §c1.2x§7."
         },
         {
           "text": ""
@@ -383428,10 +383458,10 @@
           "text": ""
         },
         {
-          "text": "§7Gain §a+5% §7more §6Coins §7and §3Skill XP §7from"
+          "text": "§7Earn §6+5% Coins §7and §3Skill XP §7from"
         },
         {
-          "text": "§7gifts."
+          "text": "§7Gifts."
         },
         {
           "text": ""
@@ -386185,10 +386215,16 @@
           "text": ""
         },
         {
-          "text": "§7Reduces the damage taken from §8"
+          "text": "§7Take §c20% §7less §c Damage §7from §8"
         },
         {
-          "text": "§8Wither §7mobs by §a20%§7."
+          "text": "§8Wither §7mobs."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§eRight-click to view recipes!"
         },
         {
           "text": ""
@@ -387440,13 +387476,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"

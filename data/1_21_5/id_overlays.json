@@ -504,6 +504,13 @@
   },
   {
     "type": "item",
+    "id": "ACCESSORY_ENRICHMENT",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Accessory_Enrichment"
+    }
+  },
+  {
+    "type": "item",
     "id": "ACCRETION_ARTIFACT",
     "requirements": [
       {

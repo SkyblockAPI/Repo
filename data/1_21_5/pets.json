@@ -2280,28 +2280,33 @@
       "COMMON": {
         "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzOTYxNzA5MSwKICAicHJvZmlsZUlkIiA6ICJlZDUzZGQ4MTRmOWQ0YTNjYjRlYjY1MWRjYmE3N2U2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMTAwMDExMDAxMDAwMDExIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM3N2FkZThhZmIyNTcwODZmYjE4NjFkYTQzYzhhZTQ2OGI4ZWIwNTc4ZmFkYTg0MzAzODU4NTE3YmExNzIxN2UiCiAgICB9CiAgfQp9",
         "lore": [
-          "§8Mining Pet",
+          "§8Fishing Pet",
           "",
-          "§7Intelligence: §b+{INTELLIGENCE}",
           "§7Speed: §f+{SPEED}",
+          "§7Fishing Speed: §b+{FISHING_SPEED}",
+          "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}%",
           "",
-          "§6Candy Lover",
-          "§7Increases drop chance of candies",
-          "§7from mobs by §a{0}%§7.",
+          "§6Fruity Diet",
+          "§7Increases the base stats of this pet",
+          "§7by §a{0}%§7 while on §aFarming Islands§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON PET"
         ],
         "variables": {
           "0": [
-            0.1,
-            10
-          ],
-          "INTELLIGENCE": [
             1,
             100
           ],
+          "FISHING_SPEED": [
+            0.4,
+            40
+          ],
           "SPEED": [
+            0.4,
+            40
+          ],
+          "SEA_CREATURE_CHANCE": [
             0.05,
             5
           ]
@@ -2318,28 +2323,31 @@
             },
             "minecraft:lore": [
               {
-                "text": "§8Mining Pet"
+                "text": "§8Fishing Pet"
               },
               {
                 "text": ""
-              },
-              {
-                "text": "§7Intelligence: §b+{INTELLIGENCE}"
               },
               {
                 "text": "§7Speed: §f+{SPEED}"
               },
               {
+                "text": "§7Fishing Speed: §b+{FISHING_SPEED}"
+              },
+              {
+                "text": "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}%"
+              },
+              {
                 "text": ""
               },
               {
-                "text": "§6Candy Lover"
+                "text": "§6Fruity Diet"
               },
               {
-                "text": "§7Increases drop chance of candies"
+                "text": "§7Increases the base stats of this pet"
               },
               {
-                "text": "§7from mobs by §a{0}%§7."
+                "text": "§7by §a{0}%§7 while on §aFarming Islands§7."
               },
               {
                 "text": ""
@@ -2384,28 +2392,33 @@
       "UNCOMMON": {
         "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzOTYxNzA5MSwKICAicHJvZmlsZUlkIiA6ICJlZDUzZGQ4MTRmOWQ0YTNjYjRlYjY1MWRjYmE3N2U2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMTAwMDExMDAxMDAwMDExIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM3N2FkZThhZmIyNTcwODZmYjE4NjFkYTQzYzhhZTQ2OGI4ZWIwNTc4ZmFkYTg0MzAzODU4NTE3YmExNzIxN2UiCiAgICB9CiAgfQp9",
         "lore": [
-          "§8Mining Pet",
+          "§8Fishing Pet",
           "",
-          "§7Intelligence: §b+{INTELLIGENCE}",
           "§7Speed: §f+{SPEED}",
+          "§7Fishing Speed: §b+{FISHING_SPEED}",
+          "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}%",
           "",
-          "§6Candy Lover",
-          "§7Increases drop chance of candies",
-          "§7from mobs by §a{0}%§7.",
+          "§6Fruity Diet",
+          "§7Increases the base stats of this pet",
+          "§7by §a{0}%§7 while on §aFarming Islands§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON PET"
         ],
         "variables": {
           "0": [
-            0.1,
-            10
-          ],
-          "INTELLIGENCE": [
             1,
             100
           ],
+          "FISHING_SPEED": [
+            0.4,
+            40
+          ],
           "SPEED": [
+            0.4,
+            40
+          ],
+          "SEA_CREATURE_CHANCE": [
             0.05,
             5
           ]
@@ -2422,28 +2435,31 @@
             },
             "minecraft:lore": [
               {
-                "text": "§8Mining Pet"
+                "text": "§8Fishing Pet"
               },
               {
                 "text": ""
-              },
-              {
-                "text": "§7Intelligence: §b+{INTELLIGENCE}"
               },
               {
                 "text": "§7Speed: §f+{SPEED}"
               },
               {
+                "text": "§7Fishing Speed: §b+{FISHING_SPEED}"
+              },
+              {
+                "text": "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}%"
+              },
+              {
                 "text": ""
               },
               {
-                "text": "§6Candy Lover"
+                "text": "§6Fruity Diet"
               },
               {
-                "text": "§7Increases drop chance of candies"
+                "text": "§7Increases the base stats of this pet"
               },
               {
-                "text": "§7from mobs by §a{0}%§7."
+                "text": "§7by §a{0}%§7 while on §aFarming Islands§7."
               },
               {
                 "text": ""
@@ -2486,40 +2502,42 @@
       "RARE": {
         "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzOTYxNzA5MSwKICAicHJvZmlsZUlkIiA6ICJlZDUzZGQ4MTRmOWQ0YTNjYjRlYjY1MWRjYmE3N2U2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMTAwMDExMDAxMDAwMDExIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM3N2FkZThhZmIyNTcwODZmYjE4NjFkYTQzYzhhZTQ2OGI4ZWIwNTc4ZmFkYTg0MzAzODU4NTE3YmExNzIxN2UiCiAgICB9CiAgfQp9",
         "lore": [
-          "§8Mining Pet",
+          "§8Fishing Pet",
           "",
-          "§7Intelligence: §b+{INTELLIGENCE}",
           "§7Speed: §f+{SPEED}",
+          "§7Fishing Speed: §b+{FISHING_SPEED}",
+          "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}%",
           "",
-          "§6Candy Lover",
-          "§7Increases drop chance of candies",
-          "§7from mobs by §a{0}%§7.",
+          "§6Fruity Diet",
+          "§7Increases the base stats of this pet",
+          "§7by §a{0}%§7 while on §aFarming Islands§7.",
           "",
-          "§6Nightmare",
-          "§7During night, gain §a{1} §b Intelligence§7,",
-          "§a{2} §f Speed§7, and §aNight Vision§7.",
+          "§6Candied Claws",
+          "§7Sea Creatures have a §a{1}% §7chance",
+          "§7to drop §aGreen Candy §7during §6Spooky",
+          "§6Festivals§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE PET"
         ],
         "variables": {
           "0": [
-            0.1,
-            15
-          ],
-          "1": [
-            0.2,
-            20
-          ],
-          "2": [
-            0.4,
-            40
-          ],
-          "INTELLIGENCE": [
             1,
             100
           ],
+          "1": [
+            0.25,
+            25
+          ],
+          "FISHING_SPEED": [
+            0.4,
+            40
+          ],
           "SPEED": [
+            0.4,
+            40
+          ],
+          "SEA_CREATURE_CHANCE": [
             0.05,
             5
           ]
@@ -2536,40 +2554,46 @@
             },
             "minecraft:lore": [
               {
-                "text": "§8Mining Pet"
+                "text": "§8Fishing Pet"
               },
               {
                 "text": ""
-              },
-              {
-                "text": "§7Intelligence: §b+{INTELLIGENCE}"
               },
               {
                 "text": "§7Speed: §f+{SPEED}"
               },
               {
-                "text": ""
+                "text": "§7Fishing Speed: §b+{FISHING_SPEED}"
               },
               {
-                "text": "§6Candy Lover"
-              },
-              {
-                "text": "§7Increases drop chance of candies"
-              },
-              {
-                "text": "§7from mobs by §a{0}%§7."
+                "text": "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}%"
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Nightmare"
+                "text": "§6Fruity Diet"
               },
               {
-                "text": "§7During night, gain §a{1} §b Intelligence§7,"
+                "text": "§7Increases the base stats of this pet"
               },
               {
-                "text": "§a{2} §f Speed§7, and §aNight Vision§7."
+                "text": "§7by §a{0}%§7 while on §aFarming Islands§7."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Candied Claws"
+              },
+              {
+                "text": "§7Sea Creatures have a §a{1}% §7chance"
+              },
+              {
+                "text": "§7to drop §aGreen Candy §7during §6Spooky"
+              },
+              {
+                "text": "§6Festivals§7."
               },
               {
                 "text": ""
@@ -2612,40 +2636,42 @@
       "EPIC": {
         "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzOTYxNzA5MSwKICAicHJvZmlsZUlkIiA6ICJlZDUzZGQ4MTRmOWQ0YTNjYjRlYjY1MWRjYmE3N2U2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMTAwMDExMDAxMDAwMDExIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM3N2FkZThhZmIyNTcwODZmYjE4NjFkYTQzYzhhZTQ2OGI4ZWIwNTc4ZmFkYTg0MzAzODU4NTE3YmExNzIxN2UiCiAgICB9CiAgfQp9",
         "lore": [
-          "§8Mining Pet",
+          "§8Fishing Pet",
           "",
-          "§7Intelligence: §b+{INTELLIGENCE}",
           "§7Speed: §f+{SPEED}",
+          "§7Fishing Speed: §b+{FISHING_SPEED}",
+          "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}%",
           "",
-          "§6Candy Lover",
-          "§7Increases drop chance of candies",
-          "§7from mobs by §a{0}%§7.",
+          "§6Fruity Diet",
+          "§7Increases the base stats of this pet",
+          "§7by §a{0}%§7 while on §aFarming Islands§7.",
           "",
-          "§6Nightmare",
-          "§7During night, gain §a{1} §b Intelligence§7,",
-          "§a{2} §f Speed§7, and §aNight Vision§7.",
+          "§6Candied Claws",
+          "§7Sea Creatures have a §a{1}% §7chance",
+          "§7to drop §aGreen Candy §7during §6Spooky",
+          "§6Festivals§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC PET"
         ],
         "variables": {
           "0": [
-            0.2,
-            20
-          ],
-          "1": [
-            0.3,
-            30
-          ],
-          "2": [
-            0.5,
-            50
-          ],
-          "INTELLIGENCE": [
             1,
             100
           ],
+          "1": [
+            0.25,
+            25
+          ],
+          "FISHING_SPEED": [
+            0.4,
+            40
+          ],
           "SPEED": [
+            0.4,
+            40
+          ],
+          "SEA_CREATURE_CHANCE": [
             0.05,
             5
           ]
@@ -2662,40 +2688,46 @@
             },
             "minecraft:lore": [
               {
-                "text": "§8Mining Pet"
+                "text": "§8Fishing Pet"
               },
               {
                 "text": ""
-              },
-              {
-                "text": "§7Intelligence: §b+{INTELLIGENCE}"
               },
               {
                 "text": "§7Speed: §f+{SPEED}"
               },
               {
-                "text": ""
+                "text": "§7Fishing Speed: §b+{FISHING_SPEED}"
               },
               {
-                "text": "§6Candy Lover"
-              },
-              {
-                "text": "§7Increases drop chance of candies"
-              },
-              {
-                "text": "§7from mobs by §a{0}%§7."
+                "text": "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}%"
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Nightmare"
+                "text": "§6Fruity Diet"
               },
               {
-                "text": "§7During night, gain §a{1} §b Intelligence§7,"
+                "text": "§7Increases the base stats of this pet"
               },
               {
-                "text": "§a{2} §f Speed§7, and §aNight Vision§7."
+                "text": "§7by §a{0}%§7 while on §aFarming Islands§7."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Candied Claws"
+              },
+              {
+                "text": "§7Sea Creatures have a §a{1}% §7chance"
+              },
+              {
+                "text": "§7to drop §aGreen Candy §7during §6Spooky"
+              },
+              {
+                "text": "§6Festivals§7."
               },
               {
                 "text": ""
@@ -2738,48 +2770,50 @@
       "LEGENDARY": {
         "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzOTYxNzA5MSwKICAicHJvZmlsZUlkIiA6ICJlZDUzZGQ4MTRmOWQ0YTNjYjRlYjY1MWRjYmE3N2U2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMTAwMDExMDAxMDAwMDExIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM3N2FkZThhZmIyNTcwODZmYjE4NjFkYTQzYzhhZTQ2OGI4ZWIwNTc4ZmFkYTg0MzAzODU4NTE3YmExNzIxN2UiCiAgICB9CiAgfQp9",
         "lore": [
-          "§8Mining Pet",
+          "§8Fishing Pet",
           "",
-          "§7Intelligence: §b+{INTELLIGENCE}",
           "§7Speed: §f+{SPEED}",
+          "§7Fishing Speed: §b+{FISHING_SPEED}",
+          "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}%",
           "",
-          "§6Candy Lover",
-          "§7Increases drop chance of candies",
-          "§7from mobs by §a{0}%§7.",
+          "§6Fruity Diet",
+          "§7Increases the base stats of this pet",
+          "§7by §a{0}%§7 while on §aFarming Islands§7.",
           "",
-          "§6Nightmare",
-          "§7During night, gain §a{1} §b Intelligence§7,",
-          "§a{2} §f Speed§7, and §aNight Vision§7.",
+          "§6Candied Claws",
+          "§7Sea Creatures have a §a{1}% §7chance",
+          "§7to drop §aGreen Candy §7during §6Spooky",
+          "§6Festivals§7.",
           "",
-          "§6Wings of Steel",
-          "§7Deals §a+{3}% §7damage to §6Spooky",
-          "§7enemies during the §6Spooky Festival§7.",
+          "§6Sonar",
+          "§7Find §6Spooky Sea Creatures §a{2}%",
+          "§7more often during §6Spooky Festivals§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§6§lLEGENDARY PET"
         ],
         "variables": {
           "0": [
-            0.2,
-            20
-          ],
-          "1": [
-            0.3,
-            30
-          ],
-          "2": [
-            0.5,
-            50
-          ],
-          "3": [
-            0.5,
-            50
-          ],
-          "INTELLIGENCE": [
             1,
             100
           ],
+          "1": [
+            0.25,
+            25
+          ],
+          "2": [
+            0.2,
+            20
+          ],
+          "FISHING_SPEED": [
+            0.4,
+            40
+          ],
           "SPEED": [
+            0.4,
+            40
+          ],
+          "SEA_CREATURE_CHANCE": [
             0.05,
             5
           ]
@@ -2796,52 +2830,58 @@
             },
             "minecraft:lore": [
               {
-                "text": "§8Mining Pet"
+                "text": "§8Fishing Pet"
               },
               {
                 "text": ""
-              },
-              {
-                "text": "§7Intelligence: §b+{INTELLIGENCE}"
               },
               {
                 "text": "§7Speed: §f+{SPEED}"
               },
               {
-                "text": ""
+                "text": "§7Fishing Speed: §b+{FISHING_SPEED}"
               },
               {
-                "text": "§6Candy Lover"
-              },
-              {
-                "text": "§7Increases drop chance of candies"
-              },
-              {
-                "text": "§7from mobs by §a{0}%§7."
+                "text": "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}%"
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Nightmare"
+                "text": "§6Fruity Diet"
               },
               {
-                "text": "§7During night, gain §a{1} §b Intelligence§7,"
+                "text": "§7Increases the base stats of this pet"
               },
               {
-                "text": "§a{2} §f Speed§7, and §aNight Vision§7."
+                "text": "§7by §a{0}%§7 while on §aFarming Islands§7."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Wings of Steel"
+                "text": "§6Candied Claws"
               },
               {
-                "text": "§7Deals §a+{3}% §7damage to §6Spooky"
+                "text": "§7Sea Creatures have a §a{1}% §7chance"
               },
               {
-                "text": "§7enemies during the §6Spooky Festival§7."
+                "text": "§7to drop §aGreen Candy §7during §6Spooky"
+              },
+              {
+                "text": "§6Festivals§7."
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "§6Sonar"
+              },
+              {
+                "text": "§7Find §6Spooky Sea Creatures §a{2}%"
+              },
+              {
+                "text": "§7more often during §6Spooky Festivals§7."
               },
               {
                 "text": ""
@@ -2884,59 +2924,55 @@
       "MYTHIC": {
         "texture": "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzOTYxNzA5MSwKICAicHJvZmlsZUlkIiA6ICJlZDUzZGQ4MTRmOWQ0YTNjYjRlYjY1MWRjYmE3N2U2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMTAwMDExMDAxMDAwMDExIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM3N2FkZThhZmIyNTcwODZmYjE4NjFkYTQzYzhhZTQ2OGI4ZWIwNTc4ZmFkYTg0MzAzODU4NTE3YmExNzIxN2UiCiAgICB9CiAgfQp9",
         "lore": [
-          "§8Mining Pet",
+          "§8Fishing Pet",
           "",
-          "§7Intelligence: §b+{INTELLIGENCE}",
           "§7Speed: §f+{SPEED}",
-          "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}",
+          "§7Fishing Speed: §b+{FISHING_SPEED}",
+          "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}%",
           "",
-          "§6Candy Lover",
-          "§7Increases drop chance of candies",
-          "§7from mobs by §a{0}%§7.",
+          "§6Fruity Diet",
+          "§7Increases the base stats of this pet",
+          "§7by §a{0}%§7 while on §aFarming Islands§7.",
           "",
-          "§6Nightmare",
-          "§7During night, gain §a{1} §b Intelligence§7,",
-          "§a{2} §f Speed§7, and §aNight Vision§7.",
-          "",
-          "§6Wings of Steel",
-          "§7Deals §a+{3}% §7damage to §6Spooky",
-          "§7enemies during the §6Spooky Festival§7.",
+          "§6Candied Claws",
+          "§7Sea Creatures have a §a{1}% §7chance",
+          "§7to drop §aGreen Candy §7during §6Spooky",
+          "§6Festivals§7.",
           "",
           "§6Sonar",
-          "§7Grants a §a+{4}% §7chance to catch",
-          "§6Spooky Sea Creatures §7during the",
-          "§6Spooky Festival§7.",
+          "§7Find §6Spooky Sea Creatures §a{2}%",
+          "§7more often during §6Spooky Festivals§7.",
+          "",
+          "§6Twin Fangs",
+          "§7Grants §9+{3} Double Hook Chance",
+          "§7towards §6Spooky Sea Creatures§7.",
           "",
           "§d§lMYTHIC PET"
         ],
         "variables": {
           "0": [
-            0.2,
-            20
-          ],
-          "1": [
-            0.3,
-            30
-          ],
-          "2": [
-            0.5,
-            50
-          ],
-          "3": [
-            0.5,
-            50
-          ],
-          "4": [
-            0.25,
-            25
-          ],
-          "INTELLIGENCE": [
             1,
             100
           ],
-          "SPEED": [
+          "1": [
+            0.25,
+            25
+          ],
+          "2": [
+            0.2,
+            20
+          ],
+          "3": [
             0.05,
             5
+          ],
+          "FISHING_SPEED": [
+            0.4,
+            40
+          ],
+          "SPEED": [
+            0.4,
+            40
           ],
           "SEA_CREATURE_CHANCE": [
             0.05,
@@ -2955,55 +2991,46 @@
             },
             "minecraft:lore": [
               {
-                "text": "§8Mining Pet"
+                "text": "§8Fishing Pet"
               },
               {
                 "text": ""
-              },
-              {
-                "text": "§7Intelligence: §b+{INTELLIGENCE}"
               },
               {
                 "text": "§7Speed: §f+{SPEED}"
               },
               {
-                "text": "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}"
+                "text": "§7Fishing Speed: §b+{FISHING_SPEED}"
+              },
+              {
+                "text": "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}%"
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Candy Lover"
+                "text": "§6Fruity Diet"
               },
               {
-                "text": "§7Increases drop chance of candies"
+                "text": "§7Increases the base stats of this pet"
               },
               {
-                "text": "§7from mobs by §a{0}%§7."
-              },
-              {
-                "text": ""
-              },
-              {
-                "text": "§6Nightmare"
-              },
-              {
-                "text": "§7During night, gain §a{1} §b Intelligence§7,"
-              },
-              {
-                "text": "§a{2} §f Speed§7, and §aNight Vision§7."
+                "text": "§7by §a{0}%§7 while on §aFarming Islands§7."
               },
               {
                 "text": ""
               },
               {
-                "text": "§6Wings of Steel"
+                "text": "§6Candied Claws"
               },
               {
-                "text": "§7Deals §a+{3}% §7damage to §6Spooky"
+                "text": "§7Sea Creatures have a §a{1}% §7chance"
               },
               {
-                "text": "§7enemies during the §6Spooky Festival§7."
+                "text": "§7to drop §aGreen Candy §7during §6Spooky"
+              },
+              {
+                "text": "§6Festivals§7."
               },
               {
                 "text": ""
@@ -3012,13 +3039,22 @@
                 "text": "§6Sonar"
               },
               {
-                "text": "§7Grants a §a+{4}% §7chance to catch"
+                "text": "§7Find §6Spooky Sea Creatures §a{2}%"
               },
               {
-                "text": "§6Spooky Sea Creatures §7during the"
+                "text": "§7more often during §6Spooky Festivals§7."
               },
               {
-                "text": "§6Spooky Festival§7."
+                "text": ""
+              },
+              {
+                "text": "§6Twin Fangs"
+              },
+              {
+                "text": "§7Grants §9+{3} Double Hook Chance"
+              },
+              {
+                "text": "§7towards §6Spooky Sea Creatures§7."
               },
               {
                 "text": ""
@@ -5386,9 +5422,8 @@
           "§7Intelligence: §b+{INTELLIGENCE}",
           "",
           "§6Nether Embodiment",
-          "§7Increases §cCombat §7and §dMiscellaneous",
-          "§7stats by §a{0}% §7while on the §cCrimson",
-          "§cIsle§7.",
+          "§7Increases §cCombat §7stats by §a{0}% §7while",
+          "§7on the §cCrimson Isle§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§f§lCOMMON PET"
@@ -5437,13 +5472,10 @@
                 "text": "§6Nether Embodiment"
               },
               {
-                "text": "§7Increases §cCombat §7and §dMiscellaneous"
+                "text": "§7Increases §cCombat §7stats by §a{0}% §7while"
               },
               {
-                "text": "§7stats by §a{0}% §7while on the §cCrimson"
-              },
-              {
-                "text": "§cIsle§7."
+                "text": "§7on the §cCrimson Isle§7."
               },
               {
                 "text": ""
@@ -5494,9 +5526,8 @@
           "§7Intelligence: §b+{INTELLIGENCE}",
           "",
           "§6Nether Embodiment",
-          "§7Increases §cCombat §7and §dMiscellaneous",
-          "§7stats by §a{0}% §7while on the §cCrimson",
-          "§cIsle§7.",
+          "§7Increases §cCombat §7stats by §a{0}% §7while",
+          "§7on the §cCrimson Isle§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§a§lUNCOMMON PET"
@@ -5545,13 +5576,10 @@
                 "text": "§6Nether Embodiment"
               },
               {
-                "text": "§7Increases §cCombat §7and §dMiscellaneous"
+                "text": "§7Increases §cCombat §7stats by §a{0}% §7while"
               },
               {
-                "text": "§7stats by §a{0}% §7while on the §cCrimson"
-              },
-              {
-                "text": "§cIsle§7."
+                "text": "§7on the §cCrimson Isle§7."
               },
               {
                 "text": ""
@@ -5600,9 +5628,8 @@
           "§7Intelligence: §b+{INTELLIGENCE}",
           "",
           "§6Nether Embodiment",
-          "§7Increases §cCombat §7and §dMiscellaneous",
-          "§7stats by §a{0}% §7while on the §cCrimson",
-          "§cIsle§7.",
+          "§7Increases §cCombat §7stats by §a{0}% §7while",
+          "§7on the §cCrimson Isle§7.",
           "",
           "§6Bling Armor",
           "§7Upgrades §cBlaze Armor §7stats and",
@@ -5659,13 +5686,10 @@
                 "text": "§6Nether Embodiment"
               },
               {
-                "text": "§7Increases §cCombat §7and §dMiscellaneous"
+                "text": "§7Increases §cCombat §7stats by §a{0}% §7while"
               },
               {
-                "text": "§7stats by §a{0}% §7while on the §cCrimson"
-              },
-              {
-                "text": "§cIsle§7."
+                "text": "§7on the §cCrimson Isle§7."
               },
               {
                 "text": ""
@@ -5726,9 +5750,8 @@
           "§7Intelligence: §b+{INTELLIGENCE}",
           "",
           "§6Nether Embodiment",
-          "§7Increases §cCombat §7and §dMiscellaneous",
-          "§7stats by §a{0}% §7while on the §cCrimson",
-          "§cIsle§7.",
+          "§7Increases §cCombat §7stats by §a{0}% §7while",
+          "§7on the §cCrimson Isle§7.",
           "",
           "§6Bling Armor",
           "§7Upgrades §cBlaze Armor §7stats and",
@@ -5785,13 +5808,10 @@
                 "text": "§6Nether Embodiment"
               },
               {
-                "text": "§7Increases §cCombat §7and §dMiscellaneous"
+                "text": "§7Increases §cCombat §7stats by §a{0}% §7while"
               },
               {
-                "text": "§7stats by §a{0}% §7while on the §cCrimson"
-              },
-              {
-                "text": "§cIsle§7."
+                "text": "§7on the §cCrimson Isle§7."
               },
               {
                 "text": ""
@@ -5852,9 +5872,8 @@
           "§7Intelligence: §b+{INTELLIGENCE}",
           "",
           "§6Nether Embodiment",
-          "§7Increases §cCombat §7and §dMiscellaneous",
-          "§7stats by §a{0}% §7while on the §cCrimson",
-          "§cIsle§7.",
+          "§7Increases §cCombat §7stats by §a{0}% §7while",
+          "§7on the §cCrimson Isle§7.",
           "",
           "§6Bling Armor",
           "§7Upgrades §cBlaze Armor §7stats and",
@@ -5913,13 +5932,10 @@
                 "text": "§6Nether Embodiment"
               },
               {
-                "text": "§7Increases §cCombat §7and §dMiscellaneous"
+                "text": "§7Increases §cCombat §7stats by §a{0}% §7while"
               },
               {
-                "text": "§7stats by §a{0}% §7while on the §cCrimson"
-              },
-              {
-                "text": "§cIsle§7."
+                "text": "§7on the §cCrimson Isle§7."
               },
               {
                 "text": ""
@@ -11783,8 +11799,7 @@
           "§cStrength§7.",
           "",
           "§6Superior",
-          "§7Increases all §cCombat §7stats and §b",
-          "§bMagic Find §7by §a{3}%§7.",
+          "§7Increases all §cCombat §7Stats by §a{3}%§7.",
           "",
           "§6§lLEGENDARY PET"
         ],
@@ -11878,10 +11893,7 @@
                 "text": "§6Superior"
               },
               {
-                "text": "§7Increases all §cCombat §7stats and §b"
-              },
-              {
-                "text": "§bMagic Find §7by §a{3}%§7."
+                "text": "§7Increases all §cCombat §7Stats by §a{3}%§7."
               },
               {
                 "text": ""
@@ -12893,7 +12905,7 @@
           "§a20s §7every time you jump. Gain §bJump",
           "§bBoost IV §7while on §2Foraging Islands§7.",
           "",
-          "§6Happy Tree Friends",
+          "§6Froggy Frenzy",
           "§7Grants §6{1} Foraging Fortune §7for",
           "§7every other §2Frog Pet §7on the island,",
           "§7up to §b10 §7frogs.",
@@ -12975,7 +12987,7 @@
                 "text": ""
               },
               {
-                "text": "§6Happy Tree Friends"
+                "text": "§6Froggy Frenzy"
               },
               {
                 "text": "§7Grants §6{1} Foraging Fortune §7for"
@@ -13039,7 +13051,7 @@
           "§a20s §7every time you jump. Gain §bJump",
           "§bBoost IV §7while on §2Foraging Islands§7.",
           "",
-          "§6Happy Tree Friends",
+          "§6Froggy Frenzy",
           "§7Grants §6{1} Foraging Fortune §7for",
           "§7every other §2Frog Pet §7on the island,",
           "§7up to §b10 §7frogs.",
@@ -13121,7 +13133,7 @@
                 "text": ""
               },
               {
-                "text": "§6Happy Tree Friends"
+                "text": "§6Froggy Frenzy"
               },
               {
                 "text": "§7Grants §6{1} Foraging Fortune §7for"
@@ -13185,7 +13197,7 @@
           "§a20s §7every time you jump. Gain §bJump",
           "§bBoost IV §7while on §2Foraging Islands§7.",
           "",
-          "§6Happy Tree Friends",
+          "§6Froggy Frenzy",
           "§7Grants §6{1} Foraging Fortune §7for",
           "§7every other §2Frog Pet §7on the island,",
           "§7up to §b10 §7frogs.",
@@ -13276,7 +13288,7 @@
                 "text": ""
               },
               {
-                "text": "§6Happy Tree Friends"
+                "text": "§6Froggy Frenzy"
               },
               {
                 "text": "§7Grants §6{1} Foraging Fortune §7for"
@@ -13356,11 +13368,11 @@
           "§a20s §7every time you jump. Gain §bJump",
           "§bBoost IV §7while on §2Foraging Islands§7.",
           "",
-          "§6Happy Tree Friends",
+          "§6Froggy Frenzy",
           "§7Grants §6{1} Foraging Fortune §7and",
-          "§b{2} Fishing Speed §7for every",
-          "§7other §2Frog Pet §7on the island, up to",
-          "§b10 §7frogs.",
+          "§b{2} Fishing Speed §7for every other",
+          "§2Frog Pet §7on the island, up to §b10",
+          "§7frogs.",
           "",
           "§6Hunting Enjoyer",
           "§7Increases your chance of fishing up",
@@ -13467,19 +13479,19 @@
                 "text": ""
               },
               {
-                "text": "§6Happy Tree Friends"
+                "text": "§6Froggy Frenzy"
               },
               {
                 "text": "§7Grants §6{1} Foraging Fortune §7and"
               },
               {
-                "text": "§b{2} Fishing Speed §7for every"
+                "text": "§b{2} Fishing Speed §7for every other"
               },
               {
-                "text": "§7other §2Frog Pet §7on the island, up to"
+                "text": "§2Frog Pet §7on the island, up to §b10"
               },
               {
-                "text": "§b10 §7frogs."
+                "text": "§7frogs."
               },
               {
                 "text": ""
@@ -15509,7 +15521,6 @@
         "lore": [
           "§8Mining Pet",
           "",
-          "§7Magic Find: §b+{MAGIC_FIND}",
           "§7Ore Fortune: §6+{ORE_FORTUNE}",
           "",
           "§6Grunt Work",
@@ -15542,10 +15553,6 @@
           "ORE_FORTUNE": [
             1,
             100
-          ],
-          "MAGIC_FIND": [
-            0.07,
-            7
           ]
         },
         "item": {
@@ -15564,9 +15571,6 @@
               },
               {
                 "text": ""
-              },
-              {
-                "text": "§7Magic Find: §b+{MAGIC_FIND}"
               },
               {
                 "text": "§7Ore Fortune: §6+{ORE_FORTUNE}"
@@ -15654,8 +15658,7 @@
           "§8Combat Pet",
           "",
           "§7Strength: §c+{STRENGTH}",
-          "§7Attack Speed: §e+{BONUS_ATTACK_SPEED}%",
-          "§7Magic Find: §b+{MAGIC_FIND}",
+          "§7Attack Speed: §e+{ATTACK_SPEED}%",
           "",
           "§6Gold's Power",
           "§7Increase the potency of §6Midas'",
@@ -15663,9 +15666,8 @@
           "§7by §a{0}%§7.",
           "",
           "§6Shining Scales",
-          "§7Grants §c+11.1 Strength §7and §b+2.2",
-          "§bMagic Find §7to your pet for each digit",
-          "§7in your §6Gold Collection§7.",
+          "§7Grants §c+15 Strength §7to your pet",
+          "§7for each digit in your §6Gold Collection§7.",
           "§8(Max 100M collection)",
           "",
           "§6Dragon's Greed",
@@ -15705,17 +15707,13 @@
             126.2,
             250
           ],
-          "BONUS_ATTACK_SPEED": [
+          "ATTACK_SPEED": [
             25,
             50
           ],
           "STRENGTH": [
             25,
             50
-          ],
-          "MAGIC_FIND": [
-            5,
-            10
           ]
         },
         "item": {
@@ -15739,10 +15737,7 @@
                 "text": "§7Strength: §c+{STRENGTH}"
               },
               {
-                "text": "§7Attack Speed: §e+{BONUS_ATTACK_SPEED}%"
-              },
-              {
-                "text": "§7Magic Find: §b+{MAGIC_FIND}"
+                "text": "§7Attack Speed: §e+{ATTACK_SPEED}%"
               },
               {
                 "text": ""
@@ -15766,13 +15761,10 @@
                 "text": "§6Shining Scales"
               },
               {
-                "text": "§7Grants §c+11.1 Strength §7and §b+2.2"
+                "text": "§7Grants §c+15 Strength §7to your pet"
               },
               {
-                "text": "§bMagic Find §7to your pet for each digit"
-              },
-              {
-                "text": "§7in your §6Gold Collection§7."
+                "text": "§7for each digit in your §6Gold Collection§7."
               },
               {
                 "text": "§8(Max 100M collection)"
@@ -16930,17 +16922,18 @@
           "§6Kill Combo",
           "§7Gain buffs for combo kills. Effects",
           "§7stack as you increase your combo.",
+          "§7Grants §3+1☯ Combat Wisdom §7for each active Kill Combo tier.",
           "",
           "§a5 Combo §8(lasts §a{0}s§8)",
-          "  §b+3%  Magic Find",
+          "  §3+5☯ Combat Wisdom",
           "§a10 Combo §8(lasts §a{1}s§8)",
           "  §8+§610 §7coins per kill",
           "§a15 Combo §8(lasts §a{2}s§8)",
-          "  §b+3%  Magic Find",
+          "  §3+5☯ Combat Wisdom",
           "§a20 Combo §8(lasts §a{3}s§8)",
-          "  §3+15☯ Combat Wisdom",
+          "  §8+§610 §7coins per kill",
           "§a25 Combo §8(lasts §a{4}s§8)",
-          "  §b+3%  Magic Find",
+          "  §3+5☯ Combat Wisdom",
           "§a30 Combo §8(lasts §a{5}s§8)",
           "  §8+§610 §7coins per kill",
           "",
@@ -17020,13 +17013,16 @@
                 "text": "§7stack as you increase your combo."
               },
               {
+                "text": "§7Grants §3+1☯ Combat Wisdom §7for each active Kill Combo tier."
+              },
+              {
                 "text": ""
               },
               {
                 "text": "§a5 Combo §8(lasts §a{0}s§8)"
               },
               {
-                "text": "  §b+3%  Magic Find"
+                "text": "  §3+5☯ Combat Wisdom"
               },
               {
                 "text": "§a10 Combo §8(lasts §a{1}s§8)"
@@ -17038,19 +17034,19 @@
                 "text": "§a15 Combo §8(lasts §a{2}s§8)"
               },
               {
-                "text": "  §b+3%  Magic Find"
+                "text": "  §3+5☯ Combat Wisdom"
               },
               {
                 "text": "§a20 Combo §8(lasts §a{3}s§8)"
               },
               {
-                "text": "  §3+15☯ Combat Wisdom"
+                "text": "  §8+§610 §7coins per kill"
               },
               {
                 "text": "§a25 Combo §8(lasts §a{4}s§8)"
               },
               {
-                "text": "  §b+3%  Magic Find"
+                "text": "  §3+5☯ Combat Wisdom"
               },
               {
                 "text": "§a30 Combo §8(lasts §a{5}s§8)"
@@ -17083,22 +17079,6 @@
                   "name": "textures",
                   "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMzQ5MDk3ODc1MiwKICAicHJvZmlsZUlkIiA6ICJjODE0MzE4MmQ1MDc0NjQ5YWZlODRmZDNmODY1NDQ2NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBWll4ViIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZTc5NDI3NGMxYmIxOTdhZDMwNjU0MDI4NmE3YWE5NTI5NzRmNTY2MWJjY2YyYjcyNTQyNGY2ZWQ3OWM3ODg0IgogICAgfQogIH0KfQ=="
                 }
-              ]
-            },
-            "minecraft:tooltip_display": {
-              "hidden_components": [
-                "minecraft:attribute_modifiers",
-                "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
-                "minecraft:dyed_color",
-                "minecraft:fireworks",
-                "minecraft:jukebox_playable",
-                "minecraft:map_id",
-                "minecraft:painting/variant",
-                "minecraft:potion_contents",
-                "minecraft:trim",
-                "minecraft:unbreakable",
-                "minecraft:written_book_content"
               ]
             },
             "minecraft:tooltip_style": "hypixel_skyblock:legendary"
@@ -17672,8 +17652,8 @@
             15
           ],
           "1": [
-            0.2,
-            20
+            0.1,
+            10
           ],
           "CRIT_CHANCE": [
             0.1,
@@ -17838,8 +17818,8 @@
             15
           ],
           "1": [
-            0.2,
-            20
+            0.1,
+            10
           ],
           "CRIT_CHANCE": [
             0.1,
@@ -20268,9 +20248,9 @@
           "§6Scavenger",
           "§7Gain §a+{0} §7coins per monster kill",
           "",
-          "§6Finder",
-          "§7Increases the chance for monsters",
-          "§7to drop their armor by §a{1}%§7.",
+          "§6Free Food",
+          "§7Highlights §5Trapper Animals §7within §a{1}",
+          "§7blocks.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC PET"
@@ -20281,7 +20261,7 @@
             5
           ],
           "1": [
-            0.3,
+            1,
             30
           ],
           "BONUS_ATTACK_SPEED": [
@@ -20343,13 +20323,13 @@
                 "text": ""
               },
               {
-                "text": "§6Finder"
+                "text": "§6Free Food"
               },
               {
-                "text": "§7Increases the chance for monsters"
+                "text": "§7Highlights §5Trapper Animals §7within §a{1}"
               },
               {
-                "text": "§7to drop their armor by §a{1}%§7."
+                "text": "§7blocks."
               },
               {
                 "text": ""
@@ -20402,9 +20382,9 @@
           "§6Scavenger",
           "§7Gain §a+{0} §7coins per monster kill",
           "",
-          "§6Finder",
-          "§7Increases the chance for monsters",
-          "§7to drop their armor by §a{1}%§7.",
+          "§6Free Food",
+          "§7Highlights §5Trapper Animals §7within §a{1}",
+          "§7blocks.",
           "",
           "§6Pack Slayer",
           "§7Gain §b{2}x §7Combat XP against §aWolves§7.",
@@ -20483,13 +20463,13 @@
                 "text": ""
               },
               {
-                "text": "§6Finder"
+                "text": "§6Free Food"
               },
               {
-                "text": "§7Increases the chance for monsters"
+                "text": "§7Highlights §5Trapper Animals §7within §a{1}"
               },
               {
-                "text": "§7to drop their armor by §a{1}%§7."
+                "text": "§7blocks."
               },
               {
                 "text": ""
@@ -23864,19 +23844,15 @@
           "",
           "§6Wooly Coat",
           "§7Gain a §a{0}% §7chance for mobs to not",
-          "§7inflict §b❄ Cold §7when damaging you in",
-          "§7the §bGlacite Mineshafts§7.",
+          "§7inflict §b❄ Cold §7when damaging you.",
           "",
           "§6Tusk Luck",
-          "§7Gain §b+{1} Magic Find §7for every",
-          "§7100 §6 Mining Fortune§7, doubled in the",
-          "§bGlacite Tunnels §7and §bGlacite",
-          "§bMineshafts§7.",
+          "§7Increases §cCombat Stats §7by §a{1}% §7while",
+          "§7in the §bGlacite Mineshafts§7.",
           "",
           "§6Corpse Crusher",
-          "§7Gain §6+{2} Mining Fortune §7for each",
-          "§bFrozen Corpse §7looted in your",
-          "§7current §bGlacite Mineshaft§7.",
+          "§7Grants §a+{2} §7bonus §bGlacite Powder",
+          "§7when looting a §bFrozen Corpse§7.",
           "",
           "§6§lLEGENDARY PET"
         ],
@@ -23886,12 +23862,12 @@
             100
           ],
           "1": [
-            0.01,
-            0.5
+            0.2,
+            10
           ],
           "2": [
-            0.3,
-            30
+            10,
+            1000
           ],
           "DEFENSE": [
             0.5,
@@ -23935,10 +23911,7 @@
                 "text": "§7Gain a §a{0}% §7chance for mobs to not"
               },
               {
-                "text": "§7inflict §b❄ Cold §7when damaging you in"
-              },
-              {
-                "text": "§7the §bGlacite Mineshafts§7."
+                "text": "§7inflict §b❄ Cold §7when damaging you."
               },
               {
                 "text": ""
@@ -23947,16 +23920,10 @@
                 "text": "§6Tusk Luck"
               },
               {
-                "text": "§7Gain §b+{1} Magic Find §7for every"
+                "text": "§7Increases §cCombat Stats §7by §a{1}% §7while"
               },
               {
-                "text": "§7100 §6 Mining Fortune§7, doubled in the"
-              },
-              {
-                "text": "§bGlacite Tunnels §7and §bGlacite"
-              },
-              {
-                "text": "§bMineshafts§7."
+                "text": "§7in the §bGlacite Mineshafts§7."
               },
               {
                 "text": ""
@@ -23965,13 +23932,10 @@
                 "text": "§6Corpse Crusher"
               },
               {
-                "text": "§7Gain §6+{2} Mining Fortune §7for each"
+                "text": "§7Grants §a+{2} §7bonus §bGlacite Powder"
               },
               {
-                "text": "§bFrozen Corpse §7looted in your"
-              },
-              {
-                "text": "§7current §bGlacite Mineshaft§7."
+                "text": "§7when looting a §bFrozen Corpse§7."
               },
               {
                 "text": ""
@@ -24932,9 +24896,9 @@
           "§7Grants §2+{2}% ᠅ Mithril Powder §7from",
           "§7all sources.",
           "",
-          "§6Refined Senses",
-          "§7Grants §b+{3}%  Magic Find §7while on",
-          "§6Mining Islands§7.",
+          "§6Ghost Buster",
+          "§7Killing a §fGhost §7has a §a{3}% §7chance to",
+          "§7drop some §2Mithril Powder§7.",
           "",
           "§d§lMYTHIC PET"
         ],
@@ -24953,7 +24917,7 @@
           ],
           "3": [
             0.1,
-            10
+            5
           ],
           "TRUE_DEFENSE": [
             0.5,
@@ -25027,13 +24991,13 @@
                 "text": ""
               },
               {
-                "text": "§6Refined Senses"
+                "text": "§6Ghost Buster"
               },
               {
-                "text": "§7Grants §b+{3}%  Magic Find §7while on"
+                "text": "§7Killing a §fGhost §7has a §a{3}% §7chance to"
               },
               {
-                "text": "§6Mining Islands§7."
+                "text": "§7drop some §2Mithril Powder§7."
               },
               {
                 "text": ""
@@ -25082,7 +25046,6 @@
           "§8Mining Pet",
           "",
           "§7Intelligence: §b+{INTELLIGENCE}",
-          "§7Magic Find: §b+{MAGIC_FIND}",
           "§7Mining Speed: §6+{MINING_SPEED}",
           "",
           "§6Archaeologist",
@@ -25090,8 +25053,8 @@
           "§7often while in the §2Mines of Divan§7.",
           "",
           "§6Magnetic Nose",
-          "§9Automatons §7drop their parts §a{1}%",
-          "§7more frequently.",
+          "§7Grants §b+{1} Magic Find §7on",
+          "§9Automatons§7.",
           "",
           "§6Nucleic Veins",
           "§7The §5Crystal Nucleus §7has a §a{2}%",
@@ -25105,8 +25068,8 @@
             25
           ],
           "1": [
-            0.5,
-            50
+            0.1,
+            10
           ],
           "2": [
             1,
@@ -25119,10 +25082,6 @@
           "INTELLIGENCE": [
             1,
             100
-          ],
-          "MAGIC_FIND": [
-            0.05,
-            5
           ]
         },
         "item": {
@@ -25146,9 +25105,6 @@
                 "text": "§7Intelligence: §b+{INTELLIGENCE}"
               },
               {
-                "text": "§7Magic Find: §b+{MAGIC_FIND}"
-              },
-              {
                 "text": "§7Mining Speed: §6+{MINING_SPEED}"
               },
               {
@@ -25170,10 +25126,10 @@
                 "text": "§6Magnetic Nose"
               },
               {
-                "text": "§9Automatons §7drop their parts §a{1}%"
+                "text": "§7Grants §b+{1} Magic Find §7on"
               },
               {
-                "text": "§7more frequently."
+                "text": "§9Automatons§7."
               },
               {
                 "text": ""
@@ -31179,7 +31135,7 @@
           "",
           "§6Rat's Blessing",
           "§7Has a chance to grant a random",
-          "§7player §b+{0} Magic Find§7 for §a{1}",
+          "§7player §c+5 Health Regen§7 for §a{0}",
           "§7seconds after finding a yummy piece",
           "§7of Cheese! If the player gets a drop",
           "§7during this buff, you have a §a20%",
@@ -31190,10 +31146,6 @@
         ],
         "variables": {
           "0": [
-            2.05,
-            7
-          ],
-          "1": [
             20,
             60
           ],
@@ -31270,7 +31222,7 @@
                 "text": "§7Has a chance to grant a random"
               },
               {
-                "text": "§7player §b+{0} Magic Find§7 for §a{1}"
+                "text": "§7player §c+5 Health Regen§7 for §a{0}"
               },
               {
                 "text": "§7seconds after finding a yummy piece"
@@ -31341,7 +31293,7 @@
           "",
           "§6Rat's Blessing",
           "§7Has a chance to grant a random",
-          "§7player §b+{0} Magic Find§7 for §a{1}",
+          "§7player §c+5 Health Regen§7 for §a{0}",
           "§7seconds after finding a yummy piece",
           "§7of Cheese! If the player gets a drop",
           "§7during this buff, you have a §a20%",
@@ -31355,10 +31307,6 @@
         ],
         "variables": {
           "0": [
-            2.05,
-            7
-          ],
-          "1": [
             20,
             60
           ],
@@ -31435,7 +31383,7 @@
                 "text": "§7Has a chance to grant a random"
               },
               {
-                "text": "§7player §b+{0} Magic Find§7 for §a{1}"
+                "text": "§7player §c+5 Health Regen§7 for §a{0}"
               },
               {
                 "text": "§7seconds after finding a yummy piece"
@@ -38133,11 +38081,10 @@
           "§7your island.",
           "",
           "§6Web Battlefield",
-          "§7Killing mobs grants §c+0.06 Strength",
-          "§7and §b+0.01 Magic Find §7for §a40s §7to all",
-          "§7players staying within §a20 §7blocks of",
-          "§7where they died. §8Stacks up to 10",
-          "§8times.",
+          "§7Killing mobs grants §c+{3} Strength",
+          "§7for §a40s §7to all players staying within",
+          "§a20 §7blocks of where they died. §8Stacks",
+          "§8up to 10 times.",
           "",
           "§d§lMYTHIC PET"
         ],
@@ -38153,6 +38100,10 @@
           "2": [
             0.3,
             30
+          ],
+          "3": [
+            0.06,
+            6
           ],
           "CRIT_CHANCE": [
             0.5,
@@ -38235,19 +38186,16 @@
                 "text": "§6Web Battlefield"
               },
               {
-                "text": "§7Killing mobs grants §c+0.06 Strength"
+                "text": "§7Killing mobs grants §c+{3} Strength"
               },
               {
-                "text": "§7and §b+0.01 Magic Find §7for §a40s §7to all"
+                "text": "§7for §a40s §7to all players staying within"
               },
               {
-                "text": "§7players staying within §a20 §7blocks of"
+                "text": "§a20 §7blocks of where they died. §8Stacks"
               },
               {
-                "text": "§7where they died. §8Stacks up to 10"
-              },
-              {
-                "text": "§8times."
+                "text": "§8up to 10 times."
               },
               {
                 "text": ""
@@ -39848,11 +39796,10 @@
           "§4Spiders§7.",
           "",
           "§6Web Battlefield",
-          "§7Killing mobs grants §c+0.06 Strength",
-          "§7and §b+0.01 Magic Find §7for §a40s §7to all",
-          "§7players staying within §a20 §7blocks of",
-          "§7where they died. §8Stacks up to 10",
-          "§8times.",
+          "§7Killing mobs grants §c+{3} Strength",
+          "§7for §a40s §7to all players staying within",
+          "§a20 §7blocks of where they died. §8Stacks",
+          "§8up to 10 times.",
           "",
           "§d§lMYTHIC PET"
         ],
@@ -39868,6 +39815,10 @@
           "2": [
             0.5,
             50
+          ],
+          "3": [
+            0.06,
+            6
           ],
           "CRIT_CHANCE": [
             0.1,
@@ -39957,19 +39908,16 @@
                 "text": "§6Web Battlefield"
               },
               {
-                "text": "§7Killing mobs grants §c+0.06 Strength"
+                "text": "§7Killing mobs grants §c+{3} Strength"
               },
               {
-                "text": "§7and §b+0.01 Magic Find §7for §a40s §7to all"
+                "text": "§7for §a40s §7to all players staying within"
               },
               {
-                "text": "§7players staying within §a20 §7blocks of"
+                "text": "§a20 §7blocks of where they died. §8Stacks"
               },
               {
-                "text": "§7where they died. §8Stacks up to 10"
-              },
-              {
-                "text": "§8times."
+                "text": "§8up to 10 times."
               },
               {
                 "text": ""
