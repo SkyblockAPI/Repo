@@ -7656,13 +7656,13 @@
           "text": ""
         },
         {
-          "text": "§7Grants a random §6+25 Farming"
+          "text": "§7During §eJacob's Farming Contest§7,"
         },
         {
-          "text": "§6Fortune §7stat during §eJacob's Farming"
+          "text": "§7grants §6+25 Farming Fortune §7to a"
         },
         {
-          "text": "§eContest§7."
+          "text": "§7random crop."
         },
         {
           "text": ""
@@ -7718,13 +7718,13 @@
           "text": ""
         },
         {
-          "text": "§7Grants a random §6+15 Farming"
+          "text": "§7During §eJacob's Farming Contest§7,"
         },
         {
-          "text": "§6Fortune §7stat during §eJacob's Farming"
+          "text": "§7grants §6+15 Farming Fortune §7to a"
         },
         {
-          "text": "§eContest§7."
+          "text": "§7random crop."
         },
         {
           "text": ""
@@ -7780,13 +7780,13 @@
           "text": ""
         },
         {
-          "text": "§7Grants a random §6+5 Farming"
+          "text": "§7During §eJacob's Farming Contest§7,"
         },
         {
-          "text": "§6Fortune §7stat during §eJacob's Farming"
+          "text": "§7grants §6+5 Farming Fortune §7to a"
         },
         {
-          "text": "§eContest§7."
+          "text": "§7random crop."
         },
         {
           "text": ""
@@ -69843,13 +69843,13 @@
           "text": ""
         },
         {
-          "text": "§7Found in a hidden warehouse. Not"
+          "text": "§8§oFound in a hidden warehouse. Not"
         },
         {
-          "text": "§7very useful but still pretty nice to"
+          "text": "§8§overy useful but still pretty nice to"
         },
         {
-          "text": "§7wear."
+          "text": "§8§owear."
         },
         {
           "text": ""
@@ -73821,16 +73821,16 @@
       },
       "minecraft:lore": [
         {
-          "text": "§7§oIt belonged to a world-renowned"
+          "text": "§7§oIt looks like the Wallet of a very"
         },
         {
-          "text": "§7§odetective whose lifelong dream has"
+          "text": "§7§ofamous and relentless detective."
         },
         {
-          "text": "§7§oalways been to investigate his own"
+          "text": ""
         },
         {
-          "text": "§7§omurder case."
+          "text": "§7It can be sold for a lot of §6Coins§7!"
         },
         {
           "text": ""
@@ -73855,7 +73855,18 @@
       },
       "minecraft:tooltip_display": {
         "hidden_components": [
-          "minecraft:dyed_color"
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
         ]
       },
       "minecraft:tooltip_style": "hypixel_skyblock:epic"
@@ -220208,19 +220219,19 @@
           "text": ""
         },
         {
-          "text": "§7Reduces the damage taken from §4"
+          "text": "§7Take §c5% §7less §c Damage §7from §4"
         },
         {
-          "text": "§4Infernal §7mobs by §a5%§7."
+          "text": "§4Infernal §7mobs."
         },
         {
           "text": ""
         },
         {
-          "text": "§7While in the §6Crimson Isle§7, you will receive"
+          "text": "§7While on the  §cCrimson Isle§7, take §c5%"
         },
         {
-          "text": "§7the damage reduction from all mobs."
+          "text": "§7less §c Damage §7from all mobs instead."
         },
         {
           "text": ""

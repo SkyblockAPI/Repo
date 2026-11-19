@@ -30305,6 +30305,21 @@
     }
   },
   {
+    "type": "shop",
+    "npc": "FISHING_MERCHANT_NPC",
+    "inputs": [
+      {
+        "type": "currency",
+        "currency": "COIN",
+        "count": 250
+      }
+    ],
+    "result": {
+      "id": "BEGINNER_FISHING_SACK",
+      "count": 1
+    }
+  },
+  {
     "type": "crafting",
     "keys": [
       {
@@ -30381,171 +30396,6 @@
     ],
     "result": {
       "id": "FISH_HAT",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "npc": "FISH_MERCHANT_NPC",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 50
-      }
-    ],
-    "result": {
-      "id": "FISHING_ROD",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "npc": "FISH_MERCHANT_NPC",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 50
-      }
-    ],
-    "result": {
-      "id": "DIAMOND_SWORD",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "npc": "FISH_MERCHANT_NPC",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 15
-      }
-    ],
-    "result": {
-      "id": "MINNOW_BAIT",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "npc": "FISH_MERCHANT_NPC",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 100
-      }
-    ],
-    "result": {
-      "id": "ANGLER_HELMET",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "npc": "FISH_MERCHANT_NPC",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 100
-      }
-    ],
-    "result": {
-      "id": "ANGLER_CHESTPLATE",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "npc": "FISH_MERCHANT_NPC",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 100
-      }
-    ],
-    "result": {
-      "id": "ANGLER_LEGGINGS",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "npc": "FISH_MERCHANT_NPC",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 100
-      }
-    ],
-    "result": {
-      "id": "ANGLER_BOOTS",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "npc": "FISH_MERCHANT_NPC",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 100
-      }
-    ],
-    "result": {
-      "id": "ANGLER_NECKLACE",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "npc": "FISH_MERCHANT_NPC",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 100
-      }
-    ],
-    "result": {
-      "id": "ANGLER_CLOAK",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "npc": "FISH_MERCHANT_NPC",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 100
-      }
-    ],
-    "result": {
-      "id": "ANGLER_BRACELET",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "npc": "FISH_MERCHANT_NPC",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COIN",
-        "count": 100
-      }
-    ],
-    "result": {
-      "id": "ANGLER_BELT",
       "count": 1
     }
   },
@@ -76113,23 +75963,6 @@
     ],
     "result": {
       "id": "BUILDERS_RULER",
-      "count": 1
-    }
-  },
-  {
-    "type": "shop",
-    "npc": "SKYMART_NPC",
-    "inputs": [
-      {
-        "type": "currency",
-        "currency": "COPPER",
-        "count": 10
-      }
-    ],
-    "result": {
-      "type": "enchantment",
-      "id": "SUNDER",
-      "level": 1,
       "count": 1
     }
   },

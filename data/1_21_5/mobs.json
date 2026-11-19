@@ -15565,47 +15565,6 @@
     "name": "Fishing Merchant",
     "type": "NPC"
   },
-  "FISH_MERCHANT_NPC": {
-    "island": "hub",
-    "position": {
-      "x": 52,
-      "y": 70,
-      "z": -83
-    },
-    "texture": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTJjNGVlMDQ3OWI5MDFmMTc3YzI4Njg5NWRhMzEwYTgwNmRmZTg5N2M5YTg2NzhiOWRlODhhYmJiMWJmZjRiMSJ9fX0=",
-    "itemId": "minecraft:player_head",
-    "item": {
-      "id": "minecraft:player_head",
-      "components": {
-        "minecraft:custom_data": {
-          "id": "FISH_MERCHANT_NPC"
-        },
-        "minecraft:custom_name": {
-          "text": "§9Fishing Merchant (NPC)"
-        },
-        "minecraft:lore": [
-          {
-            "text": ""
-          }
-        ],
-        "minecraft:profile": {
-          "properties": [
-            {
-              "name": "textures",
-              "value": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTJjNGVlMDQ3OWI5MDFmMTc3YzI4Njg5NWRhMzEwYTgwNmRmZTg5N2M5YTg2NzhiOWRlODhhYmJiMWJmZjRiMSJ9fX0="
-            }
-          ]
-        },
-        "minecraft:tooltip_display": {
-          "hidden_components": [
-            "minecraft:dyed_color"
-          ]
-        }
-      }
-    },
-    "name": "Fishing Merchant",
-    "type": "NPC"
-  },
   "FLAMING_SPIDER_MONSTER": {
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q1NDE1NDFkYWFmZjUwODk2Y2QyNThiZGJkZDRjZjgwYzNiYTgxNjczNTcyNjA3OGJmZTM5MzkyN2U1N2YxIn19fQ=",
     "itemId": "minecraft:player_head",
@@ -21669,47 +21628,6 @@
       }
     },
     "name": "Helia",
-    "type": "NPC"
-  },
-  "HENDRICK_NPC": {
-    "island": "winter",
-    "position": {
-      "x": 17,
-      "y": 63,
-      "z": -30
-    },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YwNWZiMWJmMjIyNTQxNjg3ZjI2ZDAwY2RiNjQyODVlZGQ1Mzk2YzVlMjliNjU3NmU0ZWIxMWRlYTI4MDI2N2YifX19",
-    "itemId": "minecraft:player_head",
-    "item": {
-      "id": "minecraft:player_head",
-      "components": {
-        "minecraft:custom_data": {
-          "id": "HENDRICK_NPC"
-        },
-        "minecraft:custom_name": {
-          "text": "§9Hendrik (NPC)"
-        },
-        "minecraft:lore": [
-          {
-            "text": ""
-          }
-        ],
-        "minecraft:profile": {
-          "properties": [
-            {
-              "name": "textures",
-              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YwNWZiMWJmMjIyNTQxNjg3ZjI2ZDAwY2RiNjQyODVlZGQ1Mzk2YzVlMjliNjU3NmU0ZWIxMWRlYTI4MDI2N2YifX19"
-            }
-          ]
-        },
-        "minecraft:tooltip_display": {
-          "hidden_components": [
-            "minecraft:dyed_color"
-          ]
-        }
-      }
-    },
-    "name": "Hendrik",
     "type": "NPC"
   },
   "HENDRIK_NPC": {
@@ -43870,42 +43788,6 @@
     "name": "Rollim",
     "type": "NPC"
   },
-  "RORNORA_NPC": {
-    "island": "mining_3",
-    "position": {
-      "x": 136,
-      "y": 197,
-      "z": 167
-    },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZmNTFmNDZkZDMxYWZkYzRlMzFjMjFiOWJhMjA2NmU1M2E2NjFhYThkYjNkMGQzNjVkMGYxOWFlMDY2N2Y3ZGIifX19",
-    "itemId": "minecraft:player_head",
-    "item": {
-      "id": "minecraft:player_head",
-      "components": {
-        "minecraft:custom_data": {
-          "id": "RORNORA_NPC"
-        },
-        "minecraft:custom_name": {
-          "text": "§9Rornora (NPC)"
-        },
-        "minecraft:lore": [
-          {
-            "text": ""
-          }
-        ],
-        "minecraft:profile": {
-          "properties": [
-            {
-              "name": "textures",
-              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZmNTFmNDZkZDMxYWZkYzRlMzFjMjFiOWJhMjA2NmU1M2E2NjFhYThkYjNkMGQzNjVkMGYxOWFlMDY2N2Y3ZGIifX19"
-            }
-          ]
-        }
-      }
-    },
-    "name": "Rornora",
-    "type": "NPC"
-  },
   "ROSEMARY_NPC": {
     "island": "foraging_2",
     "position": {
@@ -55584,6 +55466,42 @@
       }
     },
     "name": "Tony",
+    "type": "NPC"
+  },
+  "TORNORA_NPC": {
+    "island": "mining_3",
+    "position": {
+      "x": 136,
+      "y": 196,
+      "z": 167
+    },
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmY1MWY0NmRkMzFhZmRjNGUzMWMyMWI5YmEyMDY2ZTUzYTY2MWFhOGRiM2QwZDM2NWQwZjE5YWUwNjY3ZjdkYiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJmZWI0ZjI2ZDg5NjYyOWZlOWJiNmVhMWI1NzY3MWE2YyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzk1MDQ0ODk2NjE5fQ==",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "TORNORA_NPC"
+        },
+        "minecraft:custom_name": {
+          "text": "§9Tornora (NPC)"
+        },
+        "minecraft:lore": [
+          {
+            "text": ""
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmY1MWY0NmRkMzFhZmRjNGUzMWMyMWI5YmEyMDY2ZTUzYTY2MWFhOGRiM2QwZDM2NWQwZjE5YWUwNjY3ZjdkYiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJmZWI0ZjI2ZDg5NjYyOWZlOWJiNmVhMWI1NzY3MWE2YyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzk1MDQ0ODk2NjE5fQ=="
+            }
+          ]
+        }
+      }
+    },
+    "name": "Tornora",
     "type": "NPC"
   },
   "TORRID_SC": {
