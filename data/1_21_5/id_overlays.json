@@ -63164,6 +63164,13 @@
   },
   {
     "type": "mob",
+    "id": "TTEMME_RD_RIFT_NPC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/ttemme_.rD"
+    }
+  },
+  {
+    "type": "mob",
     "id": "TYASHOI_ALCHEMIST_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Tyashoi_Alchemist"
@@ -63721,6 +63728,14 @@
   },
   {
     "type": "rune",
+    "id": "ANTLERS",
+    "tier": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Antlers_Rune"
+    }
+  },
+  {
+    "type": "rune",
     "id": "AXE_FADING_BLUE",
     "tier": 1,
     "wiki": {
@@ -63801,6 +63816,30 @@
   },
   {
     "type": "rune",
+    "id": "AXE_SHATTER",
+    "tier": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Barkshatter_Rune"
+    }
+  },
+  {
+    "type": "rune",
+    "id": "AXE_SOUL_SLICE",
+    "tier": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Soul_Slice_Rune"
+    }
+  },
+  {
+    "type": "rune",
+    "id": "BARK_TUNES",
+    "tier": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bark_Tunes_Rune"
+    }
+  },
+  {
+    "type": "rune",
     "id": "BITE",
     "tier": 1,
     "wiki": {
@@ -63825,6 +63864,14 @@
   },
   {
     "type": "rune",
+    "id": "BLAZING_SUN",
+    "tier": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blazing_Sun_Rune"
+    }
+  },
+  {
+    "type": "rune",
     "id": "BLOOD_2",
     "tier": 1,
     "wiki": {
@@ -63845,6 +63892,14 @@
     "tier": 3,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Blood_Rune"
+    }
+  },
+  {
+    "type": "rune",
+    "id": "BLOOMING",
+    "tier": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blooming_Rune"
     }
   },
   {
@@ -64001,6 +64056,14 @@
   },
   {
     "type": "rune",
+    "id": "EXPLOSIFALL",
+    "tier": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Explosifall_Rune"
+    }
+  },
+  {
+    "type": "rune",
     "id": "FIERY_BURST",
     "tier": 1,
     "wiki": {
@@ -64049,6 +64112,22 @@
   },
   {
     "type": "rune",
+    "id": "FLOWER_CARPET",
+    "tier": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flowery_Carpet_Rune"
+    }
+  },
+  {
+    "type": "rune",
+    "id": "FLOWING_FALL",
+    "tier": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flowing_Fall_Rune"
+    }
+  },
+  {
+    "type": "rune",
     "id": "GEM",
     "tier": 1,
     "wiki": {
@@ -64073,6 +64152,14 @@
   },
   {
     "type": "rune",
+    "id": "GOLDEN_CARPET",
+    "tier": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Golden_Carpet_Rune"
+    }
+  },
+  {
+    "type": "rune",
     "id": "GOLDEN",
     "tier": 1,
     "wiki": {
@@ -64093,6 +64180,30 @@
     "tier": 3,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Golden_Rune"
+    }
+  },
+  {
+    "type": "rune",
+    "id": "GRAND_FREEZING",
+    "tier": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Grand_Freezing_Rune"
+    }
+  },
+  {
+    "type": "rune",
+    "id": "GRAND_GARDENING",
+    "tier": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Grand_Gardening_Rune"
+    }
+  },
+  {
+    "type": "rune",
+    "id": "GRAND_LEAFING",
+    "tier": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Grand_Leaf-ing_Rune"
     }
   },
   {
@@ -64113,6 +64224,14 @@
   },
   {
     "type": "rune",
+    "id": "HEARTSPLOSION",
+    "tier": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Heartsplosion_Rune"
+    }
+  },
+  {
+    "type": "rune",
     "id": "HEARTS",
     "tier": 1,
     "wiki": {
@@ -64181,6 +64300,14 @@
     "tier": 3,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Ice_Rune"
+    }
+  },
+  {
+    "type": "rune",
+    "id": "ICE_SKATES",
+    "tier": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ice_Skates_Rune"
     }
   },
   {
@@ -64289,6 +64416,14 @@
   },
   {
     "type": "rune",
+    "id": "MEOW_MUSIC",
+    "tier": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Meow_Music_Rune"
+    }
+  },
+  {
+    "type": "rune",
     "id": "MUSIC",
     "tier": 1,
     "wiki": {
@@ -64325,6 +64460,22 @@
     "tier": 3,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Peafowl_Rune"
+    }
+  },
+  {
+    "type": "rune",
+    "id": "PRANCING_PUMPKIN",
+    "tier": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Prancin%27_Pumpkin_Rune"
+    }
+  },
+  {
+    "type": "rune",
+    "id": "PRIMAL_FEAR",
+    "tier": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Primal_Fear_Rune"
     }
   },
   {
@@ -64541,6 +64692,14 @@
     "tier": 3,
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Sparkling_Rune"
+    }
+  },
+  {
+    "type": "rune",
+    "id": "SPELLBOUND",
+    "tier": 3,
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Spellbound_Rune"
     }
   },
   {
