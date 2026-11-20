@@ -142186,6 +142186,83 @@
     "id": "minecraft:player_head",
     "components": {
       "minecraft:custom_data": {
+        "id": "GLOSSY_MINERAL_SLIMEY"
+      },
+      "minecraft:custom_name": {
+        "text": "§6Slimey Skin"
+      },
+      "minecraft:lore": [
+        {
+          "text": "§8Combinable in Anvil"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Item skins give your gear a fresh"
+        },
+        {
+          "text": "§7new look! Apply them just like an"
+        },
+        {
+          "text": "§7enchant book using the anvil."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7This skin can be applied to §5Mineral"
+        },
+        {
+          "text": "§5Helmet§7 and §6Glossy Mineral Helmet§7."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§aThis skin is swappable between 21"
+        },
+        {
+          "text": "§aslimey variants!"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§6§lLEGENDARY COSMETIC"
+        }
+      ],
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc5NTA1NjU3NjIxMiwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zYjg2NzdlZjM5OGRkZTcxMzk3M2NhN2M4MzU5NzU3ODJmZjNkYzUzNjY2YmRjOTFjOTE2MWY4ZjY1NDdmZGVlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+          }
+        ]
+      },
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:banner_patterns",
+          "minecraft:charged_projectiles",
+          "minecraft:dyed_color",
+          "minecraft:fireworks",
+          "minecraft:jukebox_playable",
+          "minecraft:map_id",
+          "minecraft:painting/variant",
+          "minecraft:potion_contents",
+          "minecraft:trim",
+          "minecraft:unbreakable",
+          "minecraft:written_book_content"
+        ]
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+    }
+  },
+  {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:custom_data": {
         "id": "GLOSSY_MINERAL_TALISMAN"
       },
       "minecraft:custom_name": {

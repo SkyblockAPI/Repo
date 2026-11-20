@@ -1,12 +1,12 @@
 {
     "1_21_5": {
-        "items": "8f6d6f9d0fd736d7d3b0dfd6ccc22685aed641cc",
+        "items": "9b48e89458e1d9069ffb278a6fc902dde1c33bb7",
         "id_overlays": "52a53b3bd86d703db7279d5ee1721fcf4dda0a91",
         "pets": "10250fd6616101046b111209f2603d63556b0c03",
         "recipes": "6870a68dc0c599ab171795cb10347e6b42d9e567",
         "mobs": "ccdcf84e1a0ab63543692461233ce71c84ecbb9a",
         "runes": "b5e401e9e18462626c06fa7d3dec33d5d6ff0bb0",
-        "enchantments": "ce75f2073866964d973eed0fac59ec510f2737bc",
+        "enchantments": "f14df3a92c16ecabdd22e8473e5ac336d86be845",
         "potions": "a409a3f18a3669d873ba2d6119347e006d18623f",
         "attributes": "ed381768a647f9af69dd1c08b4ff52775ba70f79"
     },

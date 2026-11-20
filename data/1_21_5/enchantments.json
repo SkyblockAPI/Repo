@@ -7108,7 +7108,7 @@
           "§6Requirements:",
           " §7- §bEnchanting Level 25",
           "",
-          "§a§lUNCOMMON"
+          "§9§lRARE"
         ],
         "item": {
           "id": "minecraft:enchanted_book",
@@ -7121,7 +7121,7 @@
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
-              "text": "§aEnchanted Book"
+              "text": "§9Enchanted Book"
             },
             "minecraft:lore": [
               {
@@ -7176,7 +7176,7 @@
                 "text": ""
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§9§lRARE"
               }
             ],
             "minecraft:tooltip_display": {
@@ -14727,7 +14727,7 @@
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
-              "text": "§fEnchanted Book"
+              "text": "§aEnchanted Book"
             },
             "minecraft:lore": [
               {
@@ -17551,7 +17551,7 @@
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
-              "text": "§5Enchanted Book"
+              "text": "§6Enchanted Book"
             },
             "minecraft:lore": [
               {
@@ -27008,7 +27008,7 @@
             },
             "minecraft:enchantment_glint_override": true,
             "minecraft:custom_name": {
-              "text": "§fEnchanted Book"
+              "text": "§aEnchanted Book"
             },
             "minecraft:lore": [
               {
@@ -42366,7 +42366,7 @@
           "§6Conflicts:",
           " §7- §cExecute",
           "",
-          "§f§lCOMMON"
+          "§a§lUNCOMMON"
         ],
         "item": {
           "id": "minecraft:enchanted_book",
@@ -42452,7 +42452,7 @@
                 "text": ""
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§a§lUNCOMMON"
               }
             ],
             "minecraft:tooltip_display": {
@@ -57277,7 +57277,7 @@
           "§6Conflicts:",
           " §7- §cThunderlord",
           "",
-          "§f§lCOMMON"
+          "§a§lUNCOMMON"
         ],
         "item": {
           "id": "minecraft:enchanted_book",
@@ -57366,7 +57366,7 @@
                 "text": ""
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§a§lUNCOMMON"
               }
             ],
             "minecraft:tooltip_display": {
@@ -59416,7 +59416,7 @@
           "§6Conflicts:",
           " §7- §cGiant Killer",
           "",
-          "§f§lCOMMON"
+          "§a§lUNCOMMON"
         ],
         "item": {
           "id": "minecraft:enchanted_book",
@@ -59502,7 +59502,7 @@
                 "text": ""
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§a§lUNCOMMON"
               }
             ],
             "minecraft:tooltip_display": {
@@ -64728,7 +64728,7 @@
           "§6Applied To:",
           " §7- §fFarming Tool",
           "",
-          "§a§lUNCOMMON"
+          "§5§lEPIC"
         ],
         "item": {
           "id": "minecraft:enchanted_book",
@@ -64787,7 +64787,7 @@
                 "text": ""
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§5§lEPIC"
               }
             ],
             "minecraft:tooltip_display": {
@@ -68745,7 +68745,7 @@
           "§6Applied To:",
           " §7- §fFarming Tool",
           "",
-          "§a§lUNCOMMON"
+          "§5§lEPIC"
         ],
         "item": {
           "id": "minecraft:enchanted_book",
@@ -68804,7 +68804,7 @@
                 "text": ""
               },
               {
-                "text": "§a§lUNCOMMON"
+                "text": "§5§lEPIC"
               }
             ],
             "minecraft:tooltip_display": {
@@ -74813,7 +74813,7 @@
           "§6Requirements:",
           " §7- §bEnchanting Level 28",
           "",
-          "§f§lCOMMON"
+          "§a§lUNCOMMON"
         ],
         "item": {
           "id": "minecraft:enchanted_book",
@@ -74904,7 +74904,7 @@
                 "text": ""
               },
               {
-                "text": "§f§lCOMMON"
+                "text": "§a§lUNCOMMON"
               }
             ],
             "minecraft:tooltip_display": {
