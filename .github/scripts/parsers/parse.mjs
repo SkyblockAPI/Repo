@@ -25,6 +25,8 @@ const isEntity = (file) => {
     if (file.endsWith("_BOSS.json")) return true;
     if (file.endsWith("_SC.json")) return true;
     if (file.endsWith("_ANIMAL.json")) return true;
+    if (file.endsWith("_CREATURE.json")) return true;
+    if (file == "TIMESTALK_CLONE") return true; // TODO: remove hardcoding
     return false;
 }
 
