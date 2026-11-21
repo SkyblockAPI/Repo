@@ -1112,13 +1112,6 @@
   },
   {
     "type": "item",
-    "id": "ANT_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ant"
-    }
-  },
-  {
-    "type": "item",
     "id": "ANVIL",
     "vanilla": true,
     "wiki": {
@@ -1799,13 +1792,6 @@
   },
   {
     "type": "item",
-    "id": "AZURE_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Azure"
-    }
-  },
-  {
-    "type": "item",
     "id": "BABYSEAL_BACKPACK",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Baby_Seal_Backpack_Skin"
@@ -2116,13 +2102,6 @@
   },
   {
     "type": "item",
-    "id": "BAMBULEAF_PANDA_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bambuleaf"
-    }
-  },
-  {
-    "type": "item",
     "id": "BANANA_MONKEY_PERSONALITY",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Banana_Monkey_Minion_Skin"
@@ -2269,13 +2248,6 @@
   },
   {
     "type": "item",
-    "id": "BARKING_WOLF_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Barking_Wolf"
-    }
-  },
-  {
-    "type": "item",
     "id": "BARREL_OF_RICHES",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Barrel_of_Riches"
@@ -2410,20 +2382,6 @@
   },
   {
     "type": "item",
-    "id": "BAT_CATACOMBS_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bat"
-    }
-  },
-  {
-    "type": "item",
-    "id": "BAT_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bat"
-    }
-  },
-  {
-    "type": "item",
     "id": "BAT_FIREWORK",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Bat_Firework"
@@ -2483,13 +2441,6 @@
     "id": "BAT_PERSON_TALISMAN",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Bat_Person_Talisman"
-    }
-  },
-  {
-    "type": "item",
-    "id": "BAT_PINATA_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bat_Pi%C3%B1ata"
     }
   },
   {
@@ -2819,20 +2770,6 @@
     "id": "BEDWARS_WOOL",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Tree-like_Wool"
-    }
-  },
-  {
-    "type": "item",
-    "id": "BEEHEEMOTH_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Beeheemoth"
-    }
-  },
-  {
-    "type": "item",
-    "id": "BEETLE_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Beetle"
     }
   },
   {
@@ -3600,13 +3537,6 @@
   },
   {
     "type": "item",
-    "id": "BIRRIES_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Birries"
-    }
-  },
-  {
-    "type": "item",
     "id": "BITS_TALISMAN",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Bits_Talisman"
@@ -4309,20 +4239,6 @@
     "id": "BLUE_ICE_HUNK",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Hunk_of_Blue_Ice"
-    }
-  },
-  {
-    "type": "item",
-    "id": "BLUE_JAY_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blue_Jay"
-    }
-  },
-  {
-    "type": "item",
-    "id": "BLUE_JERRY_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blue_Jerry"
     }
   },
   {
@@ -5073,13 +4989,6 @@
   },
   {
     "type": "item",
-    "id": "BUNBUN_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bunbun"
-    }
-  },
-  {
-    "type": "item",
     "id": "BUNDLED_SNOWMAN",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Bundled_Snowman"
@@ -5402,13 +5311,6 @@
     "id": "BUTTERFLY_BARN_SKIN",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Butterfly_Barn_Skin"
-    }
-  },
-  {
-    "type": "item",
-    "id": "BUTTERFLY_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Butterfly"
     }
   },
   {
@@ -7255,13 +7157,6 @@
   },
   {
     "type": "item",
-    "id": "CHICKEN_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Chicken"
-    }
-  },
-  {
-    "type": "item",
     "id": "CHICKEN_GENERATOR_1",
     "requirements": [
       {
@@ -7664,13 +7559,6 @@
     "id": "CHYME",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Chyme"
-    }
-  },
-  {
-    "type": "item",
-    "id": "CINDERBAT_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cinderbat"
     }
   },
   {
@@ -8623,13 +8511,6 @@
   },
   {
     "type": "item",
-    "id": "COD_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cod"
-    }
-  },
-  {
-    "type": "item",
     "id": "COFFEE_TABLE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Coffee_Table"
@@ -8974,13 +8855,6 @@
   },
   {
     "type": "item",
-    "id": "CORALOT_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Coralot"
-    }
-  },
-  {
-    "type": "item",
     "id": "CORLEONITE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Corleonite"
@@ -9072,13 +8946,6 @@
     "id": "COW_AXE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Advanced_Cow_Axe"
-    }
-  },
-  {
-    "type": "item",
-    "id": "COW_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cow"
     }
   },
   {
@@ -9535,13 +9402,6 @@
     "id": "CRETAN_URN",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Cretan_Urn"
-    }
-  },
-  {
-    "type": "item",
-    "id": "CRICKET_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cricket"
     }
   },
   {
@@ -10990,13 +10850,6 @@
   },
   {
     "type": "item",
-    "id": "DIAMOND_GOBLIN_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Diamond_Goblin"
-    }
-  },
-  {
-    "type": "item",
     "id": "DIAMOND_HELMET",
     "vanilla": true
   },
@@ -11659,13 +11512,6 @@
   },
   {
     "type": "item",
-    "id": "DRAGONFLY_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dragonfly"
-    }
-  },
-  {
-    "type": "item",
     "id": "DRAGONFUSE_GLOVE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Dragonfuse_Glove"
@@ -11737,13 +11583,6 @@
     "id": "DRAGON_WYVERN",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Wyvern_Dragon_Helmet_Skin"
-    }
-  },
-  {
-    "type": "item",
-    "id": "DREADWING_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dreadwing"
     }
   },
   {
@@ -11903,13 +11742,6 @@
     "id": "DUSTGRAIN",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Dustgrain"
-    }
-  },
-  {
-    "type": "item",
-    "id": "DUSTYBIT_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dustybit"
     }
   },
   {
@@ -12537,13 +12369,6 @@
   },
   {
     "type": "item",
-    "id": "EARTHWORM_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Earthworm"
-    }
-  },
-  {
-    "type": "item",
     "id": "EARTH_SHARD",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Earthen_Blade"
@@ -12777,13 +12602,6 @@
     "id": "EMBER_CHESTPLATE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Ember_Chestplate"
-    }
-  },
-  {
-    "type": "item",
-    "id": "EMBER_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ember"
     }
   },
   {
@@ -16400,13 +16218,6 @@
   },
   {
     "type": "item",
-    "id": "EXE_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Exe"
-    }
-  },
-  {
-    "type": "item",
     "id": "EXPENSIVE_TOY",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Expensive_Toy"
@@ -17734,13 +17545,6 @@
   },
   {
     "type": "item",
-    "id": "FIELD_MOUSE_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Field_Mouse"
-    }
-  },
-  {
-    "type": "item",
     "id": "FIERY_AURORA_BOOTS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Fiery_Aurora_Boots"
@@ -18328,20 +18132,6 @@
     ],
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Firedust_Dagger"
-    }
-  },
-  {
-    "type": "item",
-    "id": "FIREFLY_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Firefly"
-    }
-  },
-  {
-    "type": "item",
-    "id": "FIREFOX_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Firefox"
     }
   },
   {
@@ -19196,13 +18986,6 @@
   },
   {
     "type": "item",
-    "id": "FLIPFLOPPER_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flipflopper"
-    }
-  },
-  {
-    "type": "item",
     "id": "FLORAL_FLUX",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Floral_Power_Orb_Skin"
@@ -19415,13 +19198,6 @@
     "id": "FLYING_BATS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Flying_Bats"
-    }
-  },
-  {
-    "type": "item",
-    "id": "FLY_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fly"
     }
   },
   {
@@ -22020,20 +21796,6 @@
   },
   {
     "type": "item",
-    "id": "GOLDEN_GOBLIN_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Golden_Goblin"
-    }
-  },
-  {
-    "type": "item",
-    "id": "GOLDEN_JERRY_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Golden_Jerry"
-    }
-  },
-  {
-    "type": "item",
     "id": "GOLDEN_PLATE",
     "requirements": [
       {
@@ -22058,13 +21820,6 @@
     "id": "GOLDEN_TOOTH",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Golden_Tooth"
-    }
-  },
-  {
-    "type": "item",
-    "id": "GOLDOLOT_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Goldolot"
     }
   },
   {
@@ -23108,13 +22863,6 @@
   },
   {
     "type": "item",
-    "id": "GREEN_JERRY_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Green_Jerry"
-    }
-  },
-  {
-    "type": "item",
     "id": "GREEN_RECORD",
     "vanilla": true
   },
@@ -23177,20 +22925,6 @@
     "id": "GRIZZLY_BAIT",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Grizzly_Salmon"
-    }
-  },
-  {
-    "type": "item",
-    "id": "GRIZZLY_BEAR_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Grizzly_Bear"
-    }
-  },
-  {
-    "type": "item",
-    "id": "GROUNDHOG_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Groundhog"
     }
   },
   {
@@ -24335,13 +24069,6 @@
   },
   {
     "type": "item",
-    "id": "HEWVER_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hewver"
-    }
-  },
-  {
-    "type": "item",
     "id": "HIGHLANDS_FROG_BRONZE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Highlands_Frog"
@@ -24618,13 +24345,6 @@
   },
   {
     "type": "item",
-    "id": "HONEYBUZZ_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Honeybuzz"
-    }
-  },
-  {
-    "type": "item",
     "id": "HONEYCOMB",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Honeycomb"
@@ -24692,20 +24412,6 @@
     ],
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Honeycomb_Talisman"
-    }
-  },
-  {
-    "type": "item",
-    "id": "HONEYHOG_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Honeyhog"
-    }
-  },
-  {
-    "type": "item",
-    "id": "HONEYMITE_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Honeymite"
     }
   },
   {
@@ -26317,13 +26023,6 @@
   },
   {
     "type": "item",
-    "id": "INVISIBUG_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Invisibug"
-    }
-  },
-  {
-    "type": "item",
     "id": "IQ_POINT",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/IQ_Point"
@@ -26885,13 +26584,6 @@
     "id": "JINGLE_BELLS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Jingle_Bells"
-    }
-  },
-  {
-    "type": "item",
-    "id": "JOYDIVE_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Joydive"
     }
   },
   {
@@ -28434,13 +28126,6 @@
   },
   {
     "type": "item",
-    "id": "LARVA_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Larva"
-    }
-  },
-  {
-    "type": "item",
     "id": "LARVA_HOOK",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Larva_Hook"
@@ -29074,13 +28759,6 @@
   },
   {
     "type": "item",
-    "id": "LOCUST_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Locust"
-    }
-  },
-  {
-    "type": "item",
     "id": "LOCUST_LARVA",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Locust_Larva"
@@ -29152,23 +28830,9 @@
   },
   {
     "type": "item",
-    "id": "LOTUM_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lotum"
-    }
-  },
-  {
-    "type": "item",
     "id": "LOTUS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Lotus"
-    }
-  },
-  {
-    "type": "item",
-    "id": "LOTUSFISH_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lotusfish"
     }
   },
   {
@@ -29377,13 +29041,6 @@
     "id": "LUMINO_FIBER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Lumino_Fiber"
-    }
-  },
-  {
-    "type": "item",
-    "id": "LUMISQUID_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lumisquid"
     }
   },
   {
@@ -31522,13 +31179,6 @@
   },
   {
     "type": "item",
-    "id": "MITE_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mite"
-    }
-  },
-  {
-    "type": "item",
     "id": "MITE_GEL",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Mite_Gel"
@@ -31876,13 +31526,6 @@
   },
   {
     "type": "item",
-    "id": "MOCHIBEAR_PANDA_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mochibear"
-    }
-  },
-  {
-    "type": "item",
     "id": "MOIL_LOG",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Moil_Log"
@@ -32122,42 +31765,14 @@
   },
   {
     "type": "item",
-    "id": "MOSQUITO_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mosquito"
-    }
-  },
-  {
-    "type": "item",
-    "id": "MOSSYBIT_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mossybit"
-    }
-  },
-  {
-    "type": "item",
     "id": "MOSSY_COBBLESTONE",
     "vanilla": true
-  },
-  {
-    "type": "item",
-    "id": "MOTH_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Moth"
-    }
   },
   {
     "type": "item",
     "id": "MOUND_OF_SEAGRASS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Mound_of_Seagrass"
-    }
-  },
-  {
-    "type": "item",
-    "id": "MOUNTAIN_GOAT_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mountain_Goat"
     }
   },
   {
@@ -32179,13 +31794,6 @@
     "id": "MUMMY_PERSONALITY",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Mummy_Minion_Skin"
-    }
-  },
-  {
-    "type": "item",
-    "id": "MURKBAT_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Murkbat"
     }
   },
   {
@@ -32289,13 +31897,6 @@
     "id": "MUSHROOM_COW_AXE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Advanced_Mooshroom_Axe"
-    }
-  },
-  {
-    "type": "item",
-    "id": "MUSHROOM_COW_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mushroom_Cow"
     }
   },
   {
@@ -33276,13 +32877,6 @@
   },
   {
     "type": "item",
-    "id": "NOT_CHICKEN_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Not_Chicken"
-    }
-  },
-  {
-    "type": "item",
     "id": "NOT_DEADGEHOG_MASK",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Not-Dead-Gehog_Mask"
@@ -34075,13 +33669,6 @@
     "id": "PANDORAS_BOX",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Pandora%27s_Box"
-    }
-  },
-  {
-    "type": "item",
-    "id": "PANGOLIN_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pangolin"
     }
   },
   {
@@ -38363,20 +37950,6 @@
   },
   {
     "type": "item",
-    "id": "PHANFLARE_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Phanflare"
-    }
-  },
-  {
-    "type": "item",
-    "id": "PHANPYRE_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Phanpyre"
-    }
-  },
-  {
-    "type": "item",
     "id": "PHANTOMLEAF",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Phantomleaf"
@@ -38468,13 +38041,6 @@
     "id": "PIG_BRAIN_MIXIN",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Pig_Brain_Mixin"
-    }
-  },
-  {
-    "type": "item",
-    "id": "PIG_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pig"
     }
   },
   {
@@ -38875,13 +38441,6 @@
     ],
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Topaz_Rod"
-    }
-  },
-  {
-    "type": "item",
-    "id": "POLLENDART_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pollendart"
     }
   },
   {
@@ -39298,13 +38857,6 @@
     "id": "POWER_WITHER_LEGGINGS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Necron%27s_Leggings"
-    }
-  },
-  {
-    "type": "item",
-    "id": "PRAYING_MANTIS_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Praying_Mantis"
     }
   },
   {
@@ -40159,13 +39711,6 @@
   },
   {
     "type": "item",
-    "id": "PURPLE_JERRY_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Purple_Jerry"
-    }
-  },
-  {
-    "type": "item",
     "id": "PURPLE_SMALL_BACKPACK",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Small_Backpack"
@@ -40317,13 +39862,6 @@
   },
   {
     "type": "item",
-    "id": "QUEEN_ANT_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Queen_Ant"
-    }
-  },
-  {
-    "type": "item",
     "id": "QUEST_COOKIE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Booster_Cookie_(Quest)"
@@ -40378,13 +39916,6 @@
     ],
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Chestplate"
-    }
-  },
-  {
-    "type": "item",
-    "id": "RABBIT_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rabbit"
     }
   },
   {
@@ -40784,13 +40315,6 @@
     "id": "RARE_KUUDRA_CHUNK",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Meaty_Kuudra_Chunk"
-    }
-  },
-  {
-    "type": "item",
-    "id": "RAT_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rat"
     }
   },
   {
@@ -43045,13 +42569,6 @@
   },
   {
     "type": "item",
-    "id": "SALMON_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Salmon"
-    }
-  },
-  {
-    "type": "item",
     "id": "SALMON_HAT",
     "requirements": [
       {
@@ -43743,13 +43260,6 @@
   },
   {
     "type": "item",
-    "id": "SEASHINE_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Seashine"
-    }
-  },
-  {
-    "type": "item",
     "id": "SEA_BRINE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Sea_Brine"
@@ -43916,13 +43426,6 @@
     "id": "SENTINEL_WARDEN",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Sentinel_Warden_Skin"
-    }
-  },
-  {
-    "type": "item",
-    "id": "SEPIALOT_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sepialot"
     }
   },
   {
@@ -44213,13 +43716,6 @@
   },
   {
     "type": "item",
-    "id": "SHEEP_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sheep"
-    }
-  },
-  {
-    "type": "item",
     "id": "SHEEP_GENERATOR_1",
     "requirements": [
       {
@@ -44316,13 +43812,6 @@
     "id": "SHELLFRUIT",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Shellfruit"
-    }
-  },
-  {
-    "type": "item",
-    "id": "SHELLWISE_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Shellwise"
     }
   },
   {
@@ -44436,13 +43925,6 @@
     "id": "SHINY_ORB",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Shiny_Orb"
-    }
-  },
-  {
-    "type": "item",
-    "id": "SHINY_PIG_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Shiny_Pig"
     }
   },
   {
@@ -45442,13 +44924,6 @@
   },
   {
     "type": "item",
-    "id": "SLUG_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Slug"
-    }
-  },
-  {
-    "type": "item",
     "id": "SMALL_AGRONOMY_SACK",
     "requirements": [
       {
@@ -46136,13 +45611,6 @@
     "id": "SOGGYBUD",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Soggybud"
-    }
-  },
-  {
-    "type": "item",
-    "id": "SOLAR_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Solar"
     }
   },
   {
@@ -47046,13 +46514,6 @@
   },
   {
     "type": "item",
-    "id": "SPIKE_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Spike"
-    }
-  },
-  {
-    "type": "item",
     "id": "SPINE_FOSSIL",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Spine_Fossil"
@@ -47604,13 +47065,6 @@
     "id": "STAFF_OF_THE_VOLCANO",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Staff_of_the_Volcano"
-    }
-  },
-  {
-    "type": "item",
-    "id": "STAG_BEETLE_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Stag_Beetle"
     }
   },
   {
@@ -50020,13 +49474,6 @@
   },
   {
     "type": "item",
-    "id": "TEWTIL_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tewtil"
-    }
-  },
-  {
-    "type": "item",
     "id": "THEORETICAL_HOE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Mathematical_Hoe_Blueprint"
@@ -50508,13 +49955,6 @@
     "id": "TIME_KNIFE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Time_Shuriken"
-    }
-  },
-  {
-    "type": "item",
-    "id": "TIMIL_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Timil"
     }
   },
   {
@@ -52111,13 +51551,6 @@
   },
   {
     "type": "item",
-    "id": "VERDANT_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Verdant"
-    }
-  },
-  {
-    "type": "item",
     "id": "VERMIN_BELT",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Vermin_Belt"
@@ -52600,13 +52033,6 @@
     "id": "VOTER_BADGE_VIP",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/VIP_Voter%27s_Badge"
-    }
-  },
-  {
-    "type": "item",
-    "id": "WAI_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wai"
     }
   },
   {
@@ -53881,13 +53307,6 @@
   },
   {
     "type": "item",
-    "id": "WOODLOUSE_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Woodlouse"
-    }
-  },
-  {
-    "type": "item",
     "id": "WOOD_AXE",
     "vanilla": true
   },
@@ -54331,13 +53750,6 @@
     "id": "Z",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Z"
-    }
-  },
-  {
-    "type": "item",
-    "id": "ZEE_CREATURE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Zee"
     }
   },
   {
@@ -57840,6 +57252,13 @@
   },
   {
     "type": "mob",
+    "id": "ANT_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ant"
+    }
+  },
+  {
+    "type": "mob",
     "id": "ANT_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Ant"
@@ -58126,6 +57545,13 @@
   },
   {
     "type": "mob",
+    "id": "AZURE_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Azure"
+    }
+  },
+  {
+    "type": "mob",
     "id": "BAAR_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Baar"
@@ -58150,6 +57576,13 @@
     "id": "BAL_BOSS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Bal"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "BAMBULEAF_PANDA_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bambuleaf"
     }
   },
   {
@@ -58196,6 +57629,13 @@
   },
   {
     "type": "mob",
+    "id": "BARKING_WOLF_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Barking_Wolf"
+    }
+  },
+  {
+    "type": "mob",
     "id": "BARRY_MAYOR",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Barry_the_Wizard"
@@ -58227,6 +57667,27 @@
   },
   {
     "type": "mob",
+    "id": "BAT_CATACOMBS_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bat"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "BAT_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bat"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "BAT_PINATA_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bat_Pi%C3%B1ata"
+    }
+  },
+  {
+    "type": "mob",
     "id": "BAYOU_SLUDGE_SC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Bayou_Sludge"
@@ -58248,9 +57709,23 @@
   },
   {
     "type": "mob",
+    "id": "BEEHEEMOTH_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Beeheemoth"
+    }
+  },
+  {
+    "type": "mob",
     "id": "BEEKEEPER_BARTHOLOMEW_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Beekeeper_Bartholomew"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "BEETLE_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Beetle"
     }
   },
   {
@@ -58314,6 +57789,13 @@
   },
   {
     "type": "mob",
+    "id": "BIRRIES_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Birries"
+    }
+  },
+  {
+    "type": "mob",
     "id": "BLACKSMITH_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Blacksmith"
@@ -58341,6 +57823,20 @@
     "id": "BLAZE_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Blaze"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "BLUE_JAY_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blue_Jay"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "BLUE_JERRY_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Blue_Jerry"
     }
   },
   {
@@ -58501,9 +57997,23 @@
   },
   {
     "type": "mob",
+    "id": "BUNBUN_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Bunbun"
+    }
+  },
+  {
+    "type": "mob",
     "id": "BURNINGSOUL_DEMON_MINIBOSS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Burningsoul_Demon"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "BUTTERFLY_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Butterfly"
     }
   },
   {
@@ -58644,6 +58154,13 @@
   },
   {
     "type": "mob",
+    "id": "CHICKEN_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Chicken"
+    }
+  },
+  {
+    "type": "mob",
     "id": "CHICKZILLA_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Chickzilla"
@@ -58700,6 +58217,13 @@
   },
   {
     "type": "mob",
+    "id": "CINDERBAT_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cinderbat"
+    }
+  },
+  {
+    "type": "mob",
     "id": "CLERK_SERAPHINE_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Clerk_Seraphine"
@@ -58708,6 +58232,13 @@
       "clerk seraphine",
       "seraphine"
     ]
+  },
+  {
+    "type": "mob",
+    "id": "COD_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cod"
+    }
   },
   {
     "type": "mob",
@@ -58728,6 +58259,13 @@
     "id": "COLORE_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Colore"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "CORALOT_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Coralot"
     }
   },
   {
@@ -58756,6 +58294,13 @@
     "id": "COWBOY_NICK_RIFT_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Cowboy_Nick"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "COW_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cow"
     }
   },
   {
@@ -58796,6 +58341,13 @@
     "id": "CRETAN_BULL_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Cretan_Bull"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "CRICKET_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Cricket"
     }
   },
   {
@@ -58988,6 +58540,13 @@
   },
   {
     "type": "mob",
+    "id": "DIAMOND_GOBLIN_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Diamond_Goblin"
+    }
+  },
+  {
+    "type": "mob",
     "id": "DIANA_MAYOR",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Diana"
@@ -59037,9 +58596,23 @@
   },
   {
     "type": "mob",
+    "id": "DRAGONFLY_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dragonfly"
+    }
+  },
+  {
+    "type": "mob",
     "id": "DRAKUU_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Drakuu"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "DREADWING_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dreadwing"
     }
   },
   {
@@ -59120,6 +58693,20 @@
   },
   {
     "type": "mob",
+    "id": "DUSTYBIT_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Dustybit"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "EARTHWORM_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Earthworm"
+    }
+  },
+  {
+    "type": "mob",
     "id": "EDELIS_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Edelis"
@@ -59175,6 +58762,13 @@
     "id": "ELMAR_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Elmar"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "EMBER_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Ember"
     }
   },
   {
@@ -59319,6 +58913,13 @@
   },
   {
     "type": "mob",
+    "id": "EXE_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Exe"
+    }
+  },
+  {
+    "type": "mob",
     "id": "EZEKIEL_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Ezekiel"
@@ -59437,6 +59038,13 @@
   },
   {
     "type": "mob",
+    "id": "FIELD_MOUSE_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Field_Mouse"
+    }
+  },
+  {
+    "type": "mob",
     "id": "FIERY_SCUTTLER_SC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Fiery_Scuttler"
@@ -59454,6 +59062,20 @@
     "id": "FINPLEX_RIFT_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Finplex"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "FIREFLY_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Firefly"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "FIREFOX_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Firefox"
     }
   },
   {
@@ -59538,6 +59160,20 @@
     "id": "FLINT_SKELETON_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Flint_Skeleton"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "FLIPFLOPPER_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Flipflopper"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "FLY_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Fly"
     }
   },
   {
@@ -59924,6 +59560,27 @@
   },
   {
     "type": "mob",
+    "id": "GOLDEN_GOBLIN_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Golden_Goblin"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "GOLDEN_JERRY_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Golden_Jerry"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "GOLDOLOT_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Goldolot"
+    }
+  },
+  {
+    "type": "mob",
     "id": "GOLDOR_BOSS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Goldor"
@@ -59980,6 +59637,13 @@
   },
   {
     "type": "mob",
+    "id": "GREEN_JERRY_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Green_Jerry"
+    }
+  },
+  {
+    "type": "mob",
     "id": "GREGORY_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Gregory"
@@ -60015,9 +59679,23 @@
   },
   {
     "type": "mob",
+    "id": "GRIZZLY_BEAR_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Grizzly_Bear"
+    }
+  },
+  {
+    "type": "mob",
     "id": "GROG_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Grog"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "GROUNDHOG_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Groundhog"
     }
   },
   {
@@ -60162,6 +59840,13 @@
   },
   {
     "type": "mob",
+    "id": "HEWVER_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Hewver"
+    }
+  },
+  {
+    "type": "mob",
     "id": "HIDEONLEAF_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Hideonleaf"
@@ -60200,6 +59885,27 @@
     "id": "HOLY_LOST_ADVENTURER_MINIBOSS",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Lost_Adventurer"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "HONEYBUZZ_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Honeybuzz"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "HONEYHOG_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Honeyhog"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "HONEYMITE_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Honeymite"
     }
   },
   {
@@ -60455,6 +60161,13 @@
   },
   {
     "type": "mob",
+    "id": "INVISIBUG_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Invisibug"
+    }
+  },
+  {
+    "type": "mob",
     "id": "IRON_FORGER_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Iron_Forger"
@@ -60605,6 +60318,13 @@
       "jotraeline",
       "drill_fuel_mechanic"
     ]
+  },
+  {
+    "type": "mob",
+    "id": "JOYDIVE_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Joydive"
+    }
   },
   {
     "type": "mob",
@@ -60807,6 +60527,13 @@
   },
   {
     "type": "mob",
+    "id": "LARVA_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Larva"
+    }
+  },
+  {
+    "type": "mob",
     "id": "LASEA_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Lasea"
@@ -60912,6 +60639,13 @@
   },
   {
     "type": "mob",
+    "id": "LOCUST_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Locust"
+    }
+  },
+  {
+    "type": "mob",
     "id": "LONELY_PHILOSOPHER_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Lonely_Philosopher"
@@ -60943,6 +60677,20 @@
     "id": "LORD_JAWBUS_SC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Lord_Jawbus"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "LOTUM_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lotum"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "LOTUSFISH_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lotusfish"
     }
   },
   {
@@ -61002,6 +60750,13 @@
     "id": "LUMINA_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Lumina"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "LUMISQUID_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Lumisquid"
     }
   },
   {
@@ -61398,6 +61153,13 @@
   },
   {
     "type": "mob",
+    "id": "MITE_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mite"
+    }
+  },
+  {
+    "type": "mob",
     "id": "MITHRIL_GRUBBER_SC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Mithril_Grubber"
@@ -61412,6 +61174,13 @@
     "abiphone_callnames": [
       "moby"
     ]
+  },
+  {
+    "type": "mob",
+    "id": "MOCHIBEAR_PANDA_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mochibear"
+    }
   },
   {
     "type": "mob",
@@ -61448,6 +61217,20 @@
   },
   {
     "type": "mob",
+    "id": "MOSQUITO_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mosquito"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "MOSSYBIT_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mossybit"
+    }
+  },
+  {
+    "type": "mob",
     "id": "MOTES_GRUBBER_RIFT_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Motes_Grubber"
@@ -61455,9 +61238,37 @@
   },
   {
     "type": "mob",
+    "id": "MOTH_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Moth"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "MOUNTAIN_GOAT_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mountain_Goat"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "MURKBAT_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Murkbat"
+    }
+  },
+  {
+    "type": "mob",
     "id": "MUSHROOM_BULL_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Mushroom_Bull"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "MUSHROOM_COW_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mushroom_Cow"
     }
   },
   {
@@ -61535,6 +61346,13 @@
     "id": "NIGHTMARE_SC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Nightmare"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "NOT_CHICKEN_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Not_Chicken"
     }
   },
   {
@@ -61712,6 +61530,13 @@
   },
   {
     "type": "mob",
+    "id": "PANGOLIN_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pangolin"
+    }
+  },
+  {
+    "type": "mob",
     "id": "PARCHED_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Parched"
@@ -61750,6 +61575,20 @@
   },
   {
     "type": "mob",
+    "id": "PHANFLARE_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Phanflare"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "PHANPYRE_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Phanpyre"
+    }
+  },
+  {
+    "type": "mob",
     "id": "PHANTOM_FISHER_SC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Phantom_Fisher"
@@ -61767,6 +61606,13 @@
     "id": "PHASER_RIFT_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Phaser"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "PIG_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pig"
     }
   },
   {
@@ -61816,6 +61662,13 @@
   },
   {
     "type": "mob",
+    "id": "POLLENDART_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Pollendart"
+    }
+  },
+  {
+    "type": "mob",
     "id": "POMTAIR_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Pomtair"
@@ -61847,6 +61700,13 @@
     "id": "POWDER_GHAST_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Powder_Ghast"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "PRAYING_MANTIS_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Praying_Mantis"
     }
   },
   {
@@ -61918,6 +61778,13 @@
   },
   {
     "type": "mob",
+    "id": "PURPLE_JERRY_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Purple_Jerry"
+    }
+  },
+  {
+    "type": "mob",
     "id": "PUZZLER_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Puzzler"
@@ -61928,6 +61795,13 @@
     "id": "PYROCLASTIC_WORM_SC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Pyroclastic_Worm"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "QUEEN_ANT_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Queen_Ant"
     }
   },
   {
@@ -61952,6 +61826,13 @@
   },
   {
     "type": "mob",
+    "id": "RABBIT_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rabbit"
+    }
+  },
+  {
+    "type": "mob",
     "id": "RAGNAROK_SC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Ragnarok"
@@ -61962,6 +61843,13 @@
     "id": "RAIN_SLIME_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Rain_Slime"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "RAT_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Rat"
     }
   },
   {
@@ -62329,6 +62217,13 @@
   },
   {
     "type": "mob",
+    "id": "SALMON_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Salmon"
+    }
+  },
+  {
+    "type": "mob",
     "id": "SALVAGE_OLD_ATTRIBUTES_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Salvage_Old_Attributes"
@@ -62434,6 +62329,13 @@
   },
   {
     "type": "mob",
+    "id": "SEASHINE_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Seashine"
+    }
+  },
+  {
+    "type": "mob",
     "id": "SEA_ARCHER_SC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Sea_Archer"
@@ -62486,6 +62388,13 @@
     "id": "SELENAR_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Selenar"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "SEPIALOT_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sepialot"
     }
   },
   {
@@ -62549,6 +62458,20 @@
   },
   {
     "type": "mob",
+    "id": "SHEEP_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Sheep"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "SHELLWISE_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Shellwise"
+    }
+  },
+  {
+    "type": "mob",
     "id": "SHENS_AGENT_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Shen%27s_Agent"
@@ -62584,6 +62507,13 @@
     "abiphone_callnames": [
       "shifty"
     ]
+  },
+  {
+    "type": "mob",
+    "id": "SHINY_PIG_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Shiny_Pig"
+    }
   },
   {
     "type": "mob",
@@ -62719,6 +62649,13 @@
   },
   {
     "type": "mob",
+    "id": "SLUG_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Slug"
+    }
+  },
+  {
+    "type": "mob",
     "id": "SMITHMONGER_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Smithmonger"
@@ -62757,6 +62694,13 @@
     "id": "SNIPER_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Sniper"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "SOLAR_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Solar"
     }
   },
   {
@@ -62813,6 +62757,13 @@
   },
   {
     "type": "mob",
+    "id": "SPIKE_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Spike"
+    }
+  },
+  {
+    "type": "mob",
     "id": "SPLATTER_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Splatter"
@@ -62837,6 +62788,13 @@
     "id": "SQUID_SC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Squid"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "STAG_BEETLE_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Stag_Beetle"
     }
   },
   {
@@ -63185,6 +63143,13 @@
   },
   {
     "type": "mob",
+    "id": "TEWTIL_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tewtil"
+    }
+  },
+  {
+    "type": "mob",
     "id": "THE_HANDLER_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/The_Handler"
@@ -63262,6 +63227,13 @@
     "id": "TILUS_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Tilus"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "TIMIL_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Timil"
     }
   },
   {
@@ -63505,6 +63477,13 @@
   },
   {
     "type": "mob",
+    "id": "VERDANT_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Verdant"
+    }
+  },
+  {
+    "type": "mob",
     "id": "VESUVIUS_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Vesuvius"
@@ -63627,6 +63606,13 @@
     "abiphone_callnames": [
       "vulcan"
     ]
+  },
+  {
+    "type": "mob",
+    "id": "WAI_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Wai"
+    }
   },
   {
     "type": "mob",
@@ -63794,6 +63780,13 @@
   },
   {
     "type": "mob",
+    "id": "WOODLOUSE_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Woodlouse"
+    }
+  },
+  {
+    "type": "mob",
     "id": "WOOL_WEAVER_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Wool_Weaver"
@@ -63877,6 +63870,13 @@
     "id": "ZEALOT_SPECIAL_MONSTER",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Zealot"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "ZEE_CREATURE",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Zee"
     }
   },
   {
