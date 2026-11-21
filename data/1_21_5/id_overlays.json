@@ -49929,13 +49929,6 @@
   },
   {
     "type": "item",
-    "id": "TIMESTALK_CLONE",
-    "wiki": {
-      "independent": "https://hypixelskyblock.minecraft.wiki/w/Timestalk_Clone"
-    }
-  },
-  {
-    "type": "item",
     "id": "TIME_GUN",
     "requirements": [
       {
@@ -63227,6 +63220,13 @@
     "id": "TILUS_NPC",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Tilus"
+    }
+  },
+  {
+    "type": "mob",
+    "id": "TIMESTALK_CLONE_MONSTER",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Timestalk_Clone"
     }
   },
   {

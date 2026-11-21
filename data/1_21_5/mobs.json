@@ -22685,7 +22685,7 @@
           },
           {
             "id": "GOLEM_POPPY",
-            "chance": 1,
+            "chance": 0.05,
             "minAmount": 1,
             "maxAmount": 1
           }
@@ -58978,6 +58978,92 @@
     },
     "name": "Tilus",
     "type": "NPC"
+  },
+  "TIMESTALK_CLONE_MONSTER": {
+    "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc2MTkxMjM0NzQ4NSwKICAicHJvZmlsZUlkIiA6ICJmYzFhOTdlNTgxM2Y0NDI2YTNmZTI4ZjJiNDc1ZjA4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJnZXRPbmxpbmVQbGF5ZXJzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFiOWFkZDQzZTBlNzcwYjdjNGNjZGNmNjcwOGY4YjllODc1ZmYxM2IyYTc1YWI2M2ZmNjlmMmYwZTU3YWY5ZTUiCiAgICB9CiAgfQp9",
+    "itemId": "minecraft:player_head",
+    "item": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_data": {
+          "id": "TIMESTALK_CLONE_MONSTER"
+        },
+        "minecraft:custom_name": {
+          "text": "§aTimestalk Clone §7(§cMonster§7)"
+        },
+        "minecraft:lore": [
+          {
+            "text": "§7Mob Types: §8None!"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7There can only be one, sometimes two"
+          },
+          {
+            "text": "§7apparently."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "§7Sprouts when harvesting §6Timestalks §7in the"
+          },
+          {
+            "text": "§aGreenhouse§7."
+          }
+        ],
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2MTkxMjM0NzQ4NSwKICAicHJvZmlsZUlkIiA6ICJmYzFhOTdlNTgxM2Y0NDI2YTNmZTI4ZjJiNDc1ZjA4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJnZXRPbmxpbmVQbGF5ZXJzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFiOWFkZDQzZTBlNzcwYjdjNGNjZGNmNjcwOGY4YjllODc1ZmYxM2IyYTc1YWI2M2ZmNjlmMmYwZTU3YWY5ZTUiCiAgICB9CiAgfQp9"
+            }
+          ]
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color"
+          ]
+        }
+      }
+    },
+    "name": "Timestalk Clone §7(§cMonster§7)",
+    "lootTables": [
+      {
+        "name": "Timestalk Clone",
+        "mobLevel": 1,
+        "xp": 1,
+        "combatXp": 5,
+        "drops": [
+          {
+            "type": "currency",
+            "currency": "coin",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "id": "TIMESTALK",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
+            "type": "attribute",
+            "id": "GREENHOUSE_SPEED",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1,
+            "extraLore": [
+              "§7 - Catch with §cPocket Black Hole§7.",
+              "§7 - Charm §cTimestalk Clone§7."
+            ]
+          }
+        ]
+      }
+    ]
   },
   "TIMIL_CREATURE": {
     "texture": "ewogICJ0aW1lc3RhbXAiIDogMTc3ODY1NjE5OTQ1OSwKICAicHJvZmlsZUlkIiA6ICIyYmQyZTAxNGI5YWE0YzRjYmRmMzdmZjc5MzE2NDE5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdXRvU2tpbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNWMwMjRhZWVjMWM4ZGM5OGYyYjQyYWRkNWIwZjAyMDc4OGMzZjk4MGRmZjVlODYzNjM2NzYxZTYwYzVlZmZlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",

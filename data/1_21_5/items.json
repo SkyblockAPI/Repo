@@ -363972,53 +363972,6 @@
     }
   },
   {
-    "id": "minecraft:player_head",
-    "components": {
-      "minecraft:custom_data": {
-        "id": "TIMESTALK_CLONE"
-      },
-      "minecraft:custom_name": {
-        "text": "§aTimestalk Clone §7(§cMonster§7)"
-      },
-      "minecraft:lore": [
-        {
-          "text": "§7Mob Types: §8None!"
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§7There can only be one, sometimes two"
-        },
-        {
-          "text": "§7apparently."
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§7Sprouts when harvesting §6Timestalks §7in the"
-        },
-        {
-          "text": "§aGreenhouse§7."
-        }
-      ],
-      "minecraft:profile": {
-        "properties": [
-          {
-            "name": "textures",
-            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2MTkxMjM0NzQ4NSwKICAicHJvZmlsZUlkIiA6ICJmYzFhOTdlNTgxM2Y0NDI2YTNmZTI4ZjJiNDc1ZjA4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJnZXRPbmxpbmVQbGF5ZXJzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFiOWFkZDQzZTBlNzcwYjdjNGNjZGNmNjcwOGY4YjllODc1ZmYxM2IyYTc1YWI2M2ZmNjlmMmYwZTU3YWY5ZTUiCiAgICB9CiAgfQp9"
-          }
-        ]
-      },
-      "minecraft:tooltip_display": {
-        "hidden_components": [
-          "minecraft:dyed_color"
-        ]
-      }
-    }
-  },
-  {
     "id": "minecraft:diamond_horse_armor",
     "components": {
       "minecraft:custom_data": {
