@@ -19,7 +19,7 @@ const stripColorCodes = (str) => {
     return str.replace(/§[0-9a-fk-or]/g, '');
 };
 
-const parseDropAmountAndChance = (chanceStr, extraLines) => {
+const parseDropAmountAndChance = (mobId, chanceStr, extraLines) => {
     const result = {
         chance: 1.0,
         minAmount: 1,
@@ -38,7 +38,7 @@ const parseDropAmountAndChance = (chanceStr, extraLines) => {
                 result.condition = chanceMatch[2].trim();
             }
         } else {
-            console.warn(`Unknown mob drop chance format: ${cleanStr}`);
+            console.warn(`Unknown mob drop chance format: ${cleanStr}, mob ${mobId}`);
             result.chance = 1;
         }
     }
@@ -92,7 +92,7 @@ export const Mobs = {
 
             (recipe.drops || []).forEach(drop => {
                 const {minAmount, maxAmount, chance, condition, extra} =
-                    parseDropAmountAndChance(drop.chance, drop.extra || []);
+                    parseDropAmountAndChance(item.internalname, drop.chance, drop.extra || []);
 
                 let rawId = drop.id;
                 let inIdAmount = 1;
