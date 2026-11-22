@@ -23632,13 +23632,10 @@
           "text": ""
         },
         {
-          "text": "§7B.I.N.G.O."
+          "text": "§8§oB.I.N.G.O."
         },
         {
           "text": ""
-        },
-        {
-          "text": "§cRequires §9Ⓑ Bingo Rank II§c!"
         },
         {
           "text": "§8Works while in Accessory Bag!"
@@ -23659,7 +23656,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
@@ -23767,13 +23764,10 @@
           "text": ""
         },
         {
-          "text": "§7B.I.N.G.O."
+          "text": "§8§oB.I.N.G.O."
         },
         {
           "text": ""
-        },
-        {
-          "text": "§cRequires §aⒷ Bingo Rank I§c!"
         },
         {
           "text": "§8Works while in Accessory Bag!"

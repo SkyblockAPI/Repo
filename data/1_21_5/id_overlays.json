@@ -3130,6 +3130,14 @@
   {
     "type": "item",
     "id": "BINGO_ARTIFACT",
+    "requirements": [
+      {
+        "level": 3,
+        "rawString": "Bingo Rank III",
+        "type": "unknown",
+        "name": "Bingo Rank"
+      }
+    ],
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Bingo_Artifact"
     }
@@ -3172,6 +3180,14 @@
   {
     "type": "item",
     "id": "BINGO_RELIC",
+    "requirements": [
+      {
+        "level": 4,
+        "rawString": "Bingo Rank IV",
+        "type": "unknown",
+        "name": "Bingo Rank"
+      }
+    ],
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Bingo_Relic"
     }
@@ -3186,6 +3202,14 @@
   {
     "type": "item",
     "id": "BINGO_RING",
+    "requirements": [
+      {
+        "level": 2,
+        "rawString": "Bingo Rank II",
+        "type": "unknown",
+        "name": "Bingo Rank"
+      }
+    ],
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Bingo_Ring"
     }
@@ -3200,6 +3224,14 @@
   {
     "type": "item",
     "id": "BINGO_TALISMAN",
+    "requirements": [
+      {
+        "level": 1,
+        "rawString": "Bingo Rank I",
+        "type": "unknown",
+        "name": "Bingo Rank"
+      }
+    ],
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Bingo_Talisman"
     }

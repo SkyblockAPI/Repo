@@ -92492,8 +92492,8 @@
     "type": "crafting",
     "keys": [
       {
-        "id": "ENCHANTED_RAW_FISH",
-        "count": 16
+        "id": "ENCHANTED_COOKED_FISH",
+        "count": 1
       },
       {
         "id": "ENCHANTED_SPONGE",
