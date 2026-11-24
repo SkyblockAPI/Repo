@@ -20527,8 +20527,8 @@
           "§8Foraging Pet",
           "",
           "§7Strength: §c+{STRENGTH}",
-          "§7Magic Find: §b+{MAGIC_FIND}",
           "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
+          "§7Timber: §4+{TIMBER}%",
           "",
           "§6Forest Power",
           "§7Adds §c{0} Strength §7and §f{1} Speed",
@@ -20566,17 +20566,17 @@
             37.62,
             50
           ],
+          "STRENGTH": [
+            25,
+            100
+          ],
           "FORAGING_FORTUNE": [
             25,
             50
           ],
-          "STRENGTH": [
-            25,
-            50
-          ],
-          "MAGIC_FIND": [
-            5,
-            10
+          "TIMBER": [
+            0,
+            1
           ]
         },
         "item": {
@@ -20600,10 +20600,10 @@
                 "text": "§7Strength: §c+{STRENGTH}"
               },
               {
-                "text": "§7Magic Find: §b+{MAGIC_FIND}"
+                "text": "§7Foraging Fortune: §6+{FORAGING_FORTUNE}"
               },
               {
-                "text": "§7Foraging Fortune: §6+{FORAGING_FORTUNE}"
+                "text": "§7Timber: §4+{TIMBER}%"
               },
               {
                 "text": ""
