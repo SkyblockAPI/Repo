@@ -8870,12 +8870,6 @@
           "text": ""
         },
         {
-          "text": "§4This item is Arachnal !"
-        },
-        {
-          "text": ""
-        },
-        {
           "text": "§eRight-click to equip!"
         },
         {
@@ -8941,12 +8935,6 @@
           "text": ""
         },
         {
-          "text": "§4This item is Arachnal !"
-        },
-        {
-          "text": ""
-        },
-        {
           "text": "§8This item can be reforged!"
         },
         {
@@ -9006,12 +8994,6 @@
           "text": ""
         },
         {
-          "text": "§4This item is Arachnal !"
-        },
-        {
-          "text": ""
-        },
-        {
           "text": "§8This item can be reforged!"
         },
         {
@@ -9065,12 +9047,6 @@
         },
         {
           "text": "§7Grants §c+5 Health §7and §a+5 Defense§7."
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§4This item is Arachnal !"
         },
         {
           "text": ""
@@ -9288,12 +9264,6 @@
           "text": ""
         },
         {
-          "text": "§4This item is Arachnal !"
-        },
-        {
-          "text": ""
-        },
-        {
           "text": "§eRight-click to equip!"
         },
         {
@@ -9353,12 +9323,6 @@
         },
         {
           "text": "§7Grants §c+5 Health §7and §a+5 Defense§7."
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§4This item is Arachnal !"
         },
         {
           "text": ""
@@ -9479,12 +9443,6 @@
           "text": ""
         },
         {
-          "text": "§4This item is Arachnal !"
-        },
-        {
-          "text": ""
-        },
-        {
           "text": "§8This item can be reforged!"
         },
         {
@@ -9538,12 +9496,6 @@
         },
         {
           "text": "§7Grants §c+5 Health §7and §a+5 Defense§7."
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§4This item is Arachnal !"
         },
         {
           "text": ""
@@ -67844,7 +67796,7 @@
           "text": "§6Ability: Dreadlord §e§lRIGHT CLICK"
         },
         {
-          "text": "§7Shoot a skull that deals §a504§7 damage."
+          "text": "§7Shoot a skull that deals §a500§7 damage."
         },
         {
           "text": "§8Mana Cost: §b40"
@@ -87674,7 +87626,7 @@
         "id": "EARTH_SHARD"
       },
       "minecraft:custom_name": {
-        "text": "§5Earthen Blade"
+        "text": "§9Earthen Blade"
       },
       "minecraft:lore": [
         {
@@ -87720,7 +87672,7 @@
           "text": "§4❣ §cRequires Catacombs Skill 19."
         },
         {
-          "text": "§5§lEPIC DUNGEON SWORD"
+          "text": "§9§lRARE DUNGEON SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/uncategorized/earth_shard",
@@ -87741,8 +87693,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      }
     }
   },
   {
@@ -170625,7 +170576,7 @@
       },
       "minecraft:enchantment_glint_override": true,
       "minecraft:custom_name": {
-        "text": "§9Ice Spray Wand"
+        "text": "§6Ice Spray Wand"
       },
       "minecraft:lore": [
         {
@@ -170674,7 +170625,7 @@
           "text": "§4❣ §cRequires Catacombs Skill 20."
         },
         {
-          "text": "§9§lRARE DUNGEON SWORD"
+          "text": "§6§lLEGENDARY DUNGEON SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/island_relevant/winter/weapons/ice_spray_wand",
@@ -170694,7 +170645,7 @@
           "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
     }
   },
   {
@@ -279900,22 +279851,13 @@
           "text": ""
         },
         {
-          "text": "§6Ability: Double Jump"
+          "text": "§6Ability: Double Jump §e§lDOUBLE TAP JUMP"
         },
         {
-          "text": "§7Allows you to double jump by"
-        },
-        {
-          "text": "§7sneaking mid air!"
+          "text": "§7Allows you to double jump mid air!"
         },
         {
           "text": "§8Mana Cost: §b20"
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§4This item is Arachnal !"
         },
         {
           "text": ""
@@ -279937,13 +279879,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -280015,12 +279955,6 @@
           "text": ""
         },
         {
-          "text": "§4This item is Arachnal !"
-        },
-        {
-          "text": ""
-        },
-        {
           "text": "§6Extra Bonus: §aAnti-Toxin"
         },
         {
@@ -280052,13 +279986,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -280194,12 +280126,6 @@
           "text": ""
         },
         {
-          "text": "§4This item is Arachnal !"
-        },
-        {
-          "text": ""
-        },
-        {
           "text": "§6Extra Bonus: §aRadioactive"
         },
         {
@@ -280235,13 +280161,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -280390,12 +280314,6 @@
           "text": ""
         },
         {
-          "text": "§4This item is Arachnal !"
-        },
-        {
-          "text": ""
-        },
-        {
           "text": "§6Extra Bonus: §aBrood"
         },
         {
@@ -280424,13 +280342,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -301565,7 +301481,7 @@
           "text": "§7Grants §f+100 Speed §7for §a30s§7."
         },
         {
-          "text": "§8Mana Cost: §b41"
+          "text": "§8Mana Cost: §b50"
         },
         {
           "text": "§8Cooldown: §a5s"
@@ -301590,17 +301506,18 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:common"
+      }
     }
   },
   {
@@ -317096,7 +317013,7 @@
         "id": "SILENT_DEATH"
       },
       "minecraft:custom_name": {
-        "text": "§9Silent Death"
+        "text": "§5Silent Death"
       },
       "minecraft:lore": [
         {
@@ -317142,7 +317059,7 @@
           "text": "§4❣ §cRequires Catacombs Skill 20."
         },
         {
-          "text": "§9§lRARE DUNGEON SWORD"
+          "text": "§5§lEPIC DUNGEON SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/uncategorized/silent_death",
@@ -317163,8 +317080,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      }
     }
   },
   {
@@ -319734,9 +319650,8 @@
       "minecraft:custom_data": {
         "id": "SKELETON_GRUNT_BOOTS"
       },
-      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
-        "text": "§5Skeleton Grunt Boots"
+        "text": "§9Skeleton Grunt Boots"
       },
       "minecraft:lore": [
         {
@@ -319776,7 +319691,7 @@
           "text": "§4❣ §cRequires Catacombs Skill 1."
         },
         {
-          "text": "§5§lEPIC DUNGEON BOOTS"
+          "text": "§9§lRARE DUNGEON BOOTS"
         }
       ],
       "minecraft:dyed_color": 14805812,
@@ -319784,7 +319699,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:enchantments",
           "minecraft:fireworks",
@@ -319797,8 +319712,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      }
     }
   },
   {
@@ -319807,9 +319721,8 @@
       "minecraft:custom_data": {
         "id": "SKELETON_GRUNT_CHESTPLATE"
       },
-      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
-        "text": "§5Skeleton Grunt Chestplate"
+        "text": "§9Skeleton Grunt Chestplate"
       },
       "minecraft:lore": [
         {
@@ -319849,7 +319762,7 @@
           "text": "§4❣ §cRequires Catacombs Skill 1."
         },
         {
-          "text": "§5§lEPIC DUNGEON CHESTPLATE"
+          "text": "§9§lRARE DUNGEON CHESTPLATE"
         }
       ],
       "minecraft:dyed_color": 14805812,
@@ -319857,7 +319770,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:enchantments",
           "minecraft:fireworks",
@@ -319870,8 +319783,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      }
     }
   },
   {
@@ -319880,9 +319792,8 @@
       "minecraft:custom_data": {
         "id": "SKELETON_GRUNT_HELMET"
       },
-      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
-        "text": "§5Skeleton Grunt Helmet"
+        "text": "§9Skeleton Grunt Helmet"
       },
       "minecraft:lore": [
         {
@@ -319922,7 +319833,7 @@
           "text": "§4❣ §cRequires Catacombs Skill 1."
         },
         {
-          "text": "§5§lEPIC DUNGEON HELMET"
+          "text": "§9§lRARE DUNGEON HELMET"
         }
       ],
       "minecraft:dyed_color": 14805812,
@@ -319930,7 +319841,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:enchantments",
           "minecraft:fireworks",
@@ -319943,8 +319854,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      }
     }
   },
   {
@@ -319953,9 +319863,8 @@
       "minecraft:custom_data": {
         "id": "SKELETON_GRUNT_LEGGINGS"
       },
-      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
-        "text": "§5Skeleton Grunt Leggings"
+        "text": "§9Skeleton Grunt Leggings"
       },
       "minecraft:lore": [
         {
@@ -319995,7 +319904,7 @@
           "text": "§4❣ §cRequires Catacombs Skill 1."
         },
         {
-          "text": "§5§lEPIC DUNGEON LEGGINGS"
+          "text": "§9§lRARE DUNGEON LEGGINGS"
         }
       ],
       "minecraft:dyed_color": 14805812,
@@ -320003,7 +319912,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:enchantments",
           "minecraft:fireworks",
@@ -320016,8 +319925,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      }
     }
   },
   {
@@ -320340,7 +320248,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:enchantments",
           "minecraft:fireworks",
@@ -320353,8 +320261,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      }
     }
   },
   {
@@ -320422,7 +320329,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:enchantments",
           "minecraft:fireworks",
@@ -320435,8 +320342,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      }
     }
   },
   {
@@ -320503,7 +320409,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:enchantments",
           "minecraft:fireworks",
@@ -320516,8 +320422,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      }
     }
   },
   {
@@ -320585,7 +320490,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:enchantments",
           "minecraft:fireworks",
@@ -320598,8 +320503,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      }
     }
   },
   {
@@ -320608,9 +320512,8 @@
       "minecraft:custom_data": {
         "id": "SKELETON_MASTER_BOOTS"
       },
-      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
-        "text": "§5Skeleton Master Boots"
+        "text": "§6Skeleton Master Boots"
       },
       "minecraft:lore": [
         {
@@ -320662,7 +320565,7 @@
           "text": "§4❣ §cRequires Catacombs Skill 12."
         },
         {
-          "text": "§5§lEPIC DUNGEON BOOTS"
+          "text": "§6§lLEGENDARY DUNGEON BOOTS"
         }
       ],
       "minecraft:dyed_color": 16739083,
@@ -320670,7 +320573,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:enchantments",
           "minecraft:fireworks",
@@ -320683,8 +320586,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      }
     }
   },
   {
@@ -320693,9 +320595,8 @@
       "minecraft:custom_data": {
         "id": "SKELETON_MASTER_CHESTPLATE"
       },
-      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
-        "text": "§5Skeleton Master Chestplate"
+        "text": "§6Skeleton Master Chestplate"
       },
       "minecraft:lore": [
         {
@@ -320750,7 +320651,7 @@
           "text": "§4❣ §cRequires Catacombs Skill 12."
         },
         {
-          "text": "§5§lEPIC DUNGEON CHESTPLATE"
+          "text": "§6§lLEGENDARY DUNGEON CHESTPLATE"
         }
       ],
       "minecraft:dyed_color": 16739083,
@@ -320758,7 +320659,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:enchantments",
           "minecraft:fireworks",
@@ -320771,8 +320672,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      }
     }
   },
   {
@@ -320781,9 +320681,8 @@
       "minecraft:custom_data": {
         "id": "SKELETON_MASTER_HELMET"
       },
-      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
-        "text": "§5Skeleton Master Helmet"
+        "text": "§6Skeleton Master Helmet"
       },
       "minecraft:lore": [
         {
@@ -320835,7 +320734,7 @@
           "text": "§4❣ §cRequires Catacombs Skill 12."
         },
         {
-          "text": "§5§lEPIC DUNGEON HELMET"
+          "text": "§6§lLEGENDARY DUNGEON HELMET"
         }
       ],
       "minecraft:dyed_color": 16739083,
@@ -320843,7 +320742,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:enchantments",
           "minecraft:fireworks",
@@ -320856,8 +320755,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      }
     }
   },
   {
@@ -320866,9 +320764,8 @@
       "minecraft:custom_data": {
         "id": "SKELETON_MASTER_LEGGINGS"
       },
-      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
-        "text": "§5Skeleton Master Leggings"
+        "text": "§6Skeleton Master Leggings"
       },
       "minecraft:lore": [
         {
@@ -320920,7 +320817,7 @@
           "text": "§4❣ §cRequires Catacombs Skill 12."
         },
         {
-          "text": "§5§lEPIC DUNGEON LEGGINGS"
+          "text": "§6§lLEGENDARY DUNGEON LEGGINGS"
         }
       ],
       "minecraft:dyed_color": 16739083,
@@ -320928,7 +320825,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:enchantments",
           "minecraft:fireworks",
@@ -320941,8 +320838,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      }
     }
   },
   {
@@ -321016,7 +320912,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:enchantments",
           "minecraft:fireworks",
@@ -321029,27 +320925,17 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      }
     }
   },
   {
     "id": "minecraft:leather_chestplate",
     "components": {
       "minecraft:custom_data": {
-        "baseStatBoostPercentage": 31,
-        "dungeon_skill_req": "CATACOMBS:9",
-        "enchantments": {
-          "growth": 5,
-          "protection": 5,
-          "thorns": 3
-        },
-        "id": "SKELETON_SOLDIER_CHESTPLATE",
-        "item_tier": 4
+        "id": "SKELETON_SOLDIER_CHESTPLATE"
       },
-      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
-        "text": "§5Pure Skeleton Soldier Chestplate"
+        "text": "§5Skeleton Soldier Chestplate"
       },
       "minecraft:lore": [
         {
@@ -321098,6 +320984,9 @@
           "text": ""
         },
         {
+          "text": "§8This item can be reforged!"
+        },
+        {
           "text": "§4❣ §cRequires Catacombs Skill 9."
         },
         {
@@ -321111,17 +321000,18 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
+          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
+          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      }
     }
   },
   {
@@ -321195,7 +321085,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:enchantments",
           "minecraft:fireworks",
@@ -321208,8 +321098,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      }
     }
   },
   {
@@ -321283,7 +321172,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:enchantments",
           "minecraft:fireworks",
@@ -321296,8 +321185,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      }
     }
   },
   {
@@ -321462,9 +321350,8 @@
       "minecraft:custom_data": {
         "id": "SKELETOR_BOOTS"
       },
-      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
-        "text": "§5Skeletor Boots"
+        "text": "§6Skeletor Boots"
       },
       "minecraft:lore": [
         {
@@ -321519,14 +321406,14 @@
           "text": "§4❣ §cRequires Catacombs Skill 15."
         },
         {
-          "text": "§5§lEPIC DUNGEON BOOTS"
+          "text": "§6§lLEGENDARY DUNGEON BOOTS"
         }
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:enchantments",
           "minecraft:fireworks",
@@ -321539,8 +321426,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      }
     }
   },
   {
@@ -321549,9 +321435,8 @@
       "minecraft:custom_data": {
         "id": "SKELETOR_CHESTPLATE"
       },
-      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
-        "text": "§5Skeletor Chestplate"
+        "text": "§6Skeletor Chestplate"
       },
       "minecraft:lore": [
         {
@@ -321618,14 +321503,14 @@
           "text": "§4❣ §cRequires Catacombs Skill 15."
         },
         {
-          "text": "§5§lEPIC DUNGEON CHESTPLATE"
+          "text": "§6§lLEGENDARY DUNGEON CHESTPLATE"
         }
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:enchantments",
           "minecraft:fireworks",
@@ -321638,8 +321523,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      }
     }
   },
   {
@@ -321649,7 +321533,7 @@
         "id": "SKELETOR_HELMET"
       },
       "minecraft:custom_name": {
-        "text": "§5Skeletor Helmet"
+        "text": "§6Skeletor Helmet"
       },
       "minecraft:lore": [
         {
@@ -321704,7 +321588,7 @@
           "text": "§4❣ §cRequires Catacombs Skill 15."
         },
         {
-          "text": "§5§lEPIC DUNGEON HELMET"
+          "text": "§6§lLEGENDARY DUNGEON HELMET"
         }
       ],
       "minecraft:profile": {
@@ -321719,7 +321603,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:enchantments",
           "minecraft:fireworks",
@@ -321732,8 +321616,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      }
     }
   },
   {
@@ -321742,9 +321625,8 @@
       "minecraft:custom_data": {
         "id": "SKELETOR_LEGGINGS"
       },
-      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
-        "text": "§5Skeletor Leggings"
+        "text": "§6Skeletor Leggings"
       },
       "minecraft:lore": [
         {
@@ -321799,14 +321681,14 @@
           "text": "§4❣ §cRequires Catacombs Skill 15."
         },
         {
-          "text": "§5§lEPIC DUNGEON LEGGINGS"
+          "text": "§6§lLEGENDARY DUNGEON LEGGINGS"
         }
       ],
       "minecraft:tooltip_display": {
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:enchantments",
           "minecraft:fireworks",
@@ -321819,8 +321701,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      }
     }
   },
   {
@@ -326718,7 +326599,7 @@
         "id": "SNIPER_BOW"
       },
       "minecraft:custom_name": {
-        "text": "§9Sniper Bow"
+        "text": "§5Sniper Bow"
       },
       "minecraft:lore": [
         {
@@ -326749,7 +326630,7 @@
           "text": "§4❣ §cRequires Catacombs Skill 10."
         },
         {
-          "text": "§9§lRARE DUNGEON BOW"
+          "text": "§5§lEPIC DUNGEON BOW"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/uncategorized/sniper_bow",
@@ -326770,8 +326651,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      }
     }
   },
   {
@@ -326781,7 +326661,7 @@
         "id": "SNIPER_HELMET"
       },
       "minecraft:custom_name": {
-        "text": "§9Sniper Helmet"
+        "text": "§5Sniper Helmet"
       },
       "minecraft:lore": [
         {
@@ -326815,7 +326695,7 @@
           "text": "§4❣ §cRequires Catacombs Skill 8."
         },
         {
-          "text": "§9§lRARE DUNGEON HELMET"
+          "text": "§5§lEPIC DUNGEON HELMET"
         }
       ],
       "minecraft:profile": {
@@ -326830,7 +326710,7 @@
         "hidden_components": [
           "minecraft:attribute_modifiers",
           "minecraft:banner_patterns",
-          "minecraft:block_entity_data",
+          "minecraft:charged_projectiles",
           "minecraft:dyed_color",
           "minecraft:enchantments",
           "minecraft:fireworks",
@@ -326843,8 +326723,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      }
     }
   },
   {
@@ -330886,12 +330765,6 @@
         },
         {
           "text": "§7increased by up to §c10%§7."
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§4This item is Arachnal !"
         },
         {
           "text": ""
@@ -335036,12 +334909,6 @@
           "text": ""
         },
         {
-          "text": "§4This item is Arachnal !"
-        },
-        {
-          "text": ""
-        },
-        {
           "text": "§8This item can be reforged!"
         },
         {
@@ -336158,12 +336025,6 @@
         },
         {
           "text": "§7through enemies."
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§4This item is Arachnal !"
         },
         {
           "text": ""
@@ -344245,7 +344106,7 @@
       },
       "minecraft:enchantment_glint_override": true,
       "minecraft:custom_name": {
-        "text": "§9 Ice Spray Wand"
+        "text": "§6 Ice Spray Wand"
       },
       "minecraft:lore": [
         {
@@ -344270,13 +344131,13 @@
           "text": "§7Produces a cone of ice in front of the caster"
         },
         {
-          "text": "§7that deals §c19,114.1 §7damage to mobs and"
+          "text": "§7that deals §c19,000 §7damage to mobs and freezes"
         },
         {
-          "text": "§7freezes them in place for §e5 §7seconds! Frozen"
+          "text": "§7them in place for §e5 §7seconds! Frozen mobs"
         },
         {
-          "text": "§7mobs take §c10%§7 increased damage!"
+          "text": "§7take §c10%§7 increased damage!"
         },
         {
           "text": "§8Mana Cost: §b50"
@@ -344294,7 +344155,7 @@
           "text": "§4❣ §cRequires Catacombs Skill 20."
         },
         {
-          "text": "§9§lRARE DUNGEON SWORD"
+          "text": "§6§lLEGENDARY DUNGEON SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/island_relevant/winter/weapons/ice_spray_wand",
@@ -344314,7 +344175,7 @@
           "minecraft:written_book_content"
         ]
       },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
     }
   },
   {
@@ -345214,7 +345075,7 @@
           "text": "§7Arrows shot using this bow have an"
         },
         {
-          "text": "§7aura around them that deals §c618"
+          "text": "§7aura around them that deals §c600"
         },
         {
           "text": "§cDamage §7to nearby enemies instead of"
@@ -345224,12 +345085,6 @@
         },
         {
           "text": "§7through enemies."
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§4This item is Arachnal !"
         },
         {
           "text": ""
@@ -345573,16 +345428,10 @@
           "text": "§7apply venom to all enemies hit dealing"
         },
         {
-          "text": "§c2 Damage §7every second for §b3"
+          "text": "§c0 Damage §7every second for §b3"
         },
         {
           "text": "§7seconds."
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§4This item is Arachnal !"
         },
         {
           "text": ""
@@ -357294,12 +357143,6 @@
           "text": ""
         },
         {
-          "text": "§4This item is Arachnal !"
-        },
-        {
-          "text": ""
-        },
-        {
           "text": "§8This item can be reforged!"
         },
         {
@@ -357444,12 +357287,6 @@
           "text": ""
         },
         {
-          "text": "§4This item is Arachnal !"
-        },
-        {
-          "text": ""
-        },
-        {
           "text": "§6Extra Bonus: §aAnti-Toxin"
         },
         {
@@ -357481,13 +357318,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -358454,12 +358289,6 @@
           "text": ""
         },
         {
-          "text": "§4This item is Arachnal !"
-        },
-        {
-          "text": ""
-        },
-        {
           "text": "§6Extra Bonus: §aRadioactive"
         },
         {
@@ -358488,13 +358317,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -358560,12 +358387,6 @@
           "text": ""
         },
         {
-          "text": "§4This item is Arachnal !"
-        },
-        {
-          "text": ""
-        },
-        {
           "text": "§6Extra Bonus: §aBrood"
         },
         {
@@ -358594,13 +358415,11 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
@@ -374829,12 +374648,6 @@
         },
         {
           "text": "§7seconds."
-        },
-        {
-          "text": ""
-        },
-        {
-          "text": "§4This item is Arachnal !"
         },
         {
           "text": ""
@@ -393278,7 +393091,7 @@
         "id": "ZOMBIE_COMMANDER_WHIP"
       },
       "minecraft:custom_name": {
-        "text": "§5Zombie Commander Whip"
+        "text": "§6Zombie Commander Whip"
       },
       "minecraft:lore": [
         {
@@ -393321,7 +393134,7 @@
           "text": "§4❣ §cRequires Catacombs Skill 18."
         },
         {
-          "text": "§5§lEPIC DUNGEON SWORD"
+          "text": "§6§lLEGENDARY DUNGEON SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/uncategorized/zombie_commander_whip",
@@ -393342,8 +393155,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:epic"
+      }
     }
   },
   {
@@ -395451,9 +395263,8 @@
       "minecraft:custom_data": {
         "id": "ZOMBIE_SOLDIER_CUTLASS"
       },
-      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
-        "text": "§9Zombie Soldier Cutlass"
+        "text": "§5Zombie Soldier Cutlass"
       },
       "minecraft:lore": [
         {
@@ -395490,7 +395301,7 @@
           "text": "§4❣ §cRequires Catacombs Skill 5."
         },
         {
-          "text": "§9§lRARE DUNGEON SWORD"
+          "text": "§5§lEPIC DUNGEON SWORD"
         }
       ],
       "minecraft:item_model": "hypixel_skyblock:item/uncategorized/zombie_soldier_cutlass",
@@ -395511,8 +395322,7 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      },
-      "minecraft:tooltip_style": "hypixel_skyblock:rare"
+      }
     }
   },
   {
