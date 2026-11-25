@@ -17899,6 +17899,13 @@
   },
   {
     "type": "item",
+    "id": "FINAL_DESTINATION_ATLAS",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Atlas_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "FINAL_DESTINATION_BOOTS",
     "requirements": [
       {
@@ -23936,6 +23943,13 @@
     ],
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Helix_Chopper"
+    }
+  },
+  {
+    "type": "item",
+    "id": "HELIX_ELVEN",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Elven_Helix_Helmet_Skin"
     }
   },
   {
@@ -35938,6 +35952,13 @@
   },
   {
     "type": "item",
+    "id": "PET_SKIN_EAGLE_PLUSH",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Plush_Eagle_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "PET_SKIN_ELEMENTAL_AIR_SPIRIT",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Elemental_Air_Spirit_Skin"
@@ -37341,6 +37362,13 @@
     "id": "PET_SKIN_SCATHA_LUNAR_SNAKE",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Lunar_Snake_Scatha_Skin"
+    }
+  },
+  {
+    "type": "item",
+    "id": "PET_SKIN_SCATHA_MECHA",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Mecha_Scatha_Skin"
     }
   },
   {

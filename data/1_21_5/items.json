@@ -87625,6 +87625,7 @@
       "minecraft:custom_data": {
         "id": "EARTH_SHARD"
       },
+      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
         "text": "§9Earthen Blade"
       },
@@ -87682,18 +87683,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
     }
   },
   {
@@ -135560,25 +135560,28 @@
           "text": ""
         },
         {
-          "text": "§7Increases the base stats of your"
+          "text": "§7Tracks how many secrets you have"
         },
         {
-          "text": "§7dungeon items by §a1% §7while in §cThe"
-        },
-        {
-          "text": "§cCatacombs §7for each digit on your"
-        },
-        {
-          "text": "§7secret count. §8(Max 5%)"
+          "text": "§7discovered in §cThe Catacombs§7."
         },
         {
           "text": ""
         },
         {
-          "text": "§7Counter: §a0"
+          "text": "§7Grants §a+1% §7to the base stats of"
         },
         {
-          "text": "§7Bonus: §a+0%"
+          "text": "§7your dungeon items per digit on the"
+        },
+        {
+          "text": "§7counter. §8(Max +5%)"
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "§7Counter: §cNone yet!"
         },
         {
           "text": ""
@@ -301506,18 +301509,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:common"
     }
   },
   {
@@ -317012,6 +317014,7 @@
       "minecraft:custom_data": {
         "id": "SILENT_DEATH"
       },
+      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
         "text": "§5Silent Death"
       },
@@ -317069,18 +317072,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
@@ -319650,6 +319652,7 @@
       "minecraft:custom_data": {
         "id": "SKELETON_GRUNT_BOOTS"
       },
+      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
         "text": "§9Skeleton Grunt Boots"
       },
@@ -319701,18 +319704,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
     }
   },
   {
@@ -319721,6 +319723,7 @@
       "minecraft:custom_data": {
         "id": "SKELETON_GRUNT_CHESTPLATE"
       },
+      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
         "text": "§9Skeleton Grunt Chestplate"
       },
@@ -319772,18 +319775,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
     }
   },
   {
@@ -319792,6 +319794,7 @@
       "minecraft:custom_data": {
         "id": "SKELETON_GRUNT_HELMET"
       },
+      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
         "text": "§9Skeleton Grunt Helmet"
       },
@@ -319843,18 +319846,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
     }
   },
   {
@@ -319863,6 +319865,7 @@
       "minecraft:custom_data": {
         "id": "SKELETON_GRUNT_LEGGINGS"
       },
+      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
         "text": "§9Skeleton Grunt Leggings"
       },
@@ -319914,18 +319917,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:rare"
     }
   },
   {
@@ -320261,7 +320263,8 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
@@ -320342,7 +320345,8 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
@@ -320422,7 +320426,8 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
@@ -320503,7 +320508,8 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
@@ -320512,6 +320518,7 @@
       "minecraft:custom_data": {
         "id": "SKELETON_MASTER_BOOTS"
       },
+      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
         "text": "§6Skeleton Master Boots"
       },
@@ -320575,18 +320582,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
     }
   },
   {
@@ -320595,6 +320601,7 @@
       "minecraft:custom_data": {
         "id": "SKELETON_MASTER_CHESTPLATE"
       },
+      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
         "text": "§6Skeleton Master Chestplate"
       },
@@ -320661,18 +320668,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
     }
   },
   {
@@ -320681,6 +320687,7 @@
       "minecraft:custom_data": {
         "id": "SKELETON_MASTER_HELMET"
       },
+      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
         "text": "§6Skeleton Master Helmet"
       },
@@ -320744,18 +320751,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
     }
   },
   {
@@ -320764,6 +320770,7 @@
       "minecraft:custom_data": {
         "id": "SKELETON_MASTER_LEGGINGS"
       },
+      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
         "text": "§6Skeleton Master Leggings"
       },
@@ -320827,18 +320834,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
     }
   },
   {
@@ -320925,7 +320931,8 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
@@ -320934,6 +320941,7 @@
       "minecraft:custom_data": {
         "id": "SKELETON_SOLDIER_CHESTPLATE"
       },
+      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
         "text": "§5Skeleton Soldier Chestplate"
       },
@@ -321000,18 +321008,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
@@ -321098,7 +321105,8 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
@@ -321185,7 +321193,8 @@
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
@@ -321350,6 +321359,7 @@
       "minecraft:custom_data": {
         "id": "SKELETOR_BOOTS"
       },
+      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
         "text": "§6Skeletor Boots"
       },
@@ -321415,18 +321425,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
     }
   },
   {
@@ -321435,6 +321444,7 @@
       "minecraft:custom_data": {
         "id": "SKELETOR_CHESTPLATE"
       },
+      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
         "text": "§6Skeletor Chestplate"
       },
@@ -321512,18 +321522,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
     }
   },
   {
@@ -321605,18 +321614,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
     }
   },
   {
@@ -321625,6 +321633,7 @@
       "minecraft:custom_data": {
         "id": "SKELETOR_LEGGINGS"
       },
+      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
         "text": "§6Skeletor Leggings"
       },
@@ -321690,18 +321699,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
     }
   },
   {
@@ -326598,6 +326606,7 @@
       "minecraft:custom_data": {
         "id": "SNIPER_BOW"
       },
+      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
         "text": "§5Sniper Bow"
       },
@@ -326640,18 +326649,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
@@ -326712,18 +326720,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {
@@ -393090,6 +393097,7 @@
       "minecraft:custom_data": {
         "id": "ZOMBIE_COMMANDER_WHIP"
       },
+      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
         "text": "§6Zombie Commander Whip"
       },
@@ -393144,18 +393152,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:legendary"
     }
   },
   {
@@ -395263,6 +395270,7 @@
       "minecraft:custom_data": {
         "id": "ZOMBIE_SOLDIER_CUTLASS"
       },
+      "minecraft:unbreakable": {},
       "minecraft:custom_name": {
         "text": "§5Zombie Soldier Cutlass"
       },
@@ -395311,18 +395319,17 @@
           "minecraft:banner_patterns",
           "minecraft:charged_projectiles",
           "minecraft:dyed_color",
-          "minecraft:enchantments",
           "minecraft:fireworks",
           "minecraft:jukebox_playable",
           "minecraft:map_id",
           "minecraft:painting/variant",
           "minecraft:potion_contents",
-          "minecraft:stored_enchantments",
           "minecraft:trim",
           "minecraft:unbreakable",
           "minecraft:written_book_content"
         ]
-      }
+      },
+      "minecraft:tooltip_style": "hypixel_skyblock:epic"
     }
   },
   {

@@ -59221,6 +59221,12 @@
             "maxAmount": 4
           },
           {
+            "id": "BOX_OF_JUNK",
+            "chance": 1,
+            "minAmount": 1,
+            "maxAmount": 1
+          },
+          {
             "id": "CONDENSED_WATER_LILY",
             "chance": 0.05,
             "minAmount": 1,
