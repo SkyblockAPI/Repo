@@ -15005,18 +15005,6 @@
           "text": ""
         },
         {
-          "text": "§cThis item can be reclaimed! Use"
-        },
-        {
-          "text": "§e/reclaim §cto take back what's"
-        },
-        {
-          "text": "§crightfully yours!"
-        },
-        {
-          "text": ""
-        },
-        {
           "text": "§8This item can be reforged!"
         },
         {
@@ -231418,6 +231406,9 @@
         },
         {
           "text": ""
+        },
+        {
+          "text": "§8This item can be reforged!"
         },
         {
           "text": "§c§lSPECIAL HELMET"
