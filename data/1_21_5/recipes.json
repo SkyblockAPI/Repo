@@ -11794,6 +11794,34 @@
     "type": "crafting",
     "keys": [
       {
+        "id": "WITHER_CATALYST",
+        "count": 2
+      },
+      {
+        "id": "DEVOURER",
+        "count": 1
+      }
+    ],
+    "pattern": [
+      0,
+      -1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "result": {
+      "id": "CATACOMBS_GOBBLER",
+      "count": 1
+    }
+  },
+  {
+    "type": "crafting",
+    "keys": [
+      {
         "id": "ENDER_STONE",
         "count": 1
       },
