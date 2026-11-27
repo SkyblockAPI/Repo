@@ -40562,6 +40562,13 @@
   },
   {
     "type": "item",
+    "id": "REAPER_MASK_TRIBAL_ORC",
+    "wiki": {
+      "independent": "https://hypixelskyblock.minecraft.wiki/w/Tribal_Orc_Reaper_Mask_Skin"
+    }
+  },
+  {
+    "type": "item",
     "id": "REAPER_ONI_MASK",
     "wiki": {
       "independent": "https://hypixelskyblock.minecraft.wiki/w/Oni_Reaper_Mask_Skin"

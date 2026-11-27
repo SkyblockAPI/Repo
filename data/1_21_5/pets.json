@@ -25410,7 +25410,7 @@
           "§7double logs.",
           "",
           "§6Vine Swing",
-          "§7Grants §f{1}5 Speed §7while in §aThe Park§7.",
+          "§7Grants §f{1} Speed §7while in §aThe Park§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§9§lRARE PET"
@@ -25421,7 +25421,7 @@
             50
           ],
           "1": [
-            0.8,
+            0.75,
             75
           ],
           "INTELLIGENCE": [
@@ -25478,7 +25478,7 @@
                 "text": "§6Vine Swing"
               },
               {
-                "text": "§7Grants §f{1}5 Speed §7while in §aThe Park§7."
+                "text": "§7Grants §f{1} Speed §7while in §aThe Park§7."
               },
               {
                 "text": ""
@@ -25532,7 +25532,7 @@
           "§7double logs.",
           "",
           "§6Vine Swing",
-          "§7Grants §f{1}5 Speed §7while in §aThe Park§7.",
+          "§7Grants §f{1} Speed §7while in §aThe Park§7.",
           "",
           "§8Can be upgraded at Kat in The Hub!",
           "§5§lEPIC PET"
@@ -25600,7 +25600,7 @@
                 "text": "§6Vine Swing"
               },
               {
-                "text": "§7Grants §f{1}5 Speed §7while in §aThe Park§7."
+                "text": "§7Grants §f{1} Speed §7while in §aThe Park§7."
               },
               {
                 "text": ""
