@@ -31627,7 +31627,7 @@
           "§7Speed: §f+{SPEED}",
           "",
           "§6Orbs are Fun",
-          "§7Gain §a+10% §7experience from §bXP Orbs§7.",
+          "§7Earn §a+10% XP Orbs §7from all sources.",
           "",
           "§8§l* §8Soulbound §8§l*",
           "§5§kX§5 Rift-Transferable §5§kX",
@@ -31673,7 +31673,7 @@
                 "text": "§6Orbs are Fun"
               },
               {
-                "text": "§7Gain §a+10% §7experience from §bXP Orbs§7."
+                "text": "§7Earn §a+10% XP Orbs §7from all sources."
               },
               {
                 "text": ""
@@ -31700,7 +31700,6 @@
               "hidden_components": [
                 "minecraft:attribute_modifiers",
                 "minecraft:banner_patterns",
-                "minecraft:block_entity_data",
                 "minecraft:charged_projectiles",
                 "minecraft:dyed_color",
                 "minecraft:fireworks",

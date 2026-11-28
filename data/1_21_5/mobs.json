@@ -24191,11 +24191,11 @@
   "GUY_NPC": {
     "island": "hub",
     "position": {
-      "x": 51,
-      "y": 78,
-      "z": 20
+      "x": 68,
+      "y": 75,
+      "z": 14
     },
-    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTllMjNiZTdmMDQ1NTZmYTMzMzUxYTRjNzcxYTNmMDVmNGE2ZDI3ZGU0MTNhMzZkMDIzMGM2MWY3MTY5ODc5OSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJlNmRkMjIxNWQ2ZjAyNmY1Yjg4ZWMwYmM0MTE0NjU3ZCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgxNjYzNTE0MjEwfQ==",
+    "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTllMjNiZTdmMDQ1NTZmYTMzMzUxYTRjNzcxYTNmMDVmNGE2ZDI3ZGU0MTNhMzZkMDIzMGM2MWY3MTY5ODc5OSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIzYTZlZDdjNzY0ZjMyMWVlYWQ0M2VkODA1MmEzNGZmMiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzk1ODMyMjQxMjQxfQ==",
     "itemId": "minecraft:player_head",
     "item": {
       "id": "minecraft:player_head",
@@ -24208,14 +24208,14 @@
         },
         "minecraft:lore": [
           {
-            "text": ""
+            "text": "§7Too busy working for a §dbigger client§7..."
           }
         ],
         "minecraft:profile": {
           "properties": [
             {
               "name": "textures",
-              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTllMjNiZTdmMDQ1NTZmYTMzMzUxYTRjNzcxYTNmMDVmNGE2ZDI3ZGU0MTNhMzZkMDIzMGM2MWY3MTY5ODc5OSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJlNmRkMjIxNWQ2ZjAyNmY1Yjg4ZWMwYmM0MTE0NjU3ZCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgxNjYzNTE0MjEwfQ=="
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTllMjNiZTdmMDQ1NTZmYTMzMzUxYTRjNzcxYTNmMDVmNGE2ZDI3ZGU0MTNhMzZkMDIzMGM2MWY3MTY5ODc5OSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIzYTZlZDdjNzY0ZjMyMWVlYWQ0M2VkODA1MmEzNGZmMiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzk1ODMyMjQxMjQxfQ=="
             }
           ]
         }
